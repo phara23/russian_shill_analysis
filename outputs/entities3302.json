@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.824830174446106,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8125848770141602,
+            "Type": "PERSON",
+            "Text": "@UrbanIntellects",
+            "BeginOffset": 14,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9698790311813354,
+            "Type": "OTHER",
+            "Text": "https://t.co/1j",
+            "BeginOffset": 124,
+            "EndOffset": 139
+        }
+    ]
+}

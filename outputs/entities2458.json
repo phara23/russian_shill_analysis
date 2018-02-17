@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7456823587417603,
+            "Type": "PERSON",
+            "Text": "@PragmaticBent",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8479704856872559,
+            "Type": "PERSON",
+            "Text": "@TLCPrincess",
+            "BeginOffset": 105,
+            "EndOffset": 117
+        },
+        {
+            "Score": 0.9800188541412354,
+            "Type": "PERSON",
+            "Text": "@TheRealJmar",
+            "BeginOffset": 118,
+            "EndOffset": 130
+        },
+        {
+            "Score": 0.9252753257751465,
+            "Type": "PERSON",
+            "Text": "@iCanHas",
+            "BeginOffset": 131,
+            "EndOffset": 139
+        }
+    ]
+}

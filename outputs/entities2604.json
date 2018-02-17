@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8579648733139038,
+            "Type": "PERSON",
+            "Text": "@RNRMissouri",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.4165372848510742,
+            "Type": "ORGANIZATION",
+            "Text": "#Israel",
+            "BeginOffset": 27,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9639195203781128,
+            "Type": "DATE",
+            "Text": "1948",
+            "BeginOffset": 58,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.6639145612716675,
+            "Type": "LOCATION",
+            "Text": "Israel",
+            "BeginOffset": 64,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9916167855262756,
+            "Type": "DATE",
+            "Text": "1948",
+            "BeginOffset": 93,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.9999833106994629,
+            "Type": "OTHER",
+            "Text": "https://t.co/iJXv8Ro10F",
+            "BeginOffset": 116,
+            "EndOffset": 139
+        }
+    ]
+}

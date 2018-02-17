@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9598563313484192,
+            "Type": "PERSON",
+            "Text": "@Jason_Alabama",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9999423027038574,
+            "Type": "OTHER",
+            "Text": "https://t.co/Q7NWLaGb5A",
+            "BeginOffset": 81,
+            "EndOffset": 104
+        }
+    ]
+}

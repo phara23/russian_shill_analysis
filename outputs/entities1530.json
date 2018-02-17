@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8136826753616333,
+            "Type": "PERSON",
+            "Text": "@flatwalk",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.6923846006393433,
+            "Type": "DATE",
+            "Text": "this day",
+            "BeginOffset": 20,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9963012933731079,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 35,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.99994957447052,
+            "Type": "OTHER",
+            "Text": "https://t.co/xj0A7yS4I9",
+            "BeginOffset": 66,
+            "EndOffset": 89
+        }
+    ]
+}

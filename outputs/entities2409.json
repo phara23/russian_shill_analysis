@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.17753766477108002,
+            "Type": "ORGANIZATION",
+            "Text": "Potsdamer",
+            "BeginOffset": 0,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9202262163162231,
+            "Type": "PERSON",
+            "Text": "Andreas Bourani",
+            "BeginOffset": 27,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9816877245903015,
+            "Type": "OTHER",
+            "Text": "https://t.co/1pbcCG8GWk",
+            "BeginOffset": 74,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.927024781703949,
+            "Type": "ORGANIZATION",
+            "Text": "@maz_online",
+            "BeginOffset": 102,
+            "EndOffset": 113
+        }
+    ]
+}

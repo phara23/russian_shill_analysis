@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7709473371505737,
+            "Type": "TITLE",
+            "Text": "Halo 5",
+            "BeginOffset": 5,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9797911047935486,
+            "Type": "OTHER",
+            "Text": "https://t.co/R6XLFxeCVN",
+            "BeginOffset": 46,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.6041829586029053,
+            "Type": "ORGANIZATION",
+            "Text": "@3tags",
+            "BeginOffset": 75,
+            "EndOffset": 81
+        }
+    ]
+}

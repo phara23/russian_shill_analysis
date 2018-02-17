@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8357576131820679,
+            "Type": "PERSON",
+            "Text": "@SquidsLighters",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.995053231716156,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 20,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9476035237312317,
+            "Type": "OTHER",
+            "Text": "https://t.co/zxTyItwUL9",
+            "BeginOffset": 74,
+            "EndOffset": 97
+        }
+    ]
+}

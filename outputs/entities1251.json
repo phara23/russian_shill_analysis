@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.904838502407074,
+            "Type": "PERSON",
+            "Text": "@nia4_trump",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9057486653327942,
+            "Type": "PERSON",
+            "Text": "@megynkelly",
+            "BeginOffset": 22,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9327487945556641,
+            "Type": "ORGANIZATION",
+            "Text": "@CNN",
+            "BeginOffset": 59,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.8582894206047058,
+            "Type": "PERSON",
+            "Text": "@AlisynCamerota",
+            "BeginOffset": 74,
+            "EndOffset": 89
+        }
+    ]
+}

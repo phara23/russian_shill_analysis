@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8901883363723755,
+            "Type": "PERSON",
+            "Text": "@RuthHHopkins",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9988833069801331,
+            "Type": "PERSON",
+            "Text": "Bernie Sanders",
+            "BeginOffset": 18,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9846524596214294,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 43,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9785397052764893,
+            "Type": "DATE",
+            "Text": "today",
+            "BeginOffset": 49,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.6406970620155334,
+            "Type": "ORGANIZATION",
+            "Text": "Standing Rock",
+            "BeginOffset": 103,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.854411780834198,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

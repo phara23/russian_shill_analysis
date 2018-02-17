@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9657811522483826,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9758456945419312,
+            "Type": "LOCATION",
+            "Text": "Manheim, Pennsylvania",
+            "BeginOffset": 32,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.7149407863616943,
+            "Type": "DATE",
+            "Text": "Saturday",
+            "BeginOffset": 57,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9918624758720398,
+            "Type": "DATE",
+            "Text": "3pm",
+            "BeginOffset": 69,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.4952268600463867,
+            "Type": "ORGANIZATION",
+            "Text": "#MAGA",
+            "BeginOffset": 74,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.9999752044677734,
+            "Type": "OTHER",
+            "Text": "https://t.co/ADOGW2MBC7",
+            "BeginOffset": 89,
+            "EndOffset": 112
+        }
+    ]
+}

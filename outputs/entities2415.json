@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9491611123085022,
+            "Type": "PERSON",
+            "Text": "Melania Trump",
+            "BeginOffset": 11,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9771391749382019,
+            "Type": "OTHER",
+            "Text": "https://t.co/ACY82LAML5",
+            "BeginOffset": 63,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9673123359680176,
+            "Type": "OTHER",
+            "Text": "https://t.co/XDBaPnHm6c",
+            "BeginOffset": 89,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.9995601773262024,
+            "Type": "OTHER",
+            "Text": "https://t.co/oEOrJAcvmZ",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        }
+    ]
+}

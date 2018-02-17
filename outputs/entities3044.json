@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8906927108764648,
+            "Type": "PERSON",
+            "Text": "@MartinUMueller",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8642115592956543,
+            "Type": "ORGANIZATION",
+            "Text": "Deutsche",
+            "BeginOffset": 20,
+            "EndOffset": 28
+        }
+    ]
+}

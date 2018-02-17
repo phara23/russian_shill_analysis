@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9149592518806458,
+            "Type": "PERSON",
+            "Text": "@hebelowski",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7778967022895813,
+            "Type": "PERSON",
+            "Text": "Russischer Kriegsgefangener",
+            "BeginOffset": 16,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.7812241911888123,
+            "Type": "PERSON",
+            "Text": "Osten der",
+            "BeginOffset": 47,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.7262971997261047,
+            "Type": "PERSON",
+            "Text": "Der Soldat",
+            "BeginOffset": 67,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9999912977218628,
+            "Type": "OTHER",
+            "Text": "https://t.co/2mCCzx1IL0",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        }
+    ]
+}

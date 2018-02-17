@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6894040703773499,
+            "Type": "PERSON",
+            "Text": "@TheRoot",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9997835755348206,
+            "Type": "PERSON",
+            "Text": "Mark Zuckerberg",
+            "BeginOffset": 21,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9308862090110779,
+            "Type": "QUANTITY",
+            "Text": "1%",
+            "BeginOffset": 48,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.5252863764762878,
+            "Type": "ORGANIZATION",
+            "Text": "HBCU",
+            "BeginOffset": 97,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.9999721050262451,
+            "Type": "OTHER",
+            "Text": "https://t.co/mBCG24fDrw",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        }
+    ]
+}

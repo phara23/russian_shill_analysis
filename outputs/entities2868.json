@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.682085394859314,
+            "Type": "PERSON",
+            "Text": "@BadIdeasVs",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7460566759109497,
+            "Type": "PERSON",
+            "Text": "@BadIdeasVs",
+            "BeginOffset": 16,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9356290698051453,
+            "Type": "PERSON",
+            "Text": "@TarekFatah",
+            "BeginOffset": 28,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.6830362677574158,
+            "Type": "LOCATION",
+            "Text": "DC",
+            "BeginOffset": 52,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.7369630932807922,
+            "Type": "ORGANIZATION",
+            "Text": "Wikileaks",
+            "BeginOffset": 61,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.952164888381958,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 71,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9998549222946167,
+            "Type": "OTHER",
+            "Text": "https://t.co/uIvm8ZOWQL",
+            "BeginOffset": 83,
+            "EndOffset": 106
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7606674432754517,
+            "Type": "PERSON",
+            "Text": "@gatewaypundit",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9837675094604492,
+            "Type": "PERSON",
+            "Text": "DONALD TRUMP",
+            "BeginOffset": 33,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.508635938167572,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 58,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9829564094543457,
+            "Type": "OTHER",
+            "Text": "https://t.co/gkUJzjyCaG",
+            "BeginOffset": 71,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.9362552165985107,
+            "Type": "ORGANIZATION",
+            "Text": "@gatewaypundit",
+            "BeginOffset": 99,
+            "EndOffset": 113
+        }
+    ]
+}

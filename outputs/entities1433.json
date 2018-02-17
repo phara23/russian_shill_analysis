@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.888156533241272,
+            "Type": "PERSON",
+            "Text": "@walshpj",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9624108076095581,
+            "Type": "LOCATION",
+            "Text": "north Minneapolis",
+            "BeginOffset": 41,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9744461178779602,
+            "Type": "OTHER",
+            "Text": "https://t.co",
+            "BeginOffset": 127,
+            "EndOffset": 139
+        }
+    ]
+}

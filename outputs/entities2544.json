@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5369715690612793,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.948111355304718,
+            "Type": "PERSON",
+            "Text": "@Aaron_Maybin",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9362644553184509,
+            "Type": "DATE",
+            "Text": "9 a.m.",
+            "BeginOffset": 41,
+            "EndOffset": 47
+        }
+    ]
+}

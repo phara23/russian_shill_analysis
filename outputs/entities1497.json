@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7710808515548706,
+            "Type": "PERSON",
+            "Text": "@DrottM",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9589742422103882,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 12,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.956271767616272,
+            "Type": "PERSON",
+            "Text": "@Reince",
+            "BeginOffset": 30,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9894084334373474,
+            "Type": "PERSON",
+            "Text": "@KellyannePolls",
+            "BeginOffset": 39,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.7977465987205505,
+            "Type": "PERSON",
+            "Text": "@TGowdySC",
+            "BeginOffset": 85,
+            "EndOffset": 94
+        }
+    ]
+}

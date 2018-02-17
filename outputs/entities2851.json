@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9228235483169556,
+            "Type": "PERSON",
+            "Text": "@jpodhoretz",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9253984093666077,
+            "Type": "QUANTITY",
+            "Text": "8 year",
+            "BeginOffset": 99,
+            "EndOffset": 105
+        }
+    ]
+}

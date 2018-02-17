@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9570000767707825,
+            "Type": "PERSON",
+            "Text": "@debbyrne52",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.979526698589325,
+            "Type": "PERSON",
+            "Text": "Paul Ryan",
+            "BeginOffset": 21,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9544686675071716,
+            "Type": "PERSON",
+            "Text": "@SpeakerRyan",
+            "BeginOffset": 31,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.7591160535812378,
+            "Type": "QUANTITY",
+            "Text": "first",
+            "BeginOffset": 85,
+            "EndOffset": 90
+        }
+    ]
+}

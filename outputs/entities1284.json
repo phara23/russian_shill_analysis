@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8845709562301636,
+            "Type": "PERSON",
+            "Text": "@AmyMek",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9951741099357605,
+            "Type": "LOCATION",
+            "Text": "Canada",
+            "BeginOffset": 25,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.8484077453613281,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 46,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.8336385488510132,
+            "Type": "ORGANIZATION",
+            "Text": "U.S. Consulate",
+            "BeginOffset": 74,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.5318516492843628,
+            "Type": "ORGANIZATION",
+            "Text": "Muslim",
+            "BeginOffset": 91,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.6897807717323303,
+            "Type": "QUANTITY",
+            "Text": "4 the conquest",
+            "BeginOffset": 114,
+            "EndOffset": 128
+        },
+        {
+            "Score": 0.9874507188796997,
+            "Type": "LOCATION",
+            "Text": "Canada",
+            "BeginOffset": 132,
+            "EndOffset": 138
+        }
+    ]
+}

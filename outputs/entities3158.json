@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8194478750228882,
+            "Type": "PERSON",
+            "Text": "@TrumpNewss",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8850492238998413,
+            "Type": "PERSON",
+            "Text": "Clinton Camp",
+            "BeginOffset": 23,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9483156800270081,
+            "Type": "OTHER",
+            "Text": "https://t.co/yNYgwndDAe",
+            "BeginOffset": 85,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.9999358654022217,
+            "Type": "OTHER",
+            "Text": "https://t.co/4CGFPrSIDj",
+            "BeginOffset": 109,
+            "EndOffset": 132
+        }
+    ]
+}

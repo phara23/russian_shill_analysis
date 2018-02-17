@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5213858485221863,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.82835853099823,
+            "Type": "ORGANIZATION",
+            "Text": "@Chelsea_HQ",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.99709153175354,
+            "Type": "PERSON",
+            "Text": "Paul Clement",
+            "BeginOffset": 16,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.99795001745224,
+            "Type": "PERSON",
+            "Text": "Juan Mata",
+            "BeginOffset": 30,
+            "EndOffset": 39
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5513765811920166,
+            "Type": "PERSON",
+            "Text": "@5",
+            "BeginOffset": 23,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.5026223063468933,
+            "Type": "LOCATION",
+            "Text": "Brussels",
+            "BeginOffset": 62,
+            "EndOffset": 70
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4464185833930969,
+            "Type": "ORGANIZATION",
+            "Text": "#IslamKills",
+            "BeginOffset": 0,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.5560243129730225,
+            "Type": "LOCATION",
+            "Text": "#America",
+            "BeginOffset": 33,
+            "EndOffset": 41
+        }
+    ]
+}

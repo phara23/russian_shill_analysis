@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.49672451615333557,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.9007057547569275,
+            "Type": "PERSON",
+            "Text": "@ORIG_Ben_Feller",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.7614521384239197,
+            "Type": "PERSON",
+            "Text": "@DocThompsonShow",
+            "BeginOffset": 21,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9995903968811035,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 74,
+            "EndOffset": 86
+        }
+    ]
+}

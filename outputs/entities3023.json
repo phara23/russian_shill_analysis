@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.818444013595581,
+            "Type": "PERSON",
+            "Text": "@ZaibatsuNews",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9954102635383606,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 18,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.6057122349739075,
+            "Type": "LOCATION",
+            "Text": "Texas",
+            "BeginOffset": 38,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9998804330825806,
+            "Type": "PERSON",
+            "Text": "Rick Perry",
+            "BeginOffset": 49,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.8697124719619751,
+            "Type": "ORGANIZATION",
+            "Text": "CBS",
+            "BeginOffset": 85,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.8815269470214844,
+            "Type": "OTHER",
+            "Text": "https://t.co/Z5ND6exhNc",
+            "BeginOffset": 89,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.8233855962753296,
+            "Type": "ORGANIZATION",
+            "Text": "#p2 #ctl",
+            "BeginOffset": 113,
+            "EndOffset": 121
+        },
+        {
+            "Score": 0.9651910662651062,
+            "Type": "OTHER",
+            "Text": "https://t.co/E929",
+            "BeginOffset": 122,
+            "EndOffset": 139
+        }
+    ]
+}

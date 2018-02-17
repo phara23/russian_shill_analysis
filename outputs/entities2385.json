@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9300167560577393,
+            "Type": "PERSON",
+            "Text": "@tammytabby",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9320002794265747,
+            "Type": "QUANTITY",
+            "Text": "Hundreds of thousands",
+            "BeginOffset": 16,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9775236248970032,
+            "Type": "LOCATION",
+            "Text": "Germany",
+            "BeginOffset": 57,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9798881411552429,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 73,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.8211076259613037,
+            "Type": "OTHER",
+            "Text": "https://t.co/3dNtzbh2nm",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.9924628734588623,
+            "Type": "OTHER",
+            "Text": "https://t.co/eZX1I",
+            "BeginOffset": 121,
+            "EndOffset": 139
+        }
+    ]
+}

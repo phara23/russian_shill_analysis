@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9194547533988953,
+            "Type": "ORGANIZATION",
+            "Text": "Muslim",
+            "BeginOffset": 0,
+            "EndOffset": 6
+        },
+        {
+            "Score": 0.9684515595436096,
+            "Type": "LOCATION",
+            "Text": "Los Angeles",
+            "BeginOffset": 16,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.946222186088562,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 63,
+            "EndOffset": 70
+        }
+    ]
+}

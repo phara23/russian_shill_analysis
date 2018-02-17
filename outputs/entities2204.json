@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9561256766319275,
+            "Type": "PERSON",
+            "Text": "@sokeijarhead",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8756815195083618,
+            "Type": "PERSON",
+            "Text": "Krauthammer",
+            "BeginOffset": 18,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.997501790523529,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 31,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.46356528997421265,
+            "Type": "ORGANIZATION",
+            "Text": "Islamic",
+            "BeginOffset": 50,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9998875856399536,
+            "Type": "OTHER",
+            "Text": "https://t.co/pm8XjFjioC",
+            "BeginOffset": 79,
+            "EndOffset": 102
+        }
+    ]
+}

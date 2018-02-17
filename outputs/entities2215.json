@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.900223433971405,
+            "Type": "PERSON",
+            "Text": "@YaBoyColeJones",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9666804075241089,
+            "Type": "ORGANIZATION",
+            "Text": "CIA",
+            "BeginOffset": 20,
+            "EndOffset": 23
+        }
+    ]
+}

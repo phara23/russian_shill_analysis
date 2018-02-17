@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.824820339679718,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.7649515271186829,
+            "Type": "PERSON",
+            "Text": "@DailyGist_Net",
+            "BeginOffset": 14,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9994974136352539,
+            "Type": "PERSON",
+            "Text": "Kendall Jenner",
+            "BeginOffset": 30,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.4662323296070099,
+            "Type": "ORGANIZATION",
+            "Text": "Pepsi",
+            "BeginOffset": 61,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9999313354492188,
+            "Type": "OTHER",
+            "Text": "https://t.co/p0Nf4Myccg",
+            "BeginOffset": 74,
+            "EndOffset": 97
+        }
+    ]
+}

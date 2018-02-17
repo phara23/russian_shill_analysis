@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9674718976020813,
+            "Type": "PERSON",
+            "Text": "@JoyAnnReid",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9919657707214355,
+            "Type": "PERSON",
+            "Text": "Bush",
+            "BeginOffset": 16,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.9971399307250977,
+            "Type": "PERSON",
+            "Text": "Gore",
+            "BeginOffset": 26,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.6703251004219055,
+            "Type": "PERSON",
+            "Text": "Bush",
+            "BeginOffset": 102,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.9915691018104553,
+            "Type": "PERSON",
+            "Text": "Gore",
+            "BeginOffset": 110,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.9998797178268433,
+            "Type": "OTHER",
+            "Text": "https://t.co/KF7lEoNhIb",
+            "BeginOffset": 116,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9081100821495056,
+            "Type": "PERSON",
+            "Text": "@amjoyshow",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9248577952384949,
+            "Type": "LOCATION",
+            "Text": "USA",
+            "BeginOffset": 32,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9948404431343079,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 50,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.975764811038971,
+            "Type": "OTHER",
+            "Text": "https://t.co/uvGcH8OyqK",
+            "BeginOffset": 83,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.8169416189193726,
+            "Type": "ORGANIZATION",
+            "Text": "@blackvoices",
+            "BeginOffset": 111,
+            "EndOffset": 123
+        }
+    ]
+}

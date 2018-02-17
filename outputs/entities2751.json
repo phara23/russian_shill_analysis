@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6547959446907043,
+            "Type": "ORGANIZATION",
+            "Text": "@StopMassIncNet",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7139044404029846,
+            "Type": "ORGANIZATION",
+            "Text": "#RNC",
+            "BeginOffset": 43,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.8862817287445068,
+            "Type": "OTHER",
+            "Text": "https://t.co/0ezGBabOxS",
+            "BeginOffset": 109,
+            "EndOffset": 132
+        }
+    ]
+}

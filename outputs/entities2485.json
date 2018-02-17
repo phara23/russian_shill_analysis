@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9337425827980042,
+            "Type": "PERSON",
+            "Text": "@lisamurkowski",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.3709299564361572,
+            "Type": "LOCATION",
+            "Text": "Alaskans",
+            "BeginOffset": 65,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.9971391558647156,
+            "Type": "PERSON",
+            "Text": "Betsy DeVos",
+            "BeginOffset": 95,
+            "EndOffset": 106
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6889195442199707,
+            "Type": "PERSON",
+            "Text": "@StatesPoll",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.843105137348175,
+            "Type": "LOCATION",
+            "Text": "Clark County",
+            "BeginOffset": 16,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9697641134262085,
+            "Type": "PERSON",
+            "Text": "TRUMP",
+            "BeginOffset": 33,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9463980793952942,
+            "Type": "PERSON",
+            "Text": "Hillary \nAge",
+            "BeginOffset": 42,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9769732356071472,
+            "Type": "OTHER",
+            "Text": "https://t.co/Tpj1EG4qRg",
+            "BeginOffset": 93,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.472912073135376,
+            "Type": "ORGANIZATION",
+            "Text": "#MAGA",
+            "BeginOffset": 117,
+            "EndOffset": 122
+        }
+    ]
+}

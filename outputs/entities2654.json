@@ -1,0 +1,67 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8531638979911804,
+            "Type": "PERSON",
+            "Text": "@zyooh",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.8767257928848267,
+            "Type": "PERSON",
+            "Text": "@MsCarmen_PVPR",
+            "BeginOffset": 26,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9363471269607544,
+            "Type": "PERSON",
+            "Text": "@PlatinumVoicePR",
+            "BeginOffset": 41,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9490329027175903,
+            "Type": "PERSON",
+            "Text": "@therealfnitti",
+            "BeginOffset": 58,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.8210632801055908,
+            "Type": "PERSON",
+            "Text": "@BBELOUDPACKTEAM",
+            "BeginOffset": 73,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.9478021860122681,
+            "Type": "PERSON",
+            "Text": "@platinumhiphop",
+            "BeginOffset": 90,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.9574147462844849,
+            "Type": "PERSON",
+            "Text": "@BeastyBizness",
+            "BeginOffset": 107,
+            "EndOffset": 121
+        },
+        {
+            "Score": 0.9089094996452332,
+            "Type": "PERSON",
+            "Text": "@KingBONE_",
+            "BeginOffset": 122,
+            "EndOffset": 132
+        },
+        {
+            "Score": 0.9654940366744995,
+            "Type": "PERSON",
+            "Text": "@Young",
+            "BeginOffset": 133,
+            "EndOffset": 139
+        }
+    ]
+}

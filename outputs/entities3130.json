@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9195208549499512,
+            "Type": "PERSON",
+            "Text": "@disciple78",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7377968430519104,
+            "Type": "QUANTITY",
+            "Text": "16",
+            "BeginOffset": 133,
+            "EndOffset": 135
+        },
+        {
+            "Score": 0.9898151159286499,
+            "Type": "QUANTITY",
+            "Text": "200",
+            "BeginOffset": 136,
+            "EndOffset": 139
+        }
+    ]
+}

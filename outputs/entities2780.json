@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9346529245376587,
+            "Type": "PERSON",
+            "Text": "Giuliani",
+            "BeginOffset": 0,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.46582064032554626,
+            "Type": "TITLE",
+            "Text": "Oscar",
+            "BeginOffset": 29,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.6680481433868408,
+            "Type": "TITLE",
+            "Text": "#Election2016",
+            "BeginOffset": 64,
+            "EndOffset": 77
+        }
+    ]
+}

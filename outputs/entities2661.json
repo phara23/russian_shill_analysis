@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.976995587348938,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 7,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.8555709719657898,
+            "Type": "LOCATION",
+            "Text": "Phoenix",
+            "BeginOffset": 51,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9999909400939941,
+            "Type": "OTHER",
+            "Text": "https://t.co/NY8AKqi7Bx",
+            "BeginOffset": 73,
+            "EndOffset": 96
+        }
+    ]
+}

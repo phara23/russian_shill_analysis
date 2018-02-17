@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9755344986915588,
+            "Type": "PERSON",
+            "Text": "@phil200269",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9279459118843079,
+            "Type": "ORGANIZATION",
+            "Text": "Democrats",
+            "BeginOffset": 31,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9311896562576294,
+            "Type": "PERSON",
+            "Text": "Bernie",
+            "BeginOffset": 63,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.979272723197937,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 126,
+            "EndOffset": 130
+        }
+    ]
+}

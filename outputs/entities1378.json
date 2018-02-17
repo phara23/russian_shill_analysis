@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8826801776885986,
+            "Type": "PERSON",
+            "Text": "@JoeSmithSDK",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.870394766330719,
+            "Type": "PERSON",
+            "Text": "@350action",
+            "BeginOffset": 17,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.7441722750663757,
+            "Type": "PERSON",
+            "Text": "@POTUS",
+            "BeginOffset": 28,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.8848246932029724,
+            "Type": "TITLE",
+            "Text": "TPP",
+            "BeginOffset": 83,
+            "EndOffset": 86
+        }
+    ]
+}

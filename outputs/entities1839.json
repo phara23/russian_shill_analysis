@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9959837198257446,
+            "Type": "PERSON",
+            "Text": "Cole Beasley",
+            "BeginOffset": 2,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9925157427787781,
+            "Type": "DATE",
+            "Text": "yesterday",
+            "BeginOffset": 27,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9998890161514282,
+            "Type": "OTHER",
+            "Text": "https://t.co/6ziqlBr14B",
+            "BeginOffset": 59,
+            "EndOffset": 82
+        }
+    ]
+}

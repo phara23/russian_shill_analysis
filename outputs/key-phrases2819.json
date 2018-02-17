@@ -1,0 +1,28 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9428620338439941,
+            "Text": "Hamilton",
+            "BeginOffset": 10,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.999207615852356,
+            "Text": "some tickets",
+            "BeginOffset": 27,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.906842052936554,
+            "Text": "Broadway",
+            "BeginOffset": 67,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.9920095801353455,
+            "Text": "a lot",
+            "BeginOffset": 79,
+            "EndOffset": 84
+        }
+    ]
+}

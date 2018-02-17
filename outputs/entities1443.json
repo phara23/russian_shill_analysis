@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6954841017723083,
+            "Type": "ORGANIZATION",
+            "Text": "@SFGate",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9275604486465454,
+            "Type": "OTHER",
+            "Text": "https://t.co/cmjMxJKP55",
+            "BeginOffset": 66,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.9999902248382568,
+            "Type": "OTHER",
+            "Text": "https://t.co/WQ6UI16T1E",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        }
+    ]
+}

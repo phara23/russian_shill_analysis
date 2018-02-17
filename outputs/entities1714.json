@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9530291557312012,
+            "Type": "PERSON",
+            "Text": "@Crane_Maiden",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.999086856842041,
+            "Type": "PERSON",
+            "Text": "Barack Obama",
+            "BeginOffset": 18,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.5107224583625793,
+            "Type": "OTHER",
+            "Text": "Greek",
+            "BeginOffset": 41,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.980747640132904,
+            "Type": "LOCATION",
+            "Text": "Athens",
+            "BeginOffset": 65,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9917535781860352,
+            "Type": "PERSON",
+            "Text": "Alexis Tsipras",
+            "BeginOffset": 80,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.9555460810661316,
+            "Type": "ORGANIZATION",
+            "Text": "Daily Express",
+            "BeginOffset": 112,
+            "EndOffset": 125
+        },
+        {
+            "Score": 0.9151372313499451,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9219954609870911,
+            "Type": "PERSON",
+            "Text": "@NahBabyNah",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9973514080047607,
+            "Type": "PERSON",
+            "Text": "Andrew",
+            "BeginOffset": 60,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.5279078483581543,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 129,
+            "EndOffset": 138
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9931569695472717,
+            "Type": "PERSON",
+            "Text": "@JYoung3804",
+            "BeginOffset": 0,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.6205632090568542,
+            "Type": "QUANTITY",
+            "Text": "80 IQ fascist heads",
+            "BeginOffset": 30,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9316772222518921,
+            "Type": "PERSON",
+            "Text": "@MarshallFarts5",
+            "BeginOffset": 66,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.9232969880104065,
+            "Type": "PERSON",
+            "Text": "@ZaffodB",
+            "BeginOffset": 82,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9962725043296814,
+            "Type": "PERSON",
+            "Text": "@gamblor5555",
+            "BeginOffset": 91,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.940980076789856,
+            "Type": "PERSON",
+            "Text": "@MrFuckBringer",
+            "BeginOffset": 104,
+            "EndOffset": 118
+        },
+        {
+            "Score": 0.9992371797561646,
+            "Type": "OTHER",
+            "Text": "https://t.co/WpUEKlvkSR",
+            "BeginOffset": 119,
+            "EndOffset": 142
+        }
+    ]
+}

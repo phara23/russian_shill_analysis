@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9431684017181396,
+            "Type": "PERSON",
+            "Text": "@ShonaLovesTrump",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9932150840759277,
+            "Type": "PERSON",
+            "Text": "Maxine Waters",
+            "BeginOffset": 21,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9981951117515564,
+            "Type": "PERSON",
+            "Text": "Putin",
+            "BeginOffset": 48,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9437806010246277,
+            "Type": "LOCATION",
+            "Text": "Korea",
+            "BeginOffset": 66,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9999195337295532,
+            "Type": "OTHER",
+            "Text": "https://t.co/n3g474tcaW",
+            "BeginOffset": 75,
+            "EndOffset": 98
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.49696993827819824,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8915504813194275,
+            "Type": "PERSON",
+            "Text": "@Rik_FIair",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9351514577865601,
+            "Type": "PERSON",
+            "Text": "@TOONZ_JONES",
+            "BeginOffset": 27,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9694624543190002,
+            "Type": "PERSON",
+            "Text": "@Yaboy_Skeete",
+            "BeginOffset": 48,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.874679446220398,
+            "Type": "PERSON",
+            "Text": "@ImKermitHeaux",
+            "BeginOffset": 72,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9999642372131348,
+            "Type": "OTHER",
+            "Text": "https://t.co/939e5AoIf2",
+            "BeginOffset": 91,
+            "EndOffset": 114
+        }
+    ]
+}

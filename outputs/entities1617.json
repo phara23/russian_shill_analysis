@@ -1,0 +1,67 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8216302394866943,
+            "Type": "ORGANIZATION",
+            "Text": "@ffb4USS_Mason",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8453591465950012,
+            "Type": "OTHER",
+            "Text": "https://t.co/1QLGoHqtA9",
+            "BeginOffset": 19,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.8722920417785645,
+            "Type": "PERSON",
+            "Text": "@steph93065",
+            "BeginOffset": 43,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9536193013191223,
+            "Type": "PERSON",
+            "Text": "@CarmineZozzora",
+            "BeginOffset": 55,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.8096058368682861,
+            "Type": "PERSON",
+            "Text": "@529Uss",
+            "BeginOffset": 71,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.9647465348243713,
+            "Type": "PERSON",
+            "Text": "@Vote4TrumpPrez",
+            "BeginOffset": 79,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.9001448154449463,
+            "Type": "PERSON",
+            "Text": "@FemalesForTrump",
+            "BeginOffset": 95,
+            "EndOffset": 111
+        },
+        {
+            "Score": 0.972856879234314,
+            "Type": "PERSON",
+            "Text": "@satin_silkn",
+            "BeginOffset": 112,
+            "EndOffset": 124
+        },
+        {
+            "Score": 0.8544691205024719,
+            "Type": "PERSON",
+            "Text": "@FreemarketSar",
+            "BeginOffset": 125,
+            "EndOffset": 139
+        }
+    ]
+}

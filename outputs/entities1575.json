@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9995529651641846,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 16,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9999524354934692,
+            "Type": "OTHER",
+            "Text": "https://t.co/bqGJNpXNHX",
+            "BeginOffset": 59,
+            "EndOffset": 82
+        }
+    ]
+}

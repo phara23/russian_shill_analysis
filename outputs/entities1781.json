@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.890011727809906,
+            "Type": "PERSON",
+            "Text": "@JammieWF",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.5175431370735168,
+            "Type": "ORGANIZATION",
+            "Text": "HRC",
+            "BeginOffset": 50,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.4027354121208191,
+            "Type": "QUANTITY",
+            "Text": "16",
+            "BeginOffset": 111,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.7035619020462036,
+            "Type": "OTHER",
+            "Text": "https://t.c",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

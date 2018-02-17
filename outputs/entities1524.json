@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8822526335716248,
+            "Type": "PERSON",
+            "Text": "@mtracey",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9829408526420593,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 95,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.8228034377098083,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 129,
+            "EndOffset": 138
+        }
+    ]
+}

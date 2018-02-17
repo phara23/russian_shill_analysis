@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7123051285743713,
+            "Type": "PERSON",
+            "Text": "@MrInsaf",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8417772650718689,
+            "Type": "PERSON",
+            "Text": "@MerylStreepPage",
+            "BeginOffset": 13,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9991585612297058,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 101,
+            "EndOffset": 113
+        }
+    ]
+}

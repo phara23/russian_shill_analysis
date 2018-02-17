@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9530611634254456,
+            "Type": "PERSON",
+            "Text": "@KeithOlbermann",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9963386058807373,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 20,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9765416979789734,
+            "Type": "DATE",
+            "Text": "last night",
+            "BeginOffset": 53,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9846712350845337,
+            "Type": "PERSON",
+            "Text": "Pence",
+            "BeginOffset": 65,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.6213078498840332,
+            "Type": "PERSON",
+            "Text": "Don",
+            "BeginOffset": 113,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.9037489295005798,
+            "Type": "QUANTITY",
+            "Text": "50 excuses",
+            "BeginOffset": 123,
+            "EndOffset": 133
+        }
+    ]
+}

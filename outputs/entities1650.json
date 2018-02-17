@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8137390613555908,
+            "Type": "PERSON",
+            "Text": "@abusedtaxpayer",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9995303153991699,
+            "Type": "OTHER",
+            "Text": "https://t.co/BaNPdUKNln",
+            "BeginOffset": 87,
+            "EndOffset": 110
+        }
+    ]
+}

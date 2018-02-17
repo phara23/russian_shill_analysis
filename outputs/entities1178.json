@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.49876299500465393,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.7320114374160767,
+            "Type": "PERSON",
+            "Text": "@BlackMoses2015",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        }
+    ]
+}

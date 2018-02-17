@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9610742926597595,
+            "Type": "OTHER",
+            "Text": "https://t.co/89ZLElpsW3",
+            "BeginOffset": 0,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.7556908130645752,
+            "Type": "ORGANIZATION",
+            "Text": "Leathercraft",
+            "BeginOffset": 24,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.7078149914741516,
+            "Type": "COMMERCIAL_ITEM",
+            "Text": "Canvas Bib Apron",
+            "BeginOffset": 37,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9978988170623779,
+            "Type": "OTHER",
+            "Text": "https://t.co/xzmDicNUnQ",
+            "BeginOffset": 81,
+            "EndOffset": 104
+        }
+    ]
+}

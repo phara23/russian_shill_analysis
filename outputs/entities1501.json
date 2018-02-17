@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8362623453140259,
+            "Type": "PERSON",
+            "Text": "@deray",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.6753848195075989,
+            "Type": "LOCATION",
+            "Text": "Missouri",
+            "BeginOffset": 39,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9999760389328003,
+            "Type": "OTHER",
+            "Text": "https://t.co/WAtL7kjWT9",
+            "BeginOffset": 72,
+            "EndOffset": 95
+        }
+    ]
+}

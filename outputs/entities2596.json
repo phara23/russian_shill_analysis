@@ -1,0 +1,81 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5152378678321838,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.9072144627571106,
+            "Type": "ORGANIZATION",
+            "Text": "@US_Army",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.5676509737968445,
+            "Type": "ORGANIZATION",
+            "Text": "Muslim",
+            "BeginOffset": 17,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9359140396118164,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 57,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.8888974189758301,
+            "Type": "PERSON",
+            "Text": "Huma Abedin",
+            "BeginOffset": 72,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.8010310530662537,
+            "Type": "PERSON",
+            "Text": "@KamVTV",
+            "BeginOffset": 84,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.9549582004547119,
+            "Type": "PERSON",
+            "Text": "@RitzyBacon2",
+            "BeginOffset": 92,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.9464944005012512,
+            "Type": "PERSON",
+            "Text": "@Lrihendry",
+            "BeginOffset": 105,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.8753200769424438,
+            "Type": "PERSON",
+            "Text": "@SpecialKMB1969",
+            "BeginOffset": 116,
+            "EndOffset": 131
+        },
+        {
+            "Score": 0.8616811037063599,
+            "Type": "LOCATION",
+            "Text": "#USA",
+            "BeginOffset": 132,
+            "EndOffset": 136
+        },
+        {
+            "Score": 0.4441716969013214,
+            "Type": "LOCATION",
+            "Text": "🇺",
+            "BeginOffset": 136,
+            "EndOffset": 137
+        }
+    ]
+}

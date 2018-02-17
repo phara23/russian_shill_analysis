@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9830780625343323,
+            "Type": "PERSON",
+            "Text": "@Jenn_Abrams",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9572575092315674,
+            "Type": "QUANTITY",
+            "Text": "10-month-old",
+            "BeginOffset": 17,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.957108736038208,
+            "Type": "OTHER",
+            "Text": "Turkish",
+            "BeginOffset": 30,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.805156409740448,
+            "Type": "QUANTITY",
+            "Text": "80 lvl parenting",
+            "BeginOffset": 77,
+            "EndOffset": 93
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7989077568054199,
+            "Type": "PERSON",
+            "Text": "Seth",
+            "BeginOffset": 38,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9736394882202148,
+            "Type": "PERSON",
+            "Text": "Gus",
+            "BeginOffset": 44,
+            "EndOffset": 47
+        }
+    ]
+}

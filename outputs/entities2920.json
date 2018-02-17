@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9382691979408264,
+            "Type": "PERSON",
+            "Text": "@geshepjr",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.5579262375831604,
+            "Type": "PERSON",
+            "Text": "God",
+            "BeginOffset": 43,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.4968471825122833,
+            "Type": "LOCATION",
+            "Text": "earth",
+            "BeginOffset": 118,
+            "EndOffset": 123
+        },
+        {
+            "Score": 0.7588370442390442,
+            "Type": "QUANTITY",
+            "Text": "46:10",
+            "BeginOffset": 131,
+            "EndOffset": 136
+        }
+    ]
+}

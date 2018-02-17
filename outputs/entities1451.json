@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7032378315925598,
+            "Type": "PERSON",
+            "Text": "@StatesPoll",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8725726008415222,
+            "Type": "LOCATION",
+            "Text": "North Carolina",
+            "BeginOffset": 16,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9702630639076233,
+            "Type": "PERSON",
+            "Text": "TRUMP",
+            "BeginOffset": 32,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9960556030273438,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 41,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9245582222938538,
+            "Type": "PERSON",
+            "Text": "GJ\nQuinnipiac",
+            "BeginOffset": 52,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.8885189890861511,
+            "Type": "DATE",
+            "Text": "9/27",
+            "BeginOffset": 66,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9090424180030823,
+            "Type": "DATE",
+            "Text": "10/2",
+            "BeginOffset": 71,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.9354395866394043,
+            "Type": "OTHER",
+            "Text": "https://t.co/rna4Kw1PM7",
+            "BeginOffset": 94,
+            "EndOffset": 117
+        }
+    ]
+}

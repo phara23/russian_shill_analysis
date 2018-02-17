@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7677109837532043,
+            "Type": "PERSON",
+            "Text": "@scottisbell_",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.6729755401611328,
+            "Type": "PERSON",
+            "Text": "@POTUS",
+            "BeginOffset": 32,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9853874444961548,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 39,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9613944888114929,
+            "Type": "OTHER",
+            "Text": "https://t.co/6ziP",
+            "BeginOffset": 122,
+            "EndOffset": 139
+        }
+    ]
+}

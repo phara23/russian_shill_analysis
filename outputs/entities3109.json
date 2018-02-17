@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7653713226318359,
+            "Type": "PERSON",
+            "Text": "@CelesteHerget",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9927034378051758,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 55,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.8577955365180969,
+            "Type": "QUANTITY",
+            "Text": "Double - Photos",
+            "BeginOffset": 76,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.9997629523277283,
+            "Type": "OTHER",
+            "Text": "https://t.co/PUlPyADWNP",
+            "BeginOffset": 92,
+            "EndOffset": 115
+        }
+    ]
+}

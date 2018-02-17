@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.874644935131073,
+            "Type": "PERSON",
+            "Text": "@cmdorsey",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8779388666152954,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton\n4",
+            "BeginOffset": 32,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.987991988658905,
+            "Type": "OTHER",
+            "Text": "https://t.co/Y8Y4DNmeCg",
+            "BeginOffset": 64,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.7937524318695068,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 130,
+            "EndOffset": 139
+        }
+    ]
+}

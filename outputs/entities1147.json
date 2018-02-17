@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8895326852798462,
+            "Type": "PERSON",
+            "Text": "@BuzzFeedAndrew",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9170097708702087,
+            "Type": "ORGANIZATION",
+            "Text": "CW",
+            "BeginOffset": 41,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9999532699584961,
+            "Type": "OTHER",
+            "Text": "https://t.co/uhUNHDP6Pj",
+            "BeginOffset": 81,
+            "EndOffset": 104
+        }
+    ]
+}

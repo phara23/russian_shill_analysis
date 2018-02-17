@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.800447940826416,
+            "Type": "PERSON",
+            "Text": "@indieeverythang",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.6914942860603333,
+            "Type": "ORGANIZATION",
+            "Text": "Beats",
+            "BeginOffset": 41,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.8471106886863708,
+            "Type": "COMMERCIAL_ITEM",
+            "Text": "Solo 2 On-Ear Headphones",
+            "BeginOffset": 47,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9651385545730591,
+            "Type": "OTHER",
+            "Text": "https://t.co/ezrpt2uDdd",
+            "BeginOffset": 94,
+            "EndOffset": 117
+        },
+        {
+            "Score": 0.9509705305099487,
+            "Type": "ORGANIZATION",
+            "Text": "@eBay",
+            "BeginOffset": 122,
+            "EndOffset": 127
+        }
+    ]
+}

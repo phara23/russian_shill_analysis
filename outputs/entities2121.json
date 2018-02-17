@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7333253026008606,
+            "Type": "PERSON",
+            "Text": "@CallenFamily",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7883119583129883,
+            "Type": "PERSON",
+            "Text": "@DeplorableReece",
+            "BeginOffset": 18,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9729874730110168,
+            "Type": "PERSON",
+            "Text": "@trump2021",
+            "BeginOffset": 35,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9968335032463074,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 81,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9089756608009338,
+            "Type": "ORGANIZATION",
+            "Text": "Democrats",
+            "BeginOffset": 121,
+            "EndOffset": 130
+        }
+    ]
+}

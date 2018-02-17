@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5039776563644409,
+            "Type": "ORGANIZATION",
+            "Text": "@100",
+            "BeginOffset": 3,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.8011121153831482,
+            "Type": "QUANTITY",
+            "Text": "1,000",
+            "BeginOffset": 28,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.5453683137893677,
+            "Type": "ORGANIZATION",
+            "Text": "MUSLIMS",
+            "BeginOffset": 34,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.6188731789588928,
+            "Type": "ORGANIZATION",
+            "Text": "Islamic Caliphate",
+            "BeginOffset": 90,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.8952441811561584,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 119,
+            "EndOffset": 126
+        },
+        {
+            "Score": 0.8802314400672913,
+            "Type": "OTHER",
+            "Text": "https://t.c",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

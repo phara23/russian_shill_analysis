@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9676768779754639,
+            "Type": "PERSON",
+            "Text": "McCaskill",
+            "BeginOffset": 0,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9952636957168579,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 20,
+            "EndOffset": 27
+        }
+    ]
+}

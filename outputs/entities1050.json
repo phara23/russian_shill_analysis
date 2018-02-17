@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8975352644920349,
+            "Type": "PERSON",
+            "Text": "@ChrixMorgan",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8270823359489441,
+            "Type": "ORGANIZATION",
+            "Text": "Tinder",
+            "BeginOffset": 82,
+            "EndOffset": 88
+        }
+    ]
+}

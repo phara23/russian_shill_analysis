@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.878968358039856,
+            "Type": "PERSON",
+            "Text": "@ARnews1936",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8243165016174316,
+            "Type": "QUANTITY",
+            "Text": "Seven Best Trump Moments",
+            "BeginOffset": 20,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.7958217263221741,
+            "Type": "QUANTITY",
+            "Text": "Second Presidential Debate",
+            "BeginOffset": 52,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.999915361404419,
+            "Type": "OTHER",
+            "Text": "https://t.co/YnIRLqKDk0",
+            "BeginOffset": 88,
+            "EndOffset": 111
+        }
+    ]
+}

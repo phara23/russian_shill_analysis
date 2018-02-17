@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9711806178092957,
+            "Type": "PERSON",
+            "Text": "@capricornman89",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9952151775360107,
+            "Type": "PERSON",
+            "Text": "Bill O'Reilly",
+            "BeginOffset": 20,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9999339580535889,
+            "Type": "OTHER",
+            "Text": "https://t.co/YqH9pLd9uc",
+            "BeginOffset": 47,
+            "EndOffset": 70
+        }
+    ]
+}

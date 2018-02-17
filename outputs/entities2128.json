@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7479438781738281,
+            "Type": "PERSON",
+            "Text": "@VICE",
+            "BeginOffset": 3,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.5571541786193848,
+            "Type": "TITLE",
+            "Text": "Slime Blind",
+            "BeginOffset": 11,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9984011650085449,
+            "Type": "PERSON",
+            "Text": "Julian Glander",
+            "BeginOffset": 27,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.6817231178283691,
+            "Type": "OTHER",
+            "Text": "https://t.co/Wz9zwoKXrQ",
+            "BeginOffset": 43,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9999904632568359,
+            "Type": "OTHER",
+            "Text": "https://t.co/020Y9kOMUb",
+            "BeginOffset": 67,
+            "EndOffset": 90
+        }
+    ]
+}

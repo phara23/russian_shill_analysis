@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9344410300254822,
+            "Type": "PERSON",
+            "Text": "@jsrroger",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9883444309234619,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 87,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.7951450943946838,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 130,
+            "EndOffset": 139
+        }
+    ]
+}

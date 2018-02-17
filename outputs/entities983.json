@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.824820339679718,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.7731502056121826,
+            "Type": "PERSON",
+            "Text": "@DailyGist_Net",
+            "BeginOffset": 14,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.6662291884422302,
+            "Type": "PERSON",
+            "Text": "Jumia",
+            "BeginOffset": 30,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.8514010906219482,
+            "Type": "QUANTITY",
+            "Text": "third white paper",
+            "BeginOffset": 48,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.7638919353485107,
+            "Type": "EVENT",
+            "Text": "Nigerian Mobile Trends 2017",
+            "BeginOffset": 69,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.9998669624328613,
+            "Type": "OTHER",
+            "Text": "https://t.co/rwLUNtugd6",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        }
+    ]
+}

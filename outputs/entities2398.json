@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9112913608551025,
+            "Type": "PERSON",
+            "Text": "@TraceyM72",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.4179275333881378,
+            "Type": "ORGANIZATION",
+            "Text": "WIKILEAKS",
+            "BeginOffset": 15,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9672564268112183,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 29,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.999810516834259,
+            "Type": "OTHER",
+            "Text": "https://t.co/biCPkaScnm",
+            "BeginOffset": 91,
+            "EndOffset": 114
+        }
+    ]
+}

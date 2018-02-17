@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8610317707061768,
+            "Type": "PERSON",
+            "Text": "@RicVaDude",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.528242826461792,
+            "Type": "PERSON",
+            "Text": "HILLARY",
+            "BeginOffset": 82,
+            "EndOffset": 89
+        }
+    ]
+}

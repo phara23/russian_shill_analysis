@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8549013137817383,
+            "Type": "PERSON",
+            "Text": "@ButterLiebe",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.6501150727272034,
+            "Type": "PERSON",
+            "Text": "Kinder der 90er",
+            "BeginOffset": 26,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9997568726539612,
+            "Type": "OTHER",
+            "Text": "https://t.co/VkU3CeoVbg",
+            "BeginOffset": 68,
+            "EndOffset": 91
+        }
+    ]
+}

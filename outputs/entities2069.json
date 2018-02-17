@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9589689373970032,
+            "Type": "PERSON",
+            "Text": "@Jaxsaxman",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.623548150062561,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 15,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8624542951583862,
+            "Type": "PERSON",
+            "Text": "@sdv92",
+            "BeginOffset": 18,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.41305965185165405,
+            "Type": "EVENT",
+            "Text": "#FF1776",
+            "BeginOffset": 101,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.722361147403717,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 129,
+            "EndOffset": 138
+        }
+    ]
+}

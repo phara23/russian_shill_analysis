@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7736521363258362,
+            "Type": "PERSON",
+            "Text": "@ZaibatsuNews",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8377102613449097,
+            "Type": "QUANTITY",
+            "Text": "6 Ways",
+            "BeginOffset": 18,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.8347923755645752,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 25,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.777168333530426,
+            "Type": "OTHER",
+            "Text": "https://t.co/2vJDlZGcl6",
+            "BeginOffset": 67,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.6724345684051514,
+            "Type": "ORGANIZATION",
+            "Text": "#p2",
+            "BeginOffset": 96,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.9999724626541138,
+            "Type": "OTHER",
+            "Text": "https://t.co/edlG2PwN55",
+            "BeginOffset": 115,
+            "EndOffset": 138
+        }
+    ]
+}

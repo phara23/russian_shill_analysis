@@ -1,0 +1,34 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9725834131240845,
+            "Text": "Trump",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9914582371711731,
+            "Text": "Arizona",
+            "BeginOffset": 9,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.996195912361145,
+            "Text": "Obamacare",
+            "BeginOffset": 19,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9954505562782288,
+            "Text": "a catastrophe",
+            "BeginOffset": 32,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9955415725708008,
+            "Text": "Arizona",
+            "BeginOffset": 50,
+            "EndOffset": 57
+        }
+    ]
+}

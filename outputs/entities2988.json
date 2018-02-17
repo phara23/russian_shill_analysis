@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9077569842338562,
+            "Type": "PERSON",
+            "Text": "@larryelder",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9958882927894592,
+            "Type": "ORGANIZATION",
+            "Text": "NBC",
+            "BeginOffset": 16,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9976968765258789,
+            "Type": "PERSON",
+            "Text": "Billy Bush",
+            "BeginOffset": 42,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9879394173622131,
+            "Type": "PERSON",
+            "Text": "Tawana Brawley",
+            "BeginOffset": 77,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.9997472763061523,
+            "Type": "PERSON",
+            "Text": "Al Sharpton",
+            "BeginOffset": 102,
+            "EndOffset": 113
+        }
+    ]
+}

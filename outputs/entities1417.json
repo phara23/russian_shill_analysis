@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9140391945838928,
+            "Type": "PERSON",
+            "Text": "@SonofBaldwin",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.840478241443634,
+            "Type": "QUANTITY",
+            "Text": "99%",
+            "BeginOffset": 26,
+            "EndOffset": 29
+        }
+    ]
+}

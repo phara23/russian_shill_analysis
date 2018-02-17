@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8546163439750671,
+            "Type": "PERSON",
+            "Text": "@TimBurt",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9589636921882629,
+            "Type": "QUANTITY",
+            "Text": "5.7 Percent",
+            "BeginOffset": 18,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.6346575617790222,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 33,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9390769004821777,
+            "Type": "OTHER",
+            "Text": "https://t.co/83zmabd0aK",
+            "BeginOffset": 94,
+            "EndOffset": 117
+        },
+        {
+            "Score": 0.7549791932106018,
+            "Type": "ORGANIZATION",
+            "Text": "@dailycaller",
+            "BeginOffset": 122,
+            "EndOffset": 134
+        }
+    ]
+}

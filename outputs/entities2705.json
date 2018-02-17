@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9539185166358948,
+            "Type": "LOCATION",
+            "Text": "California",
+            "BeginOffset": 14,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9273947477340698,
+            "Type": "ORGANIZATION",
+            "Text": "Republican",
+            "BeginOffset": 48,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9998899102210999,
+            "Type": "DATE",
+            "Text": "May 23, 2016",
+            "BeginOffset": 62,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9336037635803223,
+            "Type": "PERSON",
+            "Text": "TRUMP",
+            "BeginOffset": 87,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.9998615980148315,
+            "Type": "OTHER",
+            "Text": "https://t.co/9DE2GOozuw",
+            "BeginOffset": 106,
+            "EndOffset": 129
+        }
+    ]
+}

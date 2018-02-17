@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8793394565582275,
+            "Type": "PERSON",
+            "Text": "@joyreaper",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.3567131757736206,
+            "Type": "ORGANIZATION",
+            "Text": "#Epstein",
+            "BeginOffset": 45,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.7499145865440369,
+            "Type": "ORGANIZATION",
+            "Text": "#BillClinton",
+            "BeginOffset": 65,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.34152841567993164,
+            "Type": "ORGANIZATION",
+            "Text": "#HillaryClinton",
+            "BeginOffset": 117,
+            "EndOffset": 132
+        },
+        {
+            "Score": 0.5039380788803101,
+            "Type": "ORGANIZATION",
+            "Text": "#BillC",
+            "BeginOffset": 133,
+            "EndOffset": 139
+        }
+    ]
+}

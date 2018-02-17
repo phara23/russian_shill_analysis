@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.923755943775177,
+            "Type": "PERSON",
+            "Text": "@ZenRand",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.7259008288383484,
+            "Type": "PERSON",
+            "Text": "@HashtagRoundup",
+            "BeginOffset": 30,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9715242981910706,
+            "Type": "DATE",
+            "Text": "today",
+            "BeginOffset": 62,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.7016391754150391,
+            "Type": "PERSON",
+            "Text": "@CurbYourTag",
+            "BeginOffset": 68,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.7857722640037537,
+            "Type": "PERSON",
+            "Text": "@HashtagOrElse",
+            "BeginOffset": 81,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.740607500076294,
+            "Type": "QUANTITY",
+            "Text": "1P",
+            "BeginOffset": 96,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.8295360803604126,
+            "Type": "QUANTITY",
+            "Text": "3P",
+            "BeginOffset": 105,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.7821234464645386,
+            "Type": "OTHER",
+            "Text": "https://t.c",
+            "BeginOffset": 132,
+            "EndOffset": 143
+        }
+    ]
+}

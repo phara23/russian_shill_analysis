@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.863353431224823,
+            "Type": "PERSON",
+            "Text": "@BraveConWarrior",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.7899481058120728,
+            "Type": "QUANTITY",
+            "Text": "5 Minimum Wage Could Shutter 1",
+            "BeginOffset": 30,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.6552916169166565,
+            "Type": "QUANTITY",
+            "Text": "5 NY",
+            "BeginOffset": 64,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.8017022609710693,
+            "Type": "QUANTITY",
+            "Text": "4SP",
+            "BeginOffset": 90,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.9997760653495789,
+            "Type": "OTHER",
+            "Text": "http://t.co/CD7M8dnCdn",
+            "BeginOffset": 94,
+            "EndOffset": 116
+        }
+    ]
+}

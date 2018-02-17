@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9564369320869446,
+            "Type": "PERSON",
+            "Text": "@nmsaints87124",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.99505615234375,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 22,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.8426660299301147,
+            "Type": "ORGANIZATION",
+            "Text": "White House",
+            "BeginOffset": 41,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9998835325241089,
+            "Type": "OTHER",
+            "Text": "https://t.co/MnnFMCPOf9",
+            "BeginOffset": 114,
+            "EndOffset": 137
+        }
+    ]
+}

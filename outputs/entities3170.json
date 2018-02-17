@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.48509931564331055,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8389691114425659,
+            "Type": "PERSON",
+            "Text": "@MensaMax2",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9846382737159729,
+            "Type": "ORGANIZATION",
+            "Text": "NASA",
+            "BeginOffset": 15,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.21856960654258728,
+            "Type": "ORGANIZATION",
+            "Text": "Apollo",
+            "BeginOffset": 69,
+            "EndOffset": 75
+        }
+    ]
+}

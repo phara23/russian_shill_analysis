@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.989770770072937,
+            "Type": "PERSON",
+            "Text": "Reid",
+            "BeginOffset": 0,
+            "EndOffset": 4
+        },
+        {
+            "Score": 0.996886670589447,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 10,
+            "EndOffset": 15
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7201856374740601,
+            "Type": "ORGANIZATION",
+            "Text": "@nytimes",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9992669224739075,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 13,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9540676474571228,
+            "Type": "QUANTITY",
+            "Text": "4-point",
+            "BeginOffset": 32,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9881379008293152,
+            "Type": "LOCATION",
+            "Text": "Florida",
+            "BeginOffset": 48,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.7552541494369507,
+            "Type": "ORGANIZATION",
+            "Text": "NYT",
+            "BeginOffset": 60,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9658511877059937,
+            "Type": "DATE",
+            "Text": "A month ago",
+            "BeginOffset": 76,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.9992920160293579,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 100,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.9698579907417297,
+            "Type": "OTHER",
+            "Text": "https://t.co/bh",
+            "BeginOffset": 124,
+            "EndOffset": 139
+        }
+    ]
+}

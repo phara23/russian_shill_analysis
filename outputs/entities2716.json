@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.496343731880188,
+            "Type": "OTHER",
+            "Text": "Islamic",
+            "BeginOffset": 26,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.8356607556343079,
+            "Type": "PERSON",
+            "Text": "D. Trump",
+            "BeginOffset": 84,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.9999769926071167,
+            "Type": "OTHER",
+            "Text": "https://t.co/agy2Ox7tIU",
+            "BeginOffset": 115,
+            "EndOffset": 138
+        }
+    ]
+}

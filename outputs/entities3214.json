@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6869076490402222,
+            "Type": "ORGANIZATION",
+            "Text": "@NewYorker",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9555933475494385,
+            "Type": "QUANTITY",
+            "Text": "One day",
+            "BeginOffset": 15,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.6713255643844604,
+            "Type": "OTHER",
+            "Text": "https://t.co/PxETOfqchv",
+            "BeginOffset": 58,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.9998741149902344,
+            "Type": "OTHER",
+            "Text": "https://t.co/qGR4aJUSmF",
+            "BeginOffset": 82,
+            "EndOffset": 105
+        }
+    ]
+}

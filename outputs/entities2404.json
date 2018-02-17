@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8229942321777344,
+            "Type": "PERSON",
+            "Text": "@TeaPartyOrg",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9807584881782532,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 17,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.6145282983779907,
+            "Type": "ORGANIZATION",
+            "Text": "Electoral College",
+            "BeginOffset": 34,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9999748468399048,
+            "Type": "OTHER",
+            "Text": "https://t.co/YbI4Qa00Iv",
+            "BeginOffset": 59,
+            "EndOffset": 82
+        }
+    ]
+}

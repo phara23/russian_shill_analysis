@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9904352426528931,
+            "Type": "LOCATION",
+            "Text": "Texas",
+            "BeginOffset": 9,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9863265752792358,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 34,
+            "EndOffset": 39
+        }
+    ]
+}

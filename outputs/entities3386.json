@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6751207113265991,
+            "Type": "PERSON",
+            "Text": "@washingtonpost",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9573565721511841,
+            "Type": "LOCATION",
+            "Text": "Dallas",
+            "BeginOffset": 51,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9998724460601807,
+            "Type": "OTHER",
+            "Text": "http://t.co/6cFfcNQVFQ",
+            "BeginOffset": 78,
+            "EndOffset": 100
+        }
+    ]
+}

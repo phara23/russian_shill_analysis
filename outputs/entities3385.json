@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8490552306175232,
+            "Type": "PERSON",
+            "Text": "@babysgramma",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7223972082138062,
+            "Type": "PERSON",
+            "Text": "@upayr Obama",
+            "BeginOffset": 17,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9895948171615601,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 111,
+            "EndOffset": 116
+        }
+    ]
+}

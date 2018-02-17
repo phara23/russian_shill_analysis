@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.880200982093811,
+            "Type": "PERSON",
+            "Text": "@GretchenInOK",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9687881469726562,
+            "Type": "ORGANIZATION",
+            "Text": "Democrat Party",
+            "BeginOffset": 103,
+            "EndOffset": 117
+        },
+        {
+            "Score": 0.9862824082374573,
+            "Type": "OTHER",
+            "Text": "https://t.co/QZAKMRj",
+            "BeginOffset": 119,
+            "EndOffset": 139
+        }
+    ]
+}

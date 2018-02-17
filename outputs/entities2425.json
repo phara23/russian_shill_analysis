@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9922143220901489,
+            "Type": "PERSON",
+            "Text": "Debbie Wasserman Schultz",
+            "BeginOffset": 0,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9544873833656311,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 36,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9812058210372925,
+            "Type": "ORGANIZATION",
+            "Text": "WikiLeaks",
+            "BeginOffset": 71,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.927881121635437,
+            "Type": "QUANTITY",
+            "Text": "about 20,000 emails",
+            "BeginOffset": 90,
+            "EndOffset": 109
+        }
+    ]
+}

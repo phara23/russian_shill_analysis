@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8826468586921692,
+            "Type": "ORGANIZATION",
+            "Text": "@MSNBC",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9834234714508057,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 11,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8941158056259155,
+            "Type": "OTHER",
+            "Text": "https://t.co/OKz0VtlzJP",
+            "BeginOffset": 80,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.9999717473983765,
+            "Type": "OTHER",
+            "Text": "https://t.co/MC0MNeqmQn",
+            "BeginOffset": 104,
+            "EndOffset": 127
+        }
+    ]
+}

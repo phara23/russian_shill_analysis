@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7613747119903564,
+            "Type": "PERSON",
+            "Text": "@TrivagoD",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.44522175192832947,
+            "Type": "QUANTITY",
+            "Text": "90",
+            "BeginOffset": 22,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9999114274978638,
+            "Type": "OTHER",
+            "Text": "https://t.co/q9u2TXtSuq",
+            "BeginOffset": 40,
+            "EndOffset": 63
+        }
+    ]
+}

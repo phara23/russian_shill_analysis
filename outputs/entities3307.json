@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8994344472885132,
+            "Type": "PERSON",
+            "Text": "@madina_design",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.953738808631897,
+            "Type": "PERSON",
+            "Text": "@madina_design",
+            "BeginOffset": 45,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.9576936364173889,
+            "Type": "OTHER",
+            "Text": "https://t.co/sRWDS4o3QM",
+            "BeginOffset": 75,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.26602789759635925,
+            "Type": "ORGANIZATION",
+            "Text": "#LaurynHill",
+            "BeginOffset": 99,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.9116418361663818,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

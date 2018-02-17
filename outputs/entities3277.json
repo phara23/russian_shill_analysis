@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6950938701629639,
+            "Type": "PERSON",
+            "Text": "@LeftOfBlack",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9098905920982361,
+            "Type": "LOCATION",
+            "Text": "Chicago",
+            "BeginOffset": 25,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9995445609092712,
+            "Type": "PERSON",
+            "Text": "Bill Ayers",
+            "BeginOffset": 42,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9420775771141052,
+            "Type": "OTHER",
+            "Text": "https://t.co/h1S0It0BDN",
+            "BeginOffset": 106,
+            "EndOffset": 129
+        },
+        {
+            "Score": 0.6698015332221985,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 130,
+            "EndOffset": 139
+        }
+    ]
+}

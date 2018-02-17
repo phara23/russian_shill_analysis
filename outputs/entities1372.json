@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8509794473648071,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9774881601333618,
+            "Type": "LOCATION",
+            "Text": "Delaware",
+            "BeginOffset": 59,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9694287776947021,
+            "Type": "OTHER",
+            "Text": "https://t.co/NPClFR5S5G",
+            "BeginOffset": 80,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.8505617380142212,
+            "Type": "ORGANIZATION",
+            "Text": "@NYDailyNews",
+            "BeginOffset": 104,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.9995898604393005,
+            "Type": "OTHER",
+            "Text": "https://t.co/okSuhNs6Zk",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

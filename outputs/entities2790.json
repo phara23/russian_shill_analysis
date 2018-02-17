@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.781720757484436,
+            "Type": "PERSON",
+            "Text": "@beforeitsnews",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8579476475715637,
+            "Type": "LOCATION",
+            "Text": "Mars",
+            "BeginOffset": 55,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.9766175746917725,
+            "Type": "ORGANIZATION",
+            "Text": "NASA",
+            "BeginOffset": 76,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.9999700784683228,
+            "Type": "OTHER",
+            "Text": "https://t.co/bipD31TfRC",
+            "BeginOffset": 81,
+            "EndOffset": 104
+        }
+    ]
+}

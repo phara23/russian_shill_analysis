@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7406105399131775,
+            "Type": "PERSON",
+            "Text": "@VendetaConcerto",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8520971536636353,
+            "Type": "PERSON",
+            "Text": "@BlissTabitha",
+            "BeginOffset": 21,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9545730352401733,
+            "Type": "PERSON",
+            "Text": "@inhuggermugger",
+            "BeginOffset": 35,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9990960359573364,
+            "Type": "PERSON",
+            "Text": "Margaret Sangar",
+            "BeginOffset": 51,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.471429705619812,
+            "Type": "QUANTITY",
+            "Text": "one",
+            "BeginOffset": 70,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.7908809185028076,
+            "Type": "QUANTITY",
+            "Text": "4death",
+            "BeginOffset": 113,
+            "EndOffset": 119
+        },
+        {
+            "Score": 0.8175984621047974,
+            "Type": "QUANTITY",
+            "Text": "4variety of h",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

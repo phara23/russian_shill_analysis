@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8040247559547424,
+            "Type": "PERSON",
+            "Text": "@govtslaves",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8025307059288025,
+            "Type": "ORGANIZATION",
+            "Text": "HSBC",
+            "BeginOffset": 29,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.8853461742401123,
+            "Type": "OTHER",
+            "Text": "https://t.co/mNfxqGH1Hw",
+            "BeginOffset": 84,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.9999672174453735,
+            "Type": "OTHER",
+            "Text": "https://t.co/YFMh6DB2iE",
+            "BeginOffset": 108,
+            "EndOffset": 131
+        }
+    ]
+}

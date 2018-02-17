@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5039776563644409,
+            "Type": "ORGANIZATION",
+            "Text": "@100",
+            "BeginOffset": 3,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.9943879246711731,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 103,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.9747310876846313,
+            "Type": "QUANTITY",
+            "Text": "1.3 Million",
+            "BeginOffset": 110,
+            "EndOffset": 121
+        }
+    ]
+}

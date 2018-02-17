@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9075713753700256,
+            "Type": "PERSON",
+            "Text": "@zlando",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.5715525150299072,
+            "Type": "LOCATION",
+            "Text": "#India",
+            "BeginOffset": 33,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.8656069040298462,
+            "Type": "LOCATION",
+            "Text": "India",
+            "BeginOffset": 114,
+            "EndOffset": 119
+        },
+        {
+            "Score": 0.9667180776596069,
+            "Type": "OTHER",
+            "Text": "https://t.co",
+            "BeginOffset": 127,
+            "EndOffset": 139
+        }
+    ]
+}

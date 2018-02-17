@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7895014882087708,
+            "Type": "PERSON",
+            "Text": "@FacMagnaAmerica",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9897778630256653,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 73,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.8110178112983704,
+            "Type": "LOCATION",
+            "Text": "Reno",
+            "BeginOffset": 82,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.7126781344413757,
+            "Type": "PERSON",
+            "Text": "@deray",
+            "BeginOffset": 107,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.8495711088180542,
+            "Type": "ORGANIZATION",
+            "Text": "Democrat",
+            "BeginOffset": 124,
+            "EndOffset": 132
+        }
+    ]
+}

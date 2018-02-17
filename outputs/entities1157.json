@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8527684807777405,
+            "Type": "PERSON",
+            "Text": "@theblaze",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8996896147727966,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 20,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.8560497760772705,
+            "Type": "OTHER",
+            "Text": "https://t.co/9LEyBMMYr6",
+            "BeginOffset": 95,
+            "EndOffset": 118
+        },
+        {
+            "Score": 0.9953920841217041,
+            "Type": "OTHER",
+            "Text": "https://t.co/CiB01de",
+            "BeginOffset": 119,
+            "EndOffset": 139
+        }
+    ]
+}

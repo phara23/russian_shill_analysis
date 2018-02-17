@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9623095989227295,
+            "Type": "PERSON",
+            "Text": "@JoyAnnReid",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7483564019203186,
+            "Type": "QUANTITY",
+            "Text": "first collabo",
+            "BeginOffset": 19,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.8067947626113892,
+            "Type": "PERSON",
+            "Text": "@EJDionne",
+            "BeginOffset": 59,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9857124090194702,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 115,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.9824032783508301,
+            "Type": "OTHER",
+            "Text": "https://t.co/TrRJ",
+            "BeginOffset": 122,
+            "EndOffset": 139
+        }
+    ]
+}

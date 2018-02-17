@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6689026951789856,
+            "Type": "PERSON",
+            "Text": "@SethGoodtime",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7775703072547913,
+            "Type": "PERSON",
+            "Text": "@ANGRYref",
+            "BeginOffset": 18,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.618536651134491,
+            "Type": "LOCATION",
+            "Text": "Washington",
+            "BeginOffset": 28,
+            "EndOffset": 38
+        }
+    ]
+}

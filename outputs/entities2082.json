@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4254651665687561,
+            "Type": "OTHER",
+            "Text": "1063",
+            "BeginOffset": 4,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.5058434009552002,
+            "Type": "LOCATION",
+            "Text": "atl",
+            "BeginOffset": 8,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8576993942260742,
+            "Type": "LOCATION",
+            "Text": "Atlanta",
+            "BeginOffset": 55,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9999101161956787,
+            "Type": "OTHER",
+            "Text": "https://t.co/eTZj10UR2p",
+            "BeginOffset": 79,
+            "EndOffset": 102
+        }
+    ]
+}

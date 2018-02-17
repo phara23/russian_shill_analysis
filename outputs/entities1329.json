@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7972930073738098,
+            "Type": "PERSON",
+            "Text": "@realDeeLouie",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7375556230545044,
+            "Type": "PERSON",
+            "Text": "@nasanasal Trump",
+            "BeginOffset": 18,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.5714747309684753,
+            "Type": "QUANTITY",
+            "Text": "two incidental",
+            "BeginOffset": 58,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.7456925511360168,
+            "Type": "OTHER",
+            "Text": "American",
+            "BeginOffset": 73,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.8867875337600708,
+            "Type": "PERSON",
+            "Text": "Bald Eagles",
+            "BeginOffset": 82,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.7383610606193542,
+            "Type": "ORGANIZATION",
+            "Text": "McDonald's Drive",
+            "BeginOffset": 113,
+            "EndOffset": 129
+        }
+    ]
+}

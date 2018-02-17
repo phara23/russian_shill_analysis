@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8250176310539246,
+            "Type": "PERSON",
+            "Text": "@sakura1979",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.6604119539260864,
+            "Type": "QUANTITY",
+            "Text": "Thousands",
+            "BeginOffset": 16,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9532178640365601,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 38,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9948267340660095,
+            "Type": "LOCATION",
+            "Text": "Toronto",
+            "BeginOffset": 54,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.7931643128395081,
+            "Type": "ORGANIZATION",
+            "Text": "@POTUS",
+            "BeginOffset": 95,
+            "EndOffset": 101
+        }
+    ]
+}

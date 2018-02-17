@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5908105969429016,
+            "Type": "LOCATION",
+            "Text": "New Yorkers",
+            "BeginOffset": 34,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9994702935218811,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 60,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.8711227178573608,
+            "Type": "OTHER",
+            "Text": "https://t.co/vlLroBVwCQ",
+            "BeginOffset": 85,
+            "EndOffset": 108
+        }
+    ]
+}

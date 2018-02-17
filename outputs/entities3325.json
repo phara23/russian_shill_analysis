@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8727765679359436,
+            "Type": "PERSON",
+            "Text": "@ihatethemedia",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6125805377960205,
+            "Type": "PERSON",
+            "Text": "Krakatoa",
+            "BeginOffset": 46,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9999555349349976,
+            "Type": "OTHER",
+            "Text": "https://t.co/Wo24KTMmmI",
+            "BeginOffset": 56,
+            "EndOffset": 79
+        }
+    ]
+}

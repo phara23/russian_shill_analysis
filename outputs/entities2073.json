@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.819949746131897,
+            "Type": "PERSON",
+            "Text": "@luvGodncountry",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.6085172295570374,
+            "Type": "ORGANIZATION",
+            "Text": "Green Party",
+            "BeginOffset": 20,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9996845126152039,
+            "Type": "PERSON",
+            "Text": "Jill Stein",
+            "BeginOffset": 42,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9963175058364868,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 60,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.973793089389801,
+            "Type": "OTHER",
+            "Text": "https://t.co/9HzfH5jMfo",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.9350202679634094,
+            "Type": "ORGANIZATION",
+            "Text": "@ConstitutionN",
+            "BeginOffset": 125,
+            "EndOffset": 139
+        }
+    ]
+}

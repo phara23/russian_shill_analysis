@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8600099682807922,
+            "Type": "PERSON",
+            "Text": "@BlackAmericans",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9966728687286377,
+            "Type": "PERSON",
+            "Text": "Michelle Obama",
+            "BeginOffset": 20,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9901118874549866,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 56,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.8054162859916687,
+            "Type": "OTHER",
+            "Text": "https://t.co/13X7jsvnfl",
+            "BeginOffset": 101,
+            "EndOffset": 124
+        },
+        {
+            "Score": 0.9500980973243713,
+            "Type": "OTHER",
+            "Text": "https://t.co/1",
+            "BeginOffset": 125,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5091314315795898,
+            "Type": "ORGANIZATION",
+            "Text": "@2",
+            "BeginOffset": 3,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.6008861064910889,
+            "Type": "QUANTITY",
+            "Text": "#2",
+            "BeginOffset": 13,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.5922953486442566,
+            "Type": "QUANTITY",
+            "Text": "#2",
+            "BeginOffset": 67,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.37199264764785767,
+            "Type": "ORGANIZATION",
+            "Text": "#NRA",
+            "BeginOffset": 71,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.3649401068687439,
+            "Type": "ORGANIZATION",
+            "Text": "#RKBA",
+            "BeginOffset": 87,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.9632775187492371,
+            "Type": "OTHER",
+            "Text": "https://t.co/KVeIe53",
+            "BeginOffset": 119,
+            "EndOffset": 139
+        }
+    ]
+}

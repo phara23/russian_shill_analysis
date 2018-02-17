@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8068970441818237,
+            "Type": "PERSON",
+            "Text": "@DRUDGE_REPORT",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9987680315971375,
+            "Type": "OTHER",
+            "Text": "https://t.co/fHE2Tu0uqQ",
+            "BeginOffset": 74,
+            "EndOffset": 97
+        }
+    ]
+}

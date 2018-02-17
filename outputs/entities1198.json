@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8668749928474426,
+            "Type": "PERSON",
+            "Text": "@guardian",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8370276093482971,
+            "Type": "LOCATION",
+            "Text": "Glasgow",
+            "BeginOffset": 45,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9999814033508301,
+            "Type": "OTHER",
+            "Text": "http://t.co/1DESQL49W1",
+            "BeginOffset": 61,
+            "EndOffset": 83
+        }
+    ]
+}

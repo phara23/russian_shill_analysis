@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7899250984191895,
+            "Type": "PERSON",
+            "Text": "@noreallyhowcome",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8435841798782349,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 29,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9911805987358093,
+            "Type": "PERSON",
+            "Text": "Susan",
+            "BeginOffset": 74,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.9516702890396118,
+            "Type": "PERSON",
+            "Text": "@AFitch325",
+            "BeginOffset": 91,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.8882619738578796,
+            "Type": "PERSON",
+            "Text": "@trochon",
+            "BeginOffset": 102,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.9400100111961365,
+            "Type": "PERSON",
+            "Text": "@dellcam",
+            "BeginOffset": 111,
+            "EndOffset": 119
+        },
+        {
+            "Score": 0.8980165719985962,
+            "Type": "PERSON",
+            "Text": "@clevelanddotcom",
+            "BeginOffset": 120,
+            "EndOffset": 136
+        },
+        {
+            "Score": 0.8139943480491638,
+            "Type": "PERSON",
+            "Text": "@HAGOODMAN",
+            "BeginOffset": 137,
+            "EndOffset": 147
+        }
+    ]
+}

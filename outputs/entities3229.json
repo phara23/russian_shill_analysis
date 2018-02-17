@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7672211527824402,
+            "Type": "PERSON",
+            "Text": "@cafedotcom",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9985567927360535,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 22,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9999262094497681,
+            "Type": "OTHER",
+            "Text": "https://t.co/wTAbTs2TM6",
+            "BeginOffset": 92,
+            "EndOffset": 115
+        }
+    ]
+}

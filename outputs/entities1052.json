@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8808152675628662,
+            "Type": "PERSON",
+            "Text": "@PaolaKinck",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9661219716072083,
+            "Type": "PERSON",
+            "Text": "@Snowden",
+            "BeginOffset": 17,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.8654996752738953,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 32,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.8255841732025146,
+            "Type": "LOCATION",
+            "Text": "China",
+            "BeginOffset": 41,
+            "EndOffset": 46
+        }
+    ]
+}

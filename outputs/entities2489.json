@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9725816249847412,
+            "Type": "OTHER",
+            "Text": "https://t.co/radSgwD7lJ",
+            "BeginOffset": 51,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.7002740502357483,
+            "Type": "PERSON",
+            "Text": "@SecureFreedom",
+            "BeginOffset": 75,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.9994875192642212,
+            "Type": "OTHER",
+            "Text": "https://t.co/xbveMjxGkE",
+            "BeginOffset": 110,
+            "EndOffset": 133
+        }
+    ]
+}

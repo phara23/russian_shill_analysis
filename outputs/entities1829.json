@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8847290277481079,
+            "Type": "PERSON",
+            "Text": "@BigAlDell",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.7644404172897339,
+            "Type": "OTHER",
+            "Text": "Canadian",
+            "BeginOffset": 27,
+            "EndOffset": 35
+        }
+    ]
+}

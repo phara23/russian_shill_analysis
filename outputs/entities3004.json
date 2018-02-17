@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8927595019340515,
+            "Type": "PERSON",
+            "Text": "@iEnvY_hOboS",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9902123808860779,
+            "Type": "PERSON",
+            "Text": "Kim",
+            "BeginOffset": 17,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.9999808073043823,
+            "Type": "OTHER",
+            "Text": "https://t.co/8zjV6F4pur",
+            "BeginOffset": 50,
+            "EndOffset": 73
+        }
+    ]
+}

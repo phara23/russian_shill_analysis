@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8167018294334412,
+            "Type": "PERSON",
+            "Text": "@CathyHolladay1",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8718862533569336,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton \nTrump",
+            "BeginOffset": 20,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9913649559020996,
+            "Type": "DATE",
+            "Text": "2003",
+            "BeginOffset": 46,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.426656037569046,
+            "Type": "LOCATION",
+            "Text": "Iraq",
+            "BeginOffset": 62,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9999641180038452,
+            "Type": "OTHER",
+            "Text": "https://t.co/OTD10R0WBH",
+            "BeginOffset": 72,
+            "EndOffset": 95
+        }
+    ]
+}

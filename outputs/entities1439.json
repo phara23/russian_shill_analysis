@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.884084165096283,
+            "Type": "PERSON",
+            "Text": "@dcexaminer",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8166339993476868,
+            "Type": "ORGANIZATION",
+            "Text": "Pentagon",
+            "BeginOffset": 41,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.8520928025245667,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 68,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.5363430380821228,
+            "Type": "ORGANIZATION",
+            "Text": "Iran",
+            "BeginOffset": 83,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.9165174961090088,
+            "Type": "OTHER",
+            "Text": "https://t.co/sZOoa61tjs",
+            "BeginOffset": 106,
+            "EndOffset": 129
+        },
+        {
+            "Score": 0.8607488870620728,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 130,
+            "EndOffset": 139
+        }
+    ]
+}

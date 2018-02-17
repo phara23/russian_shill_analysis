@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9246358871459961,
+            "Type": "PERSON",
+            "Text": "@debrajsaunders",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.4828278720378876,
+            "Type": "ORGANIZATION",
+            "Text": "Repub",
+            "BeginOffset": 50,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.7317702770233154,
+            "Type": "ORGANIZATION",
+            "Text": "CA GOP",
+            "BeginOffset": 115,
+            "EndOffset": 121
+        }
+    ]
+}

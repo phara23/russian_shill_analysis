@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8487826585769653,
+            "Type": "PERSON",
+            "Text": "@IcemanDaGenius",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8695240020751953,
+            "Type": "EVENT",
+            "Text": "Cold War Era",
+            "BeginOffset": 59,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9568611979484558,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 109,
+            "EndOffset": 116
+        }
+    ]
+}

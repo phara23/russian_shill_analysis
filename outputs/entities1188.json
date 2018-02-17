@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8666747808456421,
+            "Type": "PERSON",
+            "Text": "@OrganicCorsets",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.4665224850177765,
+            "Type": "PERSON",
+            "Text": "Alaia",
+            "BeginOffset": 20,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9999483823776245,
+            "Type": "OTHER",
+            "Text": "https://t.co/x6t43u756o",
+            "BeginOffset": 54,
+            "EndOffset": 77
+        }
+    ]
+}

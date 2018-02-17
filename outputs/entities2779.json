@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9724518656730652,
+            "Type": "LOCATION",
+            "Text": "California",
+            "BeginOffset": 9,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.39251840114593506,
+            "Type": "PERSON",
+            "Text": "#Obama",
+            "BeginOffset": 28,
+            "EndOffset": 34
+        }
+    ]
+}

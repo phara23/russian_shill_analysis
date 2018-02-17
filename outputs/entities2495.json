@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6923239231109619,
+            "Type": "PERSON",
+            "Text": "@partyfessional",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9999552965164185,
+            "Type": "OTHER",
+            "Text": "https://t.co/J7J6dAaHv8",
+            "BeginOffset": 60,
+            "EndOffset": 83
+        }
+    ]
+}

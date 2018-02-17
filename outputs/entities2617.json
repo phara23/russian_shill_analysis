@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9282875061035156,
+            "Type": "PERSON",
+            "Text": "@TalibKweli",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8845694065093994,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 31,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9714293479919434,
+            "Type": "PERSON",
+            "Text": "Bill",
+            "BeginOffset": 42,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9789865016937256,
+            "Type": "PERSON",
+            "Text": "@hawkee12345",
+            "BeginOffset": 70,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.8551107048988342,
+            "Type": "OTHER",
+            "Text": "https://t.co/cvfZPAN1hq https://t.co/4y9sKfVmRM https://…",
+            "BeginOffset": 83,
+            "EndOffset": 140
+        }
+    ]
+}

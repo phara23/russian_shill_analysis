@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9509852528572083,
+            "Type": "PERSON",
+            "Text": "@Michelleg51",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8559344410896301,
+            "Type": "PERSON",
+            "Text": "@ILoveMyWife0007",
+            "BeginOffset": 17,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.6432172656059265,
+            "Type": "PERSON",
+            "Text": "#jahilc",
+            "BeginOffset": 34,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9919144511222839,
+            "Type": "QUANTITY",
+            "Text": "12years",
+            "BeginOffset": 91,
+            "EndOffset": 98
+        }
+    ]
+}

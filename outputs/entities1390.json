@@ -1,0 +1,74 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8426620960235596,
+            "Type": "PERSON",
+            "Text": "@derrold",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.3656478226184845,
+            "Type": "ORGANIZATION",
+            "Text": "#WCW",
+            "BeginOffset": 13,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9636616706848145,
+            "Type": "PERSON",
+            "Text": "@Sarah_Joyous",
+            "BeginOffset": 18,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9573105573654175,
+            "Type": "PERSON",
+            "Text": "@Sassafrantz",
+            "BeginOffset": 32,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9743499159812927,
+            "Type": "PERSON",
+            "Text": "@secretbee1",
+            "BeginOffset": 45,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9823296666145325,
+            "Type": "PERSON",
+            "Text": "@secretbee2",
+            "BeginOffset": 57,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9438610672950745,
+            "Type": "PERSON",
+            "Text": "@shewitsch",
+            "BeginOffset": 69,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.9732488989830017,
+            "Type": "PERSON",
+            "Text": "@ShyHoodieGirl",
+            "BeginOffset": 80,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.9734870195388794,
+            "Type": "PERSON",
+            "Text": "@sophie_diddles",
+            "BeginOffset": 95,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.9115655422210693,
+            "Type": "PERSON",
+            "Text": "@SunniWestbrook",
+            "BeginOffset": 111,
+            "EndOffset": 126
+        }
+    ]
+}

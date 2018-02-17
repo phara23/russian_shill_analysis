@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8964635133743286,
+            "Type": "PERSON",
+            "Text": "@nedmiller",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8082841634750366,
+            "Type": "PERSON",
+            "Text": "Hamilton",
+            "BeginOffset": 15,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.7785548567771912,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 129,
+            "EndOffset": 138
+        }
+    ]
+}

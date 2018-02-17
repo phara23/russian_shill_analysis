@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9015363454818726,
+            "Type": "PERSON",
+            "Text": "@dcexaminer",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9968644976615906,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 16,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.7307300567626953,
+            "Type": "LOCATION",
+            "Text": "Yemen",
+            "BeginOffset": 60,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9212200045585632,
+            "Type": "OTHER",
+            "Text": "https://t.co/BNNFR55OGO",
+            "BeginOffset": 66,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.999967098236084,
+            "Type": "OTHER",
+            "Text": "https://t.co/TCgFHkcVwX",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        }
+    ]
+}

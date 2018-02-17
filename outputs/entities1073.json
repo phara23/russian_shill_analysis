@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9280304908752441,
+            "Type": "PERSON",
+            "Text": "@DanaGeezus",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9903249740600586,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 69,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9999840259552002,
+            "Type": "OTHER",
+            "Text": "https://t.co/XFVwXO6Otj",
+            "BeginOffset": 75,
+            "EndOffset": 98
+        }
+    ]
+}

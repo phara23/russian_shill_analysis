@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4916192889213562,
+            "Type": "PERSON",
+            "Text": "Sessions",
+            "BeginOffset": 0,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.8547842502593994,
+            "Type": "ORGANIZATION",
+            "Text": "Senate",
+            "BeginOffset": 25,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.45366501808166504,
+            "Type": "ORGANIZATION",
+            "Text": "Dem",
+            "BeginOffset": 45,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9830735921859741,
+            "Type": "ORGANIZATION",
+            "Text": "Twitter",
+            "BeginOffset": 51,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.5904858708381653,
+            "Type": "LOCATION",
+            "Text": "Russia",
+            "BeginOffset": 71,
+            "EndOffset": 77
+        }
+    ]
+}

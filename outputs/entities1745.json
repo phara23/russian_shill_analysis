@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9998295903205872,
+            "Type": "PERSON",
+            "Text": "Mike Pence",
+            "BeginOffset": 0,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9138123989105225,
+            "Type": "OTHER",
+            "Text": "https://t.co/4grQHAnDiZ",
+            "BeginOffset": 84,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.999953031539917,
+            "Type": "OTHER",
+            "Text": "https://t.co/XR0EIF94qD",
+            "BeginOffset": 108,
+            "EndOffset": 131
+        }
+    ]
+}

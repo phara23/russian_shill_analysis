@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9496503472328186,
+            "Type": "PERSON",
+            "Text": "@zacharyebell",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9706963300704956,
+            "Type": "DATE",
+            "Text": "This year",
+            "BeginOffset": 18,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.99601811170578,
+            "Type": "DATE",
+            "Text": "2017",
+            "BeginOffset": 113,
+            "EndOffset": 117
+        }
+    ]
+}

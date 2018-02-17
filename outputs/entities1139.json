@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9350667595863342,
+            "Type": "PERSON",
+            "Text": "@MikeBates",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8103392720222473,
+            "Type": "PERSON",
+            "Text": "Omarosa",
+            "BeginOffset": 16,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.799565315246582,
+            "Type": "PERSON",
+            "Text": "President Trump",
+            "BeginOffset": 82,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.9176583886146545,
+            "Type": "PERSON",
+            "Text": "Trumpkin",
+            "BeginOffset": 104,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.640125036239624,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 130,
+            "EndOffset": 139
+        }
+    ]
+}

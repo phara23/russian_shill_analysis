@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9940792322158813,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 28,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.977728009223938,
+            "Type": "PERSON",
+            "Text": "Putin",
+            "BeginOffset": 36,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9837687611579895,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 42,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9999831914901733,
+            "Type": "OTHER",
+            "Text": "https://t.co/p05GYzCVbz",
+            "BeginOffset": 47,
+            "EndOffset": 70
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7815455198287964,
+            "Type": "PERSON",
+            "Text": "@Truthdig",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9983012676239014,
+            "Type": "PERSON",
+            "Text": "Chris Hedges",
+            "BeginOffset": 14,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.8580268025398254,
+            "Type": "PERSON",
+            "Text": "@LAPressClub",
+            "BeginOffset": 32,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.7560835480690002,
+            "Type": "TITLE",
+            "Text": "Top Award",
+            "BeginOffset": 47,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.8482576012611389,
+            "Type": "OTHER",
+            "Text": "http://t.co/YkGB6JbP6l",
+            "BeginOffset": 81,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.9998262524604797,
+            "Type": "OTHER",
+            "Text": "http://t.co/rbFNKoelbn",
+            "BeginOffset": 104,
+            "EndOffset": 126
+        }
+    ]
+}

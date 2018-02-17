@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7430482506752014,
+            "Type": "PERSON",
+            "Text": "@BigEnuff",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.6237510442733765,
+            "Type": "DATE",
+            "Text": "#2016",
+            "BeginOffset": 14,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.669356107711792,
+            "Type": "QUANTITY",
+            "Text": "4Words",
+            "BeginOffset": 21,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9999332427978516,
+            "Type": "OTHER",
+            "Text": "https://t.co/sSK0Y364rF",
+            "BeginOffset": 53,
+            "EndOffset": 76
+        }
+    ]
+}

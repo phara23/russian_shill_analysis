@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7642626762390137,
+            "Type": "OTHER",
+            "Text": "Russians",
+            "BeginOffset": 0,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.9929128289222717,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 10,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9944422841072083,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 32,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9616655707359314,
+            "Type": "OTHER",
+            "Text": "https://t.co/fLlhpomzt3",
+            "BeginOffset": 63,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9800187945365906,
+            "Type": "OTHER",
+            "Text": "https://t.co/XDBaPnHm6c",
+            "BeginOffset": 89,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.9999916553497314,
+            "Type": "OTHER",
+            "Text": "https://t.co/Q6Zrw0eXwR",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        }
+    ]
+}

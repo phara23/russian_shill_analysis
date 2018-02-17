@@ -1,0 +1,81 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8521196246147156,
+            "Type": "PERSON",
+            "Text": "@DMashak",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8970784544944763,
+            "Type": "PERSON",
+            "Text": "@TheEllenShow",
+            "BeginOffset": 17,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9488163590431213,
+            "Type": "PERSON",
+            "Text": "@LadyGaga",
+            "BeginOffset": 31,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9624044299125671,
+            "Type": "PERSON",
+            "Text": "@KatyPerry",
+            "BeginOffset": 41,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9051066637039185,
+            "Type": "PERSON",
+            "Text": "@WETHEPEOPLETAR",
+            "BeginOffset": 52,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9354280233383179,
+            "Type": "PERSON",
+            "Text": "@selenagomez",
+            "BeginOffset": 68,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.8960663676261902,
+            "Type": "ORGANIZATION",
+            "Text": "@youtube",
+            "BeginOffset": 81,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.9115867614746094,
+            "Type": "PERSON",
+            "Text": "@britneyspears",
+            "BeginOffset": 90,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.9878991842269897,
+            "Type": "PERSON",
+            "Text": "@KimKardashian",
+            "BeginOffset": 105,
+            "EndOffset": 119
+        },
+        {
+            "Score": 0.9422401785850525,
+            "Type": "PERSON",
+            "Text": "@yrnf",
+            "BeginOffset": 120,
+            "EndOffset": 125
+        },
+        {
+            "Score": 0.9678483605384827,
+            "Type": "PERSON",
+            "Text": "@ArianaGrande",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8270250558853149,
+            "Type": "PERSON",
+            "Text": "@IndyUSA",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9999673962593079,
+            "Type": "PERSON",
+            "Text": "Jennifer Garner",
+            "BeginOffset": 13,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9998694658279419,
+            "Type": "PERSON",
+            "Text": "Ben Affleck",
+            "BeginOffset": 33,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9684074521064758,
+            "Type": "QUANTITY",
+            "Text": "10-year",
+            "BeginOffset": 64,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9258083701133728,
+            "Type": "OTHER",
+            "Text": "http://t.co/XFTXLINzI5",
+            "BeginOffset": 81,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.9999487400054932,
+            "Type": "OTHER",
+            "Text": "http://t.co/hp6RRbrCys",
+            "BeginOffset": 104,
+            "EndOffset": 126
+        }
+    ]
+}

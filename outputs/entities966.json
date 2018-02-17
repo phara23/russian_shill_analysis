@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7950858473777771,
+            "Type": "PERSON",
+            "Text": "@BleepThePolice",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.5436513423919678,
+            "Type": "QUANTITY",
+            "Text": "one",
+            "BeginOffset": 20,
+            "EndOffset": 23
+        }
+    ]
+}

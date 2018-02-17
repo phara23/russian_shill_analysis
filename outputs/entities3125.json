@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9263544678688049,
+            "Type": "PERSON",
+            "Text": "@faz_donalphonso",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.5211288928985596,
+            "Type": "PERSON",
+            "Text": "Das Rabe",
+            "BeginOffset": 21,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9345611333847046,
+            "Type": "PERSON",
+            "Text": "Beim Ablichten",
+            "BeginOffset": 51,
+            "EndOffset": 65
+        }
+    ]
+}

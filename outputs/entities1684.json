@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8932110667228699,
+            "Type": "ORGANIZATION",
+            "Text": "@MSNBC",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9850517511367798,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 32,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.8815950155258179,
+            "Type": "QUANTITY",
+            "Text": "First Month",
+            "BeginOffset": 43,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9118207097053528,
+            "Type": "QUANTITY",
+            "Text": "first month",
+            "BeginOffset": 86,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.9558758735656738,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 105,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.6859663128852844,
+            "Type": "DATE",
+            "Text": "tonight",
+            "BeginOffset": 123,
+            "EndOffset": 130
+        },
+        {
+            "Score": 0.9965017437934875,
+            "Type": "DATE",
+            "Text": "10 PM",
+            "BeginOffset": 134,
+            "EndOffset": 139
+        }
+    ]
+}

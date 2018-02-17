@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6776659488677979,
+            "Type": "PERSON",
+            "Text": "@StatesPoll",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8383185267448425,
+            "Type": "DATE",
+            "Text": "9/2",
+            "BeginOffset": 53,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9488301277160645,
+            "Type": "DATE",
+            "Text": "9/5",
+            "BeginOffset": 57,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9847570061683655,
+            "Type": "OTHER",
+            "Text": "https://t.co/s6zotnejh7",
+            "BeginOffset": 79,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.5686516165733337,
+            "Type": "PERSON",
+            "Text": "TRUMP",
+            "BeginOffset": 113,
+            "EndOffset": 118
+        },
+        {
+            "Score": 0.9936463236808777,
+            "Type": "QUANTITY",
+            "Text": "5.5%",
+            "BeginOffset": 120,
+            "EndOffset": 124
+        },
+        {
+            "Score": 0.6015132069587708,
+            "Type": "QUANTITY",
+            "Text": "20",
+            "BeginOffset": 137,
+            "EndOffset": 139
+        }
+    ]
+}

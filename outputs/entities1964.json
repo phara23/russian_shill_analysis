@@ -1,0 +1,67 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7318906784057617,
+            "Type": "PERSON",
+            "Text": "@LilyYD",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.8910706043243408,
+            "Type": "PERSON",
+            "Text": "@omarbula",
+            "BeginOffset": 12,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9732385873794556,
+            "Type": "PERSON",
+            "Text": "@EnkiVzla",
+            "BeginOffset": 22,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.955086350440979,
+            "Type": "PERSON",
+            "Text": "@geopolytica",
+            "BeginOffset": 32,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9615268707275391,
+            "Type": "PERSON",
+            "Text": "@myrianeuclibres",
+            "BeginOffset": 45,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9681245684623718,
+            "Type": "PERSON",
+            "Text": "@olgercohen",
+            "BeginOffset": 62,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.9506351351737976,
+            "Type": "PERSON",
+            "Text": "@sobramarmed",
+            "BeginOffset": 74,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.963564395904541,
+            "Type": "PERSON",
+            "Text": "@aba261",
+            "BeginOffset": 87,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.9078449606895447,
+            "Type": "PERSON",
+            "Text": "Omar",
+            "BeginOffset": 110,
+            "EndOffset": 114
+        }
+    ]
+}

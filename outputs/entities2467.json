@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.804266631603241,
+            "Type": "PERSON",
+            "Text": "@TVWriting",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.976877748966217,
+            "Type": "PERSON",
+            "Text": "Pan Gabrielides",
+            "BeginOffset": 47,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9090437293052673,
+            "Type": "OTHER",
+            "Text": "https://t.co/WAUMX127E3",
+            "BeginOffset": 63,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.999993085861206,
+            "Type": "OTHER",
+            "Text": "https://t.co/XSQ9mKnXHD",
+            "BeginOffset": 87,
+            "EndOffset": 110
+        }
+    ]
+}

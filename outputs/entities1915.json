@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8881418108940125,
+            "Type": "DATE",
+            "Text": "this year",
+            "BeginOffset": 37,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9999386072158813,
+            "Type": "OTHER",
+            "Text": "https://t.co/9V601aXvrd",
+            "BeginOffset": 47,
+            "EndOffset": 70
+        }
+    ]
+}

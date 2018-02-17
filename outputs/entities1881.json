@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7874611020088196,
+            "Type": "PERSON",
+            "Text": "@UnSlaveHumanity",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9841857552528381,
+            "Type": "DATE",
+            "Text": "1970",
+            "BeginOffset": 38,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9996449947357178,
+            "Type": "PERSON",
+            "Text": "Nikki Giovanni",
+            "BeginOffset": 52,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9992043972015381,
+            "Type": "PERSON",
+            "Text": "Lena Horne",
+            "BeginOffset": 71,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.9716470837593079,
+            "Type": "OTHER",
+            "Text": "https://t.co/gBGutut69P",
+            "BeginOffset": 82,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.78912752866745,
+            "Type": "ORGANIZATION",
+            "Text": "@MizzLizz1020",
+            "BeginOffset": 110,
+            "EndOffset": 123
+        },
+        {
+            "Score": 0.6901602149009705,
+            "Type": "PERSON",
+            "Text": "@uniqueloves",
+            "BeginOffset": 124,
+            "EndOffset": 136
+        },
+        {
+            "Score": 0.6209693551063538,
+            "Type": "ORGANIZATION",
+            "Text": "@A",
+            "BeginOffset": 137,
+            "EndOffset": 139
+        }
+    ]
+}

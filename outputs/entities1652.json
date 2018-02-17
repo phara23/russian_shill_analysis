@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7818744778633118,
+            "Type": "PERSON",
+            "Text": "@NPete2",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9600196480751038,
+            "Type": "PERSON",
+            "Text": "@_HankRearden",
+            "BeginOffset": 12,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9094002842903137,
+            "Type": "PERSON",
+            "Text": "@chiefbuffalo",
+            "BeginOffset": 26,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.8238976001739502,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 47,
+            "EndOffset": 54
+        }
+    ]
+}

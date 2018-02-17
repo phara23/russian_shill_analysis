@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8506511449813843,
+            "Type": "PERSON",
+            "Text": "@Conservatexian",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9324737787246704,
+            "Type": "PERSON",
+            "Text": "Snowden",
+            "BeginOffset": 28,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.8515317440032959,
+            "Type": "OTHER",
+            "Text": "Russian",
+            "BeginOffset": 58,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9999839067459106,
+            "Type": "OTHER",
+            "Text": "https://t.co/xP5oIVTGyA",
+            "BeginOffset": 78,
+            "EndOffset": 101
+        }
+    ]
+}

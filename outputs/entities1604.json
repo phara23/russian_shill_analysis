@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8816623687744141,
+            "Type": "PERSON",
+            "Text": "@Cheetah24u",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8929820656776428,
+            "Type": "PERSON",
+            "Text": "@StormyVNV",
+            "BeginOffset": 16,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9674023985862732,
+            "Type": "PERSON",
+            "Text": "@EnigmaNetxx",
+            "BeginOffset": 27,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9959761500358582,
+            "Type": "PERSON",
+            "Text": "@Meenakumari999",
+            "BeginOffset": 40,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9621994495391846,
+            "Type": "PERSON",
+            "Text": "@WiPoKuLi",
+            "BeginOffset": 56,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9872638583183289,
+            "Type": "PERSON",
+            "Text": "@MenAlyemen_ye",
+            "BeginOffset": 66,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.9291092157363892,
+            "Type": "PERSON",
+            "Text": "@Pepperpear",
+            "BeginOffset": 81,
+            "EndOffset": 92
+        }
+    ]
+}

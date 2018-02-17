@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7561391592025757,
+            "Type": "PERSON",
+            "Text": "@DougDoodles",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9671077132225037,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 17,
+            "EndOffset": 33
+        }
+    ]
+}

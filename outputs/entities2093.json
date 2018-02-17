@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9996260404586792,
+            "Type": "PERSON",
+            "Text": "Barack Obama",
+            "BeginOffset": 0,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9816464781761169,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 36,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9861323833465576,
+            "Type": "PERSON",
+            "Text": "Donald",
+            "BeginOffset": 52,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9553046226501465,
+            "Type": "OTHER",
+            "Text": "https://t.co/yJxLwPFyZg",
+            "BeginOffset": 63,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9040109515190125,
+            "Type": "OTHER",
+            "Text": "https://t.co/1KPXto2HfW",
+            "BeginOffset": 89,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.9999864101409912,
+            "Type": "OTHER",
+            "Text": "https://t.co/e49XOXS6Y3",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        }
+    ]
+}

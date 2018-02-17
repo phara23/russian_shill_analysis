@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9641624093055725,
+            "Type": "PERSON",
+            "Text": "@Boaz411",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8216331005096436,
+            "Type": "PERSON",
+            "Text": "@SenJohnMcCain",
+            "BeginOffset": 13,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9998652935028076,
+            "Type": "OTHER",
+            "Text": "https://t.co/CjKHK31YbV",
+            "BeginOffset": 75,
+            "EndOffset": 98
+        }
+    ]
+}

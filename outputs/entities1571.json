@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7755516767501831,
+            "Type": "PERSON",
+            "Text": "@MariaYes2",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9055870771408081,
+            "Type": "PERSON",
+            "Text": "trump",
+            "BeginOffset": 13,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9998483657836914,
+            "Type": "OTHER",
+            "Text": "https://t.co/OGdTBEW9o4",
+            "BeginOffset": 54,
+            "EndOffset": 77
+        }
+    ]
+}

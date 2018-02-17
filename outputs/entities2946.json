@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8963059186935425,
+            "Type": "PERSON",
+            "Text": "@TheIJR",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9640982151031494,
+            "Type": "ORGANIZATION",
+            "Text": "Democrats",
+            "BeginOffset": 12,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9631601572036743,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 43,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.8340917229652405,
+            "Type": "QUANTITY",
+            "Text": "Each One",
+            "BeginOffset": 64,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.9999262094497681,
+            "Type": "OTHER",
+            "Text": "https://t.co/t4JCMIyOr2",
+            "BeginOffset": 101,
+            "EndOffset": 124
+        }
+    ]
+}

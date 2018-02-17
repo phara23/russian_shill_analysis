@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8641870617866516,
+            "Type": "PERSON",
+            "Text": "@mitchellvii",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9472976922988892,
+            "Type": "ORGANIZATION",
+            "Text": "Republicans",
+            "BeginOffset": 17,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.7621182203292847,
+            "Type": "QUANTITY",
+            "Text": "both",
+            "BeginOffset": 34,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9789294004440308,
+            "Type": "QUANTITY",
+            "Text": "25 states",
+            "BeginOffset": 68,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.970192551612854,
+            "Type": "ORGANIZATION",
+            "Text": "Democrats",
+            "BeginOffset": 84,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.9179155230522156,
+            "Type": "QUANTITY",
+            "Text": "5",
+            "BeginOffset": 99,
+            "EndOffset": 100
+        }
+    ]
+}

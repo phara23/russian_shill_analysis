@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.822179913520813,
+            "Type": "PERSON",
+            "Text": "@BEATS_GO_BANG",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8829504251480103,
+            "Type": "OTHER",
+            "Text": "https://t.co/JXfE9SMZcY",
+            "BeginOffset": 44,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9556885957717896,
+            "Type": "OTHER",
+            "Text": "https://t.co/DaKhWnHAUP",
+            "BeginOffset": 118,
+            "EndOffset": 141
+        }
+    ]
+}

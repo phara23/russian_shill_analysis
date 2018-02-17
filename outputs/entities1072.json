@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7658605575561523,
+            "Type": "PERSON",
+            "Text": "@ARnews1936",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.78095942735672,
+            "Type": "OTHER",
+            "Text": "Jews",
+            "BeginOffset": 16,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.8165274858474731,
+            "Type": "QUANTITY",
+            "Text": "16 Muslim countries",
+            "BeginOffset": 46,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9999879598617554,
+            "Type": "OTHER",
+            "Text": "https://t.co/8kaEe6yx1N",
+            "BeginOffset": 67,
+            "EndOffset": 90
+        }
+    ]
+}

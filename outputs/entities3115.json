@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9292230010032654,
+            "Type": "PERSON",
+            "Text": "@BrazilianGirl32",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9916712045669556,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 72,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9999806880950928,
+            "Type": "OTHER",
+            "Text": "https://t.co/8BN5pgqN09",
+            "BeginOffset": 110,
+            "EndOffset": 133
+        }
+    ]
+}

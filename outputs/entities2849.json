@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.970054030418396,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 8,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.37997356057167053,
+            "Type": "LOCATION",
+            "Text": "Libya",
+            "BeginOffset": 18,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.5889217853546143,
+            "Type": "LOCATION",
+            "Text": "Benghazi",
+            "BeginOffset": 56,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.952233612537384,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 76,
+            "EndOffset": 80
+        }
+    ]
+}

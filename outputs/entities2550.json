@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8724170327186584,
+            "Type": "ORGANIZATION",
+            "Text": "Los Angeles Rams",
+            "BeginOffset": 12,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.7645007371902466,
+            "Type": "PERSON",
+            "Text": "@midnight",
+            "BeginOffset": 29,
+            "EndOffset": 38
+        }
+    ]
+}

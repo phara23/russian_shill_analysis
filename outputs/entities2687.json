@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8878474831581116,
+            "Type": "PERSON",
+            "Text": "@thejournalista",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.749980092048645,
+            "Type": "PERSON",
+            "Text": "@deray",
+            "BeginOffset": 51,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9999743700027466,
+            "Type": "OTHER",
+            "Text": "https://t.co/WGhxXwwmLc",
+            "BeginOffset": 107,
+            "EndOffset": 130
+        }
+    ]
+}

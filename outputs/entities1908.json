@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7472145557403564,
+            "Type": "PERSON",
+            "Text": "@BlackAmericaWeb",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9985406398773193,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 36,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.8385577201843262,
+            "Type": "OTHER",
+            "Text": "https://t.co/zhhrwRF3Yr",
+            "BeginOffset": 81,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.999964714050293,
+            "Type": "OTHER",
+            "Text": "https://t.co/ueSNw77TZV",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        }
+    ]
+}

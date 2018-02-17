@@ -1,0 +1,67 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9480354189872742,
+            "Type": "PERSON",
+            "Text": "@zlando",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.7213603854179382,
+            "Type": "QUANTITY",
+            "Text": "2 follow",
+            "BeginOffset": 31,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.910047173500061,
+            "Type": "LOCATION",
+            "Text": "Europe",
+            "BeginOffset": 52,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9409929513931274,
+            "Type": "LOCATION",
+            "Text": "Israel",
+            "BeginOffset": 59,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.6009966731071472,
+            "Type": "LOCATION",
+            "Text": "French",
+            "BeginOffset": 75,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.9298135042190552,
+            "Type": "OTHER",
+            "Text": "English",
+            "BeginOffset": 92,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.9698565006256104,
+            "Type": "ORGANIZATION",
+            "Text": "Twitter",
+            "BeginOffset": 102,
+            "EndOffset": 109
+        },
+        {
+            "Score": 0.8715468645095825,
+            "Type": "PERSON",
+            "Text": "@EuIsraelEnglish",
+            "BeginOffset": 111,
+            "EndOffset": 127
+        },
+        {
+            "Score": 0.9223932027816772,
+            "Type": "OTHER",
+            "Text": "https://t.c",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

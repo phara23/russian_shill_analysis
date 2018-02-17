@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8445576429367065,
+            "Type": "PERSON",
+            "Text": "@DominicTV",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9731926321983337,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 48,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.7025108933448792,
+            "Type": "PERSON",
+            "Text": "President-Elect",
+            "BeginOffset": 102,
+            "EndOffset": 117
+        },
+        {
+            "Score": 0.8912986516952515,
+            "Type": "LOCATION",
+            "Text": "United States",
+            "BeginOffset": 125,
+            "EndOffset": 138
+        }
+    ]
+}

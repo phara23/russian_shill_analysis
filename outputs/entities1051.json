@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.527933657169342,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.857941746711731,
+            "Type": "PERSON",
+            "Text": "@muniqui19",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8678845763206482,
+            "Type": "LOCATION",
+            "Text": "Japan",
+            "BeginOffset": 15,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.7986488938331604,
+            "Type": "ORGANIZATION",
+            "Text": "The Japan Times",
+            "BeginOffset": 103,
+            "EndOffset": 118
+        },
+        {
+            "Score": 0.9137783050537109,
+            "Type": "OTHER",
+            "Text": "https://t.co/k9lg13p",
+            "BeginOffset": 119,
+            "EndOffset": 139
+        }
+    ]
+}

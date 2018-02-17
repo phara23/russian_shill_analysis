@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8258215188980103,
+            "Type": "PERSON",
+            "Text": "@Blavity",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8730701804161072,
+            "Type": "PERSON",
+            "Text": "@nykhor",
+            "BeginOffset": 46,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9563778638839722,
+            "Type": "PERSON",
+            "Text": "@laolunyc",
+            "BeginOffset": 54,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9372559189796448,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 94,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.9650014638900757,
+            "Type": "OTHER",
+            "Text": "https://t.co/wZifc7euNb",
+            "BeginOffset": 99,
+            "EndOffset": 122
+        },
+        {
+            "Score": 0.9663769602775574,
+            "Type": "OTHER",
+            "Text": "https://t.co/vj0",
+            "BeginOffset": 123,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7796793580055237,
+            "Type": "PERSON",
+            "Text": "@DrMartyFox",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7201488614082336,
+            "Type": "PERSON",
+            "Text": "#Trump",
+            "BeginOffset": 87,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.5960049033164978,
+            "Type": "PERSON",
+            "Text": "Democrat T",
+            "BeginOffset": 129,
+            "EndOffset": 139
+        }
+    ]
+}

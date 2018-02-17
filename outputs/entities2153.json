@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.880631685256958,
+            "Type": "PERSON",
+            "Text": "@a_meluzzi",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.99993896484375,
+            "Type": "OTHER",
+            "Text": "https://t.co/oxST9eKvnR",
+            "BeginOffset": 15,
+            "EndOffset": 38
+        }
+    ]
+}

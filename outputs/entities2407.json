@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.424411803483963,
+            "Type": "PERSON",
+            "Text": "Jew",
+            "BeginOffset": 24,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.8590869307518005,
+            "Type": "PERSON",
+            "Text": "@midnight",
+            "BeginOffset": 51,
+            "EndOffset": 60
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.8801655769348145,
+            "Text": "RT @FoxNews",
+            "BeginOffset": 0,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9717752933502197,
+            "Text": "Fox News Poll",
+            "BeginOffset": 13,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9971202611923218,
+            "Text": "independent voters",
+            "BeginOffset": 34,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.8881036639213562,
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 54,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.8757745027542114,
+            "Text": "@HillaryClinton 41%",
+            "BeginOffset": 77,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.991361141204834,
+            "Text": "29%",
+            "BeginOffset": 100,
+            "EndOffset": 103
+        }
+    ]
+}

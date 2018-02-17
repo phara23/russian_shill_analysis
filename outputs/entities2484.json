@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.984993577003479,
+            "Type": "PERSON",
+            "Text": "Bill",
+            "BeginOffset": 9,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9996393918991089,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 26,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9915332198143005,
+            "Type": "LOCATION",
+            "Text": "Benghazi",
+            "BeginOffset": 67,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.9999009370803833,
+            "Type": "OTHER",
+            "Text": "https://t.co/PACRIwJDgf",
+            "BeginOffset": 77,
+            "EndOffset": 100
+        }
+    ]
+}

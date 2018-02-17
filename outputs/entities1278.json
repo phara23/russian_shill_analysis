@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9989227056503296,
+            "Type": "PERSON",
+            "Text": "Martha Stewart",
+            "BeginOffset": 0,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9902878999710083,
+            "Type": "ORGANIZATION",
+            "Text": "FBI",
+            "BeginOffset": 45,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.7043327689170837,
+            "Type": "QUANTITY",
+            "Text": "one time",
+            "BeginOffset": 49,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9995297193527222,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 59,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9869000315666199,
+            "Type": "QUANTITY",
+            "Text": "39 times",
+            "BeginOffset": 84,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.5599837899208069,
+            "Type": "QUANTITY",
+            "Text": "10",
+            "BeginOffset": 108,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.9999037981033325,
+            "Type": "OTHER",
+            "Text": "https://t.co/l4jgknEk9N",
+            "BeginOffset": 112,
+            "EndOffset": 135
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.943716824054718,
+            "Type": "PERSON",
+            "Text": "@sabela13",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9249705672264099,
+            "Type": "PERSON",
+            "Text": "@AbhishekPrtp",
+            "BeginOffset": 14,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9197649955749512,
+            "Type": "PERSON",
+            "Text": "@CharcitaJune",
+            "BeginOffset": 28,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.8064139485359192,
+            "Type": "ORGANIZATION",
+            "Text": "Russia",
+            "BeginOffset": 51,
+            "EndOffset": 57
+        }
+    ]
+}

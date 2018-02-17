@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8753373622894287,
+            "Type": "PERSON",
+            "Text": "@MidwestRadio_FM",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8245881795883179,
+            "Type": "PERSON",
+            "Text": "@SirMichaelRocks",
+            "BeginOffset": 33,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9999501705169678,
+            "Type": "OTHER",
+            "Text": "https://t.co/0Qv1KMY0xy",
+            "BeginOffset": 64,
+            "EndOffset": 87
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7533182501792908,
+            "Type": "PERSON",
+            "Text": "@VoiceOverPerson",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9998363256454468,
+            "Type": "OTHER",
+            "Text": "https://t.co/ooH95EYaQL",
+            "BeginOffset": 51,
+            "EndOffset": 74
+        }
+    ]
+}

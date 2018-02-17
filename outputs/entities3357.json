@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9129851460456848,
+            "Type": "PERSON",
+            "Text": "@Eli22301003",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7329381108283997,
+            "Type": "PERSON",
+            "Text": "Riddle",
+            "BeginOffset": 17,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9997702240943909,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 37,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9998929500579834,
+            "Type": "OTHER",
+            "Text": "https://t.co/smP2ikzp8i",
+            "BeginOffset": 98,
+            "EndOffset": 121
+        }
+    ]
+}

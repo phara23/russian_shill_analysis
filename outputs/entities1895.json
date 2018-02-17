@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8589187860488892,
+            "Type": "EVENT",
+            "Text": "Olympic",
+            "BeginOffset": 9,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9998186230659485,
+            "Type": "PERSON",
+            "Text": "Bruce Jenner",
+            "BeginOffset": 26,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9998883008956909,
+            "Type": "OTHER",
+            "Text": "http://t.co/RftZpDgBln",
+            "BeginOffset": 76,
+            "EndOffset": 98
+        }
+    ]
+}

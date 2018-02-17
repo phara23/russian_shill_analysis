@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8709357976913452,
+            "Type": "QUANTITY",
+            "Text": "380,000 Homeless",
+            "BeginOffset": 0,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9679642915725708,
+            "Type": "LOCATION",
+            "Text": "Germany",
+            "BeginOffset": 20,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.8624501824378967,
+            "Type": "OTHER",
+            "Text": "https://t.co/CHABBhOu3F",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.9999297857284546,
+            "Type": "OTHER",
+            "Text": "https://t.co/AhDqeSD516",
+            "BeginOffset": 114,
+            "EndOffset": 137
+        }
+    ]
+}

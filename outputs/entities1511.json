@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6590325236320496,
+            "Type": "PERSON",
+            "Text": "@lvmypug",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8955745697021484,
+            "Type": "PERSON",
+            "Text": "@ciji2016",
+            "BeginOffset": 13,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9715654850006104,
+            "Type": "PERSON",
+            "Text": "Merkel",
+            "BeginOffset": 36,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.8736109733581543,
+            "Type": "PERSON",
+            "Text": "obama",
+            "BeginOffset": 62,
+            "EndOffset": 67
+        }
+    ]
+}

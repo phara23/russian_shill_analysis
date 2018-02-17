@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8818995356559753,
+            "Type": "QUANTITY",
+            "Text": "10,000",
+            "BeginOffset": 19,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.994038462638855,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 26,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.5625473856925964,
+            "Type": "ORGANIZATION",
+            "Text": "CNN",
+            "BeginOffset": 50,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.8641577959060669,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 64,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9319076538085938,
+            "Type": "LOCATION",
+            "Text": "PA",
+            "BeginOffset": 79,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.9999710321426392,
+            "Type": "OTHER",
+            "Text": "https://t.co/TSdXXjsAWD",
+            "BeginOffset": 101,
+            "EndOffset": 124
+        }
+    ]
+}

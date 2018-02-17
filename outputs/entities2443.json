@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9544979333877563,
+            "Type": "PERSON",
+            "Text": "@KellyannePolls",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.43760213255882263,
+            "Type": "ORGANIZATION",
+            "Text": "#NH",
+            "BeginOffset": 41,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9467516541481018,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 45,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9430779814720154,
+            "Type": "ORGANIZATION",
+            "Text": "@Patriots",
+            "BeginOffset": 89,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.9986475110054016,
+            "Type": "PERSON",
+            "Text": "Bill Belichick",
+            "BeginOffset": 111,
+            "EndOffset": 125
+        },
+        {
+            "Score": 0.9960389137268066,
+            "Type": "PERSON",
+            "Text": "Tom Brady",
+            "BeginOffset": 132,
+            "EndOffset": 141
+        }
+    ]
+}

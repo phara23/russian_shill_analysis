@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7945655584335327,
+            "Type": "PERSON",
+            "Text": "@HashtagRoundup",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.6438254714012146,
+            "Type": "QUANTITY",
+            "Text": "#5",
+            "BeginOffset": 20,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.888154149055481,
+            "Type": "LOCATION",
+            "Text": "USA",
+            "BeginOffset": 23,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.86514812707901,
+            "Type": "PERSON",
+            "Text": "@sneakyvarmint",
+            "BeginOffset": 49,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9308780431747437,
+            "Type": "PERSON",
+            "Text": "@SemperMagus",
+            "BeginOffset": 64,
+            "EndOffset": 76
+        }
+    ]
+}

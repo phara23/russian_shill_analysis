@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9216498732566833,
+            "Type": "PERSON",
+            "Text": "@DryerBuzz",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.48408928513526917,
+            "Type": "PERSON",
+            "Text": "#harry",
+            "BeginOffset": 60,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.5041489601135254,
+            "Type": "PERSON",
+            "Text": "#HairSheBuzz",
+            "BeginOffset": 67,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.8098741769790649,
+            "Type": "PERSON",
+            "Text": "#DryerBuzz",
+            "BeginOffset": 80,
+            "EndOffset": 90
+        }
+    ]
+}

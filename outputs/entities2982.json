@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9681628942489624,
+            "Type": "PERSON",
+            "Text": "@JamilSmith",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9732587337493896,
+            "Type": "ORGANIZATION",
+            "Text": "Sacramento Kings",
+            "BeginOffset": 16,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9999191761016846,
+            "Type": "PERSON",
+            "Text": "Darren Collison",
+            "BeginOffset": 39,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9985107779502869,
+            "Type": "DATE",
+            "Text": "Monday",
+            "BeginOffset": 68,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9997946619987488,
+            "Type": "OTHER",
+            "Text": "https://t.co/lwZM5snwxo",
+            "BeginOffset": 116,
+            "EndOffset": 139
+        }
+    ]
+}

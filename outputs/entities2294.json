@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7813856601715088,
+            "Type": "PERSON",
+            "Text": "@womensart1",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.988831102848053,
+            "Type": "PERSON",
+            "Text": "Regina José Galindo",
+            "BeginOffset": 16,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.6003970503807068,
+            "Type": "OTHER",
+            "Text": "Guatemalan",
+            "BeginOffset": 37,
+            "EndOffset": 47
+        }
+    ]
+}

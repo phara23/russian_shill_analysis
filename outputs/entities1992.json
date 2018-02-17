@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5126994252204895,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.9592150449752808,
+            "Type": "PERSON",
+            "Text": "@Gavin_McInnes",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9929976463317871,
+            "Type": "PERSON",
+            "Text": "Santa",
+            "BeginOffset": 27,
+            "EndOffset": 32
+        }
+    ]
+}

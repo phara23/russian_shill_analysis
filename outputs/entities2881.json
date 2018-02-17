@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6893216371536255,
+            "Type": "ORGANIZATION",
+            "Text": "@ActivistPost",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9562937617301941,
+            "Type": "ORGANIZATION",
+            "Text": "CDC",
+            "BeginOffset": 44,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.8444163203239441,
+            "Type": "QUANTITY",
+            "Text": "6 Times",
+            "BeginOffset": 89,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.9999839067459106,
+            "Type": "OTHER",
+            "Text": "https://t.co/A1KEV5BMQ7",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        }
+    ]
+}

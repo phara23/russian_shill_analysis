@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8936619758605957,
+            "Type": "PERSON",
+            "Text": "@l_escala",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8470205664634705,
+            "Type": "PERSON",
+            "Text": "@CandysOpinions",
+            "BeginOffset": 14,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9276982545852661,
+            "Type": "PERSON",
+            "Text": "@JadedByPolitics",
+            "BeginOffset": 30,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.8248828649520874,
+            "Type": "PERSON",
+            "Text": "@LiveActionNews",
+            "BeginOffset": 47,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.628780722618103,
+            "Type": "QUANTITY",
+            "Text": "double homicide",
+            "BeginOffset": 114,
+            "EndOffset": 129
+        }
+    ]
+}

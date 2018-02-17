@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9057395458221436,
+            "Type": "PERSON",
+            "Text": "@RealAlexJones",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9994519948959351,
+            "Type": "QUANTITY",
+            "Text": "€250,000",
+            "BeginOffset": 67,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.9763618111610413,
+            "Type": "OTHER",
+            "Text": "https://t.co/yyKTqvSw",
+            "BeginOffset": 118,
+            "EndOffset": 139
+        }
+    ]
+}

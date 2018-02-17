@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9517059922218323,
+            "Type": "PERSON",
+            "Text": "@Gen_Frustration",
+            "BeginOffset": 0,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9975390434265137,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 68,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.9916591048240662,
+            "Type": "PERSON",
+            "Text": "Hitler",
+            "BeginOffset": 77,
+            "EndOffset": 83
+        }
+    ]
+}

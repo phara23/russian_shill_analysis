@@ -1,0 +1,28 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9254301190376282,
+            "Text": "RT @thehill",
+            "BeginOffset": 0,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9933687448501587,
+            "Text": "Dem congressman",
+            "BeginOffset": 13,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.7522290349006653,
+            "Text": "Trump",
+            "BeginOffset": 30,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9930890202522278,
+            "Text": "own campaign",
+            "BeginOffset": 47,
+            "EndOffset": 59
+        }
+    ]
+}

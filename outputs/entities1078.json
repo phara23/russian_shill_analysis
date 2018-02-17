@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9042853713035583,
+            "Type": "LOCATION",
+            "Text": "France",
+            "BeginOffset": 75,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.9999433755874634,
+            "Type": "OTHER",
+            "Text": "https://t.co/J4NTCV0mgj",
+            "BeginOffset": 99,
+            "EndOffset": 122
+        }
+    ]
+}

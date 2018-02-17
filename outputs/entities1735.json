@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8844606280326843,
+            "Type": "PERSON",
+            "Text": "@broadbandito",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.6442759037017822,
+            "Type": "OTHER",
+            "Text": "French",
+            "BeginOffset": 76,
+            "EndOffset": 82
+        }
+    ]
+}

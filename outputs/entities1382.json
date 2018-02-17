@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7264745831489563,
+            "Type": "PERSON",
+            "Text": "@scoutKA",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9997219443321228,
+            "Type": "OTHER",
+            "Text": "https://t.co/ziFtqgf9RA",
+            "BeginOffset": 60,
+            "EndOffset": 83
+        }
+    ]
+}

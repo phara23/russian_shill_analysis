@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9641885757446289,
+            "Type": "PERSON",
+            "Text": "@DonaldJTrumpJr",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9623234868049622,
+            "Type": "PERSON",
+            "Text": "Donald Trump Jr.",
+            "BeginOffset": 57,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.9651923775672913,
+            "Type": "LOCATION",
+            "Text": "Wausau, Wisconsin",
+            "BeginOffset": 77,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.9972805976867676,
+            "Type": "OTHER",
+            "Text": "https://t.co/Sc7KYGsjbr",
+            "BeginOffset": 95,
+            "EndOffset": 118
+        }
+    ]
+}

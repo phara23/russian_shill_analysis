@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8963555097579956,
+            "Type": "PERSON",
+            "Text": "@EmileeWaren",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9385073781013489,
+            "Type": "LOCATION",
+            "Text": "California",
+            "BeginOffset": 80,
+            "EndOffset": 90
+        }
+    ]
+}

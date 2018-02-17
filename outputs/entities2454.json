@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9234259128570557,
+            "Type": "PERSON",
+            "Text": "@DavidAFrench",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9929841160774231,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 51,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9923916459083557,
+            "Type": "OTHER",
+            "Text": "https://t.co/HyV39j6tUU",
+            "BeginOffset": 64,
+            "EndOffset": 87
+        }
+    ]
+}

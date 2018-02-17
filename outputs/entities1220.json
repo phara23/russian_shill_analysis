@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8077685236930847,
+            "Type": "PERSON",
+            "Text": "@_funmilola_",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7642746567726135,
+            "Type": "PERSON",
+            "Text": "@BLMLA",
+            "BeginOffset": 77,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.9381906390190125,
+            "Type": "PERSON",
+            "Text": "@blklivesmatter",
+            "BeginOffset": 84,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.9999774694442749,
+            "Type": "OTHER",
+            "Text": "https://t.co/Sd3XR3GLEg",
+            "BeginOffset": 100,
+            "EndOffset": 123
+        }
+    ]
+}

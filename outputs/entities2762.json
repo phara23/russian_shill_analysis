@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4865994155406952,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8523045778274536,
+            "Type": "ORGANIZATION",
+            "Text": "@Seattle_Post",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7833524942398071,
+            "Type": "LOCATION",
+            "Text": "Saudi",
+            "BeginOffset": 18,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.7880290746688843,
+            "Type": "QUANTITY",
+            "Text": "120",
+            "BeginOffset": 44,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.7907431125640869,
+            "Type": "LOCATION",
+            "Text": "Yemen",
+            "BeginOffset": 51,
+            "EndOffset": 56
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8545529842376709,
+            "Type": "PERSON",
+            "Text": "@_eelayney",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9715803265571594,
+            "Type": "DATE",
+            "Text": "2017",
+            "BeginOffset": 19,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9921690821647644,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 91,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.9644613265991211,
+            "Type": "DATE",
+            "Text": "2015",
+            "BeginOffset": 131,
+            "EndOffset": 135
+        }
+    ]
+}

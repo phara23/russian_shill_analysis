@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9357636570930481,
+            "Type": "PERSON",
+            "Text": "@randilynisin",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7481250762939453,
+            "Type": "QUANTITY",
+            "Text": "two left feet",
+            "BeginOffset": 31,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9993730187416077,
+            "Type": "OTHER",
+            "Text": "https://t.co/lmm2BDbj3t",
+            "BeginOffset": 71,
+            "EndOffset": 94
+        }
+    ]
+}

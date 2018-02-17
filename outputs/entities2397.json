@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8813039064407349,
+            "Type": "PERSON",
+            "Text": "@LaloDagach",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.5891213417053223,
+            "Type": "LOCATION",
+            "Text": "Saudi",
+            "BeginOffset": 16,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9994369149208069,
+            "Type": "PERSON",
+            "Text": "Rana Ahmad",
+            "BeginOffset": 27,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9608515501022339,
+            "Type": "ORGANIZATION",
+            "Text": "Twitter",
+            "BeginOffset": 97,
+            "EndOffset": 104
+        }
+    ]
+}

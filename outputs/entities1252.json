@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.63519287109375,
+            "Type": "ORGANIZATION",
+            "Text": "@ActivistPost",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8142288327217102,
+            "Type": "ORGANIZATION",
+            "Text": "U.S. Government",
+            "BeginOffset": 18,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.6706357002258301,
+            "Type": "LOCATION",
+            "Text": "Earth",
+            "BeginOffset": 88,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.9998985528945923,
+            "Type": "OTHER",
+            "Text": "https://t.co/A3uxWdNqzM",
+            "BeginOffset": 94,
+            "EndOffset": 117
+        }
+    ]
+}

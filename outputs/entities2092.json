@@ -1,0 +1,81 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6971014738082886,
+            "Type": "PERSON",
+            "Text": "@StatesPoll",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9384146928787231,
+            "Type": "PERSON",
+            "Text": "TRUMP",
+            "BeginOffset": 16,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9888421297073364,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 27,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.804871141910553,
+            "Type": "LOCATION",
+            "Text": "Iowa",
+            "BeginOffset": 44,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9845902919769287,
+            "Type": "LOCATION",
+            "Text": "MO",
+            "BeginOffset": 49,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.7891861796379089,
+            "Type": "ORGANIZATION",
+            "Text": "Reuters",
+            "BeginOffset": 53,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9516910314559937,
+            "Type": "DATE",
+            "Text": "8/26",
+            "BeginOffset": 61,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9755221009254456,
+            "Type": "DATE",
+            "Text": "8/29",
+            "BeginOffset": 66,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.8556495904922485,
+            "Type": "OTHER",
+            "Text": "https://t.co/PnTdKPQdlT",
+            "BeginOffset": 89,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.9799790382385254,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 131,
+            "EndOffset": 135
+        },
+        {
+            "Score": 0.33473190665245056,
+            "Type": "ORGANIZATION",
+            "Text": "#MA",
+            "BeginOffset": 136,
+            "EndOffset": 139
+        }
+    ]
+}

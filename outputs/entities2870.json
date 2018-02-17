@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8611710071563721,
+            "Type": "PERSON",
+            "Text": "@BaburRealer",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8229448199272156,
+            "Type": "PERSON",
+            "Text": "@BLMChi",
+            "BeginOffset": 33,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.8046059608459473,
+            "Type": "EVENT",
+            "Text": "Black Power Youth Summit",
+            "BeginOffset": 43,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.7705921530723572,
+            "Type": "PERSON",
+            "Text": "@TheVLAcademy",
+            "BeginOffset": 68,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.5954328775405884,
+            "Type": "DATE",
+            "Text": "1",
+            "BeginOffset": 83,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9497077465057373,
+            "Type": "DATE",
+            "Text": "4PM",
+            "BeginOffset": 85,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.712323784828186,
+            "Type": "QUANTITY",
+            "Text": "800 S",
+            "BeginOffset": 91,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.9999783039093018,
+            "Type": "OTHER",
+            "Text": "https://t.co/a03q9YHj3u",
+            "BeginOffset": 104,
+            "EndOffset": 127
+        }
+    ]
+}

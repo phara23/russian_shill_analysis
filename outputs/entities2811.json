@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.885369062423706,
+            "Type": "PERSON",
+            "Text": "@jayceodpromoter",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.6552930474281311,
+            "Type": "OTHER",
+            "Text": "https://t.co/NigHaFsXb6",
+            "BeginOffset": 77,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.6304776668548584,
+            "Type": "OTHER",
+            "Text": "#89",
+            "BeginOffset": 101,
+            "EndOffset": 104
+        }
+    ]
+}

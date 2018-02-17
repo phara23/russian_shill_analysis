@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7599256038665771,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8242498636245728,
+            "Type": "QUANTITY",
+            "Text": "13 Pictures",
+            "BeginOffset": 13,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9998248219490051,
+            "Type": "OTHER",
+            "Text": "https://t.co/gGWs0nVpeI",
+            "BeginOffset": 94,
+            "EndOffset": 117
+        }
+    ]
+}

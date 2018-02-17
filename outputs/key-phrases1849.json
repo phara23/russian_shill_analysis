@@ -1,0 +1,28 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.951242983341217,
+            "Text": "Coffee and Cigarettes",
+            "BeginOffset": 0,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.8029335141181946,
+            "Text": "donuts",
+            "BeginOffset": 27,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9051915407180786,
+            "Text": "pizza",
+            "BeginOffset": 35,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.8707993626594543,
+            "Text": "mcnuggets",
+            "BeginOffset": 42,
+            "EndOffset": 51
+        }
+    ]
+}

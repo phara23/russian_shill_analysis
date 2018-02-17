@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.813697338104248,
+            "Type": "PERSON",
+            "Text": "@thehill",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9957360029220581,
+            "Type": "PERSON",
+            "Text": "Al Gore",
+            "BeginOffset": 20,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9959438443183899,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 57,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9971576929092407,
+            "Type": "PERSON",
+            "Text": "Sanders",
+            "BeginOffset": 69,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.8771731853485107,
+            "Type": "OTHER",
+            "Text": "https://t.co/fExM1hK4Tv",
+            "BeginOffset": 77,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.9999426603317261,
+            "Type": "OTHER",
+            "Text": "https://t.co/Fx5SosFjYP",
+            "BeginOffset": 101,
+            "EndOffset": 124
+        }
+    ]
+}

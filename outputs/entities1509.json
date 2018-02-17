@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.944879412651062,
+            "Type": "PERSON",
+            "Text": "@southernkimmy",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9997491836547852,
+            "Type": "PERSON",
+            "Text": "Ryan Zinke",
+            "BeginOffset": 24,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9914026856422424,
+            "Type": "TITLE",
+            "Text": "Obamacare",
+            "BeginOffset": 38,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.4243755340576172,
+            "Type": "ORGANIZATION",
+            "Text": "Newsmax",
+            "BeginOffset": 73,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.9999618530273438,
+            "Type": "OTHER",
+            "Text": "https://t.co/pZnXQhEaB6",
+            "BeginOffset": 81,
+            "EndOffset": 104
+        }
+    ]
+}

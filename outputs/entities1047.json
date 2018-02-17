@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.890412449836731,
+            "Type": "PERSON",
+            "Text": "@DiamondBar8",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8650383353233337,
+            "Type": "PERSON",
+            "Text": "@tweettruth2me",
+            "BeginOffset": 17,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.8373914957046509,
+            "Type": "PERSON",
+            "Text": "@osPatriot",
+            "BeginOffset": 32,
+            "EndOffset": 42
+        }
+    ]
+}

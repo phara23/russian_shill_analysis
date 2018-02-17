@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8618170022964478,
+            "Type": "PERSON",
+            "Text": "@jjliberty",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.5433197021484375,
+            "Type": "PERSON",
+            "Text": "Blumenthal",
+            "BeginOffset": 61,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9944879412651062,
+            "Type": "PERSON",
+            "Text": "Durbin",
+            "BeginOffset": 76,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.9999150037765503,
+            "Type": "OTHER",
+            "Text": "http://t.co/CYDvMIpv52",
+            "BeginOffset": 83,
+            "EndOffset": 105
+        }
+    ]
+}

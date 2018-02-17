@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9811890721321106,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 0,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9838854074478149,
+            "Type": "DATE",
+            "Text": "today",
+            "BeginOffset": 28,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.6919214129447937,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 37,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.921125054359436,
+            "Type": "LOCATION",
+            "Text": "High Point, NC",
+            "BeginOffset": 52,
+            "EndOffset": 66
+        }
+    ]
+}

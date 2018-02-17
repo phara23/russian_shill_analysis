@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8241826891899109,
+            "Type": "PERSON",
+            "Text": "@The_Last_NewsPa",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.244485005736351,
+            "Type": "PERSON",
+            "Text": "Goodlatte",
+            "BeginOffset": 26,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9889732003211975,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 69,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.8161550164222717,
+            "Type": "OTHER",
+            "Text": "https://t.co/1bNbTVfUZg",
+            "BeginOffset": 93,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.9999209642410278,
+            "Type": "OTHER",
+            "Text": "https://t.co/x0VQsIQuqa",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

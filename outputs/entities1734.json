@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7681402564048767,
+            "Type": "PERSON",
+            "Text": "@onlnsurfer",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8178369402885437,
+            "Type": "ORGANIZATION",
+            "Text": "#FBI",
+            "BeginOffset": 69,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.9431392550468445,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 92,
+            "EndOffset": 97
+        }
+    ]
+}

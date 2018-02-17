@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.917848527431488,
+            "Type": "PERSON",
+            "Text": "@trump2021",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9995954632759094,
+            "Type": "OTHER",
+            "Text": "https://t.co/SFAygCKcNI",
+            "BeginOffset": 32,
+            "EndOffset": 55
+        }
+    ]
+}

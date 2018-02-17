@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9627187252044678,
+            "Type": "PERSON",
+            "Text": "@SaharahShae",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8218550086021423,
+            "Type": "PERSON",
+            "Text": "Shae xo",
+            "BeginOffset": 67,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.5544286370277405,
+            "Type": "OTHER",
+            "Text": "https://t.co/F8fautIlmf",
+            "BeginOffset": 83,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.6186585426330566,
+            "Type": "OTHER",
+            "Text": "https://t.co/4IeLcJlyhr",
+            "BeginOffset": 107,
+            "EndOffset": 130
+        }
+    ]
+}

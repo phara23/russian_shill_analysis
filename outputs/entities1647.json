@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9243274927139282,
+            "Type": "PERSON",
+            "Text": "@TroyBlayne",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.993796706199646,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 21,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.8241862654685974,
+            "Type": "QUANTITY",
+            "Text": "one single problem",
+            "BeginOffset": 40,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9982566237449646,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 73,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.9999202489852905,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 83,
+            "EndOffset": 90
+        }
+    ]
+}

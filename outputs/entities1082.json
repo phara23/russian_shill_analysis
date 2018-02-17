@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7261722683906555,
+            "Type": "PERSON",
+            "Text": "@streiffredstate",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9918573498725891,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 43,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9949491620063782,
+            "Type": "PERSON",
+            "Text": "John Kasich",
+            "BeginOffset": 63,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.987686038017273,
+            "Type": "TITLE",
+            "Text": "ObamaCare",
+            "BeginOffset": 78,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.9937811493873596,
+            "Type": "OTHER",
+            "Text": "https://t.co/mXYUKfY8cg",
+            "BeginOffset": 88,
+            "EndOffset": 111
+        },
+        {
+            "Score": 0.8597295880317688,
+            "Type": "ORGANIZATION",
+            "Text": "@streiffredstate",
+            "BeginOffset": 116,
+            "EndOffset": 132
+        }
+    ]
+}

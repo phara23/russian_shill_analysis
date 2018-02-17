@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6609220504760742,
+            "Type": "PERSON",
+            "Text": "@HipHopDX",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9596620798110962,
+            "Type": "OTHER",
+            "Text": "https://t.co/p1klXARNZ5",
+            "BeginOffset": 62,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.9998542070388794,
+            "Type": "OTHER",
+            "Text": "https://t.co/Cd3UdbLbUv",
+            "BeginOffset": 86,
+            "EndOffset": 109
+        }
+    ]
+}

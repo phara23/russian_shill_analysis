@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9916316866874695,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9807563424110413,
+            "Type": "LOCATION",
+            "Text": "Arizona",
+            "BeginOffset": 9,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9869794845581055,
+            "Type": "TITLE",
+            "Text": "Obamacare",
+            "BeginOffset": 19,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9544553756713867,
+            "Type": "LOCATION",
+            "Text": "Arizona",
+            "BeginOffset": 50,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.7247704267501831,
+            "Type": "OTHER",
+            "Text": "https://t.co/3YhYpoX2VP",
+            "BeginOffset": 93,
+            "EndOffset": 116
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8074482679367065,
+            "Type": "PERSON",
+            "Text": "@RawStory",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.6406566500663757,
+            "Type": "PERSON",
+            "Text": "#Trump",
+            "BeginOffset": 43,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9393163919448853,
+            "Type": "QUANTITY",
+            "Text": "8 million",
+            "BeginOffset": 64,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.9934375882148743,
+            "Type": "PERSON",
+            "Text": "Donald",
+            "BeginOffset": 93,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.9898717999458313,
+            "Type": "DATE",
+            "Text": "1980",
+            "BeginOffset": 113,
+            "EndOffset": 117
+        }
+    ]
+}

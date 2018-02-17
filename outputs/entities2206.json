@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8189029693603516,
+            "Type": "PERSON",
+            "Text": "@Avuncular",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9788389801979065,
+            "Type": "ORGANIZATION",
+            "Text": "MSNBC",
+            "BeginOffset": 15,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.8622244000434875,
+            "Type": "DATE",
+            "Text": "tonight",
+            "BeginOffset": 28,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.8296467661857605,
+            "Type": "QUANTITY",
+            "Text": "first",
+            "BeginOffset": 38,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.8098682761192322,
+            "Type": "PERSON",
+            "Text": "@chrislhayes",
+            "BeginOffset": 44,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9315435886383057,
+            "Type": "PERSON",
+            "Text": "Carter Page",
+            "BeginOffset": 73,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.8878447413444519,
+            "Type": "PERSON",
+            "Text": "@maddow",
+            "BeginOffset": 100,
+            "EndOffset": 107
+        }
+    ]
+}

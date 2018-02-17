@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7482545971870422,
+            "Type": "PERSON",
+            "Text": "@KingBriceMusic",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.80930095911026,
+            "Type": "PERSON",
+            "Text": "@HaitianRemo",
+            "BeginOffset": 34,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9646790027618408,
+            "Type": "PERSON",
+            "Text": "@REALDJPAPITO730",
+            "BeginOffset": 47,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9696170687675476,
+            "Type": "PERSON",
+            "Text": "@_iMake_Hitz",
+            "BeginOffset": 64,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.9629170298576355,
+            "Type": "DATE",
+            "Text": "this week",
+            "BeginOffset": 93,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.49565616250038147,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 129,
+            "EndOffset": 138
+        }
+    ]
+}

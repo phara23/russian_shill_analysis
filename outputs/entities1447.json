@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8597580194473267,
+            "Type": "PERSON",
+            "Text": "@CmmnSense14",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7625157833099365,
+            "Type": "PERSON",
+            "Text": "@SenateDems",
+            "BeginOffset": 17,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9961130619049072,
+            "Type": "DATE",
+            "Text": "2018",
+            "BeginOffset": 59,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9999251365661621,
+            "Type": "OTHER",
+            "Text": "https://t.co/FhyxtKgSSk",
+            "BeginOffset": 64,
+            "EndOffset": 87
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6874306797981262,
+            "Type": "PERSON",
+            "Text": "@TRUMPMOVEMENTUS",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.6804118752479553,
+            "Type": "ORGANIZATION",
+            "Text": "Henderson NV",
+            "BeginOffset": 31,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9969879984855652,
+            "Type": "ORGANIZATION",
+            "Text": "Facebook",
+            "BeginOffset": 118,
+            "EndOffset": 126
+        }
+    ]
+}

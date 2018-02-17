@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9215037822723389,
+            "Type": "PERSON",
+            "Text": "@TalibKweli",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7534420490264893,
+            "Type": "PERSON",
+            "Text": "@thinkingischeap",
+            "BeginOffset": 19,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.7330052852630615,
+            "Type": "PERSON",
+            "Text": "@MvcHipHop",
+            "BeginOffset": 37,
+            "EndOffset": 47
+        }
+    ]
+}

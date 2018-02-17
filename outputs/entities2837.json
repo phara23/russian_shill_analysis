@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.78599613904953,
+            "Type": "PERSON",
+            "Text": "@sftimrf",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.991858184337616,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 41,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9985270500183105,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 53,
+            "EndOffset": 60
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9129066467285156,
+            "Type": "PERSON",
+            "Text": "@nycsouthpaw",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.6235718727111816,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 29,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9975683093070984,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 58,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9737880825996399,
+            "Type": "PERSON",
+            "Text": "Trum",
+            "BeginOffset": 128,
+            "EndOffset": 132
+        }
+    ]
+}

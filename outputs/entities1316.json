@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7224411964416504,
+            "Type": "PERSON",
+            "Text": "@PoliticalIslam",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9988937377929688,
+            "Type": "PERSON",
+            "Text": "Linda Sarsour",
+            "BeginOffset": 20,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9982197880744934,
+            "Type": "OTHER",
+            "Text": "https://t.co/b3poJeQxV1",
+            "BeginOffset": 78,
+            "EndOffset": 101
+        }
+    ]
+}

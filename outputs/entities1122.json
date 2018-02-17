@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.70220947265625,
+            "Type": "PERSON",
+            "Text": "@NewUBIA",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.99991774559021,
+            "Type": "OTHER",
+            "Text": "https://t.co/WpickZURcC",
+            "BeginOffset": 54,
+            "EndOffset": 77
+        }
+    ]
+}

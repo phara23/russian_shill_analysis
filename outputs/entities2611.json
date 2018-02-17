@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7124549746513367,
+            "Type": "QUANTITY",
+            "Text": "2duck",
+            "BeginOffset": 6,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9993781447410583,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 32,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9262096881866455,
+            "Type": "ORGANIZATION",
+            "Text": "New York Times",
+            "BeginOffset": 85,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.9999747276306152,
+            "Type": "OTHER",
+            "Text": "https://t.co/sDKm4mihJi",
+            "BeginOffset": 104,
+            "EndOffset": 127
+        }
+    ]
+}

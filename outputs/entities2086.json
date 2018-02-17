@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8652840256690979,
+            "Type": "PERSON",
+            "Text": "@scottthong",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9974736571311951,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 32,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.6421799063682556,
+            "Type": "PERSON",
+            "Text": "#DisruptJ20",
+            "BeginOffset": 101,
+            "EndOffset": 112
+        }
+    ]
+}

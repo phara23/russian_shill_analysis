@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.859318733215332,
+            "Type": "PERSON",
+            "Text": "@trump2016",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.862051248550415,
+            "Type": "PERSON",
+            "Text": "#Trump",
+            "BeginOffset": 18,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.6532584428787231,
+            "Type": "ORGANIZATION",
+            "Text": "Muslim Refugees",
+            "BeginOffset": 36,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.8037878274917603,
+            "Type": "PERSON",
+            "Text": "Akbar 2",
+            "BeginOffset": 103,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.617091715335846,
+            "Type": "OTHER",
+            "Text": "European",
+            "BeginOffset": 123,
+            "EndOffset": 131
+        }
+    ]
+}

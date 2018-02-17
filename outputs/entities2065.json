@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5886482000350952,
+            "Type": "PERSON",
+            "Text": "@2ALAW",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9977890849113464,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 38,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.990522027015686,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 68,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.9960087537765503,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 76,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.9015359282493591,
+            "Type": "PERSON",
+            "Text": "@SandraTXAS",
+            "BeginOffset": 114,
+            "EndOffset": 125
+        },
+        {
+            "Score": 0.8464649319648743,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

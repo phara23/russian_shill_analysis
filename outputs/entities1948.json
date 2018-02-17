@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8374066352844238,
+            "Type": "PERSON",
+            "Text": "@ROCKONDUDE2",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.995796799659729,
+            "Type": "DATE",
+            "Text": "January",
+            "BeginOffset": 84,
+            "EndOffset": 91
+        }
+    ]
+}

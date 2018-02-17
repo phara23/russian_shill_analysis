@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9210794568061829,
+            "Type": "PERSON",
+            "Text": "@HaroldWNelson",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9770603775978088,
+            "Type": "PERSON",
+            "Text": "Sharon Osbourne",
+            "BeginOffset": 19,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.7981802821159363,
+            "Type": "PERSON",
+            "Text": "@MELANIATRUMP",
+            "BeginOffset": 51,
+            "EndOffset": 64
+        }
+    ]
+}

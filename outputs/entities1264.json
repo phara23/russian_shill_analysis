@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5189739465713501,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.7525179982185364,
+            "Type": "ORGANIZATION",
+            "Text": "@America_1st_",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9194456338882446,
+            "Type": "QUANTITY",
+            "Text": "Over 90%",
+            "BeginOffset": 18,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.5461491346359253,
+            "Type": "LOCATION",
+            "Text": "Americans",
+            "BeginOffset": 30,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.5463334321975708,
+            "Type": "ORGANIZATION",
+            "Text": "MSM",
+            "BeginOffset": 55,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.507942795753479,
+            "Type": "ORGANIZATION",
+            "Text": "#FakeNews",
+            "BeginOffset": 62,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9999392032623291,
+            "Type": "OTHER",
+            "Text": "https://t.co/ZesUV3fuU0",
+            "BeginOffset": 73,
+            "EndOffset": 96
+        }
+    ]
+}

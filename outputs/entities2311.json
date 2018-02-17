@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8219607472419739,
+            "Type": "PERSON",
+            "Text": "@MedianPolitics",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9951955676078796,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 78,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.7408565282821655,
+            "Type": "ORGANIZATION",
+            "Text": "White House",
+            "BeginOffset": 91,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.9999271631240845,
+            "Type": "OTHER",
+            "Text": "https://t.co/Vc1CcEfkqQ",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        }
+    ]
+}

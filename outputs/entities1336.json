@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6755578517913818,
+            "Type": "ORGANIZATION",
+            "Text": "HazMat",
+            "BeginOffset": 42,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.8154274225234985,
+            "Type": "ORGANIZATION",
+            "Text": "Mayfield Heights Police",
+            "BeginOffset": 55,
+            "EndOffset": 78
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7374305725097656,
+            "Type": "PERSON",
+            "Text": "@OANN",
+            "BeginOffset": 3,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.9685201644897461,
+            "Type": "DATE",
+            "Text": "Today",
+            "BeginOffset": 10,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8627887964248657,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 34,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.4654783010482788,
+            "Type": "QUANTITY",
+            "Text": "18",
+            "BeginOffset": 68,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9872380495071411,
+            "Type": "TITLE",
+            "Text": "Obamacare",
+            "BeginOffset": 78,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.989446759223938,
+            "Type": "OTHER",
+            "Text": "https://t.co/1U0CIiqQyK",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.9715582132339478,
+            "Type": "ORGANIZATION",
+            "Text": "@YouTube",
+            "BeginOffset": 118,
+            "EndOffset": 126
+        }
+    ]
+}

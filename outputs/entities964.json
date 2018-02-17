@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8895082473754883,
+            "Type": "PERSON",
+            "Text": "@pakalert",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9910380840301514,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 14,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8065978288650513,
+            "Type": "ORGANIZATION",
+            "Text": "Democrats",
+            "BeginOffset": 28,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.999953031539917,
+            "Type": "OTHER",
+            "Text": "https://t.co/dF0lf1muHm",
+            "BeginOffset": 69,
+            "EndOffset": 92
+        }
+    ]
+}

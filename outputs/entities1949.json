@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9556434750556946,
+            "Type": "PERSON",
+            "Text": "@JessieJaneDuff",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9182900190353394,
+            "Type": "LOCATION",
+            "Text": "California",
+            "BeginOffset": 20,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9989736676216125,
+            "Type": "PERSON",
+            "Text": "Ricky Galvez",
+            "BeginOffset": 39,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.3680354356765747,
+            "Type": "ORGANIZATION",
+            "Text": "Marine",
+            "BeginOffset": 80,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9308910369873047,
+            "Type": "QUANTITY",
+            "Text": "twice",
+            "BeginOffset": 96,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.935028612613678,
+            "Type": "LOCATION",
+            "Text": "Afghanistan",
+            "BeginOffset": 105,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.9471126794815063,
+            "Type": "OTHER",
+            "Text": "https://t.co/NHsz6CtIj6",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

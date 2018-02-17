@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.743442177772522,
+            "Type": "PERSON",
+            "Text": "@NumbersUSA",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9960744380950928,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 22,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9933968782424927,
+            "Type": "ORGANIZATION",
+            "Text": "Congress",
+            "BeginOffset": 46,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9677551984786987,
+            "Type": "QUANTITY",
+            "Text": "110,000 refugees",
+            "BeginOffset": 83,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.994162380695343,
+            "Type": "DATE",
+            "Text": "2017",
+            "BeginOffset": 105,
+            "EndOffset": 109
+        },
+        {
+            "Score": 0.9999971389770508,
+            "Type": "OTHER",
+            "Text": "https://t.co/h6Wsy57PcA",
+            "BeginOffset": 110,
+            "EndOffset": 133
+        }
+    ]
+}

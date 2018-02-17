@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.655397355556488,
+            "Type": "ORGANIZATION",
+            "Text": "@RippDemUp",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9960533380508423,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 44,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9313587546348572,
+            "Type": "QUANTITY",
+            "Text": "8 million",
+            "BeginOffset": 64,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.9929177761077881,
+            "Type": "PERSON",
+            "Text": "Donald",
+            "BeginOffset": 93,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.9735050201416016,
+            "Type": "DATE",
+            "Text": "1980",
+            "BeginOffset": 114,
+            "EndOffset": 118
+        },
+        {
+            "Score": 0.9926344752311707,
+            "Type": "OTHER",
+            "Text": "https://t.co/d6mkW",
+            "BeginOffset": 119,
+            "EndOffset": 137
+        }
+    ]
+}

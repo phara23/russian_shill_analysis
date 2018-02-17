@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.879339337348938,
+            "Type": "PERSON",
+            "Text": "@legal2eagle",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9100115895271301,
+            "Type": "OTHER",
+            "Text": "https://t.co/5IIxnDbeUx",
+            "BeginOffset": 17,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.5842178463935852,
+            "Type": "PERSON",
+            "Text": "#JesseJackson",
+            "BeginOffset": 41,
+            "EndOffset": 54
+        }
+    ]
+}

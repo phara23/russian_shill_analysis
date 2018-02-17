@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8279806971549988,
+            "Type": "PERSON",
+            "Text": "@MiIitaryUSA",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.990062415599823,
+            "Type": "QUANTITY",
+            "Text": "100%",
+            "BeginOffset": 51,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9994022846221924,
+            "Type": "OTHER",
+            "Text": "https://t.co/LwvhafISkl",
+            "BeginOffset": 56,
+            "EndOffset": 79
+        }
+    ]
+}

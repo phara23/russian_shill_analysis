@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8388991951942444,
+            "Type": "PERSON",
+            "Text": "@IsraelinUK",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9978757500648499,
+            "Type": "QUANTITY",
+            "Text": "£150k",
+            "BeginOffset": 37,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9749072790145874,
+            "Type": "OTHER",
+            "Text": "https://t.co/cdHbtIpuff",
+            "BeginOffset": 60,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.8851653933525085,
+            "Type": "ORGANIZATION",
+            "Text": "@JewishNewsUK",
+            "BeginOffset": 88,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.771562933921814,
+            "Type": "PERSON",
+            "Text": "@SussexFriends",
+            "BeginOffset": 112,
+            "EndOffset": 126
+        },
+        {
+            "Score": 0.9010558724403381,
+            "Type": "PERSON",
+            "Text": "@ZionistFed",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

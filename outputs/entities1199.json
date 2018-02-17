@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8742388486862183,
+            "Type": "PERSON",
+            "Text": "@ShutUpAmanda",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8657873272895813,
+            "Type": "QUANTITY",
+            "Text": "5Words",
+            "BeginOffset": 34,
+            "EndOffset": 40
+        }
+    ]
+}

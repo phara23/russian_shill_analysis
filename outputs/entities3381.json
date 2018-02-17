@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8303362131118774,
+            "Type": "PERSON",
+            "Text": "@Discoveringme40",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.6719768047332764,
+            "Type": "PERSON",
+            "Text": "@wikileaks",
+            "BeginOffset": 31,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.6406843066215515,
+            "Type": "TITLE",
+            "Text": "#Guccifer2",
+            "BeginOffset": 87,
+            "EndOffset": 97
+        }
+    ]
+}

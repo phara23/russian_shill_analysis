@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5040324926376343,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.7412186861038208,
+            "Type": "ORGANIZATION",
+            "Text": "@ABC7",
+            "BeginOffset": 3,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.9969350695610046,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 41,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.993756890296936,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 87,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.9250855445861816,
+            "Type": "OTHER",
+            "Text": "https://t.co/lCqk5Lp0E7",
+            "BeginOffset": 95,
+            "EndOffset": 118
+        },
+        {
+            "Score": 0.9969093203544617,
+            "Type": "OTHER",
+            "Text": "https://t.co/0hMIHJm",
+            "BeginOffset": 119,
+            "EndOffset": 139
+        }
+    ]
+}

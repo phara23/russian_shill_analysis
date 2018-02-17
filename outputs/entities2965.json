@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8837690949440002,
+            "Type": "PERSON",
+            "Text": "@puppymnkey",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9987101554870605,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 47,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.5728608965873718,
+            "Type": "QUANTITY",
+            "Text": "First Accused",
+            "BeginOffset": 83,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.9997782111167908,
+            "Type": "OTHER",
+            "Text": "https://t.co/8hHDiTzszk",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        }
+    ]
+}

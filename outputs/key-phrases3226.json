@@ -1,0 +1,34 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.8499860763549805,
+            "Text": "CORRECT",
+            "BeginOffset": 0,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.8338303565979004,
+            "Text": "Clinton",
+            "BeginOffset": 9,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.994286835193634,
+            "Text": "Trump",
+            "BeginOffset": 18,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9083024263381958,
+            "Text": "‘Statistical Dead Heat’",
+            "BeginOffset": 27,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.980153501033783,
+            "Text": "N.H.",
+            "BeginOffset": 54,
+            "EndOffset": 58
+        }
+    ]
+}

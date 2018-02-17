@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8646389245986938,
+            "Type": "PERSON",
+            "Text": "@avanconia",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.6519208550453186,
+            "Type": "ORGANIZATION",
+            "Text": "#Benghazi Committee",
+            "BeginOffset": 34,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.8237035274505615,
+            "Type": "ORGANIZATION",
+            "Text": "@Reuters",
+            "BeginOffset": 64,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.6073645949363708,
+            "Type": "PERSON",
+            "Text": "Journo",
+            "BeginOffset": 73,
+            "EndOffset": 79
+        }
+    ]
+}

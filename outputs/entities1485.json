@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9118715524673462,
+            "Type": "PERSON",
+            "Text": "@JYSexton",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9973045587539673,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 14,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9919671416282654,
+            "Type": "LOCATION",
+            "Text": "Chicago",
+            "BeginOffset": 60,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.5483617186546326,
+            "Type": "ORGANIZATION",
+            "Text": "FNC",
+            "BeginOffset": 130,
+            "EndOffset": 133
+        }
+    ]
+}

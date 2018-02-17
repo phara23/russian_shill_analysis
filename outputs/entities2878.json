@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9987518191337585,
+            "Type": "PERSON",
+            "Text": "Michelle Obama",
+            "BeginOffset": 0,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.887441873550415,
+            "Type": "ORGANIZATION",
+            "Text": "White House",
+            "BeginOffset": 30,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9926291704177856,
+            "Type": "DATE",
+            "Text": "1792",
+            "BeginOffset": 81,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.865797758102417,
+            "Type": "OTHER",
+            "Text": "https://t.co/WFyuHIAadY",
+            "BeginOffset": 87,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.9999691247940063,
+            "Type": "OTHER",
+            "Text": "https://t.co/MlN0VYyYjB",
+            "BeginOffset": 111,
+            "EndOffset": 134
+        }
+    ]
+}

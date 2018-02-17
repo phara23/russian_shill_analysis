@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.889181911945343,
+            "Type": "PERSON",
+            "Text": "@cmdorsey",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9942209720611572,
+            "Type": "ORGANIZATION",
+            "Text": "twitter",
+            "BeginOffset": 39,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9784168004989624,
+            "Type": "QUANTITY",
+            "Text": "19 followers",
+            "BeginOffset": 57,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.7721796631813049,
+            "Type": "DATE",
+            "Text": "past day",
+            "BeginOffset": 77,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.9999375343322754,
+            "Type": "OTHER",
+            "Text": "https://t.co/nUt2H6aS9n",
+            "BeginOffset": 104,
+            "EndOffset": 127
+        }
+    ]
+}

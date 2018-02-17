@@ -1,0 +1,81 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8508185744285583,
+            "Type": "PERSON",
+            "Text": "@deOzAlice",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9523009657859802,
+            "Type": "PERSON",
+            "Text": "@Papryka5",
+            "BeginOffset": 15,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9645720720291138,
+            "Type": "PERSON",
+            "Text": "@yianniseinstein",
+            "BeginOffset": 25,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9653791785240173,
+            "Type": "PERSON",
+            "Text": "@BPerrionni",
+            "BeginOffset": 42,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9783810377120972,
+            "Type": "PERSON",
+            "Text": "@artmajcar",
+            "BeginOffset": 54,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9981970191001892,
+            "Type": "PERSON",
+            "Text": "@lagatta4739",
+            "BeginOffset": 65,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9773518443107605,
+            "Type": "PERSON",
+            "Text": "@CasaLettori",
+            "BeginOffset": 78,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9681798219680786,
+            "Type": "PERSON",
+            "Text": "@artdielle",
+            "BeginOffset": 91,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.9892190098762512,
+            "Type": "PERSON",
+            "Text": "@SusanScCastaldi",
+            "BeginOffset": 102,
+            "EndOffset": 118
+        },
+        {
+            "Score": 0.9860796332359314,
+            "Type": "PERSON",
+            "Text": "@GaiaGaudenzi",
+            "BeginOffset": 119,
+            "EndOffset": 132
+        },
+        {
+            "Score": 0.9716013073921204,
+            "Type": "PERSON",
+            "Text": "@Brind",
+            "BeginOffset": 133,
+            "EndOffset": 139
+        }
+    ]
+}

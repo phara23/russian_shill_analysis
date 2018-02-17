@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8685328364372253,
+            "Type": "PERSON",
+            "Text": "@sevyn",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9991742968559265,
+            "Type": "OTHER",
+            "Text": "https://t.co/d5UiIclWwp",
+            "BeginOffset": 56,
+            "EndOffset": 79
+        }
+    ]
+}

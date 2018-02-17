@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9146313071250916,
+            "Type": "PERSON",
+            "Text": "@GaetaSusan",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9783520698547363,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 16,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9605633020401001,
+            "Type": "PERSON",
+            "Text": "Merkel",
+            "BeginOffset": 32,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.849066436290741,
+            "Type": "PERSON",
+            "Text": "Merkel",
+            "BeginOffset": 43,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.8563472628593445,
+            "Type": "LOCATION",
+            "Text": "Germany",
+            "BeginOffset": 59,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.7235711216926575,
+            "Type": "ORGANIZATION",
+            "Text": "Muslim Syrian Refugees",
+            "BeginOffset": 67,
+            "EndOffset": 89
+        }
+    ]
+}

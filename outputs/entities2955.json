@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8042623996734619,
+            "Type": "PERSON",
+            "Text": "@PrinceHAK33M",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.978857159614563,
+            "Type": "DATE",
+            "Text": "today",
+            "BeginOffset": 95,
+            "EndOffset": 100
+        }
+    ]
+}

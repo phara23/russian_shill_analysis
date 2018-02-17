@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7764533162117004,
+            "Type": "PERSON",
+            "Text": "@emediaworld",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8669570088386536,
+            "Type": "PERSON",
+            "Text": "@Fitz2314",
+            "BeginOffset": 32,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.6743274927139282,
+            "Type": "ORGANIZATION",
+            "Text": "Islip Terrace Family",
+            "BeginOffset": 42,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.8876492977142334,
+            "Type": "OTHER",
+            "Text": "https://t.co/RoyVq0LTFD",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        }
+    ]
+}

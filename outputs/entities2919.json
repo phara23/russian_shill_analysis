@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8580366969108582,
+            "Type": "PERSON",
+            "Text": "@docmurdock",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8470156788825989,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 48,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.6888423562049866,
+            "Type": "PERSON",
+            "Text": "Pure Trump",
+            "BeginOffset": 64,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.8120302557945251,
+            "Type": "PERSON",
+            "Text": "God",
+            "BeginOffset": 110,
+            "EndOffset": 113
+        }
+    ]
+}

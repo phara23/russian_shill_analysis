@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8911566138267517,
+            "Type": "PERSON",
+            "Text": "@WEdwarda",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8434274792671204,
+            "Type": "ORGANIZATION",
+            "Text": "US Army",
+            "BeginOffset": 14,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9998348951339722,
+            "Type": "PERSON",
+            "Text": "Mark Allen",
+            "BeginOffset": 34,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.8814507126808167,
+            "Type": "PERSON",
+            "Text": "Bergdahl",
+            "BeginOffset": 86,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.9708366394042969,
+            "Type": "PERSON",
+            "Text": "Bergdahl",
+            "BeginOffset": 96,
+            "EndOffset": 104
+        }
+    ]
+}

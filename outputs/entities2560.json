@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8305226564407349,
+            "Type": "PERSON",
+            "Text": "@FL4TRUMPDOTCOM",
+            "BeginOffset": 0,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9920180439949036,
+            "Type": "LOCATION",
+            "Text": "Florida",
+            "BeginOffset": 54,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9999105930328369,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 77,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.9951556324958801,
+            "Type": "DATE",
+            "Text": "August, 20",
+            "BeginOffset": 86,
+            "EndOffset": 96
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8251773715019226,
+            "Type": "PERSON",
+            "Text": "@Goingtobelka",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.6883817911148071,
+            "Type": "QUANTITY",
+            "Text": "55",
+            "BeginOffset": 19,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9930786490440369,
+            "Type": "QUANTITY",
+            "Text": "75",
+            "BeginOffset": 22,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9862470626831055,
+            "Type": "ORGANIZATION",
+            "Text": "Twitter",
+            "BeginOffset": 64,
+            "EndOffset": 71
+        }
+    ]
+}

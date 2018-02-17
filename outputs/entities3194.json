@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9358687400817871,
+            "Type": "PERSON",
+            "Text": "@kysgabbygirl",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7258539199829102,
+            "Type": "ORGANIZATION",
+            "Text": "@cnn",
+            "BeginOffset": 76,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.9173774123191833,
+            "Type": "ORGANIZATION",
+            "Text": "@msnbc",
+            "BeginOffset": 87,
+            "EndOffset": 93
+        }
+    ]
+}

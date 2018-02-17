@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9869132041931152,
+            "Type": "DATE",
+            "Text": "8 May 1945",
+            "BeginOffset": 26,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.6279244422912598,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 37,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9177520871162415,
+            "Type": "PERSON",
+            "Text": "President Harry Truman",
+            "BeginOffset": 40,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9988311529159546,
+            "Type": "EVENT",
+            "Text": "World War II",
+            "BeginOffset": 78,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9967838525772095,
+            "Type": "LOCATION",
+            "Text": "Europe",
+            "BeginOffset": 104,
+            "EndOffset": 110
+        }
+    ]
+}

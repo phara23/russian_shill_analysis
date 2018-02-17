@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8907537460327148,
+            "Type": "PERSON",
+            "Text": "@scarlettmadi",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9958034157752991,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 39,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9999305009841919,
+            "Type": "OTHER",
+            "Text": "https://t.co/ZwF1whxwqT",
+            "BeginOffset": 93,
+            "EndOffset": 116
+        }
+    ]
+}

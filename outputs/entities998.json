@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9994729161262512,
+            "Type": "DATE",
+            "Text": "May 8, 1884",
+            "BeginOffset": 42,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.6964215636253357,
+            "Type": "QUANTITY",
+            "Text": "33rd",
+            "BeginOffset": 65,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9830001592636108,
+            "Type": "LOCATION",
+            "Text": "USA",
+            "BeginOffset": 84,
+            "EndOffset": 87
+        }
+    ]
+}

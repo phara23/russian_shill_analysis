@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9416260123252869,
+            "Type": "PERSON",
+            "Text": "@AndyHashtagger",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9840866923332214,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 55,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9999607801437378,
+            "Type": "OTHER",
+            "Text": "https://t.co/HQgXvUtVsQ",
+            "BeginOffset": 107,
+            "EndOffset": 130
+        }
+    ]
+}

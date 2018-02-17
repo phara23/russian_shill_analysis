@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8875546455383301,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9993371963500977,
+            "Type": "PERSON",
+            "Text": "David Gergen",
+            "BeginOffset": 44,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9931708574295044,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 74,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.7178999781608582,
+            "Type": "ORGANIZATION",
+            "Text": "neo-Nazi",
+            "BeginOffset": 92,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.9350108504295349,
+            "Type": "OTHER",
+            "Text": "https://t.co/OTq6gx1xul",
+            "BeginOffset": 112,
+            "EndOffset": 135
+        },
+        {
+            "Score": 0.8206347227096558,
+            "Type": "PERSON",
+            "Text": "@Ra",
+            "BeginOffset": 136,
+            "EndOffset": 139
+        }
+    ]
+}

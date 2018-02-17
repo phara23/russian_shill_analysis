@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8459299206733704,
+            "Type": "PERSON",
+            "Text": "@roxyloveslucy",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.3486610949039459,
+            "Type": "PERSON",
+            "Text": "#KohlsCash",
+            "BeginOffset": 19,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9896064400672913,
+            "Type": "OTHER",
+            "Text": "https://t.co/gfQ38bXbeU",
+            "BeginOffset": 44,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9777424335479736,
+            "Type": "ORGANIZATION",
+            "Text": "@youtube",
+            "BeginOffset": 72,
+            "EndOffset": 80
+        }
+    ]
+}

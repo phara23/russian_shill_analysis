@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7482703328132629,
+            "Type": "PERSON",
+            "Text": "@ChicagoILDaily",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9047551155090332,
+            "Type": "QUANTITY",
+            "Text": "5M",
+            "BeginOffset": 45,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.8903923630714417,
+            "Type": "PERSON",
+            "Text": "Mayor Rahm Emanuel",
+            "BeginOffset": 70,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9136989116668701,
+            "Type": "QUANTITY",
+            "Text": "5 million",
+            "BeginOffset": 107,
+            "EndOffset": 116
+        }
+    ]
+}

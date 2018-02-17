@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.866644024848938,
+            "Type": "PERSON",
+            "Text": "@phillyrich1",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7697049975395203,
+            "Type": "PERSON",
+            "Text": "TIM KAINE",
+            "BeginOffset": 17,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.7380003929138184,
+            "Type": "PERSON",
+            "Text": "HILLARY",
+            "BeginOffset": 92,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.869243323802948,
+            "Type": "QUANTITY",
+            "Text": "56 minute",
+            "BeginOffset": 101,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.9807276725769043,
+            "Type": "OTHER",
+            "Text": "https://t.co/uvrcCCeh",
+            "BeginOffset": 118,
+            "EndOffset": 139
+        }
+    ]
+}

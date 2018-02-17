@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9333043098449707,
+            "Type": "ORGANIZATION",
+            "Text": "Democrats",
+            "BeginOffset": 0,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9851555228233337,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 11,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8512300848960876,
+            "Type": "OTHER",
+            "Text": "https://t.co/2ZC9cpAFgh",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.9998956918716431,
+            "Type": "OTHER",
+            "Text": "https://t.co/Cis0MgujKb",
+            "BeginOffset": 114,
+            "EndOffset": 137
+        }
+    ]
+}

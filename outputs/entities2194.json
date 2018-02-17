@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9643255472183228,
+            "Type": "PERSON",
+            "Text": "@Darrell12840224",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8329068422317505,
+            "Type": "PERSON",
+            "Text": "@HomeOfGastro",
+            "BeginOffset": 21,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9561144113540649,
+            "Type": "PERSON",
+            "Text": "@lemonchronicle",
+            "BeginOffset": 35,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9998152852058411,
+            "Type": "OTHER",
+            "Text": "https://t.co/DTUbUJfRXj",
+            "BeginOffset": 84,
+            "EndOffset": 107
+        }
+    ]
+}

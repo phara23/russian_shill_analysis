@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9689028263092041,
+            "Type": "PERSON",
+            "Text": "@jimmylemons",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.999823272228241,
+            "Type": "OTHER",
+            "Text": "https://t.co/c4PShZZuyI",
+            "BeginOffset": 52,
+            "EndOffset": 75
+        }
+    ]
+}

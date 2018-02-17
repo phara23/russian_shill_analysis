@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8699988126754761,
+            "Type": "PERSON",
+            "Text": "@BookmanDan",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8376907706260681,
+            "Type": "EVENT",
+            "Text": "New Year",
+            "BeginOffset": 89,
+            "EndOffset": 97
+        }
+    ]
+}

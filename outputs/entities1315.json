@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7407715916633606,
+            "Type": "QUANTITY",
+            "Text": "Two Stomachs",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7133370041847229,
+            "Type": "PERSON",
+            "Text": "@midnight",
+            "BeginOffset": 25,
+            "EndOffset": 34
+        }
+    ]
+}

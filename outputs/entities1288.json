@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8049536943435669,
+            "Type": "PERSON",
+            "Text": "@HuffPostPol",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9964876174926758,
+            "Type": "PERSON",
+            "Text": "Jeb Bush",
+            "BeginOffset": 17,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9801929593086243,
+            "Type": "QUANTITY",
+            "Text": "33 years",
+            "BeginOffset": 35,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9999653100967407,
+            "Type": "OTHER",
+            "Text": "http://t.co/vBgcGX8EYZ",
+            "BeginOffset": 59,
+            "EndOffset": 81
+        }
+    ]
+}

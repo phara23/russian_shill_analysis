@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5461879968643188,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8638471961021423,
+            "Type": "PERSON",
+            "Text": "@Tao_PaschX",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9999759197235107,
+            "Type": "OTHER",
+            "Text": "https://t.co/CrX7SsSTQK",
+            "BeginOffset": 22,
+            "EndOffset": 45
+        }
+    ]
+}

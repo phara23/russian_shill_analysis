@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6952523589134216,
+            "Type": "PERSON",
+            "Text": "@CondZero1",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.6744798421859741,
+            "Type": "ORGANIZATION",
+            "Text": "#CNN",
+            "BeginOffset": 15,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.589596688747406,
+            "Type": "ORGANIZATION",
+            "Text": "#ISIS",
+            "BeginOffset": 44,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.7177813649177551,
+            "Type": "LOCATION",
+            "Text": "#Berlin",
+            "BeginOffset": 60,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.999832272529602,
+            "Type": "OTHER",
+            "Text": "https://t.co/H5iuml0AMR",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

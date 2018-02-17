@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.840798556804657,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9317260384559631,
+            "Type": "OTHER",
+            "Text": "https://t.co/jmakcyDCQO",
+            "BeginOffset": 68,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.7179037928581238,
+            "Type": "PERSON",
+            "Text": "@TheVoiceNews",
+            "BeginOffset": 92,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.9993128776550293,
+            "Type": "OTHER",
+            "Text": "https://t.co/6TimUMVrYQ",
+            "BeginOffset": 106,
+            "EndOffset": 129
+        }
+    ]
+}

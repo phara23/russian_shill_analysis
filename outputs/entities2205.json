@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9990242123603821,
+            "Type": "PERSON",
+            "Text": "Joe Biden",
+            "BeginOffset": 0,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9877794981002808,
+            "Type": "PERSON",
+            "Text": "Barack Obama",
+            "BeginOffset": 53,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9995585083961487,
+            "Type": "OTHER",
+            "Text": "https://t.co/RTlcusAOUt",
+            "BeginOffset": 66,
+            "EndOffset": 89
+        }
+    ]
+}

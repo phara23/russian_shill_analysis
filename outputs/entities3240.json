@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8118842840194702,
+            "Type": "PERSON",
+            "Text": "@BlavityLife",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9424180388450623,
+            "Type": "OTHER",
+            "Text": "https://t.co/7silNyWFxh",
+            "BeginOffset": 85,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.999988317489624,
+            "Type": "OTHER",
+            "Text": "https://t.co/4TXn89pfPM",
+            "BeginOffset": 109,
+            "EndOffset": 132
+        }
+    ]
+}

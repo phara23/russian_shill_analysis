@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9803520441055298,
+            "Type": "LOCATION",
+            "Text": "Jerusalem",
+            "BeginOffset": 12,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9999313354492188,
+            "Type": "OTHER",
+            "Text": "https://t.co/mxV9dzsBEg",
+            "BeginOffset": 37,
+            "EndOffset": 60
+        }
+    ]
+}

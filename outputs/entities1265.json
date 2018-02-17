@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6867278218269348,
+            "Type": "PERSON",
+            "Text": "@Brexit",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9988554120063782,
+            "Type": "PERSON",
+            "Text": "Theresa May",
+            "BeginOffset": 20,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9028815031051636,
+            "Type": "EVENT",
+            "Text": "Brexit",
+            "BeginOffset": 68,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9538185000419617,
+            "Type": "ORGANIZATION",
+            "Text": "House of Lords",
+            "BeginOffset": 86,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.9428565502166748,
+            "Type": "OTHER",
+            "Text": "https://t.co/iJoGXIQdCa",
+            "BeginOffset": 101,
+            "EndOffset": 124
+        },
+        {
+            "Score": 0.9798374772071838,
+            "Type": "OTHER",
+            "Text": "https://t.co/E",
+            "BeginOffset": 125,
+            "EndOffset": 139
+        }
+    ]
+}

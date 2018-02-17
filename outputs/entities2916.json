@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6451684236526489,
+            "Type": "PERSON",
+            "Text": "@Reductress",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9776839017868042,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 35,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.8122158050537109,
+            "Type": "OTHER",
+            "Text": "https://t.co/yIxpIWdonz",
+            "BeginOffset": 78,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.9999746084213257,
+            "Type": "OTHER",
+            "Text": "https://t.co/9UFU29HM6e",
+            "BeginOffset": 102,
+            "EndOffset": 125
+        }
+    ]
+}

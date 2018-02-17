@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8830326795578003,
+            "Type": "PERSON",
+            "Text": "@ChrixMorgan",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9089987874031067,
+            "Type": "EVENT",
+            "Text": "Thanksgiving",
+            "BeginOffset": 79,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.999983549118042,
+            "Type": "OTHER",
+            "Text": "https://t.co/C8S2gSkdMM",
+            "BeginOffset": 109,
+            "EndOffset": 132
+        }
+    ]
+}

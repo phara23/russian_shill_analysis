@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9259921908378601,
+            "Type": "PERSON",
+            "Text": "@andersonDrLJA",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.4585062265396118,
+            "Type": "QUANTITY",
+            "Text": "ONE",
+            "BeginOffset": 63,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9590051770210266,
+            "Type": "OTHER",
+            "Text": "http://t.co/FsRnjx5",
+            "BeginOffset": 120,
+            "EndOffset": 139
+        }
+    ]
+}

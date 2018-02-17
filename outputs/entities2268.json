@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8673135638237,
+            "Type": "PERSON",
+            "Text": "@DailyCaller",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9274487495422363,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 17,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.9673632979393005,
+            "Type": "ORGANIZATION",
+            "Text": "Republicans",
+            "BeginOffset": 28,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.7979236245155334,
+            "Type": "OTHER",
+            "Text": "http://t.co/XUnSSrvroJ",
+            "BeginOffset": 106,
+            "EndOffset": 128
+        },
+        {
+            "Score": 0.9487175345420837,
+            "Type": "OTHER",
+            "Text": "http://t.c",
+            "BeginOffset": 129,
+            "EndOffset": 139
+        }
+    ]
+}

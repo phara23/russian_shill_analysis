@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9343271255493164,
+            "Type": "PERSON",
+            "Text": "@os4185",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9989521503448486,
+            "Type": "PERSON",
+            "Text": "Tom Hanks",
+            "BeginOffset": 12,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9991713166236877,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 28,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.7896490097045898,
+            "Type": "ORGANIZATION",
+            "Text": "Hollywood",
+            "BeginOffset": 51,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9015349745750427,
+            "Type": "QUANTITY",
+            "Text": "9 Heroic Words",
+            "BeginOffset": 95,
+            "EndOffset": 109
+        }
+    ]
+}

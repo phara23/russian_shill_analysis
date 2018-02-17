@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8558586835861206,
+            "Type": "PERSON",
+            "Text": "@ShutUpAmanda",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7786967754364014,
+            "Type": "QUANTITY",
+            "Text": "3Words",
+            "BeginOffset": 31,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.7387955784797668,
+            "Type": "ORGANIZATION",
+            "Text": "IHOP",
+            "BeginOffset": 50,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9999501705169678,
+            "Type": "OTHER",
+            "Text": "https://t.co/9rsEF4KNWz",
+            "BeginOffset": 55,
+            "EndOffset": 78
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8882365226745605,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9976540207862854,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 31,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.827742874622345,
+            "Type": "TITLE",
+            "Text": "Emmy",
+            "BeginOffset": 61,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.3048187494277954,
+            "Type": "LOCATION",
+            "Text": "Iowa",
+            "BeginOffset": 71,
+            "EndOffset": 75
+        }
+    ]
+}

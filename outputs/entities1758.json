@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8192151784896851,
+            "Type": "PERSON",
+            "Text": "@GiselleEvns",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8840519189834595,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 91,
+            "EndOffset": 98
+        }
+    ]
+}

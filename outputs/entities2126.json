@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8472925424575806,
+            "Type": "PERSON",
+            "Text": "@llcoolj",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8951534032821655,
+            "Type": "OTHER",
+            "Text": "https://t.co/VHLwbtM4bt",
+            "BeginOffset": 71,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.6821584105491638,
+            "Type": "ORGANIZATION",
+            "Text": "@SpikeLSB",
+            "BeginOffset": 104,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.7894629240036011,
+            "Type": "PERSON",
+            "Text": "@chrissyteigen",
+            "BeginOffset": 114,
+            "EndOffset": 128
+        }
+    ]
+}

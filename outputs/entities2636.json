@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8878201246261597,
+            "Type": "PERSON",
+            "Text": "@CuffyMeh",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9081940054893494,
+            "Type": "PERSON",
+            "Text": "@GStephanopoulos",
+            "BeginOffset": 30,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9875906705856323,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 55,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9999032020568848,
+            "Type": "OTHER",
+            "Text": "http://t.co/FVYeCzA53K",
+            "BeginOffset": 115,
+            "EndOffset": 137
+        }
+    ]
+}

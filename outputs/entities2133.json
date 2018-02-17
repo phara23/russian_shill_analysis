@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9136484265327454,
+            "Type": "PERSON",
+            "Text": "@FemalesForTrump",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.6042469143867493,
+            "Type": "PERSON",
+            "Text": "Norpoth",
+            "BeginOffset": 27,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.7946830987930298,
+            "Type": "ORGANIZATION",
+            "Text": "@LouDobbs",
+            "BeginOffset": 38,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9497711658477783,
+            "Type": "DATE",
+            "Text": "tonight",
+            "BeginOffset": 48,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9870997667312622,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 67,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.982049286365509,
+            "Type": "QUANTITY",
+            "Text": "5%",
+            "BeginOffset": 81,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.9973168969154358,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 89,
+            "EndOffset": 94
+        }
+    ]
+}

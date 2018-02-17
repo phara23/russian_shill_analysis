@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7708497643470764,
+            "Type": "PERSON",
+            "Text": "@PenalopeH",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9293937683105469,
+            "Type": "PERSON",
+            "Text": "@drawandstrike",
+            "BeginOffset": 15,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9788233637809753,
+            "Type": "PERSON",
+            "Text": "@GrayceTripodi",
+            "BeginOffset": 30,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.8744708895683289,
+            "Type": "PERSON",
+            "Text": "@Republicanvet91",
+            "BeginOffset": 45,
+            "EndOffset": 61
+        }
+    ]
+}

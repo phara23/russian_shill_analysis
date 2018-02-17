@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9536998271942139,
+            "Type": "PERSON",
+            "Text": "@DanzelRomero",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.6430903673171997,
+            "Type": "PERSON",
+            "Text": "#Trump",
+            "BeginOffset": 122,
+            "EndOffset": 128
+        }
+    ]
+}

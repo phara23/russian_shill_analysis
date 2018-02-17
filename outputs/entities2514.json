@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.911364734172821,
+            "Type": "PERSON",
+            "Text": "@nia4_trump",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9900220036506653,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 16,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9915472865104675,
+            "Type": "PERSON",
+            "Text": "Hitler",
+            "BeginOffset": 25,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9953914880752563,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 61,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9951426982879639,
+            "Type": "PERSON",
+            "Text": "Hitler",
+            "BeginOffset": 72,
+            "EndOffset": 78
+        }
+    ]
+}

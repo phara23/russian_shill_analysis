@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8613148331642151,
+            "Type": "PERSON",
+            "Text": "@PhillyOnAirNow",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8206445574760437,
+            "Type": "ORGANIZATION",
+            "Text": "US Treasury",
+            "BeginOffset": 20,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.8511292934417725,
+            "Type": "OTHER",
+            "Text": "Japanese",
+            "BeginOffset": 50,
+            "EndOffset": 58
+        }
+    ]
+}

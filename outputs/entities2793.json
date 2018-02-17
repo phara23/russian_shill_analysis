@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8039565086364746,
+            "Type": "PERSON",
+            "Text": "@DRUDGE_REPORT",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9104712009429932,
+            "Type": "OTHER",
+            "Text": "Egyptian",
+            "BeginOffset": 19,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9999837875366211,
+            "Type": "OTHER",
+            "Text": "https://t.co/2bBG0moLtP",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        }
+    ]
+}

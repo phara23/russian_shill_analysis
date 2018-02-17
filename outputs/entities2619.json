@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6958150863647461,
+            "Type": "ORGANIZATION",
+            "Text": "@NFLRT",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9544910192489624,
+            "Type": "PERSON",
+            "Text": "Odell Beckham Jr",
+            "BeginOffset": 11,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9957380294799805,
+            "Type": "PERSON",
+            "Text": "Derrick Rose",
+            "BeginOffset": 34,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9999631643295288,
+            "Type": "OTHER",
+            "Text": "https://t.co/8ZvSH2T2j9",
+            "BeginOffset": 47,
+            "EndOffset": 70
+        }
+    ]
+}

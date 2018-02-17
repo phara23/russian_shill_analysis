@@ -1,0 +1,74 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9022717475891113,
+            "Type": "PERSON",
+            "Text": "@Billstannard1",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9865478277206421,
+            "Type": "PERSON",
+            "Text": "@Kegan05",
+            "BeginOffset": 19,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9442712664604187,
+            "Type": "PERSON",
+            "Text": "@CheriJacobus",
+            "BeginOffset": 28,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.7963470816612244,
+            "Type": "ORGANIZATION",
+            "Text": "@FNC",
+            "BeginOffset": 42,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9549884796142578,
+            "Type": "ORGANIZATION",
+            "Text": "@CNN",
+            "BeginOffset": 47,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.8643603920936584,
+            "Type": "PERSON",
+            "Text": "@seanhannity",
+            "BeginOffset": 52,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9417666792869568,
+            "Type": "PERSON",
+            "Text": "@Reince",
+            "BeginOffset": 65,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.952064037322998,
+            "Type": "PERSON",
+            "Text": "@KellyannePolls",
+            "BeginOffset": 73,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.900469958782196,
+            "Type": "PERSON",
+            "Text": "@AC360",
+            "BeginOffset": 89,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.9999117851257324,
+            "Type": "OTHER",
+            "Text": "https://t.co/YxpUIzvcVB",
+            "BeginOffset": 111,
+            "EndOffset": 134
+        }
+    ]
+}

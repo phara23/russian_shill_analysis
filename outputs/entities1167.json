@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9535496234893799,
+            "Type": "PERSON",
+            "Text": "@Harlan",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9907207489013672,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 12,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9045884609222412,
+            "Type": "OTHER",
+            "Text": "https://t.co/p",
+            "BeginOffset": 125,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7087437510490417,
+            "Type": "PERSON",
+            "Text": "@Info24",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9231429100036621,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 10,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9531991481781006,
+            "Type": "ORGANIZATION",
+            "Text": "Oklahoma Bureau of Investigation",
+            "BeginOffset": 14,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9997921586036682,
+            "Type": "OTHER",
+            "Text": "http://t.co/oNo2zRWJKQ",
+            "BeginOffset": 83,
+            "EndOffset": 105
+        }
+    ]
+}

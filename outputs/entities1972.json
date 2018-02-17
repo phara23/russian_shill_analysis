@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.890904426574707,
+            "Type": "PERSON",
+            "Text": "@blaubok",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.5342205166816711,
+            "Type": "ORGANIZATION",
+            "Text": "#DNC",
+            "BeginOffset": 20,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.6784064769744873,
+            "Type": "ORGANIZATION",
+            "Text": "#HillarysCampaign",
+            "BeginOffset": 28,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9480867981910706,
+            "Type": "ORGANIZATION",
+            "Text": "@CNN",
+            "BeginOffset": 100,
+            "EndOffset": 104
+        }
+    ]
+}

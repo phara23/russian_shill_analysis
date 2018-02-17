@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9495659470558167,
+            "Type": "PERSON",
+            "Text": "@SamGrittner",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9986281394958496,
+            "Type": "PERSON",
+            "Text": "Michelle Obama",
+            "BeginOffset": 43,
+            "EndOffset": 57
+        }
+    ]
+}

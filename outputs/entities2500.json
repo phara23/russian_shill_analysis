@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9003543257713318,
+            "Type": "PERSON",
+            "Text": "@baseballcrank",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9999068975448608,
+            "Type": "OTHER",
+            "Text": "https://t.co/7TOB1OHanA",
+            "BeginOffset": 92,
+            "EndOffset": 115
+        }
+    ]
+}

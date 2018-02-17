@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8401577472686768,
+            "Type": "PERSON",
+            "Text": "@DutchWarrant",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9010109305381775,
+            "Type": "PERSON",
+            "Text": "@realDrOlmo",
+            "BeginOffset": 18,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.5627812147140503,
+            "Type": "QUANTITY",
+            "Text": "millions",
+            "BeginOffset": 45,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.8732461929321289,
+            "Type": "ORGANIZATION",
+            "Text": "IRS",
+            "BeginOffset": 78,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.9324930310249329,
+            "Type": "PERSON",
+            "Text": "Al Capone",
+            "BeginOffset": 103,
+            "EndOffset": 112
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9617167711257935,
+            "Type": "PERSON",
+            "Text": "@SunsaraTaylor",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7142979502677917,
+            "Type": "PERSON",
+            "Text": "T.I.",
+            "BeginOffset": 19,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9885727167129517,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 110,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.9903762936592102,
+            "Type": "PERSON",
+            "Text": "Pence",
+            "BeginOffset": 116,
+            "EndOffset": 121
+        },
+        {
+            "Score": 0.9785633683204651,
+            "Type": "OTHER",
+            "Text": "https://t.co",
+            "BeginOffset": 127,
+            "EndOffset": 139
+        }
+    ]
+}

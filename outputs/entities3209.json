@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8970020413398743,
+            "Type": "PERSON",
+            "Text": "@loridowney3",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8314458727836609,
+            "Type": "PERSON",
+            "Text": "@straysneedlove",
+            "BeginOffset": 69,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9649106860160828,
+            "Type": "PERSON",
+            "Text": "@ginachron",
+            "BeginOffset": 85,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.9381091594696045,
+            "Type": "PERSON",
+            "Text": "@catsfromulthar",
+            "BeginOffset": 96,
+            "EndOffset": 111
+        },
+        {
+            "Score": 0.9453921318054199,
+            "Type": "PERSON",
+            "Text": "@ruthmen",
+            "BeginOffset": 112,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.9872515201568604,
+            "Type": "PERSON",
+            "Text": "@Nightowl400",
+            "BeginOffset": 121,
+            "EndOffset": 133
+        },
+        {
+            "Score": 0.8943332433700562,
+            "Type": "PERSON",
+            "Text": "@NWDo",
+            "BeginOffset": 134,
+            "EndOffset": 139
+        }
+    ]
+}

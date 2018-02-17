@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8826625943183899,
+            "Type": "PERSON",
+            "Text": "@Peters1Aaron",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9917433857917786,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 81,
+            "EndOffset": 88
+        }
+    ]
+}

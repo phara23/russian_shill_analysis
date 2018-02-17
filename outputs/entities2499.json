@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6421629786491394,
+            "Type": "QUANTITY",
+            "Text": "one",
+            "BeginOffset": 87,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9375101923942566,
+            "Type": "QUANTITY",
+            "Text": "three states",
+            "BeginOffset": 94,
+            "EndOffset": 106
+        }
+    ]
+}

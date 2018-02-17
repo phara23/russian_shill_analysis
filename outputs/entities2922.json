@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9365337491035461,
+            "Type": "PERSON",
+            "Text": "@sandeebabygrl50",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9034237265586853,
+            "Type": "PERSON",
+            "Text": "@jstines3",
+            "BeginOffset": 21,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.5411391854286194,
+            "Type": "TITLE",
+            "Text": "Amen Sister",
+            "BeginOffset": 33,
+            "EndOffset": 44
+        }
+    ]
+}

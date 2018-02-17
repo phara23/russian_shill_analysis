@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8401135206222534,
+            "Type": "PERSON",
+            "Text": "@PatriotGeorgia",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.6257417798042297,
+            "Type": "ORGANIZATION",
+            "Text": "Salt Lake Tribune",
+            "BeginOffset": 20,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9914077520370483,
+            "Type": "PERSON",
+            "Text": "Harry Reid",
+            "BeginOffset": 90,
+            "EndOffset": 100
+        }
+    ]
+}

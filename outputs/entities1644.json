@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.512265145778656,
+            "Type": "ORGANIZATION",
+            "Text": "@520",
+            "BeginOffset": 3,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.6607270240783691,
+            "Type": "ORGANIZATION",
+            "Text": "@FreshisBackTV",
+            "BeginOffset": 36,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9799823760986328,
+            "Type": "OTHER",
+            "Text": "https://t.co/hZsU8HdFC6",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.7776185274124146,
+            "Type": "ORGANIZATION",
+            "Text": "#520PROMO",
+            "BeginOffset": 122,
+            "EndOffset": 131
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5487341284751892,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8663108348846436,
+            "Type": "PERSON",
+            "Text": "@Delo_Taylor",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9728331565856934,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 109,
+            "EndOffset": 114
+        }
+    ]
+}

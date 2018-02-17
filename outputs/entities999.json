@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7678234577178955,
+            "Type": "PERSON",
+            "Text": "@Atlanta_Police",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8701793551445007,
+            "Type": "LOCATION",
+            "Text": "Atlanta",
+            "BeginOffset": 34,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.5995930433273315,
+            "Type": "QUANTITY",
+            "Text": "39",
+            "BeginOffset": 67,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.8765825033187866,
+            "Type": "ORGANIZATION",
+            "Text": "Atlanta Police",
+            "BeginOffset": 74,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.6809467077255249,
+            "Type": "OTHER",
+            "Text": "#243",
+            "BeginOffset": 109,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.9999821186065674,
+            "Type": "OTHER",
+            "Text": "https://t.co/q7M3h3DgRj",
+            "BeginOffset": 115,
+            "EndOffset": 138
+        }
+    ]
+}

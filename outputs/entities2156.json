@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6531470417976379,
+            "Type": "ORGANIZATION",
+            "Text": "@ActualFlatticus",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.801088809967041,
+            "Type": "ORGANIZATION",
+            "Text": "@hillaryclinton",
+            "BeginOffset": 29,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.8867175579071045,
+            "Type": "OTHER",
+            "Text": "https://t.co/R",
+            "BeginOffset": 125,
+            "EndOffset": 139
+        }
+    ]
+}

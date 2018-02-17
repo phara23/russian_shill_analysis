@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8567913174629211,
+            "Type": "ORGANIZATION",
+            "Text": "HRC",
+            "BeginOffset": 0,
+            "EndOffset": 3
+        },
+        {
+            "Score": 0.9878674745559692,
+            "Type": "QUANTITY",
+            "Text": "49%",
+            "BeginOffset": 35,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.992403507232666,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 43,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.897686779499054,
+            "Type": "QUANTITY",
+            "Text": "20 people",
+            "BeginOffset": 52,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.999985933303833,
+            "Type": "OTHER",
+            "Text": "https://t.co/IoBws8daMM",
+            "BeginOffset": 121,
+            "EndOffset": 144
+        }
+    ]
+}

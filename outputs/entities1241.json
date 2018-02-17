@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9478186368942261,
+            "Type": "PERSON",
+            "Text": "@deneenborelli",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.931674599647522,
+            "Type": "PERSON",
+            "Text": "David",
+            "BeginOffset": 32,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9946854114532471,
+            "Type": "DATE",
+            "Text": "Wednesday",
+            "BeginOffset": 44,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9997943043708801,
+            "Type": "OTHER",
+            "Text": "https://t.co/sTUco1Xanc",
+            "BeginOffset": 57,
+            "EndOffset": 80
+        }
+    ]
+}

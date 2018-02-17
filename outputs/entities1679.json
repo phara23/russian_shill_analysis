@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9899593591690063,
+            "Type": "QUANTITY",
+            "Text": "73 million",
+            "BeginOffset": 14,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9446766972541809,
+            "Type": "DATE",
+            "Text": "this year",
+            "BeginOffset": 55,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9998924732208252,
+            "Type": "OTHER",
+            "Text": "https://t.co/dfxQ5ReUDp",
+            "BeginOffset": 116,
+            "EndOffset": 139
+        }
+    ]
+}

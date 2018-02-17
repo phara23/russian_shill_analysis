@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8933775424957275,
+            "Type": "PERSON",
+            "Text": "@theclobra",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.4362662732601166,
+            "Type": "ORGANIZATION",
+            "Text": "Compton #IsQuiteAChallenge",
+            "BeginOffset": 38,
+            "EndOffset": 64
+        }
+    ]
+}

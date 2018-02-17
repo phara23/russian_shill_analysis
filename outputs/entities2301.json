@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9377250671386719,
+            "Type": "PERSON",
+            "Text": "@AmbJohnBolton",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9557403922080994,
+            "Type": "QUANTITY",
+            "Text": "Eight years",
+            "BeginOffset": 41,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9317110776901245,
+            "Type": "PERSON",
+            "Text": "President Obama",
+            "BeginOffset": 56,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.4913958013057709,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 129,
+            "EndOffset": 138
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8548887372016907,
+            "Type": "PERSON",
+            "Text": "@Black_Atheists",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8340672850608826,
+            "Type": "ORGANIZATION",
+            "Text": "West Bank of Jordan",
+            "BeginOffset": 92,
+            "EndOffset": 111
+        },
+        {
+            "Score": 0.9920204281806946,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 113,
+            "EndOffset": 118
+        },
+        {
+            "Score": 0.952003538608551,
+            "Type": "OTHER",
+            "Text": "https://t.co/GPo",
+            "BeginOffset": 123,
+            "EndOffset": 139
+        }
+    ]
+}

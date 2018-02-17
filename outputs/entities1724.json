@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6656401753425598,
+            "Type": "PERSON",
+            "Text": "@Reductress",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.998776912689209,
+            "Type": "TITLE",
+            "Text": "La La Land",
+            "BeginOffset": 45,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9342458248138428,
+            "Type": "OTHER",
+            "Text": "https://t.co/p1RPyjZzNh",
+            "BeginOffset": 62,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.9999632835388184,
+            "Type": "OTHER",
+            "Text": "https://t.co/k5qz2yJSjh",
+            "BeginOffset": 86,
+            "EndOffset": 109
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7788803577423096,
+            "Type": "ORGANIZATION",
+            "Text": "@GOP",
+            "BeginOffset": 3,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.6916419267654419,
+            "Type": "ORGANIZATION",
+            "Text": "@timkaine",
+            "BeginOffset": 12,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9908198714256287,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 45,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9999265670776367,
+            "Type": "OTHER",
+            "Text": "https://t.co/PMngoKHUjA",
+            "BeginOffset": 50,
+            "EndOffset": 73
+        }
+    ]
+}

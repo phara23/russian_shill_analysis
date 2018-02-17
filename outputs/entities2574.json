@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7091396450996399,
+            "Type": "PERSON",
+            "Text": "@MattMurph",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.7972431778907776,
+            "Type": "QUANTITY",
+            "Text": "24: 62 countries",
+            "BeginOffset": 13,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.969093918800354,
+            "Type": "LOCATION",
+            "Text": "USA",
+            "BeginOffset": 63,
+            "EndOffset": 66
+        }
+    ]
+}

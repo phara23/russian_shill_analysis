@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.747685432434082,
+            "Type": "PERSON",
+            "Text": "@MaryPatriotNews",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.38734665513038635,
+            "Type": "QUANTITY",
+            "Text": "16",
+            "BeginOffset": 67,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9698572754859924,
+            "Type": "ORGANIZATION",
+            "Text": "#youtube",
+            "BeginOffset": 113,
+            "EndOffset": 121
+        },
+        {
+            "Score": 0.9364404082298279,
+            "Type": "ORGANIZATION",
+            "Text": "#Google",
+            "BeginOffset": 122,
+            "EndOffset": 129
+        },
+        {
+            "Score": 0.7011312246322632,
+            "Type": "ORGANIZATION",
+            "Text": "#WSJ",
+            "BeginOffset": 130,
+            "EndOffset": 134
+        }
+    ]
+}

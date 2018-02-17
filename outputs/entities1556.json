@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.84273761510849,
+            "Type": "PERSON",
+            "Text": "@gerfingerpoken",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8251020908355713,
+            "Type": "PERSON",
+            "Text": "Bowe Bergdahl",
+            "BeginOffset": 35,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9809262752532959,
+            "Type": "PERSON",
+            "Text": "Barack Hussein",
+            "BeginOffset": 76,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.753808856010437,
+            "Type": "OTHER",
+            "Text": "American",
+            "BeginOffset": 93,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.9731897711753845,
+            "Type": "OTHER",
+            "Text": "https://t.co/46OkLZmnIG",
+            "BeginOffset": 112,
+            "EndOffset": 135
+        }
+    ]
+}

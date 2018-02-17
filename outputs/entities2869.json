@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8537131547927856,
+            "Type": "PERSON",
+            "Text": "@conens46",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.7433193325996399,
+            "Type": "QUANTITY",
+            "Text": "4 ART",
+            "BeginOffset": 60,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9130308628082275,
+            "Type": "DATE",
+            "Text": "TODAY",
+            "BeginOffset": 97,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.9186074137687683,
+            "Type": "OTHER",
+            "Text": "https://t.co/TpkEz1XgIn",
+            "BeginOffset": 104,
+            "EndOffset": 127
+        },
+        {
+            "Score": 0.9755841493606567,
+            "Type": "OTHER",
+            "Text": "https://t.c",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

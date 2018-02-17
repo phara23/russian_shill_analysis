@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.85075843334198,
+            "Type": "PERSON",
+            "Text": "Sheriff Clarke",
+            "BeginOffset": 31,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.8322731256484985,
+            "Type": "PERSON",
+            "Text": "President Trump",
+            "BeginOffset": 76,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.9999171495437622,
+            "Type": "OTHER",
+            "Text": "https://t.co/KhgD2I8sRr",
+            "BeginOffset": 110,
+            "EndOffset": 133
+        }
+    ]
+}

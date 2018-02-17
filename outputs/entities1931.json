@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8376256227493286,
+            "Type": "PERSON",
+            "Text": "@RobManess",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9040191769599915,
+            "Type": "PERSON",
+            "Text": "@GovernorPerry",
+            "BeginOffset": 15,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9865677952766418,
+            "Type": "PERSON",
+            "Text": "@RealBenCarson",
+            "BeginOffset": 31,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9700255393981934,
+            "Type": "PERSON",
+            "Text": "@RandPaul",
+            "BeginOffset": 51,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9994025230407715,
+            "Type": "PERSON",
+            "Text": "Rob Maness",
+            "BeginOffset": 69,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.8737965822219849,
+            "Type": "ORGANIZATION",
+            "Text": "Senate",
+            "BeginOffset": 84,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9998761415481567,
+            "Type": "OTHER",
+            "Text": "https://t.co/8HuRADmPyv",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        }
+    ]
+}

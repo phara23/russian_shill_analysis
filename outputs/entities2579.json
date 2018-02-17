@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7942325472831726,
+            "Type": "PERSON",
+            "Text": "@TrumpThe45th",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8648978471755981,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 18,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.7355741858482361,
+            "Type": "LOCATION",
+            "Text": "U.S.",
+            "BeginOffset": 43,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9809547662734985,
+            "Type": "ORGANIZATION",
+            "Text": "ISIS",
+            "BeginOffset": 82,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9353817105293274,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 92,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.8394399881362915,
+            "Type": "OTHER",
+            "Text": "https://t.co/llMaugk7hr",
+            "BeginOffset": 110,
+            "EndOffset": 133
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.736854076385498,
+            "Type": "PERSON",
+            "Text": "@business",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.7887308597564697,
+            "Type": "PERSON",
+            "Text": "Netanyahu",
+            "BeginOffset": 14,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.6603944897651672,
+            "Type": "ORGANIZATION",
+            "Text": "Israel",
+            "BeginOffset": 32,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.8973077535629272,
+            "Type": "QUANTITY",
+            "Text": "8 billion",
+            "BeginOffset": 41,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.6656237244606018,
+            "Type": "LOCATION",
+            "Text": "U.S.",
+            "BeginOffset": 81,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.9226056337356567,
+            "Type": "OTHER",
+            "Text": "https://t.co/1xewa7zKjD",
+            "BeginOffset": 86,
+            "EndOffset": 109
+        },
+        {
+            "Score": 0.9999620914459229,
+            "Type": "OTHER",
+            "Text": "https://t.co/RKzSNcOYVN",
+            "BeginOffset": 110,
+            "EndOffset": 133
+        }
+    ]
+}

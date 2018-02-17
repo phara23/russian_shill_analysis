@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8580576181411743,
+            "Type": "PERSON",
+            "Text": "@AlaaDaraghme",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.46143755316734314,
+            "Type": "OTHER",
+            "Text": "Palestinians",
+            "BeginOffset": 18,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.5838902592658997,
+            "Type": "LOCATION",
+            "Text": "Bethlehem",
+            "BeginOffset": 65,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9941867589950562,
+            "Type": "OTHER",
+            "Text": "https://t.co/zf4SYZj41y",
+            "BeginOffset": 84,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.8984017968177795,
+            "Type": "ORGANIZATION",
+            "Text": "@MiddleEastEye",
+            "BeginOffset": 112,
+            "EndOffset": 126
+        }
+    ]
+}

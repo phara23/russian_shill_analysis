@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9470351934432983,
+            "Type": "PERSON",
+            "Text": "@greeneyes0084",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8527691960334778,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 48,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.40696945786476135,
+            "Type": "PERSON",
+            "Text": "#Bengha",
+            "BeginOffset": 132,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9994770884513855,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 0,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.998943030834198,
+            "Type": "OTHER",
+            "Text": "https://t.co/rjfCLSkN0n",
+            "BeginOffset": 74,
+            "EndOffset": 97
+        }
+    ]
+}

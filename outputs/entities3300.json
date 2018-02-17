@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7240311503410339,
+            "Type": "PERSON",
+            "Text": "@business",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8649597764015198,
+            "Type": "ORGANIZATION",
+            "Text": "Dynegy",
+            "BeginOffset": 14,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.9334796071052551,
+            "Type": "OTHER",
+            "Text": "https://t.co/gneSZFLH9p",
+            "BeginOffset": 80,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.9999864101409912,
+            "Type": "OTHER",
+            "Text": "https://t.co/XAJzj6If3I",
+            "BeginOffset": 104,
+            "EndOffset": 127
+        }
+    ]
+}

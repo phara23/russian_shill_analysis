@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5399340987205505,
+            "Type": "QUANTITY",
+            "Text": "one",
+            "BeginOffset": 8,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.561517059803009,
+            "Type": "LOCATION",
+            "Text": "American",
+            "BeginOffset": 41,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9998180270195007,
+            "Type": "OTHER",
+            "Text": "https://t.co/Km0wl6jEdq",
+            "BeginOffset": 112,
+            "EndOffset": 135
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.930095374584198,
+            "Type": "PERSON",
+            "Text": "@papermonkeynz",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6762081384658813,
+            "Type": "QUANTITY",
+            "Text": "Double Down",
+            "BeginOffset": 65,
+            "EndOffset": 76
+        }
+    ]
+}

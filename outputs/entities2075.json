@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9524672627449036,
+            "Type": "PERSON",
+            "Text": "@JoMC1703",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.996615469455719,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 53,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9973642230033875,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 62,
+            "EndOffset": 69
+        }
+    ]
+}

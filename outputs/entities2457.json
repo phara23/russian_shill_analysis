@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9252556562423706,
+            "Type": "PERSON",
+            "Text": "@OnlyJeanSeixasM",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.5104438066482544,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 21,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.8293699026107788,
+            "Type": "PERSON",
+            "Text": "@iamgavinjames",
+            "BeginOffset": 24,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.7589111924171448,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 95,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.9711889624595642,
+            "Type": "OTHER",
+            "Text": "https://t.co/z7CRfyho",
+            "BeginOffset": 118,
+            "EndOffset": 139
+        }
+    ]
+}

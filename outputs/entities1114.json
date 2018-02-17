@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7866536378860474,
+            "Type": "PERSON",
+            "Text": "@PabloCRUZin",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8526934385299683,
+            "Type": "DATE",
+            "Text": "16: 2015",
+            "BeginOffset": 15,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9960660934448242,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 71,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.9345306754112244,
+            "Type": "OTHER",
+            "Text": "https://t.co/cm1jiSBEPU",
+            "BeginOffset": 84,
+            "EndOffset": 107
+        }
+    ]
+}

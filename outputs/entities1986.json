@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7195624113082886,
+            "Type": "PERSON",
+            "Text": "@politico",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9970414042472839,
+            "Type": "PERSON",
+            "Text": "Bernie",
+            "BeginOffset": 14,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.9989008903503418,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 25,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9999741315841675,
+            "Type": "OTHER",
+            "Text": "http://t.co/d5mb1XO9xZ",
+            "BeginOffset": 51,
+            "EndOffset": 73
+        }
+    ]
+}

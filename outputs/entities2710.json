@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9873964786529541,
+            "Type": "PERSON",
+            "Text": "George Soros",
+            "BeginOffset": 11,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.99955153465271,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 30,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.46927234530448914,
+            "Type": "QUANTITY",
+            "Text": "14",
+            "BeginOffset": 114,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.9988221526145935,
+            "Type": "OTHER",
+            "Text": "https://t.co/AahVfGm1oZ",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

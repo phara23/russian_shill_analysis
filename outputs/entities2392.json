@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9097940921783447,
+            "Type": "PERSON",
+            "Text": "@KatiePavlich",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9939205646514893,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 18,
+            "EndOffset": 23
+        }
+    ]
+}

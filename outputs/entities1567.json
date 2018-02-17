@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9263444542884827,
+            "Type": "PERSON",
+            "Text": "@timcogan",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9824641346931458,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 14,
+            "EndOffset": 19
+        }
+    ]
+}

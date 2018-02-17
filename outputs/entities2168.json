@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.868022620677948,
+            "Type": "PERSON",
+            "Text": "@zapvv",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.8609804511070251,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 93,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.7171556353569031,
+            "Type": "PERSON",
+            "Text": "@FLOTUS",
+            "BeginOffset": 111,
+            "EndOffset": 118
+        }
+    ]
+}

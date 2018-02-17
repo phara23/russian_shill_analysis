@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8455013036727905,
+            "Type": "PERSON",
+            "Text": "@AbnInfVet",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.5520827770233154,
+            "Type": "ORGANIZATION",
+            "Text": "Muslim",
+            "BeginOffset": 27,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.989794909954071,
+            "Type": "OTHER",
+            "Text": "https://t.co/rRZgBcCxBO",
+            "BeginOffset": 99,
+            "EndOffset": 122
+        }
+    ]
+}

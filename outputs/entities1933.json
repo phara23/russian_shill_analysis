@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.561931312084198,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 0,
+            "EndOffset": 3
+        },
+        {
+            "Score": 0.8967193961143494,
+            "Type": "QUANTITY",
+            "Text": "Day 3",
+            "BeginOffset": 4,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9478097558021545,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 23,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9867647886276245,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 35,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9726587533950806,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 51,
+            "EndOffset": 56
+        }
+    ]
+}

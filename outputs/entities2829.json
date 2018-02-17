@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9096757173538208,
+            "Type": "QUANTITY",
+            "Text": "a week",
+            "BeginOffset": 45,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9936087131500244,
+            "Type": "QUANTITY",
+            "Text": "two",
+            "BeginOffset": 55,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.7671626210212708,
+            "Type": "OTHER",
+            "Text": "911",
+            "BeginOffset": 103,
+            "EndOffset": 106
+        }
+    ]
+}

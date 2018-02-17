@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9182641506195068,
+            "Type": "PERSON",
+            "Text": "@rlprice74",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8669813275337219,
+            "Type": "EVENT",
+            "Text": "Christmas",
+            "BeginOffset": 15,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.7537652850151062,
+            "Type": "QUANTITY",
+            "Text": "4Words",
+            "BeginOffset": 56,
+            "EndOffset": 62
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.954761803150177,
+            "Type": "PERSON",
+            "Text": "@RebekahWorsham",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9916331768035889,
+            "Type": "DATE",
+            "Text": "2017",
+            "BeginOffset": 29,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9999648332595825,
+            "Type": "OTHER",
+            "Text": "https://t.co/Cl3nOZ1kji",
+            "BeginOffset": 34,
+            "EndOffset": 57
+        }
+    ]
+}

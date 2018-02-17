@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9991493225097656,
+            "Type": "PERSON",
+            "Text": "Michael Brown",
+            "BeginOffset": 0,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9815908074378967,
+            "Type": "EVENT",
+            "Text": "Democratic National Convention",
+            "BeginOffset": 34,
+            "EndOffset": 64
+        }
+    ]
+}

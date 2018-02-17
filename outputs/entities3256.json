@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8754428029060364,
+            "Type": "PERSON",
+            "Text": "@TosaCatholic",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9375014901161194,
+            "Type": "DATE",
+            "Text": "next week",
+            "BeginOffset": 36,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9999645948410034,
+            "Type": "OTHER",
+            "Text": "https://t.co/NR6wG3rU63",
+            "BeginOffset": 71,
+            "EndOffset": 94
+        }
+    ]
+}

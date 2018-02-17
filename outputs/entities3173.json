@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.854842483997345,
+            "Type": "PERSON",
+            "Text": "#Trump",
+            "BeginOffset": 0,
+            "EndOffset": 6
+        },
+        {
+            "Score": 0.9996322989463806,
+            "Type": "LOCATION",
+            "Text": "San Diego",
+            "BeginOffset": 51,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.999652624130249,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 67,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9999955892562866,
+            "Type": "OTHER",
+            "Text": "https://t.co/6J1gbHmQXT",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8454809784889221,
+            "Type": "PERSON",
+            "Text": "@G_Pond47",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8966622948646545,
+            "Type": "PERSON",
+            "Text": "@gwbehn",
+            "BeginOffset": 14,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9948050379753113,
+            "Type": "PERSON",
+            "Text": "@dare6626",
+            "BeginOffset": 22,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9916241765022278,
+            "Type": "PERSON",
+            "Text": "@tas0727",
+            "BeginOffset": 32,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.8641393780708313,
+            "Type": "QUANTITY",
+            "Text": "4 personal gain",
+            "BeginOffset": 105,
+            "EndOffset": 120
+        }
+    ]
+}

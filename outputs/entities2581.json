@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9245332479476929,
+            "Type": "PERSON",
+            "Text": "@OljaNY1",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9438933730125427,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 83,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.9903391599655151,
+            "Type": "LOCATION",
+            "Text": "New York City",
+            "BeginOffset": 108,
+            "EndOffset": 121
+        }
+    ]
+}

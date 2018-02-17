@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8844251036643982,
+            "Type": "PERSON",
+            "Text": "@leighsy10021",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.996069073677063,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 18,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.7971369028091431,
+            "Type": "QUANTITY",
+            "Text": "over 250 rallies",
+            "BeginOffset": 28,
+            "EndOffset": 44
+        }
+    ]
+}

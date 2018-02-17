@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9654760956764221,
+            "Type": "PERSON",
+            "Text": "@ElianaBenador",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6308178901672363,
+            "Type": "ORGANIZATION",
+            "Text": "democrats",
+            "BeginOffset": 30,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.5028561353683472,
+            "Type": "ORGANIZATION",
+            "Text": "democrats",
+            "BeginOffset": 53,
+            "EndOffset": 62
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9012011289596558,
+            "Type": "PERSON",
+            "Text": "@IanSams",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9575443267822266,
+            "Type": "QUANTITY",
+            "Text": "one week",
+            "BeginOffset": 16,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.3934536874294281,
+            "Type": "DATE",
+            "Text": "Tonight",
+            "BeginOffset": 64,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9987146854400635,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 72,
+            "EndOffset": 77
+        }
+    ]
+}

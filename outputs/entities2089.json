@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8543529510498047,
+            "Type": "ORGANIZATION",
+            "Text": "@A5KEM",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.7497555017471313,
+            "Type": "ORGANIZATION",
+            "Text": "DA BRAT",
+            "BeginOffset": 11,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8275359869003296,
+            "Type": "ORGANIZATION",
+            "Text": "ASKEM",
+            "BeginOffset": 22,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9760745763778687,
+            "Type": "ORGANIZATION",
+            "Text": "@A5KEM",
+            "BeginOffset": 28,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9999620914459229,
+            "Type": "OTHER",
+            "Text": "https://t.co/tEwX66sLmL",
+            "BeginOffset": 50,
+            "EndOffset": 73
+        }
+    ]
+}

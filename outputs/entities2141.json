@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8912924528121948,
+            "Type": "PERSON",
+            "Text": "@jayceodpromoter",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.7290380597114563,
+            "Type": "QUANTITY",
+            "Text": "5.00 bronze",
+            "BeginOffset": 81,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.9932965636253357,
+            "Type": "OTHER",
+            "Text": "https://t.co/ml8TV",
+            "BeginOffset": 119,
+            "EndOffset": 137
+        }
+    ]
+}

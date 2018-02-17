@@ -1,0 +1,28 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9987121224403381,
+            "Text": "A version",
+            "BeginOffset": 0,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.997280478477478,
+            "Text": "Scooby Doo",
+            "BeginOffset": 13,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9885193705558777,
+            "Text": "the drug references",
+            "BeginOffset": 45,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.876843273639679,
+            "Text": "your face",
+            "BeginOffset": 85,
+            "EndOffset": 94
+        }
+    ]
+}

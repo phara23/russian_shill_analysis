@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9258570671081543,
+            "Type": "PERSON",
+            "Text": "@Augustine25",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9755818843841553,
+            "Type": "PERSON",
+            "Text": "Nate Silver",
+            "BeginOffset": 17,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9995253086090088,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 80,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.7162977457046509,
+            "Type": "OTHER",
+            "Text": "https://t.co/krpi6NyjLj",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8584814667701721,
+            "Type": "PERSON",
+            "Text": "@DataGenesis",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.43694189190864563,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 17,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.680590808391571,
+            "Type": "PERSON",
+            "Text": "@catwahler",
+            "BeginOffset": 20,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.7253745794296265,
+            "Type": "OTHER",
+            "Text": "https://t.co/tPv9EWWITY",
+            "BeginOffset": 57,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.37551748752593994,
+            "Type": "ORGANIZATION",
+            "Text": "#PJNET",
+            "BeginOffset": 81,
+            "EndOffset": 87
+        }
+    ]
+}

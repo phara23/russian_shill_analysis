@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.802280068397522,
+            "Type": "PERSON",
+            "Text": "@littlebytesnews",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9619929194450378,
+            "Type": "PERSON",
+            "Text": "@juanmuriango",
+            "BeginOffset": 24,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.8504875302314758,
+            "Type": "QUANTITY",
+            "Text": "five phantom donations",
+            "BeginOffset": 50,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.998105525970459,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 89,
+            "EndOffset": 101
+        }
+    ]
+}

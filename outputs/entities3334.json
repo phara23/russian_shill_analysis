@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5039776563644409,
+            "Type": "ORGANIZATION",
+            "Text": "@100",
+            "BeginOffset": 3,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.700367271900177,
+            "Type": "ORGANIZATION",
+            "Text": "Microsoft",
+            "BeginOffset": 44,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9999805688858032,
+            "Type": "OTHER",
+            "Text": "https://t.co/ILklxsVQA5",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

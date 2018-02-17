@@ -1,0 +1,28 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.8884069323539734,
+            "Text": "The Good",
+            "BeginOffset": 1,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9744956493377686,
+            "Text": "the Bad",
+            "BeginOffset": 11,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9990970492362976,
+            "Text": "the rest",
+            "BeginOffset": 23,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9963276982307434,
+            "Text": "the Trump family",
+            "BeginOffset": 35,
+            "EndOffset": 51
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9117485880851746,
+            "Type": "PERSON",
+            "Text": "@vegod_jean",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7724019289016724,
+            "Type": "ORGANIZATION",
+            "Text": "HRC",
+            "BeginOffset": 36,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.634347677230835,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 127,
+            "EndOffset": 136
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8815473318099976,
+            "Type": "PERSON",
+            "Text": "@mtracey",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9451746940612793,
+            "Type": "PERSON",
+            "Text": "Stein",
+            "BeginOffset": 13,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9957067370414734,
+            "Type": "DATE",
+            "Text": "Monday",
+            "BeginOffset": 103,
+            "EndOffset": 109
+        },
+        {
+            "Score": 0.9456570744514465,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

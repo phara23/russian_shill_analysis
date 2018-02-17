@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7727974653244019,
+            "Type": "PERSON",
+            "Text": "@DAYDABASS",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.7184852957725525,
+            "Type": "PERSON",
+            "Text": "@DAYDABASS",
+            "BeginOffset": 35,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.2989524006843567,
+            "Type": "PERSON",
+            "Text": "#DenzelWashington",
+            "BeginOffset": 54,
+            "EndOffset": 71
+        }
+    ]
+}

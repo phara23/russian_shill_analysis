@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8481571078300476,
+            "Type": "PERSON",
+            "Text": "@ScreamyMonkey",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.5772519111633301,
+            "Type": "OTHER",
+            "Text": "Nigerian",
+            "BeginOffset": 29,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9453591704368591,
+            "Type": "QUANTITY",
+            "Text": "234 more females",
+            "BeginOffset": 48,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.7036423683166504,
+            "Type": "ORGANIZATION",
+            "Text": "The Philadelphia Inquirer",
+            "BeginOffset": 90,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.9999845027923584,
+            "Type": "OTHER",
+            "Text": "http://t.co/1PCPXzXliv",
+            "BeginOffset": 117,
+            "EndOffset": 139
+        }
+    ]
+}

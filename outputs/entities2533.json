@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8637636303901672,
+            "Type": "PERSON",
+            "Text": "@KeeganNYC",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9274288415908813,
+            "Type": "ORGANIZATION",
+            "Text": "NYPD",
+            "BeginOffset": 15,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9020710587501526,
+            "Type": "OTHER",
+            "Text": "https://t.co/TvOzKPwG7c",
+            "BeginOffset": 106,
+            "EndOffset": 129
+        },
+        {
+            "Score": 0.9454695582389832,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 130,
+            "EndOffset": 143
+        }
+    ]
+}

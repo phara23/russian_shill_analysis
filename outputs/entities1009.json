@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8877179026603699,
+            "Type": "PERSON",
+            "Text": "@woodruffbets",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9994071125984192,
+            "Type": "PERSON",
+            "Text": "Gary Busey",
+            "BeginOffset": 43,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9987643957138062,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 90,
+            "EndOffset": 95
+        }
+    ]
+}

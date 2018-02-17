@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7559832334518433,
+            "Type": "PERSON",
+            "Text": "@Dlw20161950",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.99449223279953,
+            "Type": "PERSON",
+            "Text": "Ted Cruz",
+            "BeginOffset": 17,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.4386569559574127,
+            "Type": "ORGANIZATION",
+            "Text": "Senate",
+            "BeginOffset": 27,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.6869210600852966,
+            "Type": "ORGANIZATION",
+            "Text": "Texas GOP",
+            "BeginOffset": 45,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.999883770942688,
+            "Type": "OTHER",
+            "Text": "https://t.co/dWKpmMT1FT",
+            "BeginOffset": 84,
+            "EndOffset": 107
+        }
+    ]
+}

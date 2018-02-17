@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8844016790390015,
+            "Type": "PERSON",
+            "Text": "@trumpiowa",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.48463359475135803,
+            "Type": "ORGANIZATION",
+            "Text": "Iowa",
+            "BeginOffset": 15,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8811014890670776,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 22,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.8152650594711304,
+            "Type": "TITLE",
+            "Text": "Patriot of the Day",
+            "BeginOffset": 39,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.7843990921974182,
+            "Type": "PERSON",
+            "Text": "@heytana",
+            "BeginOffset": 59,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9786717891693115,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 92,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.9999783039093018,
+            "Type": "OTHER",
+            "Text": "https://t.co/9yluhcqCN2",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        }
+    ]
+}

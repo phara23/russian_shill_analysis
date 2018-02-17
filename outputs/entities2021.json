@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8474677801132202,
+            "Type": "PERSON",
+            "Text": "@mcgilh",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.5451940298080444,
+            "Type": "LOCATION",
+            "Text": "Michigan",
+            "BeginOffset": 12,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.9986498355865479,
+            "Type": "PERSON",
+            "Text": "Jill Stein",
+            "BeginOffset": 49,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.9932239055633545,
+            "Type": "QUANTITY",
+            "Text": "100%",
+            "BeginOffset": 67,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9998685121536255,
+            "Type": "OTHER",
+            "Text": "https://t.co/W4laovEJRg",
+            "BeginOffset": 100,
+            "EndOffset": 123
+        }
+    ]
+}

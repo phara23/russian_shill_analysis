@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5034281015396118,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.9231816530227661,
+            "Type": "PERSON",
+            "Text": "@trumpy17",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.921360969543457,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 47,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.6888301372528076,
+            "Type": "EVENT",
+            "Text": "Super Rally",
+            "BeginOffset": 75,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9959088563919067,
+            "Type": "DATE",
+            "Text": "today",
+            "BeginOffset": 87,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.484758198261261,
+            "Type": "LOCATION",
+            "Text": "CO",
+            "BeginOffset": 96,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.9703021049499512,
+            "Type": "OTHER",
+            "Text": "https://t.co/RgY",
+            "BeginOffset": 123,
+            "EndOffset": 139
+        }
+    ]
+}

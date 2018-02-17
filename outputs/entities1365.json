@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8781384229660034,
+            "Type": "PERSON",
+            "Text": "@DallasBreaking",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9992572069168091,
+            "Type": "PERSON",
+            "Text": "Sandra Bland",
+            "BeginOffset": 20,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.7506068348884583,
+            "Type": "LOCATION",
+            "Text": "Illinois",
+            "BeginOffset": 84,
+            "EndOffset": 92
+        }
+    ]
+}

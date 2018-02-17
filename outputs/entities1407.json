@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8798038959503174,
+            "Type": "ORGANIZATION",
+            "Text": "WHO",
+            "BeginOffset": 0,
+            "EndOffset": 3
+        },
+        {
+            "Score": 0.7466410994529724,
+            "Type": "LOCATION",
+            "Text": "Aden",
+            "BeginOffset": 39,
+            "EndOffset": 43
+        }
+    ]
+}

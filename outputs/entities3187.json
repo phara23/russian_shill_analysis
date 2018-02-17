@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8469957113265991,
+            "Type": "PERSON",
+            "Text": "@cj23k",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.6348264217376709,
+            "Type": "TITLE",
+            "Text": "Tidal",
+            "BeginOffset": 57,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.6704656481742859,
+            "Type": "ORGANIZATION",
+            "Text": "@fatjoe",
+            "BeginOffset": 114,
+            "EndOffset": 121
+        }
+    ]
+}

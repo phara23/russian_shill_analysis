@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.836475670337677,
+            "Type": "PERSON",
+            "Text": "@ForAmerica",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9999275207519531,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 16,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9998400807380676,
+            "Type": "PERSON",
+            "Text": "Tim Kaine",
+            "BeginOffset": 36,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9665563106536865,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 82,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.9999051094055176,
+            "Type": "OTHER",
+            "Text": "https://t.co/yhsKs102Hk",
+            "BeginOffset": 91,
+            "EndOffset": 114
+        }
+    ]
+}

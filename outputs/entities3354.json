@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8248261213302612,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.6704074144363403,
+            "Type": "ORGANIZATION",
+            "Text": "@TheVoiceNews",
+            "BeginOffset": 14,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9213511347770691,
+            "Type": "PERSON",
+            "Text": "Eubank",
+            "BeginOffset": 37,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9333214163780212,
+            "Type": "PERSON",
+            "Text": "Briton",
+            "BeginOffset": 63,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9427621364593506,
+            "Type": "OTHER",
+            "Text": "https://t.c",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

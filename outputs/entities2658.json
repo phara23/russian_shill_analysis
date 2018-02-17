@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8971293568611145,
+            "Type": "PERSON",
+            "Text": "@Kotcha301",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.7092419266700745,
+            "Type": "ORGANIZATION",
+            "Text": "NW Ohio",
+            "BeginOffset": 15,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9919787645339966,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 42,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9789109230041504,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 66,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.8187997341156006,
+            "Type": "DATE",
+            "Text": "Wednesday",
+            "BeginOffset": 83,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.9532711505889893,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 131,
+            "EndOffset": 136
+        }
+    ]
+}

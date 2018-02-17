@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8615665435791016,
+            "Type": "PERSON",
+            "Text": "@TODAYshow",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.7973939776420593,
+            "Type": "QUANTITY",
+            "Text": "First sighting",
+            "BeginOffset": 15,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9989016056060791,
+            "Type": "PERSON",
+            "Text": "George W. Bush",
+            "BeginOffset": 33,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9845761060714722,
+            "Type": "PERSON",
+            "Text": "@laurawbush",
+            "BeginOffset": 52,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9951153993606567,
+            "Type": "DATE",
+            "Text": "2017",
+            "BeginOffset": 77,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.999826967716217,
+            "Type": "OTHER",
+            "Text": "https://t.co/mJKbT2cnyB",
+            "BeginOffset": 82,
+            "EndOffset": 105
+        }
+    ]
+}

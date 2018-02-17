@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7316540479660034,
+            "Type": "PERSON",
+            "Text": "@MissJupiter1957",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.46655237674713135,
+            "Type": "ORGANIZATION",
+            "Text": "Sunrise\nWabash",
+            "BeginOffset": 21,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.999815046787262,
+            "Type": "OTHER",
+            "Text": "https://t.co/X2y8lCCAID",
+            "BeginOffset": 110,
+            "EndOffset": 133
+        }
+    ]
+}

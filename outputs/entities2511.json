@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8247522711753845,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.6879333853721619,
+            "Type": "ORGANIZATION",
+            "Text": "@Bossip",
+            "BeginOffset": 14,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9917313456535339,
+            "Type": "PERSON",
+            "Text": "Jay-Z",
+            "BeginOffset": 66,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.7406820058822632,
+            "Type": "TITLE",
+            "Text": "The Story of OJ",
+            "BeginOffset": 94,
+            "EndOffset": 109
+        },
+        {
+            "Score": 0.9835083484649658,
+            "Type": "OTHER",
+            "Text": "https://t.co/OGbkpsD",
+            "BeginOffset": 119,
+            "EndOffset": 139
+        }
+    ]
+}

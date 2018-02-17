@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.892715334892273,
+            "Type": "PERSON",
+            "Text": "@MattLaslo",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9916993379592896,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 29,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.7739753723144531,
+            "Type": "QUANTITY",
+            "Text": "one white hood",
+            "BeginOffset": 58,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.9999765157699585,
+            "Type": "OTHER",
+            "Text": "https://t.co/4Pga0bW3oe",
+            "BeginOffset": 94,
+            "EndOffset": 117
+        }
+    ]
+}

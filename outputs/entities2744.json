@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8392518162727356,
+            "Type": "EVENT",
+            "Text": "DNC 2016",
+            "BeginOffset": 0,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.9954742789268494,
+            "Type": "PERSON",
+            "Text": "Sanders",
+            "BeginOffset": 10,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9338022470474243,
+            "Type": "LOCATION",
+            "Text": "Philly",
+            "BeginOffset": 39,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9473450779914856,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 76,
+            "EndOffset": 83
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9263963103294373,
+            "Type": "PERSON",
+            "Text": "@melanieusn1979",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8971189856529236,
+            "Type": "PERSON",
+            "Text": "@tedcruz",
+            "BeginOffset": 60,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9998249411582947,
+            "Type": "OTHER",
+            "Text": "https://t.co/ogK50tRiZH",
+            "BeginOffset": 70,
+            "EndOffset": 93
+        }
+    ]
+}

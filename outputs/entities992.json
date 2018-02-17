@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8751057386398315,
+            "Type": "PERSON",
+            "Text": "@mcgilh",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9933112859725952,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 33,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9999346733093262,
+            "Type": "OTHER",
+            "Text": "https://t.co/T0IWlPZtbc",
+            "BeginOffset": 61,
+            "EndOffset": 84
+        }
+    ]
+}

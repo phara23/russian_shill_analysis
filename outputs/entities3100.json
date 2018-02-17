@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7728868722915649,
+            "Type": "ORGANIZATION",
+            "Text": "@epps7epps",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.7048040628433228,
+            "Type": "PERSON",
+            "Text": "@mitchellvii",
+            "BeginOffset": 15,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.93040531873703,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 28,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.5679059624671936,
+            "Type": "ORGANIZATION",
+            "Text": "Chelsea",
+            "BeginOffset": 106,
+            "EndOffset": 113
+        }
+    ]
+}

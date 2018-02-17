@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7471718192100525,
+            "Type": "PERSON",
+            "Text": "@beauticountry",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6683673858642578,
+            "Type": "EVENT",
+            "Text": "Christmas",
+            "BeginOffset": 44,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.8688989877700806,
+            "Type": "OTHER",
+            "Text": "https://t.co/brmf4eNZ0v",
+            "BeginOffset": 66,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.9999825954437256,
+            "Type": "OTHER",
+            "Text": "https://t.co/7E5LLuL3Xn",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        }
+    ]
+}

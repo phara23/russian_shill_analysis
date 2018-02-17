@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8967313766479492,
+            "Type": "PERSON",
+            "Text": "@CellusDaMenace",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9952531456947327,
+            "Type": "PERSON",
+            "Text": "Christian Bale",
+            "BeginOffset": 46,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.8952059745788574,
+            "Type": "PERSON",
+            "Text": "Batman",
+            "BeginOffset": 82,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9999241828918457,
+            "Type": "OTHER",
+            "Text": "https://t.co/K2wfRrU8dA",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        }
+    ]
+}

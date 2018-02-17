@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7976493239402771,
+            "Type": "PERSON",
+            "Text": "@TizioGiusto",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8822665810585022,
+            "Type": "PERSON",
+            "Text": "@donatobuc",
+            "BeginOffset": 17,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.972469687461853,
+            "Type": "PERSON",
+            "Text": "@CogoniDaniele",
+            "BeginOffset": 28,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9656068086624146,
+            "Type": "PERSON",
+            "Text": "@robertosaviano",
+            "BeginOffset": 43,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.8861986398696899,
+            "Type": "PERSON",
+            "Text": "@FaticoniPiero",
+            "BeginOffset": 87,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.9873881936073303,
+            "Type": "PERSON",
+            "Text": "@DonniniMario",
+            "BeginOffset": 102,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.9970956444740295,
+            "Type": "PERSON",
+            "Text": "@Elena07617349",
+            "BeginOffset": 116,
+            "EndOffset": 130
+        },
+        {
+            "Score": 0.986047089099884,
+            "Type": "PERSON",
+            "Text": "@barbar",
+            "BeginOffset": 132,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8232866525650024,
+            "Type": "PERSON",
+            "Text": "@jstines3",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9490261077880859,
+            "Type": "OTHER",
+            "Text": "https://t.co/idt",
+            "BeginOffset": 123,
+            "EndOffset": 139
+        }
+    ]
+}

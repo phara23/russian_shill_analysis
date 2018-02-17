@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8295753002166748,
+            "Type": "PERSON",
+            "Text": "@TwiterHero",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.832922101020813,
+            "Type": "PERSON",
+            "Text": "adam rodriguez",
+            "BeginOffset": 38,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.7161056995391846,
+            "Type": "OTHER",
+            "Text": "https://t.co/v4axo88QzW",
+            "BeginOffset": 53,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.9999934434890747,
+            "Type": "OTHER",
+            "Text": "https://t.co/GAhWDLc9gF",
+            "BeginOffset": 77,
+            "EndOffset": 100
+        }
+    ]
+}

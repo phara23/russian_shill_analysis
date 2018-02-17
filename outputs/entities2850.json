@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7170455455780029,
+            "Type": "ORGANIZATION",
+            "Text": "@NYMag",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9999197125434875,
+            "Type": "PERSON",
+            "Text": "Ben Affleck",
+            "BeginOffset": 11,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9997206330299377,
+            "Type": "PERSON",
+            "Text": "Jennifer Garner",
+            "BeginOffset": 27,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.7249327301979065,
+            "Type": "OTHER",
+            "Text": "http://t.co/wivPQ5CBvf",
+            "BeginOffset": 61,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.999987006187439,
+            "Type": "OTHER",
+            "Text": "http://t.co/s78i4MaW24",
+            "BeginOffset": 84,
+            "EndOffset": 106
+        }
+    ]
+}

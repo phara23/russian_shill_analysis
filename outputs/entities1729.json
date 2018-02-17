@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8631052374839783,
+            "Type": "PERSON",
+            "Text": "@guardian",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9024092555046082,
+            "Type": "LOCATION",
+            "Text": "Paris",
+            "BeginOffset": 17,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.8156648278236389,
+            "Type": "EVENT",
+            "Text": "Brexit",
+            "BeginOffset": 37,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.8935690522193909,
+            "Type": "PERSON",
+            "Text": "Hollande",
+            "BeginOffset": 52,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.945292055606842,
+            "Type": "PERSON",
+            "Text": "Viv Groskop",
+            "BeginOffset": 90,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.9999874830245972,
+            "Type": "OTHER",
+            "Text": "https://t.co/28P5LiLWxY",
+            "BeginOffset": 102,
+            "EndOffset": 125
+        }
+    ]
+}

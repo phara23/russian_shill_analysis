@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8559786081314087,
+            "Type": "PERSON",
+            "Text": "@ScreamyMonkey",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8199923634529114,
+            "Type": "LOCATION",
+            "Text": "U.S.",
+            "BeginOffset": 28,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.4949815571308136,
+            "Type": "LOCATION",
+            "Text": "Venezuelan",
+            "BeginOffset": 34,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9817371368408203,
+            "Type": "LOCATION",
+            "Text": "Haiti",
+            "BeginOffset": 63,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9998358488082886,
+            "Type": "OTHER",
+            "Text": "http://t.co/zp3AtgZ10G",
+            "BeginOffset": 95,
+            "EndOffset": 117
+        }
+    ]
+}

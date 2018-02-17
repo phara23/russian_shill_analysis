@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9965645670890808,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 0,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8919079899787903,
+            "Type": "EVENT",
+            "Text": "Christmas",
+            "BeginOffset": 49,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9998095631599426,
+            "Type": "OTHER",
+            "Text": "https://t.co/TCtqkawOKV",
+            "BeginOffset": 66,
+            "EndOffset": 89
+        }
+    ]
+}

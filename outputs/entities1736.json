@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8723642230033875,
+            "Type": "PERSON",
+            "Text": "@TodayMemphis",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.705001175403595,
+            "Type": "PERSON",
+            "Text": "Seton Hall",
+            "BeginOffset": 21,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9142171740531921,
+            "Type": "PERSON",
+            "Text": "Gibbs",
+            "BeginOffset": 38,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.4973216652870178,
+            "Type": "ORGANIZATION",
+            "Text": "UConn",
+            "BeginOffset": 57,
+            "EndOffset": 62
+        }
+    ]
+}

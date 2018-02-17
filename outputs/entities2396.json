@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9118369221687317,
+            "Type": "PERSON",
+            "Text": "@carlous365",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9138652086257935,
+            "Type": "PERSON",
+            "Text": "@Maggie4PT",
+            "BeginOffset": 16,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9162642359733582,
+            "Type": "PERSON",
+            "Text": "@IndeCardio",
+            "BeginOffset": 27,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9494678378105164,
+            "Type": "PERSON",
+            "Text": "@worldisraelnews",
+            "BeginOffset": 39,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9926548004150391,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 64,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9999759197235107,
+            "Type": "OTHER",
+            "Text": "https://t.co/7FBrj7N7az",
+            "BeginOffset": 79,
+            "EndOffset": 102
+        }
+    ]
+}

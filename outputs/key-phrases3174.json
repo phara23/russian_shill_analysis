@@ -1,0 +1,34 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9447507262229919,
+            "Text": "Clinton",
+            "BeginOffset": 0,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.9757973551750183,
+            "Text": "half",
+            "BeginOffset": 31,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9998681545257568,
+            "Text": "Trump",
+            "BeginOffset": 39,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9901067614555359,
+            "Text": "supporters",
+            "BeginOffset": 47,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9489150047302246,
+            "Text": "'deplorables",
+            "BeginOffset": 58,
+            "EndOffset": 70
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8747066259384155,
+            "Type": "PERSON",
+            "Text": "@Dbargen",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.41562187671661377,
+            "Type": "LOCATION",
+            "Text": "Libya",
+            "BeginOffset": 58,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.981509804725647,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 87,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.8628618717193604,
+            "Type": "ORGANIZATION",
+            "Text": "@FoxNews",
+            "BeginOffset": 96,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.8450958132743835,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7521529197692871,
+            "Type": "PERSON",
+            "Text": "@funder",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9996992945671082,
+            "Type": "PERSON",
+            "Text": "Jeff Sessions",
+            "BeginOffset": 12,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9987664222717285,
+            "Type": "PERSON",
+            "Text": "Sonia Sotomayor",
+            "BeginOffset": 42,
+            "EndOffset": 57
+        }
+    ]
+}

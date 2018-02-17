@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9427722692489624,
+            "Type": "PERSON",
+            "Text": "@pdiddy71",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.4061059057712555,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 50,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9022941589355469,
+            "Type": "PERSON",
+            "Text": "Ivanka",
+            "BeginOffset": 97,
+            "EndOffset": 103
+        }
+    ]
+}

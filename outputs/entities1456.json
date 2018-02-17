@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6705282330513,
+            "Type": "PERSON",
+            "Text": "@APEntertainment",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.622096598148346,
+            "Type": "TITLE",
+            "Text": "Grammy",
+            "BeginOffset": 21,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.993405282497406,
+            "Type": "PERSON",
+            "Text": "Phil Collins",
+            "BeginOffset": 35,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9258942008018494,
+            "Type": "PERSON",
+            "Text": "@PhilCollinsFeed",
+            "BeginOffset": 50,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9807316660881042,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 101,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.913574755191803,
+            "Type": "OTHER",
+            "Text": "http://t.co/RybQooAFms",
+            "BeginOffset": 106,
+            "EndOffset": 128
+        },
+        {
+            "Score": 0.9514440298080444,
+            "Type": "OTHER",
+            "Text": "http://t.c",
+            "BeginOffset": 129,
+            "EndOffset": 139
+        }
+    ]
+}

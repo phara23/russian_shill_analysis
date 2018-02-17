@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7011882066726685,
+            "Type": "PERSON",
+            "Text": "@PhantomNuts",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9449396729469299,
+            "Type": "QUANTITY",
+            "Text": "one day",
+            "BeginOffset": 71,
+            "EndOffset": 78
+        }
+    ]
+}

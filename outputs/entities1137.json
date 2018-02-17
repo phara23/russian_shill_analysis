@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9416820406913757,
+            "Type": "PERSON",
+            "Text": "Donald Trump Jr.",
+            "BeginOffset": 4,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.9285560846328735,
+            "Type": "OTHER",
+            "Text": "https://t.co/oppdBoF09a",
+            "BeginOffset": 58,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.9998844861984253,
+            "Type": "OTHER",
+            "Text": "https://t.co/YQKUJIfIwM",
+            "BeginOffset": 82,
+            "EndOffset": 105
+        }
+    ]
+}

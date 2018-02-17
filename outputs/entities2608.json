@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.991803765296936,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 13,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.9694250822067261,
+            "Type": "ORGANIZATION",
+            "Text": "Republicans",
+            "BeginOffset": 70,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.9999549388885498,
+            "Type": "OTHER",
+            "Text": "https://t.co/hLDVffXOIo",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

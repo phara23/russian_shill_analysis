@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9298725128173828,
+            "Type": "PERSON",
+            "Text": "@michaelkeyes",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8096823692321777,
+            "Type": "PERSON",
+            "Text": "#Trump",
+            "BeginOffset": 30,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9993705153465271,
+            "Type": "OTHER",
+            "Text": "https://t.co/S9RnApNfbf",
+            "BeginOffset": 57,
+            "EndOffset": 80
+        }
+    ]
+}

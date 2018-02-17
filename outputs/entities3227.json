@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7926065325737,
+            "Type": "PERSON",
+            "Text": "@jthurgood1",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9998919367790222,
+            "Type": "PERSON",
+            "Text": "David Lee",
+            "BeginOffset": 16,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.6423227787017822,
+            "Type": "ORGANIZATION",
+            "Text": "GS",
+            "BeginOffset": 50,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9719879627227783,
+            "Type": "PERSON",
+            "Text": "Kerr",
+            "BeginOffset": 86,
+            "EndOffset": 90
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7155627012252808,
+            "Type": "PERSON",
+            "Text": "@NewCenturyTimes",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.5770764946937561,
+            "Type": "LOCATION",
+            "Text": "China",
+            "BeginOffset": 21,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9950998425483704,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 33,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9527493119239807,
+            "Type": "ORGANIZATION",
+            "Text": "Twitter",
+            "BeginOffset": 83,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9234194159507751,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 128,
+            "EndOffset": 132
+        }
+    ]
+}

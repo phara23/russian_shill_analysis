@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8393502235412598,
+            "Type": "PERSON",
+            "Text": "@Patriotancestry",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.3171910345554352,
+            "Type": "LOCATION",
+            "Text": "Ohio",
+            "BeginOffset": 41,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.985885500907898,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 105,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.999849796295166,
+            "Type": "OTHER",
+            "Text": "https://t.co/cdtruwH0yY",
+            "BeginOffset": 111,
+            "EndOffset": 134
+        }
+    ]
+}

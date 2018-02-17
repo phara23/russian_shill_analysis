@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9071032404899597,
+            "Type": "PERSON",
+            "Text": "@thegoldenharp",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.5357068777084351,
+            "Type": "TITLE",
+            "Text": "#blizzard2016 http",
+            "BeginOffset": 125,
+            "EndOffset": 143
+        }
+    ]
+}

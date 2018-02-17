@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8794518709182739,
+            "Type": "PERSON",
+            "Text": "@stranoroberto1",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9096887707710266,
+            "Type": "PERSON",
+            "Text": "@LegaNordVeneta",
+            "BeginOffset": 20,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.8491114377975464,
+            "Type": "PERSON",
+            "Text": "@01976",
+            "BeginOffset": 36,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9515935182571411,
+            "Type": "PERSON",
+            "Text": "Debora",
+            "BeginOffset": 42,
+            "EndOffset": 48
+        }
+    ]
+}

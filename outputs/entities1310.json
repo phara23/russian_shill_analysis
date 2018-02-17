@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8148723840713501,
+            "Type": "PERSON",
+            "Text": "@gerfingerpoken",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.943767786026001,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 43,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9305445551872253,
+            "Type": "QUANTITY",
+            "Text": "28%",
+            "BeginOffset": 57,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.5664268732070923,
+            "Type": "ORGANIZATION",
+            "Text": "U.N.",
+            "BeginOffset": 78,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.9368847012519836,
+            "Type": "OTHER",
+            "Text": "https://t.co/mV4hL7z1dy",
+            "BeginOffset": 93,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.5240686535835266,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 129,
+            "EndOffset": 138
+        }
+    ]
+}

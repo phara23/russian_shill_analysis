@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7643305659294128,
+            "Type": "PERSON",
+            "Text": "@agitatorpal",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7689294815063477,
+            "Type": "OTHER",
+            "Text": "Palestinian",
+            "BeginOffset": 36,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9999510049819946,
+            "Type": "OTHER",
+            "Text": "https://t.co/aqq4oKx2dm",
+            "BeginOffset": 100,
+            "EndOffset": 123
+        }
+    ]
+}

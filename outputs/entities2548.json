@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9512999057769775,
+            "Type": "PERSON",
+            "Text": "@davidsirota",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9942019581794739,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 17,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9893997311592102,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 118,
+            "EndOffset": 123
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.757813036441803,
+            "Type": "PERSON",
+            "Text": "@TheDailyShow",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9981524348258972,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 39,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.49893152713775635,
+            "Type": "ORGANIZATION",
+            "Text": "@king",
+            "BeginOffset": 78,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.9848998785018921,
+            "Type": "OTHER",
+            "Text": "https://t.co",
+            "BeginOffset": 127,
+            "EndOffset": 139
+        }
+    ]
+}

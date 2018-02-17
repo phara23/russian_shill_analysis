@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.993860125541687,
+            "Type": "PERSON",
+            "Text": "Bernie",
+            "BeginOffset": 31,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9500529170036316,
+            "Type": "ORGANIZATION",
+            "Text": "Democrats",
+            "BeginOffset": 70,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.9998574256896973,
+            "Type": "OTHER",
+            "Text": "https://t.co/EFfIS8ZR3p",
+            "BeginOffset": 116,
+            "EndOffset": 139
+        }
+    ]
+}

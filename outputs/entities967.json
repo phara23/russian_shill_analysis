@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9214079976081848,
+            "Type": "PERSON",
+            "Text": "@melanieusn1979",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8833249807357788,
+            "Type": "PERSON",
+            "Text": "@SooperMexican",
+            "BeginOffset": 20,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9817837476730347,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 35,
+            "EndOffset": 51
+        }
+    ]
+}

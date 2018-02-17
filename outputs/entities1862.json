@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9219465255737305,
+            "Type": "PERSON",
+            "Text": "@peddoc63",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9896343946456909,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 123,
+            "EndOffset": 128
+        }
+    ]
+}

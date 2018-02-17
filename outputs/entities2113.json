@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7835274934768677,
+            "Type": "PERSON",
+            "Text": "@TeriGRight",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.6890673041343689,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 16,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7412530779838562,
+            "Type": "ORGANIZATION",
+            "Text": "@GorsuchFacts",
+            "BeginOffset": 19,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9992175698280334,
+            "Type": "PERSON",
+            "Text": "Neil Gorsuch",
+            "BeginOffset": 40,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.5622241497039795,
+            "Type": "ORGANIZATION",
+            "Text": "#SCOTUS",
+            "BeginOffset": 75,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.8538815975189209,
+            "Type": "OTHER",
+            "Text": "https://t.co/aRFYnRwplK",
+            "BeginOffset": 83,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.9591485857963562,
+            "Type": "OTHER",
+            "Text": "https://t.co/lA62YICuNb",
+            "BeginOffset": 107,
+            "EndOffset": 130
+        },
+        {
+            "Score": 0.4828236997127533,
+            "Type": "ORGANIZATION",
+            "Text": "#Confirm",
+            "BeginOffset": 131,
+            "EndOffset": 139
+        }
+    ]
+}

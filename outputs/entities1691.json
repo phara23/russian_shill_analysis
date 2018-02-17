@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7458306550979614,
+            "Type": "LOCATION",
+            "Text": "South African",
+            "BeginOffset": 0,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.7362005114555359,
+            "Type": "ORGANIZATION",
+            "Text": "ANC",
+            "BeginOffset": 16,
+            "EndOffset": 19
+        }
+    ]
+}

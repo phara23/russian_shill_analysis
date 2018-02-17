@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8080421686172485,
+            "Type": "PERSON",
+            "Text": "@HorseShort",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8998425006866455,
+            "Type": "PERSON",
+            "Text": "@frenchfortrump",
+            "BeginOffset": 16,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.8694887161254883,
+            "Type": "ORGANIZATION",
+            "Text": "@MLP_officiel",
+            "BeginOffset": 32,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.7215070128440857,
+            "Type": "PERSON",
+            "Text": "@Marine2017",
+            "BeginOffset": 46,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9969203472137451,
+            "Type": "PERSON",
+            "Text": "George Soros",
+            "BeginOffset": 86,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.6220560669898987,
+            "Type": "PERSON",
+            "Text": "Soros",
+            "BeginOffset": 116,
+            "EndOffset": 121
+        }
+    ]
+}

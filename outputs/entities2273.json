@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8183704018592834,
+            "Type": "PERSON",
+            "Text": "@MountMary",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.7857035398483276,
+            "Type": "PERSON",
+            "Text": "@theminiclassy",
+            "BeginOffset": 98,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.9962032437324524,
+            "Type": "PERSON",
+            "Text": "Andrea",
+            "BeginOffset": 114,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.9991320967674255,
+            "Type": "PERSON",
+            "Text": "Michelle",
+            "BeginOffset": 125,
+            "EndOffset": 133
+        }
+    ]
+}

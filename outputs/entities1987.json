@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6953034400939941,
+            "Type": "PERSON",
+            "Text": "@InGodIDoTrust",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9914036393165588,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 64,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9999891519546509,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 96,
+            "EndOffset": 101
+        }
+    ]
+}

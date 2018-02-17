@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9009073972702026,
+            "Type": "PERSON",
+            "Text": "@nine_oh",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8590096235275269,
+            "Type": "PERSON",
+            "Text": "@LastChanceCity",
+            "BeginOffset": 35,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.7898193001747131,
+            "Type": "QUANTITY",
+            "Text": "9.0 Magazine",
+            "BeginOffset": 57,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9485893249511719,
+            "Type": "OTHER",
+            "Text": "https://t.co/H1XdrxpInn",
+            "BeginOffset": 83,
+            "EndOffset": 106
+        }
+    ]
+}

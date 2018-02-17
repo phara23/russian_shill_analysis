@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.773179292678833,
+            "Type": "PERSON",
+            "Text": "@TheRealYoG",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9799503087997437,
+            "Type": "ORGANIZATION",
+            "Text": "CIA",
+            "BeginOffset": 23,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.8647193908691406,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 54,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9451876282691956,
+            "Type": "OTHER",
+            "Text": "https://t.co/PiD4kTYtIE",
+            "BeginOffset": 109,
+            "EndOffset": 132
+        },
+        {
+            "Score": 0.9559449553489685,
+            "Type": "ORGANIZATION",
+            "Text": "FBI",
+            "BeginOffset": 133,
+            "EndOffset": 136
+        }
+    ]
+}

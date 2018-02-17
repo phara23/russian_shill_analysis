@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9148618578910828,
+            "Type": "PERSON",
+            "Text": "@Amyloukingery",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8258103728294373,
+            "Type": "QUANTITY",
+            "Text": "4000 US Troops",
+            "BeginOffset": 19,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.8219542503356934,
+            "Type": "LOCATION",
+            "Text": "Russia",
+            "BeginOffset": 52,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9998045563697815,
+            "Type": "OTHER",
+            "Text": "https://t.co/NRfkklFf7I",
+            "BeginOffset": 75,
+            "EndOffset": 98
+        }
+    ]
+}

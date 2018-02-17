@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6452952027320862,
+            "Type": "PERSON",
+            "Text": "@HazeyBabyPromo",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.743915855884552,
+            "Type": "PERSON",
+            "Text": "@TheHypeMagazine",
+            "BeginOffset": 21,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.909041166305542,
+            "Type": "PERSON",
+            "Text": "@miltickit",
+            "BeginOffset": 38,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9824338555335999,
+            "Type": "OTHER",
+            "Text": "https://t.co/VImGiSP4uz",
+            "BeginOffset": 79,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.4386925995349884,
+            "Type": "ORGANIZATION",
+            "Text": "#HotSingle",
+            "BeginOffset": 103,
+            "EndOffset": 113
+        }
+    ]
+}

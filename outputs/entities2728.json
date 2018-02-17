@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8594741821289062,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9981693029403687,
+            "Type": "PERSON",
+            "Text": "Tim Kaine",
+            "BeginOffset": 15,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9931833148002625,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 31,
+            "EndOffset": 36
+        }
+    ]
+}

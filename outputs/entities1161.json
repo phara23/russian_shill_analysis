@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8628329634666443,
+            "Type": "PERSON",
+            "Text": "@AfricanaCarr",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8883860111236572,
+            "Type": "QUANTITY",
+            "Text": "3rd",
+            "BeginOffset": 18,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.7948781847953796,
+            "Type": "LOCATION",
+            "Text": "Washington DC",
+            "BeginOffset": 39,
+            "EndOffset": 52
+        }
+    ]
+}

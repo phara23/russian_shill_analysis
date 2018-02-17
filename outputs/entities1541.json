@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9150556921958923,
+            "Type": "PERSON",
+            "Text": "@Cernovich",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.993918776512146,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 34,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9999734163284302,
+            "Type": "OTHER",
+            "Text": "https://t.co/wxJJlYv0MX",
+            "BeginOffset": 111,
+            "EndOffset": 134
+        }
+    ]
+}

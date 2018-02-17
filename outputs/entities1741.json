@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8348806500434875,
+            "Type": "PERSON",
+            "Text": "@PWilliamsD",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9091024994850159,
+            "Type": "ORGANIZATION",
+            "Text": "Muslim",
+            "BeginOffset": 16,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.47714224457740784,
+            "Type": "ORGANIZATION",
+            "Text": "Islamic",
+            "BeginOffset": 82,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.9988852739334106,
+            "Type": "PERSON",
+            "Text": "Pamela Geller",
+            "BeginOffset": 100,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.9787058234214783,
+            "Type": "OTHER",
+            "Text": "https://t.co/kqPkjQVM",
+            "BeginOffset": 118,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8713024258613586,
+            "Type": "PERSON",
+            "Text": "@OneMoodyHuman",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7706073522567749,
+            "Type": "QUANTITY",
+            "Text": "200 other drivers",
+            "BeginOffset": 87,
+            "EndOffset": 104
+        }
+    ]
+}

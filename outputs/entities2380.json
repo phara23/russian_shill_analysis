@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8853620290756226,
+            "Type": "PERSON",
+            "Text": "@MsAvaArmstrong",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9413897395133972,
+            "Type": "ORGANIZATION",
+            "Text": "Amazon",
+            "BeginOffset": 116,
+            "EndOffset": 122
+        },
+        {
+            "Score": 0.9954280853271484,
+            "Type": "OTHER",
+            "Text": "https://t.co/VS",
+            "BeginOffset": 124,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.48446929454803467,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.7898173332214355,
+            "Type": "ORGANIZATION",
+            "Text": "@Netties_Kid",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.6318530440330505,
+            "Type": "PERSON",
+            "Text": "God",
+            "BeginOffset": 42,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.6275978088378906,
+            "Type": "QUANTITY",
+            "Text": "2 Thessalonians",
+            "BeginOffset": 93,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.9758219122886658,
+            "Type": "QUANTITY",
+            "Text": "1:3",
+            "BeginOffset": 109,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.9997953772544861,
+            "Type": "OTHER",
+            "Text": "https://t.co/LS8PcfHC6Z",
+            "BeginOffset": 114,
+            "EndOffset": 137
+        }
+    ]
+}

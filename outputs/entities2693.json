@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9392564296722412,
+            "Type": "PERSON",
+            "Text": "@mikandynothem",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9973589777946472,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 48,
+            "EndOffset": 53
+        }
+    ]
+}

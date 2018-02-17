@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8163358569145203,
+            "Type": "PERSON",
+            "Text": "@abusedtaxpayer",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9963184595108032,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 47,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.817915678024292,
+            "Type": "PERSON",
+            "Text": "Rinos",
+            "BeginOffset": 61,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9781126379966736,
+            "Type": "PERSON",
+            "Text": "McCain",
+            "BeginOffset": 78,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9947066903114319,
+            "Type": "PERSON",
+            "Text": "McConnell",
+            "BeginOffset": 85,
+            "EndOffset": 94
+        }
+    ]
+}

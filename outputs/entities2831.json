@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9871020317077637,
+            "Type": "PERSON",
+            "Text": "@steve0423",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8963224291801453,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 21,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.6734640002250671,
+            "Type": "OTHER",
+            "Text": "Americans",
+            "BeginOffset": 37,
+            "EndOffset": 46
+        }
+    ]
+}

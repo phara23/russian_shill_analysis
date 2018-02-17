@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7301595211029053,
+            "Type": "PERSON",
+            "Text": "@Fiercely_:",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8654571175575256,
+            "Type": "PERSON",
+            "Text": "@TeamMarcoSC 5 yrs",
+            "BeginOffset": 15,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.7506510019302368,
+            "Type": "PERSON",
+            "Text": "@marcorubio",
+            "BeginOffset": 63,
+            "EndOffset": 74
+        }
+    ]
+}

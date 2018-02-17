@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9108415246009827,
+            "Type": "PERSON",
+            "Text": "@dansch2002",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.6445877552032471,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 16,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9382166862487793,
+            "Type": "PERSON",
+            "Text": "@bcwilliams92",
+            "BeginOffset": 19,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.7073365449905396,
+            "Type": "QUANTITY",
+            "Text": "One Of Our Veterans",
+            "BeginOffset": 81,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.8553177714347839,
+            "Type": "PERSON",
+            "Text": "@tedcruz",
+            "BeginOffset": 103,
+            "EndOffset": 111
+        },
+        {
+            "Score": 0.8483919501304626,
+            "Type": "OTHER",
+            "Text": "https://t.co/i9I7T3TcRv",
+            "BeginOffset": 112,
+            "EndOffset": 135
+        }
+    ]
+}

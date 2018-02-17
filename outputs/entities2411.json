@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5152378678321838,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.9048712253570557,
+            "Type": "ORGANIZATION",
+            "Text": "@US_Army",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9722782969474792,
+            "Type": "ORGANIZATION",
+            "Text": "FOX",
+            "BeginOffset": 17,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.4688580334186554,
+            "Type": "PERSON",
+            "Text": "Perrino",
+            "BeginOffset": 46,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9386982321739197,
+            "Type": "OTHER",
+            "Text": "https://t.co/fzrROLFMv6",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        },
+        {
+            "Score": 0.8025161027908325,
+            "Type": "PERSON",
+            "Text": "@American1765",
+            "BeginOffset": 120,
+            "EndOffset": 133
+        }
+    ]
+}

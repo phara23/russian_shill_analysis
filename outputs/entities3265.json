@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7099753022193909,
+            "Type": "QUANTITY",
+            "Text": "5'",
+            "BeginOffset": 1,
+            "EndOffset": 3
+        },
+        {
+            "Score": 0.46425023674964905,
+            "Type": "QUANTITY",
+            "Text": "9",
+            "BeginOffset": 3,
+            "EndOffset": 4
+        },
+        {
+            "Score": 0.991234302520752,
+            "Type": "PERSON",
+            "Text": "Nate Robinson",
+            "BeginOffset": 5,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9938477277755737,
+            "Type": "PERSON",
+            "Text": "Dwight Howard",
+            "BeginOffset": 30,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9993281364440918,
+            "Type": "OTHER",
+            "Text": "https://t.co/kwveSsv30a",
+            "BeginOffset": 61,
+            "EndOffset": 84
+        }
+    ]
+}

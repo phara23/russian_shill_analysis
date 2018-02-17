@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8247986435890198,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8308408260345459,
+            "Type": "PERSON",
+            "Text": "@RealTimBlack",
+            "BeginOffset": 14,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.6900959610939026,
+            "Type": "LOCATION",
+            "Text": "Chicago",
+            "BeginOffset": 29,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.5701955556869507,
+            "Type": "ORGANIZATION",
+            "Text": "RealTimBlack 2",
+            "BeginOffset": 63,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.999729573726654,
+            "Type": "OTHER",
+            "Text": "https://t.co/WcwOGiVbWH",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        }
+    ]
+}

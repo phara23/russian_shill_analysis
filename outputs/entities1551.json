@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9957684278488159,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 0,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.9978228807449341,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 9,
+            "EndOffset": 14
+        }
+    ]
+}

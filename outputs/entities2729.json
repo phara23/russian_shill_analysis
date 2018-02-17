@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6688234210014343,
+            "Type": "ORGANIZATION",
+            "Text": "@WGAL",
+            "BeginOffset": 3,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.7727051377296448,
+            "Type": "OTHER",
+            "Text": "http://t.co/6ezs1UBg5j",
+            "BeginOffset": 66,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.999982476234436,
+            "Type": "OTHER",
+            "Text": "http://t.co/d7DoG93HSR",
+            "BeginOffset": 89,
+            "EndOffset": 111
+        }
+    ]
+}

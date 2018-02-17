@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7677868604660034,
+            "Type": "ORGANIZATION",
+            "Text": "@ABCWorldNews",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.88511723279953,
+            "Type": "QUANTITY",
+            "Text": "5 hot-button topics",
+            "BeginOffset": 18,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.780655026435852,
+            "Type": "OTHER",
+            "Text": "https://t.co/9YQF1ZsW1Y",
+            "BeginOffset": 73,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.9999243021011353,
+            "Type": "OTHER",
+            "Text": "https://t.co/ITxr202Vjr",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        }
+    ]
+}

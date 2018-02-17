@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.728644073009491,
+            "Type": "PERSON",
+            "Text": "@POWER104",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.7683011293411255,
+            "Type": "PERSON",
+            "Text": "Dave East",
+            "BeginOffset": 28,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9398559927940369,
+            "Type": "PERSON",
+            "Text": "Ft G Herbo",
+            "BeginOffset": 48,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9641521573066711,
+            "Type": "PERSON",
+            "Text": "Don Q",
+            "BeginOffset": 59,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9644550681114197,
+            "Type": "OTHER",
+            "Text": "#power1044fm.com",
+            "BeginOffset": 69,
+            "EndOffset": 85
+        }
+    ]
+}

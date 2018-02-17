@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8068498373031616,
+            "Type": "PERSON",
+            "Text": "@CO2HOG",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9191644191741943,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 52,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9566651582717896,
+            "Type": "QUANTITY",
+            "Text": "11 Minutes",
+            "BeginOffset": 80,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9521209001541138,
+            "Type": "OTHER",
+            "Text": "https://t.co/n13eMmBgQR",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        }
+    ]
+}

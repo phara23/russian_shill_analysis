@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9323408007621765,
+            "Type": "PERSON",
+            "Text": "@mzee26",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.992668092250824,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 31,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9977301955223083,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 50,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9796516299247742,
+            "Type": "OTHER",
+            "Text": "https://t.co/nadQ",
+            "BeginOffset": 122,
+            "EndOffset": 139
+        }
+    ]
+}

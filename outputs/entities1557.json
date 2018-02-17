@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9446198344230652,
+            "Type": "PERSON",
+            "Text": "@nook71715",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8689025640487671,
+            "Type": "QUANTITY",
+            "Text": "three black men",
+            "BeginOffset": 53,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.6767449378967285,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 122,
+            "EndOffset": 130
+        },
+        {
+            "Score": 0.968567430973053,
+            "Type": "PERSON",
+            "Text": "@truebla",
+            "BeginOffset": 131,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8832360506057739,
+            "Type": "PERSON",
+            "Text": "@gdebenedetti",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9844836592674255,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 50,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9747552275657654,
+            "Type": "DATE",
+            "Text": "this afternoon",
+            "BeginOffset": 69,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.5673109889030457,
+            "Type": "LOCATION",
+            "Text": "NC",
+            "BeginOffset": 92,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.9075607657432556,
+            "Type": "OTHER",
+            "Text": "African American",
+            "BeginOffset": 96,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.961150586605072,
+            "Type": "QUANTITY",
+            "Text": "6%",
+            "BeginOffset": 122,
+            "EndOffset": 124
+        },
+        {
+            "Score": 0.4998663365840912,
+            "Type": "QUANTITY",
+            "Text": "12",
+            "BeginOffset": 131,
+            "EndOffset": 133
+        }
+    ]
+}

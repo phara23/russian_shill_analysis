@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8589458465576172,
+            "Type": "PERSON",
+            "Text": "@MightyBusterBro",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8350822925567627,
+            "Type": "PERSON",
+            "Text": "HILLARY",
+            "BeginOffset": 51,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.8415172696113586,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 115,
+            "EndOffset": 130
+        }
+    ]
+}

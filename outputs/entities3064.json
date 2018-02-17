@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.48552584648132324,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8341781497001648,
+            "Type": "PERSON",
+            "Text": "@Rocco_FNC",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9986668825149536,
+            "Type": "ORGANIZATION",
+            "Text": "Facebook",
+            "BeginOffset": 15,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9998158812522888,
+            "Type": "PERSON",
+            "Text": "Dustin Moskovitz",
+            "BeginOffset": 35,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9898592829704285,
+            "Type": "QUANTITY",
+            "Text": "0 million",
+            "BeginOffset": 61,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9960048198699951,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 81,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.9536242485046387,
+            "Type": "OTHER",
+            "Text": "https://t.co/XbcQJTFWF6",
+            "BeginOffset": 94,
+            "EndOffset": 117
+        },
+        {
+            "Score": 0.9146841168403625,
+            "Type": "ORGANIZATION",
+            "Text": "@economictimes",
+            "BeginOffset": 122,
+            "EndOffset": 136
+        }
+    ]
+}

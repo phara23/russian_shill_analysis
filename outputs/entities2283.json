@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8247895836830139,
+            "Type": "PERSON",
+            "Text": "@TeamBarb1",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9616564512252808,
+            "Type": "QUANTITY",
+            "Text": "seven days",
+            "BeginOffset": 48,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9997240900993347,
+            "Type": "OTHER",
+            "Text": "https://t.co/Z1WME2UQ6l",
+            "BeginOffset": 71,
+            "EndOffset": 94
+        }
+    ]
+}

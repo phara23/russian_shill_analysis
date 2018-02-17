@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8003771305084229,
+            "Type": "PERSON",
+            "Text": "@GoldenGateNews",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9909602403640747,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 20,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9632220268249512,
+            "Type": "PERSON",
+            "Text": "Walker",
+            "BeginOffset": 32,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.35532504320144653,
+            "Type": "LOCATION",
+            "Text": "Iowa",
+            "BeginOffset": 73,
+            "EndOffset": 77
+        }
+    ]
+}

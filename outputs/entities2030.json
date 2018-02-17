@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6661173701286316,
+            "Type": "PERSON",
+            "Text": "@TheRoot",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.6642382144927979,
+            "Type": "ORGANIZATION",
+            "Text": "U.S. military",
+            "BeginOffset": 32,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9556854367256165,
+            "Type": "LOCATION",
+            "Text": "Afghanistan",
+            "BeginOffset": 91,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.9313685297966003,
+            "Type": "OTHER",
+            "Text": "https://t.co/k39UQF1XT4",
+            "BeginOffset": 104,
+            "EndOffset": 127
+        },
+        {
+            "Score": 0.9735811352729797,
+            "Type": "OTHER",
+            "Text": "https://t.c",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

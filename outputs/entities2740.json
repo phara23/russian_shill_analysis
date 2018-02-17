@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.855681300163269,
+            "Type": "PERSON",
+            "Text": "@weirdsavant",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9900007247924805,
+            "Type": "DATE",
+            "Text": "2017",
+            "BeginOffset": 20,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9999107122421265,
+            "Type": "OTHER",
+            "Text": "https://t.co/uQZCvpBVf9",
+            "BeginOffset": 52,
+            "EndOffset": 75
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8171059489250183,
+            "Type": "PERSON",
+            "Text": "@veteranstoday",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.31819015741348267,
+            "Type": "OTHER",
+            "Text": "German",
+            "BeginOffset": 19,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.7589621543884277,
+            "Type": "LOCATION",
+            "Text": "Syria",
+            "BeginOffset": 87,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.9405366778373718,
+            "Type": "OTHER",
+            "Text": "https://t.co/eA6iJocz1q",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        },
+        {
+            "Score": 0.967010498046875,
+            "Type": "OTHER",
+            "Text": "https://t.co",
+            "BeginOffset": 127,
+            "EndOffset": 139
+        }
+    ]
+}

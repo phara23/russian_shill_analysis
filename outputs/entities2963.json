@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8415443301200867,
+            "Type": "PERSON",
+            "Text": "@ATLBlackStar",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9458680748939514,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 18,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.7953618168830872,
+            "Type": "QUANTITY",
+            "Text": "111 Federal Inmates",
+            "BeginOffset": 51,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.8856740593910217,
+            "Type": "QUANTITY",
+            "Text": "9 Presidents",
+            "BeginOffset": 91,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.9998531341552734,
+            "Type": "OTHER",
+            "Text": "https://t.co/ZjauTkQvx8",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        }
+    ]
+}

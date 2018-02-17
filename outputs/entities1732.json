@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7492592334747314,
+            "Type": "PERSON",
+            "Text": "@AllenWestRepub",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9963998794555664,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 42,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.7590813636779785,
+            "Type": "LOCATION",
+            "Text": "Michigan",
+            "BeginOffset": 52,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.990854024887085,
+            "Type": "QUANTITY",
+            "Text": "10,704",
+            "BeginOffset": 64,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9955005049705505,
+            "Type": "OTHER",
+            "Text": "https://t.co/8AR267sg4X",
+            "BeginOffset": 71,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.9692418575286865,
+            "Type": "ORGANIZATION",
+            "Text": "@RedRightRepub",
+            "BeginOffset": 99,
+            "EndOffset": 113
+        }
+    ]
+}

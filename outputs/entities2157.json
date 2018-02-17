@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6883935332298279,
+            "Type": "ORGANIZATION",
+            "Text": "@RWPUSA",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9063351154327393,
+            "Type": "LOCATION",
+            "Text": "GA",
+            "BeginOffset": 28,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9025275111198425,
+            "Type": "OTHER",
+            "Text": "https://t.co/d",
+            "BeginOffset": 125,
+            "EndOffset": 139
+        }
+    ]
+}

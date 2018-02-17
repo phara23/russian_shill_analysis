@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7805189490318298,
+            "Type": "PERSON",
+            "Text": "@cjtweetstation",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9974028468132019,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 20,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9046903252601624,
+            "Type": "LOCATION",
+            "Text": "NY",
+            "BeginOffset": 46,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9838266968727112,
+            "Type": "OTHER",
+            "Text": "https://t.co/zZViKVsA8P",
+            "BeginOffset": 70,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.6540418863296509,
+            "Type": "ORGANIZATION",
+            "Text": "#PolicticalNews",
+            "BeginOffset": 94,
+            "EndOffset": 109
+        }
+    ]
+}

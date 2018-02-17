@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5166181325912476,
+            "Type": "PERSON",
+            "Text": "@2",
+            "BeginOffset": 3,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.991910994052887,
+            "Type": "PERSON",
+            "Text": "Jefferson",
+            "BeginOffset": 13,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.6324574947357178,
+            "Type": "QUANTITY",
+            "Text": "#2",
+            "BeginOffset": 62,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.3438284695148468,
+            "Type": "ORGANIZATION",
+            "Text": "#NRA",
+            "BeginOffset": 66,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9998713731765747,
+            "Type": "OTHER",
+            "Text": "https://t.co/E2ilaNjB1S",
+            "BeginOffset": 106,
+            "EndOffset": 129
+        }
+    ]
+}

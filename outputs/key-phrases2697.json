@@ -1,0 +1,34 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9564058184623718,
+            "Text": "7",
+            "BeginOffset": 5,
+            "EndOffset": 6
+        },
+        {
+            "Score": 0.9720675349235535,
+            "Text": "the morning",
+            "BeginOffset": 10,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.8513835668563843,
+            "Text": "the first thing",
+            "BeginOffset": 28,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9170829653739929,
+            "Text": "another black man shot",
+            "BeginOffset": 61,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.9988664388656616,
+            "Text": "police",
+            "BeginOffset": 98,
+            "EndOffset": 104
+        }
+    ]
+}

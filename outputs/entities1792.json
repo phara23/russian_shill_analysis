@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8507400155067444,
+            "Type": "PERSON",
+            "Text": "@mboyle1",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8095638751983643,
+            "Type": "PERSON",
+            "Text": "@BreitbartXM",
+            "BeginOffset": 16,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9303312301635742,
+            "Type": "DATE",
+            "Text": "tonight",
+            "BeginOffset": 29,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9077968001365662,
+            "Type": "PERSON",
+            "Text": "@RealBenCarson",
+            "BeginOffset": 44,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9641775488853455,
+            "Type": "PERSON",
+            "Text": "@MarshaBlackburn",
+            "BeginOffset": 59,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.9636316299438477,
+            "Type": "PERSON",
+            "Text": "@DaveBratVA7th",
+            "BeginOffset": 76,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.8844658136367798,
+            "Type": "PERSON",
+            "Text": "@AnnCoulter",
+            "BeginOffset": 91,
+            "EndOffset": 102
+        }
+    ]
+}

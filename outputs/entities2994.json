@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8161540031433105,
+            "Type": "PERSON",
+            "Text": "@LoyolaWBB",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.923379123210907,
+            "Type": "QUANTITY",
+            "Text": "1Q",
+            "BeginOffset": 15,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8707225918769836,
+            "Type": "QUANTITY",
+            "Text": "No. 5",
+            "BeginOffset": 19,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.38221001625061035,
+            "Type": "LOCATION",
+            "Text": "Maryland",
+            "BeginOffset": 25,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.5673389434814453,
+            "Type": "QUANTITY",
+            "Text": "22",
+            "BeginOffset": 34,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.541627824306488,
+            "Type": "ORGANIZATION",
+            "Text": "@LoyolaHounds",
+            "BeginOffset": 38,
+            "EndOffset": 51
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8436360359191895,
+            "Type": "PERSON",
+            "Text": "@ConcealNCarryNt",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9889783263206482,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 21,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9988788962364197,
+            "Type": "DATE",
+            "Text": "1995",
+            "BeginOffset": 30,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9807074666023254,
+            "Type": "OTHER",
+            "Text": "https://t.co/HimyRn9WQ8",
+            "BeginOffset": 70,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.7194998264312744,
+            "Type": "ORGANIZATION",
+            "Text": "#CNCNet",
+            "BeginOffset": 94,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.6662567257881165,
+            "Type": "QUANTITY",
+            "Text": "#2",
+            "BeginOffset": 132,
+            "EndOffset": 134
+        }
+    ]
+}

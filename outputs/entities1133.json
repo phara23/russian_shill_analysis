@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9598150253295898,
+            "Type": "PERSON",
+            "Text": "@steph_bello",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9624922275543213,
+            "Type": "PERSON",
+            "Text": "@VanJones68",
+            "BeginOffset": 17,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9621231555938721,
+            "Type": "PERSON",
+            "Text": "@ananavarro",
+            "BeginOffset": 29,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9882940053939819,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 41,
+            "EndOffset": 46
+        }
+    ]
+}

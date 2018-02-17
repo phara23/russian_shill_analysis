@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.48643943667411804,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8788647055625916,
+            "Type": "PERSON",
+            "Text": "@Drudge_Siren",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.6987625956535339,
+            "Type": "LOCATION",
+            "Text": "Europe",
+            "BeginOffset": 30,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9231846928596497,
+            "Type": "ORGANIZATION",
+            "Text": "Muslim",
+            "BeginOffset": 50,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9999231100082397,
+            "Type": "OTHER",
+            "Text": "https://t.co/uAh8bvP6xy",
+            "BeginOffset": 60,
+            "EndOffset": 83
+        }
+    ]
+}

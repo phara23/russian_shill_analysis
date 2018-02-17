@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9707624912261963,
+            "Type": "PERSON",
+            "Text": "@Phil_Mattingly",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9871585965156555,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 20,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9996339678764343,
+            "Type": "PERSON",
+            "Text": "James Woolsey",
+            "BeginOffset": 45,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9982169270515442,
+            "Type": "ORGANIZATION",
+            "Text": "CIA",
+            "BeginOffset": 67,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9621067643165588,
+            "Type": "PERSON",
+            "Text": "Woolsey",
+            "BeginOffset": 119,
+            "EndOffset": 126
+        },
+        {
+            "Score": 0.9421502351760864,
+            "Type": "ORGANIZATION",
+            "Text": "CNN",
+            "BeginOffset": 133,
+            "EndOffset": 136
+        }
+    ]
+}

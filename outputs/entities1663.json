@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8894071578979492,
+            "Type": "LOCATION",
+            "Text": "California",
+            "BeginOffset": 0,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9506158828735352,
+            "Type": "OTHER",
+            "Text": "https://t.co/3bYPVxkEX7",
+            "BeginOffset": 64,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.999927282333374,
+            "Type": "OTHER",
+            "Text": "https://t.co/cExIxwa4on",
+            "BeginOffset": 88,
+            "EndOffset": 111
+        }
+    ]
+}

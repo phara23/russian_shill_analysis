@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7717088460922241,
+            "Type": "PERSON",
+            "Text": "@ggeett37",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8301728963851929,
+            "Type": "PERSON",
+            "Text": "@knowladgeispwr",
+            "BeginOffset": 20,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.6678251028060913,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 37,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.4902287423610687,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 134,
+            "EndOffset": 143
+        }
+    ]
+}

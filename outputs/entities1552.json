@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5342186093330383,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8190200328826904,
+            "Type": "PERSON",
+            "Text": "@Italians4Trump",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.5953975319862366,
+            "Type": "LOCATION",
+            "Text": "Haiti",
+            "BeginOffset": 57,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.5403310656547546,
+            "Type": "OTHER",
+            "Text": "Haitian",
+            "BeginOffset": 67,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.45938268303871155,
+            "Type": "ORGANIZATION",
+            "Text": "Senate",
+            "BeginOffset": 75,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.9995115995407104,
+            "Type": "PERSON",
+            "Text": "Bill Clinton",
+            "BeginOffset": 97,
+            "EndOffset": 109
+        }
+    ]
+}

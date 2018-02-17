@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9804350137710571,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 75,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.41154855489730835,
+            "Type": "QUANTITY",
+            "Text": "16",
+            "BeginOffset": 91,
+            "EndOffset": 93
+        }
+    ]
+}

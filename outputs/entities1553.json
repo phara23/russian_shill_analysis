@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8276882171630859,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.577713131904602,
+            "Type": "OTHER",
+            "Text": "Senegalese",
+            "BeginOffset": 23,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9817346930503845,
+            "Type": "OTHER",
+            "Text": "https://t.co/GNPCHC2hwv",
+            "BeginOffset": 84,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.785043478012085,
+            "Type": "PERSON",
+            "Text": "@CCTVNewsAfrica",
+            "BeginOffset": 108,
+            "EndOffset": 123
+        },
+        {
+            "Score": 0.9615191221237183,
+            "Type": "OTHER",
+            "Text": "https://t.co/P8",
+            "BeginOffset": 124,
+            "EndOffset": 139
+        }
+    ]
+}

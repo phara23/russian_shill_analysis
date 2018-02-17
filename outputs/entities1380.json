@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8264399170875549,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8487244248390198,
+            "Type": "PERSON",
+            "Text": "@TariqNasheed",
+            "BeginOffset": 14,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9979982376098633,
+            "Type": "PERSON",
+            "Text": "Tariq Nasheed",
+            "BeginOffset": 29,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9999755620956421,
+            "Type": "OTHER",
+            "Text": "https://t.co/3VzPugLVSt",
+            "BeginOffset": 99,
+            "EndOffset": 122
+        }
+    ]
+}

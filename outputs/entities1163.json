@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8276793360710144,
+            "Type": "PERSON",
+            "Text": "@HealthRanger",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9849476218223572,
+            "Type": "ORGANIZATION",
+            "Text": "EPA",
+            "BeginOffset": 18,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9131617546081543,
+            "Type": "OTHER",
+            "Text": "https://t.co/QSC5uNrieJ",
+            "BeginOffset": 93,
+            "EndOffset": 116
+        }
+    ]
+}

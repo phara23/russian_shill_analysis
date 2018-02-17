@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8039843440055847,
+            "Type": "PERSON",
+            "Text": "@ync1994",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9849865436553955,
+            "Type": "PERSON",
+            "Text": "Paul Ryan",
+            "BeginOffset": 13,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.8538383841514587,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 31,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9388242959976196,
+            "Type": "QUANTITY",
+            "Text": "1 Trillion",
+            "BeginOffset": 41,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.8671186566352844,
+            "Type": "QUANTITY",
+            "Text": "2,000-Plus",
+            "BeginOffset": 53,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.8933435678482056,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 119,
+            "EndOffset": 126
+        },
+        {
+            "Score": 0.6120359301567078,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 128,
+            "EndOffset": 137
+        }
+    ]
+}

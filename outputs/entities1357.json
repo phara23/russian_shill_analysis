@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.685811460018158,
+            "Type": "ORGANIZATION",
+            "Text": "@ActivistPost",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9026186466217041,
+            "Type": "QUANTITY",
+            "Text": "4 Lies",
+            "BeginOffset": 34,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9994483590126038,
+            "Type": "OTHER",
+            "Text": "https://t.co/Sefbu1EMOP",
+            "BeginOffset": 74,
+            "EndOffset": 97
+        }
+    ]
+}

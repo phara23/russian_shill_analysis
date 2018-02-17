@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9163566827774048,
+            "Type": "PERSON",
+            "Text": "@themattiejames",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9550687074661255,
+            "Type": "OTHER",
+            "Text": "https://t.co/HpuVS2mIeE",
+            "BeginOffset": 75,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.9999021291732788,
+            "Type": "OTHER",
+            "Text": "https://t.co/5IRwokusft",
+            "BeginOffset": 99,
+            "EndOffset": 122
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8824587464332581,
+            "Type": "PERSON",
+            "Text": "@therealezway",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.999826192855835,
+            "Type": "PERSON",
+            "Text": "Chris Wallace",
+            "BeginOffset": 18,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.997912585735321,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 90,
+            "EndOffset": 95
+        }
+    ]
+}

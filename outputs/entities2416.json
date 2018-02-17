@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9216512441635132,
+            "Type": "PERSON",
+            "Text": "@VanBradeen",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9999830722808838,
+            "Type": "OTHER",
+            "Text": "https://t.co/5yHH026bnL",
+            "BeginOffset": 16,
+            "EndOffset": 39
+        }
+    ]
+}

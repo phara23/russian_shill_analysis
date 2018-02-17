@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9934262037277222,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 13,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9964288473129272,
+            "Type": "PERSON",
+            "Text": "Paul Ryan",
+            "BeginOffset": 29,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9005712866783142,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 41,
+            "EndOffset": 44
+        }
+    ]
+}

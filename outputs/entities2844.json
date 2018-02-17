@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7017801403999329,
+            "Type": "PERSON",
+            "Text": "@BlastingNews",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9700547456741333,
+            "Type": "TITLE",
+            "Text": "The Walking Dead",
+            "BeginOffset": 19,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.903225839138031,
+            "Type": "QUANTITY",
+            "Text": "season 7",
+            "BeginOffset": 37,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.442545622587204,
+            "Type": "TITLE",
+            "Text": "TWD",
+            "BeginOffset": 62,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.5173879265785217,
+            "Type": "PERSON",
+            "Text": "Oceanside",
+            "BeginOffset": 76,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.9541324973106384,
+            "Type": "OTHER",
+            "Text": "https://t.co/tHoGKhyUBG",
+            "BeginOffset": 93,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.9999939203262329,
+            "Type": "OTHER",
+            "Text": "https://t.co/MGH9kG3Mwc",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

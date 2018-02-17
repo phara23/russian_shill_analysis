@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7915266752243042,
+            "Type": "PERSON",
+            "Text": "@archpics",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9967654347419739,
+            "Type": "PERSON",
+            "Text": "Tom Fruin",
+            "BeginOffset": 28,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.957720160484314,
+            "Type": "PERSON",
+            "Text": "@Misshattan",
+            "BeginOffset": 71,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.9346052408218384,
+            "Type": "LOCATION",
+            "Text": "NYC",
+            "BeginOffset": 86,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.9999822378158569,
+            "Type": "OTHER",
+            "Text": "https://t.co/qhcHp35sBp",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        }
+    ]
+}

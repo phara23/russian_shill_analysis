@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9952691197395325,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 16,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.893059253692627,
+            "Type": "ORGANIZATION",
+            "Text": "Muslim",
+            "BeginOffset": 36,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.368533194065094,
+            "Type": "PERSON",
+            "Text": "#HillarysHuma",
+            "BeginOffset": 83,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.9998863935470581,
+            "Type": "OTHER",
+            "Text": "https://t.co/vnQoKHnP2j",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        }
+    ]
+}

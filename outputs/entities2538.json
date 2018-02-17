@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9686068296432495,
+            "Type": "PERSON",
+            "Text": "@Johnsense38",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.57728511095047,
+            "Type": "ORGANIZATION",
+            "Text": "San Diego",
+            "BeginOffset": 32,
+            "EndOffset": 41
+        }
+    ]
+}

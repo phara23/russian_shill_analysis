@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8460264801979065,
+            "Type": "PERSON",
+            "Text": "@bluelighttv",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9973735809326172,
+            "Type": "PERSON",
+            "Text": "Sanders",
+            "BeginOffset": 30,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9999338388442993,
+            "Type": "OTHER",
+            "Text": "https://t.co/qDrCL9KWqM",
+            "BeginOffset": 91,
+            "EndOffset": 114
+        }
+    ]
+}

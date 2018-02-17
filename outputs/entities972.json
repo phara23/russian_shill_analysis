@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8930322527885437,
+            "Type": "PERSON",
+            "Text": "@fawfulfan",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9665234684944153,
+            "Type": "DATE",
+            "Text": "this morning",
+            "BeginOffset": 37,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9870344996452332,
+            "Type": "QUANTITY",
+            "Text": "two minutes",
+            "BeginOffset": 106,
+            "EndOffset": 117
+        },
+        {
+            "Score": 0.7709118127822876,
+            "Type": "ORGANIZATION",
+            "Text": "congress",
+            "BeginOffset": 131,
+            "EndOffset": 139
+        }
+    ]
+}

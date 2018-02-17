@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9176510572433472,
+            "Type": "PERSON",
+            "Text": "@RealJack",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9855527281761169,
+            "Type": "ORGANIZATION",
+            "Text": "CNN",
+            "BeginOffset": 59,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9997572302818298,
+            "Type": "OTHER",
+            "Text": "https://t.co/fwq2gJGohF",
+            "BeginOffset": 64,
+            "EndOffset": 87
+        }
+    ]
+}

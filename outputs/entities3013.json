@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.869262158870697,
+            "Type": "PERSON",
+            "Text": "@Travon",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9947721362113953,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 26,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.8394346237182617,
+            "Type": "QUANTITY",
+            "Text": "10 yr old",
+            "BeginOffset": 46,
+            "EndOffset": 55
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7130213379859924,
+            "Type": "ORGANIZATION",
+            "Text": "@nypost",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.8904711604118347,
+            "Type": "LOCATION",
+            "Text": "Baltimore",
+            "BeginOffset": 18,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9800896644592285,
+            "Type": "DATE",
+            "Text": "Monday",
+            "BeginOffset": 89,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.9147417545318604,
+            "Type": "OTHER",
+            "Text": "http://t.co/8ELfJOzyAI",
+            "BeginOffset": 107,
+            "EndOffset": 129
+        },
+        {
+            "Score": 0.9217562675476074,
+            "Type": "OTHER",
+            "Text": "http://t",
+            "BeginOffset": 130,
+            "EndOffset": 138
+        }
+    ]
+}

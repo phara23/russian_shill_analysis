@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8889603614807129,
+            "Type": "PERSON",
+            "Text": "@DBloom451",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.46015381813049316,
+            "Type": "LOCATION",
+            "Text": "Americans",
+            "BeginOffset": 21,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.5741128325462341,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 80,
+            "EndOffset": 85
+        }
+    ]
+}

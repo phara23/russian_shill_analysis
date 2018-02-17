@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8809705972671509,
+            "Type": "PERSON",
+            "Text": "@HorseShort",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.6868484020233154,
+            "Type": "PERSON",
+            "Text": "@FoxBusiness",
+            "BeginOffset": 18,
+            "EndOffset": 30
+        }
+    ]
+}

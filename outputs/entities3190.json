@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6619786620140076,
+            "Type": "PERSON",
+            "Text": "@drivinggoof",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9901201128959656,
+            "Type": "PERSON",
+            "Text": "@kimmie99",
+            "BeginOffset": 17,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.952853262424469,
+            "Type": "PERSON",
+            "Text": "@Trumpster5",
+            "BeginOffset": 27,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9803518056869507,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 57,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.9899980425834656,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 107,
+            "EndOffset": 114
+        }
+    ]
+}

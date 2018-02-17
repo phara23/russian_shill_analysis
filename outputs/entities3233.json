@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4981703460216522,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8829708099365234,
+            "Type": "PERSON",
+            "Text": "@Booth_Prince",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        }
+    ]
+}

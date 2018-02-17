@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8837780356407166,
+            "Type": "PERSON",
+            "Text": "@stuntbrain",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.992417573928833,
+            "Type": "DATE",
+            "Text": "Monday",
+            "BeginOffset": 23,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.7251662015914917,
+            "Type": "PERSON",
+            "Text": "@ChickfilA",
+            "BeginOffset": 88,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.9999361038208008,
+            "Type": "OTHER",
+            "Text": "https://t.co/2iOjPb9cUn",
+            "BeginOffset": 100,
+            "EndOffset": 123
+        }
+    ]
+}

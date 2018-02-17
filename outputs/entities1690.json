@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9105148315429688,
+            "Type": "PERSON",
+            "Text": "@tapwalden",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8803830146789551,
+            "Type": "ORGANIZATION",
+            "Text": "NFL",
+            "BeginOffset": 94,
+            "EndOffset": 97
+        }
+    ]
+}

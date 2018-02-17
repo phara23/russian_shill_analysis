@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9547377824783325,
+            "Type": "PERSON",
+            "Text": "@obaa_boni",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8474788069725037,
+            "Type": "PERSON",
+            "Text": "Naima",
+            "BeginOffset": 18,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9998206496238708,
+            "Type": "OTHER",
+            "Text": "https://t.co/r9adMghOYa",
+            "BeginOffset": 39,
+            "EndOffset": 62
+        }
+    ]
+}

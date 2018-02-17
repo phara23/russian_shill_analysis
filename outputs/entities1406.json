@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9543400406837463,
+            "Type": "PERSON",
+            "Text": "@janetcadsawan",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.3464871346950531,
+            "Type": "ORGANIZATION",
+            "Text": "#NYC",
+            "BeginOffset": 29,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9999467134475708,
+            "Type": "OTHER",
+            "Text": "https://t.co/aWalGCXe7M",
+            "BeginOffset": 48,
+            "EndOffset": 71
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6388961672782898,
+            "Type": "ORGANIZATION",
+            "Text": "@NoCommiesPlease",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.7236626148223877,
+            "Type": "ORGANIZATION",
+            "Text": "@NoCommiesPlease",
+            "BeginOffset": 21,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.8669589757919312,
+            "Type": "PERSON",
+            "Text": "@myersmary593",
+            "BeginOffset": 61,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9787155389785767,
+            "Type": "OTHER",
+            "Text": "https://t.co/2FkA",
+            "BeginOffset": 122,
+            "EndOffset": 139
+        }
+    ]
+}

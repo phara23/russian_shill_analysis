@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8212751150131226,
+            "Type": "PERSON",
+            "Text": "@karen_erotoo",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9931334853172302,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 56,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9928436875343323,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 66,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9998169541358948,
+            "Type": "OTHER",
+            "Text": "https://t.co/WuR1YbcYQW",
+            "BeginOffset": 99,
+            "EndOffset": 122
+        }
+    ]
+}

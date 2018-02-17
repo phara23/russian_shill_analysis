@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5000380873680115,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.6850735545158386,
+            "Type": "ORGANIZATION",
+            "Text": "@NolteNC",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9966668486595154,
+            "Type": "PERSON",
+            "Text": "Paula",
+            "BeginOffset": 72,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9991638660430908,
+            "Type": "PERSON",
+            "Text": "Kathleen",
+            "BeginOffset": 79,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.9627019166946411,
+            "Type": "PERSON",
+            "Text": "Juanita",
+            "BeginOffset": 104,
+            "EndOffset": 111
+        },
+        {
+            "Score": 0.9999839067459106,
+            "Type": "OTHER",
+            "Text": "https://t.co/qEcwi7P078",
+            "BeginOffset": 115,
+            "EndOffset": 138
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.747284471988678,
+            "Type": "ORGANIZATION",
+            "Text": "@newscientist",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9970194697380066,
+            "Type": "ORGANIZATION",
+            "Text": "NASA",
+            "BeginOffset": 18,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.31969359517097473,
+            "Type": "PERSON",
+            "Text": "Juno",
+            "BeginOffset": 25,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.8020487427711487,
+            "Type": "LOCATION",
+            "Text": "Jupiter",
+            "BeginOffset": 69,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.794937789440155,
+            "Type": "OTHER",
+            "Text": "https://t.co/4WGr8ltGgO",
+            "BeginOffset": 77,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.9999529123306274,
+            "Type": "OTHER",
+            "Text": "https://t.co/IeDIE1KiR9",
+            "BeginOffset": 101,
+            "EndOffset": 124
+        }
+    ]
+}

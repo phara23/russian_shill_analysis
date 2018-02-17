@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9278745055198669,
+            "Type": "PERSON",
+            "Text": "@RickRWells",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9314051270484924,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 16,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.45111656188964844,
+            "Type": "LOCATION",
+            "Text": "Syria",
+            "BeginOffset": 46,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.6938301920890808,
+            "Type": "EVENT",
+            "Text": "Civil War",
+            "BeginOffset": 52,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9952055215835571,
+            "Type": "PERSON",
+            "Text": "Putin",
+            "BeginOffset": 64,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9687009453773499,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 93,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.9798189401626587,
+            "Type": "OTHER",
+            "Text": "https://t.co/P8Ncl5k3sI",
+            "BeginOffset": 101,
+            "EndOffset": 124
+        },
+        {
+            "Score": 0.951339066028595,
+            "Type": "OTHER",
+            "Text": "https://t.co/m",
+            "BeginOffset": 125,
+            "EndOffset": 139
+        }
+    ]
+}

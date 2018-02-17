@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9530006051063538,
+            "Type": "PERSON",
+            "Text": "@ObamaBash",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9828973412513733,
+            "Type": "PERSON",
+            "Text": "Maxine",
+            "BeginOffset": 18,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9999277591705322,
+            "Type": "OTHER",
+            "Text": "https://t.co/TZFrn3p6dd",
+            "BeginOffset": 100,
+            "EndOffset": 123
+        }
+    ]
+}

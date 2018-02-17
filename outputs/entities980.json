@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8697206377983093,
+            "Type": "PERSON",
+            "Text": "@DoogieYowza",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.976488471031189,
+            "Type": "ORGANIZATION",
+            "Text": "IRS",
+            "BeginOffset": 17,
+            "EndOffset": 20
+        }
+    ]
+}

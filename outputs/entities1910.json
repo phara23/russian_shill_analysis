@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7513893842697144,
+            "Type": "PERSON",
+            "Text": "@SincereSpeaks",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8868759274482727,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 33,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9896275997161865,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 53,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9304200410842896,
+            "Type": "PERSON",
+            "Text": "@georgesoros",
+            "BeginOffset": 85,
+            "EndOffset": 97
+        }
+    ]
+}

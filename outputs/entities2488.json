@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9007169604301453,
+            "Type": "PERSON",
+            "Text": "@schmarsten",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.4665209949016571,
+            "Type": "OTHER",
+            "Text": "German",
+            "BeginOffset": 16,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.8754254579544067,
+            "Type": "PERSON",
+            "Text": "@jubayern",
+            "BeginOffset": 42,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.8431298136711121,
+            "Type": "PERSON",
+            "Text": "Merkel",
+            "BeginOffset": 78,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9105702042579651,
+            "Type": "PERSON",
+            "Text": "@MartinSchulz",
+            "BeginOffset": 100,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.960552453994751,
+            "Type": "PERSON",
+            "Text": "@JaneLytv",
+            "BeginOffset": 118,
+            "EndOffset": 127
+        }
+    ]
+}

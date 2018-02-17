@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8870090842247009,
+            "Type": "PERSON",
+            "Text": "@CelebManchester",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.7011209726333618,
+            "Type": "PERSON",
+            "Text": "Bolton",
+            "BeginOffset": 65,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9999850988388062,
+            "Type": "OTHER",
+            "Text": "https://t.co/yn6s3RSAfI",
+            "BeginOffset": 73,
+            "EndOffset": 96
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8433403372764587,
+            "Type": "PERSON",
+            "Text": "@BraveConWarrior",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9854609370231628,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 33,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.5483950972557068,
+            "Type": "PERSON",
+            "Text": "Obamatrade",
+            "BeginOffset": 61,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9999419450759888,
+            "Type": "OTHER",
+            "Text": "http://t.co/jtZlT8awSS",
+            "BeginOffset": 112,
+            "EndOffset": 134
+        }
+    ]
+}

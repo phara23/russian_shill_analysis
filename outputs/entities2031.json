@@ -1,0 +1,67 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7114130258560181,
+            "Type": "PERSON",
+            "Text": "@CBSThisMorning",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9989989399909973,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 38,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9941030144691467,
+            "Type": "QUANTITY",
+            "Text": "46%",
+            "BeginOffset": 55,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.901008665561676,
+            "Type": "LOCATION",
+            "Text": "Nevada",
+            "BeginOffset": 66,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.9958827495574951,
+            "Type": "DATE",
+            "Text": "Tuesday",
+            "BeginOffset": 78,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.9983344078063965,
+            "Type": "PERSON",
+            "Text": "Marco Rubio",
+            "BeginOffset": 87,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.7547629475593567,
+            "Type": "QUANTITY",
+            "Text": "second",
+            "BeginOffset": 108,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.9534747004508972,
+            "Type": "QUANTITY",
+            "Text": "24%",
+            "BeginOffset": 120,
+            "EndOffset": 123
+        },
+        {
+            "Score": 0.9642874002456665,
+            "Type": "OTHER",
+            "Text": "https://t.co/6A",
+            "BeginOffset": 124,
+            "EndOffset": 139
+        }
+    ]
+}

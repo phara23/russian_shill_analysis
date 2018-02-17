@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9997117519378662,
+            "Type": "PERSON",
+            "Text": "Mike Pence",
+            "BeginOffset": 24,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.7743417024612427,
+            "Type": "LOCATION",
+            "Text": "#Syria",
+            "BeginOffset": 38,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9894249439239502,
+            "Type": "PERSON",
+            "Text": "Assad",
+            "BeginOffset": 52,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9283931851387024,
+            "Type": "OTHER",
+            "Text": "https://t.co/9LbWd3rJF8",
+            "BeginOffset": 87,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.9999110698699951,
+            "Type": "OTHER",
+            "Text": "https://t.co/AkLFecbnqZ",
+            "BeginOffset": 111,
+            "EndOffset": 134
+        }
+    ]
+}

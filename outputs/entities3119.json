@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9780426025390625,
+            "Type": "ORGANIZATION",
+            "Text": "Instagram",
+            "BeginOffset": 34,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9541672468185425,
+            "Type": "PERSON",
+            "Text": "Donald Trump Jr.",
+            "BeginOffset": 57,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.9999338388442993,
+            "Type": "OTHER",
+            "Text": "https://t.co/k5JGJSwEmx",
+            "BeginOffset": 84,
+            "EndOffset": 107
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7639628648757935,
+            "Type": "PERSON",
+            "Text": "@timvicious",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9999485015869141,
+            "Type": "OTHER",
+            "Text": "https://t.co/TDDyqgWO3h",
+            "BeginOffset": 78,
+            "EndOffset": 101
+        }
+    ]
+}

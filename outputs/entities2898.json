@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5019871592521667,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.9871608018875122,
+            "Type": "PERSON",
+            "Text": "@Shane_Rodenbeck",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9941955208778381,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 62,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.981205940246582,
+            "Type": "PERSON",
+            "Text": "Lester",
+            "BeginOffset": 121,
+            "EndOffset": 127
+        },
+        {
+            "Score": 0.992482602596283,
+            "Type": "PERSON",
+            "Text": "Lester",
+            "BeginOffset": 132,
+            "EndOffset": 138
+        }
+    ]
+}

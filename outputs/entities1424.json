@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7861865758895874,
+            "Type": "PERSON",
+            "Text": "@americamag",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9997342228889465,
+            "Type": "PERSON",
+            "Text": "Andrew Garfield",
+            "BeginOffset": 16,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.39394572377204895,
+            "Type": "TITLE",
+            "Text": "Silence",
+            "BeginOffset": 51,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9690024852752686,
+            "Type": "PERSON",
+            "Text": "Jesus",
+            "BeginOffset": 102,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.9999899864196777,
+            "Type": "OTHER",
+            "Text": "https://t.co/ngDH7hM3pT",
+            "BeginOffset": 109,
+            "EndOffset": 132
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.739926278591156,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 0,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.7238786220550537,
+            "Type": "PERSON",
+            "Text": "@SenSasse",
+            "BeginOffset": 69,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.8382294178009033,
+            "Type": "PERSON",
+            "Text": "@FlyoverCulture",
+            "BeginOffset": 79,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.9988954067230225,
+            "Type": "OTHER",
+            "Text": "https://t.co/rOTivJQN2j",
+            "BeginOffset": 112,
+            "EndOffset": 135
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7276633381843567,
+            "Type": "PERSON",
+            "Text": "@JaywanInc",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9964615702629089,
+            "Type": "PERSON",
+            "Text": "Jimmy Wopo",
+            "BeginOffset": 16,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9441151022911072,
+            "Type": "PERSON",
+            "Text": "@jimmywopo_",
+            "BeginOffset": 28,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.6465855240821838,
+            "Type": "TITLE",
+            "Text": "Bench Boy",
+            "BeginOffset": 44,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.6468028426170349,
+            "Type": "ORGANIZATION",
+            "Text": "Daily Grind",
+            "BeginOffset": 77,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9642605781555176,
+            "Type": "OTHER",
+            "Text": "https://t.co/RU9Zq81el2",
+            "BeginOffset": 94,
+            "EndOffset": 117
+        }
+    ]
+}

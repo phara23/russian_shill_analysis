@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9312682747840881,
+            "Type": "PERSON",
+            "Text": "@TalibKweli",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.6686431169509888,
+            "Type": "OTHER",
+            "Text": "Asian",
+            "BeginOffset": 22,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9409114122390747,
+            "Type": "PERSON",
+            "Text": "@JetLeeJetson",
+            "BeginOffset": 39,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9450351595878601,
+            "Type": "PERSON",
+            "Text": "@TalibKweli",
+            "BeginOffset": 54,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.8968285918235779,
+            "Type": "OTHER",
+            "Text": "Asian",
+            "BeginOffset": 121,
+            "EndOffset": 126
+        }
+    ]
+}

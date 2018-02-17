@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9497260451316833,
+            "Type": "PERSON",
+            "Text": "@LaJethroJenkins",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.5258201956748962,
+            "Type": "QUANTITY",
+            "Text": "One",
+            "BeginOffset": 76,
+            "EndOffset": 79
+        }
+    ]
+}

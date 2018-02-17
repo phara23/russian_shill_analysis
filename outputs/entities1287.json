@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.901317298412323,
+            "Type": "PERSON",
+            "Text": "@Dbargen",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.7334533333778381,
+            "Type": "ORGANIZATION",
+            "Text": "Pentagon",
+            "BeginOffset": 19,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.8914982080459595,
+            "Type": "QUANTITY",
+            "Text": "44 Missing Afghans",
+            "BeginOffset": 39,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.8892149925231934,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 65,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9870039820671082,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 112,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.9999675750732422,
+            "Type": "OTHER",
+            "Text": "https://t.co/xjSkrZ5H6X",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

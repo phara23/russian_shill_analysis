@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6765038967132568,
+            "Type": "ORGANIZATION",
+            "Text": "Republican",
+            "BeginOffset": 15,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.8837303519248962,
+            "Type": "PERSON",
+            "Text": "Senator John Warner",
+            "BeginOffset": 26,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9910343289375305,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 57,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9999181032180786,
+            "Type": "OTHER",
+            "Text": "https://t.co/Oq4TodJroq",
+            "BeginOffset": 65,
+            "EndOffset": 88
+        }
+    ]
+}

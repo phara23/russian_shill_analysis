@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6676923632621765,
+            "Type": "ORGANIZATION",
+            "Text": "@pH1",
+            "BeginOffset": 3,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.8411739468574524,
+            "Type": "DATE",
+            "Text": "after 6pm",
+            "BeginOffset": 69,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.9722131490707397,
+            "Type": "DATE",
+            "Text": "Thursday",
+            "BeginOffset": 84,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.9957987666130066,
+            "Type": "LOCATION",
+            "Text": "Florida",
+            "BeginOffset": 106,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.9999215602874756,
+            "Type": "OTHER",
+            "Text": "https://t.co/vDScgS6G3a",
+            "BeginOffset": 115,
+            "EndOffset": 138
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7628062963485718,
+            "Type": "PERSON",
+            "Text": "@cjtweetstation",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9960744380950928,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 20,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9890717267990112,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 45,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9022176861763,
+            "Type": "OTHER",
+            "Text": "https://t.co/WowN3jToYn",
+            "BeginOffset": 91,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.5285743474960327,
+            "Type": "ORGANIZATION",
+            "Text": "#PolicticalNews",
+            "BeginOffset": 115,
+            "EndOffset": 130
+        }
+    ]
+}

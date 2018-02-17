@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7751167416572571,
+            "Type": "PERSON",
+            "Text": "@littlebytesnews",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9852858185768127,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 42,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9063320159912109,
+            "Type": "LOCATION",
+            "Text": "U.S.",
+            "BeginOffset": 86,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9999583959579468,
+            "Type": "OTHER",
+            "Text": "https://t.co/KIErXZzlgb",
+            "BeginOffset": 99,
+            "EndOffset": 122
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8530927896499634,
+            "Type": "PERSON",
+            "Text": "@irritatedwoman",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9831770062446594,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 20,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9996041655540466,
+            "Type": "PERSON",
+            "Text": "Rebecca Berg",
+            "BeginOffset": 70,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.8323240876197815,
+            "Type": "ORGANIZATION",
+            "Text": "RealClearPolitics",
+            "BeginOffset": 84,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.9004334807395935,
+            "Type": "LOCATION",
+            "Text": "New Hampshire",
+            "BeginOffset": 106,
+            "EndOffset": 119
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8926581740379333,
+            "Type": "PERSON",
+            "Text": "@PrisonPlanet",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8008824586868286,
+            "Type": "OTHER",
+            "Text": "Mexican",
+            "BeginOffset": 18,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9804505109786987,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 59,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9140785336494446,
+            "Type": "ORGANIZATION",
+            "Text": "Guns N' Roses",
+            "BeginOffset": 75,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.8833610415458679,
+            "Type": "QUANTITY",
+            "Text": "10 feet",
+            "BeginOffset": 113,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.9738563895225525,
+            "Type": "OTHER",
+            "Text": "https://t.co/1",
+            "BeginOffset": 129,
+            "EndOffset": 143
+        }
+    ]
+}

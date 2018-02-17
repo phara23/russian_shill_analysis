@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7760101556777954,
+            "Type": "PERSON",
+            "Text": "@La1N5yKiVG1",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9786938428878784,
+            "Type": "QUANTITY",
+            "Text": "5 mil",
+            "BeginOffset": 120,
+            "EndOffset": 125
+        }
+    ]
+}

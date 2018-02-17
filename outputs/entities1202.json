@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9989287853240967,
+            "Type": "PERSON",
+            "Text": "Lady Gaga",
+            "BeginOffset": 0,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9997726678848267,
+            "Type": "PERSON",
+            "Text": "Lenny Kravitz",
+            "BeginOffset": 11,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.913440465927124,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 37,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.976610004901886,
+            "Type": "OTHER",
+            "Text": "https://t.co/rjRbIdWsvB",
+            "BeginOffset": 49,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.9351435303688049,
+            "Type": "OTHER",
+            "Text": "https://t.co/aXQaNDGlF7",
+            "BeginOffset": 75,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.9999595880508423,
+            "Type": "OTHER",
+            "Text": "https://t.co/e6xVaRbsEN",
+            "BeginOffset": 99,
+            "EndOffset": 122
+        }
+    ]
+}

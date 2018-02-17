@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8069670796394348,
+            "Type": "PERSON",
+            "Text": "@thehill",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9411641359329224,
+            "Type": "ORGANIZATION",
+            "Text": "RNC",
+            "BeginOffset": 13,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9904464483261108,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 45,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.8965191841125488,
+            "Type": "OTHER",
+            "Text": "https://t.co/VPhTptBfWa",
+            "BeginOffset": 59,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.9999569654464722,
+            "Type": "OTHER",
+            "Text": "https://t.co/fLQSr2ZSDo",
+            "BeginOffset": 83,
+            "EndOffset": 106
+        }
+    ]
+}

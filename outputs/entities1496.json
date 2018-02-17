@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7388667464256287,
+            "Type": "PERSON",
+            "Text": "@urbandictionary",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8298351764678955,
+            "Type": "PERSON",
+            "Text": "Bannon",
+            "BeginOffset": 25,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9171253442764282,
+            "Type": "OTHER",
+            "Text": "https://t.co/91poUlmoAF",
+            "BeginOffset": 34,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9999923706054688,
+            "Type": "OTHER",
+            "Text": "https://t.co/dJs0LdWhmh",
+            "BeginOffset": 58,
+            "EndOffset": 81
+        }
+    ]
+}

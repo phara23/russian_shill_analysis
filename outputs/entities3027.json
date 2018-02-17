@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8201280236244202,
+            "Type": "LOCATION",
+            "Text": "Ohio",
+            "BeginOffset": 0,
+            "EndOffset": 4
+        },
+        {
+            "Score": 0.869806170463562,
+            "Type": "ORGANIZATION",
+            "Text": "RNC",
+            "BeginOffset": 23,
+            "EndOffset": 26
+        }
+    ]
+}

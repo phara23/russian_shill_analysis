@@ -1,0 +1,81 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5152378678321838,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.9170220494270325,
+            "Type": "ORGANIZATION",
+            "Text": "@US_Army",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9860472679138184,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 17,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9638385772705078,
+            "Type": "PERSON",
+            "Text": "Rosie O’Donnell",
+            "BeginOffset": 26,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9948221445083618,
+            "Type": "LOCATION",
+            "Text": "Canada",
+            "BeginOffset": 52,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9654024839401245,
+            "Type": "OTHER",
+            "Text": "https://t.co/OcxxVc739y",
+            "BeginOffset": 76,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.9721987843513489,
+            "Type": "PERSON",
+            "Text": "@JustKate038",
+            "BeginOffset": 100,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.9441192150115967,
+            "Type": "PERSON",
+            "Text": "@RitzyBacon2",
+            "BeginOffset": 113,
+            "EndOffset": 125
+        },
+        {
+            "Score": 0.9464573860168457,
+            "Type": "LOCATION",
+            "Text": "#USA",
+            "BeginOffset": 126,
+            "EndOffset": 130
+        },
+        {
+            "Score": 0.4054451286792755,
+            "Type": "LOCATION",
+            "Text": "🇺",
+            "BeginOffset": 130,
+            "EndOffset": 131
+        },
+        {
+            "Score": 0.4721880257129669,
+            "Type": "LOCATION",
+            "Text": "🇸",
+            "BeginOffset": 131,
+            "EndOffset": 132
+        }
+    ]
+}

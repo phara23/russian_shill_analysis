@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8723693490028381,
+            "Type": "PERSON",
+            "Text": "@FreeBeacon",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9134842157363892,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 16,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.7245707511901855,
+            "Type": "LOCATION",
+            "Text": "China",
+            "BeginOffset": 53,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9428001642227173,
+            "Type": "OTHER",
+            "Text": "https://t.co/irmanZfCmk",
+            "BeginOffset": 88,
+            "EndOffset": 111
+        },
+        {
+            "Score": 0.7133188247680664,
+            "Type": "ORGANIZATION",
+            "Text": "@mchalfant16",
+            "BeginOffset": 116,
+            "EndOffset": 128
+        }
+    ]
+}

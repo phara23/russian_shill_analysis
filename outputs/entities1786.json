@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6149792671203613,
+            "Type": "ORGANIZATION",
+            "Text": "@RSMMIXTAPES",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.6616040468215942,
+            "Type": "PERSON",
+            "Text": "@sadedarapper",
+            "BeginOffset": 27,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9775143265724182,
+            "Type": "PERSON",
+            "Text": "Ima Rider",
+            "BeginOffset": 44,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.7635148763656616,
+            "Type": "TITLE",
+            "Text": "All Eyez On Me Movie",
+            "BeginOffset": 55,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.7724010348320007,
+            "Type": "OTHER",
+            "Text": "https://t.co/luECTSbzbL",
+            "BeginOffset": 98,
+            "EndOffset": 121
+        },
+        {
+            "Score": 0.6155070066452026,
+            "Type": "ORGANIZATION",
+            "Text": "#PBA",
+            "BeginOffset": 132,
+            "EndOffset": 136
+        }
+    ]
+}

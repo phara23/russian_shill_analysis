@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8361613154411316,
+            "Type": "ORGANIZATION",
+            "Text": "@AFP",
+            "BeginOffset": 3,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.4844069480895996,
+            "Type": "ORGANIZATION",
+            "Text": "Iran",
+            "BeginOffset": 9,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9894394278526306,
+            "Type": "DATE",
+            "Text": "July 7",
+            "BeginOffset": 49,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9997466206550598,
+            "Type": "OTHER",
+            "Text": "http://t.co/pyHwLWE8CM",
+            "BeginOffset": 56,
+            "EndOffset": 78
+        }
+    ]
+}

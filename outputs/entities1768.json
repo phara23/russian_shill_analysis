@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4681951701641083,
+            "Type": "ORGANIZATION",
+            "Text": "Kansas",
+            "BeginOffset": 0,
+            "EndOffset": 6
+        },
+        {
+            "Score": 0.9527667164802551,
+            "Type": "QUANTITY",
+            "Text": "50M",
+            "BeginOffset": 49,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9357705116271973,
+            "Type": "OTHER",
+            "Text": "https://t.co/lD021g29n6",
+            "BeginOffset": 53,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.9999566078186035,
+            "Type": "OTHER",
+            "Text": "https://t.co/FmdFtojuDC",
+            "BeginOffset": 77,
+            "EndOffset": 100
+        }
+    ]
+}

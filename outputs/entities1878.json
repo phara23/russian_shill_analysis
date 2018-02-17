@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9057620167732239,
+            "Type": "PERSON",
+            "Text": "@HisGraceArron",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7356558442115784,
+            "Type": "QUANTITY",
+            "Text": "first",
+            "BeginOffset": 37,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.7867688536643982,
+            "Type": "QUANTITY",
+            "Text": "100",
+            "BeginOffset": 65,
+            "EndOffset": 68
+        }
+    ]
+}

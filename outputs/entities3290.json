@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9456740021705627,
+            "Type": "PERSON",
+            "Text": "@Marmel",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9752181172370911,
+            "Type": "OTHER",
+            "Text": "https://t.co/9iX",
+            "BeginOffset": 123,
+            "EndOffset": 139
+        }
+    ]
+}

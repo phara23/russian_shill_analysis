@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7691735625267029,
+            "Type": "PERSON",
+            "Text": "@beforeitsnews",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9019405841827393,
+            "Type": "QUANTITY",
+            "Text": "5 Signs",
+            "BeginOffset": 43,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9227749109268188,
+            "Type": "OTHER",
+            "Text": "https://t.co/snH7N57fjG",
+            "BeginOffset": 83,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.9999532699584961,
+            "Type": "OTHER",
+            "Text": "https://t.co/4E9UgPlY3x",
+            "BeginOffset": 107,
+            "EndOffset": 130
+        }
+    ]
+}

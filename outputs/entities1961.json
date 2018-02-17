@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8245766162872314,
+            "Type": "PERSON",
+            "Text": "@redrivergrl",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.985298752784729,
+            "Type": "OTHER",
+            "Text": "https://t.co/IEYRogma9e",
+            "BeginOffset": 73,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.8026688098907471,
+            "Type": "ORGANIZATION",
+            "Text": "@glennbeck",
+            "BeginOffset": 101,
+            "EndOffset": 111
+        }
+    ]
+}

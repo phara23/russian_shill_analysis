@@ -1,0 +1,28 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.8760668039321899,
+            "Text": "RT @newscientist",
+            "BeginOffset": 0,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9909259080886841,
+            "Text": "NASA",
+            "BeginOffset": 18,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9955822229385376,
+            "Text": "’s Juno probe",
+            "BeginOffset": 22,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9851042032241821,
+            "Text": "near-perfect orbit",
+            "BeginOffset": 43,
+            "EndOffset": 61
+        }
+    ]
+}

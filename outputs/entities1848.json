@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8210054636001587,
+            "Type": "PERSON",
+            "Text": "@PrometheusLaw",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9907710552215576,
+            "Type": "ORGANIZATION",
+            "Text": "CNBC",
+            "BeginOffset": 53,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9753273129463196,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 82,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.8667406439781189,
+            "Type": "OTHER",
+            "Text": "https://t.co/bORY2a7rPF",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.4845866560935974,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 129,
+            "EndOffset": 138
+        }
+    ]
+}

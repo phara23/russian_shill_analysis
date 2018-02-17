@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9132083654403687,
+            "Type": "PERSON",
+            "Text": "@GolightlyGrl427",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.6928540468215942,
+            "Type": "ORGANIZATION",
+            "Text": "@ShepNewsTeam",
+            "BeginOffset": 38,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9456669688224792,
+            "Type": "ORGANIZATION",
+            "Text": "@FoxNews",
+            "BeginOffset": 55,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.8918744325637817,
+            "Type": "ORGANIZATION",
+            "Text": "@FoxBusiness",
+            "BeginOffset": 94,
+            "EndOffset": 106
+        }
+    ]
+}

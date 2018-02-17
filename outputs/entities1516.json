@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7613809108734131,
+            "Type": "PERSON",
+            "Text": "@CruzCrewGA",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.970606803894043,
+            "Type": "QUANTITY",
+            "Text": "5 Years",
+            "BeginOffset": 16,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.8789030909538269,
+            "Type": "QUANTITY",
+            "Text": "15 Year",
+            "BeginOffset": 42,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.974513590335846,
+            "Type": "QUANTITY",
+            "Text": "35 Countries",
+            "BeginOffset": 62,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.966925323009491,
+            "Type": "OTHER",
+            "Text": "https://t.co/NWtSqTdz98",
+            "BeginOffset": 83,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.8919615745544434,
+            "Type": "PERSON",
+            "Text": "@pjmedia_com",
+            "BeginOffset": 120,
+            "EndOffset": 132
+        }
+    ]
+}

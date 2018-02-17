@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9478256106376648,
+            "Type": "PERSON",
+            "Text": "@DavidAFrench",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9999905824661255,
+            "Type": "OTHER",
+            "Text": "https://t.co/dP20qKsXn5",
+            "BeginOffset": 112,
+            "EndOffset": 135
+        }
+    ]
+}

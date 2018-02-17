@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9477404952049255,
+            "Type": "PERSON",
+            "Text": "@carol_holman",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7685431838035583,
+            "Type": "LOCATION",
+            "Text": "UK",
+            "BeginOffset": 18,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.9091246724128723,
+            "Type": "ORGANIZATION",
+            "Text": "Muslim",
+            "BeginOffset": 22,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9999357461929321,
+            "Type": "OTHER",
+            "Text": "https://t.co/vaHXEjraUm",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8852142691612244,
+            "Type": "PERSON",
+            "Text": "@PMgeezer",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9818100929260254,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 14,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9883826375007629,
+            "Type": "PERSON",
+            "Text": "John Podesta",
+            "BeginOffset": 32,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.6963480114936829,
+            "Type": "PERSON",
+            "Text": "Putin",
+            "BeginOffset": 87,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.8821701407432556,
+            "Type": "ORGANIZATION",
+            "Text": "Breitbart",
+            "BeginOffset": 113,
+            "EndOffset": 122
+        },
+        {
+            "Score": 0.8768191933631897,
+            "Type": "OTHER",
+            "Text": "https://t.co/Mmv",
+            "BeginOffset": 123,
+            "EndOffset": 139
+        }
+    ]
+}

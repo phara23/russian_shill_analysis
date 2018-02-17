@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.787645161151886,
+            "Type": "PERSON",
+            "Text": "@HOERULES",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9999837875366211,
+            "Type": "OTHER",
+            "Text": "https://t.co/vey3L54PuA",
+            "BeginOffset": 20,
+            "EndOffset": 43
+        }
+    ]
+}

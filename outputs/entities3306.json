@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7152203917503357,
+            "Type": "PERSON",
+            "Text": "@redflagnews",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9963214993476868,
+            "Type": "PERSON",
+            "Text": "Ruth Ginsburg",
+            "BeginOffset": 50,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9958106279373169,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 101,
+            "EndOffset": 106
+        }
+    ]
+}

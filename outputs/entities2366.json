@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9737796783447266,
+            "Type": "PERSON",
+            "Text": "@ao_Jefferson",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7150532007217407,
+            "Type": "DATE",
+            "Text": "1817",
+            "BeginOffset": 23,
+            "EndOffset": 27
+        }
+    ]
+}

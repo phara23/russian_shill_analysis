@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8441077470779419,
+            "Type": "PERSON",
+            "Text": "@Joe_America",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.839679479598999,
+            "Type": "DATE",
+            "Text": "1776",
+            "BeginOffset": 15,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9076931476593018,
+            "Type": "ORGANIZATION",
+            "Text": "WikiLeaks",
+            "BeginOffset": 29,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.8680224418640137,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 51,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9609864950180054,
+            "Type": "PERSON",
+            "Text": "Trey Gowdy",
+            "BeginOffset": 85,
+            "EndOffset": 95
+        }
+    ]
+}

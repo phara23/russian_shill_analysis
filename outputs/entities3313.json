@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5742374658584595,
+            "Type": "ORGANIZATION",
+            "Text": "Bis",
+            "BeginOffset": 0,
+            "EndOffset": 3
+        },
+        {
+            "Score": 0.6396532654762268,
+            "Type": "COMMERCIAL_ITEM",
+            "Text": "40 Mio Euro",
+            "BeginOffset": 4,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8453494310379028,
+            "Type": "ORGANIZATION",
+            "Text": "Geschädigte",
+            "BeginOffset": 20,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9180957674980164,
+            "Type": "COMMERCIAL_ITEM",
+            "Text": "der G20-Krawalle",
+            "BeginOffset": 32,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9991546869277954,
+            "Type": "OTHER",
+            "Text": "https://t.co/aoeqZUQZjA",
+            "BeginOffset": 102,
+            "EndOffset": 125
+        }
+    ]
+}

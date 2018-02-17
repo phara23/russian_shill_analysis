@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8877702951431274,
+            "Type": "PERSON",
+            "Text": "@ShivamChatak",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.6837337613105774,
+            "Type": "DATE",
+            "Text": "#2017",
+            "BeginOffset": 18,
+            "EndOffset": 23
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8431103229522705,
+            "Type": "PERSON",
+            "Text": "@Telmusia",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.20460310578346252,
+            "Type": "PERSON",
+            "Text": "ElevArte",
+            "BeginOffset": 41,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9674261212348938,
+            "Type": "DATE",
+            "Text": "today",
+            "BeginOffset": 57,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.8634507060050964,
+            "Type": "ORGANIZATION",
+            "Text": "@WeAreHipHopFest",
+            "BeginOffset": 66,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.9999878406524658,
+            "Type": "OTHER",
+            "Text": "https://t.co/kgD9Sb8VO7",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        }
+    ]
+}

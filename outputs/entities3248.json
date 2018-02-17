@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7931416034698486,
+            "Type": "PERSON",
+            "Text": "@MixAffiliates",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7128833532333374,
+            "Type": "PERSON",
+            "Text": "Jetes",
+            "BeginOffset": 33,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9968452453613281,
+            "Type": "OTHER",
+            "Text": "https://t.co/RMYi9yPu4r",
+            "BeginOffset": 54,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.8955079317092896,
+            "Type": "ORGANIZATION",
+            "Text": "@MixAffiliates",
+            "BeginOffset": 82,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.7189182043075562,
+            "Type": "PERSON",
+            "Text": "@teemuneemusic",
+            "BeginOffset": 97,
+            "EndOffset": 111
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9671624898910522,
+            "Type": "PERSON",
+            "Text": "@HeisJonny",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.27142736315727234,
+            "Type": "ORGANIZATION",
+            "Text": "Klondike",
+            "BeginOffset": 39,
+            "EndOffset": 47
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8144986033439636,
+            "Type": "PERSON",
+            "Text": "@GoodMenProject",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.913486123085022,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

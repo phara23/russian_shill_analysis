@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8734456896781921,
+            "Type": "PERSON",
+            "Text": "@Jan4USA",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9238556027412415,
+            "Type": "PERSON",
+            "Text": "@DeanSchanzel",
+            "BeginOffset": 13,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.8109282851219177,
+            "Type": "PERSON",
+            "Text": "@POTUS",
+            "BeginOffset": 27,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.912476658821106,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 40,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.999977707862854,
+            "Type": "OTHER",
+            "Text": "https://t.co/15NNAdQXqn",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        }
+    ]
+}

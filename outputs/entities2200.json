@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8306660652160645,
+            "Type": "PERSON",
+            "Text": "@DiscloseTV",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.4305229187011719,
+            "Type": "PERSON",
+            "Text": "Churchill",
+            "BeginOffset": 16,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9958986639976501,
+            "Type": "OTHER",
+            "Text": "https://t.co/WhYVoAnEqp",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        }
+    ]
+}

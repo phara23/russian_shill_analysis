@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9098754525184631,
+            "Type": "PERSON",
+            "Text": "@dansch2002",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.5817165970802307,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 16,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9003732204437256,
+            "Type": "PERSON",
+            "Text": "@MissyBash",
+            "BeginOffset": 19,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9931854009628296,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 31,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9922204613685608,
+            "Type": "PERSON",
+            "Text": "Bush",
+            "BeginOffset": 86,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.8246961236000061,
+            "Type": "OTHER",
+            "Text": "https://t.co/MAF9cEI58h",
+            "BeginOffset": 100,
+            "EndOffset": 123
+        },
+        {
+            "Score": 0.3384150266647339,
+            "Type": "ORGANIZATION",
+            "Text": "#WakeUpAmerica",
+            "BeginOffset": 124,
+            "EndOffset": 138
+        }
+    ]
+}

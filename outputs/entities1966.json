@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8935776352882385,
+            "Type": "PERSON",
+            "Text": "@NurseBeth3",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7979390621185303,
+            "Type": "EVENT",
+            "Text": "Christmas",
+            "BeginOffset": 40,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9998915195465088,
+            "Type": "OTHER",
+            "Text": "https://t.co/AJ2STCKUcL",
+            "BeginOffset": 53,
+            "EndOffset": 76
+        }
+    ]
+}

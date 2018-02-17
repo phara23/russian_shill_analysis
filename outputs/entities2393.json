@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8028831481933594,
+            "Type": "PERSON",
+            "Text": "@Fresh_Flames",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8031152486801147,
+            "Type": "TITLE",
+            "Text": "Let's Not Kings",
+            "BeginOffset": 19,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9999798536300659,
+            "Type": "OTHER",
+            "Text": "https://t.co/gU3d7V8Ddx",
+            "BeginOffset": 36,
+            "EndOffset": 59
+        }
+    ]
+}

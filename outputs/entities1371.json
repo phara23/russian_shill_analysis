@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8485307693481445,
+            "Type": "PERSON",
+            "Text": "@DeberahBissett",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8102161288261414,
+            "Type": "PERSON",
+            "Text": "@patrioticpepe",
+            "BeginOffset": 20,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9687382578849792,
+            "Type": "PERSON",
+            "Text": "@DMashak",
+            "BeginOffset": 35,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9873228073120117,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 44,
+            "EndOffset": 60
+        }
+    ]
+}

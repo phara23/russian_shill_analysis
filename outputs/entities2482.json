@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8540241122245789,
+            "Type": "PERSON",
+            "Text": "@Bipartisanism",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9980634450912476,
+            "Type": "PERSON",
+            "Text": "Bernie Sanders",
+            "BeginOffset": 19,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9486814737319946,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 44,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.886869490146637,
+            "Type": "QUANTITY",
+            "Text": "Two Minutes",
+            "BeginOffset": 85,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.9446189999580383,
+            "Type": "OTHER",
+            "Text": "https://t.co/Cv0MgPFEjU",
+            "BeginOffset": 110,
+            "EndOffset": 133
+        }
+    ]
+}

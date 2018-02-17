@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8038440346717834,
+            "Type": "PERSON",
+            "Text": "@BasicallyLucas",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9814556241035461,
+            "Type": "DATE",
+            "Text": "2017",
+            "BeginOffset": 39,
+            "EndOffset": 43
+        }
+    ]
+}

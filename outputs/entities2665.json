@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6732070446014404,
+            "Type": "ORGANIZATION",
+            "Text": "@Independent",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.926331102848053,
+            "Type": "OTHER",
+            "Text": "https://t.co/sSCvPs2GMt",
+            "BeginOffset": 83,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.9999760389328003,
+            "Type": "OTHER",
+            "Text": "https://t.co/2j1YVeBie9",
+            "BeginOffset": 107,
+            "EndOffset": 130
+        }
+    ]
+}

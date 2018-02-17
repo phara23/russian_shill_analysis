@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7291405200958252,
+            "Type": "PERSON",
+            "Text": "@LAOnlineDaily",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.43593671917915344,
+            "Type": "LOCATION",
+            "Text": "Pasadena",
+            "BeginOffset": 44,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.7203787565231323,
+            "Type": "QUANTITY",
+            "Text": "thousands",
+            "BeginOffset": 70,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.6713302731513977,
+            "Type": "EVENT",
+            "Text": "Rose Bowl",
+            "BeginOffset": 83,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.9999480247497559,
+            "Type": "OTHER",
+            "Text": "http://t.co/DFkgnVqQWM",
+            "BeginOffset": 101,
+            "EndOffset": 123
+        }
+    ]
+}

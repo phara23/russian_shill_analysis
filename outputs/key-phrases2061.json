@@ -1,0 +1,28 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9972564578056335,
+            "Text": "Nebraska",
+            "BeginOffset": 0,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.9787127375602722,
+            "Text": "Ben Sasse",
+            "BeginOffset": 11,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.9891662001609802,
+            "Text": "heat",
+            "BeginOffset": 27,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9874478578567505,
+            "Text": "home",
+            "BeginOffset": 35,
+            "EndOffset": 39
+        }
+    ]
+}

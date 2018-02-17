@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9312329292297363,
+            "Type": "PERSON",
+            "Text": "@RealKyleMorris",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8209760785102844,
+            "Type": "ORGANIZATION",
+            "Text": "Senate Committee",
+            "BeginOffset": 31,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9860334992408752,
+            "Type": "ORGANIZATION",
+            "Text": "EPA",
+            "BeginOffset": 57,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9518288969993591,
+            "Type": "ORGANIZATION",
+            "Text": "Democrats",
+            "BeginOffset": 83,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.9999678134918213,
+            "Type": "OTHER",
+            "Text": "https://t.co/LedMk3guuM",
+            "BeginOffset": 111,
+            "EndOffset": 134
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8361068964004517,
+            "Type": "PERSON",
+            "Text": "@NOrleansDaily",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8693040013313293,
+            "Type": "ORGANIZATION",
+            "Text": "Saints",
+            "BeginOffset": 19,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.37419629096984863,
+            "Type": "ORGANIZATION",
+            "Text": "OLB",
+            "BeginOffset": 33,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9894290566444397,
+            "Type": "PERSON",
+            "Text": "Davis Tull",
+            "BeginOffset": 37,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.8817459940910339,
+            "Type": "QUANTITY",
+            "Text": "5th round",
+            "BeginOffset": 51,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.7458207011222839,
+            "Type": "ORGANIZATION",
+            "Text": "NFL",
+            "BeginOffset": 64,
+            "EndOffset": 67
+        }
+    ]
+}

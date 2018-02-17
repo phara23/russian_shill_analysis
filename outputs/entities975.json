@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9890924096107483,
+            "Type": "DATE",
+            "Text": "3 am",
+            "BeginOffset": 38,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.7321583032608032,
+            "Type": "PERSON",
+            "Text": "@danisnotonfire",
+            "BeginOffset": 63,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.8918980360031128,
+            "Type": "PERSON",
+            "Text": "@AmazingPhil",
+            "BeginOffset": 79,
+            "EndOffset": 91
+        }
+    ]
+}

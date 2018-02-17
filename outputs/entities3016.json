@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9555596113204956,
+            "Type": "PERSON",
+            "Text": "@BraddJaffy",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7734331488609314,
+            "Type": "PERSON",
+            "Text": "Sorkin",
+            "BeginOffset": 16,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9953498840332031,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 29,
+            "EndOffset": 34
+        }
+    ]
+}

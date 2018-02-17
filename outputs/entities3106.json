@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8425765633583069,
+            "Type": "PERSON",
+            "Text": "@halosday",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.5747038125991821,
+            "Type": "PERSON",
+            "Text": "LEIBERMAN",
+            "BeginOffset": 20,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.7660876512527466,
+            "Type": "LOCATION",
+            "Text": "JERUSALEM",
+            "BeginOffset": 105,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.9806491136550903,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

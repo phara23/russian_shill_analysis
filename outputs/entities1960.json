@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8056182861328125,
+            "Type": "PERSON",
+            "Text": "@LadyLiberTea",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8970365524291992,
+            "Type": "PERSON",
+            "Text": "@TRobinsonNewEra",
+            "BeginOffset": 19,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.866403341293335,
+            "Type": "PERSON",
+            "Text": "@RebellionReport",
+            "BeginOffset": 36,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.999932050704956,
+            "Type": "OTHER",
+            "Text": "https://t.co/2IwmH8uRMU",
+            "BeginOffset": 60,
+            "EndOffset": 83
+        }
+    ]
+}

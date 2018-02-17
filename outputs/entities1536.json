@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9231433272361755,
+            "Type": "PERSON",
+            "Text": "@jalloyd4",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9257953763008118,
+            "Type": "PERSON",
+            "Text": "Stein",
+            "BeginOffset": 14,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8738589882850647,
+            "Type": "PERSON",
+            "Text": "@RachaelRevesz",
+            "BeginOffset": 106,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.7690203189849854,
+            "Type": "PERSON",
+            "Text": "@Independent",
+            "BeginOffset": 121,
+            "EndOffset": 133
+        }
+    ]
+}

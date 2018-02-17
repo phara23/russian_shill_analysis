@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9829329252243042,
+            "Type": "OTHER",
+            "Text": "https://t.co/mzXF2J9B2O",
+            "BeginOffset": 33,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.3354443311691284,
+            "Type": "LOCATION",
+            "Text": "#OAS",
+            "BeginOffset": 57,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9863302707672119,
+            "Type": "DATE",
+            "Text": "2014",
+            "BeginOffset": 61,
+            "EndOffset": 65
+        }
+    ]
+}

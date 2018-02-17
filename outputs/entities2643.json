@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7311992645263672,
+            "Type": "PERSON",
+            "Text": "@COMPUTERBILD",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.6761294007301331,
+            "Type": "PERSON",
+            "Text": "K�ln",
+            "BeginOffset": 18,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.6381798386573792,
+            "Type": "OTHER",
+            "Text": "50667",
+            "BeginOffset": 23,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9643679857254028,
+            "Type": "OTHER",
+            "Text": "https://t.co/GYv07BW2VE",
+            "BeginOffset": 79,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.9999783039093018,
+            "Type": "OTHER",
+            "Text": "https://t.co/ENt1bLRJdD",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        }
+    ]
+}

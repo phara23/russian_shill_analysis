@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.48311227560043335,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.703887939453125,
+            "Type": "ORGANIZATION",
+            "Text": "@StandUpNOW4",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8137286305427551,
+            "Type": "LOCATION",
+            "Text": "usa",
+            "BeginOffset": 15,
+            "EndOffset": 18
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7457674145698547,
+            "Type": "PERSON",
+            "Text": "@DollaBlackBDE",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.743918240070343,
+            "Type": "OTHER",
+            "Text": "#A3C",
+            "BeginOffset": 19,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9997619986534119,
+            "Type": "OTHER",
+            "Text": "https://t.co/yFfLhCWn7O",
+            "BeginOffset": 40,
+            "EndOffset": 63
+        }
+    ]
+}

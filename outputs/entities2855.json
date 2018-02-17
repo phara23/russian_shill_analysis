@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8060097694396973,
+            "Type": "PERSON",
+            "Text": "@_Makada",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9997968077659607,
+            "Type": "PERSON",
+            "Text": "Joe Biden",
+            "BeginOffset": 14,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9950172305107117,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 50,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.8463488817214966,
+            "Type": "OTHER",
+            "Text": "https://t.co/eUtGQnD7Pt",
+            "BeginOffset": 92,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.9999477863311768,
+            "Type": "OTHER",
+            "Text": "https://t.co/PzZvQo3OsS",
+            "BeginOffset": 116,
+            "EndOffset": 139
+        }
+    ]
+}

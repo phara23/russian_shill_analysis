@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9481239914894104,
+            "Type": "PERSON",
+            "Text": "@tlamb775",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9774657487869263,
+            "Type": "OTHER",
+            "Text": "https://t.co/x4JMlqmOz3",
+            "BeginOffset": 77,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.9869028329849243,
+            "Type": "ORGANIZATION",
+            "Text": "@AOL",
+            "BeginOffset": 105,
+            "EndOffset": 109
+        }
+    ]
+}

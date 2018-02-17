@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9331988096237183,
+            "Type": "PERSON",
+            "Text": "@BenjaminEnfield",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9720453023910522,
+            "Type": "PERSON",
+            "Text": "Tyler",
+            "BeginOffset": 21,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9317699074745178,
+            "Type": "PERSON",
+            "Text": "Frank Ocean",
+            "BeginOffset": 46,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9369558691978455,
+            "Type": "PERSON",
+            "Text": "Erykah Badu",
+            "BeginOffset": 71,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.5145093202590942,
+            "Type": "LOCATION",
+            "Text": "LA",
+            "BeginOffset": 86,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.8557253479957581,
+            "Type": "OTHER",
+            "Text": "https://t.co/FEMv5KWG3H",
+            "BeginOffset": 89,
+            "EndOffset": 112
+        }
+    ]
+}

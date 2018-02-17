@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9083704352378845,
+            "Type": "PERSON",
+            "Text": "@Peggynoonannyc",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8201392292976379,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 44,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9382348656654358,
+            "Type": "PERSON",
+            "Text": "@peggynoonannyc",
+            "BeginOffset": 63,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.978202760219574,
+            "Type": "OTHER",
+            "Text": "https://t.co/SaoPpN7dfc",
+            "BeginOffset": 79,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.9717470407485962,
+            "Type": "ORGANIZATION",
+            "Text": "@WSJ",
+            "BeginOffset": 107,
+            "EndOffset": 111
+        }
+    ]
+}

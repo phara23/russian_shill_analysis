@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8514788150787354,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8132131695747375,
+            "Type": "ORGANIZATION",
+            "Text": "US Muslim",
+            "BeginOffset": 24,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9645673632621765,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 55,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.933340311050415,
+            "Type": "OTHER",
+            "Text": "https://t.co/vP9nrlBLQr",
+            "BeginOffset": 81,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.7925017476081848,
+            "Type": "ORGANIZATION",
+            "Text": "@BBC5Live",
+            "BeginOffset": 105,
+            "EndOffset": 114
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7126979231834412,
+            "Type": "PERSON",
+            "Text": "@indistarr",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8674880266189575,
+            "Type": "PERSON",
+            "Text": "@SinCityChiGirl",
+            "BeginOffset": 15,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9651187062263489,
+            "Type": "PERSON",
+            "Text": "@GhoulishSirena",
+            "BeginOffset": 31,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9997267127037048,
+            "Type": "OTHER",
+            "Text": "https://t.co/ZVyIlAVbzq",
+            "BeginOffset": 51,
+            "EndOffset": 74
+        }
+    ]
+}

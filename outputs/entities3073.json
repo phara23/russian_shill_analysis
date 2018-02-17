@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.699003279209137,
+            "Type": "ORGANIZATION",
+            "Text": "@actualGOP",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9128298759460449,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 15,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9997702240943909,
+            "Type": "OTHER",
+            "Text": "https://t.co/1hfFTsfwxw",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        }
+    ]
+}

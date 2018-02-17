@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8537331819534302,
+            "Type": "PERSON",
+            "Text": "@BasicBlaecGirl",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9865259528160095,
+            "Type": "LOCATION",
+            "Text": "United States",
+            "BeginOffset": 109,
+            "EndOffset": 122
+        }
+    ]
+}

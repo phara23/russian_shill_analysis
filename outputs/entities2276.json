@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8928455114364624,
+            "Type": "PERSON",
+            "Text": "@DickZucker",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9858114719390869,
+            "Type": "LOCATION",
+            "Text": "NYC",
+            "BeginOffset": 37,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9933127760887146,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 55,
+            "EndOffset": 62
+        }
+    ]
+}

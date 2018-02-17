@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8868077397346497,
+            "Type": "PERSON",
+            "Text": "@BillyAllmon",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9611663222312927,
+            "Type": "ORGANIZATION",
+            "Text": "CNN",
+            "BeginOffset": 17,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.9783337116241455,
+            "Type": "ORGANIZATION",
+            "Text": "CNN",
+            "BeginOffset": 56,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.9883716702461243,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 94,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.7987428307533264,
+            "Type": "LOCATION",
+            "Text": "Atlanta",
+            "BeginOffset": 114,
+            "EndOffset": 121
+        },
+        {
+            "Score": 0.9963370561599731,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 135,
+            "EndOffset": 140
+        }
+    ]
+}

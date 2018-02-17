@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8632680773735046,
+            "Type": "PERSON",
+            "Text": "@rustyrockets",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9999464750289917,
+            "Type": "OTHER",
+            "Text": "https://t.co/CwzZPXnLhV",
+            "BeginOffset": 106,
+            "EndOffset": 129
+        }
+    ]
+}

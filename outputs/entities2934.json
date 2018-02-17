@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7429668307304382,
+            "Type": "PERSON",
+            "Text": "@MaryPatriotNews",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.884040117263794,
+            "Type": "OTHER",
+            "Text": "https://t.co/VgWC0VKnkA",
+            "BeginOffset": 46,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9868985414505005,
+            "Type": "OTHER",
+            "Text": "https://t.co/wRzbclnqlx",
+            "BeginOffset": 70,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.3928781747817993,
+            "Type": "ORGANIZATION",
+            "Text": "#OBAMA",
+            "BeginOffset": 94,
+            "EndOffset": 100
+        }
+    ]
+}

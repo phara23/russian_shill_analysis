@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.974751353263855,
+            "Type": "PERSON",
+            "Text": "@DonaldJTrumpJr",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.5415000915527344,
+            "Type": "LOCATION",
+            "Text": "American",
+            "BeginOffset": 109,
+            "EndOffset": 117
+        }
+    ]
+}

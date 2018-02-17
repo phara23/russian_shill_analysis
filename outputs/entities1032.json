@@ -1,0 +1,67 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9063881635665894,
+            "Type": "PERSON",
+            "Text": "@JAMSRIDE",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9838042855262756,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 14,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9577584266662598,
+            "Type": "PERSON",
+            "Text": "David Bowie",
+            "BeginOffset": 56,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.580940842628479,
+            "Type": "PERSON",
+            "Text": "Price George",
+            "BeginOffset": 68,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.9608929753303528,
+            "Type": "PERSON",
+            "Text": "Michaels Ali",
+            "BeginOffset": 81,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.9951417446136475,
+            "Type": "PERSON",
+            "Text": "Nancy Reagan",
+            "BeginOffset": 94,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.9832112789154053,
+            "Type": "PERSON",
+            "Text": "Patty Duke",
+            "BeginOffset": 107,
+            "EndOffset": 117
+        },
+        {
+            "Score": 0.9936438798904419,
+            "Type": "PERSON",
+            "Text": "Gwen Ifill",
+            "BeginOffset": 118,
+            "EndOffset": 128
+        },
+        {
+            "Score": 0.9984970688819885,
+            "Type": "PERSON",
+            "Text": "John Glenn",
+            "BeginOffset": 129,
+            "EndOffset": 139
+        }
+    ]
+}

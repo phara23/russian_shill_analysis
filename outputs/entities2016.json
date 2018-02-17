@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.626862645149231,
+            "Type": "ORGANIZATION",
+            "Text": "Crossroads Mall",
+            "BeginOffset": 13,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.6546270847320557,
+            "Type": "ORGANIZATION",
+            "Text": "USPSA",
+            "BeginOffset": 42,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.870337724685669,
+            "Type": "QUANTITY",
+            "Text": "3-gun",
+            "BeginOffset": 60,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9999710321426392,
+            "Type": "OTHER",
+            "Text": "https://t.co/OsTeolzKz7",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        }
+    ]
+}

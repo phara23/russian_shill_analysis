@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8818746209144592,
+            "Type": "PERSON",
+            "Text": "@RealJamesWoods",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.5293254852294922,
+            "Type": "ORGANIZATION",
+            "Text": "Intel",
+            "BeginOffset": 20,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.995388388633728,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 38,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.7819933295249939,
+            "Type": "QUANTITY",
+            "Text": "first swamp",
+            "BeginOffset": 82,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.9845592975616455,
+            "Type": "DATE",
+            "Text": "January 21",
+            "BeginOffset": 111,
+            "EndOffset": 121
+        },
+        {
+            "Score": 0.9695360064506531,
+            "Type": "OTHER",
+            "Text": "https://t.co/1st",
+            "BeginOffset": 123,
+            "EndOffset": 139
+        }
+    ]
+}

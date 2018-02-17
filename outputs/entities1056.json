@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8370078802108765,
+            "Type": "PERSON",
+            "Text": "@WorldTruthTV",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9962041974067688,
+            "Type": "PERSON",
+            "Text": "Janet Napolitano",
+            "BeginOffset": 18,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9988527297973633,
+            "Type": "OTHER",
+            "Text": "https://t.co/yTBGgOoluy",
+            "BeginOffset": 70,
+            "EndOffset": 93
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7453311085700989,
+            "Type": "PERSON",
+            "Text": "@BILD",
+            "BeginOffset": 3,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.8660215735435486,
+            "Type": "OTHER",
+            "Text": "https://t.co/hTQLlBbQAW",
+            "BeginOffset": 72,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.9997062087059021,
+            "Type": "OTHER",
+            "Text": "https://t.co/rBHcPldZIr",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        }
+    ]
+}

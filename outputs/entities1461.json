@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9011681079864502,
+            "Type": "PERSON",
+            "Text": "@LordLuminous",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8796855211257935,
+            "Type": "ORGANIZATION",
+            "Text": "#SoundCloud",
+            "BeginOffset": 83,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.8922339677810669,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

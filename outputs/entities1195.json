@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7526975870132446,
+            "Type": "PERSON",
+            "Text": "@Rigged_It",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9539949297904968,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 90,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.8368155360221863,
+            "Type": "OTHER",
+            "Text": "https://t.co/UtQkrKtcqE",
+            "BeginOffset": 112,
+            "EndOffset": 135
+        }
+    ]
+}

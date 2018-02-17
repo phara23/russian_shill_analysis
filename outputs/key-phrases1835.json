@@ -1,0 +1,40 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9489295482635498,
+            "Text": "RT @BlackToLive",
+            "BeginOffset": 0,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9994274973869324,
+            "Text": "a hashtag",
+            "BeginOffset": 33,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9936421513557434,
+            "Text": "a phone number",
+            "BeginOffset": 49,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9725138545036316,
+            "Text": "Rest",
+            "BeginOffset": 78,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.9353623986244202,
+            "Text": "Peace",
+            "BeginOffset": 86,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.9928712248802185,
+            "Text": "Young Person",
+            "BeginOffset": 93,
+            "EndOffset": 105
+        }
+    ]
+}

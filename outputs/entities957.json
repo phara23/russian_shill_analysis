@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.43934860825538635,
+            "Type": "ORGANIZATION",
+            "Text": "Muslim",
+            "BeginOffset": 0,
+            "EndOffset": 6
+        },
+        {
+            "Score": 0.9702450633049011,
+            "Type": "ORGANIZATION",
+            "Text": "Uber",
+            "BeginOffset": 7,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9556969404220581,
+            "Type": "QUANTITY",
+            "Text": "17-year-old",
+            "BeginOffset": 25,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9991119503974915,
+            "Type": "OTHER",
+            "Text": "https://t.co/foCVvJVhFf",
+            "BeginOffset": 87,
+            "EndOffset": 110
+        }
+    ]
+}

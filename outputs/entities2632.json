@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.989216685295105,
+            "Type": "LOCATION",
+            "Text": "Ohio",
+            "BeginOffset": 61,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9998445510864258,
+            "Type": "PERSON",
+            "Text": "Frank LaRose",
+            "BeginOffset": 87,
+            "EndOffset": 99
+        }
+    ]
+}

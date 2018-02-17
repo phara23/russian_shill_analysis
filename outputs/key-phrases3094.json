@@ -1,0 +1,34 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9984081387519836,
+            "Text": "the sidewalks",
+            "BeginOffset": 10,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9995535016059875,
+            "Text": "this town",
+            "BeginOffset": 27,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.923225462436676,
+            "Text": "the sun",
+            "BeginOffset": 51,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.8730915784835815,
+            "Text": "nothin good",
+            "BeginOffset": 78,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.9094208478927612,
+            "Text": "midnight",
+            "BeginOffset": 108,
+            "EndOffset": 116
+        }
+    ]
+}

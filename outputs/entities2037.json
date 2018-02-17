@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.518096387386322,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.9080125093460083,
+            "Type": "PERSON",
+            "Text": "@Al_Gorelioni",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9997870922088623,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 45,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9976018667221069,
+            "Type": "PERSON",
+            "Text": "Barack Obama",
+            "BeginOffset": 65,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9707286357879639,
+            "Type": "PERSON",
+            "Text": "@ParaComedian09",
+            "BeginOffset": 78,
+            "EndOffset": 93
+        }
+    ]
+}

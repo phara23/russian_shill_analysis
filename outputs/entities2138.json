@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.864120364189148,
+            "Type": "PERSON",
+            "Text": "@Steven_Jacques1",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8114010691642761,
+            "Type": "OTHER",
+            "Text": "http://t.co/wvudRbHH5v",
+            "BeginOffset": 42,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9938448667526245,
+            "Type": "OTHER",
+            "Text": "http://t.co/LE8M1QqJGU",
+            "BeginOffset": 68,
+            "EndOffset": 90
+        }
+    ]
+}

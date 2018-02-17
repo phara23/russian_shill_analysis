@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9241301417350769,
+            "Type": "PERSON",
+            "Text": "@Patrici15767099",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9286978244781494,
+            "Type": "ORGANIZATION",
+            "Text": "Clinton Foundation",
+            "BeginOffset": 44,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9875959157943726,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 78,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.9827827215194702,
+            "Type": "OTHER",
+            "Text": "https://t.co/2OuD2zF9kK",
+            "BeginOffset": 99,
+            "EndOffset": 122
+        },
+        {
+            "Score": 0.923018753528595,
+            "Type": "ORGANIZATION",
+            "Text": "@MailOnline",
+            "BeginOffset": 127,
+            "EndOffset": 138
+        }
+    ]
+}

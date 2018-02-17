@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8569443821907043,
+            "Type": "PERSON",
+            "Text": "@katemosse",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.941548764705658,
+            "Type": "EVENT",
+            "Text": "#IWD2017",
+            "BeginOffset": 32,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.8359041213989258,
+            "Type": "PERSON",
+            "Text": "@BaileysPrize",
+            "BeginOffset": 62,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.8587615489959717,
+            "Type": "PERSON",
+            "Text": "@thekatiederham",
+            "BeginOffset": 101,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.9630988240242004,
+            "Type": "PERSON",
+            "Text": "@SamBaker",
+            "BeginOffset": 117,
+            "EndOffset": 126
+        },
+        {
+            "Score": 0.9610649347305298,
+            "Type": "PERSON",
+            "Text": "@sarapascoe",
+            "BeginOffset": 127,
+            "EndOffset": 138
+        }
+    ]
+}

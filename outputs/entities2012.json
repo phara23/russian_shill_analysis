@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9202376008033752,
+            "Type": "PERSON",
+            "Text": "@marjonnat",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9405355453491211,
+            "Type": "PERSON",
+            "Text": "@SpeakerRyan",
+            "BeginOffset": 72,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.7838886976242065,
+            "Type": "ORGANIZATION",
+            "Text": "@GOP",
+            "BeginOffset": 85,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.9358054995536804,
+            "Type": "PERSON",
+            "Text": "@mike_pence",
+            "BeginOffset": 90,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.7596820592880249,
+            "Type": "PERSON",
+            "Text": "@judge",
+            "BeginOffset": 102,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.9496369957923889,
+            "Type": "OTHER",
+            "Text": "https://t.co/JTkFRA9j",
+            "BeginOffset": 118,
+            "EndOffset": 139
+        }
+    ]
+}

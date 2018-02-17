@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9948283433914185,
+            "Type": "PERSON",
+            "Text": "Steph Curry",
+            "BeginOffset": 0,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9999253749847412,
+            "Type": "OTHER",
+            "Text": "https://t.co/V1qWoCHllX",
+            "BeginOffset": 37,
+            "EndOffset": 60
+        }
+    ]
+}

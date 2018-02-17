@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9059202075004578,
+            "Type": "PERSON",
+            "Text": "@aynrandfns",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.6171686053276062,
+            "Type": "OTHER",
+            "Text": "https://t.co/FyfTZI6mGt",
+            "BeginOffset": 43,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9999756813049316,
+            "Type": "OTHER",
+            "Text": "https://t.co/7UF2dl1fi5",
+            "BeginOffset": 67,
+            "EndOffset": 90
+        }
+    ]
+}

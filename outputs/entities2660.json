@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9436063170433044,
+            "Type": "PERSON",
+            "Text": "@kittykrumley",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.6114534139633179,
+            "Type": "PERSON",
+            "Text": "jello",
+            "BeginOffset": 69,
+            "EndOffset": 74
+        }
+    ]
+}

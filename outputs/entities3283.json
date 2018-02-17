@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.77702397108078,
+            "Type": "PERSON",
+            "Text": "@foxandfriends",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7387106418609619,
+            "Type": "ORGANIZATION",
+            "Text": "FOX NEWS",
+            "BeginOffset": 19,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.7553226947784424,
+            "Type": "QUANTITY",
+            "Text": "6 killed",
+            "BeginOffset": 35,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9047671556472778,
+            "Type": "LOCATION",
+            "Text": "Quebec City",
+            "BeginOffset": 47,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.7381476163864136,
+            "Type": "PERSON",
+            "Text": "Allahu Akbar",
+            "BeginOffset": 116,
+            "EndOffset": 128
+        },
+        {
+            "Score": 0.793111264705658,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 130,
+            "EndOffset": 139
+        }
+    ]
+}

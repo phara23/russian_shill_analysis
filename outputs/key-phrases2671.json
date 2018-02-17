@@ -1,0 +1,28 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9341800212860107,
+            "Text": "RT @MSNBC",
+            "BeginOffset": 0,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.742050290107727,
+            "Text": "Trump",
+            "BeginOffset": 11,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9790928959846497,
+            "Text": "executive orders",
+            "BeginOffset": 24,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9887483716011047,
+            "Text": "federal hiring",
+            "BeginOffset": 51,
+            "EndOffset": 65
+        }
+    ]
+}

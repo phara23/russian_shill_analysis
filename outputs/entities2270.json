@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8661702871322632,
+            "Type": "PERSON",
+            "Text": "@ARnews1936",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9317886233329773,
+            "Type": "ORGANIZATION",
+            "Text": "Fox News",
+            "BeginOffset": 17,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.8002623915672302,
+            "Type": "PERSON",
+            "Text": "Clinton Camp",
+            "BeginOffset": 67,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.9710755348205566,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 81,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.748660683631897,
+            "Type": "ORGANIZATION",
+            "Text": "W.H.",
+            "BeginOffset": 93,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.8511185050010681,
+            "Type": "ORGANIZATION",
+            "Text": "Rig Primary",
+            "BeginOffset": 101,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.9996951818466187,
+            "Type": "OTHER",
+            "Text": "https://t.co/tPvGxKhvw0",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        }
+    ]
+}

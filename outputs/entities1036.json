@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8511971831321716,
+            "Type": "PERSON",
+            "Text": "@OpFerguson",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9964849948883057,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 44,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9257213473320007,
+            "Type": "PERSON",
+            "Text": "@ErinMOD",
+            "BeginOffset": 71,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.9840543866157532,
+            "Type": "PERSON",
+            "Text": "@AllisonGrey",
+            "BeginOffset": 80,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.9759060740470886,
+            "Type": "PERSON",
+            "Text": "@Bro_Pair",
+            "BeginOffset": 93,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.8419955372810364,
+            "Type": "PERSON",
+            "Text": "@TheSoundOfEco",
+            "BeginOffset": 103,
+            "EndOffset": 117
+        }
+    ]
+}

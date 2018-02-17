@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7085906267166138,
+            "Type": "PERSON",
+            "Text": "Merkel",
+            "BeginOffset": 0,
+            "EndOffset": 6
+        },
+        {
+            "Score": 0.7352310419082642,
+            "Type": "PERSON",
+            "Text": "Freiheit",
+            "BeginOffset": 28,
+            "EndOffset": 36
+        }
+    ]
+}

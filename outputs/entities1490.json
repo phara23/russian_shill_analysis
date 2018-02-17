@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7873287796974182,
+            "Type": "PERSON",
+            "Text": "@ConstanceQueen8",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9259462952613831,
+            "Type": "ORGANIZATION",
+            "Text": "Chicago Police Department",
+            "BeginOffset": 21,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9999129772186279,
+            "Type": "OTHER",
+            "Text": "https://t.co/YlOMhMmTl6",
+            "BeginOffset": 92,
+            "EndOffset": 115
+        }
+    ]
+}

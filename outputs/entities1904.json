@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9081113338470459,
+            "Type": "PERSON",
+            "Text": "@tamaraleighllc",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.904840350151062,
+            "Type": "PERSON",
+            "Text": "@RonJohnsonWI",
+            "BeginOffset": 87,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.7978408336639404,
+            "Type": "PERSON",
+            "Text": "@GOP",
+            "BeginOffset": 101,
+            "EndOffset": 105
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9989940524101257,
+            "Type": "PERSON",
+            "Text": "Wanda Sykes",
+            "BeginOffset": 0,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9933799505233765,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 39,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9999450445175171,
+            "Type": "OTHER",
+            "Text": "https://t.co/IphbPyRQZ9",
+            "BeginOffset": 72,
+            "EndOffset": 95
+        }
+    ]
+}

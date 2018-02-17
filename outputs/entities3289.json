@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8572932481765747,
+            "Type": "PERSON",
+            "Text": "@comermd",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.31159302592277527,
+            "Type": "PERSON",
+            "Text": "Sherman",
+            "BeginOffset": 14,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.84344482421875,
+            "Type": "OTHER",
+            "Text": "2.0",
+            "BeginOffset": 22,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9959555864334106,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 28,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9443817734718323,
+            "Type": "OTHER",
+            "Text": "https://t.co",
+            "BeginOffset": 127,
+            "EndOffset": 139
+        }
+    ]
+}

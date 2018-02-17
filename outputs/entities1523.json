@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9364147186279297,
+            "Type": "PERSON",
+            "Text": "@KangarooCaught",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9852374792098999,
+            "Type": "PERSON",
+            "Text": "Adolf Hitler",
+            "BeginOffset": 27,
+            "EndOffset": 39
+        }
+    ]
+}

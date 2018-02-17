@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5529841184616089,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.6023804545402527,
+            "Type": "ORGANIZATION",
+            "Text": "@ArcticFox",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9972655773162842,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 13,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9990622997283936,
+            "Type": "PERSON",
+            "Text": "Chris Kyle",
+            "BeginOffset": 29,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.5919834971427917,
+            "Type": "LOCATION",
+            "Text": "Texas",
+            "BeginOffset": 48,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.8218074440956116,
+            "Type": "OTHER",
+            "Text": "http://t.co/AywEPxLSrU",
+            "BeginOffset": 89,
+            "EndOffset": 111
+        },
+        {
+            "Score": 0.9999465942382812,
+            "Type": "OTHER",
+            "Text": "http://t.co/uLb8QNObRa",
+            "BeginOffset": 112,
+            "EndOffset": 134
+        }
+    ]
+}

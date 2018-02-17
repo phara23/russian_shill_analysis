@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7742977738380432,
+            "Type": "PERSON",
+            "Text": "@Tevorbowles",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.900606632232666,
+            "Type": "PERSON",
+            "Text": "@PrisonPlanet",
+            "BeginOffset": 17,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9704248905181885,
+            "Type": "PERSON",
+            "Text": "@DrJillStein",
+            "BeginOffset": 31,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9894998669624329,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 81,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9994495511054993,
+            "Type": "PERSON",
+            "Text": "Stein",
+            "BeginOffset": 96,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.9995500445365906,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 103,
+            "EndOffset": 110
+        }
+    ]
+}

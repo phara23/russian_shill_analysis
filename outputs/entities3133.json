@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8117502331733704,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9994833469390869,
+            "Type": "DATE",
+            "Text": "October 14, 1916",
+            "BeginOffset": 13,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9969471096992493,
+            "Type": "PERSON",
+            "Text": "Paul Robeson",
+            "BeginOffset": 31,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.966242790222168,
+            "Type": "OTHER",
+            "Text": "https://t.co/5Kh64mDM1o",
+            "BeginOffset": 75,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.7348104119300842,
+            "Type": "ORGANIZATION",
+            "Text": "@4BlackThen",
+            "BeginOffset": 99,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.998892605304718,
+            "Type": "OTHER",
+            "Text": "https://t.co/lVDnJkcVME",
+            "BeginOffset": 111,
+            "EndOffset": 134
+        }
+    ]
+}

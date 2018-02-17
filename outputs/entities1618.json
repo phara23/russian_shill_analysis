@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9338019490242004,
+            "Type": "DATE",
+            "Text": "Last Night",
+            "BeginOffset": 6,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9945787191390991,
+            "Type": "ORGANIZATION",
+            "Text": "FBI",
+            "BeginOffset": 21,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.996665358543396,
+            "Type": "PERSON",
+            "Text": "Bill Clinton",
+            "BeginOffset": 57,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9761667847633362,
+            "Type": "DATE",
+            "Text": "Today",
+            "BeginOffset": 78,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.9382712244987488,
+            "Type": "OTHER",
+            "Text": "https://t.co/KDnosP6pHQ",
+            "BeginOffset": 86,
+            "EndOffset": 109
+        },
+        {
+            "Score": 0.9999874830245972,
+            "Type": "OTHER",
+            "Text": "https://t.co/i6PLlzaef9",
+            "BeginOffset": 110,
+            "EndOffset": 133
+        }
+    ]
+}

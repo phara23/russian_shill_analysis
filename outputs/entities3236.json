@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8493994474411011,
+            "Type": "PERSON",
+            "Text": "@OnlineHouston",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8358829617500305,
+            "Type": "ORGANIZATION",
+            "Text": "Astros",
+            "BeginOffset": 19,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9884709715843201,
+            "Type": "PERSON",
+            "Text": "A.J. Hinch",
+            "BeginOffset": 34,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.7386553883552551,
+            "Type": "ORGANIZATION",
+            "Text": "Padres",
+            "BeginOffset": 53,
+            "EndOffset": 59
+        }
+    ]
+}

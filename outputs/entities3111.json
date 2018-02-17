@@ -1,0 +1,81 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7492632269859314,
+            "Type": "ORGANIZATION",
+            "Text": "@NBA",
+            "BeginOffset": 3,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.40278851985931396,
+            "Type": "PERSON",
+            "Text": "Dame",
+            "BeginOffset": 9,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9536052346229553,
+            "Type": "QUANTITY",
+            "Text": "10",
+            "BeginOffset": 20,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9891948699951172,
+            "Type": "PERSON",
+            "Text": "Russell",
+            "BeginOffset": 24,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.892074465751648,
+            "Type": "QUANTITY",
+            "Text": "10",
+            "BeginOffset": 36,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.846919059753418,
+            "Type": "PERSON",
+            "Text": "@trailblazers",
+            "BeginOffset": 40,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.7546250820159912,
+            "Type": "PERSON",
+            "Text": "@okcthunder 26",
+            "BeginOffset": 59,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.8364681005477905,
+            "Type": "QUANTITY",
+            "Text": "24",
+            "BeginOffset": 74,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.9287998080253601,
+            "Type": "QUANTITY",
+            "Text": "1",
+            "BeginOffset": 83,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.7615182399749756,
+            "Type": "ORGANIZATION",
+            "Text": "@NBAonTNT",
+            "BeginOffset": 88,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.9999535083770752,
+            "Type": "OTHER",
+            "Text": "https://t.co/4kbYyIW23g",
+            "BeginOffset": 99,
+            "EndOffset": 122
+        }
+    ]
+}

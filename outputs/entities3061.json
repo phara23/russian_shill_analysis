@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8966034054756165,
+            "Type": "PERSON",
+            "Text": "@PrisonPlanet",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9993636608123779,
+            "Type": "PERSON",
+            "Text": "Rudy Giuliani",
+            "BeginOffset": 18,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9923006296157837,
+            "Type": "LOCATION",
+            "Text": "New York",
+            "BeginOffset": 42,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9458793997764587,
+            "Type": "ORGANIZATION",
+            "Text": "Muslims",
+            "BeginOffset": 92,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.8622485995292664,
+            "Type": "DATE",
+            "Text": "9/11",
+            "BeginOffset": 112,
+            "EndOffset": 116
+        }
+    ]
+}

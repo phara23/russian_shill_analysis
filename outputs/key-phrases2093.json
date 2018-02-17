@@ -1,0 +1,28 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9998677968978882,
+            "Text": "Barack Obama",
+            "BeginOffset": 0,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.999231219291687,
+            "Text": "the case",
+            "BeginOffset": 19,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9037055373191833,
+            "Text": "Trump-ism –",
+            "BeginOffset": 36,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9009726643562317,
+            "Text": "Donald",
+            "BeginOffset": 52,
+            "EndOffset": 58
+        }
+    ]
+}

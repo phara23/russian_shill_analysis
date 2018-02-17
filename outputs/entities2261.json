@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8386127948760986,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8821985721588135,
+            "Type": "QUANTITY",
+            "Text": "More than 27,000",
+            "BeginOffset": 15,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.5476503968238831,
+            "Type": "OTHER",
+            "Text": "Virginians",
+            "BeginOffset": 32,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9741902351379395,
+            "Type": "OTHER",
+            "Text": "https://t.co/jCAMGGHwaa",
+            "BeginOffset": 55,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.8009193539619446,
+            "Type": "PERSON",
+            "Text": "@WUSA9Mornings",
+            "BeginOffset": 79,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.999948263168335,
+            "Type": "OTHER",
+            "Text": "https://t.co/qLMzFKDvt6",
+            "BeginOffset": 94,
+            "EndOffset": 117
+        }
+    ]
+}

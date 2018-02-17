@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.77093905210495,
+            "Type": "PERSON",
+            "Text": "@indigenous01",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7775551676750183,
+            "Type": "ORGANIZATION",
+            "Text": "Christians",
+            "BeginOffset": 64,
+            "EndOffset": 74
+        }
+    ]
+}

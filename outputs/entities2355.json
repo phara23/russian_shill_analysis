@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8690856695175171,
+            "Type": "PERSON",
+            "Text": "@DropThe_Mic",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8831210136413574,
+            "Type": "QUANTITY",
+            "Text": "60 foster kids",
+            "BeginOffset": 115,
+            "EndOffset": 129
+        }
+    ]
+}

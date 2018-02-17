@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8463365435600281,
+            "Type": "PERSON",
+            "Text": "@JoscoJVTeam",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8282073140144348,
+            "Type": "PERSON",
+            "Text": "@TheMorningSpew",
+            "BeginOffset": 17,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9451857805252075,
+            "Type": "PERSON",
+            "Text": "@brittanynb_",
+            "BeginOffset": 33,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.8328219056129456,
+            "Type": "PERSON",
+            "Text": "@TOMFORD",
+            "BeginOffset": 46,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9992124438285828,
+            "Type": "PERSON",
+            "Text": "Tom Ford",
+            "BeginOffset": 80,
+            "EndOffset": 88
+        }
+    ]
+}

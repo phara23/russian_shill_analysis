@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6783479452133179,
+            "Type": "ORGANIZATION",
+            "Text": "@Independent",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7204793691635132,
+            "Type": "QUANTITY",
+            "Text": "First celebrity chef",
+            "BeginOffset": 17,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9987818598747253,
+            "Type": "PERSON",
+            "Text": "Marguerite Patten",
+            "BeginOffset": 38,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9559036493301392,
+            "Type": "OTHER",
+            "Text": "http://t.co/bix8BipXM2",
+            "BeginOffset": 65,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.9999743700027466,
+            "Type": "OTHER",
+            "Text": "http://t.co/i8NkU1lzPm",
+            "BeginOffset": 88,
+            "EndOffset": 110
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9224164485931396,
+            "Type": "PERSON",
+            "Text": "@khanknee",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.591261088848114,
+            "Type": "QUANTITY",
+            "Text": "two",
+            "BeginOffset": 16,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8586471676826477,
+            "Type": "PERSON",
+            "Text": "@DarlingEbony",
+            "BeginOffset": 102,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.9075679779052734,
+            "Type": "PERSON",
+            "Text": "@ChantaBSN",
+            "BeginOffset": 116,
+            "EndOffset": 126
+        },
+        {
+            "Score": 0.9309137463569641,
+            "Type": "PERSON",
+            "Text": "@NuBlackVisi",
+            "BeginOffset": 127,
+            "EndOffset": 139
+        }
+    ]
+}

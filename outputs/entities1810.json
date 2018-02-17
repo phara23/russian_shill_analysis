@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8666238784790039,
+            "Type": "PERSON",
+            "Text": "@jstines3",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.714514434337616,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 21,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9887274503707886,
+            "Type": "OTHER",
+            "Text": "https://t.co/gnX55o",
+            "BeginOffset": 120,
+            "EndOffset": 139
+        }
+    ]
+}

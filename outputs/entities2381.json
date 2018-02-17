@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8372403383255005,
+            "Type": "PERSON",
+            "Text": "@SandraTXAS",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8176687359809875,
+            "Type": "OTHER",
+            "Text": "Jews",
+            "BeginOffset": 16,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.7176088094711304,
+            "Type": "LOCATION",
+            "Text": "Israel",
+            "BeginOffset": 26,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.7501586079597473,
+            "Type": "ORGANIZATION",
+            "Text": "Muslim",
+            "BeginOffset": 49,
+            "EndOffset": 55
+        }
+    ]
+}

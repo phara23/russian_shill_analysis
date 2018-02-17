@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9307182431221008,
+            "Type": "PERSON",
+            "Text": "@AngryCBrown",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.944744884967804,
+            "Type": "LOCATION",
+            "Text": "Chicago",
+            "BeginOffset": 114,
+            "EndOffset": 121
+        },
+        {
+            "Score": 0.9740521311759949,
+            "Type": "OTHER",
+            "Text": "https://t.co/uRVg",
+            "BeginOffset": 122,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5093463659286499,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.870943546295166,
+            "Type": "ORGANIZATION",
+            "Text": "@TEK_OG",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9035869836807251,
+            "Type": "ORGANIZATION",
+            "Text": "@Coco_Wms",
+            "BeginOffset": 12,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.8046619892120361,
+            "Type": "ORGANIZATION",
+            "Text": "@TheOneTrueYaya",
+            "BeginOffset": 22,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9248892664909363,
+            "Type": "ORGANIZATION",
+            "Text": "@Budda_Fly",
+            "BeginOffset": 39,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.8690052032470703,
+            "Type": "ORGANIZATION",
+            "Text": "@TheMelaninPlug",
+            "BeginOffset": 50,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.8879042267799377,
+            "Type": "ORGANIZATION",
+            "Text": "@MrsYoVi",
+            "BeginOffset": 66,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.8547135591506958,
+            "Type": "ORGANIZATION",
+            "Text": "@khanknee",
+            "BeginOffset": 76,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.9620546698570251,
+            "Type": "ORGANIZATION",
+            "Text": "@MissConception0",
+            "BeginOffset": 86,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.939149022102356,
+            "Type": "ORGANIZATION",
+            "Text": "@brownblaze",
+            "BeginOffset": 104,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.8996641635894775,
+            "Type": "ORGANIZATION",
+            "Text": "@jboogiebrown2",
+            "BeginOffset": 116,
+            "EndOffset": 130
+        },
+        {
+            "Score": 0.959757387638092,
+            "Type": "ORGANIZATION",
+            "Text": "@bad_dom",
+            "BeginOffset": 131,
+            "EndOffset": 139
+        }
+    ]
+}

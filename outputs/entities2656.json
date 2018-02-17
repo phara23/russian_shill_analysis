@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.518925130367279,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.9684679508209229,
+            "Type": "PERSON",
+            "Text": "@Dean_TenBrink",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6533991098403931,
+            "Type": "QUANTITY",
+            "Text": "1000",
+            "BeginOffset": 75,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.608260989189148,
+            "Type": "EVENT",
+            "Text": "Thanksgiving",
+            "BeginOffset": 97,
+            "EndOffset": 109
+        }
+    ]
+}

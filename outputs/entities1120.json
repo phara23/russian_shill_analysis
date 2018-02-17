@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9085031151771545,
+            "Type": "PERSON",
+            "Text": "@IvySpeaker",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9997351765632629,
+            "Type": "OTHER",
+            "Text": "https://t.co/X6A3KadPyB",
+            "BeginOffset": 76,
+            "EndOffset": 99
+        }
+    ]
+}

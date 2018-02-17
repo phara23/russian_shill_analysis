@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.798442006111145,
+            "Type": "PERSON",
+            "Text": "@Winning_Dems",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9885872006416321,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 18,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9935717582702637,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 44,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.8649455904960632,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 63,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.917977511882782,
+            "Type": "ORGANIZATION",
+            "Text": "Congress",
+            "BeginOffset": 76,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.7492872476577759,
+            "Type": "OTHER",
+            "Text": "https://t.co/nvn6nHMEcR",
+            "BeginOffset": 85,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.9999916553497314,
+            "Type": "OTHER",
+            "Text": "https://t.co/HKgEo8evjF",
+            "BeginOffset": 109,
+            "EndOffset": 132
+        }
+    ]
+}

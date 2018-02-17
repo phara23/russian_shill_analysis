@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9079891443252563,
+            "Type": "PERSON",
+            "Text": "@DrJillStein",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9761216640472412,
+            "Type": "PERSON",
+            "Text": "Reagan",
+            "BeginOffset": 31,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9993215799331665,
+            "Type": "PERSON",
+            "Text": "John Anderson",
+            "BeginOffset": 56,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9957324862480164,
+            "Type": "DATE",
+            "Text": "1980",
+            "BeginOffset": 95,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.9711623191833496,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 114,
+            "EndOffset": 130
+        }
+    ]
+}

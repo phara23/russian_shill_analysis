@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7079493403434753,
+            "Type": "PERSON",
+            "Text": "@playing4",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9854820966720581,
+            "Type": "PERSON",
+            "Text": "Jake Shimabukuro",
+            "BeginOffset": 55,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9998738765716553,
+            "Type": "OTHER",
+            "Text": "https://t.co/xt9lRywbh5",
+            "BeginOffset": 72,
+            "EndOffset": 95
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8249247074127197,
+            "Type": "PERSON",
+            "Text": "@gerfingerpoken",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9798285365104675,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 21,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.4841780364513397,
+            "Type": "ORGANIZATION",
+            "Text": "#NorthKorea",
+            "BeginOffset": 60,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.7642330527305603,
+            "Type": "COMMERCIAL_ITEM",
+            "Text": "ICBM - Flopping Aces",
+            "BeginOffset": 72,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.8068764805793762,
+            "Type": "OTHER",
+            "Text": "https://t.co/drN8GXEOcT",
+            "BeginOffset": 93,
+            "EndOffset": 116
+        }
+    ]
+}

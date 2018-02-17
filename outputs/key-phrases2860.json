@@ -1,0 +1,22 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9961832165718079,
+            "Text": "Trump",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9991114139556885,
+            "Text": "Clinton",
+            "BeginOffset": 14,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9415119290351868,
+            "Text": "‘bigotry’",
+            "BeginOffset": 25,
+            "EndOffset": 34
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8484782576560974,
+            "Type": "PERSON",
+            "Text": "@CocoaWench",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9818263053894043,
+            "Type": "LOCATION",
+            "Text": "China",
+            "BeginOffset": 59,
+            "EndOffset": 64
+        }
+    ]
+}

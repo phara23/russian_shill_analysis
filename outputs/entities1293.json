@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.849638819694519,
+            "Type": "PERSON",
+            "Text": "Bahrain Prince",
+            "BeginOffset": 0,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.991777777671814,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 33,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9970851540565491,
+            "Type": "QUANTITY",
+            "Text": "2 million",
+            "BeginOffset": 45,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9999423027038574,
+            "Type": "OTHER",
+            "Text": "https://t.co/Rvzx7A4pKc",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        }
+    ]
+}

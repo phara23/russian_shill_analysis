@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6556360721588135,
+            "Type": "PERSON",
+            "Text": "@VoidedTavy",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9055516123771667,
+            "Type": "PERSON",
+            "Text": "@ConsiderThis1",
+            "BeginOffset": 16,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9268900156021118,
+            "Type": "PERSON",
+            "Text": "@One_T_",
+            "BeginOffset": 31,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.931451678276062,
+            "Type": "PERSON",
+            "Text": "@amiraminiMD",
+            "BeginOffset": 39,
+            "EndOffset": 51
+        }
+    ]
+}

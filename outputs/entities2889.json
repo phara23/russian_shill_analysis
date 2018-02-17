@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8262149691581726,
+            "Type": "PERSON",
+            "Text": "@emmyrossum",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9647020101547241,
+            "Type": "PERSON",
+            "Text": "@mikestaton1",
+            "BeginOffset": 16,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.8250792622566223,
+            "Type": "PERSON",
+            "Text": "@washingtonpost",
+            "BeginOffset": 29,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9416776895523071,
+            "Type": "PERSON",
+            "Text": "Meryl",
+            "BeginOffset": 45,
+            "EndOffset": 50
+        }
+    ]
+}

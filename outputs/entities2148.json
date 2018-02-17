@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8686692714691162,
+            "Type": "PERSON",
+            "Text": "@RevClub_bay",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.5639550685882568,
+            "Type": "PERSON",
+            "Text": "#Trump",
+            "BeginOffset": 20,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.8865241408348083,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 91,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.9873855113983154,
+            "Type": "PERSON",
+            "Text": "Pence",
+            "BeginOffset": 97,
+            "EndOffset": 102
+        }
+    ]
+}

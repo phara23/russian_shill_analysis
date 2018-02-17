@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8133712410926819,
+            "Type": "PERSON",
+            "Text": "@AllenWestRepub",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9991011023521423,
+            "Type": "PERSON",
+            "Text": "Ben Carson",
+            "BeginOffset": 31,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9671176075935364,
+            "Type": "ORGANIZATION",
+            "Text": "CBS",
+            "BeginOffset": 52,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.766517698764801,
+            "Type": "TITLE",
+            "Text": "Face the Nation",
+            "BeginOffset": 57,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.9993870258331299,
+            "Type": "OTHER",
+            "Text": "http://t.co/fZnjmvZOrW",
+            "BeginOffset": 92,
+            "EndOffset": 114
+        }
+    ]
+}

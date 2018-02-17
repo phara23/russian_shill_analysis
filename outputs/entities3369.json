@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7829082608222961,
+            "Type": "ORGANIZATION",
+            "Text": "@K1erry",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9837823510169983,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 33,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9999545812606812,
+            "Type": "OTHER",
+            "Text": "https://t.co/LRK6LqYuiO",
+            "BeginOffset": 101,
+            "EndOffset": 124
+        }
+    ]
+}

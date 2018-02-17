@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9977904558181763,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.994125247001648,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 12,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9988154172897339,
+            "Type": "ORGANIZATION",
+            "Text": "ISIS",
+            "BeginOffset": 34,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.7915700078010559,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 70,
+            "EndOffset": 72
+        }
+    ]
+}

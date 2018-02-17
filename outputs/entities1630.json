@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6971390247344971,
+            "Type": "PERSON",
+            "Text": "@Ptheactress",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.5589140057563782,
+            "Type": "TITLE",
+            "Text": "yoga",
+            "BeginOffset": 52,
+            "EndOffset": 56
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8456612825393677,
+            "Type": "PERSON",
+            "Text": "@makebeatsnow",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9239200949668884,
+            "Type": "PERSON",
+            "Text": "Obi J",
+            "BeginOffset": 58,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9376345276832581,
+            "Type": "PERSON",
+            "Text": "@stephenslajuan",
+            "BeginOffset": 64,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.960345983505249,
+            "Type": "ORGANIZATION",
+            "Text": "#Facebook",
+            "BeginOffset": 83,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.9593926668167114,
+            "Type": "OTHER",
+            "Text": "https://t.co/IQTCelrddq",
+            "BeginOffset": 93,
+            "EndOffset": 116
+        }
+    ]
+}

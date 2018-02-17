@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8246569037437439,
+            "Type": "PERSON",
+            "Text": "@SnoopDogg",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.7361237406730652,
+            "Type": "OTHER",
+            "Text": "https://t.co/0LLRUR1yNy",
+            "BeginOffset": 15,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9999921321868896,
+            "Type": "OTHER",
+            "Text": "https://t.co/a8VAVq8Z6C",
+            "BeginOffset": 39,
+            "EndOffset": 62
+        }
+    ]
+}

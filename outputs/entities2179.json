@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8622135519981384,
+            "Type": "PERSON",
+            "Text": "@flemingjude",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7861818671226501,
+            "Type": "PERSON",
+            "Text": "Podesta",
+            "BeginOffset": 17,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9914446473121643,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 37,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.8212754130363464,
+            "Type": "LOCATION",
+            "Text": "Illinois",
+            "BeginOffset": 82,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9999197721481323,
+            "Type": "OTHER",
+            "Text": "https://t.co/4FSdYjZwx7",
+            "BeginOffset": 99,
+            "EndOffset": 122
+        }
+    ]
+}

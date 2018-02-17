@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9315497279167175,
+            "Type": "PERSON",
+            "Text": "@carrieffisher",
+            "BeginOffset": 0,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.4130900800228119,
+            "Type": "PERSON",
+            "Text": "gary",
+            "BeginOffset": 15,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.991188645362854,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 66,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9942448735237122,
+            "Type": "PERSON",
+            "Text": "Pence",
+            "BeginOffset": 72,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9449347257614136,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 78,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.9835546612739563,
+            "Type": "DATE",
+            "Text": "2024",
+            "BeginOffset": 83,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.668624997138977,
+            "Type": "ORGANIZATION",
+            "Text": "#TrumpPence16",
+            "BeginOffset": 90,
+            "EndOffset": 103
+        }
+    ]
+}

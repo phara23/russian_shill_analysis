@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9442887902259827,
+            "Type": "PERSON",
+            "Text": "@Cutepetsadamsco",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8398061990737915,
+            "Type": "OTHER",
+            "Text": "https://t.co/fVK3EhmONw",
+            "BeginOffset": 88,
+            "EndOffset": 111
+        },
+        {
+            "Score": 0.999983549118042,
+            "Type": "OTHER",
+            "Text": "https://t.co/2QxAKWvC2P",
+            "BeginOffset": 112,
+            "EndOffset": 135
+        }
+    ]
+}

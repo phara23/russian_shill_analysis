@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8789423108100891,
+            "Type": "PERSON",
+            "Text": "@oceanbcake",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.6633774638175964,
+            "Type": "ORGANIZATION",
+            "Text": "USFA",
+            "BeginOffset": 28,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9631214737892151,
+            "Type": "DATE",
+            "Text": "March",
+            "BeginOffset": 34,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9472928643226624,
+            "Type": "OTHER",
+            "Text": "https://t.co/itkV9SiPIW",
+            "BeginOffset": 64,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.9999681711196899,
+            "Type": "OTHER",
+            "Text": "https://t.co/iTyUqRT9xu",
+            "BeginOffset": 89,
+            "EndOffset": 112
+        }
+    ]
+}

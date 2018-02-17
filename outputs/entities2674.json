@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8390264511108398,
+            "Type": "PERSON",
+            "Text": "@gerfingerpoken",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.3326371908187866,
+            "Type": "ORGANIZATION",
+            "Text": "Clackamas",
+            "BeginOffset": 20,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9627887606620789,
+            "Type": "OTHER",
+            "Text": "https://t.co/wdsdHlXUwD",
+            "BeginOffset": 67,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.5225239396095276,
+            "Type": "OTHER",
+            "Text": "American",
+            "BeginOffset": 92,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.9948803186416626,
+            "Type": "OTHER",
+            "Text": "https://t.co/qDeGSVY3",
+            "BeginOffset": 118,
+            "EndOffset": 139
+        }
+    ]
+}

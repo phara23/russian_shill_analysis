@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6884546279907227,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.6086989045143127,
+            "Type": "ORGANIZATION",
+            "Text": "israel",
+            "BeginOffset": 28,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9731251001358032,
+            "Type": "OTHER",
+            "Text": "https://t.co/7igxrDM6E1",
+            "BeginOffset": 74,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.7955960631370544,
+            "Type": "PERSON",
+            "Text": "@MrNegroMilitant",
+            "BeginOffset": 98,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.9999673366546631,
+            "Type": "OTHER",
+            "Text": "https://t.co/QKCmTPOl0W",
+            "BeginOffset": 115,
+            "EndOffset": 138
+        }
+    ]
+}

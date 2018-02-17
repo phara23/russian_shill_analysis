@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9405996203422546,
+            "Type": "PERSON",
+            "Text": "@derrickwilburn",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.4463423490524292,
+            "Type": "PERSON",
+            "Text": "BO",
+            "BeginOffset": 66,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9992291331291199,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 103,
+            "EndOffset": 118
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9345940947532654,
+            "Type": "PERSON",
+            "Text": "@adamjohnsonNYC",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9951882362365723,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 20,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.5868667364120483,
+            "Type": "OTHER",
+            "Text": "Roman",
+            "BeginOffset": 41,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9689101576805115,
+            "Type": "PERSON",
+            "Text": "Commodus",
+            "BeginOffset": 57,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.99458909034729,
+            "Type": "PERSON",
+            "Text": "Nero",
+            "BeginOffset": 67,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9916327595710754,
+            "Type": "PERSON",
+            "Text": "Tiberius",
+            "BeginOffset": 76,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.99991774559021,
+            "Type": "OTHER",
+            "Text": "https://t.co/mVkfizpPth",
+            "BeginOffset": 85,
+            "EndOffset": 108
+        }
+    ]
+}

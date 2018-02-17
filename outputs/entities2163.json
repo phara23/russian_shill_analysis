@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8034546375274658,
+            "Type": "PERSON",
+            "Text": "@GottaLaff",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.2564487159252167,
+            "Type": "LOCATION",
+            "Text": "Dakota",
+            "BeginOffset": 32,
+            "EndOffset": 38
+        }
+    ]
+}

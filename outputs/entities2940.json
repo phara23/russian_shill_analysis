@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9987512826919556,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 5,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.5502870082855225,
+            "Type": "LOCATION",
+            "Text": "Russia",
+            "BeginOffset": 48,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.4781329929828644,
+            "Type": "ORGANIZATION",
+            "Text": "#DNCleak",
+            "BeginOffset": 59,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9999047517776489,
+            "Type": "OTHER",
+            "Text": "https://t.co/qMuqld2gLh",
+            "BeginOffset": 69,
+            "EndOffset": 92
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9926073551177979,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.741066575050354,
+            "Type": "LOCATION",
+            "Text": "Town Hall",
+            "BeginOffset": 9,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9933816194534302,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 58,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9819946885108948,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 68,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.9913880228996277,
+            "Type": "ORGANIZATION",
+            "Text": "ISIS",
+            "BeginOffset": 76,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.9997367262840271,
+            "Type": "OTHER",
+            "Text": "https://t.co/kATuWs0kZG",
+            "BeginOffset": 115,
+            "EndOffset": 138
+        }
+    ]
+}

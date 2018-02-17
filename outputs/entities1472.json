@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9282687306404114,
+            "Type": "PERSON",
+            "Text": "President Obama",
+            "BeginOffset": 0,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9616244435310364,
+            "Type": "LOCATION",
+            "Text": "Louisiana",
+            "BeginOffset": 25,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.7107921242713928,
+            "Type": "OTHER",
+            "Text": "https://t.co/FffhLwRHrx",
+            "BeginOffset": 66,
+            "EndOffset": 89
+        }
+    ]
+}

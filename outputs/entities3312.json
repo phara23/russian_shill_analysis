@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9269347190856934,
+            "Type": "PERSON",
+            "Text": "@kayleighmcenany",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.884246826171875,
+            "Type": "PERSON",
+            "Text": "TRUMP",
+            "BeginOffset": 21,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9950131773948669,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 33,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.5315808057785034,
+            "Type": "OTHER",
+            "Text": "Islamic",
+            "BeginOffset": 56,
+            "EndOffset": 63
+        }
+    ]
+}

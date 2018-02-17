@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8292209506034851,
+            "Type": "PERSON",
+            "Text": "@IndyUSA",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9525063037872314,
+            "Type": "QUANTITY",
+            "Text": "1,000+ days",
+            "BeginOffset": 27,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.5998296737670898,
+            "Type": "LOCATION",
+            "Text": "Rikers",
+            "BeginOffset": 54,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.8853957653045654,
+            "Type": "OTHER",
+            "Text": "http://t.co/iBEZjHwriJ",
+            "BeginOffset": 95,
+            "EndOffset": 117
+        },
+        {
+            "Score": 0.9999679327011108,
+            "Type": "OTHER",
+            "Text": "http://t.co/4HviEljhwZ",
+            "BeginOffset": 118,
+            "EndOffset": 140
+        }
+    ]
+}

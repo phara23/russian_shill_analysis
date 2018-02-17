@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7669239044189453,
+            "Type": "PERSON",
+            "Text": "@GrindDailyTweet",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9997597336769104,
+            "Type": "OTHER",
+            "Text": "http://t.co/go6YnJb9Br",
+            "BeginOffset": 74,
+            "EndOffset": 96
+        }
+    ]
+}

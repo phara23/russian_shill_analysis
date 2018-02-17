@@ -1,0 +1,28 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9873121380805969,
+            "Text": "no dishonor",
+            "BeginOffset": 9,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.9992384910583496,
+            "Text": "the race",
+            "BeginOffset": 31,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.8657166957855225,
+            "Text": "only dishonor",
+            "BeginOffset": 50,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.8457892537117004,
+            "Text": "not racing",
+            "BeginOffset": 67,
+            "EndOffset": 77
+        }
+    ]
+}

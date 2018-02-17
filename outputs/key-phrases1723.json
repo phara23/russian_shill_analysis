@@ -1,0 +1,28 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9938576817512512,
+            "Text": "Russians",
+            "BeginOffset": 0,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.5425245761871338,
+            "Text": "Trump",
+            "BeginOffset": 10,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.6462383270263672,
+            "Text": "fun",
+            "BeginOffset": 22,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9226068258285522,
+            "Text": "Clinton",
+            "BeginOffset": 32,
+            "EndOffset": 39
+        }
+    ]
+}

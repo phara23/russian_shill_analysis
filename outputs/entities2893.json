@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8855604529380798,
+            "Type": "PERSON",
+            "Text": "@USAHipster",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9842342734336853,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 16,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9994937181472778,
+            "Type": "OTHER",
+            "Text": "https://t.co/AUx0AVNKqp",
+            "BeginOffset": 92,
+            "EndOffset": 115
+        }
+    ]
+}

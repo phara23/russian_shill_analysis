@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9236843585968018,
+            "Type": "PERSON",
+            "Text": "@carolinagirl63",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.5635571479797363,
+            "Type": "PERSON",
+            "Text": "#Trump",
+            "BeginOffset": 25,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.6523280143737793,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 38,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9991626739501953,
+            "Type": "ORGANIZATION",
+            "Text": "ISIS",
+            "BeginOffset": 59,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.791487455368042,
+            "Type": "LOCATION",
+            "Text": "Minnesota",
+            "BeginOffset": 90,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.9803774952888489,
+            "Type": "OTHER",
+            "Text": "https://t.co/7uURwf",
+            "BeginOffset": 120,
+            "EndOffset": 139
+        }
+    ]
+}

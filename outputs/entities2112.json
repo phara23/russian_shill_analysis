@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8095950484275818,
+            "Type": "PERSON",
+            "Text": "@gongoozles",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9661921858787537,
+            "Type": "PERSON",
+            "Text": "trump",
+            "BeginOffset": 55,
+            "EndOffset": 60
+        }
+    ]
+}

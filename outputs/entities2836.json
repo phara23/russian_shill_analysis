@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9394410848617554,
+            "Type": "PERSON",
+            "Text": "@mrdaveyd",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9961017370223999,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 14,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9924894571304321,
+            "Type": "ORGANIZATION",
+            "Text": "FBI",
+            "BeginOffset": 74,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9854580163955688,
+            "Type": "PERSON",
+            "Text": "Comey",
+            "BeginOffset": 87,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.5990382432937622,
+            "Type": "ORGANIZATION",
+            "Text": "HRC",
+            "BeginOffset": 119,
+            "EndOffset": 122
+        },
+        {
+            "Score": 0.9842797517776489,
+            "Type": "OTHER",
+            "Text": "https://t.co/33TB7ty",
+            "BeginOffset": 123,
+            "EndOffset": 143
+        }
+    ]
+}

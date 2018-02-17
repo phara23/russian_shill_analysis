@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8209197521209717,
+            "Type": "PERSON",
+            "Text": "@Relax_For_Real",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9248126149177551,
+            "Type": "TITLE",
+            "Text": "SNL",
+            "BeginOffset": 27,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9766786694526672,
+            "Type": "ORGANIZATION",
+            "Text": "CNN",
+            "BeginOffset": 36,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.6722922325134277,
+            "Type": "QUANTITY",
+            "Text": "100",
+            "BeginOffset": 81,
+            "EndOffset": 84
+        }
+    ]
+}

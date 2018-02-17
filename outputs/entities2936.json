@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8398559093475342,
+            "Type": "PERSON",
+            "Text": "@GiselleEvns",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8564966320991516,
+            "Type": "QUANTITY",
+            "Text": "100 new empty beer cans",
+            "BeginOffset": 37,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.7619300484657288,
+            "Type": "DATE",
+            "Text": "since 7 am",
+            "BeginOffset": 61,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9999381303787231,
+            "Type": "OTHER",
+            "Text": "https://t.co/VhwMkCgnO4",
+            "BeginOffset": 84,
+            "EndOffset": 107
+        }
+    ]
+}

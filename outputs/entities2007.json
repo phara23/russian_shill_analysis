@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6922875642776489,
+            "Type": "PERSON",
+            "Text": "#DonaldTrump",
+            "BeginOffset": 0,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.5153340101242065,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 19,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9036641716957092,
+            "Type": "LOCATION",
+            "Text": "New Hampshire",
+            "BeginOffset": 45,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.48452839255332947,
+            "Type": "LOCATION",
+            "Text": "#NH",
+            "BeginOffset": 63,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.8954933285713196,
+            "Type": "OTHER",
+            "Text": "https://t.co/ZzqQbjusKq",
+            "BeginOffset": 87,
+            "EndOffset": 110
+        }
+    ]
+}

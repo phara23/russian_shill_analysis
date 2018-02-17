@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8315054774284363,
+            "Type": "PERSON",
+            "Text": "@abusedtaxpayer",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7334361672401428,
+            "Type": "QUANTITY",
+            "Text": "3 term Killery",
+            "BeginOffset": 81,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.9893934726715088,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 117,
+            "EndOffset": 122
+        },
+        {
+            "Score": 0.9668847322463989,
+            "Type": "OTHER",
+            "Text": "https://t.co/Nj2DsI",
+            "BeginOffset": 124,
+            "EndOffset": 143
+        }
+    ]
+}

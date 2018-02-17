@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.782214879989624,
+            "Type": "PERSON",
+            "Text": "@amrightnow",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.47065597772598267,
+            "Type": "QUANTITY",
+            "Text": "4 #Veterans",
+            "BeginOffset": 21,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.976805567741394,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 33,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9706200361251831,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 79,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.7887502908706665,
+            "Type": "OTHER",
+            "Text": "https://t.co/j58e8aacrE",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        },
+        {
+            "Score": 0.584191083908081,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 130,
+            "EndOffset": 139
+        }
+    ]
+}

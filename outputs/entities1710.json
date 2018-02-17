@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9121713042259216,
+            "Type": "PERSON",
+            "Text": "@edwrather",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.7176216244697571,
+            "Type": "PERSON",
+            "Text": "Jeanine 'Disgusted'",
+            "BeginOffset": 58,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9637453556060791,
+            "Type": "PERSON",
+            "Text": "Comey",
+            "BeginOffset": 83,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9999366998672485,
+            "Type": "OTHER",
+            "Text": "https://t.co/aldDbazn4b",
+            "BeginOffset": 89,
+            "EndOffset": 112
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8091921210289001,
+            "Type": "PERSON",
+            "Text": "@MissJupiter1957",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.6660912036895752,
+            "Type": "PERSON",
+            "Text": "Podesta",
+            "BeginOffset": 46,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9919686913490295,
+            "Type": "PERSON",
+            "Text": "Pence",
+            "BeginOffset": 60,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9999003410339355,
+            "Type": "OTHER",
+            "Text": "https://t.co/kvlutrwoxM",
+            "BeginOffset": 67,
+            "EndOffset": 90
+        }
+    ]
+}

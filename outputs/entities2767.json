@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8756897449493408,
+            "Type": "PERSON",
+            "Text": "@MikePenceVP",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9994895458221436,
+            "Type": "PERSON",
+            "Text": "James Comey",
+            "BeginOffset": 28,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9998862743377686,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 47,
+            "EndOffset": 62
+        }
+    ]
+}

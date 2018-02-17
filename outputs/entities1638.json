@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8223477602005005,
+            "Type": "PERSON",
+            "Text": "@BayShoreIsHome",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.4782845675945282,
+            "Type": "TITLE",
+            "Text": "#obamacare",
+            "BeginOffset": 64,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9996750354766846,
+            "Type": "OTHER",
+            "Text": "https://t.co/EDP6guvATb",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        }
+    ]
+}

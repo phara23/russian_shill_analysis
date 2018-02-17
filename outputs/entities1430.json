@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8856585621833801,
+            "Type": "PERSON",
+            "Text": "@usa_news_24",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.6522442102432251,
+            "Type": "ORGANIZATION",
+            "Text": "Ohio State Hijack",
+            "BeginOffset": 59,
+            "EndOffset": 76
+        }
+    ]
+}

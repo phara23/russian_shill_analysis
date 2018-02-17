@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8088620901107788,
+            "Type": "PERSON",
+            "Text": "@Bexofeasttex",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9661799073219299,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 42,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9998764991760254,
+            "Type": "OTHER",
+            "Text": "https://t.co/tjktZMcz9c",
+            "BeginOffset": 47,
+            "EndOffset": 70
+        }
+    ]
+}

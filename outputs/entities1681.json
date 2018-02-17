@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.911686897277832,
+            "Type": "PERSON",
+            "Text": "@lckgrl1606",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9119928479194641,
+            "Type": "PERSON",
+            "Text": "@ChelseaClinton",
+            "BeginOffset": 16,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9991017580032349,
+            "Type": "OTHER",
+            "Text": "https://t.co/e4ceHwdyMp",
+            "BeginOffset": 71,
+            "EndOffset": 94
+        }
+    ]
+}

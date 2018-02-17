@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8155834674835205,
+            "Type": "PERSON",
+            "Text": "@FFL2735",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.7415217161178589,
+            "Type": "TITLE",
+            "Text": "League of Denial: How",
+            "BeginOffset": 13,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.5557460784912109,
+            "Type": "ORGANIZATION",
+            "Text": "NFL",
+            "BeginOffset": 72,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.9996058344841003,
+            "Type": "OTHER",
+            "Text": "https://t.co/u01uPehPzw",
+            "BeginOffset": 87,
+            "EndOffset": 110
+        }
+    ]
+}

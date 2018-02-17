@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5219447612762451,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.7037060856819153,
+            "Type": "PERSON",
+            "Text": "@HelenGym2015",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8576659560203552,
+            "Type": "ORGANIZATION",
+            "Text": "ICE",
+            "BeginOffset": 18,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9997811913490295,
+            "Type": "OTHER",
+            "Text": "https://t.co/E0vj8SD88u",
+            "BeginOffset": 72,
+            "EndOffset": 95
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.5863616466522217,
+            "Text": "FBI",
+            "BeginOffset": 0,
+            "EndOffset": 3
+        },
+        {
+            "Score": 0.9517403244972229,
+            "Text": "DOJ &amp; State Department",
+            "BeginOffset": 5,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.883298397064209,
+            "Text": "Hillary",
+            "BeginOffset": 50,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9648456573486328,
+            "Text": "truth",
+            "BeginOffset": 80,
+            "EndOffset": 85
+        }
+    ]
+}

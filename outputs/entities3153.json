@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8215153217315674,
+            "Type": "PERSON",
+            "Text": "@pakalert",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9262402653694153,
+            "Type": "COMMERCIAL_ITEM",
+            "Text": "PS3",
+            "BeginOffset": 14,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8992033004760742,
+            "Type": "COMMERCIAL_ITEM",
+            "Text": "PS3",
+            "BeginOffset": 52,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.999901294708252,
+            "Type": "OTHER",
+            "Text": "https://t.co/d1ShUsPzZQ",
+            "BeginOffset": 56,
+            "EndOffset": 79
+        }
+    ]
+}

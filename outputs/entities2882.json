@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6220109462738037,
+            "Type": "PERSON",
+            "Text": "@NoDAPL_",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9907031655311584,
+            "Type": "DATE",
+            "Text": "Monday, Oct 10",
+            "BeginOffset": 48,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.7892155051231384,
+            "Type": "ORGANIZATION",
+            "Text": "@pplsummit",
+            "BeginOffset": 74,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.3218649923801422,
+            "Type": "EVENT",
+            "Text": "#NoDAPL",
+            "BeginOffset": 97,
+            "EndOffset": 104
+        }
+    ]
+}

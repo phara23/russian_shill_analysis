@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5766257047653198,
+            "Type": "PERSON",
+            "Text": "@YANKEEFANNO",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9508065581321716,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 27,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9985359907150269,
+            "Type": "OTHER",
+            "Text": "https://t.co/0fhUoUygQg",
+            "BeginOffset": 64,
+            "EndOffset": 87
+        }
+    ]
+}

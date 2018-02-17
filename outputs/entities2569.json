@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8935438394546509,
+            "Type": "PERSON",
+            "Text": "@dcexaminer",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9996722340583801,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 19,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9557858109474182,
+            "Type": "LOCATION",
+            "Text": "New Hampshire",
+            "BeginOffset": 37,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.8746018409729004,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 69,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.8630177974700928,
+            "Type": "OTHER",
+            "Text": "https://t.co/rmtD9Sgc5Q",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        },
+        {
+            "Score": 0.9791173934936523,
+            "Type": "OTHER",
+            "Text": "https://t.co/QzJNPN",
+            "BeginOffset": 120,
+            "EndOffset": 139
+        }
+    ]
+}

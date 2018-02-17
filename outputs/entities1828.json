@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9342965483665466,
+            "Type": "PERSON",
+            "Text": "@SheilaNJ",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.7657424211502075,
+            "Type": "ORGANIZATION",
+            "Text": "@SecretService",
+            "BeginOffset": 67,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.8432170152664185,
+            "Type": "ORGANIZATION",
+            "Text": "@FBI",
+            "BeginOffset": 82,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9230808019638062,
+            "Type": "ORGANIZATION",
+            "Text": "@CIA",
+            "BeginOffset": 91,
+            "EndOffset": 95
+        }
+    ]
+}

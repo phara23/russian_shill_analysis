@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9271878600120544,
+            "Type": "PERSON",
+            "Text": "@caulkthewagon",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8015528917312622,
+            "Type": "ORGANIZATION",
+            "Text": "NYPD",
+            "BeginOffset": 25,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9999239444732666,
+            "Type": "OTHER",
+            "Text": "https://t.co/Jjs8N9LlHj",
+            "BeginOffset": 69,
+            "EndOffset": 92
+        }
+    ]
+}

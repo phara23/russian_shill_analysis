@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5411344766616821,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.862668514251709,
+            "Type": "ORGANIZATION",
+            "Text": "@Hutch_USA",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.7148754596710205,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 15,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7778391242027283,
+            "Type": "ORGANIZATION",
+            "Text": "@ItsMariaMonica",
+            "BeginOffset": 18,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.8248341679573059,
+            "Type": "OTHER",
+            "Text": "https://t.co/RCF6dK4bOl",
+            "BeginOffset": 99,
+            "EndOffset": 122
+        },
+        {
+            "Score": 0.6535574793815613,
+            "Type": "ORGANIZATION",
+            "Text": "#BlueLivesMatter",
+            "BeginOffset": 123,
+            "EndOffset": 139
+        }
+    ]
+}

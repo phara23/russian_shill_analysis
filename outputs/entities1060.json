@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8286088705062866,
+            "Type": "PERSON",
+            "Text": "@theintercept",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9998075366020203,
+            "Type": "OTHER",
+            "Text": "https://t.co/IaenSax79g",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        }
+    ]
+}

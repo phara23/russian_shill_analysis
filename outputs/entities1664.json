@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9301642179489136,
+            "Type": "PERSON",
+            "Text": "@Preciosa_Liz",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9878721237182617,
+            "Type": "PERSON",
+            "Text": "Martha Stewart",
+            "BeginOffset": 18,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.6906713843345642,
+            "Type": "QUANTITY",
+            "Text": "3Words",
+            "BeginOffset": 51,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.7368148565292358,
+            "Type": "PERSON",
+            "Text": "@midnight",
+            "BeginOffset": 58,
+            "EndOffset": 67
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8275903463363647,
+            "Type": "PERSON",
+            "Text": "@turtledumplin",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9852247834205627,
+            "Type": "ORGANIZATION",
+            "Text": "twitter",
+            "BeginOffset": 31,
+            "EndOffset": 38
+        }
+    ]
+}

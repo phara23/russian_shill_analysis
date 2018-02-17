@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8909832835197449,
+            "Type": "PERSON",
+            "Text": "@Timtravels007",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.5022323131561279,
+            "Type": "ORGANIZATION",
+            "Text": "#HRC",
+            "BeginOffset": 37,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9388355016708374,
+            "Type": "PERSON",
+            "Text": "Hally",
+            "BeginOffset": 129,
+            "EndOffset": 134
+        },
+        {
+            "Score": 0.532852053642273,
+            "Type": "PERSON",
+            "Text": "Ruf",
+            "BeginOffset": 136,
+            "EndOffset": 139
+        }
+    ]
+}

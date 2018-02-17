@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9133672714233398,
+            "Type": "PERSON",
+            "Text": "@SethFromThe716",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8710710406303406,
+            "Type": "LOCATION",
+            "Text": "Silicon Valley",
+            "BeginOffset": 20,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9996602535247803,
+            "Type": "OTHER",
+            "Text": "https://t.co/KpBdDRt9GS",
+            "BeginOffset": 108,
+            "EndOffset": 131
+        }
+    ]
+}

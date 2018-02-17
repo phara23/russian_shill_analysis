@@ -1,0 +1,46 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9439582228660583,
+            "Text": "RT @nytimes",
+            "BeginOffset": 0,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9990847706794739,
+            "Text": "Donald Trump",
+            "BeginOffset": 13,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9968137145042419,
+            "Text": "a 4-point lead",
+            "BeginOffset": 30,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9989824295043945,
+            "Text": "Florida",
+            "BeginOffset": 48,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9897340536117554,
+            "Text": "an NYT poll",
+            "BeginOffset": 57,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9503982067108154,
+            "Text": "A month",
+            "BeginOffset": 76,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.9978769421577454,
+            "Text": "Hillary Clinton",
+            "BeginOffset": 100,
+            "EndOffset": 115
+        }
+    ]
+}

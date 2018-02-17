@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6826056838035583,
+            "Type": "ORGANIZATION",
+            "Text": "Clinton Foundation",
+            "BeginOffset": 0,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9948157668113708,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 66,
+            "EndOffset": 81
+        }
+    ]
+}

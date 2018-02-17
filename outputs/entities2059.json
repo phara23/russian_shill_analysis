@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9297661781311035,
+            "Type": "ORGANIZATION",
+            "Text": "Islam",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9504896402359009,
+            "Type": "ORGANIZATION",
+            "Text": "Muslims",
+            "BeginOffset": 29,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.7823681235313416,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 52,
+            "EndOffset": 59
+        }
+    ]
+}

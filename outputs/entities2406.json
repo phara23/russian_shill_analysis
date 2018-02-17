@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.892136812210083,
+            "Type": "PERSON",
+            "Text": "@Boazziz",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9473063945770264,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 51,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9999314546585083,
+            "Type": "OTHER",
+            "Text": "https://t.co/egC47YxWbO",
+            "BeginOffset": 68,
+            "EndOffset": 91
+        }
+    ]
+}

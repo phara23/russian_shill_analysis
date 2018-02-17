@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9527884125709534,
+            "Type": "PERSON",
+            "Text": "@LarrySchweikart",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9970034956932068,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 24,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.6347424983978271,
+            "Type": "QUANTITY",
+            "Text": "2",
+            "BeginOffset": 46,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.7016580700874329,
+            "Type": "ORGANIZATION",
+            "Text": "FISA",
+            "BeginOffset": 53,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9963921904563904,
+            "Type": "OTHER",
+            "Text": "https://t.co/gQUVIlJyKO",
+            "BeginOffset": 67,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9958729147911072,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 94,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.8001600503921509,
+            "Type": "LOCATION",
+            "Text": "T Tower",
+            "BeginOffset": 124,
+            "EndOffset": 131
+        }
+    ]
+}

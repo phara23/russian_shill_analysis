@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.619498074054718,
+            "Type": "QUANTITY",
+            "Text": "First Also Be the Last",
+            "BeginOffset": 35,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.8664265871047974,
+            "Type": "OTHER",
+            "Text": "https://t.co/MkGgEndrZx",
+            "BeginOffset": 59,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.9997890591621399,
+            "Type": "OTHER",
+            "Text": "https://t.co/qUYD8BPlki",
+            "BeginOffset": 89,
+            "EndOffset": 112
+        }
+    ]
+}

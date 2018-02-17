@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8138140439987183,
+            "Type": "PERSON",
+            "Text": "@GANGSTALEENE",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8954570293426514,
+            "Type": "PERSON",
+            "Text": "@MCHammer",
+            "BeginOffset": 18,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9852615594863892,
+            "Type": "PERSON",
+            "Text": "@GentryKozia",
+            "BeginOffset": 28,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9706839919090271,
+            "Type": "PERSON",
+            "Text": "@djkingassassin",
+            "BeginOffset": 41,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.8630079030990601,
+            "Type": "PERSON",
+            "Text": "@IAMTONYNEAL",
+            "BeginOffset": 57,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.934704601764679,
+            "Type": "PERSON",
+            "Text": "@Iam360",
+            "BeginOffset": 70,
+            "EndOffset": 77
+        }
+    ]
+}

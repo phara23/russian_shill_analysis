@@ -1,0 +1,28 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9369083642959595,
+            "Text": "RT @beforeitsnews",
+            "BeginOffset": 0,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9828031659126282,
+            "Text": "Cancer Cure",
+            "BeginOffset": 19,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.8754627108573914,
+            "Text": "Molecule Destroys Tumor Cells",
+            "BeginOffset": 32,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.8702111840248108,
+            "Text": "Leaves Normal Cells",
+            "BeginOffset": 66,
+            "EndOffset": 85
+        }
+    ]
+}

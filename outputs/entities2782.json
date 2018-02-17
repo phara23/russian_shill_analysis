@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8742337822914124,
+            "Type": "PERSON",
+            "Text": "@guardian",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.24783211946487427,
+            "Type": "ORGANIZATION",
+            "Text": "Avon",
+            "BeginOffset": 19,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.5012420415878296,
+            "Type": "ORGANIZATION",
+            "Text": "#Pakistan",
+            "BeginOffset": 35,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.6819754838943481,
+            "Type": "PERSON",
+            "Text": "@GuardianGDP",
+            "BeginOffset": 85,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.9999494552612305,
+            "Type": "OTHER",
+            "Text": "https://t.co/XHAtPWo8Nw",
+            "BeginOffset": 98,
+            "EndOffset": 121
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8935205340385437,
+            "Type": "PERSON",
+            "Text": "@Bipartisanism",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9795467257499695,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 19,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9988573789596558,
+            "Type": "PERSON",
+            "Text": "Jeff Sessions",
+            "BeginOffset": 30,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9229860901832581,
+            "Type": "OTHER",
+            "Text": "https://t.co/xNQPQVaqaP",
+            "BeginOffset": 101,
+            "EndOffset": 124
+        },
+        {
+            "Score": 0.9406914114952087,
+            "Type": "OTHER",
+            "Text": "https://t.co/W",
+            "BeginOffset": 125,
+            "EndOffset": 139
+        }
+    ]
+}

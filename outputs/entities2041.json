@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9312449097633362,
+            "Type": "PERSON",
+            "Text": "@Lrihendry",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9893310070037842,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 21,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9899144172668457,
+            "Type": "OTHER",
+            "Text": "https://t.co/ZuSXmFuPK7",
+            "BeginOffset": 59,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.9684796929359436,
+            "Type": "ORGANIZATION",
+            "Text": "@youtube",
+            "BeginOffset": 87,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.640513002872467,
+            "Type": "PERSON",
+            "Text": "@real",
+            "BeginOffset": 134,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9013519883155823,
+            "Type": "PERSON",
+            "Text": "@nine_oh",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9967310428619385,
+            "Type": "ORGANIZATION",
+            "Text": "Twitter",
+            "BeginOffset": 13,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.9982025623321533,
+            "Type": "ORGANIZATION",
+            "Text": "Facebook",
+            "BeginOffset": 25,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.999924898147583,
+            "Type": "OTHER",
+            "Text": "https://t.co/V02wk2Usv3",
+            "BeginOffset": 78,
+            "EndOffset": 101
+        }
+    ]
+}

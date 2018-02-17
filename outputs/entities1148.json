@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8811760544776917,
+            "Type": "PERSON",
+            "Text": "@FreeBeacon",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8147127032279968,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 39,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9684634804725647,
+            "Type": "QUANTITY",
+            "Text": "24 Hours",
+            "BeginOffset": 92,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.9936807155609131,
+            "Type": "OTHER",
+            "Text": "https://t.co/1320LQq5av",
+            "BeginOffset": 101,
+            "EndOffset": 124
+        },
+        {
+            "Score": 0.6932063698768616,
+            "Type": "ORGANIZATION",
+            "Text": "@JackHeret",
+            "BeginOffset": 129,
+            "EndOffset": 139
+        }
+    ]
+}

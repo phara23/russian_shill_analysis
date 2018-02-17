@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8826615214347839,
+            "Type": "PERSON",
+            "Text": "@SankofaBrown",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9969229102134705,
+            "Type": "PERSON",
+            "Text": "Rosa Luxemburg",
+            "BeginOffset": 57,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9999099969863892,
+            "Type": "OTHER",
+            "Text": "https://t.co/PkIbf6bgAg",
+            "BeginOffset": 112,
+            "EndOffset": 135
+        }
+    ]
+}

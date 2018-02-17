@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7074147462844849,
+            "Type": "PERSON",
+            "Text": "@RedNationRising",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9801755547523499,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 45,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9822746515274048,
+            "Type": "OTHER",
+            "Text": "https://t.co/WqiFYy8q6I",
+            "BeginOffset": 98,
+            "EndOffset": 121
+        },
+        {
+            "Score": 0.8991498947143555,
+            "Type": "ORGANIZATION",
+            "Text": "@Hotgasmedia",
+            "BeginOffset": 126,
+            "EndOffset": 138
+        }
+    ]
+}

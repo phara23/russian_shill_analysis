@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8157274127006531,
+            "Type": "PERSON",
+            "Text": "@LadyLiberTea",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8304234147071838,
+            "Type": "ORGANIZATION",
+            "Text": "@EPN",
+            "BeginOffset": 29,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.7911770343780518,
+            "Type": "ORGANIZATION",
+            "Text": "@POTUS",
+            "BeginOffset": 34,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9882091283798218,
+            "Type": "LOCATION",
+            "Text": "USA",
+            "BeginOffset": 69,
+            "EndOffset": 72
+        }
+    ]
+}

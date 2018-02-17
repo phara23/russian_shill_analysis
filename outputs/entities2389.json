@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4787518084049225,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.9095938205718994,
+            "Type": "PERSON",
+            "Text": "@Ben_Ripley42",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        }
+    ]
+}

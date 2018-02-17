@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8460019826889038,
+            "Type": "PERSON",
+            "Text": "@gerfingerpoken",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9960162043571472,
+            "Type": "PERSON",
+            "Text": "Barack Hussein",
+            "BeginOffset": 20,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.5988711714744568,
+            "Type": "ORGANIZATION",
+            "Text": "EEOC",
+            "BeginOffset": 37,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.8182054162025452,
+            "Type": "QUANTITY",
+            "Text": "4 Muslim Truckers",
+            "BeginOffset": 71,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.926458477973938,
+            "Type": "OTHER",
+            "Text": "https://t.co/Uphf0Lgd3U",
+            "BeginOffset": 89,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.5137490034103394,
+            "Type": "OTHER",
+            "Text": "American",
+            "BeginOffset": 113,
+            "EndOffset": 121
+        }
+    ]
+}

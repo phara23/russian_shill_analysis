@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8217216730117798,
+            "Type": "PERSON",
+            "Text": "@Melissa4",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.6456162333488464,
+            "Type": "PERSON",
+            "Text": "TedCruz",
+            "BeginOffset": 12,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9999616146087646,
+            "Type": "OTHER",
+            "Text": "https://t.co/w46BQEp3sL",
+            "BeginOffset": 31,
+            "EndOffset": 54
+        }
+    ]
+}

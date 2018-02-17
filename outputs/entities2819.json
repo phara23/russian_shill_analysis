@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5001859068870544,
+            "Type": "PERSON",
+            "Text": "Hamilton",
+            "BeginOffset": 10,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8532561659812927,
+            "Type": "ORGANIZATION",
+            "Text": "Broadway",
+            "BeginOffset": 67,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.3693116307258606,
+            "Type": "QUANTITY",
+            "Text": "15",
+            "BeginOffset": 124,
+            "EndOffset": 126
+        }
+    ]
+}

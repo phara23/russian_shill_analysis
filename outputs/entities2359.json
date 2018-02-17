@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8961768746376038,
+            "Type": "PERSON",
+            "Text": "@KeswickPinhead",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.6535110473632812,
+            "Type": "PERSON",
+            "Text": "TRUMP",
+            "BeginOffset": 56,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.999800980091095,
+            "Type": "OTHER",
+            "Text": "https://t.co/Hssi4SweSw",
+            "BeginOffset": 87,
+            "EndOffset": 110
+        }
+    ]
+}

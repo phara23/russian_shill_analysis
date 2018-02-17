@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9418648481369019,
+            "Type": "PERSON",
+            "Text": "@mygirl971",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8113526105880737,
+            "Type": "PERSON",
+            "Text": "@wendeelouhew",
+            "BeginOffset": 18,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.7872898578643799,
+            "Type": "OTHER",
+            "Text": "https://t.co/ngLDEp82LJ",
+            "BeginOffset": 108,
+            "EndOffset": 131
+        },
+        {
+            "Score": 0.5344893932342529,
+            "Type": "ORGANIZATION",
+            "Text": "#RTTT2",
+            "BeginOffset": 132,
+            "EndOffset": 138
+        }
+    ]
+}

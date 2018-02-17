@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.541377067565918,
+            "Type": "PERSON",
+            "Text": "@1",
+            "BeginOffset": 3,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.7914639711380005,
+            "Type": "PERSON",
+            "Text": "Bill",
+            "BeginOffset": 19,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9753817915916443,
+            "Type": "PERSON",
+            "Text": "Loretta",
+            "BeginOffset": 39,
+            "EndOffset": 46
+        }
+    ]
+}

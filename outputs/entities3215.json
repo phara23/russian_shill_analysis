@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8828617334365845,
+            "Type": "PERSON",
+            "Text": "@candidqueso",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7500836849212646,
+            "Type": "QUANTITY",
+            "Text": "5Words",
+            "BeginOffset": 54,
+            "EndOffset": 60
+        }
+    ]
+}

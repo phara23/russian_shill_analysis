@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5337849855422974,
+            "Type": "TITLE",
+            "Text": "Oscar",
+            "BeginOffset": 77,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.3998118042945862,
+            "Type": "TITLE",
+            "Text": "#Oscars",
+            "BeginOffset": 109,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.9945372939109802,
+            "Type": "OTHER",
+            "Text": "https://t.co/vXKwlGHjNS",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

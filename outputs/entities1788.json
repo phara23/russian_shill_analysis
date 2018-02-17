@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8964178562164307,
+            "Type": "PERSON",
+            "Text": "@latinaafortrump",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9961547255516052,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 63,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.972764790058136,
+            "Type": "DATE",
+            "Text": "11yrs ago",
+            "BeginOffset": 98,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.9974619150161743,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 109,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.5268615484237671,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 132,
+            "EndOffset": 134
+        }
+    ]
+}

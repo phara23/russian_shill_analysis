@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8687517046928406,
+            "Type": "LOCATION",
+            "Text": "Mexico",
+            "BeginOffset": 5,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9997878670692444,
+            "Type": "OTHER",
+            "Text": "https://t.co/S8XJmIrDUm",
+            "BeginOffset": 38,
+            "EndOffset": 61
+        }
+    ]
+}

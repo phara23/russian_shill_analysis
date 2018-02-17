@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7935268878936768,
+            "Type": "PERSON",
+            "Text": "@TANSTAAFL23",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9016324281692505,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 17,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9794155955314636,
+            "Type": "PERSON",
+            "Text": "@Floriduh_Man",
+            "BeginOffset": 33,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.8300292491912842,
+            "Type": "QUANTITY",
+            "Text": "30,000",
+            "BeginOffset": 81,
+            "EndOffset": 87
+        }
+    ]
+}

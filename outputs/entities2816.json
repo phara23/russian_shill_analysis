@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6878512501716614,
+            "Type": "ORGANIZATION",
+            "Text": "@BLUpfront",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.678712785243988,
+            "Type": "ORGANIZATION",
+            "Text": "@GovtsTheProblem",
+            "BeginOffset": 15,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.7237752676010132,
+            "Type": "ORGANIZATION",
+            "Text": "@TitoJazavac",
+            "BeginOffset": 32,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.8859348893165588,
+            "Type": "ORGANIZATION",
+            "Text": "@cromgood",
+            "BeginOffset": 45,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9552178978919983,
+            "Type": "ORGANIZATION",
+            "Text": "@Red_Eye_Robot",
+            "BeginOffset": 55,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9999675750732422,
+            "Type": "OTHER",
+            "Text": "https://t.co/ryPeQ3KB3U",
+            "BeginOffset": 78,
+            "EndOffset": 101
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9641845226287842,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.7685339450836182,
+            "Type": "PERSON",
+            "Text": "@RepReneeEllmers",
+            "BeginOffset": 31,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9305806159973145,
+            "Type": "OTHER",
+            "Text": "https://t.co/1DrZpfa6je",
+            "BeginOffset": 49,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.9999903440475464,
+            "Type": "OTHER",
+            "Text": "https://t.co/rzEw8pQhds",
+            "BeginOffset": 73,
+            "EndOffset": 96
+        }
+    ]
+}

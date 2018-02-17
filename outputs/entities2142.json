@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9041096568107605,
+            "Type": "PERSON",
+            "Text": "@Writ1778",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.6998536586761475,
+            "Type": "PERSON",
+            "Text": "Florence Nightengale",
+            "BeginOffset": 88,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.8262090682983398,
+            "Type": "OTHER",
+            "Text": "https://t.co/OeGEb4Zyiv",
+            "BeginOffset": 111,
+            "EndOffset": 134
+        }
+    ]
+}

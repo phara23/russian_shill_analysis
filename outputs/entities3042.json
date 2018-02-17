@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.845187246799469,
+            "Type": "LOCATION",
+            "Text": "U.S.",
+            "BeginOffset": 14,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9720702171325684,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 23,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9874910116195679,
+            "Type": "PERSON",
+            "Text": "Duterte",
+            "BeginOffset": 40,
+            "EndOffset": 47
+        }
+    ]
+}

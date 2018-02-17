@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9271836280822754,
+            "Type": "PERSON",
+            "Text": "@Houseman75",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9382337331771851,
+            "Type": "LOCATION",
+            "Text": "Indiana",
+            "BeginOffset": 38,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9982781410217285,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 77,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.7580057382583618,
+            "Type": "QUANTITY",
+            "Text": "16",
+            "BeginOffset": 120,
+            "EndOffset": 122
+        }
+    ]
+}

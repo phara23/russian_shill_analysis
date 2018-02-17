@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8004375696182251,
+            "Type": "PERSON",
+            "Text": "@ZaibatsuNews",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.872241199016571,
+            "Type": "ORGANIZATION",
+            "Text": "NYPD",
+            "BeginOffset": 18,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9085607528686523,
+            "Type": "LOCATION",
+            "Text": "New York",
+            "BeginOffset": 66,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.6621622443199158,
+            "Type": "OTHER",
+            "Text": "https://t.co/odeYw0r3KR",
+            "BeginOffset": 111,
+            "EndOffset": 134
+        },
+        {
+            "Score": 0.6655489206314087,
+            "Type": "ORGANIZATION",
+            "Text": "#p2",
+            "BeginOffset": 135,
+            "EndOffset": 138
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8586084842681885,
+            "Type": "PERSON",
+            "Text": "@MrNegroMilitant",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9940878748893738,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 21,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9999260902404785,
+            "Type": "OTHER",
+            "Text": "https://t.co/7omQLtNR2I",
+            "BeginOffset": 71,
+            "EndOffset": 94
+        }
+    ]
+}

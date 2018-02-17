@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9168409705162048,
+            "Type": "PERSON",
+            "Text": "@RichGustason",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7009853720664978,
+            "Type": "DATE",
+            "Text": "#2016",
+            "BeginOffset": 18,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9418673515319824,
+            "Type": "QUANTITY",
+            "Text": "4Words",
+            "BeginOffset": 25,
+            "EndOffset": 31
+        }
+    ]
+}

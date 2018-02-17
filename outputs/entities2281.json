@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8457518815994263,
+            "Type": "ORGANIZATION",
+            "Text": "@FT",
+            "BeginOffset": 3,
+            "EndOffset": 6
+        },
+        {
+            "Score": 0.9120641350746155,
+            "Type": "ORGANIZATION",
+            "Text": "Hollywood",
+            "BeginOffset": 67,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.9132047295570374,
+            "Type": "OTHER",
+            "Text": "http://t.co/JETRMbtIuL",
+            "BeginOffset": 78,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.9999266862869263,
+            "Type": "OTHER",
+            "Text": "http://t.co/zJqyGYjinF",
+            "BeginOffset": 101,
+            "EndOffset": 123
+        }
+    ]
+}

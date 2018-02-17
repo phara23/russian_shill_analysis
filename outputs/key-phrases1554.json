@@ -1,0 +1,34 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.6517642140388489,
+            "Text": "Ich glaub",
+            "BeginOffset": 0,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.837112307548523,
+            "Text": "es ist egal",
+            "BeginOffset": 11,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.7776969075202942,
+            "Text": "weswegen",
+            "BeginOffset": 24,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9737868309020996,
+            "Text": "CDU gewählt wird",
+            "BeginOffset": 37,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.7759031653404236,
+            "Text": "wegen Merkel oder Inhalte",
+            "BeginOffset": 55,
+            "EndOffset": 80
+        }
+    ]
+}

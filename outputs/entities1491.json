@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8922634124755859,
+            "Type": "PERSON",
+            "Text": "@CLichovsky",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.5595260262489319,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 16,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.6730165481567383,
+            "Type": "ORGANIZATION",
+            "Text": "@ChristianInst",
+            "BeginOffset": 19,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9258278012275696,
+            "Type": "QUANTITY",
+            "Text": "4:8",
+            "BeginOffset": 46,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.8061491847038269,
+            "Type": "PERSON",
+            "Text": "Lord God Almighty",
+            "BeginOffset": 75,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.9463606476783752,
+            "Type": "OTHER",
+            "Text": "https://t.co/DNWLDlhXHG",
+            "BeginOffset": 98,
+            "EndOffset": 121
+        },
+        {
+            "Score": 0.3223705589771271,
+            "Type": "LOCATION",
+            "Text": "#RenewUS",
+            "BeginOffset": 122,
+            "EndOffset": 130
+        },
+        {
+            "Score": 0.5086224675178528,
+            "Type": "LOCATION",
+            "Text": "#PJNET",
+            "BeginOffset": 131,
+            "EndOffset": 137
+        }
+    ]
+}

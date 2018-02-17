@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8712853193283081,
+            "Type": "PERSON",
+            "Text": "@DavidCornDC",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9546115398406982,
+            "Type": "PERSON",
+            "Text": "@LindseyGrahamSC",
+            "BeginOffset": 18,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9324979782104492,
+            "Type": "PERSON",
+            "Text": "Wray",
+            "BeginOffset": 56,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9971164464950562,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 66,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.968962550163269,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 92,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.5568979382514954,
+            "Type": "PERSON",
+            "Text": "Manafort",
+            "BeginOffset": 111,
+            "EndOffset": 119
+        },
+        {
+            "Score": 0.9500566720962524,
+            "Type": "LOCATION",
+            "Text": "Ukraine",
+            "BeginOffset": 120,
+            "EndOffset": 127
+        }
+    ]
+}

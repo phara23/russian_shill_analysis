@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7463250160217285,
+            "Type": "PERSON",
+            "Text": "@URGENTPODR",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9225770235061646,
+            "Type": "OTHER",
+            "Text": "1059635",
+            "BeginOffset": 23,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9983274340629578,
+            "Type": "DATE",
+            "Text": "12/09/15",
+            "BeginOffset": 53,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.8622875809669495,
+            "Type": "OTHER",
+            "Text": "https://t.co/eDiC7TFvLA",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        },
+        {
+            "Score": 0.8956513404846191,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 129,
+            "EndOffset": 138
+        }
+    ]
+}

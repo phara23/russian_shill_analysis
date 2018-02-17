@@ -1,0 +1,40 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9855049252510071,
+            "Text": "Trump",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9897953271865845,
+            "Text": "Obama",
+            "BeginOffset": 12,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8528055548667908,
+            "Text": "'the founder",
+            "BeginOffset": 18,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.962076723575592,
+            "Text": "ISIS",
+            "BeginOffset": 34,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9774706959724426,
+            "Text": "its militants",
+            "BeginOffset": 48,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.8945925235748291,
+            "Text": "'honor",
+            "BeginOffset": 62,
+            "EndOffset": 68
+        }
+    ]
+}

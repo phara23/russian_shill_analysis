@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8248124122619629,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.7983545064926147,
+            "Type": "PERSON",
+            "Text": "@YourBlackWorld",
+            "BeginOffset": 14,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9996911883354187,
+            "Type": "PERSON",
+            "Text": "Victor Ochieng",
+            "BeginOffset": 59,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.9134807586669922,
+            "Type": "OTHER",
+            "Text": "https://t.c",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

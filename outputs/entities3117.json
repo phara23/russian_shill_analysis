@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7249403595924377,
+            "Type": "PERSON",
+            "Text": "@THEANTHEMGIRL",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9873446226119995,
+            "Type": "PERSON",
+            "Text": "George Washington",
+            "BeginOffset": 72,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.9998577833175659,
+            "Type": "OTHER",
+            "Text": "https://t.co/wKnkXHLORD",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        }
+    ]
+}

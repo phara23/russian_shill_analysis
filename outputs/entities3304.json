@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8752040266990662,
+            "Type": "PERSON",
+            "Text": "@SpecialKMB1969",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9333215355873108,
+            "Type": "LOCATION",
+            "Text": "USA",
+            "BeginOffset": 75,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.8249492049217224,
+            "Type": "LOCATION",
+            "Text": "Germany",
+            "BeginOffset": 97,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.9642248749732971,
+            "Type": "LOCATION",
+            "Text": "Europe",
+            "BeginOffset": 111,
+            "EndOffset": 117
+        }
+    ]
+}

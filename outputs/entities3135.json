@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.928426206111908,
+            "Type": "PERSON",
+            "Text": "@jpodhoretz",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.91483473777771,
+            "Type": "PERSON",
+            "Text": "Rubio",
+            "BeginOffset": 21,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9991803169250488,
+            "Type": "PERSON",
+            "Text": "Tony Rezko",
+            "BeginOffset": 43,
+            "EndOffset": 53
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6383767127990723,
+            "Type": "PERSON",
+            "Text": "@exposeliberals",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9969168305397034,
+            "Type": "QUANTITY",
+            "Text": "5.7%",
+            "BeginOffset": 25,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.7990937232971191,
+            "Type": "ORGANIZATION",
+            "Text": "Clinton Foundation",
+            "BeginOffset": 33,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9721975922584534,
+            "Type": "OTHER",
+            "Text": "https://t.co/wSfMD2Npr4",
+            "BeginOffset": 75,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.5432013869285583,
+            "Type": "ORGANIZATION",
+            "Text": "#tcot",
+            "BeginOffset": 99,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.9999649524688721,
+            "Type": "OTHER",
+            "Text": "https://t.co/trbtFQB7OP",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

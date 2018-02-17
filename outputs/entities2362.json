@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8579095602035522,
+            "Type": "PERSON",
+            "Text": "@AnnCoulter",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.5919387340545654,
+            "Type": "OTHER",
+            "Text": "Americans",
+            "BeginOffset": 31,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9999966621398926,
+            "Type": "OTHER",
+            "Text": "https://t.co/hVg6sRmQHv",
+            "BeginOffset": 57,
+            "EndOffset": 80
+        }
+    ]
+}

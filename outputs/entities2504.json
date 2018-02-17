@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9043680429458618,
+            "Type": "PERSON",
+            "Text": "@Firstshirt1064",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.925809919834137,
+            "Type": "PERSON",
+            "Text": "@BobMacAZ",
+            "BeginOffset": 20,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9798673987388611,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 30,
+            "EndOffset": 46
+        }
+    ]
+}

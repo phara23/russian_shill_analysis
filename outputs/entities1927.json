@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8248134851455688,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.6568886637687683,
+            "Type": "ORGANIZATION",
+            "Text": "@4BlackThen",
+            "BeginOffset": 14,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.840745747089386,
+            "Type": "PERSON",
+            "Text": "Margaret Walker",
+            "BeginOffset": 27,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.48296791315078735,
+            "Type": "PERSON",
+            "Text": "Alexander",
+            "BeginOffset": 43,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.4076364040374756,
+            "Type": "LOCATION",
+            "Text": "Harlem",
+            "BeginOffset": 97,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.9999910593032837,
+            "Type": "OTHER",
+            "Text": "https://t.co/mLD1ZQsI0D",
+            "BeginOffset": 116,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7684826850891113,
+            "Type": "PERSON",
+            "Text": "@BIZPACReview",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.6605138182640076,
+            "Type": "ORGANIZATION",
+            "Text": "CPAC",
+            "BeginOffset": 50,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9953398704528809,
+            "Type": "OTHER",
+            "Text": "https://t.co/NXGVFJxDeB",
+            "BeginOffset": 116,
+            "EndOffset": 139
+        }
+    ]
+}

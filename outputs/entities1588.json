@@ -1,0 +1,67 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9421592950820923,
+            "Type": "PERSON",
+            "Text": "@bkd0001",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8698740601539612,
+            "Type": "PERSON",
+            "Text": "@GOPCatLady",
+            "BeginOffset": 13,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9794909954071045,
+            "Type": "PERSON",
+            "Text": "@KyleWRowley",
+            "BeginOffset": 25,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.7716564536094666,
+            "Type": "ORGANIZATION",
+            "Text": "@CNN",
+            "BeginOffset": 38,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9157024025917053,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 46,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.7388575673103333,
+            "Type": "ORGANIZATION",
+            "Text": "@POTUS",
+            "BeginOffset": 68,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.6515969038009644,
+            "Type": "ORGANIZATION",
+            "Text": "#ISIS",
+            "BeginOffset": 88,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.8248717784881592,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 107,
+            "EndOffset": 109
+        },
+        {
+            "Score": 0.6853801608085632,
+            "Type": "OTHER",
+            "Text": "Syrian",
+            "BeginOffset": 133,
+            "EndOffset": 139
+        }
+    ]
+}

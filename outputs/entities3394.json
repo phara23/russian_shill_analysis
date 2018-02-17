@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.891219973564148,
+            "Type": "PERSON",
+            "Text": "@JamesOKeefeIII",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9619379639625549,
+            "Type": "PERSON",
+            "Text": "@JoyAnnReid",
+            "BeginOffset": 21,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.7195112109184265,
+            "Type": "PERSON",
+            "Text": "@ #DNC",
+            "BeginOffset": 83,
+            "EndOffset": 89
+        }
+    ]
+}

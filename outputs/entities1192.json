@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7853183150291443,
+            "Type": "PERSON",
+            "Text": "@amrightnow",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7687544822692871,
+            "Type": "PERSON",
+            "Text": "Crooked Hillary",
+            "BeginOffset": 16,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.7177847027778625,
+            "Type": "QUANTITY",
+            "Text": "3 Strikes",
+            "BeginOffset": 33,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.8861573338508606,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

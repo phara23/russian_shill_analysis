@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9216148257255554,
+            "Type": "LOCATION",
+            "Text": "Colorado",
+            "BeginOffset": 0,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.9994714856147766,
+            "Type": "OTHER",
+            "Text": "http://t.co/J6tzaGodIl",
+            "BeginOffset": 66,
+            "EndOffset": 88
+        }
+    ]
+}

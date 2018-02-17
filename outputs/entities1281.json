@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9197602272033691,
+            "Type": "PERSON",
+            "Text": "@MathewSHarrison",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9250089526176453,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 22,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9986034035682678,
+            "Type": "PERSON",
+            "Text": "Huma Abedin",
+            "BeginOffset": 84,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.8424867987632751,
+            "Type": "OTHER",
+            "Text": "Jews",
+            "BeginOffset": 102,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.8277417421340942,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 133,
+            "EndOffset": 142
+        }
+    ]
+}

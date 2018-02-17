@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8799129724502563,
+            "Type": "PERSON",
+            "Text": "@MikePenceVP",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9877484440803528,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 17,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.7856609225273132,
+            "Type": "QUANTITY",
+            "Text": "12 year",
+            "BeginOffset": 48,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9156980514526367,
+            "Type": "ORGANIZATION",
+            "Text": "@CNN",
+            "BeginOffset": 129,
+            "EndOffset": 133
+        }
+    ]
+}

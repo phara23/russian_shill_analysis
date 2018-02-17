@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7329955697059631,
+            "Type": "ORGANIZATION",
+            "Text": "@VH1",
+            "BeginOffset": 3,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.9963623881340027,
+            "Type": "PERSON",
+            "Text": "Karlie Redd",
+            "BeginOffset": 55,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9893929958343506,
+            "Type": "OTHER",
+            "Text": "https://t.co/jzTeitKBZo",
+            "BeginOffset": 69,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.9868561029434204,
+            "Type": "ORGANIZATION",
+            "Text": "@YouTube",
+            "BeginOffset": 97,
+            "EndOffset": 105
+        }
+    ]
+}

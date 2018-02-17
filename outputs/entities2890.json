@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8842458128929138,
+            "Type": "PERSON",
+            "Text": "@TrumpSupport13",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9005059003829956,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 53,
+            "EndOffset": 60
+        }
+    ]
+}

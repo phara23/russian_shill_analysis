@@ -1,0 +1,52 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9766155481338501,
+            "Text": "HRC",
+            "BeginOffset": 0,
+            "EndOffset": 3
+        },
+        {
+            "Score": 0.9873442649841309,
+            "Text": "a crowd",
+            "BeginOffset": 15,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9997007846832275,
+            "Text": "A poll",
+            "BeginOffset": 23,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9945803880691528,
+            "Text": "49%",
+            "BeginOffset": 35,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.8993702530860901,
+            "Text": "Hillary",
+            "BeginOffset": 43,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9559229612350464,
+            "Text": "20 people",
+            "BeginOffset": 52,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9090191721916199,
+            "Text": "a dog rally",
+            "BeginOffset": 68,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.6168070435523987,
+            "Text": "big",
+            "BeginOffset": 100,
+            "EndOffset": 103
+        }
+    ]
+}

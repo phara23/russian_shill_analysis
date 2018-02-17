@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.939437210559845,
+            "Type": "PERSON",
+            "Text": "@ChadHarshman",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8837774991989136,
+            "Type": "PERSON",
+            "Text": "@MarcoRubio",
+            "BeginOffset": 19,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9998754262924194,
+            "Type": "OTHER",
+            "Text": "https://t.co/QXMnZorWC7",
+            "BeginOffset": 110,
+            "EndOffset": 133
+        }
+    ]
+}

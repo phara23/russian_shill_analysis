@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8784239888191223,
+            "Type": "PERSON",
+            "Text": "@cbinflux",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.970888614654541,
+            "Type": "PERSON",
+            "Text": "Hussein Obama",
+            "BeginOffset": 14,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.6987344622612,
+            "Type": "EVENT",
+            "Text": "9/11",
+            "BeginOffset": 36,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9999830722808838,
+            "Type": "OTHER",
+            "Text": "https://t.co/QZkjTuJkPD",
+            "BeginOffset": 55,
+            "EndOffset": 78
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8692435026168823,
+            "Type": "PERSON",
+            "Text": "@PMgeezer",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9823805093765259,
+            "Type": "PERSON",
+            "Text": "Comey",
+            "BeginOffset": 14,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.997772753238678,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 53,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9754305481910706,
+            "Type": "PERSON",
+            "Text": "Comey",
+            "BeginOffset": 102,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.993523359298706,
+            "Type": "ORGANIZATION",
+            "Text": "FBI",
+            "BeginOffset": 109,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.6407976150512695,
+            "Type": "ORGANIZATION",
+            "Text": "AttyGen",
+            "BeginOffset": 118,
+            "EndOffset": 125
+        },
+        {
+            "Score": 0.4151129722595215,
+            "Type": "ORGANIZATION",
+            "Text": "#Emailga",
+            "BeginOffset": 131,
+            "EndOffset": 139
+        }
+    ]
+}

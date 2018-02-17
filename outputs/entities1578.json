@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8404099941253662,
+            "Type": "PERSON",
+            "Text": "@makebeatsnow",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9630469083786011,
+            "Type": "QUANTITY",
+            "Text": "9 Things",
+            "BeginOffset": 57,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9123344421386719,
+            "Type": "OTHER",
+            "Text": "https://t.co/PdCRvTzwn9",
+            "BeginOffset": 68,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.9998633861541748,
+            "Type": "OTHER",
+            "Text": "https://t.co/tQqSolOokk",
+            "BeginOffset": 92,
+            "EndOffset": 115
+        }
+    ]
+}

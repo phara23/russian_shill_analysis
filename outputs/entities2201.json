@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7484756708145142,
+            "Type": "PERSON",
+            "Text": "@beforeitsnews",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.628441333770752,
+            "Type": "PERSON",
+            "Text": "Jet Stream",
+            "BeginOffset": 19,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9477738738059998,
+            "Type": "LOCATION",
+            "Text": "Earth",
+            "BeginOffset": 48,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.6134048700332642,
+            "Type": "ORGANIZATION",
+            "Text": "Molten Iron Core",
+            "BeginOffset": 56,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.8669681549072266,
+            "Type": "OTHER",
+            "Text": "https://t.co/rrYDsEpKuc",
+            "BeginOffset": 73,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.9999685287475586,
+            "Type": "OTHER",
+            "Text": "https://t.co/zDqHqzETZN",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        }
+    ]
+}

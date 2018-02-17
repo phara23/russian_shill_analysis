@@ -1,0 +1,67 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8863317966461182,
+            "Type": "PERSON",
+            "Text": "@MitchellBader",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.47626999020576477,
+            "Type": "ORGANIZATION",
+            "Text": "#WCW",
+            "BeginOffset": 19,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9686999320983887,
+            "Type": "PERSON",
+            "Text": "@HeyItsChris412",
+            "BeginOffset": 45,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9330733418464661,
+            "Type": "PERSON",
+            "Text": "@AAskelson",
+            "BeginOffset": 62,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.9774578213691711,
+            "Type": "PERSON",
+            "Text": "@KeshaTedder",
+            "BeginOffset": 74,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9650397896766663,
+            "Type": "PERSON",
+            "Text": "@ElizabeththeMob",
+            "BeginOffset": 88,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.9636656045913696,
+            "Type": "PERSON",
+            "Text": "@KattFunny",
+            "BeginOffset": 106,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.9086246490478516,
+            "Type": "PERSON",
+            "Text": "@mseric",
+            "BeginOffset": 118,
+            "EndOffset": 125
+        },
+        {
+            "Score": 0.9868265986442566,
+            "Type": "PERSON",
+            "Text": "@Preciosa_Li",
+            "BeginOffset": 127,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7467553019523621,
+            "Type": "PERSON",
+            "Text": "@IndieRadioPlay",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.650993287563324,
+            "Type": "ORGANIZATION",
+            "Text": "CK Morgan",
+            "BeginOffset": 33,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.8472363948822021,
+            "Type": "ORGANIZATION",
+            "Text": "Facebook",
+            "BeginOffset": 45,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.8932693004608154,
+            "Type": "PERSON",
+            "Text": "@iamckmorgan",
+            "BeginOffset": 60,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.9999821186065674,
+            "Type": "OTHER",
+            "Text": "https://t.co/eMX9JgTv3v",
+            "BeginOffset": 80,
+            "EndOffset": 103
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7363071441650391,
+            "Type": "PERSON",
+            "Text": "@SBSisters",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.7206372618675232,
+            "Type": "PERSON",
+            "Text": "@GitaSahgal",
+            "BeginOffset": 111,
+            "EndOffset": 122
+        },
+        {
+            "Score": 0.9727051258087158,
+            "Type": "OTHER",
+            "Text": "https://t.co/0RL",
+            "BeginOffset": 123,
+            "EndOffset": 139
+        }
+    ]
+}

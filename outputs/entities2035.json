@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9208427667617798,
+            "Type": "PERSON",
+            "Text": "@carolinagirl63",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9943081736564636,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 35,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9406774640083313,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 66,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9999557733535767,
+            "Type": "OTHER",
+            "Text": "https://t.co/B9HFti69uf",
+            "BeginOffset": 78,
+            "EndOffset": 101
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9602922201156616,
+            "Type": "PERSON",
+            "Text": "Chelsea Clinton",
+            "BeginOffset": 0,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9386427402496338,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 36,
+            "EndOffset": 39
+        }
+    ]
+}

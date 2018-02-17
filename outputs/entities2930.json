@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9306349158287048,
+            "Type": "PERSON",
+            "Text": "@Lrihendry",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.6795831322669983,
+            "Type": "PERSON",
+            "Text": "#DonaldTrump",
+            "BeginOffset": 51,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9995687007904053,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 93,
+            "EndOffset": 108
+        }
+    ]
+}

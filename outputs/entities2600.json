@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8608434796333313,
+            "Type": "PERSON",
+            "Text": "@ladymacbeth1212",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8834915161132812,
+            "Type": "PERSON",
+            "Text": "TRUMP",
+            "BeginOffset": 50,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.7387160062789917,
+            "Type": "PERSON",
+            "Text": "@NancyIncocoa",
+            "BeginOffset": 98,
+            "EndOffset": 111
+        },
+        {
+            "Score": 0.9999157190322876,
+            "Type": "OTHER",
+            "Text": "https://t.co/hFKTAgKU9R",
+            "BeginOffset": 115,
+            "EndOffset": 138
+        }
+    ]
+}

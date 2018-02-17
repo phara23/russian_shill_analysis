@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8184356093406677,
+            "Type": "PERSON",
+            "Text": "@SDNorthShore2",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.976355254650116,
+            "Type": "PERSON",
+            "Text": "@JohnFromCranber",
+            "BeginOffset": 19,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9873303771018982,
+            "Type": "PERSON",
+            "Text": "@stewartleroy184",
+            "BeginOffset": 36,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9465537071228027,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 88,
+            "EndOffset": 90
+        }
+    ]
+}

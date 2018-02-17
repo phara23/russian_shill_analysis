@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8818432688713074,
+            "Type": "PERSON",
+            "Text": "@hrkbenowen",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9946193695068359,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 59,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9999384880065918,
+            "Type": "OTHER",
+            "Text": "https://t.co/qzD1K0O0L9",
+            "BeginOffset": 87,
+            "EndOffset": 110
+        }
+    ]
+}

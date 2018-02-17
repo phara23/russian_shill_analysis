@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6932781338691711,
+            "Type": "ORGANIZATION",
+            "Text": "@CarterNews",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9414361119270325,
+            "Type": "ORGANIZATION",
+            "Text": "NAACP",
+            "BeginOffset": 16,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.8083702325820923,
+            "Type": "PERSON",
+            "Text": "Senator Sessions",
+            "BeginOffset": 48,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.627975344657898,
+            "Type": "DATE",
+            "Text": "5",
+            "BeginOffset": 105,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.9999865293502808,
+            "Type": "OTHER",
+            "Text": "https://t.co/9sqUZNBelC",
+            "BeginOffset": 108,
+            "EndOffset": 131
+        }
+    ]
+}

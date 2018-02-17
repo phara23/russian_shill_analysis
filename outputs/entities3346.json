@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8337792754173279,
+            "Type": "DATE",
+            "Text": "next day",
+            "BeginOffset": 50,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.7106491327285767,
+            "Type": "EVENT",
+            "Text": "Christmas",
+            "BeginOffset": 85,
+            "EndOffset": 94
+        }
+    ]
+}

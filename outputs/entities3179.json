@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8243306279182434,
+            "Type": "PERSON",
+            "Text": "@DonThePromoter1",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.7033705711364746,
+            "Type": "PERSON",
+            "Text": "@HazeyBaby_",
+            "BeginOffset": 21,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9429552555084229,
+            "Type": "OTHER",
+            "Text": "https://t.co/N9F0zYLhgC",
+            "BeginOffset": 74,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.9032056331634521,
+            "Type": "ORGANIZATION",
+            "Text": "#Spotify",
+            "BeginOffset": 122,
+            "EndOffset": 130
+        }
+    ]
+}

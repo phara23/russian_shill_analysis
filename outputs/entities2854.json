@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8682298064231873,
+            "Type": "PERSON",
+            "Text": "@constantnatalie",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8648683428764343,
+            "Type": "PERSON",
+            "Text": "@OhioNLG",
+            "BeginOffset": 37,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.4654337763786316,
+            "Type": "ORGANIZATION",
+            "Text": "#ResistRNC",
+            "BeginOffset": 50,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9999805688858032,
+            "Type": "OTHER",
+            "Text": "216-505-0654",
+            "BeginOffset": 62,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9995459318161011,
+            "Type": "OTHER",
+            "Text": "(216) 496-6819",
+            "BeginOffset": 87,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.6908330917358398,
+            "Type": "ORGANIZATION",
+            "Text": "#RNCinCLE",
+            "BeginOffset": 102,
+            "EndOffset": 111
+        },
+        {
+            "Score": 0.9120374917984009,
+            "Type": "OTHER",
+            "Text": "https://t.co/UfwCOO9bZ3",
+            "BeginOffset": 112,
+            "EndOffset": 135
+        }
+    ]
+}

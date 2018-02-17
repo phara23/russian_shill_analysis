@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9107093811035156,
+            "Type": "PERSON",
+            "Text": "@wesearchr",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8841306567192078,
+            "Type": "PERSON",
+            "Text": "@BarackObama",
+            "BeginOffset": 83,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.7005404829978943,
+            "Type": "DATE",
+            "Text": "80s",
+            "BeginOffset": 101,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.9397667646408081,
+            "Type": "OTHER",
+            "Text": "https://t.co/EORj2kKT1J",
+            "BeginOffset": 106,
+            "EndOffset": 129
+        },
+        {
+            "Score": 0.9488794803619385,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 130,
+            "EndOffset": 139
+        }
+    ]
+}

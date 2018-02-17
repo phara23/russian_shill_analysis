@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6562185287475586,
+            "Type": "PERSON",
+            "Text": "@CoffeeNTrees",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9962282776832581,
+            "Type": "DATE",
+            "Text": "3am",
+            "BeginOffset": 94,
+            "EndOffset": 97
+        }
+    ]
+}

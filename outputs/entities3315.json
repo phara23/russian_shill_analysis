@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9366309642791748,
+            "Type": "PERSON",
+            "Text": "@chase_august",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7471438646316528,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 18,
+            "EndOffset": 25
+        }
+    ]
+}

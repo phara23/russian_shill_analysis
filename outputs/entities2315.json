@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6928532719612122,
+            "Type": "ORGANIZATION",
+            "Text": "@PowerMusicTeam",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9201521873474121,
+            "Type": "OTHER",
+            "Text": "https://t.co/sYbm1ihiy0",
+            "BeginOffset": 80,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.999984860420227,
+            "Type": "OTHER",
+            "Text": "https://t.co/pbGZ8bj0vs",
+            "BeginOffset": 104,
+            "EndOffset": 127
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6990463733673096,
+            "Type": "QUANTITY",
+            "Text": "10 killed",
+            "BeginOffset": 20,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.6099036931991577,
+            "Type": "LOCATION",
+            "Text": "Metro Station",
+            "BeginOffset": 33,
+            "EndOffset": 46
+        }
+    ]
+}

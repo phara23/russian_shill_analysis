@@ -1,0 +1,81 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5487341284751892,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8659529685974121,
+            "Type": "PERSON",
+            "Text": "@Delo_Taylor",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8316018581390381,
+            "Type": "PERSON",
+            "Text": "@TheNewThinker",
+            "BeginOffset": 21,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9640044569969177,
+            "Type": "PERSON",
+            "Text": "@ztsamudzi",
+            "BeginOffset": 36,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9062185287475586,
+            "Type": "PERSON",
+            "Text": "@syndicalisms",
+            "BeginOffset": 47,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9231101870536804,
+            "Type": "PERSON",
+            "Text": "@GuruBluXVIII",
+            "BeginOffset": 61,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9757230281829834,
+            "Type": "PERSON",
+            "Text": "@_Uncensorable",
+            "BeginOffset": 75,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.982553243637085,
+            "Type": "PERSON",
+            "Text": "@dejahsmommy",
+            "BeginOffset": 90,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.9808514714241028,
+            "Type": "PERSON",
+            "Text": "@FreeKeithDavis",
+            "BeginOffset": 103,
+            "EndOffset": 118
+        },
+        {
+            "Score": 0.8967299461364746,
+            "Type": "PERSON",
+            "Text": "@dwatkinsworld",
+            "BeginOffset": 119,
+            "EndOffset": 133
+        },
+        {
+            "Score": 0.9736303091049194,
+            "Type": "PERSON",
+            "Text": "@cjwe",
+            "BeginOffset": 134,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.923475980758667,
+            "Type": "PERSON",
+            "Text": "@Chris_1791",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9949042797088623,
+            "Type": "PERSON",
+            "Text": "Jeb Bush",
+            "BeginOffset": 16,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9646868109703064,
+            "Type": "LOCATION",
+            "Text": "Germany",
+            "BeginOffset": 28,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9646749496459961,
+            "Type": "PERSON",
+            "Text": "Putin",
+            "BeginOffset": 37,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9999716281890869,
+            "Type": "OTHER",
+            "Text": "http://t.co/0W9siPrg8e",
+            "BeginOffset": 70,
+            "EndOffset": 92
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9795470833778381,
+            "Type": "PERSON",
+            "Text": "@JamilSmith",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9999806880950928,
+            "Type": "OTHER",
+            "Text": "https://t.co/FaQWq39Y6M",
+            "BeginOffset": 27,
+            "EndOffset": 50
+        }
+    ]
+}

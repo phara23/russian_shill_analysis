@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8790608644485474,
+            "Type": "PERSON",
+            "Text": "@canarymission",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6088602542877197,
+            "Type": "EVENT",
+            "Text": "SJP National Conference",
+            "BeginOffset": 19,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.8960093855857849,
+            "Type": "PERSON",
+            "Text": "Nerdeen Kiswani",
+            "BeginOffset": 55,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.6440362930297852,
+            "Type": "EVENT",
+            "Text": "#NSJP2016",
+            "BeginOffset": 97,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.9254419207572937,
+            "Type": "OTHER",
+            "Text": "https://t.co/JGFuKiFZBS",
+            "BeginOffset": 107,
+            "EndOffset": 130
+        },
+        {
+            "Score": 0.8643227219581604,
+            "Type": "OTHER",
+            "Text": "https://…",
+            "BeginOffset": 131,
+            "EndOffset": 140
+        }
+    ]
+}

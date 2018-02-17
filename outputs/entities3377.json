@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.880310595035553,
+            "Type": "PERSON",
+            "Text": "@Perfectly_Laura",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.6358884572982788,
+            "Type": "QUANTITY",
+            "Text": "#2",
+            "BeginOffset": 96,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.9996330738067627,
+            "Type": "OTHER",
+            "Text": "https://t.co/BCghNyAlDz",
+            "BeginOffset": 100,
+            "EndOffset": 123
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9776280522346497,
+            "Type": "PERSON",
+            "Text": "@JayChar15376136",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.5135163068771362,
+            "Type": "LOCATION",
+            "Text": "American",
+            "BeginOffset": 25,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9816075563430786,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 51,
+            "EndOffset": 56
+        }
+    ]
+}

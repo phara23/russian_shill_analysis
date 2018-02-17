@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9172235727310181,
+            "Type": "PERSON",
+            "Text": "@mogrant61",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.645296037197113,
+            "Type": "LOCATION",
+            "Text": "Canada",
+            "BeginOffset": 15,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9706313610076904,
+            "Type": "PERSON",
+            "Text": "Trudeau",
+            "BeginOffset": 60,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.49979016184806824,
+            "Type": "LOCATION",
+            "Text": "Canadian",
+            "BeginOffset": 83,
+            "EndOffset": 91
+        }
+    ]
+}

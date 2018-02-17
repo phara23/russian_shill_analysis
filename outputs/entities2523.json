@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.935801088809967,
+            "Type": "LOCATION",
+            "Text": "Philippines",
+            "BeginOffset": 0,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8285587430000305,
+            "Type": "PERSON",
+            "Text": "Duterte",
+            "BeginOffset": 13,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.9964300990104675,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 22,
+            "EndOffset": 27
+        }
+    ]
+}

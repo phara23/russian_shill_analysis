@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8433201909065247,
+            "Type": "PERSON",
+            "Text": "@gerfingerpoken2",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9984196424484253,
+            "Type": "PERSON",
+            "Text": "Charles Woods",
+            "BeginOffset": 27,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.5276045203208923,
+            "Type": "PERSON",
+            "Text": "Ty",
+            "BeginOffset": 72,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9908101558685303,
+            "Type": "OTHER",
+            "Text": "https://t.co/LpLMT4J2XU",
+            "BeginOffset": 83,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.6819788813591003,
+            "Type": "ORGANIZATION",
+            "Text": "@IBDEditorials",
+            "BeginOffset": 108,
+            "EndOffset": 122
+        },
+        {
+            "Score": 0.41153109073638916,
+            "Type": "ORGANIZATION",
+            "Text": "#PJNET",
+            "BeginOffset": 123,
+            "EndOffset": 129
+        },
+        {
+            "Score": 0.7737085223197937,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 130,
+            "EndOffset": 139
+        }
+    ]
+}

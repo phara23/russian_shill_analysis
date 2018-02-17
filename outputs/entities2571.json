@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8921820521354675,
+            "Type": "PERSON",
+            "Text": "@gabeschoenfeld",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.978826105594635,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 32,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.8713896870613098,
+            "Type": "ORGANIZATION",
+            "Text": "@USATODAY",
+            "BeginOffset": 57,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9838983416557312,
+            "Type": "OTHER",
+            "Text": "https://t.co/eTBXmlIcHi",
+            "BeginOffset": 67,
+            "EndOffset": 90
+        }
+    ]
+}

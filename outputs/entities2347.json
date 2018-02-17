@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7966227531433105,
+            "Type": "PERSON",
+            "Text": "@THETXEMBASSY",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9209742546081543,
+            "Type": "QUANTITY",
+            "Text": "2 Tales",
+            "BeginOffset": 18,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9721426367759705,
+            "Type": "OTHER",
+            "Text": "https://t.co/ldgsQ68ClX",
+            "BeginOffset": 36,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.6714332699775696,
+            "Type": "ORGANIZATION",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 75,
+            "EndOffset": 90
+        }
+    ]
+}

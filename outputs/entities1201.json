@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9850640892982483,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 0,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.6501591205596924,
+            "Type": "LOCATION",
+            "Text": "Utah",
+            "BeginOffset": 44,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9985596537590027,
+            "Type": "LOCATION",
+            "Text": "Arizona",
+            "BeginOffset": 50,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9898536801338196,
+            "Type": "LOCATION",
+            "Text": "Georgia",
+            "BeginOffset": 62,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9609135389328003,
+            "Type": "OTHER",
+            "Text": "https://t.co/s7NDCKikCS",
+            "BeginOffset": 70,
+            "EndOffset": 93
+        }
+    ]
+}

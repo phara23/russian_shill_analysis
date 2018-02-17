@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8098543882369995,
+            "Type": "PERSON",
+            "Text": "@DRUDGE_REPORT",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9995998740196228,
+            "Type": "PERSON",
+            "Text": "Jill Stein",
+            "BeginOffset": 19,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.8508784174919128,
+            "Type": "ORGANIZATION",
+            "Text": "Democrats",
+            "BeginOffset": 85,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.9998989105224609,
+            "Type": "OTHER",
+            "Text": "https://t.co/gKtzEXaKHz",
+            "BeginOffset": 116,
+            "EndOffset": 139
+        }
+    ]
+}

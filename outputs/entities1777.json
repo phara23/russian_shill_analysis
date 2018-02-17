@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8483648896217346,
+            "Type": "PERSON",
+            "Text": "@KCityDaily",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9786402583122253,
+            "Type": "DATE",
+            "Text": "May 2015",
+            "BeginOffset": 22,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.7499914765357971,
+            "Type": "ORGANIZATION",
+            "Text": "Kansas Storm",
+            "BeginOffset": 31,
+            "EndOffset": 43
+        }
+    ]
+}

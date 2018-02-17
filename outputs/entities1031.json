@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9848665595054626,
+            "Type": "ORGANIZATION",
+            "Text": "Twitter",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.6950604915618896,
+            "Type": "ORGANIZATION",
+            "Text": "@BrunellDonald",
+            "BeginOffset": 77,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.9998941421508789,
+            "Type": "OTHER",
+            "Text": "https://t.co/tD75BeiWmW",
+            "BeginOffset": 109,
+            "EndOffset": 132
+        }
+    ]
+}

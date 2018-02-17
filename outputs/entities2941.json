@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9280765056610107,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 0,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8922361731529236,
+            "Type": "PERSON",
+            "Text": "@NMAAHC",
+            "BeginOffset": 16,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9037089347839355,
+            "Type": "PERSON",
+            "Text": "Gennifer Flowers",
+            "BeginOffset": 32,
+            "EndOffset": 48
+        }
+    ]
+}

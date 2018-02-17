@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9203739762306213,
+            "Type": "PERSON",
+            "Text": "@JimMaisano",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7868908047676086,
+            "Type": "QUANTITY",
+            "Text": "1/3",
+            "BeginOffset": 16,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9808450937271118,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 24,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.7862656116485596,
+            "Type": "QUANTITY",
+            "Text": "1/5",
+            "BeginOffset": 36,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9855859875679016,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 44,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9999265670776367,
+            "Type": "OTHER",
+            "Text": "https://t.co/xCHtxuMBWF",
+            "BeginOffset": 83,
+            "EndOffset": 106
+        }
+    ]
+}

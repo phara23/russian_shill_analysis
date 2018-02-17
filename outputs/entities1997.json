@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6225866675376892,
+            "Type": "PERSON",
+            "Text": "@TIME",
+            "BeginOffset": 3,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.9996092319488525,
+            "Type": "PERSON",
+            "Text": "Stephen Hawking",
+            "BeginOffset": 10,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.8778634071350098,
+            "Type": "QUANTITY",
+            "Text": "hundreds of other scientists",
+            "BeginOffset": 30,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9959553480148315,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 72,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.999667763710022,
+            "Type": "OTHER",
+            "Text": "https://t.co/TKKUL885ui",
+            "BeginOffset": 85,
+            "EndOffset": 108
+        }
+    ]
+}

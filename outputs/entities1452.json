@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9096025824546814,
+            "Type": "PERSON",
+            "Text": "@morehouse64",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9936815500259399,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 35,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9956063628196716,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 90,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.8754976391792297,
+            "Type": "OTHER",
+            "Text": "https://t.co/wW0PDoCn5R",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        }
+    ]
+}

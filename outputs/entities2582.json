@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9971883893013,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 0,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.858110785484314,
+            "Type": "ORGANIZATION",
+            "Text": "RNC",
+            "BeginOffset": 33,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.5975600481033325,
+            "Type": "LOCATION",
+            "Text": "Ohio",
+            "BeginOffset": 59,
+            "EndOffset": 63
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9039567112922668,
+            "Type": "PERSON",
+            "Text": "@iosbakerjoe",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9324269890785217,
+            "Type": "PERSON",
+            "Text": "Rasmea Odeh",
+            "BeginOffset": 17,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9729670882225037,
+            "Type": "OTHER",
+            "Text": "https://t.co/yKXDAajB1w",
+            "BeginOffset": 47,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.5376527905464172,
+            "Type": "TITLE",
+            "Text": "#Justice4",
+            "BeginOffset": 73,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.9498623013496399,
+            "Type": "PERSON",
+            "Text": "@BaburRealer",
+            "BeginOffset": 89,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.9557861089706421,
+            "Type": "PERSON",
+            "Text": "@BootsRiley",
+            "BeginOffset": 102,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.9505841135978699,
+            "Type": "PERSON",
+            "Text": "@BrotherFlourish",
+            "BeginOffset": 114,
+            "EndOffset": 130
+        },
+        {
+            "Score": 0.9433339238166809,
+            "Type": "PERSON",
+            "Text": "@Chgofen",
+            "BeginOffset": 131,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7990123629570007,
+            "Type": "LOCATION",
+            "Text": "Nebraska",
+            "BeginOffset": 0,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.9992875456809998,
+            "Type": "PERSON",
+            "Text": "Ben Sasse",
+            "BeginOffset": 11,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.9867397546768188,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 44,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.999980092048645,
+            "Type": "OTHER",
+            "Text": "https://t.co/5FZWPKnyD4",
+            "BeginOffset": 57,
+            "EndOffset": 80
+        }
+    ]
+}

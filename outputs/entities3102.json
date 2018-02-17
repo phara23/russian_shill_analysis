@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.68919837474823,
+            "Type": "PERSON",
+            "Text": "@4ruppert",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.87896329164505,
+            "Type": "ORGANIZATION",
+            "Text": "@5_News",
+            "BeginOffset": 14,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9464448094367981,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 22,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9192911982536316,
+            "Type": "PERSON",
+            "Text": "@DiamondandSilk",
+            "BeginOffset": 39,
+            "EndOffset": 54
+        }
+    ]
+}

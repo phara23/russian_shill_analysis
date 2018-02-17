@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9305600523948669,
+            "Type": "PERSON",
+            "Text": "@TrayneshaCole",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9928394556045532,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 61,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9939542412757874,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 115,
+            "EndOffset": 120
+        }
+    ]
+}

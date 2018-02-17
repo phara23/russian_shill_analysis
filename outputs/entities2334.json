@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8622989654541016,
+            "Type": "PERSON",
+            "Text": "@guardianeco",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9047080874443054,
+            "Type": "LOCATION",
+            "Text": "UK",
+            "BeginOffset": 17,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.7615837454795837,
+            "Type": "QUANTITY",
+            "Text": "first time",
+            "BeginOffset": 50,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9996601343154907,
+            "Type": "OTHER",
+            "Text": "https://t.co/hIfvcVwscU",
+            "BeginOffset": 61,
+            "EndOffset": 84
+        }
+    ]
+}

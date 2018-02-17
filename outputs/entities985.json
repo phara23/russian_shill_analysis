@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7164781093597412,
+            "Type": "COMMERCIAL_ITEM",
+            "Text": "K9 to 5",
+            "BeginOffset": 0,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.5883851051330566,
+            "Type": "PERSON",
+            "Text": "@midnight",
+            "BeginOffset": 18,
+            "EndOffset": 27
+        }
+    ]
+}

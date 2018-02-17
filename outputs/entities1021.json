@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8447886109352112,
+            "Type": "PERSON",
+            "Text": "@luvGodncountry",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9814925789833069,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 20,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9806720614433289,
+            "Type": "OTHER",
+            "Text": "https://t.co/JmnDJNrYmF",
+            "BeginOffset": 77,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.9342432618141174,
+            "Type": "ORGANIZATION",
+            "Text": "@AllenWestRepub",
+            "BeginOffset": 105,
+            "EndOffset": 120
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8242698311805725,
+            "Type": "PERSON",
+            "Text": "@OnlineHouston",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.5142492651939392,
+            "Type": "ORGANIZATION",
+            "Text": "Texans",
+            "BeginOffset": 19,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9842583537101746,
+            "Type": "PERSON",
+            "Text": "Stevie Brown",
+            "BeginOffset": 46,
+            "EndOffset": 58
+        }
+    ]
+}

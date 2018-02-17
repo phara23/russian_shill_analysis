@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8552104830741882,
+            "Type": "PERSON",
+            "Text": "@wznewsline",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7907363772392273,
+            "Type": "PERSON",
+            "Text": "Krefeld Pinguine",
+            "BeginOffset": 16,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.8879706263542175,
+            "Type": "OTHER",
+            "Text": "https://t.co/SbpzzYyPTa",
+            "BeginOffset": 78,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.9999669790267944,
+            "Type": "OTHER",
+            "Text": "https://t.co/B1UrDFBUJG",
+            "BeginOffset": 102,
+            "EndOffset": 125
+        }
+    ]
+}

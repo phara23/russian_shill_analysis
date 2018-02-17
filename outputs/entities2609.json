@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8794086575508118,
+            "Type": "PERSON",
+            "Text": "@TweetingYarnie",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8954688310623169,
+            "Type": "LOCATION",
+            "Text": "United States",
+            "BeginOffset": 43,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.8703793883323669,
+            "Type": "ORGANIZATION",
+            "Text": "@wikileaks",
+            "BeginOffset": 78,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9995095729827881,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 106,
+            "EndOffset": 121
+        }
+    ]
+}

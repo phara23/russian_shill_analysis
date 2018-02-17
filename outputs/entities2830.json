@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5791598558425903,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.941707968711853,
+            "Type": "PERSON",
+            "Text": "@Cameron_Gray",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.5769402384757996,
+            "Type": "QUANTITY",
+            "Text": "17",
+            "BeginOffset": 30,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.7066236138343811,
+            "Type": "QUANTITY",
+            "Text": "18 yo students",
+            "BeginOffset": 39,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.7324523329734802,
+            "Type": "QUANTITY",
+            "Text": "9th",
+            "BeginOffset": 66,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9264854192733765,
+            "Type": "ORGANIZATION",
+            "Text": "@icegov",
+            "BeginOffset": 113,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.8885725140571594,
+            "Type": "DATE",
+            "Text": "today",
+            "BeginOffset": 128,
+            "EndOffset": 133
+        }
+    ]
+}

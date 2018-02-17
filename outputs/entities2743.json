@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8846877217292786,
+            "Type": "PERSON",
+            "Text": "@trumpazona",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9561282992362976,
+            "Type": "ORGANIZATION",
+            "Text": "IRS",
+            "BeginOffset": 16,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.7705040574073792,
+            "Type": "QUANTITY",
+            "Text": "1 million",
+            "BeginOffset": 33,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.8882765173912048,
+            "Type": "OTHER",
+            "Text": "https://t.co/jdfhvzQPvd",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        }
+    ]
+}

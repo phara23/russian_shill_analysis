@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6792108416557312,
+            "Type": "PERSON",
+            "Text": "@VICE",
+            "BeginOffset": 3,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.9059085249900818,
+            "Type": "ORGANIZATION",
+            "Text": "Supreme Court",
+            "BeginOffset": 22,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9996595978736877,
+            "Type": "PERSON",
+            "Text": "Neil Gorsuch",
+            "BeginOffset": 44,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9723421931266785,
+            "Type": "ORGANIZATION",
+            "Text": "Congress",
+            "BeginOffset": 72,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.8853858709335327,
+            "Type": "OTHER",
+            "Text": "https://t.co/RgXjf98XBS",
+            "BeginOffset": 82,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.9999899864196777,
+            "Type": "OTHER",
+            "Text": "https://t.co/IlBwzglQ6Q",
+            "BeginOffset": 106,
+            "EndOffset": 129
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9214508533477783,
+            "Type": "PERSON",
+            "Text": "@bfraser747",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.6518344283103943,
+            "Type": "QUANTITY",
+            "Text": "4Trump",
+            "BeginOffset": 24,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.8511288166046143,
+            "Type": "ORGANIZATION",
+            "Text": "Republican",
+            "BeginOffset": 58,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9694759845733643,
+            "Type": "ORGANIZATION",
+            "Text": "Democrat",
+            "BeginOffset": 73,
+            "EndOffset": 81
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6330860257148743,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 29,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.6448854207992554,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 41,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9079023003578186,
+            "Type": "ORGANIZATION",
+            "Text": "@POTUS",
+            "BeginOffset": 49,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.48845914006233215,
+            "Type": "ORGANIZATION",
+            "Text": "#IslamKills",
+            "BeginOffset": 69,
+            "EndOffset": 80
+        }
+    ]
+}

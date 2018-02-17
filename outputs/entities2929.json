@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8364742398262024,
+            "Type": "PERSON",
+            "Text": "@funnyordie",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9882054924964905,
+            "Type": "PERSON",
+            "Text": "Shia LaBeouf",
+            "BeginOffset": 23,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9299059510231018,
+            "Type": "OTHER",
+            "Text": "http://t.co/SZoeaQqbNX",
+            "BeginOffset": 106,
+            "EndOffset": 128
+        },
+        {
+            "Score": 0.9751377701759338,
+            "Type": "OTHER",
+            "Text": "http://t.c",
+            "BeginOffset": 129,
+            "EndOffset": 139
+        }
+    ]
+}

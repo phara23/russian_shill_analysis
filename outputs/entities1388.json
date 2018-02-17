@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.927807092666626,
+            "Type": "PERSON",
+            "Text": "@lenaporter23",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9642913937568665,
+            "Type": "LOCATION",
+            "Text": "Tulsa Oklahoma",
+            "BeginOffset": 104,
+            "EndOffset": 118
+        },
+        {
+            "Score": 0.9833916425704956,
+            "Type": "OTHER",
+            "Text": "https://t.co/ASSpQS",
+            "BeginOffset": 120,
+            "EndOffset": 139
+        }
+    ]
+}

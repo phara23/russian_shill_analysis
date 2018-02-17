@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8525298833847046,
+            "Type": "PERSON",
+            "Text": "@Dlw20161950",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.846621572971344,
+            "Type": "PERSON",
+            "Text": "Reince You",
+            "BeginOffset": 17,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9905615448951721,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 34,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9965300559997559,
+            "Type": "PERSON",
+            "Text": "Ted Cruz",
+            "BeginOffset": 67,
+            "EndOffset": 75
+        }
+    ]
+}

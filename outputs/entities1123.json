@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8604902625083923,
+            "Type": "PERSON",
+            "Text": "@Always_Trump",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9194470047950745,
+            "Type": "ORGANIZATION",
+            "Text": "@CNN",
+            "BeginOffset": 19,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.8297304511070251,
+            "Type": "PERSON",
+            "Text": "#Trump",
+            "BeginOffset": 58,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.8046876788139343,
+            "Type": "QUANTITY",
+            "Text": "FOUR bombs",
+            "BeginOffset": 93,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.8680196404457092,
+            "Type": "LOCATION",
+            "Text": "NJ",
+            "BeginOffset": 107,
+            "EndOffset": 109
+        },
+        {
+            "Score": 0.8430436253547668,
+            "Type": "LOCATION",
+            "Text": "#Chelsea",
+            "BeginOffset": 119,
+            "EndOffset": 127
+        }
+    ]
+}

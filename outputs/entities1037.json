@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5080840587615967,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8920856714248657,
+            "Type": "PERSON",
+            "Text": "@Georg_Grey",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9999909400939941,
+            "Type": "OTHER",
+            "Text": "https://t.co/LxKp6hN3YR",
+            "BeginOffset": 16,
+            "EndOffset": 39
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9142510294914246,
+            "Type": "PERSON",
+            "Text": "@tillmanair",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9408134818077087,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 48,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9996336698532104,
+            "Type": "OTHER",
+            "Text": "https://t.co/DGDObPheSa",
+            "BeginOffset": 65,
+            "EndOffset": 88
+        }
+    ]
+}

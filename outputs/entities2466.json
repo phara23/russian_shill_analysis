@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.908907949924469,
+            "Type": "PERSON",
+            "Text": "@VigilantVeteran",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9895589351654053,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 31,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9523159265518188,
+            "Type": "LOCATION",
+            "Text": "NYC",
+            "BeginOffset": 46,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.39446884393692017,
+            "Type": "ORGANIZATION",
+            "Text": "#ChelseaNYC",
+            "BeginOffset": 119,
+            "EndOffset": 130
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9076629281044006,
+            "Type": "PERSON",
+            "Text": "@colinflaherty",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6464806795120239,
+            "Type": "ORGANIZATION",
+            "Text": "Charlotte Baltimore Ferguson",
+            "BeginOffset": 87,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.7354443073272705,
+            "Type": "ORGANIZATION",
+            "Text": "Chicago St. Louis",
+            "BeginOffset": 116,
+            "EndOffset": 133
+        }
+    ]
+}

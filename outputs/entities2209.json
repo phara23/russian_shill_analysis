@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8730596899986267,
+            "Type": "PERSON",
+            "Text": "@guardian",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9957402944564819,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 14,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.6902195811271667,
+            "Type": "ORGANIZATION",
+            "Text": "Ford",
+            "BeginOffset": 44,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9999139308929443,
+            "Type": "OTHER",
+            "Text": "https://t.co/McvRmCYEpQ",
+            "BeginOffset": 78,
+            "EndOffset": 101
+        }
+    ]
+}

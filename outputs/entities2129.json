@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.840241551399231,
+            "Type": "PERSON",
+            "Text": "Glen Burnie",
+            "BeginOffset": 49,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9130455851554871,
+            "Type": "OTHER",
+            "Text": "https://t.co/Xb0U1xHnIi",
+            "BeginOffset": 61,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9999879598617554,
+            "Type": "OTHER",
+            "Text": "https://t.co/zmHXtti0Na",
+            "BeginOffset": 85,
+            "EndOffset": 108
+        }
+    ]
+}

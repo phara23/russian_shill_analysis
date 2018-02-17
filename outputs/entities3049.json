@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7879711985588074,
+            "Type": "PERSON",
+            "Text": "@toomuchnoise",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9986751675605774,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 30,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9848007559776306,
+            "Type": "PERSON",
+            "Text": "@Evan_McMullin",
+            "BeginOffset": 59,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.9872123599052429,
+            "Type": "OTHER",
+            "Text": "https://t.co/X9i29MQ8cQ",
+            "BeginOffset": 92,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.7619467377662659,
+            "Type": "PERSON",
+            "Text": "@RinainDC",
+            "BeginOffset": 116,
+            "EndOffset": 125
+        },
+        {
+            "Score": 0.9423153400421143,
+            "Type": "PERSON",
+            "Text": "@TheRickWils",
+            "BeginOffset": 127,
+            "EndOffset": 139
+        }
+    ]
+}

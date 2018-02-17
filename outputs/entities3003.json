@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8757264018058777,
+            "Type": "PERSON",
+            "Text": "@ChristianRapPR",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9062193632125854,
+            "Type": "PERSON",
+            "Text": "@grace_records",
+            "BeginOffset": 53,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9398276209831238,
+            "Type": "PERSON",
+            "Text": "Tymon",
+            "BeginOffset": 75,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.8975285887718201,
+            "Type": "OTHER",
+            "Text": "https://t.co/TigMBKUZHM",
+            "BeginOffset": 111,
+            "EndOffset": 134
+        }
+    ]
+}

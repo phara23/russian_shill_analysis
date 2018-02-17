@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8256555795669556,
+            "Type": "PERSON",
+            "Text": "@ZaibatsuNews",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9089889526367188,
+            "Type": "OTHER",
+            "Text": "https://t.co/LrgX9PraKu",
+            "BeginOffset": 72,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.7864083647727966,
+            "Type": "ORGANIZATION",
+            "Text": "#p2 #tcot",
+            "BeginOffset": 96,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.6746233105659485,
+            "Type": "ORGANIZATION",
+            "Text": "#2a",
+            "BeginOffset": 106,
+            "EndOffset": 109
+        },
+        {
+            "Score": 0.9998573064804077,
+            "Type": "OTHER",
+            "Text": "https://t.co/0bNCwQr0Td",
+            "BeginOffset": 110,
+            "EndOffset": 133
+        }
+    ]
+}

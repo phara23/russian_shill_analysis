@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8162452578544617,
+            "Type": "PERSON",
+            "Text": "@WalterTippie",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.6376086473464966,
+            "Type": "PERSON",
+            "Text": "Barney",
+            "BeginOffset": 22,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.7922984957695007,
+            "Type": "QUANTITY",
+            "Text": "900 terrorist",
+            "BeginOffset": 53,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9961712956428528,
+            "Type": "PERSON",
+            "Text": "Andy",
+            "BeginOffset": 73,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.6782009601593018,
+            "Type": "LOCATION",
+            "Text": "U.S",
+            "BeginOffset": 94,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.7845360040664673,
+            "Type": "PERSON",
+            "Text": "Obam",
+            "BeginOffset": 135,
+            "EndOffset": 139
+        }
+    ]
+}

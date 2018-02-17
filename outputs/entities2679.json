@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.925971269607544,
+            "Type": "PERSON",
+            "Text": "@JLCauvin",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9972506761550903,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 14,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9276612997055054,
+            "Type": "PERSON",
+            "Text": "Luke Cage",
+            "BeginOffset": 35,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9995513558387756,
+            "Type": "OTHER",
+            "Text": "https://t.co/gnWMJfEd2r",
+            "BeginOffset": 45,
+            "EndOffset": 68
+        }
+    ]
+}

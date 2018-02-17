@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9680851101875305,
+            "Type": "PERSON",
+            "Text": "@nancymo0621",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8181524276733398,
+            "Type": "PERSON",
+            "Text": "@Whataburger",
+            "BeginOffset": 24,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.8025250434875488,
+            "Type": "QUANTITY",
+            "Text": "3Words",
+            "BeginOffset": 52,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9996801614761353,
+            "Type": "OTHER",
+            "Text": "https://t.co/L9WGoDtZzG",
+            "BeginOffset": 59,
+            "EndOffset": 82
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9460707306861877,
+            "Type": "PERSON",
+            "Text": "@sarahkendzior",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9914131164550781,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 117,
+            "EndOffset": 122
+        }
+    ]
+}

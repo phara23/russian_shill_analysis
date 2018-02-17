@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8512790203094482,
+            "Type": "PERSON",
+            "Text": "@ScreamyMonkey",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8045210838317871,
+            "Type": "LOCATION",
+            "Text": "Texas",
+            "BeginOffset": 35,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.8171271681785583,
+            "Type": "ORGANIZATION",
+            "Text": "OSHA",
+            "BeginOffset": 83,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.9999709129333496,
+            "Type": "OTHER",
+            "Text": "http://t.co/YteJBQ04fJ",
+            "BeginOffset": 88,
+            "EndOffset": 110
+        }
+    ]
+}

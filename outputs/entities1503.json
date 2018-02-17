@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8459917902946472,
+            "Type": "PERSON",
+            "Text": "@youlivethrice",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7669525146484375,
+            "Type": "LOCATION",
+            "Text": "American",
+            "BeginOffset": 68,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.7948183417320251,
+            "Type": "ORGANIZATION",
+            "Text": "9th Circuit",
+            "BeginOffset": 91,
+            "EndOffset": 102
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7896866202354431,
+            "Type": "PERSON",
+            "Text": "@WorldTruthTV",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.4292230010032654,
+            "Type": "ORGANIZATION",
+            "Text": "Monsanto",
+            "BeginOffset": 18,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.821378231048584,
+            "Type": "QUANTITY",
+            "Text": "56 Million Loss",
+            "BeginOffset": 35,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.6255642175674438,
+            "Type": "OTHER",
+            "Text": "Q4",
+            "BeginOffset": 54,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.8538047075271606,
+            "Type": "OTHER",
+            "Text": "https://t.co/telXZBWPRi",
+            "BeginOffset": 93,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.9858712553977966,
+            "Type": "OTHER",
+            "Text": "https://t.co/5WwaYgQ",
+            "BeginOffset": 117,
+            "EndOffset": 137
+        }
+    ]
+}

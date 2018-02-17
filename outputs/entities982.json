@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7929128408432007,
+            "Type": "PERSON",
+            "Text": "Sanford",
+            "BeginOffset": 0,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.5079823136329651,
+            "Type": "PERSON",
+            "Text": "Mumford",
+            "BeginOffset": 9,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.5203562378883362,
+            "Type": "PERSON",
+            "Text": "Sons",
+            "BeginOffset": 21,
+            "EndOffset": 25
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.891551673412323,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 11,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9974391460418701,
+            "Type": "PERSON",
+            "Text": "Paul Ryan",
+            "BeginOffset": 22,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.934529185295105,
+            "Type": "LOCATION",
+            "Text": "Texas",
+            "BeginOffset": 41,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9472593665122986,
+            "Type": "OTHER",
+            "Text": "https://t.co/h2ktq4o7ot",
+            "BeginOffset": 56,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.897405207157135,
+            "Type": "OTHER",
+            "Text": "https://t.co/GEOYS5E4Ll",
+            "BeginOffset": 82,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.9998016953468323,
+            "Type": "OTHER",
+            "Text": "https://t.co/RwfnREQfgX",
+            "BeginOffset": 106,
+            "EndOffset": 129
+        }
+    ]
+}

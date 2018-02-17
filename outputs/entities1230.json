@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8373036980628967,
+            "Type": "PERSON",
+            "Text": "@THEREALESMITTY",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8518197536468506,
+            "Type": "QUANTITY",
+            "Text": "1 fee",
+            "BeginOffset": 128,
+            "EndOffset": 133
+        }
+    ]
+}

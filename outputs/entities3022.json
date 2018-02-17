@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.968610942363739,
+            "Type": "QUANTITY",
+            "Text": "8 Things",
+            "BeginOffset": 0,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.9982776641845703,
+            "Type": "PERSON",
+            "Text": "Ryan Gosling",
+            "BeginOffset": 31,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9827605485916138,
+            "Type": "OTHER",
+            "Text": "http://t.co/L5TWXa6my2",
+            "BeginOffset": 44,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.8250890374183655,
+            "Type": "QUANTITY",
+            "Text": "8 Things",
+            "BeginOffset": 67,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.9992666840553284,
+            "Type": "PERSON",
+            "Text": "Ryan Gosling",
+            "BeginOffset": 98,
+            "EndOffset": 110
+        }
+    ]
+}

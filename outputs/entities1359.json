@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8492698669433594,
+            "Type": "PERSON",
+            "Text": "@NSC44",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.8570851683616638,
+            "Type": "PERSON",
+            "Text": "@usembvienna",
+            "BeginOffset": 27,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9996032118797302,
+            "Type": "OTHER",
+            "Text": "https://t.co/qIniWJ0NGU",
+            "BeginOffset": 67,
+            "EndOffset": 90
+        }
+    ]
+}

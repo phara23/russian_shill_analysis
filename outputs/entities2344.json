@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8676987886428833,
+            "Type": "PERSON",
+            "Text": "@Lusk1Mark",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9315723776817322,
+            "Type": "PERSON",
+            "Text": "@MetalMamaLady",
+            "BeginOffset": 15,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9945005774497986,
+            "Type": "PERSON",
+            "Text": "@nanr18",
+            "BeginOffset": 30,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.984602689743042,
+            "Type": "PERSON",
+            "Text": "@FranCifelli",
+            "BeginOffset": 38,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9950742721557617,
+            "Type": "PERSON",
+            "Text": "@Elena07617349",
+            "BeginOffset": 51,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9912864565849304,
+            "Type": "PERSON",
+            "Text": "Elvis",
+            "BeginOffset": 100,
+            "EndOffset": 105
+        }
+    ]
+}

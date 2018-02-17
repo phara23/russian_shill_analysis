@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8482779860496521,
+            "Type": "PERSON",
+            "Text": "@Relax_For_Real",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7767461538314819,
+            "Type": "ORGANIZATION",
+            "Text": "Washington Whiners",
+            "BeginOffset": 20,
+            "EndOffset": 38
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9618595242500305,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 0,
+            "EndOffset": 3
+        },
+        {
+            "Score": 0.9965384006500244,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 13,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9999850988388062,
+            "Type": "OTHER",
+            "Text": "https://t.co/I6k1iDe6fV",
+            "BeginOffset": 60,
+            "EndOffset": 83
+        }
+    ]
+}

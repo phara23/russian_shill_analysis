@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.49635007977485657,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.7116062641143799,
+            "Type": "PERSON",
+            "Text": "@Jerusalem_Post",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9981628060340881,
+            "Type": "PERSON",
+            "Text": "Dennis Ross",
+            "BeginOffset": 20,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9925156235694885,
+            "Type": "PERSON",
+            "Text": "Kerry",
+            "BeginOffset": 37,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.7375972270965576,
+            "Type": "LOCATION",
+            "Text": "Israel",
+            "BeginOffset": 74,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.7640921473503113,
+            "Type": "LOCATION",
+            "Text": "Palestinians",
+            "BeginOffset": 82,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.7576207518577576,
+            "Type": "OTHER",
+            "Text": "https://t.co/WJOEp7xySp",
+            "BeginOffset": 95,
+            "EndOffset": 118
+        },
+        {
+            "Score": 0.5015551447868347,
+            "Type": "ORGANIZATION",
+            "Text": "#ArabIsraeliConflict",
+            "BeginOffset": 119,
+            "EndOffset": 139
+        }
+    ]
+}

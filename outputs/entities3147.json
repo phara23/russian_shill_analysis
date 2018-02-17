@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9466961026191711,
+            "Type": "ORGANIZATION",
+            "Text": "Breitbart",
+            "BeginOffset": 0,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.8399564027786255,
+            "Type": "DATE",
+            "Text": "2 weeks after",
+            "BeginOffset": 88,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.27658504247665405,
+            "Type": "ORGANIZATION",
+            "Text": "Charlesto",
+            "BeginOffset": 106,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.9999239444732666,
+            "Type": "OTHER",
+            "Text": "https://t.co/fZeCDelr7V",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

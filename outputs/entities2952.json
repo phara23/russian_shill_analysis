@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8893465995788574,
+            "Type": "PERSON",
+            "Text": "@FriendlyJMC",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.955917477607727,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 66,
+            "EndOffset": 73
+        }
+    ]
+}

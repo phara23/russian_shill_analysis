@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7489326596260071,
+            "Type": "PERSON",
+            "Text": "@IAMTONYNEAL",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9614807367324829,
+            "Type": "PERSON",
+            "Text": "@POWER1061",
+            "BeginOffset": 43,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.666441023349762,
+            "Type": "ORGANIZATION",
+            "Text": "@IAMTONYNEAL",
+            "BeginOffset": 75,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.7088810205459595,
+            "Type": "PERSON",
+            "Text": "@LILUZIVERT",
+            "BeginOffset": 100,
+            "EndOffset": 111
+        }
+    ]
+}

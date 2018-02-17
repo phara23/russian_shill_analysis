@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7029467821121216,
+            "Type": "PERSON",
+            "Text": "@SchoofsFeed",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8852946162223816,
+            "Type": "QUANTITY",
+            "Text": "Three",
+            "BeginOffset": 43,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9580733776092529,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 52,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9654171466827393,
+            "Type": "OTHER",
+            "Text": "https://t.co/K6z9hlIzvx",
+            "BeginOffset": 92,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.940529465675354,
+            "Type": "PERSON",
+            "Text": "@KendallTTaggart",
+            "BeginOffset": 117,
+            "EndOffset": 133
+        },
+        {
+            "Score": 0.9130432605743408,
+            "Type": "PERSON",
+            "Text": "@Buzz",
+            "BeginOffset": 134,
+            "EndOffset": 139
+        }
+    ]
+}

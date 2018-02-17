@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9167395234107971,
+            "Type": "PERSON",
+            "Text": "@TuttlePatriarch",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9997331500053406,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 86,
+            "EndOffset": 101
+        }
+    ]
+}

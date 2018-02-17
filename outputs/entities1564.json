@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6347554326057434,
+            "Type": "PERSON",
+            "Text": "@PromoteTheReal",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9806966781616211,
+            "Type": "PERSON",
+            "Text": "@Dex_Jay",
+            "BeginOffset": 63,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9594933986663818,
+            "Type": "PERSON",
+            "Text": "@CashClayBeats",
+            "BeginOffset": 82,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.8806061148643494,
+            "Type": "ORGANIZATION",
+            "Text": "#SoundCloud",
+            "BeginOffset": 105,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.9852443933486938,
+            "Type": "OTHER",
+            "Text": "https://t.co/eFZbpv",
+            "BeginOffset": 120,
+            "EndOffset": 139
+        }
+    ]
+}

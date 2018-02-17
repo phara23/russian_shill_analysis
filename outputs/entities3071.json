@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9818421602249146,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 17,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9766508936882019,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 32,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9900493621826172,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 49,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9075922966003418,
+            "Type": "OTHER",
+            "Text": "https://t.co/hu2ByOOZzH",
+            "BeginOffset": 54,
+            "EndOffset": 77
+        }
+    ]
+}

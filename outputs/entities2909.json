@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6023442149162292,
+            "Type": "ORGANIZATION",
+            "Text": "@2ALAW",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9499391913414001,
+            "Type": "QUANTITY",
+            "Text": "1",
+            "BeginOffset": 25,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9818688035011292,
+            "Type": "QUANTITY",
+            "Text": "10",
+            "BeginOffset": 30,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9740399122238159,
+            "Type": "OTHER",
+            "Text": "https://t.co",
+            "BeginOffset": 127,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8001531362533569,
+            "Type": "PERSON",
+            "Text": "@coast2",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.7547773718833923,
+            "Type": "QUANTITY",
+            "Text": "2Coast LIVE #Amsterdam Edition",
+            "BeginOffset": 46,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.9792332053184509,
+            "Type": "OTHER",
+            "Text": "https://t.co/oAAPM0",
+            "BeginOffset": 120,
+            "EndOffset": 139
+        }
+    ]
+}

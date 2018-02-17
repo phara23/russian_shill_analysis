@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9272289872169495,
+            "Type": "PERSON",
+            "Text": "@ZDFheute",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.6691516637802124,
+            "Type": "LOCATION",
+            "Text": "#Hamburg",
+            "BeginOffset": 69,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9998875856399536,
+            "Type": "OTHER",
+            "Text": "https://t.co/Tj06KMQzAq",
+            "BeginOffset": 109,
+            "EndOffset": 132
+        }
+    ]
+}

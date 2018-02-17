@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9660334587097168,
+            "Type": "PERSON",
+            "Text": "@jb_morey",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.7778639793395996,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 50,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9485875964164734,
+            "Type": "PERSON",
+            "Text": "@mike_pence",
+            "BeginOffset": 67,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.9871649742126465,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 79,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.9998559951782227,
+            "Type": "OTHER",
+            "Text": "https://t.co/BPiLK1JjCp",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        }
+    ]
+}

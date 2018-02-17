@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8540639281272888,
+            "Type": "PERSON",
+            "Text": "@izzysroses",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9927510619163513,
+            "Type": "QUANTITY",
+            "Text": "50yrs",
+            "BeginOffset": 69,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.6431230306625366,
+            "Type": "PERSON",
+            "Text": "KeithEllison",
+            "BeginOffset": 78,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.8086382746696472,
+            "Type": "OTHER",
+            "Text": "https://t.co/CdEakqUZWw",
+            "BeginOffset": 108,
+            "EndOffset": 131
+        }
+    ]
+}

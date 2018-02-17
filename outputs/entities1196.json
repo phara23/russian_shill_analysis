@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7933141589164734,
+            "Type": "PERSON",
+            "Text": "@MedianPolitics",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9101464748382568,
+            "Type": "PERSON",
+            "Text": "@StephensWSJ",
+            "BeginOffset": 21,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9288629293441772,
+            "Type": "PERSON",
+            "Text": "@InLWithLBeingL",
+            "BeginOffset": 34,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.998384952545166,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 81,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.609859824180603,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 102,
+            "EndOffset": 109
+        },
+        {
+            "Score": 0.6019694805145264,
+            "Type": "ORGANIZATION",
+            "Text": "WH",
+            "BeginOffset": 131,
+            "EndOffset": 133
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9075292944908142,
+            "Type": "PERSON",
+            "Text": "@SidGrauman",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.984401524066925,
+            "Type": "QUANTITY",
+            "Text": "12.23",
+            "BeginOffset": 19,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.8309441804885864,
+            "Type": "PERSON",
+            "Text": "@cinematic_void",
+            "BeginOffset": 25,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.960027277469635,
+            "Type": "QUANTITY",
+            "Text": "16mm",
+            "BeginOffset": 91,
+            "EndOffset": 95
+        }
+    ]
+}

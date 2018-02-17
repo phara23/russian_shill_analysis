@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7112376689910889,
+            "Type": "ORGANIZATION",
+            "Text": "ICE",
+            "BeginOffset": 0,
+            "EndOffset": 3
+        },
+        {
+            "Score": 0.6344754099845886,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 27,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9999899864196777,
+            "Type": "OTHER",
+            "Text": "https://t.co/BO1de4Xef9",
+            "BeginOffset": 76,
+            "EndOffset": 99
+        }
+    ]
+}

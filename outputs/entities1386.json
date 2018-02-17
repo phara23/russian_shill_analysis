@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9043691754341125,
+            "Type": "PERSON",
+            "Text": "@samswey",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8715365529060364,
+            "Type": "ORGANIZATION",
+            "Text": "NYPD",
+            "BeginOffset": 13,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.846381664276123,
+            "Type": "QUANTITY",
+            "Text": "ONE",
+            "BeginOffset": 33,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9268692135810852,
+            "Type": "QUANTITY",
+            "Text": "34,000+ officers",
+            "BeginOffset": 46,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9994736313819885,
+            "Type": "DATE",
+            "Text": "2009",
+            "BeginOffset": 77,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.9974653720855713,
+            "Type": "DATE",
+            "Text": "2010",
+            "BeginOffset": 85,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.8861760497093201,
+            "Type": "OTHER",
+            "Text": "https://t.co/rNhOF8zvvk",
+            "BeginOffset": 111,
+            "EndOffset": 134
+        }
+    ]
+}

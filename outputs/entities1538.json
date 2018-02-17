@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9328335523605347,
+            "Type": "PERSON",
+            "Text": "@HussainBukhaiti",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8808134198188782,
+            "Type": "QUANTITY",
+            "Text": "21ppl",
+            "BeginOffset": 31,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.2951958179473877,
+            "Type": "PERSON",
+            "Text": "#Saudi",
+            "BeginOffset": 61,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.3737204670906067,
+            "Type": "PERSON",
+            "Text": "Dhahian #Saada",
+            "BeginOffset": 95,
+            "EndOffset": 109
+        },
+        {
+            "Score": 0.7562862634658813,
+            "Type": "LOCATION",
+            "Text": "#UK",
+            "BeginOffset": 128,
+            "EndOffset": 131
+        },
+        {
+            "Score": 0.9068323969841003,
+            "Type": "LOCATION",
+            "Text": "#US",
+            "BeginOffset": 132,
+            "EndOffset": 135
+        },
+        {
+            "Score": 0.6342315077781677,
+            "Type": "LOCATION",
+            "Text": "#UN",
+            "BeginOffset": 136,
+            "EndOffset": 139
+        }
+    ]
+}

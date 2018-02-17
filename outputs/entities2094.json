@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9188230633735657,
+            "Type": "PERSON",
+            "Text": "@jm_meunier",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9422624111175537,
+            "Type": "EVENT",
+            "Text": "Christmas",
+            "BeginOffset": 73,
+            "EndOffset": 82
+        }
+    ]
+}

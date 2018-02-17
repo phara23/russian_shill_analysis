@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8620839715003967,
+            "Type": "PERSON",
+            "Text": "@GoldStarMomTX55",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.758017361164093,
+            "Type": "ORGANIZATION",
+            "Text": "L.A. Times",
+            "BeginOffset": 50,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.7034621238708496,
+            "Type": "PERSON",
+            "Text": "TRUMP",
+            "BeginOffset": 82,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.9974296689033508,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 116,
+            "EndOffset": 121
+        },
+        {
+            "Score": 0.30314797163009644,
+            "Type": "PERSON",
+            "Text": "Khalidi",
+            "BeginOffset": 124,
+            "EndOffset": 131
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5892530679702759,
+            "Type": "LOCATION",
+            "Text": "Cleveland",
+            "BeginOffset": 0,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.8332026600837708,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 55,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9435082077980042,
+            "Type": "OTHER",
+            "Text": "https://t.co/Q5SY0fOgKN",
+            "BeginOffset": 63,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.8280878663063049,
+            "Type": "OTHER",
+            "Text": "https://t.co/yX3iMOFIOR",
+            "BeginOffset": 89,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.9999206066131592,
+            "Type": "OTHER",
+            "Text": "https://t.co/RZmwpvMAHz",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        }
+    ]
+}

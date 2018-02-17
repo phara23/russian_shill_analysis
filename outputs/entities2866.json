@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9217333793640137,
+            "Type": "PERSON",
+            "Text": "@BroderickGreer",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8107799291610718,
+            "Type": "DATE",
+            "Text": "months ago",
+            "BeginOffset": 100,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.9982080459594727,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 116,
+            "EndOffset": 121
+        }
+    ]
+}

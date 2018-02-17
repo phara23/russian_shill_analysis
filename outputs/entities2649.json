@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8726127743721008,
+            "Type": "PERSON",
+            "Text": "@tevenski",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8602256774902344,
+            "Type": "PERSON",
+            "Text": "@DocThompsonShow",
+            "BeginOffset": 14,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.8854882121086121,
+            "Type": "PERSON",
+            "Text": "@UnderdaSeabass",
+            "BeginOffset": 31,
+            "EndOffset": 46
+        }
+    ]
+}

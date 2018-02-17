@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9187590479850769,
+            "Type": "PERSON",
+            "Text": "@TrumpTheHill",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8849086761474609,
+            "Type": "QUANTITY",
+            "Text": "4 ID",
+            "BeginOffset": 36,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9140762090682983,
+            "Type": "ORGANIZATION",
+            "Text": "Costco",
+            "BeginOffset": 70,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.840998113155365,
+            "Type": "QUANTITY",
+            "Text": "Six Flags",
+            "BeginOffset": 115,
+            "EndOffset": 124
+        }
+    ]
+}

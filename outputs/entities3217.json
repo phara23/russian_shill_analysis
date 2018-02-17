@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9689226746559143,
+            "Type": "PERSON",
+            "Text": "@jm3107",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.999419093132019,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 55,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.8353795409202576,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 72,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.7676668167114258,
+            "Type": "ORGANIZATION",
+            "Text": "@Breaking",
+            "BeginOffset": 89,
+            "EndOffset": 98
+        }
+    ]
+}

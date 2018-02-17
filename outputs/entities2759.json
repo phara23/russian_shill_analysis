@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4641183018684387,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.9455242156982422,
+            "Type": "PERSON",
+            "Text": "@Gunner_Vitale",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.999924898147583,
+            "Type": "OTHER",
+            "Text": "https://t.co/EfvZNwb9Ak",
+            "BeginOffset": 19,
+            "EndOffset": 42
+        }
+    ]
+}

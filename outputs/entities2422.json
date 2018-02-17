@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9587377905845642,
+            "Type": "PERSON",
+            "Text": "@janrask",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9905282258987427,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 35,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.7044441103935242,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 134,
+            "EndOffset": 143
+        }
+    ]
+}

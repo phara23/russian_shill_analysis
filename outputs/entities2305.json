@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9580029845237732,
+            "Type": "PERSON",
+            "Text": "@dendog43",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.6818822026252747,
+            "Type": "LOCATION",
+            "Text": "South Australia",
+            "BeginOffset": 76,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.5428614616394043,
+            "Type": "PERSON",
+            "Text": "Tucker",
+            "BeginOffset": 92,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.9880664348602295,
+            "Type": "PERSON",
+            "Text": "@judi_francis",
+            "BeginOffset": 100,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.9191019535064697,
+            "Type": "PERSON",
+            "Text": "@ruthdianecotter",
+            "BeginOffset": 114,
+            "EndOffset": 130
+        },
+        {
+            "Score": 0.9525341987609863,
+            "Type": "PERSON",
+            "Text": "@traciee",
+            "BeginOffset": 131,
+            "EndOffset": 139
+        }
+    ]
+}

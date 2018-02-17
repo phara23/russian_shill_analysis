@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9705158472061157,
+            "Type": "PERSON",
+            "Text": "@jko417",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.7031250596046448,
+            "Type": "ORGANIZATION",
+            "Text": "Minnesota Muslims",
+            "BeginOffset": 20,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.8422170281410217,
+            "Type": "PERSON",
+            "Text": "@CarmineZozzora",
+            "BeginOffset": 79,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.9645006060600281,
+            "Type": "PERSON",
+            "Text": "@skb_sara",
+            "BeginOffset": 95,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.9756094217300415,
+            "Type": "PERSON",
+            "Text": "@jimlibertarian",
+            "BeginOffset": 105,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.9395581483840942,
+            "Type": "PERSON",
+            "Text": "@JVER1",
+            "BeginOffset": 121,
+            "EndOffset": 127
+        }
+    ]
+}

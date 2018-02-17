@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7448804378509521,
+            "Type": "PERSON",
+            "Text": "@TheForestNomad",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.6478409767150879,
+            "Type": "QUANTITY",
+            "Text": "4Words",
+            "BeginOffset": 29,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9998507499694824,
+            "Type": "OTHER",
+            "Text": "https://t.co/FDoHTnhRTv",
+            "BeginOffset": 59,
+            "EndOffset": 82
+        }
+    ]
+}

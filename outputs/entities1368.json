@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9807572364807129,
+            "Type": "DATE",
+            "Text": "today",
+            "BeginOffset": 62,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9997956156730652,
+            "Type": "OTHER",
+            "Text": "https://t.co/dI9Udng18t",
+            "BeginOffset": 69,
+            "EndOffset": 92
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9507867097854614,
+            "Type": "PERSON",
+            "Text": "@ObamaBash",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9536929726600647,
+            "Type": "ORGANIZATION",
+            "Text": "Democrats",
+            "BeginOffset": 23,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9909024238586426,
+            "Type": "QUANTITY",
+            "Text": "2 years",
+            "BeginOffset": 103,
+            "EndOffset": 110
+        }
+    ]
+}

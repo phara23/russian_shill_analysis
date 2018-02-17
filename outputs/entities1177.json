@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6689902544021606,
+            "Type": "PERSON",
+            "Text": "@uniqueloves",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9006982445716858,
+            "Type": "OTHER",
+            "Text": "https://t.co/OtmHHPCd6o",
+            "BeginOffset": 38,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.7877321243286133,
+            "Type": "PERSON",
+            "Text": "@moorbey",
+            "BeginOffset": 68,
+            "EndOffset": 76
+        }
+    ]
+}

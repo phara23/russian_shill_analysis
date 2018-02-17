@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9182814359664917,
+            "Type": "PERSON",
+            "Text": "@ScottAdamsSays",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9989747405052185,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 112,
+            "EndOffset": 124
+        },
+        {
+            "Score": 0.5285764336585999,
+            "Type": "PERSON",
+            "Text": "#Trump",
+            "BeginOffset": 126,
+            "EndOffset": 132
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8114821910858154,
+            "Type": "PERSON",
+            "Text": "@DCClothesline",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6164229512214661,
+            "Type": "OTHER",
+            "Text": "Americans",
+            "BeginOffset": 19,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9186227917671204,
+            "Type": "ORGANIZATION",
+            "Text": "Wal-Mart",
+            "BeginOffset": 51,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.8183450698852539,
+            "Type": "OTHER",
+            "Text": "https://t.co/cOBKD9dZ4Q",
+            "BeginOffset": 87,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.9999803304672241,
+            "Type": "OTHER",
+            "Text": "https://t.co/tJcnH75j2X",
+            "BeginOffset": 111,
+            "EndOffset": 134
+        }
+    ]
+}

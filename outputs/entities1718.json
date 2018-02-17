@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7157300710678101,
+            "Type": "PERSON",
+            "Text": "@RealClearNews",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9010930061340332,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 26,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9442945718765259,
+            "Type": "PERSON",
+            "Text": "Cruz",
+            "BeginOffset": 37,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.8288465738296509,
+            "Type": "OTHER",
+            "Text": "https://t.co/uL9uYtjkkr",
+            "BeginOffset": 102,
+            "EndOffset": 125
+        },
+        {
+            "Score": 0.9537889361381531,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

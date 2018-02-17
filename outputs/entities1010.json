@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7925993800163269,
+            "Type": "PERSON",
+            "Text": "@ckagey",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9527674913406372,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 39,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.4763442575931549,
+            "Type": "ORGANIZATION",
+            "Text": "#Russia",
+            "BeginOffset": 68,
+            "EndOffset": 75
+        }
+    ]
+}

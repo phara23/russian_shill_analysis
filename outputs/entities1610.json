@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9014301896095276,
+            "Type": "PERSON",
+            "Text": "@DocWashburn",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.996567964553833,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 20,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9999594688415527,
+            "Type": "OTHER",
+            "Text": "https://t.co/XS3Fd72uJd",
+            "BeginOffset": 66,
+            "EndOffset": 89
+        }
+    ]
+}

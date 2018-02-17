@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5269557237625122,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.9782809019088745,
+            "Type": "PERSON",
+            "Text": "@Ryan_Wichman",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.34204018115997314,
+            "Type": "PERSON",
+            "Text": "Toledo",
+            "BeginOffset": 53,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.9239720702171326,
+            "Type": "PERSON",
+            "Text": "@Hensville",
+            "BeginOffset": 61,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9143529534339905,
+            "Type": "PERSON",
+            "Text": "@MudHens",
+            "BeginOffset": 72,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.9475016593933105,
+            "Type": "PERSON",
+            "Text": "@ToledoWalleye",
+            "BeginOffset": 81,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.999993085861206,
+            "Type": "OTHER",
+            "Text": "https://t.co/uY5p0VN1rV",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8262217044830322,
+            "Type": "PERSON",
+            "Text": "@RawStory",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9978567957878113,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 44,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.7983355522155762,
+            "Type": "OTHER",
+            "Text": "https://t.co/xUCuVW0gN6",
+            "BeginOffset": 61,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9999921321868896,
+            "Type": "OTHER",
+            "Text": "https://t.co/6vCM1ccAV2",
+            "BeginOffset": 85,
+            "EndOffset": 108
+        }
+    ]
+}

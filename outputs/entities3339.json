@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8004074096679688,
+            "Type": "PERSON",
+            "Text": "@TheDailyShow",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9370731711387634,
+            "Type": "DATE",
+            "Text": "Tonight",
+            "BeginOffset": 18,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9985962510108948,
+            "Type": "PERSON",
+            "Text": "Hasan Minhaj",
+            "BeginOffset": 27,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.8837780356407166,
+            "Type": "LOCATION",
+            "Text": "DC",
+            "BeginOffset": 71,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.9737752676010132,
+            "Type": "DATE",
+            "Text": "ten years ago",
+            "BeginOffset": 113,
+            "EndOffset": 126
+        },
+        {
+            "Score": 0.9868850708007812,
+            "Type": "LOCATION",
+            "Text": "NYC",
+            "BeginOffset": 130,
+            "EndOffset": 133
+        }
+    ]
+}

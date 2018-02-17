@@ -1,0 +1,34 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.6812283396720886,
+            "Text": "Obama",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9352112412452698,
+            "Text": "Announce Progress",
+            "BeginOffset": 9,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9551134705543518,
+            "Text": "Veterans’ Care",
+            "BeginOffset": 30,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9883817434310913,
+            "Text": "Trump",
+            "BeginOffset": 50,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9662694334983826,
+            "Text": "’s Jabs",
+            "BeginOffset": 55,
+            "EndOffset": 62
+        }
+    ]
+}

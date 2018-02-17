@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7433682084083557,
+            "Type": "ORGANIZATION",
+            "Text": "@2Pats",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9247710108757019,
+            "Type": "QUANTITY",
+            "Text": "Tens of thousands",
+            "BeginOffset": 23,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9831425547599792,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 56,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9443344473838806,
+            "Type": "LOCATION",
+            "Text": "Ohio",
+            "BeginOffset": 79,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.9795830845832825,
+            "Type": "OTHER",
+            "Text": "https://t.co/Cg7bfkSVAj",
+            "BeginOffset": 94,
+            "EndOffset": 117
+        },
+        {
+            "Score": 0.976777970790863,
+            "Type": "ORGANIZATION",
+            "Text": "@Christian Times",
+            "BeginOffset": 122,
+            "EndOffset": 138
+        }
+    ]
+}

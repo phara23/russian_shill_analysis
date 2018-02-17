@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8605482578277588,
+            "Type": "PERSON",
+            "Text": "@Xultar",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9894892573356628,
+            "Type": "PERSON",
+            "Text": "@mike_pence",
+            "BeginOffset": 16,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9690984487533569,
+            "Type": "DATE",
+            "Text": "2020",
+            "BeginOffset": 71,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.8268783688545227,
+            "Type": "PERSON",
+            "Text": "@kellyannepolls",
+            "BeginOffset": 108,
+            "EndOffset": 123
+        },
+        {
+            "Score": 0.9221899509429932,
+            "Type": "OTHER",
+            "Text": "https://t.co/Qh",
+            "BeginOffset": 124,
+            "EndOffset": 139
+        }
+    ]
+}

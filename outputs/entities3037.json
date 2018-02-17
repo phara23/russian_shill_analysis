@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.807327389717102,
+            "Type": "PERSON",
+            "Text": "@RealRupertX",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9972267746925354,
+            "Type": "DATE",
+            "Text": "Wednesday",
+            "BeginOffset": 59,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9999769926071167,
+            "Type": "OTHER",
+            "Text": "https://t.co/65UXBMeMn1",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        }
+    ]
+}

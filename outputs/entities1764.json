@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9703092575073242,
+            "Type": "PERSON",
+            "Text": "@beth_wellington",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.56612229347229,
+            "Type": "ORGANIZATION",
+            "Text": "#PJNET",
+            "BeginOffset": 34,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.3669239580631256,
+            "Type": "ORGANIZATION",
+            "Text": "#CruzCrew",
+            "BeginOffset": 48,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.7810337543487549,
+            "Type": "DATE",
+            "Text": "Monday",
+            "BeginOffset": 73,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.9698194861412048,
+            "Type": "DATE",
+            "Text": "8pm ET",
+            "BeginOffset": 82,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9139084219932556,
+            "Type": "PERSON",
+            "Text": "Cruz",
+            "BeginOffset": 101,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.9748961329460144,
+            "Type": "OTHER",
+            "Text": "https://t.co/Od",
+            "BeginOffset": 124,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8583379983901978,
+            "Type": "PERSON",
+            "Text": "@ltl_nat",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9419647455215454,
+            "Type": "PERSON",
+            "Text": "@HandgunChris",
+            "BeginOffset": 13,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.8974718451499939,
+            "Type": "PERSON",
+            "Text": "@GunOwners",
+            "BeginOffset": 27,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9005075693130493,
+            "Type": "PERSON",
+            "Text": "@guntruth",
+            "BeginOffset": 38,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9769656658172607,
+            "Type": "PERSON",
+            "Text": "@ScottsdaleGun",
+            "BeginOffset": 48,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9287079572677612,
+            "Type": "PERSON",
+            "Text": "@RangedayApparel",
+            "BeginOffset": 63,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.7986587285995483,
+            "Type": "PERSON",
+            "Text": "@AZWS",
+            "BeginOffset": 80,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.9688486456871033,
+            "Type": "PERSON",
+            "Text": "@BobMacAZ",
+            "BeginOffset": 86,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.8320909738540649,
+            "Type": "PERSON",
+            "Text": "@RB2414FL",
+            "BeginOffset": 96,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.8415536880493164,
+            "Type": "PERSON",
+            "Text": "@TwoGunsForHire",
+            "BeginOffset": 106,
+            "EndOffset": 121
+        },
+        {
+            "Score": 0.7280234098434448,
+            "Type": "OTHER",
+            "Text": "https://t.co/ooSt",
+            "BeginOffset": 122,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4868452847003937,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.7028595209121704,
+            "Type": "ORGANIZATION",
+            "Text": "@TAGOS22",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8666373491287231,
+            "Type": "ORGANIZATION",
+            "Text": "@cnn",
+            "BeginOffset": 38,
+            "EndOffset": 42
+        }
+    ]
+}

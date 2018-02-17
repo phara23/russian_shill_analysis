@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9370422959327698,
+            "Type": "PERSON",
+            "Text": "@art_lover_09",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9954118132591248,
+            "Type": "COMMERCIAL_ITEM",
+            "Text": "IPhone 5",
+            "BeginOffset": 34,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.996682345867157,
+            "Type": "COMMERCIAL_ITEM",
+            "Text": "IPhone 6",
+            "BeginOffset": 46,
+            "EndOffset": 54
+        }
+    ]
+}

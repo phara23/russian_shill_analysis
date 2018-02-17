@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.806341826915741,
+            "Type": "ORGANIZATION",
+            "Text": "@Der_BDI",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.7188592553138733,
+            "Type": "PERSON",
+            "Text": "Klare Aussage der Bundeskanzlerin",
+            "BeginOffset": 13,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.5881983041763306,
+            "Type": "LOCATION",
+            "Text": "Europa",
+            "BeginOffset": 61,
+            "EndOffset": 67
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7500085234642029,
+            "Type": "PERSON",
+            "Text": "@LikeIsNas",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9553718566894531,
+            "Type": "PERSON",
+            "Text": "@kendricklamar",
+            "BeginOffset": 15,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.3971621096134186,
+            "Type": "PERSON",
+            "Text": "#kendricklamar",
+            "BeginOffset": 30,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.7288299202919006,
+            "Type": "TITLE",
+            "Text": "#HipHop",
+            "BeginOffset": 45,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9993231296539307,
+            "Type": "OTHER",
+            "Text": "https://t.co/huZMYIA15e",
+            "BeginOffset": 53,
+            "EndOffset": 76
+        }
+    ]
+}

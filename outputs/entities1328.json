@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9142959117889404,
+            "Type": "PERSON",
+            "Text": "@SassCBrown",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9036967754364014,
+            "Type": "QUANTITY",
+            "Text": "Over 85 Minutes",
+            "BeginOffset": 88,
+            "EndOffset": 103
+        }
+    ]
+}

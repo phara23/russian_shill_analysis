@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9246187210083008,
+            "Type": "PERSON",
+            "Text": "@ChuckNellis",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7969069480895996,
+            "Type": "EVENT",
+            "Text": "Daytona Day",
+            "BeginOffset": 23,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.5230594873428345,
+            "Type": "EVENT",
+            "Text": "#Daytona500",
+            "BeginOffset": 36,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.5627813935279846,
+            "Type": "QUANTITY",
+            "Text": "1",
+            "BeginOffset": 59,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9998359680175781,
+            "Type": "OTHER",
+            "Text": "https://t.co/Tdm592WmpB",
+            "BeginOffset": 61,
+            "EndOffset": 84
+        }
+    ]
+}

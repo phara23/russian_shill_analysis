@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7900839447975159,
+            "Type": "PERSON",
+            "Text": "@guntrust",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9072428941726685,
+            "Type": "OTHER",
+            "Text": "https://t.co/ALr48MSBHx",
+            "BeginOffset": 78,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.6206681132316589,
+            "Type": "ORGANIZATION",
+            "Text": "@guntrust",
+            "BeginOffset": 125,
+            "EndOffset": 134
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8954554200172424,
+            "Type": "PERSON",
+            "Text": "@Tiannalove1D567",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.7540252804756165,
+            "Type": "QUANTITY",
+            "Text": "first",
+            "BeginOffset": 46,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9998238682746887,
+            "Type": "OTHER",
+            "Text": "https://t.co/pbc0TPbunE",
+            "BeginOffset": 80,
+            "EndOffset": 103
+        }
+    ]
+}

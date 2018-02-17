@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8271054029464722,
+            "Type": "PERSON",
+            "Text": "Rudy",
+            "BeginOffset": 0,
+            "EndOffset": 4
+        },
+        {
+            "Score": 0.9798648953437805,
+            "Type": "PERSON",
+            "Text": "Serge Ibaka",
+            "BeginOffset": 15,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9999407529830933,
+            "Type": "OTHER",
+            "Text": "https://t.co/UeBO0F66Ce",
+            "BeginOffset": 45,
+            "EndOffset": 68
+        }
+    ]
+}

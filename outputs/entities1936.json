@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7645220756530762,
+            "Type": "PERSON",
+            "Text": "@BIZPACReview",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9986805319786072,
+            "Type": "PERSON",
+            "Text": "Chuck Schumer",
+            "BeginOffset": 18,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.995378851890564,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 57,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9903044104576111,
+            "Type": "OTHER",
+            "Text": "https://t.co/gdRzc8tXj",
+            "BeginOffset": 117,
+            "EndOffset": 139
+        }
+    ]
+}

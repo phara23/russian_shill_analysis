@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7914312481880188,
+            "Type": "PERSON",
+            "Text": "@Xpressocc",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9583120942115784,
+            "Type": "OTHER",
+            "Text": "https://t.co/ciqpycBi5a",
+            "BeginOffset": 50,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.6819905042648315,
+            "Type": "ORGANIZATION",
+            "Text": "@WECAI",
+            "BeginOffset": 86,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.45619669556617737,
+            "Type": "LOCATION",
+            "Text": "#wakeupamerica",
+            "BeginOffset": 93,
+            "EndOffset": 107
+        }
+    ]
+}

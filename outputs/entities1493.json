@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.49256935715675354,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.6983169317245483,
+            "Type": "PERSON",
+            "Text": "@TwitchyTeam",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9989528059959412,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 25,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9999303817749023,
+            "Type": "OTHER",
+            "Text": "https://t.co/XTOz6NMsBw",
+            "BeginOffset": 108,
+            "EndOffset": 131
+        }
+    ]
+}

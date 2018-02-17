@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7809163928031921,
+            "Type": "OTHER",
+            "Text": "American",
+            "BeginOffset": 0,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.9953045845031738,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 24,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9923386573791504,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 66,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9823195338249207,
+            "Type": "OTHER",
+            "Text": "https://t.co/HTB0SOOZTB",
+            "BeginOffset": 72,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.9999954700469971,
+            "Type": "OTHER",
+            "Text": "https://t.co/uErh4hxu9w",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        }
+    ]
+}

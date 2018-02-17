@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9183571338653564,
+            "Type": "PERSON",
+            "Text": "@CarmineZozzora",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9510941505432129,
+            "Type": "QUANTITY",
+            "Text": "100%",
+            "BeginOffset": 27,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9796507954597473,
+            "Type": "QUANTITY",
+            "Text": "100%",
+            "BeginOffset": 72,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.9689190983772278,
+            "Type": "QUANTITY",
+            "Text": "50%",
+            "BeginOffset": 126,
+            "EndOffset": 129
+        }
+    ]
+}

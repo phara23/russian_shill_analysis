@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8148723840713501,
+            "Type": "PERSON",
+            "Text": "@gerfingerpoken",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9995503425598145,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 26,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.6237291097640991,
+            "Type": "LOCATION",
+            "Text": "Israel",
+            "BeginOffset": 49,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.8950033783912659,
+            "Type": "OTHER",
+            "Text": "https://t.co/vI5MCb7g8d",
+            "BeginOffset": 77,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.7351993322372437,
+            "Type": "ORGANIZATION",
+            "Text": "@IBDEditorials",
+            "BeginOffset": 111,
+            "EndOffset": 125
+        },
+        {
+            "Score": 0.912720799446106,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

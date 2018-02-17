@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9972816109657288,
+            "Type": "PERSON",
+            "Text": "GEORGE SOROS",
+            "BeginOffset": 0,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9989232420921326,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 18,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9506464600563049,
+            "Type": "LOCATION",
+            "Text": "USA",
+            "BeginOffset": 99,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.9999842643737793,
+            "Type": "OTHER",
+            "Text": "https://t.co/7JuML0DXVD",
+            "BeginOffset": 106,
+            "EndOffset": 129
+        }
+    ]
+}

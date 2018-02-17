@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.886829674243927,
+            "Type": "PERSON",
+            "Text": "@americanzionism",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.6034485697746277,
+            "Type": "LOCATION",
+            "Text": "Israel",
+            "BeginOffset": 46,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.47407588362693787,
+            "Type": "QUANTITY",
+            "Text": "1",
+            "BeginOffset": 108,
+            "EndOffset": 109
+        }
+    ]
+}

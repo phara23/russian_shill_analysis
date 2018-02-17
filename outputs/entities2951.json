@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8716243505477905,
+            "Type": "PERSON",
+            "Text": "@MrEdTrain",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9416149258613586,
+            "Type": "DATE",
+            "Text": "next year",
+            "BeginOffset": 25,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9738230109214783,
+            "Type": "ORGANIZATION",
+            "Text": "Muslims",
+            "BeginOffset": 35,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9944075345993042,
+            "Type": "ORGANIZATION",
+            "Text": "FBI",
+            "BeginOffset": 61,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.5460377335548401,
+            "Type": "QUANTITY",
+            "Text": "ten",
+            "BeginOffset": 67,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.8044928908348083,
+            "Type": "PERSON",
+            "Text": "Mark",
+            "BeginOffset": 89,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.9995532631874084,
+            "Type": "OTHER",
+            "Text": "https://t.co/eFSpclOFyS",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        }
+    ]
+}

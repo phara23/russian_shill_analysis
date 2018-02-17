@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7134025692939758,
+            "Type": "PERSON",
+            "Text": "@623",
+            "BeginOffset": 3,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.5646001100540161,
+            "Type": "LOCATION",
+            "Text": "DC",
+            "BeginOffset": 48,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9254200458526611,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 66,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9925861954689026,
+            "Type": "OTHER",
+            "Text": "https://t.co/ju05yjbgoT",
+            "BeginOffset": 72,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.7206481695175171,
+            "Type": "ORGANIZATION",
+            "Text": "@realalexjones",
+            "BeginOffset": 100,
+            "EndOffset": 114
+        }
+    ]
+}

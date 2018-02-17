@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9105557799339294,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 0,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.5684722065925598,
+            "Type": "QUANTITY",
+            "Text": "08 campaign",
+            "BeginOffset": 9,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.9596357345581055,
+            "Type": "OTHER",
+            "Text": "https://t.co/Pz97IxaL8z",
+            "BeginOffset": 55,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.9265006184577942,
+            "Type": "OTHER",
+            "Text": "https://t.co/aXQaNDGlF7",
+            "BeginOffset": 91,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.9998717308044434,
+            "Type": "OTHER",
+            "Text": "https://t.co/0t6nUiDqso",
+            "BeginOffset": 115,
+            "EndOffset": 138
+        }
+    ]
+}

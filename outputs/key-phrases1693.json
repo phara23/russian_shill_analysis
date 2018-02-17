@@ -1,0 +1,34 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.8199114203453064,
+            "Text": "The world",
+            "BeginOffset": 5,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7975108027458191,
+            "Text": "Trump",
+            "BeginOffset": 28,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9935122132301331,
+            "Text": "Hillary",
+            "BeginOffset": 39,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9996052384376526,
+            "Text": "a catastrophic war",
+            "BeginOffset": 70,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9803980588912964,
+            "Text": "PETER",
+            "BeginOffset": 97,
+            "EndOffset": 102
+        }
+    ]
+}

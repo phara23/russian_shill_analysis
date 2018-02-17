@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8798102736473083,
+            "Type": "PERSON",
+            "Text": "@Scurvydoggs",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9997339248657227,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 36,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.6982052326202393,
+            "Type": "QUANTITY",
+            "Text": "5Words",
+            "BeginOffset": 71,
+            "EndOffset": 77
+        }
+    ]
+}

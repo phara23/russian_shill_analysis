@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9019608497619629,
+            "Type": "PERSON",
+            "Text": "@CharlieDaniels",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7393167018890381,
+            "Type": "ORGANIZATION",
+            "Text": "CDB",
+            "BeginOffset": 20,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9720913767814636,
+            "Type": "LOCATION",
+            "Text": "Iraq",
+            "BeginOffset": 27,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9987393021583557,
+            "Type": "DATE",
+            "Text": "2004",
+            "BeginOffset": 35,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9999600648880005,
+            "Type": "OTHER",
+            "Text": "https://t.co/ONo6Cx7SWl",
+            "BeginOffset": 60,
+            "EndOffset": 83
+        }
+    ]
+}

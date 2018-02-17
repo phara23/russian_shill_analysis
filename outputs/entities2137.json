@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9187405705451965,
+            "Type": "COMMERCIAL_ITEM",
+            "Text": "Air Force One",
+            "BeginOffset": 0,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.29167646169662476,
+            "Type": "COMMERCIAL_ITEM",
+            "Text": "Bubba",
+            "BeginOffset": 33,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9936168193817139,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 52,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9578998684883118,
+            "Type": "OTHER",
+            "Text": "https://t.co/Op32H4O8dw",
+            "BeginOffset": 71,
+            "EndOffset": 94
+        }
+    ]
+}

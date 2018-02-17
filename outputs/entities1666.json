@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7986907958984375,
+            "Type": "PERSON",
+            "Text": "@DRUDGE_REPORT",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9485129714012146,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 19,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.43427029252052307,
+            "Type": "OTHER",
+            "Text": "Israeli",
+            "BeginOffset": 57,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9999219179153442,
+            "Type": "OTHER",
+            "Text": "https://t.co/ve6rNM0hqY",
+            "BeginOffset": 91,
+            "EndOffset": 114
+        }
+    ]
+}

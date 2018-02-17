@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9131234288215637,
+            "Type": "PERSON",
+            "Text": "@AlexYablon",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8837155699729919,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 48,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.713862955570221,
+            "Type": "PERSON",
+            "Text": "@teamtrace",
+            "BeginOffset": 57,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9998915195465088,
+            "Type": "OTHER",
+            "Text": "https://t.co/Zue36urLga",
+            "BeginOffset": 95,
+            "EndOffset": 118
+        }
+    ]
+}

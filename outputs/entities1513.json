@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7270063161849976,
+            "Type": "PERSON",
+            "Text": "Christie",
+            "BeginOffset": 0,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.9970822930335999,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 20,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9784265160560608,
+            "Type": "PERSON",
+            "Text": "Moran",
+            "BeginOffset": 60,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9999045133590698,
+            "Type": "OTHER",
+            "Text": "https://t.co/izGqELd2qp",
+            "BeginOffset": 66,
+            "EndOffset": 89
+        }
+    ]
+}

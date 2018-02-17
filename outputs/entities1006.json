@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7725291848182678,
+            "Type": "PERSON",
+            "Text": "@GStuedler",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9307768940925598,
+            "Type": "PERSON",
+            "Text": "@SouthernLady328",
+            "BeginOffset": 15,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9928568601608276,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 125,
+            "EndOffset": 129
+        }
+    ]
+}

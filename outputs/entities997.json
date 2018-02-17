@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.939871072769165,
+            "Type": "PERSON",
+            "Text": "@CynthiaMHunter",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9303249716758728,
+            "Type": "LOCATION",
+            "Text": "California",
+            "BeginOffset": 99,
+            "EndOffset": 109
+        }
+    ]
+}

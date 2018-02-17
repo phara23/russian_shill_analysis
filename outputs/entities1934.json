@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9362607598304749,
+            "Type": "PERSON",
+            "Text": "@MatthewKBurke",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8972556591033936,
+            "Type": "PERSON",
+            "Text": "@PrepperAgenda",
+            "BeginOffset": 20,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9003082513809204,
+            "Type": "PERSON",
+            "Text": "@golgatha",
+            "BeginOffset": 35,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9958237409591675,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 45,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9971526861190796,
+            "Type": "ORGANIZATION",
+            "Text": "Twitter",
+            "BeginOffset": 70,
+            "EndOffset": 77
+        }
+    ]
+}

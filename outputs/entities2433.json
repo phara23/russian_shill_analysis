@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9115152955055237,
+            "Type": "ORGANIZATION",
+            "Text": "Muslims",
+            "BeginOffset": 6,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9779755473136902,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 30,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.8757384419441223,
+            "Type": "ORGANIZATION",
+            "Text": "@POTUS",
+            "BeginOffset": 48,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9999760389328003,
+            "Type": "OTHER",
+            "Text": "https://t.co/xmkVzoPQG8",
+            "BeginOffset": 101,
+            "EndOffset": 124
+        }
+    ]
+}

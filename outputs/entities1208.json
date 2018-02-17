@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9273084402084351,
+            "Type": "PERSON",
+            "Text": "@docrocktex26",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9870637655258179,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 56,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9998911619186401,
+            "Type": "OTHER",
+            "Text": "https://t.co/IIoF5SUneH",
+            "BeginOffset": 76,
+            "EndOffset": 99
+        }
+    ]
+}

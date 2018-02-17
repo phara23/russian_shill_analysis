@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8142544627189636,
+            "Type": "PERSON",
+            "Text": "@SLACKJAWXL",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.6689192056655884,
+            "Type": "ORGANIZATION",
+            "Text": "PETA",
+            "BeginOffset": 16,
+            "EndOffset": 20
+        }
+    ]
+}

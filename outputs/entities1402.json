@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8625723719596863,
+            "Type": "PERSON",
+            "Text": "@WellmanOne",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7197234630584717,
+            "Type": "PERSON",
+            "Text": "@InGodIDoTrust",
+            "BeginOffset": 16,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9999749660491943,
+            "Type": "OTHER",
+            "Text": "https://t.co/LGLqOX4DPB",
+            "BeginOffset": 31,
+            "EndOffset": 54
+        }
+    ]
+}

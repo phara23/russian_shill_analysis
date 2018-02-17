@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9717375040054321,
+            "Type": "PERSON",
+            "Text": "@davis1087",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9591506719589233,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 15,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9124147295951843,
+            "Type": "PERSON",
+            "Text": "@healthandcents",
+            "BeginOffset": 32,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9908395409584045,
+            "Type": "PERSON",
+            "Text": "@bfraser747",
+            "BeginOffset": 48,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.9817988872528076,
+            "Type": "PERSON",
+            "Text": "@Lrihendry",
+            "BeginOffset": 60,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9497408866882324,
+            "Type": "PERSON",
+            "Text": "@SandraTXAS",
+            "BeginOffset": 71,
+            "EndOffset": 82
+        }
+    ]
+}

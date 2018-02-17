@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5218369960784912,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8226916790008545,
+            "Type": "ORGANIZATION",
+            "Text": "@TTino_boi",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8508709669113159,
+            "Type": "QUANTITY",
+            "Text": "2nd thought",
+            "BeginOffset": 70,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.994734525680542,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 110,
+            "EndOffset": 115
+        }
+    ]
+}

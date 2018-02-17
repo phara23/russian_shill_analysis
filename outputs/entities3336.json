@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9393826127052307,
+            "Type": "PERSON",
+            "Text": "@Mr_khenny",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9800491333007812,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 40,
+            "EndOffset": 45
+        }
+    ]
+}

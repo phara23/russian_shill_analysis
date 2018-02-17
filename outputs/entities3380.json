@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9739829301834106,
+            "Type": "DATE",
+            "Text": "today",
+            "BeginOffset": 32,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.8610958456993103,
+            "Type": "EVENT",
+            "Text": "World Day",
+            "BeginOffset": 41,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9997256398200989,
+            "Type": "OTHER",
+            "Text": "https://t.co/L0Fe6ZFChs",
+            "BeginOffset": 77,
+            "EndOffset": 100
+        }
+    ]
+}

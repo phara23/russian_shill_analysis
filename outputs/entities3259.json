@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9835351705551147,
+            "Type": "PERSON",
+            "Text": "@Jenn_Abrams",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9887500405311584,
+            "Type": "PERSON",
+            "Text": "Sanders",
+            "BeginOffset": 69,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.9999669790267944,
+            "Type": "OTHER",
+            "Text": "http://t.co/IWu8VKWD1s",
+            "BeginOffset": 77,
+            "EndOffset": 99
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5233473777770996,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8372673988342285,
+            "Type": "PERSON",
+            "Text": "@ArthurA_P",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.7149117588996887,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 15,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9937534928321838,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 31,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.8335131406784058,
+            "Type": "PERSON",
+            "Text": "TRUMP",
+            "BeginOffset": 119,
+            "EndOffset": 124
+        }
+    ]
+}

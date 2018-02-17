@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7833063006401062,
+            "Type": "LOCATION",
+            "Text": "Berlin",
+            "BeginOffset": 0,
+            "EndOffset": 6
+        },
+        {
+            "Score": 0.8592588901519775,
+            "Type": "EVENT",
+            "Text": "Christmas",
+            "BeginOffset": 7,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9998195767402649,
+            "Type": "OTHER",
+            "Text": "https://t.co/WETKzJ2n3y",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        }
+    ]
+}

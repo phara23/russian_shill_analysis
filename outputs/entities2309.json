@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7164283394813538,
+            "Type": "PERSON",
+            "Text": "@smartgirls4gop",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.45484113693237305,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 20,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9147616624832153,
+            "Type": "PERSON",
+            "Text": "@JosephEach",
+            "BeginOffset": 23,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.8750315308570862,
+            "Type": "QUANTITY",
+            "Text": "one day",
+            "BeginOffset": 43,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9175451397895813,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 87,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.828228235244751,
+            "Type": "PERSON",
+            "Text": "@tedcruz",
+            "BeginOffset": 100,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.9793416857719421,
+            "Type": "OTHER",
+            "Text": "https://t.co/GI8yhpe",
+            "BeginOffset": 119,
+            "EndOffset": 139
+        }
+    ]
+}

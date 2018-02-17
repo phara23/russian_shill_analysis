@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7985916137695312,
+            "Type": "PERSON",
+            "Text": "@indigenous01",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8068589568138123,
+            "Type": "ORGANIZATION",
+            "Text": "D.C. GOP",
+            "BeginOffset": 47,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9998832941055298,
+            "Type": "OTHER",
+            "Text": "https://t.co/xhpy3TLsUE",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

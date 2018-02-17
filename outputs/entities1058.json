@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8370076417922974,
+            "Type": "PERSON",
+            "Text": "@makebeatsnow",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.80018150806427,
+            "Type": "PERSON",
+            "Text": "@denardojames",
+            "BeginOffset": 26,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9887259602546692,
+            "Type": "OTHER",
+            "Text": "https://t.co/qrlUcGCSqX",
+            "BeginOffset": 99,
+            "EndOffset": 122
+        }
+    ]
+}

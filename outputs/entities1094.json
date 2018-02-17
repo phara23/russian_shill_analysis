@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5783191919326782,
+            "Type": "PERSON",
+            "Text": "@RiseUp",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.764823853969574,
+            "Type": "QUANTITY",
+            "Text": "75: 9 months",
+            "BeginOffset": 10,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.22681882977485657,
+            "Type": "ORGANIZATION",
+            "Text": "#Saudi",
+            "BeginOffset": 26,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9167609214782715,
+            "Type": "OTHER",
+            "Text": "https://t.co",
+            "BeginOffset": 131,
+            "EndOffset": 143
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9207567572593689,
+            "Type": "PERSON",
+            "Text": "@SmokeySmoker",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.983110249042511,
+            "Type": "PERSON",
+            "Text": "Julian Assange",
+            "BeginOffset": 28,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.6751987934112549,
+            "Type": "DATE",
+            "Text": "#2016",
+            "BeginOffset": 45,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.8530526757240295,
+            "Type": "QUANTITY",
+            "Text": "4Words",
+            "BeginOffset": 52,
+            "EndOffset": 58
+        }
+    ]
+}

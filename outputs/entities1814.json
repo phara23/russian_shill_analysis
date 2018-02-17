@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8705779314041138,
+            "Type": "PERSON",
+            "Text": "@BlacknRight",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9964293837547302,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 23,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.7456643581390381,
+            "Type": "ORGANIZATION",
+            "Text": "White House",
+            "BeginOffset": 93,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.9999831914901733,
+            "Type": "OTHER",
+            "Text": "https://t.co/Z1IQ1QBrlm",
+            "BeginOffset": 106,
+            "EndOffset": 129
+        }
+    ]
+}

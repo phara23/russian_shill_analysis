@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9239587783813477,
+            "Type": "PERSON",
+            "Text": "@SykesCharlie",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9969083666801453,
+            "Type": "DATE",
+            "Text": "2017",
+            "BeginOffset": 21,
+            "EndOffset": 25
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5538651347160339,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8491345047950745,
+            "Type": "PERSON",
+            "Text": "@Aaron_Gagnier16",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9997960925102234,
+            "Type": "OTHER",
+            "Text": "https://t.co/nubFX4dqst",
+            "BeginOffset": 70,
+            "EndOffset": 93
+        }
+    ]
+}

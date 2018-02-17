@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7559171319007874,
+            "Type": "PERSON",
+            "Text": "@ra113",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.6713283061981201,
+            "Type": "ORGANIZATION",
+            "Text": "U.S. Doctors",
+            "BeginOffset": 62,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9996800422668457,
+            "Type": "OTHER",
+            "Text": "https://t.co/ZkohLUknQF",
+            "BeginOffset": 75,
+            "EndOffset": 98
+        }
+    ]
+}

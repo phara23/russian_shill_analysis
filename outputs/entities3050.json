@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6484712958335876,
+            "Type": "ORGANIZATION",
+            "Text": "@BlastingNews",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.3170527517795563,
+            "Type": "ORGANIZATION",
+            "Text": "#Obama",
+            "BeginOffset": 18,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9375206828117371,
+            "Type": "OTHER",
+            "Text": "https://t.co/bZkYDcxmbh",
+            "BeginOffset": 93,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.9999822378158569,
+            "Type": "OTHER",
+            "Text": "https://t.co/lRk0j8jyAm",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

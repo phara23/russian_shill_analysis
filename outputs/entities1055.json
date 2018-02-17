@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9314228892326355,
+            "Type": "PERSON",
+            "Text": "@Lrihendry",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.7860366106033325,
+            "Type": "PERSON",
+            "Text": "@SheriffClarke",
+            "BeginOffset": 46,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.755325436592102,
+            "Type": "QUANTITY",
+            "Text": "#1",
+            "BeginOffset": 81,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.948235273361206,
+            "Type": "OTHER",
+            "Text": "https://t.co/J",
+            "BeginOffset": 125,
+            "EndOffset": 139
+        }
+    ]
+}

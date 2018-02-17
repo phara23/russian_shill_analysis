@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9009388089179993,
+            "Type": "PERSON",
+            "Text": "@LawyerRogelio",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.3987688422203064,
+            "Type": "ORGANIZATION",
+            "Text": "Rockettes",
+            "BeginOffset": 23,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9675336480140686,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 56,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9999825954437256,
+            "Type": "OTHER",
+            "Text": "https://t.co/en1XRsrq3B",
+            "BeginOffset": 91,
+            "EndOffset": 114
+        }
+    ]
+}

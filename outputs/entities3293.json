@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.908163845539093,
+            "Type": "PERSON",
+            "Text": "@AnnieMelBrooks",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9465599060058594,
+            "Type": "PERSON",
+            "Text": "@JoshuaChavers",
+            "BeginOffset": 33,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9903496503829956,
+            "Type": "OTHER",
+            "Text": "https://t.co/762AuUN",
+            "BeginOffset": 119,
+            "EndOffset": 139
+        }
+    ]
+}

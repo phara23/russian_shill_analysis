@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7306042313575745,
+            "Type": "ORGANIZATION",
+            "Text": "@DBFR118",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9190161824226379,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 23,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9997938275337219,
+            "Type": "OTHER",
+            "Text": "https://t.co/uP16TjAbTu",
+            "BeginOffset": 61,
+            "EndOffset": 84
+        }
+    ]
+}

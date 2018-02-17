@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8868273496627808,
+            "Type": "PERSON",
+            "Text": "@BeccaSea",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9727368354797363,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 14,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.998272716999054,
+            "Type": "PERSON",
+            "Text": "Bernie Sanders",
+            "BeginOffset": 46,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9715337157249451,
+            "Type": "OTHER",
+            "Text": "https://t.co/RrrwLS5Bly",
+            "BeginOffset": 84,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.9819669723510742,
+            "Type": "ORGANIZATION",
+            "Text": "@YouTube",
+            "BeginOffset": 112,
+            "EndOffset": 120
+        }
+    ]
+}

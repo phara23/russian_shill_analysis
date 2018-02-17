@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9503484964370728,
+            "Type": "PERSON",
+            "Text": "@shrk111",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8863316178321838,
+            "Type": "ORGANIZATION",
+            "Text": "Washington Post",
+            "BeginOffset": 25,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9997934103012085,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 51,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9172546863555908,
+            "Type": "ORGANIZATION",
+            "Text": "Breitbart",
+            "BeginOffset": 98,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.9999654293060303,
+            "Type": "OTHER",
+            "Text": "https://t.co/BB4Z74i9HG",
+            "BeginOffset": 108,
+            "EndOffset": 131
+        }
+    ]
+}

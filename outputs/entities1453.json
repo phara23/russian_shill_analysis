@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7973901629447937,
+            "Type": "PERSON",
+            "Text": "@TwitchyTeam",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8801615834236145,
+            "Type": "QUANTITY",
+            "Text": "four",
+            "BeginOffset": 31,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.911132276058197,
+            "Type": "OTHER",
+            "Text": "African American",
+            "BeginOffset": 36,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.996669590473175,
+            "Type": "ORGANIZATION",
+            "Text": "Facebook",
+            "BeginOffset": 66,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.999987006187439,
+            "Type": "OTHER",
+            "Text": "https://t.co/EUMiBJ5eW6",
+            "BeginOffset": 115,
+            "EndOffset": 138
+        }
+    ]
+}

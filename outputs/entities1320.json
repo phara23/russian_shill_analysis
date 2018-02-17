@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.869530200958252,
+            "Type": "PERSON",
+            "Text": "@DcStarlord",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.6608046293258667,
+            "Type": "ORGANIZATION",
+            "Text": "Klondike Bar",
+            "BeginOffset": 65,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9999123811721802,
+            "Type": "OTHER",
+            "Text": "https://t.co/6XaqBrUZDB",
+            "BeginOffset": 98,
+            "EndOffset": 121
+        }
+    ]
+}

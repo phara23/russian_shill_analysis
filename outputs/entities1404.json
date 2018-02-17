@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9439185857772827,
+            "Type": "PERSON",
+            "Text": "@JoKiddo",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9968550205230713,
+            "Type": "PERSON",
+            "Text": "Bill Clinton",
+            "BeginOffset": 42,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9901641011238098,
+            "Type": "PERSON",
+            "Text": "Bush",
+            "BeginOffset": 74,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.9557991027832031,
+            "Type": "DATE",
+            "Text": "2003",
+            "BeginOffset": 81,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.9272556900978088,
+            "Type": "OTHER",
+            "Text": "https://t.co/Fy",
+            "BeginOffset": 124,
+            "EndOffset": 139
+        }
+    ]
+}

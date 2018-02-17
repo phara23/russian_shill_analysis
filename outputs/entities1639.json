@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9314103722572327,
+            "Type": "PERSON",
+            "Text": "@JacloPac",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.7116950154304504,
+            "Type": "PERSON",
+            "Text": "#Trump",
+            "BeginOffset": 14,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.43621939420700073,
+            "Type": "QUANTITY",
+            "Text": "4",
+            "BeginOffset": 37,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.8595660328865051,
+            "Type": "QUANTITY",
+            "Text": "18yrs",
+            "BeginOffset": 39,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.6416294574737549,
+            "Type": "QUANTITY",
+            "Text": "2",
+            "BeginOffset": 45,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.6016467213630676,
+            "Type": "QUANTITY",
+            "Text": "decades",
+            "BeginOffset": 98,
+            "EndOffset": 105
+        }
+    ]
+}

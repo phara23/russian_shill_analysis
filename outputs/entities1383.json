@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9725583791732788,
+            "Type": "PERSON",
+            "Text": "@JeffreyGriese",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7335533499717712,
+            "Type": "PERSON",
+            "Text": "Secretary Clinton",
+            "BeginOffset": 25,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.7089976668357849,
+            "Type": "LOCATION",
+            "Text": "U.S.",
+            "BeginOffset": 44,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.8704085350036621,
+            "Type": "QUANTITY",
+            "Text": "31,000 Somali Migrants",
+            "BeginOffset": 71,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.9684038162231445,
+            "Type": "OTHER",
+            "Text": "https://t.co/Oq2j3ikWOH",
+            "BeginOffset": 94,
+            "EndOffset": 117
+        }
+    ]
+}

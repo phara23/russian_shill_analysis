@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8779138922691345,
+            "Type": "PERSON",
+            "Text": "@CryForByzantium",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9293723106384277,
+            "Type": "DATE",
+            "Text": "7 November 512",
+            "BeginOffset": 21,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9230655431747437,
+            "Type": "QUANTITY",
+            "Text": "Thousands of angry people",
+            "BeginOffset": 37,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.5072100162506104,
+            "Type": "LOCATION",
+            "Text": "Hippodrome",
+            "BeginOffset": 85,
+            "EndOffset": 95
+        }
+    ]
+}

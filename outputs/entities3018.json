@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9276955127716064,
+            "Type": "PERSON",
+            "Text": "@sailor_guy",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9469815492630005,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 32,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9985070824623108,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 42,
+            "EndOffset": 47
+        }
+    ]
+}

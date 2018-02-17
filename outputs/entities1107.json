@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6825726628303528,
+            "Type": "PERSON",
+            "Text": "@Shooters_Wife",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.5832589268684387,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 19,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.697694718837738,
+            "Type": "ORGANIZATION",
+            "Text": "@tweet4",
+            "BeginOffset": 22,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9588156342506409,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 57,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.8269839286804199,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 75,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.891384482383728,
+            "Type": "OTHER",
+            "Text": "https://t.co/ydmuuOSmrN",
+            "BeginOffset": 106,
+            "EndOffset": 129
+        },
+        {
+            "Score": 0.47301602363586426,
+            "Type": "ORGANIZATION",
+            "Text": "#WakeUpAm",
+            "BeginOffset": 130,
+            "EndOffset": 139
+        }
+    ]
+}

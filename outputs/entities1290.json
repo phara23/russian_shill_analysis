@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8689458966255188,
+            "Type": "PERSON",
+            "Text": "@KeeganNYC",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9427649974822998,
+            "Type": "QUANTITY",
+            "Text": "Five facts",
+            "BeginOffset": 15,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.41641125082969666,
+            "Type": "PERSON",
+            "Text": "#JoshuaBeal",
+            "BeginOffset": 32,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9909459352493286,
+            "Type": "QUANTITY",
+            "Text": "two",
+            "BeginOffset": 55,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9520837664604187,
+            "Type": "OTHER",
+            "Text": "https://t.co/QOH6l",
+            "BeginOffset": 121,
+            "EndOffset": 139
+        }
+    ]
+}

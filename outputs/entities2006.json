@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7801263928413391,
+            "Type": "PERSON",
+            "Text": "@CuteOverloads",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.5491988062858582,
+            "Type": "EVENT",
+            "Text": "Halloween",
+            "BeginOffset": 27,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9999703168869019,
+            "Type": "OTHER",
+            "Text": "https://t.co/SRsK60GOfj",
+            "BeginOffset": 46,
+            "EndOffset": 69
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8476447463035583,
+            "Type": "PERSON",
+            "Text": "@AtlantaBreaking",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8508977890014648,
+            "Type": "LOCATION",
+            "Text": "Atlanta",
+            "BeginOffset": 21,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.5543321967124939,
+            "Type": "LOCATION",
+            "Text": "#Atlanta",
+            "BeginOffset": 63,
+            "EndOffset": 71
+        }
+    ]
+}

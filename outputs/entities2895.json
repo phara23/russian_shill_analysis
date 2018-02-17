@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8348507285118103,
+            "Type": "PERSON",
+            "Text": "@phineasfrogg",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9995383620262146,
+            "Type": "PERSON",
+            "Text": "Richard Spencer",
+            "BeginOffset": 18,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.8364619016647339,
+            "Type": "ORGANIZATION",
+            "Text": "Neo-Nazis",
+            "BeginOffset": 116,
+            "EndOffset": 125
+        }
+    ]
+}

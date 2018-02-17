@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8880224227905273,
+            "Type": "PERSON",
+            "Text": "Juana",
+            "BeginOffset": 37,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9930785894393921,
+            "Type": "PERSON",
+            "Text": "Lil Wayne",
+            "BeginOffset": 46,
+            "EndOffset": 55
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9492665529251099,
+            "Type": "PERSON",
+            "Text": "@Teri_A_Adams",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9958217144012451,
+            "Type": "PERSON",
+            "Text": "Ted Cruz",
+            "BeginOffset": 35,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9999686479568481,
+            "Type": "OTHER",
+            "Text": "https://t.co/24Tazk7NBv",
+            "BeginOffset": 46,
+            "EndOffset": 69
+        }
+    ]
+}

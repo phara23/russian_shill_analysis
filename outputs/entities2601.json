@@ -1,0 +1,67 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8220883011817932,
+            "Type": "PERSON",
+            "Text": "@abusedtaxpayer",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9892113208770752,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 28,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.8774039149284363,
+            "Type": "PERSON",
+            "Text": "God",
+            "BeginOffset": 35,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9975881576538086,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 47,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9771653413772583,
+            "Type": "PERSON",
+            "Text": "Barry",
+            "BeginOffset": 87,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.9420862197875977,
+            "Type": "PERSON",
+            "Text": "Killery",
+            "BeginOffset": 93,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.7543665170669556,
+            "Type": "ORGANIZATION",
+            "Text": "DemORATS",
+            "BeginOffset": 107,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.3998047411441803,
+            "Type": "LOCATION",
+            "Text": "USA",
+            "BeginOffset": 127,
+            "EndOffset": 130
+        },
+        {
+            "Score": 0.34441864490509033,
+            "Type": "QUANTITY",
+            "Text": "4",
+            "BeginOffset": 131,
+            "EndOffset": 132
+        }
+    ]
+}

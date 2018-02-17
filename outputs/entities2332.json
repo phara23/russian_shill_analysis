@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8792724013328552,
+            "Type": "PERSON",
+            "Text": "@ihatethemedia",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9938706159591675,
+            "Type": "LOCATION",
+            "Text": "California",
+            "BeginOffset": 80,
+            "EndOffset": 90
+        }
+    ]
+}

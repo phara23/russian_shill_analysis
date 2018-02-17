@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8742676973342896,
+            "Type": "PERSON",
+            "Text": "@ClickHole",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9945928454399109,
+            "Type": "PERSON",
+            "Text": "François Hollande",
+            "BeginOffset": 15,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.8688004612922668,
+            "Type": "OTHER",
+            "Text": "https://t.co/ksfxefjYrL",
+            "BeginOffset": 45,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9999960660934448,
+            "Type": "OTHER",
+            "Text": "https://t.co/7pxYTcCP9m",
+            "BeginOffset": 69,
+            "EndOffset": 92
+        }
+    ]
+}

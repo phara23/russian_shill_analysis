@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9097280502319336,
+            "Type": "PERSON",
+            "Text": "@IsUSABorn",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9933425784111023,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 15,
+            "EndOffset": 20
+        }
+    ]
+}

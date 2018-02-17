@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7145339846611023,
+            "Type": "PERSON",
+            "Text": "@BIZPACReview",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9750580787658691,
+            "Type": "ORGANIZATION",
+            "Text": "BuzzFeed",
+            "BeginOffset": 18,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9734154343605042,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 79,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.8972858786582947,
+            "Type": "OTHER",
+            "Text": "https://t.co/LZI9YF8rqZ",
+            "BeginOffset": 89,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.9999817609786987,
+            "Type": "OTHER",
+            "Text": "https://t.co/E6LYAPkSXX",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        }
+    ]
+}

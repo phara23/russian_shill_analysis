@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8765823841094971,
+            "Type": "PERSON",
+            "Text": "@Joe_America",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9704747200012207,
+            "Type": "DATE",
+            "Text": "1776",
+            "BeginOffset": 15,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9792385697364807,
+            "Type": "ORGANIZATION",
+            "Text": "Fox News",
+            "BeginOffset": 21,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.758043646812439,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 41,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.7964406609535217,
+            "Type": "ORGANIZATION",
+            "Text": "Clinton Foundation",
+            "BeginOffset": 70,
+            "EndOffset": 88
+        }
+    ]
+}

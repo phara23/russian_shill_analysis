@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8647304773330688,
+            "Type": "PERSON",
+            "Text": "@AmyMek",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9573826789855957,
+            "Type": "ORGANIZATION",
+            "Text": "Democrats",
+            "BeginOffset": 29,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.5958814024925232,
+            "Type": "OTHER",
+            "Text": "American",
+            "BeginOffset": 78,
+            "EndOffset": 86
+        }
+    ]
+}

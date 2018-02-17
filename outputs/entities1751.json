@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7345065474510193,
+            "Type": "PERSON",
+            "Text": "@beforeitsnews",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9815646409988403,
+            "Type": "QUANTITY",
+            "Text": "Five Years",
+            "BeginOffset": 93,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.8188274502754211,
+            "Type": "OTHER",
+            "Text": "https://t.co/cYpDAazAQV",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        },
+        {
+            "Score": 0.8456414937973022,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 129,
+            "EndOffset": 138
+        }
+    ]
+}

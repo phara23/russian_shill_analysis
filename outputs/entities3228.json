@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9621150493621826,
+            "Type": "PERSON",
+            "Text": "Bernie",
+            "BeginOffset": 15,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9996145963668823,
+            "Type": "PERSON",
+            "Text": "Bruce Carter",
+            "BeginOffset": 31,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9158442616462708,
+            "Type": "PERSON",
+            "Text": "TRUMP",
+            "BeginOffset": 63,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9999139308929443,
+            "Type": "OTHER",
+            "Text": "https://t.co/Vecu4jYIHq",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        }
+    ]
+}

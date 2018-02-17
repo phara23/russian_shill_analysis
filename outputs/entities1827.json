@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9960249066352844,
+            "Type": "PERSON",
+            "Text": "Megyn Kelly",
+            "BeginOffset": 0,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9985268115997314,
+            "Type": "PERSON",
+            "Text": "Mark Fuhrman",
+            "BeginOffset": 16,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.5614449977874756,
+            "Type": "PERSON",
+            "Text": "San Bernardino",
+            "BeginOffset": 37,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9998693466186523,
+            "Type": "OTHER",
+            "Text": "https://t.co/ucFjJwkk51",
+            "BeginOffset": 110,
+            "EndOffset": 133
+        }
+    ]
+}

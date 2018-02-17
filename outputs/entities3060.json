@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9461463093757629,
+            "Type": "PERSON",
+            "Text": "@AnnaCohenZodek",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7444480657577515,
+            "Type": "PERSON",
+            "Text": "Netanyahu",
+            "BeginOffset": 27,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.800658643245697,
+            "Type": "ORGANIZATION",
+            "Text": "UN",
+            "BeginOffset": 44,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.8783127665519714,
+            "Type": "LOCATION",
+            "Text": "Jerusalem",
+            "BeginOffset": 74,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.9999241828918457,
+            "Type": "OTHER",
+            "Text": "https://t.co/LQudwku0LC",
+            "BeginOffset": 84,
+            "EndOffset": 107
+        }
+    ]
+}

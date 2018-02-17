@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8105393648147583,
+            "Type": "PERSON",
+            "Text": "@PJStrikeForce",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9764392375946045,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 25,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9814622402191162,
+            "Type": "PERSON",
+            "Text": "Pence",
+            "BeginOffset": 37,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.8805568218231201,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 49,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9129866361618042,
+            "Type": "LOCATION",
+            "Text": "Louisiana",
+            "BeginOffset": 69,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.7693339586257935,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 80,
+            "EndOffset": 96
+        }
+    ]
+}

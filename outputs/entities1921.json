@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8895634412765503,
+            "Type": "PERSON",
+            "Text": "@Solely_Toya",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7423335909843445,
+            "Type": "QUANTITY",
+            "Text": "5 second",
+            "BeginOffset": 41,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9928104281425476,
+            "Type": "QUANTITY",
+            "Text": "5 minutes",
+            "BeginOffset": 56,
+            "EndOffset": 65
+        }
+    ]
+}

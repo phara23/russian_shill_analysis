@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7278072237968445,
+            "Type": "ORGANIZATION",
+            "Text": "@reddit",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9999322891235352,
+            "Type": "OTHER",
+            "Text": "http://t.co/CW5H2YoBEJ",
+            "BeginOffset": 48,
+            "EndOffset": 70
+        }
+    ]
+}

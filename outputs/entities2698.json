@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.900583803653717,
+            "Type": "PERSON",
+            "Text": "@reidepstein",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9784359931945801,
+            "Type": "QUANTITY",
+            "Text": "two minutes",
+            "BeginOffset": 53,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9376018047332764,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 69,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.6421193480491638,
+            "Type": "LOCATION",
+            "Text": "NH",
+            "BeginOffset": 77,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.6107302308082581,
+            "Type": "LOCATION",
+            "Text": "Sunda",
+            "BeginOffset": 134,
+            "EndOffset": 139
+        }
+    ]
+}

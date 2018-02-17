@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9679753184318542,
+            "Type": "PERSON",
+            "Text": "@Cary88888888",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9449554085731506,
+            "Type": "LOCATION",
+            "Text": "Muscatine County",
+            "BeginOffset": 18,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9093100428581238,
+            "Type": "QUANTITY",
+            "Text": "over 100 years",
+            "BeginOffset": 78,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.9114264845848083,
+            "Type": "OTHER",
+            "Text": "https://t.co/TjfizQMxav",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        }
+    ]
+}

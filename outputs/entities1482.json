@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8364027142524719,
+            "Type": "ORGANIZATION",
+            "Text": "@FoxNews",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9597641825675964,
+            "Type": "ORGANIZATION",
+            "Text": "Fox News",
+            "BeginOffset": 13,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9234657883644104,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 54,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.6565527319908142,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 77,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.9722585082054138,
+            "Type": "QUANTITY",
+            "Text": "41%",
+            "BeginOffset": 93,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.9911827445030212,
+            "Type": "QUANTITY",
+            "Text": "29%",
+            "BeginOffset": 100,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.999930739402771,
+            "Type": "OTHER",
+            "Text": "https://t.co/JOA7dLlgoT",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        }
+    ]
+}

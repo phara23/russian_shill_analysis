@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9039108753204346,
+            "Type": "PERSON",
+            "Text": "@NikkiFinke",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.4869218170642853,
+            "Type": "LOCATION",
+            "Text": "Toronto",
+            "BeginOffset": 16,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9912522435188293,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 42,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.7820153832435608,
+            "Type": "QUANTITY",
+            "Text": "494 false claims",
+            "BeginOffset": 53,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.99543297290802,
+            "Type": "DATE",
+            "Text": "Sept 15",
+            "BeginOffset": 76,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.9987010955810547,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 97,
+            "EndOffset": 104
+        }
+    ]
+}

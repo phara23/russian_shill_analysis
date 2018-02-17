@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7775406241416931,
+            "Type": "PERSON",
+            "Text": "@bootchgyal",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8082262277603149,
+            "Type": "QUANTITY",
+            "Text": "first one",
+            "BeginOffset": 43,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9221686720848083,
+            "Type": "QUANTITY",
+            "Text": "50 TYSON",
+            "BeginOffset": 82,
+            "EndOffset": 90
+        }
+    ]
+}

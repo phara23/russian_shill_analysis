@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9846189618110657,
+            "Type": "PERSON",
+            "Text": "@JrcheneyJohn",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9965213537216187,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 18,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.4678783714771271,
+            "Type": "ORGANIZATION",
+            "Text": "WH",
+            "BeginOffset": 96,
+            "EndOffset": 98
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8562067747116089,
+            "Type": "PERSON",
+            "Text": "@LiamKersting",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9954482913017273,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 50,
+            "EndOffset": 55
+        }
+    ]
+}

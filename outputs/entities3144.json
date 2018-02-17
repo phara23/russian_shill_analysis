@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8976446986198425,
+            "Type": "PERSON",
+            "Text": "@RickRWells",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9899527430534363,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 58,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9860910177230835,
+            "Type": "DATE",
+            "Text": "This Week",
+            "BeginOffset": 67,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.8662662506103516,
+            "Type": "PERSON",
+            "Text": "Khan",
+            "BeginOffset": 79,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.7997646927833557,
+            "Type": "OTHER",
+            "Text": "https://t.co/Cdwu0M20nT",
+            "BeginOffset": 84,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.9999692440032959,
+            "Type": "OTHER",
+            "Text": "https://t.co/o6H8uDqdNL",
+            "BeginOffset": 108,
+            "EndOffset": 131
+        }
+    ]
+}

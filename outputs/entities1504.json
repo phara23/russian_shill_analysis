@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.538313627243042,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.9554028511047363,
+            "Type": "PERSON",
+            "Text": "@Mike_Beacham",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.6453673243522644,
+            "Type": "QUANTITY",
+            "Text": "#2A",
+            "BeginOffset": 130,
+            "EndOffset": 133
+        }
+    ]
+}

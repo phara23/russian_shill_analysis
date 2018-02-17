@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8247644901275635,
+            "Type": "PERSON",
+            "Text": "@RealRupertX",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.63290935754776,
+            "Type": "LOCATION",
+            "Text": "Southwest Gate",
+            "BeginOffset": 67,
+            "EndOffset": 81
+        }
+    ]
+}

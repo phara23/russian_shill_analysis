@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9537882804870605,
+            "Type": "PERSON",
+            "Text": "@ejoy2270",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9986962676048279,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 14,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.8053169250488281,
+            "Type": "ORGANIZATION",
+            "Text": "Christians",
+            "BeginOffset": 31,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.8734835982322693,
+            "Type": "ORGANIZATION",
+            "Text": "Breitbart",
+            "BeginOffset": 116,
+            "EndOffset": 125
+        },
+        {
+            "Score": 0.8290854692459106,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

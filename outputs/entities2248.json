@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7004696130752563,
+            "Type": "PERSON",
+            "Text": "@dtEmptySuitcase",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.4617052376270294,
+            "Type": "QUANTITY",
+            "Text": "100",
+            "BeginOffset": 30,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.7217693328857422,
+            "Type": "OTHER",
+            "Text": "Russian",
+            "BeginOffset": 60,
+            "EndOffset": 67
+        }
+    ]
+}

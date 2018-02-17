@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7338774800300598,
+            "Type": "PERSON",
+            "Text": "@SoulFya",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8703631162643433,
+            "Type": "PERSON",
+            "Text": "@WizardOfOsrin",
+            "BeginOffset": 13,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9629214406013489,
+            "Type": "PERSON",
+            "Text": "@RuthHHopkins",
+            "BeginOffset": 28,
+            "EndOffset": 41
+        }
+    ]
+}

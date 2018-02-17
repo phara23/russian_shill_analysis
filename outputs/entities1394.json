@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4968642592430115,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.9274402260780334,
+            "Type": "PERSON",
+            "Text": "@Kevin_Saito",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9081863760948181,
+            "Type": "PERSON",
+            "Text": "@GiselleEvns",
+            "BeginOffset": 17,
+            "EndOffset": 29
+        }
+    ]
+}

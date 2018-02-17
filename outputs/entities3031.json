@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9101083874702454,
+            "Type": "PERSON",
+            "Text": "@georgeguice",
+            "BeginOffset": 0,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8423963189125061,
+            "Type": "ORGANIZATION",
+            "Text": "Google",
+            "BeginOffset": 13,
+            "EndOffset": 19
+        }
+    ]
+}

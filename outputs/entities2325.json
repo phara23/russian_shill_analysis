@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9090582132339478,
+            "Type": "PERSON",
+            "Text": "@FrankLuntz",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9998853206634521,
+            "Type": "OTHER",
+            "Text": "https://t.co/6gf0E06nsL",
+            "BeginOffset": 67,
+            "EndOffset": 90
+        }
+    ]
+}

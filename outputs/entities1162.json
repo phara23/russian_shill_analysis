@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.724950909614563,
+            "Type": "PERSON",
+            "Text": "Kitty",
+            "BeginOffset": 7,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.4813600480556488,
+            "Type": "PERSON",
+            "Text": "#JapanAMovie",
+            "BeginOffset": 14,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.8861876130104065,
+            "Type": "PERSON",
+            "Text": "@midnight",
+            "BeginOffset": 27,
+            "EndOffset": 36
+        }
+    ]
+}

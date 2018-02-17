@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9433872699737549,
+            "Type": "PERSON",
+            "Text": "@LindaSuhler",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.935369610786438,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 17,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.9972285032272339,
+            "Type": "PERSON",
+            "Text": "Paul Ryan",
+            "BeginOffset": 26,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9190352559089661,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 82,
+            "EndOffset": 89
+        }
+    ]
+}

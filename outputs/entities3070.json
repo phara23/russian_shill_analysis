@@ -1,0 +1,67 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6407150030136108,
+            "Type": "PERSON",
+            "Text": "@tponews",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9725291728973389,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 13,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7824456691741943,
+            "Type": "QUANTITY",
+            "Text": "One Love",
+            "BeginOffset": 34,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9305022954940796,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 43,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.9667765498161316,
+            "Type": "PERSON",
+            "Text": "@KellyannePolls",
+            "BeginOffset": 60,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.9437650442123413,
+            "Type": "PERSON",
+            "Text": "@AnnCoulter",
+            "BeginOffset": 76,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.9423866271972656,
+            "Type": "PERSON",
+            "Text": "@pastormarkburns",
+            "BeginOffset": 88,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.8900550007820129,
+            "Type": "PERSON",
+            "Text": "@seanhannity",
+            "BeginOffset": 105,
+            "EndOffset": 117
+        },
+        {
+            "Score": 0.9458569884300232,
+            "Type": "OTHER",
+            "Text": "https://t.co/soT5xbeh",
+            "BeginOffset": 118,
+            "EndOffset": 139
+        }
+    ]
+}

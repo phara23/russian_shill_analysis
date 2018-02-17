@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8882108926773071,
+            "Type": "PERSON",
+            "Text": "@EnergyandHeart",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7383873462677002,
+            "Type": "ORGANIZATION",
+            "Text": "@twitter",
+            "BeginOffset": 38,
+            "EndOffset": 46
+        }
+    ]
+}

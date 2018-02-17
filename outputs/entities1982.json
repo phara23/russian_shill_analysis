@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.78971266746521,
+            "Type": "PERSON",
+            "Text": "@THERKTMAN",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9351853132247925,
+            "Type": "PERSON",
+            "Text": "@jimdwrench",
+            "BeginOffset": 15,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.25032439827919006,
+            "Type": "PERSON",
+            "Text": "#TexasPrimary",
+            "BeginOffset": 27,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9002007246017456,
+            "Type": "OTHER",
+            "Text": "https://t.co/bSqrPi6dmu",
+            "BeginOffset": 74,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.9999455213546753,
+            "Type": "OTHER",
+            "Text": "https://t.co/kP2TWQtLsF",
+            "BeginOffset": 98,
+            "EndOffset": 121
+        }
+    ]
+}

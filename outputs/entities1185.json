@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.937153697013855,
+            "Type": "ORGANIZATION",
+            "Text": "Muslim",
+            "BeginOffset": 0,
+            "EndOffset": 6
+        },
+        {
+            "Score": 0.920162558555603,
+            "Type": "LOCATION",
+            "Text": "Back Bay Station",
+            "BeginOffset": 76,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.958111047744751,
+            "Type": "LOCATION",
+            "Text": "Boston",
+            "BeginOffset": 96,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.9999148845672607,
+            "Type": "OTHER",
+            "Text": "https://t.co/ae7lLlIdF8",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        }
+    ]
+}

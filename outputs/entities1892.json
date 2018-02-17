@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7272394299507141,
+            "Type": "ORGANIZATION",
+            "Text": "@IWV",
+            "BeginOffset": 3,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.9972769618034363,
+            "Type": "PERSON",
+            "Text": "Nancy Pelosi",
+            "BeginOffset": 9,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9834722280502319,
+            "Type": "ORGANIZATION",
+            "Text": "Republicans",
+            "BeginOffset": 28,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.5959812998771667,
+            "Type": "TITLE",
+            "Text": "#Obamacare",
+            "BeginOffset": 54,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9484866857528687,
+            "Type": "OTHER",
+            "Text": "https://t.co/DxxnAUhphy",
+            "BeginOffset": 78,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.8410113453865051,
+            "Type": "ORGANIZATION",
+            "Text": "@theblaze",
+            "BeginOffset": 106,
+            "EndOffset": 115
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9537353515625,
+            "Type": "PERSON",
+            "Text": "Rickey",
+            "BeginOffset": 0,
+            "EndOffset": 6
+        },
+        {
+            "Score": 0.8131431341171265,
+            "Type": "PERSON",
+            "Text": "Hendersons",
+            "BeginOffset": 15,
+            "EndOffset": 25
+        }
+    ]
+}

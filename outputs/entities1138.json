@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7997080087661743,
+            "Type": "PERSON",
+            "Text": "@indigenous01",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9798550605773926,
+            "Type": "OTHER",
+            "Text": "https://t.co/gtR48tALqS",
+            "BeginOffset": 67,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9488508701324463,
+            "Type": "ORGANIZATION",
+            "Text": "@nypost",
+            "BeginOffset": 95,
+            "EndOffset": 102
+        }
+    ]
+}

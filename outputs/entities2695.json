@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7481542229652405,
+            "Type": "PERSON",
+            "Text": "@guntrust",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9525679349899292,
+            "Type": "ORGANIZATION",
+            "Text": "Wal-Mart",
+            "BeginOffset": 68,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.9722956418991089,
+            "Type": "OTHER",
+            "Text": "https://t.co/sqJp7MocU4",
+            "BeginOffset": 85,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.5755860805511475,
+            "Type": "ORGANIZATION",
+            "Text": "#tcot",
+            "BeginOffset": 109,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.7500411868095398,
+            "Type": "ORGANIZATION",
+            "Text": "@guntrust",
+            "BeginOffset": 129,
+            "EndOffset": 138
+        }
+    ]
+}

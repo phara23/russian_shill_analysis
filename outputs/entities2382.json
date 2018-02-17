@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8377872109413147,
+            "Type": "PERSON",
+            "Text": "@EnviroVic",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.4119860529899597,
+            "Type": "OTHER",
+            "Text": "Aussie",
+            "BeginOffset": 20,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.932555079460144,
+            "Type": "OTHER",
+            "Text": "https://t.co/yyHJhl7I7P",
+            "BeginOffset": 102,
+            "EndOffset": 125
+        },
+        {
+            "Score": 0.9713530540466309,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

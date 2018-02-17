@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.814771294593811,
+            "Type": "PERSON",
+            "Text": "@acamire",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8177832365036011,
+            "Type": "PERSON",
+            "Text": "Jeremiah",
+            "BeginOffset": 13,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.3792363405227661,
+            "Type": "QUANTITY",
+            "Text": "29",
+            "BeginOffset": 22,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9651691913604736,
+            "Type": "QUANTITY",
+            "Text": "13",
+            "BeginOffset": 25,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9973468780517578,
+            "Type": "QUANTITY",
+            "Text": "14",
+            "BeginOffset": 28,
+            "EndOffset": 30
+        }
+    ]
+}

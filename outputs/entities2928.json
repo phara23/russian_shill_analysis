@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8271937370300293,
+            "Type": "PERSON",
+            "Text": "@me4usa",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.941857099533081,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 12,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9998797178268433,
+            "Type": "OTHER",
+            "Text": "https://t.co/Fxiltsdg2F",
+            "BeginOffset": 114,
+            "EndOffset": 137
+        }
+    ]
+}

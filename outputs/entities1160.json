@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7345901131629944,
+            "Type": "PERSON",
+            "Text": "@questlove",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.4478473365306854,
+            "Type": "ORGANIZATION",
+            "Text": "#Facepalm",
+            "BeginOffset": 15,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9998986721038818,
+            "Type": "OTHER",
+            "Text": "https://t.co/SCqvmNQrmM",
+            "BeginOffset": 25,
+            "EndOffset": 48
+        }
+    ]
+}

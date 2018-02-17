@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9121941328048706,
+            "Type": "PERSON",
+            "Text": "@JackPosobiec",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9935540556907654,
+            "Type": "PERSON",
+            "Text": "Dan Bongino",
+            "BeginOffset": 46,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.3600725829601288,
+            "Type": "PERSON",
+            "Text": "#Obamagate",
+            "BeginOffset": 59,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.7237229943275452,
+            "Type": "DATE",
+            "Text": "This Week",
+            "BeginOffset": 97,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.9998538494110107,
+            "Type": "OTHER",
+            "Text": "https://t.co/PxZNJAUk4y",
+            "BeginOffset": 107,
+            "EndOffset": 130
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8746500611305237,
+            "Type": "PERSON",
+            "Text": "@MoneySaysItBest",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9533231854438782,
+            "Type": "OTHER",
+            "Text": "https://t.co/xD6LdyDPe6",
+            "BeginOffset": 74,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.903170645236969,
+            "Type": "OTHER",
+            "Text": "#DPK .833",
+            "BeginOffset": 112,
+            "EndOffset": 121
+        }
+    ]
+}

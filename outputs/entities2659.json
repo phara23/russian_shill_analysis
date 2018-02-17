@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8724039196968079,
+            "Type": "PERSON",
+            "Text": "@TruthFrqncyNews",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.2925151586532593,
+            "Type": "LOCATION",
+            "Text": "Capitol",
+            "BeginOffset": 39,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9472212195396423,
+            "Type": "OTHER",
+            "Text": "https://t.co",
+            "BeginOffset": 127,
+            "EndOffset": 139
+        }
+    ]
+}

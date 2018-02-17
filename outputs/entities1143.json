@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8264190554618835,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.7471624612808228,
+            "Type": "PERSON",
+            "Text": "@AllBlackMedia",
+            "BeginOffset": 14,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9639652967453003,
+            "Type": "ORGANIZATION",
+            "Text": "Snapchat",
+            "BeginOffset": 59,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9999538660049438,
+            "Type": "OTHER",
+            "Text": "https://t.co/8LrSN3gIVL",
+            "BeginOffset": 93,
+            "EndOffset": 116
+        }
+    ]
+}

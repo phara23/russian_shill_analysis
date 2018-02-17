@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.488910049200058,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.9470655918121338,
+            "Type": "PERSON",
+            "Text": "@Liam_J_McIntyre",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.35638993978500366,
+            "Type": "ORGANIZATION",
+            "Text": "#ZsaZsaGabor",
+            "BeginOffset": 43,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.991504430770874,
+            "Type": "QUANTITY",
+            "Text": "100, 2016",
+            "BeginOffset": 63,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.9954078793525696,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 95,
+            "EndOffset": 99
+        }
+    ]
+}

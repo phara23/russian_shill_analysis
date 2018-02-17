@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.855666995048523,
+            "Type": "PERSON",
+            "Text": "@SoarMich",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9891197681427002,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 32,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9258288145065308,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 45,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.7297655344009399,
+            "Type": "PERSON",
+            "Text": "Karma",
+            "BeginOffset": 68,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.9880462884902954,
+            "Type": "QUANTITY",
+            "Text": "8years",
+            "BeginOffset": 113,
+            "EndOffset": 119
+        }
+    ]
+}

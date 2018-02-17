@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.692375123500824,
+            "Type": "PERSON",
+            "Text": "@BDUTT",
+            "BeginOffset": 0,
+            "EndOffset": 6
+        },
+        {
+            "Score": 0.9788402318954468,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 7,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9809519052505493,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 23,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9798121452331543,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 76,
+            "EndOffset": 80
+        }
+    ]
+}

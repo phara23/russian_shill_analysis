@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8404479026794434,
+            "Type": "PERSON",
+            "Text": "@SPIEGELONLINE",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7573186755180359,
+            "Type": "QUANTITY",
+            "Text": "49-Jährige bei der Pokémon-Jagd eine Leiche entdeckt",
+            "BeginOffset": 40,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.9998722076416016,
+            "Type": "OTHER",
+            "Text": "https://t.co/e3zaapbTXb",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        }
+    ]
+}

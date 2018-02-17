@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9011205434799194,
+            "Type": "PERSON",
+            "Text": "@Therra",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9780809283256531,
+            "Type": "OTHER",
+            "Text": "https://t.co/N3xFL1",
+            "BeginOffset": 120,
+            "EndOffset": 139
+        }
+    ]
+}

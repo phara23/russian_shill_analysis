@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9484227895736694,
+            "Type": "PERSON",
+            "Text": "@steph93065",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9852585792541504,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 16,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.99991774559021,
+            "Type": "OTHER",
+            "Text": "https://t.co/jWEkNz6yl5",
+            "BeginOffset": 88,
+            "EndOffset": 111
+        }
+    ]
+}

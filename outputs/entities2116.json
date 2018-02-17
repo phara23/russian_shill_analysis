@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8683841228485107,
+            "Type": "PERSON",
+            "Text": "@docmurdock",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8157052397727966,
+            "Type": "PERSON",
+            "Text": "@SenatorReid",
+            "BeginOffset": 20,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9936487078666687,
+            "Type": "ORGANIZATION",
+            "Text": "FBI",
+            "BeginOffset": 89,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.8859066367149353,
+            "Type": "ORGANIZATION",
+            "Text": "@FoxNews",
+            "BeginOffset": 124,
+            "EndOffset": 132
+        }
+    ]
+}

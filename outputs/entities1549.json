@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8732525706291199,
+            "Type": "PERSON",
+            "Text": "@Lexialex",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9916166663169861,
+            "Type": "PERSON",
+            "Text": "Maher",
+            "BeginOffset": 36,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9965432286262512,
+            "Type": "PERSON",
+            "Text": "Milo",
+            "BeginOffset": 61,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9354513883590698,
+            "Type": "PERSON",
+            "Text": "Goebbels",
+            "BeginOffset": 107,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.9649032950401306,
+            "Type": "PERSON",
+            "Text": "Himmler",
+            "BeginOffset": 122,
+            "EndOffset": 129
+        }
+    ]
+}

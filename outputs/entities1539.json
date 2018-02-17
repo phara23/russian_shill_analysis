@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9987236857414246,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 0,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9366599917411804,
+            "Type": "LOCATION",
+            "Text": "Ohio",
+            "BeginOffset": 44,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.6948766708374023,
+            "Type": "LOCATION",
+            "Text": "Ohio",
+            "BeginOffset": 50,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9025770425796509,
+            "Type": "OTHER",
+            "Text": "https://t.co/OzBci66pS4",
+            "BeginOffset": 72,
+            "EndOffset": 95
+        }
+    ]
+}

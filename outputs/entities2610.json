@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9150462746620178,
+            "Type": "PERSON",
+            "Text": "@PatriotJewel",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.5334448218345642,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 18,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.8233070373535156,
+            "Type": "PERSON",
+            "Text": "@jstines3",
+            "BeginOffset": 21,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9766268134117126,
+            "Type": "OTHER",
+            "Text": "https://t.co/21yFThOHm3",
+            "BeginOffset": 101,
+            "EndOffset": 124
+        }
+    ]
+}

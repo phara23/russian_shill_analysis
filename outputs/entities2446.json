@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9419386982917786,
+            "Type": "PERSON",
+            "Text": "@marina_saniram",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8808504939079285,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 20,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.6065546870231628,
+            "Type": "OTHER",
+            "Text": "Russian",
+            "BeginOffset": 73,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.9999196529388428,
+            "Type": "OTHER",
+            "Text": "https://t.co/UFSifkmulu",
+            "BeginOffset": 98,
+            "EndOffset": 121
+        }
+    ]
+}

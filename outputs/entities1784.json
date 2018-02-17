@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7418643832206726,
+            "Type": "PERSON",
+            "Text": "@MashableNews",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9860135912895203,
+            "Type": "LOCATION",
+            "Text": "India",
+            "BeginOffset": 75,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.9998372793197632,
+            "Type": "OTHER",
+            "Text": "http://t.co/kRvdwgTC6W",
+            "BeginOffset": 82,
+            "EndOffset": 104
+        }
+    ]
+}

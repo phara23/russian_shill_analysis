@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9999129176139832,
+            "Type": "PERSON",
+            "Text": "Rob Portman",
+            "BeginOffset": 0,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9989503622055054,
+            "Type": "PERSON",
+            "Text": "John Kasich",
+            "BeginOffset": 17,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9968016147613525,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 55,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.7310582399368286,
+            "Type": "LOCATION",
+            "Text": "Ohio",
+            "BeginOffset": 71,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.8892216086387634,
+            "Type": "OTHER",
+            "Text": "https://t.co/kEZGnLJnMU",
+            "BeginOffset": 93,
+            "EndOffset": 116
+        }
+    ]
+}

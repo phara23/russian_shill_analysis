@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6645570993423462,
+            "Type": "ORGANIZATION",
+            "Text": "@Independent",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8808689713478088,
+            "Type": "LOCATION",
+            "Text": "Gaza Strip",
+            "BeginOffset": 64,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.47115495800971985,
+            "Type": "LOCATION",
+            "Text": "Hamas",
+            "BeginOffset": 76,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.9999518394470215,
+            "Type": "OTHER",
+            "Text": "https://t.co/muEYFZvx8O",
+            "BeginOffset": 88,
+            "EndOffset": 111
+        }
+    ]
+}

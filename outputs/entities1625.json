@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9986936450004578,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 4,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8078479766845703,
+            "Type": "PERSON",
+            "Text": "Bill",
+            "BeginOffset": 27,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.747570276260376,
+            "Type": "PERSON",
+            "Text": "Win",
+            "BeginOffset": 36,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9912010431289673,
+            "Type": "LOCATION",
+            "Text": "Georgia",
+            "BeginOffset": 43,
+            "EndOffset": 50
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9017728567123413,
+            "Type": "PERSON",
+            "Text": "@djbratpack",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.790876030921936,
+            "Type": "PERSON",
+            "Text": "@ElectoralCollge",
+            "BeginOffset": 18,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9999600648880005,
+            "Type": "OTHER",
+            "Text": "https://t.co/Z8Pu6451h0",
+            "BeginOffset": 78,
+            "EndOffset": 101
+        }
+    ]
+}

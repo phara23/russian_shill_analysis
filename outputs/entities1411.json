@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6970279812812805,
+            "Type": "QUANTITY",
+            "Text": "both",
+            "BeginOffset": 3,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.7593597769737244,
+            "Type": "PERSON",
+            "Text": "God",
+            "BeginOffset": 40,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.6425895094871521,
+            "Type": "PERSON",
+            "Text": "#LeeBrice",
+            "BeginOffset": 77,
+            "EndOffset": 86
+        }
+    ]
+}

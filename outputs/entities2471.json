@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8247911334037781,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8343563675880432,
+            "Type": "PERSON",
+            "Text": "@BlackTalkRadio",
+            "BeginOffset": 14,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.6048383116722107,
+            "Type": "TITLE",
+            "Text": "COBRA",
+            "BeginOffset": 31,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.46552541851997375,
+            "Type": "EVENT",
+            "Text": "NFL",
+            "BeginOffset": 71,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9999635219573975,
+            "Type": "OTHER",
+            "Text": "https://t.co/18lhAJwASf",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        }
+    ]
+}

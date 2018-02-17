@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7280095815658569,
+            "Type": "PERSON",
+            "Text": "@XLNB",
+            "BeginOffset": 3,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.9883143901824951,
+            "Type": "DATE",
+            "Text": "three months ago",
+            "BeginOffset": 56,
+            "EndOffset": 72
+        }
+    ]
+}

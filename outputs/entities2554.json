@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.886749804019928,
+            "Type": "PERSON",
+            "Text": "@jayceodpromoter",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9046680331230164,
+            "Type": "QUANTITY",
+            "Text": "5.99",
+            "BeginOffset": 31,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.7501479983329773,
+            "Type": "QUANTITY",
+            "Text": "1700 plays",
+            "BeginOffset": 95,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.8194600939750671,
+            "Type": "QUANTITY",
+            "Text": "5k",
+            "BeginOffset": 106,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.8214243650436401,
+            "Type": "QUANTITY",
+            "Text": "500 downloads",
+            "BeginOffset": 115,
+            "EndOffset": 128
+        }
+    ]
+}

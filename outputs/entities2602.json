@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5073227286338806,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8877972960472107,
+            "Type": "PERSON",
+            "Text": "@Thatnigga_Fritz",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        }
+    ]
+}

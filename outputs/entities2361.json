@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6166905760765076,
+            "Type": "OTHER",
+            "Text": "asian",
+            "BeginOffset": 20,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.6222537755966187,
+            "Type": "QUANTITY",
+            "Text": "#2A",
+            "BeginOffset": 107,
+            "EndOffset": 110
+        }
+    ]
+}

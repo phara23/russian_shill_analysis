@@ -1,0 +1,74 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8734613060951233,
+            "Type": "PERSON",
+            "Text": "@al4_trump",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9540839791297913,
+            "Type": "PERSON",
+            "Text": "@tamaraleighllc",
+            "BeginOffset": 15,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9917484521865845,
+            "Type": "PERSON",
+            "Text": "@Miami4Trump",
+            "BeginOffset": 31,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9886980652809143,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 44,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9939718246459961,
+            "Type": "PERSON",
+            "Text": "@DonaldJTrumpJr",
+            "BeginOffset": 61,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.9874476790428162,
+            "Type": "PERSON",
+            "Text": "@EricTrump",
+            "BeginOffset": 77,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.9834935069084167,
+            "Type": "PERSON",
+            "Text": "@IvankaTrump",
+            "BeginOffset": 88,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.9586406946182251,
+            "Type": "PERSON",
+            "Text": "@LouDobbs",
+            "BeginOffset": 101,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.962035059928894,
+            "Type": "PERSON",
+            "Text": "@seanhannity",
+            "BeginOffset": 111,
+            "EndOffset": 123
+        },
+        {
+            "Score": 0.9623364806175232,
+            "Type": "PERSON",
+            "Text": "@AnnCoulter",
+            "BeginOffset": 124,
+            "EndOffset": 135
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9017181396484375,
+            "Type": "PERSON",
+            "Text": "@jfreewright",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7420246005058289,
+            "Type": "PERSON",
+            "Text": "Mrs Hathaway",
+            "BeginOffset": 17,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9542961716651917,
+            "Type": "QUANTITY",
+            "Text": "71-yr-old",
+            "BeginOffset": 31,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9704984426498413,
+            "Type": "LOCATION",
+            "Text": "Miami-Dade County",
+            "BeginOffset": 54,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9872716069221497,
+            "Type": "DATE",
+            "Text": "Saturday",
+            "BeginOffset": 86,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.3012370467185974,
+            "Type": "ORGANIZATION",
+            "Text": "#HillaryBecause",
+            "BeginOffset": 99,
+            "EndOffset": 114
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5686962604522705,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.7825209498405457,
+            "Type": "ORGANIZATION",
+            "Text": "@Shooters_Wife",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6980032324790955,
+            "Type": "QUANTITY",
+            "Text": "one chance",
+            "BeginOffset": 27,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9101148843765259,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 74,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.9695392847061157,
+            "Type": "OTHER",
+            "Text": "https://t.co/fPoY00vnP2",
+            "BeginOffset": 98,
+            "EndOffset": 121
+        },
+        {
+            "Score": 0.45736128091812134,
+            "Type": "ORGANIZATION",
+            "Text": "#CruzCrew",
+            "BeginOffset": 122,
+            "EndOffset": 131
+        }
+    ]
+}

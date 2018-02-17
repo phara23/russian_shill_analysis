@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7943919897079468,
+            "Type": "PERSON",
+            "Text": "@twitsnotnice",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8868442177772522,
+            "Type": "PERSON",
+            "Text": "Santa",
+            "BeginOffset": 25,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9998934268951416,
+            "Type": "OTHER",
+            "Text": "https://t.co/pF23qKnfLw",
+            "BeginOffset": 60,
+            "EndOffset": 83
+        }
+    ]
+}

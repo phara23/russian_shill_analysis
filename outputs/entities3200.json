@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9986710548400879,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 0,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.9956888556480408,
+            "Type": "QUANTITY",
+            "Text": "30 years",
+            "BeginOffset": 12,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.7779268622398376,
+            "Type": "QUANTITY",
+            "Text": "one job",
+            "BeginOffset": 58,
+            "EndOffset": 65
+        }
+    ]
+}

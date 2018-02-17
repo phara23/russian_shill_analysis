@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9266050457954407,
+            "Type": "PERSON",
+            "Text": "@JaredDayAZ",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9400819540023804,
+            "Type": "OTHER",
+            "Text": "https://t.co/OZxg31tUN0",
+            "BeginOffset": 77,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.3977307677268982,
+            "Type": "LOCATION",
+            "Text": "#WakeUpAmerica",
+            "BeginOffset": 101,
+            "EndOffset": 115
+        }
+    ]
+}

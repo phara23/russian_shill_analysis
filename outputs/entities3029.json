@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7809206247329712,
+            "Type": "PERSON",
+            "Text": "@ZaibatsuNews",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9974504113197327,
+            "Type": "PERSON",
+            "Text": "Thomas Friedman",
+            "BeginOffset": 18,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9179882407188416,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 41,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.91331946849823,
+            "Type": "OTHER",
+            "Text": "https://t.co/QD5D9bqyb0",
+            "BeginOffset": 94,
+            "EndOffset": 117
+        },
+        {
+            "Score": 0.9540289640426636,
+            "Type": "OTHER",
+            "Text": "https://t.co/gtH9jzTu",
+            "BeginOffset": 118,
+            "EndOffset": 139
+        }
+    ]
+}

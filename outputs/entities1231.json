@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8727720379829407,
+            "Type": "PERSON",
+            "Text": "@tjemery1",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9888076782226562,
+            "Type": "PERSON",
+            "Text": "Joe Scarborough",
+            "BeginOffset": 14,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9439910054206848,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 31,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.7809987664222717,
+            "Type": "OTHER",
+            "Text": "https://t.co/npxjrEnP5J",
+            "BeginOffset": 71,
+            "EndOffset": 94
+        }
+    ]
+}

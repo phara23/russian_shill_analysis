@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6324634552001953,
+            "Type": "PERSON",
+            "Text": "@365",
+            "BeginOffset": 3,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.9818234443664551,
+            "Type": "LOCATION",
+            "Text": "USA",
+            "BeginOffset": 7,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.4799439311027527,
+            "Type": "ORGANIZATION",
+            "Text": "#Islam",
+            "BeginOffset": 12,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9501032829284668,
+            "Type": "OTHER",
+            "Text": "https://t.co/RYw09fRavJ",
+            "BeginOffset": 39,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.4934634864330292,
+            "Type": "ORGANIZATION",
+            "Text": "#tcot",
+            "BeginOffset": 63,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.8570986390113831,
+            "Type": "ORGANIZATION",
+            "Text": "@PoliticalIslam",
+            "BeginOffset": 69,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9830927848815918,
+            "Type": "OTHER",
+            "Text": "https://t.co/8",
+            "BeginOffset": 125,
+            "EndOffset": 139
+        }
+    ]
+}

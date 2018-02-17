@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.785487174987793,
+            "Type": "PERSON",
+            "Text": "@Blu_PHIlosopher",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9752951264381409,
+            "Type": "PERSON",
+            "Text": "@amjoyshow",
+            "BeginOffset": 21,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9394896030426025,
+            "Type": "PERSON",
+            "Text": "@RevJJackson",
+            "BeginOffset": 69,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.9491463303565979,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 114,
+            "EndOffset": 130
+        }
+    ]
+}

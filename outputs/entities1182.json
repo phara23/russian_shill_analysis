@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8924942016601562,
+            "Type": "QUANTITY",
+            "Text": "1/3",
+            "BeginOffset": 0,
+            "EndOffset": 3
+        },
+        {
+            "Score": 0.5661172866821289,
+            "Type": "PERSON",
+            "Text": "Abedin",
+            "BeginOffset": 7,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9867245554924011,
+            "Type": "QUANTITY",
+            "Text": "100%",
+            "BeginOffset": 21,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9999762773513794,
+            "Type": "OTHER",
+            "Text": "https://t.co/ZEPLQ5TX4Y",
+            "BeginOffset": 35,
+            "EndOffset": 58
+        }
+    ]
+}

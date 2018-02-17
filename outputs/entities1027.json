@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7649351358413696,
+            "Type": "PERSON",
+            "Text": "@beforeitsnews",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6044236421585083,
+            "Type": "ORGANIZATION",
+            "Text": "Albuquerque Police",
+            "BeginOffset": 19,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9841939806938171,
+            "Type": "OTHER",
+            "Text": "https://t.co/LqK3c",
+            "BeginOffset": 121,
+            "EndOffset": 139
+        }
+    ]
+}

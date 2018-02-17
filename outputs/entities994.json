@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9433882236480713,
+            "Type": "PERSON",
+            "Text": "@DanScavino",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9999618530273438,
+            "Type": "OTHER",
+            "Text": "https://t.co/5d8oHmRxT2",
+            "BeginOffset": 30,
+            "EndOffset": 53
+        }
+    ]
+}

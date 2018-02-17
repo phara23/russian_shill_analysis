@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8892780542373657,
+            "Type": "PERSON",
+            "Text": "@joshtpm",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9999262094497681,
+            "Type": "OTHER",
+            "Text": "https://t.co/c6LPdKwyE4",
+            "BeginOffset": 106,
+            "EndOffset": 129
+        }
+    ]
+}

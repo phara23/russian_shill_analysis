@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8085328340530396,
+            "Type": "ORGANIZATION",
+            "Text": "@eB2B_entertain",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.4645289480686188,
+            "Type": "OTHER",
+            "Text": "Germans",
+            "BeginOffset": 50,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9999794960021973,
+            "Type": "OTHER",
+            "Text": "https://t.co/3L2rRUpWk1",
+            "BeginOffset": 79,
+            "EndOffset": 102
+        }
+    ]
+}

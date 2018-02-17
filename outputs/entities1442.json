@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8895771503448486,
+            "Type": "PERSON",
+            "Text": "@cocogurl86",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8036311268806458,
+            "Type": "QUANTITY",
+            "Text": "3Words",
+            "BeginOffset": 65,
+            "EndOffset": 71
+        }
+    ]
+}

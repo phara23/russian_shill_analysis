@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.831952691078186,
+            "Type": "PERSON",
+            "Text": "@CeciliaFrances4",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9836357831954956,
+            "Type": "PERSON",
+            "Text": "@rustythimble54",
+            "BeginOffset": 21,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.8443917036056519,
+            "Type": "PERSON",
+            "Text": "@FoxNewsSunday",
+            "BeginOffset": 37,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.7860419750213623,
+            "Type": "QUANTITY",
+            "Text": "2many ppl",
+            "BeginOffset": 101,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.9250254034996033,
+            "Type": "QUANTITY",
+            "Text": "2muc",
+            "BeginOffset": 135,
+            "EndOffset": 139
+        }
+    ]
+}

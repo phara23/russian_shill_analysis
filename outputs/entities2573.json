@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8106530904769897,
+            "Type": "PERSON",
+            "Text": "@GeffGefferson1",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9983452558517456,
+            "Type": "DATE",
+            "Text": "January 20th, 2017",
+            "BeginOffset": 40,
+            "EndOffset": 58
+        }
+    ]
+}

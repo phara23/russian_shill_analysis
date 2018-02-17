@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.701535701751709,
+            "Type": "PERSON",
+            "Text": "@catoletters",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9786836504936218,
+            "Type": "ORGANIZATION",
+            "Text": "IBM",
+            "BeginOffset": 17,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.9969881176948547,
+            "Type": "QUANTITY",
+            "Text": "25,000",
+            "BeginOffset": 42,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9829339385032654,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 52,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9848142266273499,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 65,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9931861162185669,
+            "Type": "OTHER",
+            "Text": "https://t.co/49vOQCYG6X",
+            "BeginOffset": 79,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.9179186224937439,
+            "Type": "ORGANIZATION",
+            "Text": "@MailOnline",
+            "BeginOffset": 107,
+            "EndOffset": 118
+        }
+    ]
+}

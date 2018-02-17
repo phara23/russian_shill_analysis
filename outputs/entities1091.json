@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9374114274978638,
+            "Type": "PERSON",
+            "Text": "@IMHObyJJ",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.37584030628204346,
+            "Type": "PERSON",
+            "Text": "Brit",
+            "BeginOffset": 19,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9994168281555176,
+            "Type": "OTHER",
+            "Text": "https://t.co/MGmThyEFnc",
+            "BeginOffset": 72,
+            "EndOffset": 95
+        }
+    ]
+}

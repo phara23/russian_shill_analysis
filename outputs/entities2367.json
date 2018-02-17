@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8299504518508911,
+            "Type": "PERSON",
+            "Text": "@LibAmericaOrg",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9857807755470276,
+            "Type": "PERSON",
+            "Text": "Barack Obama",
+            "BeginOffset": 19,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9378448128700256,
+            "Type": "OTHER",
+            "Text": "https://t.co/tsiu6T7Cmo",
+            "BeginOffset": 70,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.9998670816421509,
+            "Type": "OTHER",
+            "Text": "https://t.co/FTll4qL3iR",
+            "BeginOffset": 94,
+            "EndOffset": 117
+        }
+    ]
+}

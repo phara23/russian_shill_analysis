@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8821851015090942,
+            "Type": "PERSON",
+            "Text": "@verumserum",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9996271133422852,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 45,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9992493987083435,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 69,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9999409914016724,
+            "Type": "OTHER",
+            "Text": "https://t.co/U8Dha5IviB",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        }
+    ]
+}

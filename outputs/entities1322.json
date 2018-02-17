@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8015686869621277,
+            "Type": "PERSON",
+            "Text": "@LouDobbs",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.7524193525314331,
+            "Type": "ORGANIZATION",
+            "Text": "McClatchy",
+            "BeginOffset": 21,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.8552437424659729,
+            "Type": "LOCATION",
+            "Text": "Kenya",
+            "BeginOffset": 72,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.41476184129714966,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 85,
+            "EndOffset": 92
+        }
+    ]
+}

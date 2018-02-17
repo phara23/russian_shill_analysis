@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9116755723953247,
+            "Type": "PERSON",
+            "Text": "Martini",
+            "BeginOffset": 0,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.7974287867546082,
+            "Type": "PERSON",
+            "Text": "@midnight",
+            "BeginOffset": 52,
+            "EndOffset": 61
+        }
+    ]
+}

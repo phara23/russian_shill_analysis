@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7533805966377258,
+            "Type": "PERSON",
+            "Text": "@LadyLiberTea",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9882861971855164,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 104,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.9999213218688965,
+            "Type": "OTHER",
+            "Text": "https://t.co/nwd9u3o3CK",
+            "BeginOffset": 109,
+            "EndOffset": 132
+        }
+    ]
+}

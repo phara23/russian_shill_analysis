@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5090587735176086,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.9133925437927246,
+            "Type": "ORGANIZATION",
+            "Text": "@RT_America",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9668453931808472,
+            "Type": "ORGANIZATION",
+            "Text": "NYPD",
+            "BeginOffset": 52,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9273734092712402,
+            "Type": "QUANTITY",
+            "Text": "over 5,000 officers",
+            "BeginOffset": 65,
+            "EndOffset": 84
+        }
+    ]
+}

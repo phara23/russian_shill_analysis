@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4418138861656189,
+            "Type": "PERSON",
+            "Text": "#Cruz",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.966311514377594,
+            "Type": "LOCATION",
+            "Text": "Wall Street",
+            "BeginOffset": 78,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.9962306022644043,
+            "Type": "ORGANIZATION",
+            "Text": "Goldman Sachs",
+            "BeginOffset": 103,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.9999706745147705,
+            "Type": "OTHER",
+            "Text": "https://t.co/o471ADHzVU",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8326061964035034,
+            "Type": "PERSON",
+            "Text": "@KCityDaily",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.6984916925430298,
+            "Type": "QUANTITY",
+            "Text": "Three injured",
+            "BeginOffset": 22,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.39467090368270874,
+            "Type": "PERSON",
+            "Text": "Ferguson",
+            "BeginOffset": 39,
+            "EndOffset": 47
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9850172400474548,
+            "Type": "QUANTITY",
+            "Text": "7 things",
+            "BeginOffset": 0,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.952106773853302,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 27,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.6223797798156738,
+            "Type": "PERSON",
+            "Text": "Christie",
+            "BeginOffset": 55,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.42758941650390625,
+            "Type": "PERSON",
+            "Text": "Bridgegate",
+            "BeginOffset": 70,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.9999219179153442,
+            "Type": "OTHER",
+            "Text": "https://t.co/OwOrOu3vym",
+            "BeginOffset": 81,
+            "EndOffset": 104
+        }
+    ]
+}

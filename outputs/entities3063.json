@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8872507810592651,
+            "Type": "PERSON",
+            "Text": "@IdahoPressTrib",
+            "BeginOffset": 0,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9138730764389038,
+            "Type": "LOCATION",
+            "Text": "Pocatello",
+            "BeginOffset": 36,
+            "EndOffset": 45
+        }
+    ]
+}

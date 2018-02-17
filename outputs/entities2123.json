@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8732005953788757,
+            "Type": "ORGANIZATION",
+            "Text": "@I_am_not_E",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.6227179765701294,
+            "Type": "PERSON",
+            "Text": "Hannibal Lecter",
+            "BeginOffset": 53,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9998863935470581,
+            "Type": "OTHER",
+            "Text": "https://t.co/16xtjb5j7l",
+            "BeginOffset": 69,
+            "EndOffset": 92
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9240765571594238,
+            "Type": "PERSON",
+            "Text": "@PaulDaddyWatson",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9324880242347717,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 21,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.924289882183075,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 60,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9999030828475952,
+            "Type": "OTHER",
+            "Text": "https://t.co/LAVAWXlmAz",
+            "BeginOffset": 69,
+            "EndOffset": 92
+        }
+    ]
+}

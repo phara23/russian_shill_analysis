@@ -1,0 +1,28 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.5319945812225342,
+            "Text": "Trump",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.6925907731056213,
+            "Text": "Clinton",
+            "BeginOffset": 7,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9462794065475464,
+            "Text": "jobs",
+            "BeginOffset": 24,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.778508722782135,
+            "Text": "ISIS",
+            "BeginOffset": 30,
+            "EndOffset": 34
+        }
+    ]
+}

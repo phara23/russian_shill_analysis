@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5307989716529846,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8378158211708069,
+            "Type": "ORGANIZATION",
+            "Text": "@TEN_GOP",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.7651429772377014,
+            "Type": "LOCATION",
+            "Text": "Iraq",
+            "BeginOffset": 39,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.8882594108581543,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 55,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9527465105056763,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 63,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9996824264526367,
+            "Type": "OTHER",
+            "Text": "https://t.co/kXgoBMFIkK",
+            "BeginOffset": 83,
+            "EndOffset": 106
+        }
+    ]
+}

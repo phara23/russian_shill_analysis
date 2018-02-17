@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6356396675109863,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8014017939567566,
+            "Type": "PERSON",
+            "Text": "@jstines3",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.6557575464248657,
+            "Type": "QUANTITY",
+            "Text": "#2A",
+            "BeginOffset": 63,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.846693754196167,
+            "Type": "OTHER",
+            "Text": "https://t.co/ZuqpeVmpw2",
+            "BeginOffset": 73,
+            "EndOffset": 96
+        }
+    ]
+}

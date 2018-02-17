@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8814743757247925,
+            "Type": "PERSON",
+            "Text": "@TimKcomic",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.833673357963562,
+            "Type": "TITLE",
+            "Text": "Seinfeld",
+            "BeginOffset": 48,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9948866367340088,
+            "Type": "QUANTITY",
+            "Text": "8 times",
+            "BeginOffset": 72,
+            "EndOffset": 79
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9004018306732178,
+            "Type": "PERSON",
+            "Text": "@nine_oh",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.946169376373291,
+            "Type": "EVENT",
+            "Text": "Fountain Square Music Festival",
+            "BeginOffset": 13,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.5868180990219116,
+            "Type": "ORGANIZATION",
+            "Text": "Phantogram",
+            "BeginOffset": 62,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.8241059184074402,
+            "Type": "ORGANIZATION",
+            "Text": "DrDogMusic",
+            "BeginOffset": 74,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9335677027702332,
+            "Type": "OTHER",
+            "Text": "https://t.co/ta9Ny90UCW",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        },
+        {
+            "Score": 0.9999964237213135,
+            "Type": "OTHER",
+            "Text": "https://t.co/lXeYBz7H1E",
+            "BeginOffset": 120,
+            "EndOffset": 143
+        }
+    ]
+}

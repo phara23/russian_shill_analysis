@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7302072644233704,
+            "Type": "PERSON",
+            "Text": "@Dave4",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.7927689552307129,
+            "Type": "ORGANIZATION",
+            "Text": "Fort Myers",
+            "BeginOffset": 43,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9687759876251221,
+            "Type": "OTHER",
+            "Text": "https://t.co/XdA5ipTPyM",
+            "BeginOffset": 55,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.8151039481163025,
+            "Type": "PERSON",
+            "Text": "@fyrecapt12a",
+            "BeginOffset": 89,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.7750309705734253,
+            "Type": "PERSON",
+            "Text": "@6eustacia",
+            "BeginOffset": 102,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.8004234433174133,
+            "Type": "PERSON",
+            "Text": "@iluvtwitch",
+            "BeginOffset": 113,
+            "EndOffset": 124
+        }
+    ]
+}

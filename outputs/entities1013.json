@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.84273761510849,
+            "Type": "PERSON",
+            "Text": "@gerfingerpoken",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.5974816679954529,
+            "Type": "QUANTITY",
+            "Text": "#13",
+            "BeginOffset": 35,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9363701939582825,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 67,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9299041628837585,
+            "Type": "OTHER",
+            "Text": "https://t.co/GbiPECSCi6",
+            "BeginOffset": 87,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.2932959198951721,
+            "Type": "ORGANIZATION",
+            "Text": "#Benghazi",
+            "BeginOffset": 112,
+            "EndOffset": 121
+        }
+    ]
+}

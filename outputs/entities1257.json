@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8095699548721313,
+            "Type": "PERSON",
+            "Text": "@CO2HOG",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.8080554008483887,
+            "Type": "PERSON",
+            "Text": "@BluegrassPundit",
+            "BeginOffset": 16,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9632437825202942,
+            "Type": "PERSON",
+            "Text": "Ryan",
+            "BeginOffset": 33,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9915850758552551,
+            "Type": "QUANTITY",
+            "Text": "6 billion",
+            "BeginOffset": 56,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9899147748947144,
+            "Type": "OTHER",
+            "Text": "https://t.co/KxyBuCSRCJ",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        }
+    ]
+}

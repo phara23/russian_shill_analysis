@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8126972913742065,
+            "Type": "PERSON",
+            "Text": "@AddInfoOrg",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9651292562484741,
+            "Type": "TITLE",
+            "Text": "SNL",
+            "BeginOffset": 16,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9906019568443298,
+            "Type": "PERSON",
+            "Text": "Kellyanne Conway",
+            "BeginOffset": 29,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9789376854896545,
+            "Type": "OTHER",
+            "Text": "https://t.co/aOqRp5oXuF",
+            "BeginOffset": 99,
+            "EndOffset": 122
+        },
+        {
+            "Score": 0.9709648489952087,
+            "Type": "OTHER",
+            "Text": "https://t.co/AkE",
+            "BeginOffset": 123,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8245025277137756,
+            "Type": "PERSON",
+            "Text": "@IngrahamAngle",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8215430974960327,
+            "Type": "ORGANIZATION",
+            "Text": "Military Times",
+            "BeginOffset": 19,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9916623830795288,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 56,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9919589757919312,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 65,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.9964627027511597,
+            "Type": "DATE",
+            "Text": "May 2016",
+            "BeginOffset": 91,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.9999459981918335,
+            "Type": "OTHER",
+            "Text": "https://t.co/q7NOhSzBLj",
+            "BeginOffset": 101,
+            "EndOffset": 124
+        }
+    ]
+}

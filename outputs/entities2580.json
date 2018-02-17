@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.922919511795044,
+            "Type": "PERSON",
+            "Text": "@kevkid79",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9533673524856567,
+            "Type": "ORGANIZATION",
+            "Text": "CIA",
+            "BeginOffset": 17,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.967870831489563,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 22,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9926171898841858,
+            "Type": "ORGANIZATION",
+            "Text": "NSA",
+            "BeginOffset": 51,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9957499504089355,
+            "Type": "ORGANIZATION",
+            "Text": "CIA",
+            "BeginOffset": 56,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.9718329906463623,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 72,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9999890327453613,
+            "Type": "OTHER",
+            "Text": "https://t.co/FZ2VI5BEXc",
+            "BeginOffset": 78,
+            "EndOffset": 101
+        }
+    ]
+}

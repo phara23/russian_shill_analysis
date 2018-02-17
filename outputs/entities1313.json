@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.996380627155304,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.7719999551773071,
+            "Type": "LOCATION",
+            "Text": "U.S.",
+            "BeginOffset": 11,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.3908974230289459,
+            "Type": "LOCATION",
+            "Text": "Myanmar",
+            "BeginOffset": 36,
+            "EndOffset": 43
+        }
+    ]
+}

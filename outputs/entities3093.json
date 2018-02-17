@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.840958833694458,
+            "Type": "PERSON",
+            "Text": "@blackmattersus",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.6168283820152283,
+            "Type": "OTHER",
+            "Text": "American",
+            "BeginOffset": 24,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9973690509796143,
+            "Type": "PERSON",
+            "Text": "Beyoncé",
+            "BeginOffset": 65,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.9789860844612122,
+            "Type": "QUANTITY",
+            "Text": "9 nominations",
+            "BeginOffset": 89,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.8548595905303955,
+            "Type": "EVENT",
+            "Text": "2017 Grammy awards",
+            "BeginOffset": 110,
+            "EndOffset": 128
+        },
+        {
+            "Score": 0.5681630969047546,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 130,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9487941265106201,
+            "Type": "PERSON",
+            "Text": "@JohnCassily",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9941383600234985,
+            "Type": "PERSON",
+            "Text": "Daylin Leach",
+            "BeginOffset": 17,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9895108938217163,
+            "Type": "ORGANIZATION",
+            "Text": "Penn State Senate",
+            "BeginOffset": 50,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9977630972862244,
+            "Type": "PERSON",
+            "Text": "Brennan Leach",
+            "BeginOffset": 90,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.9918196201324463,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 113,
+            "EndOffset": 120
+        }
+    ]
+}

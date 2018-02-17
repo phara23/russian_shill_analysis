@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9246070981025696,
+            "Type": "PERSON",
+            "Text": "@DineshDSouza",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8825471997261047,
+            "Type": "ORGANIZATION",
+            "Text": "@CNN",
+            "BeginOffset": 23,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.7511166930198669,
+            "Type": "ORGANIZATION",
+            "Text": "Democratic",
+            "BeginOffset": 80,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.8669336438179016,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 117,
+            "EndOffset": 133
+        }
+    ]
+}

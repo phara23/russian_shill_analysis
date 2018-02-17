@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6165376305580139,
+            "Type": "QUANTITY",
+            "Text": "3Words",
+            "BeginOffset": 16,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9708925485610962,
+            "Type": "PERSON",
+            "Text": "Barack Hussein Obama",
+            "BeginOffset": 24,
+            "EndOffset": 44
+        }
+    ]
+}

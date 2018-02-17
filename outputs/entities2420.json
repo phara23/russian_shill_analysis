@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7797995209693909,
+            "Type": "PERSON",
+            "Text": "@beforeitsnews",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7990095019340515,
+            "Type": "LOCATION",
+            "Text": "Badlands National Park",
+            "BeginOffset": 36,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9756052494049072,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 94,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.925800621509552,
+            "Type": "OTHER",
+            "Text": "https://t.co/wrGRyZMWNb",
+            "BeginOffset": 100,
+            "EndOffset": 123
+        },
+        {
+            "Score": 0.9645450711250305,
+            "Type": "OTHER",
+            "Text": "https://t.co/AL",
+            "BeginOffset": 124,
+            "EndOffset": 139
+        }
+    ]
+}

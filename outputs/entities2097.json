@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6869262456893921,
+            "Type": "PERSON",
+            "Text": "@Bossip",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9954802393913269,
+            "Type": "PERSON",
+            "Text": "Kanye West",
+            "BeginOffset": 23,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9973540306091309,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 86,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.904292106628418,
+            "Type": "OTHER",
+            "Text": "https://t.co/3l",
+            "BeginOffset": 124,
+            "EndOffset": 139
+        }
+    ]
+}

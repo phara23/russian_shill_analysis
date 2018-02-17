@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9125994443893433,
+            "Type": "PERSON",
+            "Text": "@batshake1",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9421582818031311,
+            "Type": "DATE",
+            "Text": "this year",
+            "BeginOffset": 67,
+            "EndOffset": 76
+        }
+    ]
+}

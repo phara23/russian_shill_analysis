@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7580337524414062,
+            "Type": "PERSON",
+            "Text": "@EBONYMag",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9993020296096802,
+            "Type": "PERSON",
+            "Text": "Jessica Nabongo",
+            "BeginOffset": 14,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9353824257850647,
+            "Type": "OTHER",
+            "Text": "https://t.co/fzF0g21vD1",
+            "BeginOffset": 99,
+            "EndOffset": 122
+        }
+    ]
+}

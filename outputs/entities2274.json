@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8919069766998291,
+            "Type": "PERSON",
+            "Text": "@israeli101",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8984264731407166,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 27,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.4600435495376587,
+            "Type": "PERSON",
+            "Text": "#DonaldTrump",
+            "BeginOffset": 70,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.9998782873153687,
+            "Type": "OTHER",
+            "Text": "https://t.co/GJCU4xJbvG",
+            "BeginOffset": 87,
+            "EndOffset": 110
+        }
+    ]
+}

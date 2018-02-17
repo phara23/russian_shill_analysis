@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8723565340042114,
+            "Type": "PERSON",
+            "Text": "@BraveConWarrior",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.5734098553657532,
+            "Type": "LOCATION",
+            "Text": "Ohio",
+            "BeginOffset": 21,
+            "EndOffset": 25
+        }
+    ]
+}

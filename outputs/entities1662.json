@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9623170495033264,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.718963623046875,
+            "Type": "ORGANIZATION",
+            "Text": "@nytimes",
+            "BeginOffset": 56,
+            "EndOffset": 64
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9891079068183899,
+            "Type": "DATE",
+            "Text": "1am",
+            "BeginOffset": 15,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8872653841972351,
+            "Type": "TITLE",
+            "Text": "Superman Returns",
+            "BeginOffset": 49,
+            "EndOffset": 65
+        }
+    ]
+}

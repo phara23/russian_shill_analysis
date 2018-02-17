@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6701953411102295,
+            "Type": "PERSON",
+            "Text": "@washingtonpost",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9993639588356018,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 20,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9999741315841675,
+            "Type": "OTHER",
+            "Text": "https://t.co/3x6CodsKBm",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        }
+    ]
+}

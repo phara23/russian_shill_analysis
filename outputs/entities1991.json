@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.887588620185852,
+            "Type": "PERSON",
+            "Text": "@HachOliver",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7953519225120544,
+            "Type": "PERSON",
+            "Text": "@FraukePetry",
+            "BeginOffset": 95,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.9997413754463196,
+            "Type": "OTHER",
+            "Text": "https://t.co/qwF0N6bG3p",
+            "BeginOffset": 108,
+            "EndOffset": 131
+        }
+    ]
+}

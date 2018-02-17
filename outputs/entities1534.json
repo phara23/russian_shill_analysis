@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8874921202659607,
+            "Type": "PERSON",
+            "Text": "@wingoz",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9566709399223328,
+            "Type": "PERSON",
+            "Text": "Prince Shembo",
+            "BeginOffset": 32,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9413146376609802,
+            "Type": "PERSON",
+            "Text": "Prince",
+            "BeginOffset": 76,
+            "EndOffset": 82
+        }
+    ]
+}

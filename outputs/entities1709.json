@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8098987340927124,
+            "Type": "PERSON",
+            "Text": "@teamSSMag",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8213481903076172,
+            "Type": "OTHER",
+            "Text": "https://t.co/wGHqHUHyEW",
+            "BeginOffset": 91,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.9863835573196411,
+            "Type": "OTHER",
+            "Text": "https://t.co/9wWwyeHQNb",
+            "BeginOffset": 116,
+            "EndOffset": 139
+        }
+    ]
+}

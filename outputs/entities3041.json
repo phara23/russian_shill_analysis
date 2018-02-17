@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9767643213272095,
+            "Type": "PERSON",
+            "Text": "@JeSuisBernie",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8931018710136414,
+            "Type": "PERSON",
+            "Text": "@danrolle",
+            "BeginOffset": 31,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.999344527721405,
+            "Type": "OTHER",
+            "Text": "https://t.co/WekKVsAEbN",
+            "BeginOffset": 102,
+            "EndOffset": 125
+        }
+    ]
+}

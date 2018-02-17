@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8821043372154236,
+            "Type": "PERSON",
+            "Text": "@SillyAssTexan",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9918520450592041,
+            "Type": "PERSON",
+            "Text": "Napoleon Dynamite",
+            "BeginOffset": 77,
+            "EndOffset": 94
+        }
+    ]
+}

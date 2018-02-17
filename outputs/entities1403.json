@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9235013723373413,
+            "Type": "PERSON",
+            "Text": "@DinaFraioli",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.6583415865898132,
+            "Type": "PERSON",
+            "Text": "Ed",
+            "BeginOffset": 39,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9999165534973145,
+            "Type": "OTHER",
+            "Text": "https://t.co/rbNMslGIx1",
+            "BeginOffset": 71,
+            "EndOffset": 94
+        }
+    ]
+}

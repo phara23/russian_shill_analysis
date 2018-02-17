@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9935241937637329,
+            "Type": "PERSON",
+            "Text": "Pence",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9293488264083862,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 11,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9999679327011108,
+            "Type": "OTHER",
+            "Text": "https://t.co/vywAFzAb8z",
+            "BeginOffset": 60,
+            "EndOffset": 83
+        }
+    ]
+}

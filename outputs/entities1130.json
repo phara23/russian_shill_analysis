@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9060057401657104,
+            "Type": "PERSON",
+            "Text": "@Lopeezie",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8218675851821899,
+            "Type": "PERSON",
+            "Text": "@HuffPostComedy",
+            "BeginOffset": 52,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9065665006637573,
+            "Type": "PERSON",
+            "Text": "@SadlyCatless",
+            "BeginOffset": 81,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.9706209897994995,
+            "Type": "PERSON",
+            "Text": "@bigmacher",
+            "BeginOffset": 99,
+            "EndOffset": 109
+        },
+        {
+            "Score": 0.9999691247940063,
+            "Type": "OTHER",
+            "Text": "https://t.co/sXf6BauoqU",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        }
+    ]
+}

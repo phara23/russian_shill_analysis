@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8767668604850769,
+            "Type": "PERSON",
+            "Text": "@choo2008",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9992307424545288,
+            "Type": "PERSON",
+            "Text": "Mike Rowe",
+            "BeginOffset": 124,
+            "EndOffset": 133
+        }
+    ]
+}

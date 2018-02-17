@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9883542060852051,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 0,
+            "EndOffset": 3
+        },
+        {
+            "Score": 0.9902750253677368,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 14,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.3947390615940094,
+            "Type": "PERSON",
+            "Text": "Mich",
+            "BeginOffset": 23,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.7231418490409851,
+            "Type": "QUANTITY",
+            "Text": "first vote",
+            "BeginOffset": 39,
+            "EndOffset": 49
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9312792420387268,
+            "Type": "PERSON",
+            "Text": "@DavidShuster",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.6044614315032959,
+            "Type": "LOCATION",
+            "Text": "Ohio",
+            "BeginOffset": 18,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9056575894355774,
+            "Type": "QUANTITY",
+            "Text": "64",
+            "BeginOffset": 77,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.9675687551498413,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 99,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.9798306226730347,
+            "Type": "OTHER",
+            "Text": "https://t.co/2Em69TYRwg",
+            "BeginOffset": 111,
+            "EndOffset": 134
+        }
+    ]
+}

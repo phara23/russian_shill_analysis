@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5472056865692139,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.9037312269210815,
+            "Type": "ORGANIZATION",
+            "Text": "@AFD_RoGer",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.6819971203804016,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 15,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9587104916572571,
+            "Type": "PERSON",
+            "Text": "@majuja28121",
+            "BeginOffset": 18,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9999823570251465,
+            "Type": "OTHER",
+            "Text": "https://t.co/oatP37hmPC",
+            "BeginOffset": 53,
+            "EndOffset": 76
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8918314576148987,
+            "Type": "PERSON",
+            "Text": "@JanaBlade1",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.86893630027771,
+            "Type": "PERSON",
+            "Text": "@YarnluvinLizzy",
+            "BeginOffset": 16,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9218469858169556,
+            "Type": "PERSON",
+            "Text": "@puppymnkey",
+            "BeginOffset": 32,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.8052991032600403,
+            "Type": "PERSON",
+            "Text": "@SocialIssueNews",
+            "BeginOffset": 44,
+            "EndOffset": 60
+        }
+    ]
+}

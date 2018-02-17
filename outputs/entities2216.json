@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8126539587974548,
+            "Type": "PERSON",
+            "Text": "@EPWVLaw",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9987116456031799,
+            "Type": "PERSON",
+            "Text": "Bill Clinton",
+            "BeginOffset": 80,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.4490087628364563,
+            "Type": "ORGANIZATION",
+            "Text": "NAFTA",
+            "BeginOffset": 114,
+            "EndOffset": 119
+        }
+    ]
+}

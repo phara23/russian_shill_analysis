@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7748501300811768,
+            "Type": "ORGANIZATION",
+            "Text": "@C0",
+            "BeginOffset": 3,
+            "EndOffset": 6
+        },
+        {
+            "Score": 0.9430580139160156,
+            "Type": "QUANTITY",
+            "Text": "40k",
+            "BeginOffset": 21,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9992939233779907,
+            "Type": "OTHER",
+            "Text": "https://t.co/WWKNYZaXCg",
+            "BeginOffset": 71,
+            "EndOffset": 94
+        }
+    ]
+}

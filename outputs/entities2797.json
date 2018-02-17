@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.829869270324707,
+            "Type": "EVENT",
+            "Text": "Democratic National Convention",
+            "BeginOffset": 0,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.5682477355003357,
+            "Type": "LOCATION",
+            "Text": "Ohio",
+            "BeginOffset": 63,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.7676281332969666,
+            "Type": "LOCATION",
+            "Text": "Ohio",
+            "BeginOffset": 86,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9791789650917053,
+            "Type": "PERSON",
+            "Text": "Marcia Fudge",
+            "BeginOffset": 96,
+            "EndOffset": 108
+        }
+    ]
+}

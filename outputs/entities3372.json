@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9747263789176941,
+            "Type": "PERSON",
+            "Text": "@babushka_tasi",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9712204933166504,
+            "Type": "PERSON",
+            "Text": "Sid",
+            "BeginOffset": 24,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9981367588043213,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 54,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.8428955674171448,
+            "Type": "ORGANIZATION",
+            "Text": "HRC",
+            "BeginOffset": 83,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.44243940711021423,
+            "Type": "ORGANIZATION",
+            "Text": "LIBYA",
+            "BeginOffset": 120,
+            "EndOffset": 125
+        },
+        {
+            "Score": 0.9513557553291321,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

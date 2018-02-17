@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4404919147491455,
+            "Type": "ORGANIZATION",
+            "Text": "@2",
+            "BeginOffset": 3,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9856356382369995,
+            "Type": "ORGANIZATION",
+            "Text": "Twitter",
+            "BeginOffset": 11,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7937423586845398,
+            "Type": "PERSON",
+            "Text": "Mohammed",
+            "BeginOffset": 64,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.970664381980896,
+            "Type": "ORGANIZATION",
+            "Text": "Twitter",
+            "BeginOffset": 88,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.8405660390853882,
+            "Type": "ORGANIZATION",
+            "Text": "Muslims",
+            "BeginOffset": 115,
+            "EndOffset": 122
+        }
+    ]
+}

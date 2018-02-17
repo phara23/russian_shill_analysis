@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7226262092590332,
+            "Type": "PERSON",
+            "Text": "@TheRealMonsterT",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.6135830283164978,
+            "Type": "QUANTITY",
+            "Text": "one way ticket",
+            "BeginOffset": 48,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9999771118164062,
+            "Type": "OTHER",
+            "Text": "https://t.co/EZz9Hvsqsb",
+            "BeginOffset": 80,
+            "EndOffset": 103
+        }
+    ]
+}

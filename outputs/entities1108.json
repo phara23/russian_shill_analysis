@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8357362747192383,
+            "Type": "PERSON",
+            "Text": "@apostlelaurinda",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8130210638046265,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 52,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.9823802709579468,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 66,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9776506423950195,
+            "Type": "DATE",
+            "Text": "2008",
+            "BeginOffset": 130,
+            "EndOffset": 134
+        }
+    ]
+}

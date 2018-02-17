@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.842123806476593,
+            "Type": "PERSON",
+            "Text": "@the_unhinged",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.6992117166519165,
+            "Type": "DATE",
+            "Text": "#2017",
+            "BeginOffset": 18,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9081722497940063,
+            "Type": "PERSON",
+            "Text": "kevin gates",
+            "BeginOffset": 66,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9551926255226135,
+            "Type": "QUANTITY",
+            "Text": "two phones",
+            "BeginOffset": 83,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.6209449172019958,
+            "Type": "QUANTITY",
+            "Text": "one",
+            "BeginOffset": 95,
+            "EndOffset": 98
+        }
+    ]
+}

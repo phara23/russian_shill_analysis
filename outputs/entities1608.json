@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7938562035560608,
+            "Type": "PERSON",
+            "Text": "@riteprices",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8731714487075806,
+            "Type": "QUANTITY",
+            "Text": "4",
+            "BeginOffset": 62,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.7917671203613281,
+            "Type": "DATE",
+            "Text": "last day",
+            "BeginOffset": 71,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.9999387264251709,
+            "Type": "OTHER",
+            "Text": "https://t.co/r3QbYSE3tX",
+            "BeginOffset": 100,
+            "EndOffset": 123
+        }
+    ]
+}

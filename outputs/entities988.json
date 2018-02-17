@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.867329478263855,
+            "Type": "PERSON",
+            "Text": "@trscoop",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9994267225265503,
+            "Type": "PERSON",
+            "Text": "Steve King",
+            "BeginOffset": 17,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9673137664794922,
+            "Type": "DATE",
+            "Text": "today",
+            "BeginOffset": 48,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9123470783233643,
+            "Type": "OTHER",
+            "Text": "https://t.co/BTcgSvXV2M",
+            "BeginOffset": 93,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.9999251365661621,
+            "Type": "OTHER",
+            "Text": "https://t.co/VnSnYFVOIe",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

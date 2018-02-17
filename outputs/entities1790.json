@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.98804771900177,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9992824196815491,
+            "Type": "PERSON",
+            "Text": "Paul Manafort",
+            "BeginOffset": 24,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9786393642425537,
+            "Type": "OTHER",
+            "Text": "https://t.co/Xk2lP8xQiU",
+            "BeginOffset": 46,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9050285220146179,
+            "Type": "OTHER",
+            "Text": "https://t.co/aXQaNDGlF7",
+            "BeginOffset": 82,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.9996059536933899,
+            "Type": "OTHER",
+            "Text": "https://t.co/ZNowt6oRaZ",
+            "BeginOffset": 106,
+            "EndOffset": 129
+        }
+    ]
+}

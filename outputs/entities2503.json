@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7600145936012268,
+            "Type": "ORGANIZATION",
+            "Text": "@EW",
+            "BeginOffset": 3,
+            "EndOffset": 6
+        },
+        {
+            "Score": 0.9460923671722412,
+            "Type": "QUANTITY",
+            "Text": "9 things",
+            "BeginOffset": 8,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.5192884206771851,
+            "Type": "ORGANIZATION",
+            "Text": "#GilmoreGirls",
+            "BeginOffset": 43,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9937151074409485,
+            "Type": "OTHER",
+            "Text": "http://t.co/TYNdczqF0c",
+            "BeginOffset": 62,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.7574626207351685,
+            "Type": "PERSON",
+            "Text": "@Bustle",
+            "BeginOffset": 90,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.9999853372573853,
+            "Type": "OTHER",
+            "Text": "http://t.co/9lgwWsekPB",
+            "BeginOffset": 99,
+            "EndOffset": 121
+        }
+    ]
+}

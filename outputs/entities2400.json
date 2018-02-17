@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.971118688583374,
+            "Type": "PERSON",
+            "Text": "@JamilSmith",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9016032218933105,
+            "Type": "LOCATION",
+            "Text": "Silicon Valley",
+            "BeginOffset": 51,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.792820930480957,
+            "Type": "PERSON",
+            "Text": "@POTUS",
+            "BeginOffset": 81,
+            "EndOffset": 87
+        }
+    ]
+}

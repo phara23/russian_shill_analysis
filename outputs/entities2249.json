@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9859099984169006,
+            "Type": "PERSON",
+            "Text": "@Kamani1147",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9793441891670227,
+            "Type": "ORGANIZATION",
+            "Text": "MSNBC",
+            "BeginOffset": 52,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9999762773513794,
+            "Type": "OTHER",
+            "Text": "https://t.co/PW46uRoVrQ",
+            "BeginOffset": 59,
+            "EndOffset": 82
+        }
+    ]
+}

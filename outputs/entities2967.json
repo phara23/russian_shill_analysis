@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8794586658477783,
+            "Type": "PERSON",
+            "Text": "@DMashak",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9784665703773499,
+            "Type": "OTHER",
+            "Text": "https://t.co/FZ2ES9djue",
+            "BeginOffset": 60,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.8236380815505981,
+            "Type": "ORGANIZATION",
+            "Text": "@GOP",
+            "BeginOffset": 112,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.700249969959259,
+            "Type": "ORGANIZATION",
+            "Text": "@TheDemocrats",
+            "BeginOffset": 117,
+            "EndOffset": 130
+        },
+        {
+            "Score": 0.8928146362304688,
+            "Type": "ORGANIZATION",
+            "Text": "@MNGOP",
+            "BeginOffset": 131,
+            "EndOffset": 137
+        }
+    ]
+}

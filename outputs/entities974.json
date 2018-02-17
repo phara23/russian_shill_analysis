@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.927074134349823,
+            "Type": "PERSON",
+            "Text": "@mayday2744",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9117636680603027,
+            "Type": "PERSON",
+            "Text": "@cccleland",
+            "BeginOffset": 16,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9683266878128052,
+            "Type": "PERSON",
+            "Text": "@Crossbowman1",
+            "BeginOffset": 27,
+            "EndOffset": 40
+        }
+    ]
+}

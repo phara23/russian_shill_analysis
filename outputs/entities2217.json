@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8723196983337402,
+            "Type": "PERSON",
+            "Text": "@PrisonPlanet",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9902796149253845,
+            "Type": "ORGANIZATION",
+            "Text": "CNN",
+            "BeginOffset": 18,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9991708397865295,
+            "Type": "PERSON",
+            "Text": "Christiane Amanpour",
+            "BeginOffset": 43,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.8526577353477478,
+            "Type": "QUANTITY",
+            "Text": "60 million",
+            "BeginOffset": 71,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.4666730761528015,
+            "Type": "OTHER",
+            "Text": "Americans",
+            "BeginOffset": 82,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.9920384883880615,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 107,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.9501599669456482,
+            "Type": "OTHER",
+            "Text": "https://t.co/z",
+            "BeginOffset": 125,
+            "EndOffset": 139
+        }
+    ]
+}

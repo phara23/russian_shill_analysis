@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8764246106147766,
+            "Type": "PERSON",
+            "Text": "@zoomzoom130",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9730709195137024,
+            "Type": "PERSON",
+            "Text": "GEORGE SOROS",
+            "BeginOffset": 17,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.41597476601600647,
+            "Type": "OTHER",
+            "Text": "American",
+            "BeginOffset": 99,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.9703578948974609,
+            "Type": "OTHER",
+            "Text": "https://t.co/ttevi",
+            "BeginOffset": 121,
+            "EndOffset": 139
+        }
+    ]
+}

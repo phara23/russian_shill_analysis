@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8217141032218933,
+            "Type": "PERSON",
+            "Text": "@GeffGefferson1",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9545714855194092,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 40,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.8749703764915466,
+            "Type": "PERSON",
+            "Text": "@midnight",
+            "BeginOffset": 65,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.8545213937759399,
+            "Type": "PERSON",
+            "Text": "@remhq",
+            "BeginOffset": 76,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.9988976716995239,
+            "Type": "OTHER",
+            "Text": "https://t.co/optiOnvqSs",
+            "BeginOffset": 84,
+            "EndOffset": 107
+        }
+    ]
+}

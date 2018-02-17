@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9727660417556763,
+            "Type": "PERSON",
+            "Text": "Mitt Romney",
+            "BeginOffset": 10,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9650453925132751,
+            "Type": "DATE",
+            "Text": "today",
+            "BeginOffset": 41,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9973201155662537,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 58,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.8978659510612488,
+            "Type": "OTHER",
+            "Text": "https://t.co/Ij1S8xE3Pz",
+            "BeginOffset": 76,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.9999727010726929,
+            "Type": "OTHER",
+            "Text": "https://t.co/nWmkJxpVI5",
+            "BeginOffset": 100,
+            "EndOffset": 123
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5090587735176086,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.9153079986572266,
+            "Type": "ORGANIZATION",
+            "Text": "@RT_America",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7456861734390259,
+            "Type": "ORGANIZATION",
+            "Text": "#Senate",
+            "BeginOffset": 26,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9904118180274963,
+            "Type": "PERSON",
+            "Text": "John F. Kelly",
+            "BeginOffset": 43,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9254555702209473,
+            "Type": "OTHER",
+            "Text": "https://t.co/uXI0Fv7Tqn",
+            "BeginOffset": 88,
+            "EndOffset": 111
+        },
+        {
+            "Score": 0.999995231628418,
+            "Type": "OTHER",
+            "Text": "https://t.co/7xTSbXRA4N",
+            "BeginOffset": 112,
+            "EndOffset": 135
+        }
+    ]
+}

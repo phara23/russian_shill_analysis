@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.48748353123664856,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8686085939407349,
+            "Type": "ORGANIZATION",
+            "Text": "@HH_REVOLUTION",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9998144507408142,
+            "Type": "OTHER",
+            "Text": "https://t.co/KGuiDbtoNs",
+            "BeginOffset": 31,
+            "EndOffset": 54
+        }
+    ]
+}

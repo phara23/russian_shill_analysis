@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9289620518684387,
+            "Type": "PERSON",
+            "Text": "@railgirl1952",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9113797545433044,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 62,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.4796891510486603,
+            "Type": "OTHER",
+            "Text": "Americans",
+            "BeginOffset": 84,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.8535032272338867,
+            "Type": "ORGANIZATION",
+            "Text": "@CNN",
+            "BeginOffset": 128,
+            "EndOffset": 132
+        }
+    ]
+}

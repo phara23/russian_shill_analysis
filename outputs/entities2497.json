@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.927579939365387,
+            "Type": "PERSON",
+            "Text": "@jilevin",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.6822943687438965,
+            "Type": "LOCATION",
+            "Text": "Washington",
+            "BeginOffset": 16,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9429028630256653,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 31,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.8703845739364624,
+            "Type": "ORGANIZATION",
+            "Text": "Congress",
+            "BeginOffset": 69,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.8382686376571655,
+            "Type": "OTHER",
+            "Text": "https://t.co/j2qrqe3oq8",
+            "BeginOffset": 88,
+            "EndOffset": 111
+        },
+        {
+            "Score": 0.9999833106994629,
+            "Type": "OTHER",
+            "Text": "https://t.co/RY0KqnHwwq",
+            "BeginOffset": 112,
+            "EndOffset": 135
+        }
+    ]
+}

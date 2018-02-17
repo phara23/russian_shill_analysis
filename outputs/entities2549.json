@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8085211515426636,
+            "Type": "PERSON",
+            "Text": "@thehill",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9923838376998901,
+            "Type": "QUANTITY",
+            "Text": "6 states",
+            "BeginOffset": 19,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9764323234558105,
+            "Type": "DATE",
+            "Text": "tomorrow",
+            "BeginOffset": 59,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.8422520160675049,
+            "Type": "OTHER",
+            "Text": "http://t.co/G0LhzhL6TY",
+            "BeginOffset": 69,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.9999914169311523,
+            "Type": "OTHER",
+            "Text": "http://t.co/S1DtyZDXLV",
+            "BeginOffset": 92,
+            "EndOffset": 114
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.21178682148456573,
+            "Type": "ORGANIZATION",
+            "Text": "LAX",
+            "BeginOffset": 0,
+            "EndOffset": 3
+        },
+        {
+            "Score": 0.8625228404998779,
+            "Type": "PERSON",
+            "Text": "@hardwick",
+            "BeginOffset": 9,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9175511598587036,
+            "Type": "PERSON",
+            "Text": "@midnight",
+            "BeginOffset": 19,
+            "EndOffset": 28
+        }
+    ]
+}

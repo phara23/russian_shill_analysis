@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9871557950973511,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 53,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9544633030891418,
+            "Type": "LOCATION",
+            "Text": "Louisiana",
+            "BeginOffset": 82,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.9999895095825195,
+            "Type": "OTHER",
+            "Text": "https://t.co/zJP9REp4mu",
+            "BeginOffset": 107,
+            "EndOffset": 130
+        }
+    ]
+}

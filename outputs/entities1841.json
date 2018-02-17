@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.949859082698822,
+            "Type": "PERSON",
+            "Text": "@trish_regan",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.775550365447998,
+            "Type": "ORGANIZATION",
+            "Text": "Exxon",
+            "BeginOffset": 25,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9987382292747498,
+            "Type": "PERSON",
+            "Text": "Rex Tillerson",
+            "BeginOffset": 64,
+            "EndOffset": 77
+        }
+    ]
+}

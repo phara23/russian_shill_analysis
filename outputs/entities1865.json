@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.80213463306427,
+            "Type": "PERSON",
+            "Text": "@readwriteblue",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9083641171455383,
+            "Type": "PERSON",
+            "Text": "TRUMP",
+            "BeginOffset": 41,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9063895344734192,
+            "Type": "OTHER",
+            "Text": "https://t.co/s",
+            "BeginOffset": 125,
+            "EndOffset": 139
+        }
+    ]
+}

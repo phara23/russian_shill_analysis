@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7466940879821777,
+            "Type": "PERSON",
+            "Text": "@ouchinagirl",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9258185029029846,
+            "Type": "PERSON",
+            "Text": "@SpeakerBoehner",
+            "BeginOffset": 18,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.4047767221927643,
+            "Type": "DATE",
+            "Text": "Tomorrow",
+            "BeginOffset": 52,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9823085069656372,
+            "Type": "OTHER",
+            "Text": "http://t.co/sGNthf0bXW",
+            "BeginOffset": 88,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.952802300453186,
+            "Type": "ORGANIZATION",
+            "Text": "@BreitbartNews",
+            "BeginOffset": 115,
+            "EndOffset": 129
+        },
+        {
+            "Score": 0.9181813597679138,
+            "Type": "ORGANIZATION",
+            "Text": "@GOP",
+            "BeginOffset": 130,
+            "EndOffset": 134
+        }
+    ]
+}

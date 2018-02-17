@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5520536303520203,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.9560551643371582,
+            "Type": "PERSON",
+            "Text": "@jphilman0206",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.813374400138855,
+            "Type": "PERSON",
+            "Text": "@tedcruz",
+            "BeginOffset": 74,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.9395968317985535,
+            "Type": "OTHER",
+            "Text": "https://t.co/C0GMUzt42C",
+            "BeginOffset": 93,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.3316190838813782,
+            "Type": "PERSON",
+            "Text": "#CruzCrew",
+            "BeginOffset": 117,
+            "EndOffset": 126
+        }
+    ]
+}

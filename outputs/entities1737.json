@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9080814123153687,
+            "Type": "PERSON",
+            "Text": "@TexansTrump",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9893346428871155,
+            "Type": "QUANTITY",
+            "Text": "12 states",
+            "BeginOffset": 30,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.8950607776641846,
+            "Type": "DATE",
+            "Text": "TODAY",
+            "BeginOffset": 63,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9735069274902344,
+            "Type": "OTHER",
+            "Text": "https://t.co",
+            "BeginOffset": 127,
+            "EndOffset": 139
+        }
+    ]
+}

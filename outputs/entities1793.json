@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7220931053161621,
+            "Type": "PERSON",
+            "Text": "@NAMMTECAwards",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9182315468788147,
+            "Type": "PERSON",
+            "Text": "@sinbadbad",
+            "BeginOffset": 20,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9518962502479553,
+            "Type": "EVENT",
+            "Text": "32nd Annual NAMM TEC Awards",
+            "BeginOffset": 51,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.5665026307106018,
+            "Type": "ORGANIZATION",
+            "Text": "#TBT",
+            "BeginOffset": 80,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9769358038902283,
+            "Type": "DATE",
+            "Text": "last year",
+            "BeginOffset": 114,
+            "EndOffset": 123
+        },
+        {
+            "Score": 0.9718934893608093,
+            "Type": "OTHER",
+            "Text": "https://t.co/i",
+            "BeginOffset": 125,
+            "EndOffset": 139
+        }
+    ]
+}

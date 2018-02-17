@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9103403091430664,
+            "Type": "PERSON",
+            "Text": "@JamesOKeefeIII",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.86888188123703,
+            "Type": "PERSON",
+            "Text": "Woodward",
+            "BeginOffset": 66,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9803012013435364,
+            "Type": "PERSON",
+            "Text": "Bernstein",
+            "BeginOffset": 79,
+            "EndOffset": 88
+        }
+    ]
+}

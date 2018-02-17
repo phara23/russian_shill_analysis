@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8778624534606934,
+            "Type": "PERSON",
+            "Text": "@Hunter7Taylor",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.5811854600906372,
+            "Type": "ORGANIZATION",
+            "Text": "New York",
+            "BeginOffset": 36,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9920821189880371,
+            "Type": "OTHER",
+            "Text": "https://t.co/YY5C7UnX53",
+            "BeginOffset": 108,
+            "EndOffset": 131
+        }
+    ]
+}

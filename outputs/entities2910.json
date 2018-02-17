@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8747583031654358,
+            "Type": "PERSON",
+            "Text": "@IngrahamAngle",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9065032005310059,
+            "Type": "LOCATION",
+            "Text": "U.S.",
+            "BeginOffset": 45,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9327412247657776,
+            "Type": "QUANTITY",
+            "Text": "170,000 green cards",
+            "BeginOffset": 51,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.8207511901855469,
+            "Type": "ORGANIZATION",
+            "Text": "Muslim",
+            "BeginOffset": 88,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.9688166379928589,
+            "Type": "QUANTITY",
+            "Text": "12 mos",
+            "BeginOffset": 115,
+            "EndOffset": 121
+        }
+    ]
+}

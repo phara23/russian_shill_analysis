@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9320566058158875,
+            "Type": "PERSON",
+            "Text": "@TracyJeffords",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7415095567703247,
+            "Type": "LOCATION",
+            "Text": "#Kenya",
+            "BeginOffset": 72,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.6873566508293152,
+            "Type": "ORGANIZATION",
+            "Text": "@AmichaiStein1",
+            "BeginOffset": 83,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.9994074106216431,
+            "Type": "OTHER",
+            "Text": "https://t.co/GZ5ycMhDIn",
+            "BeginOffset": 98,
+            "EndOffset": 121
+        }
+    ]
+}

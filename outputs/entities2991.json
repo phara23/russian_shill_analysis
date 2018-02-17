@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8434053063392639,
+            "Type": "PERSON",
+            "Text": "@ANGRYref",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9925647974014282,
+            "Type": "ORGANIZATION",
+            "Text": "Facebook",
+            "BeginOffset": 47,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9790173172950745,
+            "Type": "DATE",
+            "Text": "8 years ago",
+            "BeginOffset": 67,
+            "EndOffset": 78
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8409048318862915,
+            "Type": "PERSON",
+            "Text": "@theblaze",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9986507892608643,
+            "Type": "PERSON",
+            "Text": "Jimmy Fallon",
+            "BeginOffset": 14,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9920532703399658,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 33,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.6849236488342285,
+            "Type": "TITLE",
+            "Text": "Golden Globes",
+            "BeginOffset": 42,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.8860936760902405,
+            "Type": "OTHER",
+            "Text": "https://t.co/ERGnLEXE2P",
+            "BeginOffset": 101,
+            "EndOffset": 124
+        },
+        {
+            "Score": 0.9704738259315491,
+            "Type": "OTHER",
+            "Text": "https://t.co/W",
+            "BeginOffset": 125,
+            "EndOffset": 139
+        }
+    ]
+}

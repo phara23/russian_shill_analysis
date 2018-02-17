@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8325888514518738,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9994236826896667,
+            "Type": "PERSON",
+            "Text": "Jason Stokes",
+            "BeginOffset": 25,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.962762713432312,
+            "Type": "DATE",
+            "Text": "12-12-16",
+            "BeginOffset": 103,
+            "EndOffset": 111
+        },
+        {
+            "Score": 0.9569948315620422,
+            "Type": "OTHER",
+            "Text": "https://t.co/yQq3kNA1fs",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        },
+        {
+            "Score": 0.6731049418449402,
+            "Type": "ORGANIZATION",
+            "Text": "@B",
+            "BeginOffset": 137,
+            "EndOffset": 139
+        }
+    ]
+}

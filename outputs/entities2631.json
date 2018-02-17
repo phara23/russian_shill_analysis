@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8405439257621765,
+            "Type": "PERSON",
+            "Text": "@OnlineHouston",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9862629175186157,
+            "Type": "PERSON",
+            "Text": "Preston Tucker",
+            "BeginOffset": 19,
+            "EndOffset": 33
+        }
+    ]
+}

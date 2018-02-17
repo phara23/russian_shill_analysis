@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.565383791923523,
+            "Type": "ORGANIZATION",
+            "Text": "@100",
+            "BeginOffset": 3,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.8335999250411987,
+            "Type": "PERSON",
+            "Text": "JESSE Destroy",
+            "BeginOffset": 34,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9839259386062622,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 77,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.9999293088912964,
+            "Type": "OTHER",
+            "Text": "https://t.co/ZswhQZJ55R",
+            "BeginOffset": 91,
+            "EndOffset": 114
+        }
+    ]
+}

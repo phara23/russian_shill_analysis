@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.941799521446228,
+            "Type": "PERSON",
+            "Text": "@andrewborel94",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8359440565109253,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 55,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9998887777328491,
+            "Type": "OTHER",
+            "Text": "https://t.co/TTu5kQBcQH",
+            "BeginOffset": 87,
+            "EndOffset": 110
+        }
+    ]
+}

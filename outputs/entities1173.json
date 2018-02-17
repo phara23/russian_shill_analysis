@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7315629720687866,
+            "Type": "PERSON",
+            "Text": "@davethedave_",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.560386598110199,
+            "Type": "TITLE",
+            "Text": "Pokemon",
+            "BeginOffset": 84,
+            "EndOffset": 91
+        }
+    ]
+}

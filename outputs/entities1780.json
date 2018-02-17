@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8312129974365234,
+            "Type": "PERSON",
+            "Text": "@makebeatsnow",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.856719970703125,
+            "Type": "ORGANIZATION",
+            "Text": "#Soundcloud",
+            "BeginOffset": 37,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.935866117477417,
+            "Type": "PERSON",
+            "Text": "@tttedm72",
+            "BeginOffset": 52,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.999972939491272,
+            "Type": "OTHER",
+            "Text": "https://t.co/79GTk9O8SK",
+            "BeginOffset": 92,
+            "EndOffset": 115
+        }
+    ]
+}

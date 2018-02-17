@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5007815361022949,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.7270123958587646,
+            "Type": "PERSON",
+            "Text": "@NolteNC",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9931627511978149,
+            "Type": "QUANTITY",
+            "Text": "25 years",
+            "BeginOffset": 22,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.6995892524719238,
+            "Type": "ORGANIZATION",
+            "Text": "GWB",
+            "BeginOffset": 34,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9999104738235474,
+            "Type": "OTHER",
+            "Text": "https://t.co/v5NGZOKFZO",
+            "BeginOffset": 77,
+            "EndOffset": 100
+        }
+    ]
+}

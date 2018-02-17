@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9357640147209167,
+            "Type": "PERSON",
+            "Text": "@MattMurph24",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9912871718406677,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 17,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9999892711639404,
+            "Type": "OTHER",
+            "Text": "https://t.co/3uQdF4I53d",
+            "BeginOffset": 33,
+            "EndOffset": 56
+        }
+    ]
+}

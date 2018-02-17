@@ -1,0 +1,67 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7645399570465088,
+            "Type": "PERSON",
+            "Text": "@guntrust",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.929121196269989,
+            "Type": "ORGANIZATION",
+            "Text": "WikiLeaks",
+            "BeginOffset": 14,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9976555109024048,
+            "Type": "ORGANIZATION",
+            "Text": "FBI",
+            "BeginOffset": 25,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.971301794052124,
+            "Type": "ORGANIZATION",
+            "Text": "Clinton Foundation",
+            "BeginOffset": 47,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.6295282244682312,
+            "Type": "ORGANIZATION",
+            "Text": "Justice Dept",
+            "BeginOffset": 85,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.9377731680870056,
+            "Type": "OTHER",
+            "Text": "https://t.co/2LEWiOcwn3",
+            "BeginOffset": 101,
+            "EndOffset": 124
+        },
+        {
+            "Score": 0.5957475900650024,
+            "Type": "ORGANIZATION",
+            "Text": "#tcot",
+            "BeginOffset": 125,
+            "EndOffset": 130
+        },
+        {
+            "Score": 0.46453553438186646,
+            "Type": "ORGANIZATION",
+            "Text": "#ccot",
+            "BeginOffset": 131,
+            "EndOffset": 136
+        },
+        {
+            "Score": 0.68235182762146,
+            "Type": "QUANTITY",
+            "Text": "#2",
+            "BeginOffset": 137,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8938836455345154,
+            "Type": "PERSON",
+            "Text": "@ElleLatham",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9459402561187744,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 87,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.9156671166419983,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 104,
+            "EndOffset": 119
+        }
+    ]
+}

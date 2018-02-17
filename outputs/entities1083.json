@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9060903787612915,
+            "Type": "PERSON",
+            "Text": "@Gamiliell",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.7571660280227661,
+            "Type": "QUANTITY",
+            "Text": "Part 2",
+            "BeginOffset": 54,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.5890872478485107,
+            "Type": "PERSON",
+            "Text": "Gödel",
+            "BeginOffset": 72,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9690370559692383,
+            "Type": "OTHER",
+            "Text": "https://t.co/eswDXXsPdA",
+            "BeginOffset": 78,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.9999929666519165,
+            "Type": "OTHER",
+            "Text": "https://t.co/yxo2eg7jCj",
+            "BeginOffset": 102,
+            "EndOffset": 125
+        }
+    ]
+}

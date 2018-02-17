@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8740108013153076,
+            "Type": "PERSON",
+            "Text": "@RichardGrenell",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8806055188179016,
+            "Type": "ORGANIZATION",
+            "Text": "Washington Post",
+            "BeginOffset": 20,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9997946619987488,
+            "Type": "PERSON",
+            "Text": "Robin Givhan",
+            "BeginOffset": 51,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9962235689163208,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 100,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.9659172892570496,
+            "Type": "OTHER",
+            "Text": "https://t.co/rT",
+            "BeginOffset": 124,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9331860542297363,
+            "Type": "PERSON",
+            "Text": "@GraveyardSister",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.966002345085144,
+            "Type": "DATE",
+            "Text": "2014",
+            "BeginOffset": 53,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9994412064552307,
+            "Type": "OTHER",
+            "Text": "https://t.co/RxJEopHnb2",
+            "BeginOffset": 81,
+            "EndOffset": 104
+        }
+    ]
+}

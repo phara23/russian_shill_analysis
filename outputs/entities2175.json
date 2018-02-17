@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9258873462677002,
+            "Type": "PERSON",
+            "Text": "@shawgerald4",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8966957330703735,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 17,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9052643179893494,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 34,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9996787309646606,
+            "Type": "OTHER",
+            "Text": "https://t.co/rjBIwRVqQW",
+            "BeginOffset": 72,
+            "EndOffset": 95
+        }
+    ]
+}

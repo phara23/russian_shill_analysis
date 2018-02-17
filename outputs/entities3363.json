@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7978146076202393,
+            "Type": "PERSON",
+            "Text": "@BLUpfront",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9973535537719727,
+            "Type": "PERSON",
+            "Text": "Comey",
+            "BeginOffset": 31,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9132002592086792,
+            "Type": "OTHER",
+            "Text": "https://t.co/XCoeFoE",
+            "BeginOffset": 119,
+            "EndOffset": 139
+        }
+    ]
+}
