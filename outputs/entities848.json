@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.874645471572876,
+            "Type": "PERSON",
+            "Text": "@cmdorsey",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9032460451126099,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 26,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.5195928812026978,
+            "Type": "ORGANIZATION",
+            "Text": "Wikileaks",
+            "BeginOffset": 117,
+            "EndOffset": 126
+        },
+        {
+            "Score": 0.9232869148254395,
+            "Type": "OTHER",
+            "Text": "https://t.co/WYc",
+            "BeginOffset": 127,
+            "EndOffset": 143
+        }
+    ]
+}

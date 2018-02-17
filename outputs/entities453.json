@@ -1,0 +1,67 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9161245226860046,
+            "Type": "PERSON",
+            "Text": "@ShaunKing",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9785196185112,
+            "Type": "PERSON",
+            "Text": "Connor McGregor",
+            "BeginOffset": 15,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9965515732765198,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 38,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.6999936699867249,
+            "Type": "ORGANIZATION",
+            "Text": "MMA",
+            "BeginOffset": 54,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9990289807319641,
+            "Type": "PERSON",
+            "Text": "Mike Tyson",
+            "BeginOffset": 66,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.8141747117042542,
+            "Type": "ORGANIZATION",
+            "Text": "MMA",
+            "BeginOffset": 80,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.478425532579422,
+            "Type": "QUANTITY",
+            "Text": "Both",
+            "BeginOffset": 86,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9636098146438599,
+            "Type": "PERSON",
+            "Text": "Tyson",
+            "BeginOffset": 111,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.9978583455085754,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 123,
+            "EndOffset": 128
+        }
+    ]
+}

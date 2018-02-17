@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8100360035896301,
+            "Type": "PERSON",
+            "Text": "@bocavista2016",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6637561917304993,
+            "Type": "PERSON",
+            "Text": "OBAMA",
+            "BeginOffset": 19,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9596905708312988,
+            "Type": "ORGANIZATION",
+            "Text": "ISIS",
+            "BeginOffset": 37,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9648789167404175,
+            "Type": "OTHER",
+            "Text": "https://t.co/SLS",
+            "BeginOffset": 123,
+            "EndOffset": 139
+        }
+    ]
+}

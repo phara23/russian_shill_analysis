@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9752398133277893,
+            "Type": "PERSON",
+            "Text": "Ted Cruz",
+            "BeginOffset": 39,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9999103546142578,
+            "Type": "OTHER",
+            "Text": "https://t.co/JUVp2e6pCz",
+            "BeginOffset": 69,
+            "EndOffset": 92
+        }
+    ]
+}

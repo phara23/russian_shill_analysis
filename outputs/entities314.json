@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6936542391777039,
+            "Type": "PERSON",
+            "Text": "@braintwat",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.7274969816207886,
+            "Type": "PERSON",
+            "Text": "@braintwat",
+            "BeginOffset": 15,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9997794032096863,
+            "Type": "OTHER",
+            "Text": "https://t.co/McSdsAbqsj",
+            "BeginOffset": 26,
+            "EndOffset": 49
+        }
+    ]
+}

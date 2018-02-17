@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8623986840248108,
+            "Type": "PERSON",
+            "Text": "@AIIAmericanGirI",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9984627962112427,
+            "Type": "PERSON",
+            "Text": "Sebastian Gorka",
+            "BeginOffset": 25,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9978618025779724,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 46,
+            "EndOffset": 51
+        }
+    ]
+}

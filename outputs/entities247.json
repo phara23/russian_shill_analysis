@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.902472972869873,
+            "Type": "PERSON",
+            "Text": "@markflesberg",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.606581449508667,
+            "Type": "PERSON",
+            "Text": "OBAMA",
+            "BeginOffset": 18,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.698122501373291,
+            "Type": "QUANTITY",
+            "Text": "00 MILLION",
+            "BeginOffset": 58,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.5195634365081787,
+            "Type": "LOCATION",
+            "Text": "IRAN",
+            "BeginOffset": 72,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.9292596578598022,
+            "Type": "ORGANIZATION",
+            "Text": "ISIS",
+            "BeginOffset": 86,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.8662804961204529,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 92,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.573060154914856,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 127,
+            "EndOffset": 136
+        }
+    ]
+}

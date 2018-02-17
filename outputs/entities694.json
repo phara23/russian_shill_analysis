@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9163851737976074,
+            "Type": "PERSON",
+            "Text": "@SalMcdonagh",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9057897925376892,
+            "Type": "OTHER",
+            "Text": "https://t.co",
+            "BeginOffset": 131,
+            "EndOffset": 143
+        }
+    ]
+}

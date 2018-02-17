@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9086751937866211,
+            "Type": "PERSON",
+            "Text": "@therighttalkusa",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9620988965034485,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 32,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.3848513960838318,
+            "Type": "DATE",
+            "Text": "Sun",
+            "BeginOffset": 61,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.46511533856391907,
+            "Type": "PERSON",
+            "Text": "#trump",
+            "BeginOffset": 66,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.6541610956192017,
+            "Type": "OTHER",
+            "Text": "#45",
+            "BeginOffset": 78,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.7383001446723938,
+            "Type": "PERSON",
+            "Text": "@fox",
+            "BeginOffset": 120,
+            "EndOffset": 124
+        },
+        {
+            "Score": 0.8610182404518127,
+            "Type": "PERSON",
+            "Text": "@ThePolitiChic",
+            "BeginOffset": 125,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9649415016174316,
+            "Type": "PERSON",
+            "Text": "@grosby81",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9208843111991882,
+            "Type": "QUANTITY",
+            "Text": "8 shots",
+            "BeginOffset": 36,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.8408086895942688,
+            "Type": "QUANTITY",
+            "Text": "6 burbon",
+            "BeginOffset": 46,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.7854050397872925,
+            "Type": "QUANTITY",
+            "Text": "5 wines",
+            "BeginOffset": 67,
+            "EndOffset": 74
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9256926774978638,
+            "Type": "PERSON",
+            "Text": "@BenJealous",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.6804810762405396,
+            "Type": "ORGANIZATION",
+            "Text": "@TheDemocrats",
+            "BeginOffset": 38,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.4745699167251587,
+            "Type": "PERSON",
+            "Text": "FDR",
+            "BeginOffset": 95,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.9438431262969971,
+            "Type": "PERSON",
+            "Text": "MLK",
+            "BeginOffset": 103,
+            "EndOffset": 106
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8718702793121338,
+            "Type": "PERSON",
+            "Text": "Gov. Mike Pence",
+            "BeginOffset": 10,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9997860789299011,
+            "Type": "OTHER",
+            "Text": "https://t.co/mpjJIKBldb",
+            "BeginOffset": 73,
+            "EndOffset": 96
+        }
+    ]
+}

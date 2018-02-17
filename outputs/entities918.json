@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9821926951408386,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.8522849082946777,
+            "Type": "LOCATION",
+            "Text": "Canada",
+            "BeginOffset": 27,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.977628767490387,
+            "Type": "LOCATION",
+            "Text": "Argentina",
+            "BeginOffset": 35,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9254074096679688,
+            "Type": "OTHER",
+            "Text": "https://t.co/DlfgH8LiEO",
+            "BeginOffset": 57,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.9999891519546509,
+            "Type": "OTHER",
+            "Text": "https://t.co/SVg2x9eDKl",
+            "BeginOffset": 81,
+            "EndOffset": 104
+        }
+    ]
+}

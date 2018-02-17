@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8190469145774841,
+            "Type": "PERSON",
+            "Text": "@BluegrassPundit",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.6707553863525391,
+            "Type": "OTHER",
+            "Text": "Afghan",
+            "BeginOffset": 43,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9937927722930908,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 105,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.9975606203079224,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 112,
+            "EndOffset": 117
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9828743934631348,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 35,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9294590950012207,
+            "Type": "ORGANIZATION",
+            "Text": "Hollywood",
+            "BeginOffset": 43,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9999830722808838,
+            "Type": "OTHER",
+            "Text": "https://t.co/DMoZixRw2n",
+            "BeginOffset": 58,
+            "EndOffset": 81
+        }
+    ]
+}

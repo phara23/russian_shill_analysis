@@ -1,0 +1,67 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5411344766616821,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8625864386558533,
+            "Type": "ORGANIZATION",
+            "Text": "@Hutch_USA",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8393070697784424,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 15,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8340959548950195,
+            "Type": "ORGANIZATION",
+            "Text": "@Saintly_Life",
+            "BeginOffset": 18,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.6629444360733032,
+            "Type": "ORGANIZATION",
+            "Text": "Hebrews",
+            "BeginOffset": 33,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.946925699710846,
+            "Type": "QUANTITY",
+            "Text": "13:8",
+            "BeginOffset": 41,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9670822620391846,
+            "Type": "OTHER",
+            "Text": "https://t.co/7oqN4R0sBh",
+            "BeginOffset": 46,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.6416354179382324,
+            "Type": "ORGANIZATION",
+            "Text": "#IStandWithIsrael",
+            "BeginOffset": 70,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.5962440371513367,
+            "Type": "ORGANIZATION",
+            "Text": "#PJNET",
+            "BeginOffset": 88,
+            "EndOffset": 94
+        }
+    ]
+}

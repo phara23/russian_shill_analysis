@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.79547518491745,
+            "Type": "PERSON",
+            "Text": "@PoliticsPeach",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7553479671478271,
+            "Type": "ORGANIZATION",
+            "Text": "US Media",
+            "BeginOffset": 28,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.6764230728149414,
+            "Type": "QUANTITY",
+            "Text": "2sell us",
+            "BeginOffset": 53,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9953116178512573,
+            "Type": "PERSON",
+            "Text": "Hillary Coronati",
+            "BeginOffset": 123,
+            "EndOffset": 139
+        }
+    ]
+}

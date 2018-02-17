@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8688536882400513,
+            "Type": "PERSON",
+            "Text": "@Bipartisanism",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9921974539756775,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 30,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.8307786583900452,
+            "Type": "LOCATION",
+            "Text": "Washington",
+            "BeginOffset": 94,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.8452796936035156,
+            "Type": "OTHER",
+            "Text": "https://t.co/CiYY2yQbmb",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        },
+        {
+            "Score": 0.7720783948898315,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 129,
+            "EndOffset": 138
+        }
+    ]
+}

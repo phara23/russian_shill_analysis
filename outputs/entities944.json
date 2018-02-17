@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.804182767868042,
+            "Type": "PERSON",
+            "Text": "@_Teufelshunde",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7787105441093445,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 19,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9977612495422363,
+            "Type": "PERSON",
+            "Text": "Cheryl Mills",
+            "BeginOffset": 32,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.900739312171936,
+            "Type": "ORGANIZATION",
+            "Text": "@FBI",
+            "BeginOffset": 68,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.9472049474716187,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 92,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.9677272439002991,
+            "Type": "OTHER",
+            "Text": "https://t.co/ijjz3ILuCR",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        }
+    ]
+}

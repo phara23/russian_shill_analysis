@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9039694666862488,
+            "Type": "PERSON",
+            "Text": "@politics_n_prep",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9802188277244568,
+            "Type": "ORGANIZATION",
+            "Text": "Democrats",
+            "BeginOffset": 21,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9970675706863403,
+            "Type": "DATE",
+            "Text": "November 7th",
+            "BeginOffset": 34,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9778342247009277,
+            "Type": "ORGANIZATION",
+            "Text": "Democrats",
+            "BeginOffset": 78,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.9974428415298462,
+            "Type": "DATE",
+            "Text": "November 9th",
+            "BeginOffset": 91,
+            "EndOffset": 103
+        }
+    ]
+}

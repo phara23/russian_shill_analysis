@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9570439457893372,
+            "Type": "PERSON",
+            "Text": "Jesus",
+            "BeginOffset": 37,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9999837875366211,
+            "Type": "OTHER",
+            "Text": "https://t.co/DNL7y0trzi",
+            "BeginOffset": 43,
+            "EndOffset": 66
+        }
+    ]
+}

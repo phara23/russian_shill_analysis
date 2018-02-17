@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7564716339111328,
+            "Type": "PERSON",
+            "Text": "@ltapoll",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8485698103904724,
+            "Type": "DATE",
+            "Text": "past 25 years",
+            "BeginOffset": 50,
+            "EndOffset": 63
+        }
+    ]
+}

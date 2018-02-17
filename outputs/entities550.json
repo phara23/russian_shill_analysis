@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9773459434509277,
+            "Type": "LOCATION",
+            "Text": "#usa",
+            "BeginOffset": 48,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9497390389442444,
+            "Type": "LOCATION",
+            "Text": "#america",
+            "BeginOffset": 53,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9997175335884094,
+            "Type": "OTHER",
+            "Text": "https://t.co/PJ6MHQOTrJ",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        }
+    ]
+}

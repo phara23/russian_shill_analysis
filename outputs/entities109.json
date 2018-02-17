@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9294100403785706,
+            "Type": "PERSON",
+            "Text": "@Stevenwhirsch99",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9491774439811707,
+            "Type": "DATE",
+            "Text": "today",
+            "BeginOffset": 48,
+            "EndOffset": 53
+        }
+    ]
+}

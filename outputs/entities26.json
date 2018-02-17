@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8096305131912231,
+            "Type": "PERSON",
+            "Text": "@bgg2wl",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.982017993927002,
+            "Type": "ORGANIZATION",
+            "Text": "Walmart",
+            "BeginOffset": 12,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9978877902030945,
+            "Type": "PERSON",
+            "Text": "Michelle Obama",
+            "BeginOffset": 21,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.6791821122169495,
+            "Type": "ORGANIZATION",
+            "Text": "The Halo Effect",
+            "BeginOffset": 40,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.8769224882125854,
+            "Type": "OTHER",
+            "Text": "https://t.co/1urgx3QIO9",
+            "BeginOffset": 56,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.9999260902404785,
+            "Type": "OTHER",
+            "Text": "https://t.co/eebgZOcMcQ",
+            "BeginOffset": 80,
+            "EndOffset": 103
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.943137526512146,
+            "Type": "PERSON",
+            "Text": "@greeneyes0084",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7637903690338135,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 60,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.5129995942115784,
+            "Type": "LOCATION",
+            "Text": "Americans",
+            "BeginOffset": 130,
+            "EndOffset": 139
+        }
+    ]
+}

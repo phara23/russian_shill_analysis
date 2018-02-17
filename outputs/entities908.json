@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7304189801216125,
+            "Type": "PERSON",
+            "Text": "@GrafficTees",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9888874292373657,
+            "Type": "QUANTITY",
+            "Text": "7 years",
+            "BeginOffset": 24,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.5347663164138794,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 129,
+            "EndOffset": 138
+        }
+    ]
+}

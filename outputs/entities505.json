@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8908271789550781,
+            "Type": "ORGANIZATION",
+            "Text": "@MSNBC",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9455713033676147,
+            "Type": "PERSON",
+            "Text": "President Trump",
+            "BeginOffset": 11,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9479443430900574,
+            "Type": "LOCATION",
+            "Text": "California",
+            "BeginOffset": 47,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.6497113704681396,
+            "Type": "OTHER",
+            "Text": "https://t.co/gR6pO3GudQ",
+            "BeginOffset": 58,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.9999934434890747,
+            "Type": "OTHER",
+            "Text": "https://t.co/Rx61XLN6WF",
+            "BeginOffset": 82,
+            "EndOffset": 105
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8665129542350769,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 20,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.8098653554916382,
+            "Type": "ORGANIZATION",
+            "Text": "Senate",
+            "BeginOffset": 30,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9644737243652344,
+            "Type": "LOCATION",
+            "Text": "St. Charles County",
+            "BeginOffset": 53,
+            "EndOffset": 71
+        }
+    ]
+}

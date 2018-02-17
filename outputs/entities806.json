@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8416067957878113,
+            "Type": "PERSON",
+            "Text": "@ThePatriot143",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9996464252471924,
+            "Type": "PERSON",
+            "Text": "John Kerry",
+            "BeginOffset": 30,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.987872838973999,
+            "Type": "PERSON",
+            "Text": "Mark Twain",
+            "BeginOffset": 52,
+            "EndOffset": 62
+        }
+    ]
+}

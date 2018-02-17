@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7736719250679016,
+            "Type": "PERSON",
+            "Text": "@QuantumBios",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8878788948059082,
+            "Type": "PERSON",
+            "Text": "@sahouraxo",
+            "BeginOffset": 17,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9014343619346619,
+            "Type": "PERSON",
+            "Text": "@suzettepetillo",
+            "BeginOffset": 28,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9999775886535645,
+            "Type": "OTHER",
+            "Text": "https://t.co/F74V9sLvKF",
+            "BeginOffset": 44,
+            "EndOffset": 67
+        }
+    ]
+}

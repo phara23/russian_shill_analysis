@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8846310973167419,
+            "Type": "QUANTITY",
+            "Text": "over a hundred civilians",
+            "BeginOffset": 51,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.8044646382331848,
+            "Type": "LOCATION",
+            "Text": "#Iraq",
+            "BeginOffset": 79,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9999347925186157,
+            "Type": "OTHER",
+            "Text": "https://t.co/8Co7L1y5L6",
+            "BeginOffset": 85,
+            "EndOffset": 108
+        }
+    ]
+}

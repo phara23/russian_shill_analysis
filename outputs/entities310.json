@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.680962860584259,
+            "Type": "ORGANIZATION",
+            "Text": "NBC",
+            "BeginOffset": 0,
+            "EndOffset": 3
+        },
+        {
+            "Score": 0.9830904603004456,
+            "Type": "PERSON",
+            "Text": "Huey Lewis",
+            "BeginOffset": 12,
+            "EndOffset": 22
+        }
+    ]
+}

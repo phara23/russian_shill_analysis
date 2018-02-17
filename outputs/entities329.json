@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7215890884399414,
+            "Type": "PERSON",
+            "Text": "@LesgartCPA",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.836153507232666,
+            "Type": "QUANTITY",
+            "Text": "both",
+            "BeginOffset": 47,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9925870299339294,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 52,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9984803795814514,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 64,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.8611241579055786,
+            "Type": "ORGANIZATION",
+            "Text": "Muslim",
+            "BeginOffset": 100,
+            "EndOffset": 106
+        }
+    ]
+}

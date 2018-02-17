@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8193997740745544,
+            "Type": "PERSON",
+            "Text": "@iluvscoops",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.986529529094696,
+            "Type": "PERSON",
+            "Text": "Rebekah Lyn",
+            "BeginOffset": 16,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.7659639120101929,
+            "Type": "OTHER",
+            "Text": "https://t.co/jhSxoNn9eS",
+            "BeginOffset": 65,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.7664534449577332,
+            "Type": "ORGANIZATION",
+            "Text": "#CR4U",
+            "BeginOffset": 89,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.9995580315589905,
+            "Type": "OTHER",
+            "Text": "https://t.co/ebcRsyrOcx",
+            "BeginOffset": 95,
+            "EndOffset": 118
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9338717460632324,
+            "Type": "PERSON",
+            "Text": "@WeNeedTrump",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9999641180038452,
+            "Type": "OTHER",
+            "Text": "https://t.co/kV3Cz5xPIE",
+            "BeginOffset": 89,
+            "EndOffset": 112
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7839409708976746,
+            "Type": "PERSON",
+            "Text": "@EDMOnEarth",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.6958867907524109,
+            "Type": "ORGANIZATION",
+            "Text": "@DVBBS",
+            "BeginOffset": 30,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9998965263366699,
+            "Type": "OTHER",
+            "Text": "https://t.co/a8eqc4c00l",
+            "BeginOffset": 37,
+            "EndOffset": 60
+        }
+    ]
+}

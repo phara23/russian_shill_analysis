@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9362741708755493,
+            "Type": "PERSON",
+            "Text": "@jimishbathia",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7272039651870728,
+            "Type": "ORGANIZATION",
+            "Text": "@HashtagRoundup",
+            "BeginOffset": 63,
+            "EndOffset": 78
+        }
+    ]
+}

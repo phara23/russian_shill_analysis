@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9291232228279114,
+            "Type": "PERSON",
+            "Text": "@ajplus",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9957457184791565,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 22,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9999160766601562,
+            "Type": "OTHER",
+            "Text": "https://t.co/Kc186WAp7F",
+            "BeginOffset": 38,
+            "EndOffset": 61
+        }
+    ]
+}

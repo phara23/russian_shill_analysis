@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9468455910682678,
+            "Type": "DATE",
+            "Text": "Today",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.962477445602417,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 37,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.6945807337760925,
+            "Type": "QUANTITY",
+            "Text": "2k",
+            "BeginOffset": 63,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.5063914656639099,
+            "Type": "QUANTITY",
+            "Text": "16",
+            "BeginOffset": 65,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.23346608877182007,
+            "Type": "TITLE",
+            "Text": "#MAGA",
+            "BeginOffset": 68,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.9870813488960266,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 83,
+            "EndOffset": 87
+        }
+    ]
+}

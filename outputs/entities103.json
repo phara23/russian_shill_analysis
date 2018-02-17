@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9461389780044556,
+            "Type": "ORGANIZATION",
+            "Text": "Republican",
+            "BeginOffset": 0,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9957982897758484,
+            "Type": "PERSON",
+            "Text": "Grover Norquist",
+            "BeginOffset": 22,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9984022974967957,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 47,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.8791728019714355,
+            "Type": "ORGANIZATION",
+            "Text": "Republican",
+            "BeginOffset": 87,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.6382993459701538,
+            "Type": "PERSON",
+            "Text": "Gro",
+            "BeginOffset": 109,
+            "EndOffset": 112
+        }
+    ]
+}

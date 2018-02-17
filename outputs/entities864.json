@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8933967351913452,
+            "Type": "PERSON",
+            "Text": "@TheresaMechele",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8502044081687927,
+            "Type": "QUANTITY",
+            "Text": "One arrest",
+            "BeginOffset": 20,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.7673200964927673,
+            "Type": "ORGANIZATION",
+            "Text": "Berkley Police",
+            "BeginOffset": 43,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9192059636116028,
+            "Type": "PERSON",
+            "Text": "Governor Moonbeam",
+            "BeginOffset": 84,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.9901289343833923,
+            "Type": "PERSON",
+            "Text": "Reagan",
+            "BeginOffset": 103,
+            "EndOffset": 109
+        },
+        {
+            "Score": 0.798230767250061,
+            "Type": "ORGANIZATION",
+            "Text": "National Guard",
+            "BeginOffset": 120,
+            "EndOffset": 134
+        }
+    ]
+}

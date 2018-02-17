@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9037431478500366,
+            "Type": "PERSON",
+            "Text": "@FeministaJones",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9970408082008362,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 42,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9988260865211487,
+            "Type": "PERSON",
+            "Text": "John Lewis",
+            "BeginOffset": 75,
+            "EndOffset": 85
+        }
+    ]
+}

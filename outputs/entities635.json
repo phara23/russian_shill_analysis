@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.814065158367157,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9959982633590698,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 29,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.904251754283905,
+            "Type": "OTHER",
+            "Text": "https://t.co/MiGRvSdglN",
+            "BeginOffset": 82,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.8403806686401367,
+            "Type": "ORGANIZATION",
+            "Text": "@FoxNews",
+            "BeginOffset": 106,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.9996830224990845,
+            "Type": "OTHER",
+            "Text": "https://t.co/JCg6QDfxow",
+            "BeginOffset": 115,
+            "EndOffset": 138
+        }
+    ]
+}

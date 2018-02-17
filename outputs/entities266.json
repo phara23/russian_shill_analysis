@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8912113308906555,
+            "Type": "PERSON",
+            "Text": "@therealroseanne",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9597768187522888,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 38,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.7452404499053955,
+            "Type": "QUANTITY",
+            "Text": "one more week",
+            "BeginOffset": 55,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9878294467926025,
+            "Type": "QUANTITY",
+            "Text": "two weeks",
+            "BeginOffset": 87,
+            "EndOffset": 96
+        }
+    ]
+}

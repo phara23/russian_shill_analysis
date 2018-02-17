@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9496682286262512,
+            "Type": "PERSON",
+            "Text": "@deirdreheenan",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.997572124004364,
+            "Type": "DATE",
+            "Text": "2017",
+            "BeginOffset": 84,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.994271993637085,
+            "Type": "DATE",
+            "Text": "2017",
+            "BeginOffset": 94,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.9999630451202393,
+            "Type": "OTHER",
+            "Text": "https://t.co/Ghw3LqPgas",
+            "BeginOffset": 99,
+            "EndOffset": 122
+        }
+    ]
+}

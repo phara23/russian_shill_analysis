@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8322746157646179,
+            "Type": "PERSON",
+            "Text": "@xavvypls",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9776595234870911,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 67,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9989867806434631,
+            "Type": "PERSON",
+            "Text": "Bernie Sanders",
+            "BeginOffset": 92,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.5571693778038025,
+            "Type": "LOCATION",
+            "Text": "Canton",
+            "BeginOffset": 120,
+            "EndOffset": 126
+        },
+        {
+            "Score": 0.9670647978782654,
+            "Type": "OTHER",
+            "Text": "https://t.co",
+            "BeginOffset": 127,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9995691776275635,
+            "Type": "PERSON",
+            "Text": "Corey Lewandowski",
+            "BeginOffset": 0,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9905029535293579,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 40,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9999790191650391,
+            "Type": "OTHER",
+            "Text": "https://t.co/VHf9VEX7Xj",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8350703716278076,
+            "Type": "PERSON",
+            "Text": "@CurtisforMO",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.3995937407016754,
+            "Type": "PERSON",
+            "Text": "#ferguson",
+            "BeginOffset": 62,
+            "EndOffset": 71
+        }
+    ]
+}

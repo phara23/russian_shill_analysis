@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8489199876785278,
+            "Type": "PERSON",
+            "Text": "@Glaivester",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8798127174377441,
+            "Type": "PERSON",
+            "Text": "Voldemort",
+            "BeginOffset": 63,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.9956514239311218,
+            "Type": "PERSON",
+            "Text": "Nicolae Carpathia",
+            "BeginOffset": 92,
+            "EndOffset": 109
+        },
+        {
+            "Score": 0.9999943971633911,
+            "Type": "OTHER",
+            "Text": "https://t.co/R9miK4nSfI",
+            "BeginOffset": 111,
+            "EndOffset": 134
+        }
+    ]
+}

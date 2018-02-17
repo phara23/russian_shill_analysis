@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7767181992530823,
+            "Type": "ORGANIZATION",
+            "Text": "@K1erry",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.7615805268287659,
+            "Type": "PERSON",
+            "Text": "Marco Rubio",
+            "BeginOffset": 16,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9882772564888,
+            "Type": "PERSON",
+            "Text": "Elizabeth Warren",
+            "BeginOffset": 41,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9999685287475586,
+            "Type": "OTHER",
+            "Text": "https://t.co/Rh391fEXe3",
+            "BeginOffset": 93,
+            "EndOffset": 116
+        }
+    ]
+}

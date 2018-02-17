@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9340673685073853,
+            "Type": "PERSON",
+            "Text": "@Coolish_Breeze",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9881550073623657,
+            "Type": "PERSON",
+            "Text": "Bernie",
+            "BeginOffset": 51,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9999436140060425,
+            "Type": "OTHER",
+            "Text": "https://t.co/vS8jZfZ2AT",
+            "BeginOffset": 59,
+            "EndOffset": 82
+        }
+    ]
+}

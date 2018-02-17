@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9825199842453003,
+            "Type": "QUANTITY",
+            "Text": "140 characters",
+            "BeginOffset": 0,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9833612442016602,
+            "Type": "QUANTITY",
+            "Text": "1000 words",
+            "BeginOffset": 28,
+            "EndOffset": 38
+        }
+    ]
+}

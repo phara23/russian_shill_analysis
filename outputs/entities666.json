@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8195160627365112,
+            "Type": "PERSON",
+            "Text": "@luvGodncountry",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9953873753547668,
+            "Type": "OTHER",
+            "Text": "https://t.co/AjD6yJwWML",
+            "BeginOffset": 74,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.844622015953064,
+            "Type": "ORGANIZATION",
+            "Text": "@conservativebyt",
+            "BeginOffset": 102,
+            "EndOffset": 118
+        },
+        {
+            "Score": 0.9660892486572266,
+            "Type": "OTHER",
+            "Text": "https://t.co/oZZSexa",
+            "BeginOffset": 119,
+            "EndOffset": 139
+        }
+    ]
+}

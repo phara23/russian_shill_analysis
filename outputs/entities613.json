@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8895938396453857,
+            "Type": "PERSON",
+            "Text": "@Patriotancestry",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.5526021718978882,
+            "Type": "OTHER",
+            "Text": "American",
+            "BeginOffset": 95,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.9999524354934692,
+            "Type": "OTHER",
+            "Text": "https://t.co/7ijYfrMZPv",
+            "BeginOffset": 112,
+            "EndOffset": 135
+        }
+    ]
+}

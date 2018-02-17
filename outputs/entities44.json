@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9645647406578064,
+            "Type": "PERSON",
+            "Text": "Kareem Abdul Jabber",
+            "BeginOffset": 0,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8428837656974792,
+            "Type": "PERSON",
+            "Text": "@midnight",
+            "BeginOffset": 40,
+            "EndOffset": 49
+        }
+    ]
+}

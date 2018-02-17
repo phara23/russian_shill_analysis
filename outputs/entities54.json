@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9688814878463745,
+            "Type": "PERSON",
+            "Text": "@bob_owens",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9999876022338867,
+            "Type": "OTHER",
+            "Text": "https://t.co/6O7W89X7ls",
+            "BeginOffset": 115,
+            "EndOffset": 138
+        }
+    ]
+}

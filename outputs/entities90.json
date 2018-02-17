@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9939073920249939,
+            "Type": "LOCATION",
+            "Text": "Florida",
+            "BeginOffset": 38,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9999139308929443,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 61,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9945219159126282,
+            "Type": "DATE",
+            "Text": "August, 20",
+            "BeginOffset": 70,
+            "EndOffset": 80
+        }
+    ]
+}

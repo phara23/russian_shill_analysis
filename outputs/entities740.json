@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5342186093330383,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.7884711027145386,
+            "Type": "PERSON",
+            "Text": "@Italians4Trump",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9877929091453552,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 28,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9999834299087524,
+            "Type": "OTHER",
+            "Text": "https://t.co/6sX4f91in1",
+            "BeginOffset": 74,
+            "EndOffset": 97
+        }
+    ]
+}

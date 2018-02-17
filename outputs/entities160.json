@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7673210501670837,
+            "Type": "PERSON",
+            "Text": "@TrivagoD",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8412421941757202,
+            "Type": "ORGANIZATION",
+            "Text": "BMW",
+            "BeginOffset": 34,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.6206097602844238,
+            "Type": "QUANTITY",
+            "Text": "52s",
+            "BeginOffset": 40,
+            "EndOffset": 43
+        }
+    ]
+}

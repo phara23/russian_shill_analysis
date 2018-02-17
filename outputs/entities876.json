@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8669723272323608,
+            "Type": "PERSON",
+            "Text": "@HeerJeet",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8059989213943481,
+            "Type": "PERSON",
+            "Text": "@brianbeutler",
+            "BeginOffset": 37,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9997628331184387,
+            "Type": "OTHER",
+            "Text": "https://t.co/tdijOedgC5",
+            "BeginOffset": 51,
+            "EndOffset": 74
+        }
+    ]
+}

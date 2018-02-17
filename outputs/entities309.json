@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8852165937423706,
+            "Type": "PERSON",
+            "Text": "@MkSpeaksHisMind",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.6635419726371765,
+            "Type": "PERSON",
+            "Text": "@TheDemocrats",
+            "BeginOffset": 26,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.983578085899353,
+            "Type": "QUANTITY",
+            "Text": "1:27",
+            "BeginOffset": 51,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.5231868624687195,
+            "Type": "PERSON",
+            "Text": "Christian",
+            "BeginOffset": 114,
+            "EndOffset": 123
+        }
+    ]
+}

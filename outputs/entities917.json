@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8223021030426025,
+            "Type": "PERSON",
+            "Text": "@rands",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9968764185905457,
+            "Type": "QUANTITY",
+            "Text": "3.5 seconds",
+            "BeginOffset": 51,
+            "EndOffset": 62
+        }
+    ]
+}

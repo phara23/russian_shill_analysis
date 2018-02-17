@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9223489761352539,
+            "Type": "PERSON",
+            "Text": "@daniecal",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.665092945098877,
+            "Type": "QUANTITY",
+            "Text": "both",
+            "BeginOffset": 81,
+            "EndOffset": 85
+        }
+    ]
+}

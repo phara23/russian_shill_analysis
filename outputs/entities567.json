@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9509718418121338,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 0,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.4749021530151367,
+            "Type": "LOCATION",
+            "Text": "Florida",
+            "BeginOffset": 10,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.5796027183532715,
+            "Type": "ORGANIZATION",
+            "Text": "Puerto Rican Immigrants",
+            "BeginOffset": 37,
+            "EndOffset": 60
+        }
+    ]
+}

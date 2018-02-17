@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9324542880058289,
+            "Type": "PERSON",
+            "Text": "@ScottPresler",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7394452095031738,
+            "Type": "ORGANIZATION",
+            "Text": "LGBTQ",
+            "BeginOffset": 48,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.7686999440193176,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 113,
+            "EndOffset": 116
+        }
+    ]
+}

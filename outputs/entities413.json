@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8148723840713501,
+            "Type": "PERSON",
+            "Text": "@gerfingerpoken",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7355222105979919,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 26,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.964657723903656,
+            "Type": "QUANTITY",
+            "Text": "85%",
+            "BeginOffset": 43,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.8042342662811279,
+            "Type": "QUANTITY",
+            "Text": "2 Fight",
+            "BeginOffset": 53,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9267691969871521,
+            "Type": "OTHER",
+            "Text": "https://t.co/hxhKfHzV69",
+            "BeginOffset": 79,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.9960010647773743,
+            "Type": "OTHER",
+            "Text": "https://t.co/jIeb79U4",
+            "BeginOffset": 118,
+            "EndOffset": 139
+        }
+    ]
+}

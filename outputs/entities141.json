@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9054707884788513,
+            "Type": "ORGANIZATION",
+            "Text": "Hollywood",
+            "BeginOffset": 74,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.7112013101577759,
+            "Type": "LOCATION",
+            "Text": "Wall Street",
+            "BeginOffset": 85,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.999991774559021,
+            "Type": "OTHER",
+            "Text": "https://t.co/tGQf31XQW9",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

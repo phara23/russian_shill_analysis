@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8982036113739014,
+            "Type": "PERSON",
+            "Text": "@markwellsrector",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8323284387588501,
+            "Type": "QUANTITY",
+            "Text": "22 major US white supremacy orgs",
+            "BeginOffset": 25,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9941439032554626,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 67,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.7107780575752258,
+            "Type": "QUANTITY",
+            "Text": "1382 major US newspapers",
+            "BeginOffset": 89,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.9925819635391235,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 122,
+            "EndOffset": 127
+        }
+    ]
+}

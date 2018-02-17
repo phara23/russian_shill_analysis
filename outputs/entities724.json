@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8817219138145447,
+            "Type": "PERSON",
+            "Text": "@ValLisitsa",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9941674470901489,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 16,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.5220398902893066,
+            "Type": "QUANTITY",
+            "Text": "billions",
+            "BeginOffset": 28,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.42593714594841003,
+            "Type": "PERSON",
+            "Text": "Saudis",
+            "BeginOffset": 57,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.5265064239501953,
+            "Type": "ORGANIZATION",
+            "Text": "Houthis",
+            "BeginOffset": 77,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9811940789222717,
+            "Type": "LOCATION",
+            "Text": "Yemen",
+            "BeginOffset": 88,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.5466067790985107,
+            "Type": "ORGANIZATION",
+            "Text": "Houthis",
+            "BeginOffset": 96,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.9165270328521729,
+            "Type": "ORGANIZATION",
+            "Text": "US Navy",
+            "BeginOffset": 119,
+            "EndOffset": 126
+        }
+    ]
+}

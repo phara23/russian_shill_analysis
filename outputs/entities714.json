@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9169422388076782,
+            "Type": "PERSON",
+            "Text": "@jilevin",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.6948662400245667,
+            "Type": "PERSON",
+            "Text": "Huff",
+            "BeginOffset": 13,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9913402199745178,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 24,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.6930730938911438,
+            "Type": "QUANTITY",
+            "Text": "Second-Term High",
+            "BeginOffset": 51,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.8319907784461975,
+            "Type": "OTHER",
+            "Text": "https://t.co/fkvlIoGgnj #p2 #topprog",
+            "BeginOffset": 68,
+            "EndOffset": 104
+        }
+    ]
+}

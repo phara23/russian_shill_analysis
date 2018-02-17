@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9367608428001404,
+            "Type": "ORGANIZATION",
+            "Text": "RNC",
+            "BeginOffset": 41,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.8965787887573242,
+            "Type": "QUANTITY",
+            "Text": "third day",
+            "BeginOffset": 47,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.8477619886398315,
+            "Type": "OTHER",
+            "Text": "https://t.co/OE564mEliK",
+            "BeginOffset": 57,
+            "EndOffset": 80
+        }
+    ]
+}

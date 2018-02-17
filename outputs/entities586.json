@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8040013909339905,
+            "Type": "PERSON",
+            "Text": "@googergieger",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9953573346138,
+            "Type": "PERSON",
+            "Text": "Ivanka Trump",
+            "BeginOffset": 68,
+            "EndOffset": 80
+        }
+    ]
+}

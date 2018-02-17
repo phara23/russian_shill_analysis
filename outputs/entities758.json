@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8516079783439636,
+            "Type": "PERSON",
+            "Text": "@ConstanceQueen8",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.692498505115509,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 25,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.7445287704467773,
+            "Type": "QUANTITY",
+            "Text": "Nine Words",
+            "BeginOffset": 43,
+            "EndOffset": 53
+        }
+    ]
+}

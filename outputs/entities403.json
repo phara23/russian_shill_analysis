@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9711025953292847,
+            "Type": "PERSON",
+            "Text": "@jc7797231",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.4242610037326813,
+            "Type": "PERSON",
+            "Text": "TRUMP",
+            "BeginOffset": 73,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.9999277591705322,
+            "Type": "OTHER",
+            "Text": "https://t.co/L2SW0R5HEG",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        }
+    ]
+}

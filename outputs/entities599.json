@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8477569818496704,
+            "Type": "PERSON",
+            "Text": "@HOT1071",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.5780887603759766,
+            "Type": "PERSON",
+            "Text": "@ https://t.co/f4rjygkPda",
+            "BeginOffset": 27,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.57506263256073,
+            "Type": "ORGANIZATION",
+            "Text": "#HOT1071",
+            "BeginOffset": 53,
+            "EndOffset": 61
+        }
+    ]
+}

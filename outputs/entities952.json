@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8841322660446167,
+            "Type": "PERSON",
+            "Text": "@raider_truth",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9176199436187744,
+            "Type": "LOCATION",
+            "Text": "NYC",
+            "BeginOffset": 54,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.5057384371757507,
+            "Type": "LOCATION",
+            "Text": "#Chelsea",
+            "BeginOffset": 72,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.9120720028877258,
+            "Type": "LOCATION",
+            "Text": "#NYC",
+            "BeginOffset": 81,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.9163745641708374,
+            "Type": "LOCATION",
+            "Text": "#Manhattan",
+            "BeginOffset": 86,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.36807355284690857,
+            "Type": "ORGANIZATION",
+            "Text": "#ISIS",
+            "BeginOffset": 97,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.9998132586479187,
+            "Type": "OTHER",
+            "Text": "https://t.co/D0OvisDALn",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.768689751625061,
+            "Type": "PERSON",
+            "Text": "@thedailybeast",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9996719360351562,
+            "Type": "PERSON",
+            "Text": "Dana Carvey",
+            "BeginOffset": 23,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.8296797871589661,
+            "Type": "OTHER",
+            "Text": "https://t.co/6ryDsvmvim",
+            "BeginOffset": 56,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.9999376535415649,
+            "Type": "OTHER",
+            "Text": "https://t.co/nriCLFGOJT",
+            "BeginOffset": 80,
+            "EndOffset": 103
+        }
+    ]
+}

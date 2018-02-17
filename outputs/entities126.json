@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8599104881286621,
+            "Type": "PERSON",
+            "Text": "@cfresq",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9706135392189026,
+            "Type": "PERSON",
+            "Text": "Ivanka",
+            "BeginOffset": 12,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9858652353286743,
+            "Type": "PERSON",
+            "Text": "Tiffany",
+            "BeginOffset": 22,
+            "EndOffset": 29
+        }
+    ]
+}

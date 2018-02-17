@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8428835272789001,
+            "Type": "ORGANIZATION",
+            "Text": "FC Barcelonas",
+            "BeginOffset": 0,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.7316240072250366,
+            "Type": "ORGANIZATION",
+            "Text": "La Masia",
+            "BeginOffset": 29,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.999671459197998,
+            "Type": "OTHER",
+            "Text": "https://t.co/eo1qIvLjgS",
+            "BeginOffset": 83,
+            "EndOffset": 106
+        }
+    ]
+}

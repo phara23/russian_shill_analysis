@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5692141652107239,
+            "Type": "PERSON",
+            "Text": "@ubeaccountable",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9370071291923523,
+            "Type": "PERSON",
+            "Text": "Kaine",
+            "BeginOffset": 21,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.7301197648048401,
+            "Type": "OTHER",
+            "Text": "Spanish",
+            "BeginOffset": 74,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.9999914169311523,
+            "Type": "OTHER",
+            "Text": "https://t.co/6RvbjnHe0X",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7446245551109314,
+            "Type": "PERSON",
+            "Text": "@officiaIfuture",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.513445258140564,
+            "Type": "PERSON",
+            "Text": "weeknd",
+            "BeginOffset": 30,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.999818742275238,
+            "Type": "OTHER",
+            "Text": "https://t.co/pOflwsTQEe",
+            "BeginOffset": 37,
+            "EndOffset": 60
+        }
+    ]
+}

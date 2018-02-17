@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6695564985275269,
+            "Type": "PERSON",
+            "Text": "@mashable",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9027869701385498,
+            "Type": "ORGANIZATION",
+            "Text": "Apple",
+            "BeginOffset": 14,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.3907010555267334,
+            "Type": "ORGANIZATION",
+            "Text": "GarageBand",
+            "BeginOffset": 64,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9999676942825317,
+            "Type": "OTHER",
+            "Text": "http://t.co/jGzHGkB9XA",
+            "BeginOffset": 101,
+            "EndOffset": 123
+        }
+    ]
+}

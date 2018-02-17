@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9896236062049866,
+            "Type": "LOCATION",
+            "Text": "Dallas",
+            "BeginOffset": 28,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.966726541519165,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 42,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9245200753211975,
+            "Type": "ORGANIZATION",
+            "Text": "Democrat",
+            "BeginOffset": 69,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9954439401626587,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 96,
+            "EndOffset": 111
+        },
+        {
+            "Score": 0.999943733215332,
+            "Type": "OTHER",
+            "Text": "https://t.co/BKk59DvRkH",
+            "BeginOffset": 112,
+            "EndOffset": 135
+        }
+    ]
+}

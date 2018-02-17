@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9339521527290344,
+            "Type": "PERSON",
+            "Text": "@danrolle",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.7745601534843445,
+            "Type": "PERSON",
+            "Text": "@gofundme",
+            "BeginOffset": 30,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9994953870773315,
+            "Type": "OTHER",
+            "Text": "https://t.co/v4FiRuoEsh",
+            "BeginOffset": 60,
+            "EndOffset": 83
+        }
+    ]
+}

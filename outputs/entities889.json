@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.855923593044281,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9923574924468994,
+            "Type": "DATE",
+            "Text": "12/31/16",
+            "BeginOffset": 47,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.7740607261657715,
+            "Type": "QUANTITY",
+            "Text": "FIRST INTERNATIONAL",
+            "BeginOffset": 62,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.9943037033081055,
+            "Type": "DATE",
+            "Text": "2017",
+            "BeginOffset": 116,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.9960814118385315,
+            "Type": "OTHER",
+            "Text": "https://t.co/IrJx4",
+            "BeginOffset": 121,
+            "EndOffset": 139
+        }
+    ]
+}

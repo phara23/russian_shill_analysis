@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9137511253356934,
+            "Type": "PERSON",
+            "Text": "@DannyLSU",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.6043074131011963,
+            "Type": "QUANTITY",
+            "Text": "16:3",
+            "BeginOffset": 90,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.9998773336410522,
+            "Type": "OTHER",
+            "Text": "https://t.co/IdfoQeWNK6",
+            "BeginOffset": 99,
+            "EndOffset": 122
+        }
+    ]
+}

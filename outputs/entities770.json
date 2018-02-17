@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9914941191673279,
+            "Type": "PERSON",
+            "Text": "@FreakyP88",
+            "BeginOffset": 0,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.91037917137146,
+            "Type": "PERSON",
+            "Text": "@CantEscapeTruth",
+            "BeginOffset": 11,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9351423978805542,
+            "Type": "PERSON",
+            "Text": "@returnofthejed",
+            "BeginOffset": 28,
+            "EndOffset": 43
+        }
+    ]
+}

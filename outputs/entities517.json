@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8579288125038147,
+            "Type": "PERSON",
+            "Text": "@AllenWestRepub",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9912551641464233,
+            "Type": "ORGANIZATION",
+            "Text": "Facebook",
+            "BeginOffset": 44,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9999271631240845,
+            "Type": "OTHER",
+            "Text": "https://t.co/sns9fvUZpC",
+            "BeginOffset": 53,
+            "EndOffset": 76
+        }
+    ]
+}

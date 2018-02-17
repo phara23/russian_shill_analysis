@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6046862602233887,
+            "Type": "ORGANIZATION",
+            "Text": "Islam",
+            "BeginOffset": 29,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9383282661437988,
+            "Type": "ORGANIZATION",
+            "Text": "Muslims",
+            "BeginOffset": 35,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.8890305757522583,
+            "Type": "LOCATION",
+            "Text": "Germany",
+            "BeginOffset": 66,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.9961726665496826,
+            "Type": "PERSON",
+            "Text": "Angela Merkel",
+            "BeginOffset": 102,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.9999030828475952,
+            "Type": "OTHER",
+            "Text": "https://t.co/neOSMrmyvz",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

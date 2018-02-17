@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9375168085098267,
+            "Type": "PERSON",
+            "Text": "@jaketapper",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9999508857727051,
+            "Type": "OTHER",
+            "Text": "https://t.co/C9PNHL6VLF",
+            "BeginOffset": 77,
+            "EndOffset": 100
+        }
+    ]
+}

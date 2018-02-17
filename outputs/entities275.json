@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8312368988990784,
+            "Type": "PERSON",
+            "Text": "@_HankRearden",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9987084865570068,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 23,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9975019097328186,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 56,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.8060716390609741,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 73,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.7505750060081482,
+            "Type": "PERSON",
+            "Text": "@becasilverstein",
+            "BeginOffset": 93,
+            "EndOffset": 109
+        },
+        {
+            "Score": 0.9627371430397034,
+            "Type": "PERSON",
+            "Text": "@DriverBrian",
+            "BeginOffset": 110,
+            "EndOffset": 122
+        },
+        {
+            "Score": 0.9742003679275513,
+            "Type": "PERSON",
+            "Text": "@GaryByrneAuthor",
+            "BeginOffset": 123,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8603243827819824,
+            "Type": "PERSON",
+            "Text": "@guardian",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9998925924301147,
+            "Type": "OTHER",
+            "Text": "http://t.co/4Yw0rOmari",
+            "BeginOffset": 67,
+            "EndOffset": 89
+        }
+    ]
+}

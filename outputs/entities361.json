@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.975515604019165,
+            "Type": "PERSON",
+            "Text": "@Laurie89764267",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8874807953834534,
+            "Type": "PERSON",
+            "Text": "@Craftmastah",
+            "BeginOffset": 20,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9901028871536255,
+            "Type": "PERSON",
+            "Text": "@bigbare44",
+            "BeginOffset": 33,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.8271028995513916,
+            "Type": "LOCATION",
+            "Text": "Melbourne, Fl",
+            "BeginOffset": 67,
+            "EndOffset": 80
+        }
+    ]
+}

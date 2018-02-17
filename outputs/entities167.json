@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7059634923934937,
+            "Type": "PERSON",
+            "Text": "@SkuzzNews",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9986482262611389,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 39,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.5015556216239929,
+            "Type": "PERSON",
+            "Text": "#ClintonHate",
+            "BeginOffset": 57,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.949264407157898,
+            "Type": "OTHER",
+            "Text": "https://t.co/ARjWx",
+            "BeginOffset": 121,
+            "EndOffset": 139
+        }
+    ]
+}

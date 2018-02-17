@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8165353536605835,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9991655349731445,
+            "Type": "DATE",
+            "Text": "October 6, 1923",
+            "BeginOffset": 13,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9979270696640015,
+            "Type": "PERSON",
+            "Text": "Jack Trice",
+            "BeginOffset": 30,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9230681657791138,
+            "Type": "OTHER",
+            "Text": "https://t.co/76IDqcLpQN",
+            "BeginOffset": 84,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.7911476492881775,
+            "Type": "ORGANIZATION",
+            "Text": "@4BlackThen",
+            "BeginOffset": 108,
+            "EndOffset": 119
+        },
+        {
+            "Score": 0.8791830539703369,
+            "Type": "OTHER",
+            "Text": "https://t.co/krAlcT",
+            "BeginOffset": 120,
+            "EndOffset": 139
+        }
+    ]
+}

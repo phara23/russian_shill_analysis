@@ -1,0 +1,28 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9973431825637817,
+            "Text": "90 minutes",
+            "BeginOffset": 0,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9988276958465576,
+            "Text": "fire",
+            "BeginOffset": 14,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7533572316169739,
+            "Text": "Trump",
+            "BeginOffset": 20,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.8437392115592957,
+            "Text": "Clinton trade charges",
+            "BeginOffset": 27,
+            "EndOffset": 48
+        }
+    ]
+}

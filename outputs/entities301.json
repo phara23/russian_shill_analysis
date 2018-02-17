@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.822822093963623,
+            "Type": "PERSON",
+            "Text": "@risetoflyy",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9153990745544434,
+            "Type": "PERSON",
+            "Text": "@NancyPelosi",
+            "BeginOffset": 17,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9444447159767151,
+            "Type": "PERSON",
+            "Text": "Pelosi",
+            "BeginOffset": 78,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9336405396461487,
+            "Type": "OTHER",
+            "Text": "Russian",
+            "BeginOffset": 98,
+            "EndOffset": 105
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9161248207092285,
+            "Type": "PERSON",
+            "Text": "@stagemama1974",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9070242643356323,
+            "Type": "PERSON",
+            "Text": "@FreeDavidKing",
+            "BeginOffset": 19,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9601162672042847,
+            "Type": "PERSON",
+            "Text": "@thewizardofaaah",
+            "BeginOffset": 34,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9380300641059875,
+            "Type": "PERSON",
+            "Text": "@shelliecorreia",
+            "BeginOffset": 51,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9441918134689331,
+            "Type": "PERSON",
+            "Text": "@16_our_movement",
+            "BeginOffset": 67,
+            "EndOffset": 83
+        }
+    ]
+}

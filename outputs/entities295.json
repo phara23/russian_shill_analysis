@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9343841671943665,
+            "Type": "PERSON",
+            "Text": "@tonygoldwyn",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9813054203987122,
+            "Type": "PERSON",
+            "Text": "Donald",
+            "BeginOffset": 17,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.995275616645813,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 126,
+            "EndOffset": 131
+        }
+    ]
+}

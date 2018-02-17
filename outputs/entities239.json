@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8086966872215271,
+            "Type": "PERSON",
+            "Text": "@mcspocky",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.5293818712234497,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 14,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.6755737066268921,
+            "Type": "PERSON",
+            "Text": "@Bipartisan206",
+            "BeginOffset": 17,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.4213334023952484,
+            "Type": "LOCATION",
+            "Text": "#Seattle",
+            "BeginOffset": 59,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9685308933258057,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 81,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.8258273601531982,
+            "Type": "OTHER",
+            "Text": "http://…",
+            "BeginOffset": 136,
+            "EndOffset": 144
+        }
+    ]
+}

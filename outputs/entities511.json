@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9183964729309082,
+            "Type": "PERSON",
+            "Text": "@stephanisbest",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9837847948074341,
+            "Type": "PERSON",
+            "Text": "Issa",
+            "BeginOffset": 19,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9989770650863647,
+            "Type": "PERSON",
+            "Text": "Molly",
+            "BeginOffset": 28,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9592407941818237,
+            "Type": "DATE",
+            "Text": "tonight",
+            "BeginOffset": 55,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.548496663570404,
+            "Type": "ORGANIZATION",
+            "Text": "#InsecureHBO",
+            "BeginOffset": 63,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.9999450445175171,
+            "Type": "OTHER",
+            "Text": "https://t.co/LBnKCV1B2K",
+            "BeginOffset": 76,
+            "EndOffset": 99
+        }
+    ]
+}

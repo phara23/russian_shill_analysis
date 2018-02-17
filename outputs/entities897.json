@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8397214412689209,
+            "Type": "PERSON",
+            "Text": "@PrayHealourland",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.4820076823234558,
+            "Type": "PERSON",
+            "Text": "DeVos",
+            "BeginOffset": 72,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9998636245727539,
+            "Type": "OTHER",
+            "Text": "https://t.co/kCXulpWisT",
+            "BeginOffset": 115,
+            "EndOffset": 138
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7874552607536316,
+            "Type": "PERSON",
+            "Text": "@deray",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9437583088874817,
+            "Type": "ORGANIZATION",
+            "Text": "Facebook",
+            "BeginOffset": 11,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.7439902424812317,
+            "Type": "ORGANIZATION",
+            "Text": "IG",
+            "BeginOffset": 62,
+            "EndOffset": 64
+        }
+    ]
+}

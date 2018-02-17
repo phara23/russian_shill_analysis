@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8393025994300842,
+            "Type": "PERSON",
+            "Text": "@vivelafra",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9608475565910339,
+            "Type": "PERSON",
+            "Text": "Huma Abedin",
+            "BeginOffset": 41,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.6420866250991821,
+            "Type": "ORGANIZATION",
+            "Text": "AIPAC",
+            "BeginOffset": 98,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.9649936556816101,
+            "Type": "OTHER",
+            "Text": "https://t.co/g2vMFDV",
+            "BeginOffset": 122,
+            "EndOffset": 142
+        }
+    ]
+}

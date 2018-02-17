@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8721418380737305,
+            "Type": "PERSON",
+            "Text": "@SenatorRonbo",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9970679879188538,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 34,
+            "EndOffset": 41
+        }
+    ]
+}

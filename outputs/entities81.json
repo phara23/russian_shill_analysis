@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9468964338302612,
+            "Type": "PERSON",
+            "Text": "@steph93065",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.999384880065918,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 16,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9982006549835205,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 33,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9048316478729248,
+            "Type": "EVENT",
+            "Text": "Veterans Press Conference",
+            "BeginOffset": 48,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.8026774525642395,
+            "Type": "ORGANIZATION",
+            "Text": "Breitbart",
+            "BeginOffset": 90,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.99996018409729,
+            "Type": "OTHER",
+            "Text": "https://t.co/CVvBOrTJBX",
+            "BeginOffset": 100,
+            "EndOffset": 123
+        }
+    ]
+}

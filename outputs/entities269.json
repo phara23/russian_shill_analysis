@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9139038920402527,
+            "Type": "PERSON",
+            "Text": "@WNeiljohnson",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.5834133625030518,
+            "Type": "ORGANIZATION",
+            "Text": "AMERICA",
+            "BeginOffset": 18,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.6565361618995667,
+            "Type": "QUANTITY",
+            "Text": "FIRST CRIME",
+            "BeginOffset": 28,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.96075439453125,
+            "Type": "OTHER",
+            "Text": "http://t.co/t5wKilFsrg",
+            "BeginOffset": 47,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.8841696977615356,
+            "Type": "ORGANIZATION",
+            "Text": "@worldnetdaily",
+            "BeginOffset": 74,
+            "EndOffset": 88
+        }
+    ]
+}

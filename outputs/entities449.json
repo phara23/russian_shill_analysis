@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8986640572547913,
+            "Type": "PERSON",
+            "Text": "@Julbot1231",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9590291380882263,
+            "Type": "PERSON",
+            "Text": "Hannibal Lecter",
+            "BeginOffset": 16,
+            "EndOffset": 31
+        }
+    ]
+}

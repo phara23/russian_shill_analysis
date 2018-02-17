@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.708121657371521,
+            "Type": "PERSON",
+            "Text": "@bluelyon",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8073664307594299,
+            "Type": "PERSON",
+            "Text": "@frodofied",
+            "BeginOffset": 14,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9570453763008118,
+            "Type": "PERSON",
+            "Text": "Shepard Smith",
+            "BeginOffset": 33,
+            "EndOffset": 46
+        }
+    ]
+}

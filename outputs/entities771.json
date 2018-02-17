@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8496366143226624,
+            "Type": "PERSON",
+            "Text": "@trevortimm",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.991061270236969,
+            "Type": "ORGANIZATION",
+            "Text": "CIA",
+            "BeginOffset": 25,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9970636963844299,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 76,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.6586015224456787,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 129,
+            "EndOffset": 138
+        }
+    ]
+}

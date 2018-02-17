@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.861735999584198,
+            "Type": "PERSON",
+            "Text": "@rainmakerOTA",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.5469483137130737,
+            "Type": "LOCATION",
+            "Text": "China",
+            "BeginOffset": 18,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.7592200636863708,
+            "Type": "ORGANIZATION",
+            "Text": "@catoletters",
+            "BeginOffset": 73,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.7964998483657837,
+            "Type": "PERSON",
+            "Text": "@DrMarkThornton",
+            "BeginOffset": 86,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.9090025424957275,
+            "Type": "PERSON",
+            "Text": "@TraderMerlin",
+            "BeginOffset": 102,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.7797781229019165,
+            "Type": "PERSON",
+            "Text": "@TradingAcademy",
+            "BeginOffset": 116,
+            "EndOffset": 131
+        }
+    ]
+}

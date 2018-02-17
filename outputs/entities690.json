@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8251842856407166,
+            "Type": "PERSON",
+            "Text": "@ysbnews",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.96988445520401,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 13,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.9906705617904663,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 30,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9997303485870361,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 81,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.9443851709365845,
+            "Type": "OTHER",
+            "Text": "https://t.co",
+            "BeginOffset": 127,
+            "EndOffset": 139
+        }
+    ]
+}

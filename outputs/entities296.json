@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8327868580818176,
+            "Type": "PERSON",
+            "Text": "@THETXEMBASSY",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9803086519241333,
+            "Type": "OTHER",
+            "Text": "https://t.co/h0dLQ9VEhE",
+            "BeginOffset": 54,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.7697513103485107,
+            "Type": "ORGANIZATION",
+            "Text": "@NRA",
+            "BeginOffset": 123,
+            "EndOffset": 127
+        }
+    ]
+}

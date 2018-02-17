@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5039776563644409,
+            "Type": "ORGANIZATION",
+            "Text": "@100",
+            "BeginOffset": 3,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.9964650869369507,
+            "Type": "PERSON",
+            "Text": "John Kerry",
+            "BeginOffset": 59,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.6905222535133362,
+            "Type": "LOCATION",
+            "Text": "Israel",
+            "BeginOffset": 75,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.99991774559021,
+            "Type": "OTHER",
+            "Text": "https://t.co/NkdKaQ9yYu",
+            "BeginOffset": 99,
+            "EndOffset": 122
+        }
+    ]
+}

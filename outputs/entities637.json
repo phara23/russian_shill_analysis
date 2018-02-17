@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7278357148170471,
+            "Type": "PERSON",
+            "Text": "@ProgressOutlook",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.959392786026001,
+            "Type": "PERSON",
+            "Text": "Donald",
+            "BeginOffset": 21,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9386395812034607,
+            "Type": "ORGANIZATION",
+            "Text": "Nazis",
+            "BeginOffset": 113,
+            "EndOffset": 118
+        },
+        {
+            "Score": 0.30635955929756165,
+            "Type": "OTHER",
+            "Text": "Jews",
+            "BeginOffset": 131,
+            "EndOffset": 135
+        },
+        {
+            "Score": 0.4004705846309662,
+            "Type": "QUANTITY",
+            "Text": "80",
+            "BeginOffset": 136,
+            "EndOffset": 138
+        }
+    ]
+}

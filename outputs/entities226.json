@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8170449733734131,
+            "Type": "PERSON",
+            "Text": "@PatVPeters",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9948155283927917,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 22,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9989657998085022,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 29,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.999975323677063,
+            "Type": "OTHER",
+            "Text": "https://t.co/64sysa2R0P",
+            "BeginOffset": 110,
+            "EndOffset": 133
+        }
+    ]
+}

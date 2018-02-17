@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8131555914878845,
+            "Type": "PERSON",
+            "Text": "@bundesrat",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.537676215171814,
+            "Type": "ORGANIZATION",
+            "Text": "EU",
+            "BeginOffset": 66,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.7713191509246826,
+            "Type": "OTHER",
+            "Text": "https://t.co/OJMkpal1b7",
+            "BeginOffset": 112,
+            "EndOffset": 135
+        }
+    ]
+}

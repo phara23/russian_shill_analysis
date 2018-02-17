@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7789755463600159,
+            "Type": "PERSON",
+            "Text": "@TheRealTeeWhy",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.705263614654541,
+            "Type": "QUANTITY",
+            "Text": "#2k17",
+            "BeginOffset": 68,
+            "EndOffset": 73
+        }
+    ]
+}

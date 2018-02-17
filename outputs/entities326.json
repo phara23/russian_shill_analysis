@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7592909336090088,
+            "Type": "PERSON",
+            "Text": "@TexasTrell",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9510632753372192,
+            "Type": "PERSON",
+            "Text": "@DragonflyJonez",
+            "BeginOffset": 16,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9502195715904236,
+            "Type": "PERSON",
+            "Text": "@Blunt_Doctor_RX",
+            "BeginOffset": 32,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9999880790710449,
+            "Type": "OTHER",
+            "Text": "https://t.co/Rlog9GXS0b",
+            "BeginOffset": 49,
+            "EndOffset": 72
+        }
+    ]
+}

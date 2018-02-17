@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6884575486183167,
+            "Type": "PERSON",
+            "Text": "@cgpb",
+            "BeginOffset": 3,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.8207373023033142,
+            "Type": "PERSON",
+            "Text": "@BeachcatTt",
+            "BeginOffset": 27,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9317498207092285,
+            "Type": "PERSON",
+            "Text": "@ledrew",
+            "BeginOffset": 39,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9923741221427917,
+            "Type": "PERSON",
+            "Text": "@lizfebruary9",
+            "BeginOffset": 47,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9956880807876587,
+            "Type": "PERSON",
+            "Text": "@cassetra09",
+            "BeginOffset": 61,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.9300291538238525,
+            "Type": "PERSON",
+            "Text": "@AngelineForGOD",
+            "BeginOffset": 73,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9934072494506836,
+            "Type": "PERSON",
+            "Text": "@cegore65",
+            "BeginOffset": 89,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.9993081092834473,
+            "Type": "OTHER",
+            "Text": "https://t.co/sxvROskuow",
+            "BeginOffset": 99,
+            "EndOffset": 122
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7502513527870178,
+            "Type": "PERSON",
+            "Text": "@FamousDC",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9732390642166138,
+            "Type": "PERSON",
+            "Text": "O'Malley",
+            "BeginOffset": 22,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9645859003067017,
+            "Type": "PERSON",
+            "Text": "Huckabee",
+            "BeginOffset": 35,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.7549512386322021,
+            "Type": "EVENT",
+            "Text": "#IAcaucus2016",
+            "BeginOffset": 127,
+            "EndOffset": 140
+        }
+    ]
+}

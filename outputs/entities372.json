@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9283368587493896,
+            "Type": "PERSON",
+            "Text": "@debraslack",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9717530608177185,
+            "Type": "PERSON",
+            "Text": "Juanita",
+            "BeginOffset": 16,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.4068397283554077,
+            "Type": "QUANTITY",
+            "Text": "2",
+            "BeginOffset": 81,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.7136687636375427,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 97,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.8509718775749207,
+            "Type": "PERSON",
+            "Text": "@billclinton",
+            "BeginOffset": 113,
+            "EndOffset": 125
+        }
+    ]
+}

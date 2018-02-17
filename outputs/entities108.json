@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9976073503494263,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 10,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9647917747497559,
+            "Type": "LOCATION",
+            "Text": "Haverford, PA",
+            "BeginOffset": 66,
+            "EndOffset": 79
+        }
+    ]
+}

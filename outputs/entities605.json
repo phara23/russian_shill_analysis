@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9589176177978516,
+            "Type": "PERSON",
+            "Text": "@Jeffrey_Crisp",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6005690693855286,
+            "Type": "OTHER",
+            "Text": "South Carolinians",
+            "BeginOffset": 50,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9995225667953491,
+            "Type": "OTHER",
+            "Text": "https://t.co/MWXrRfvnVh",
+            "BeginOffset": 104,
+            "EndOffset": 127
+        }
+    ]
+}

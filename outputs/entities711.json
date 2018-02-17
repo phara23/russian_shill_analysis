@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8700898289680481,
+            "Type": "PERSON",
+            "Text": "@GrrrGraphics",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9465100765228271,
+            "Type": "ORGANIZATION",
+            "Text": "@CNN",
+            "BeginOffset": 64,
+            "EndOffset": 68
+        }
+    ]
+}

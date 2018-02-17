@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8353560566902161,
+            "Type": "PERSON",
+            "Text": "@Daggy1",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9696304798126221,
+            "Type": "PERSON",
+            "Text": "Pelosi",
+            "BeginOffset": 63,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9385644793510437,
+            "Type": "PERSON",
+            "Text": "Kislyak",
+            "BeginOffset": 100,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.9999798536300659,
+            "Type": "OTHER",
+            "Text": "https://t.co/mSfP73hman",
+            "BeginOffset": 108,
+            "EndOffset": 131
+        }
+    ]
+}

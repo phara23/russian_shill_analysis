@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7726596593856812,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9171479344367981,
+            "Type": "QUANTITY",
+            "Text": "7 Things",
+            "BeginOffset": 13,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9607914686203003,
+            "Type": "PERSON",
+            "Text": "Gucci Mane",
+            "BeginOffset": 59,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9423911571502686,
+            "Type": "OTHER",
+            "Text": "https://t.co/X4PsrcZKpI",
+            "BeginOffset": 70,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.8603604435920715,
+            "Type": "PERSON",
+            "Text": "@YourBlackWorld",
+            "BeginOffset": 94,
+            "EndOffset": 109
+        },
+        {
+            "Score": 0.9996114373207092,
+            "Type": "OTHER",
+            "Text": "https://t.co/tEsjWckllK",
+            "BeginOffset": 110,
+            "EndOffset": 133
+        }
+    ]
+}

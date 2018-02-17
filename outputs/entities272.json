@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9009636044502258,
+            "Type": "PERSON",
+            "Text": "@Ulster_Crusader",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9161008596420288,
+            "Type": "ORGANIZATION",
+            "Text": "Muslims",
+            "BeginOffset": 38,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9084477424621582,
+            "Type": "LOCATION",
+            "Text": "Rochdale",
+            "BeginOffset": 49,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9132871031761169,
+            "Type": "LOCATION",
+            "Text": "Britain",
+            "BeginOffset": 101,
+            "EndOffset": 108
+        }
+    ]
+}

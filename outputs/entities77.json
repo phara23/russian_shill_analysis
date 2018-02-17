@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8822534680366516,
+            "Type": "PERSON",
+            "Text": "@DcStarlord",
+            "BeginOffset": 0,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9929244518280029,
+            "Type": "QUANTITY",
+            "Text": "5 minutes",
+            "BeginOffset": 31,
+            "EndOffset": 40
+        }
+    ]
+}

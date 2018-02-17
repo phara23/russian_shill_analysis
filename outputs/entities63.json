@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8582440614700317,
+            "Type": "PERSON",
+            "Text": "@Gumball55668882",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.6774568557739258,
+            "Type": "ORGANIZATION",
+            "Text": "DEMOCRATS",
+            "BeginOffset": 21,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9474020600318909,
+            "Type": "PERSON",
+            "Text": "BILL CLINTON",
+            "BeginOffset": 40,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9745510220527649,
+            "Type": "PERSON",
+            "Text": "HILLARY",
+            "BeginOffset": 104,
+            "EndOffset": 111
+        }
+    ]
+}

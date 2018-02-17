@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9433981776237488,
+            "Type": "PERSON",
+            "Text": "@BenjaminEnfield",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9926442503929138,
+            "Type": "PERSON",
+            "Text": "J. Cole",
+            "BeginOffset": 21,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9997616410255432,
+            "Type": "OTHER",
+            "Text": "https://t.co/OjTuGWukwW",
+            "BeginOffset": 67,
+            "EndOffset": 90
+        }
+    ]
+}

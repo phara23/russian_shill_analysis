@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8045441508293152,
+            "Type": "PERSON",
+            "Text": "@DRUDGE_REPORT",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9933854937553406,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 19,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.7513732314109802,
+            "Type": "OTHER",
+            "Text": "Mexican",
+            "BeginOffset": 26,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.99998939037323,
+            "Type": "OTHER",
+            "Text": "https://t.co/5OCr8QdA7Z",
+            "BeginOffset": 58,
+            "EndOffset": 81
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9335740208625793,
+            "Type": "PERSON",
+            "Text": "@azmike2001",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9430030584335327,
+            "Type": "PERSON",
+            "Text": "Cruz",
+            "BeginOffset": 16,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.9838739633560181,
+            "Type": "ORGANIZATION",
+            "Text": "CNN",
+            "BeginOffset": 35,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.8241696357727051,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 60,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9998629093170166,
+            "Type": "OTHER",
+            "Text": "https://t.co/Znlc0tQwJO",
+            "BeginOffset": 89,
+            "EndOffset": 112
+        }
+    ]
+}

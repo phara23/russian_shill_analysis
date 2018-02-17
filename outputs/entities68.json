@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9089872241020203,
+            "Type": "PERSON",
+            "Text": "@Veteran4Trump",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9227445125579834,
+            "Type": "ORGANIZATION",
+            "Text": "@CNN",
+            "BeginOffset": 51,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.960562527179718,
+            "Type": "ORGANIZATION",
+            "Text": "@MSNBC",
+            "BeginOffset": 59,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9902536273002625,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 96,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.9822616577148438,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 134,
+            "EndOffset": 139
+        }
+    ]
+}

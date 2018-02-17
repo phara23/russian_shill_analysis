@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9280083775520325,
+            "Type": "PERSON",
+            "Text": "@angeIiczjm",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.6438663601875305,
+            "Type": "DATE",
+            "Text": "#2016",
+            "BeginOffset": 31,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.8917666077613831,
+            "Type": "QUANTITY",
+            "Text": "4Words",
+            "BeginOffset": 38,
+            "EndOffset": 44
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.872218906879425,
+            "Type": "PERSON",
+            "Text": "@DeanteVH",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9965803027153015,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 14,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9892450571060181,
+            "Type": "ORGANIZATION",
+            "Text": "Twitter",
+            "BeginOffset": 38,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9999597072601318,
+            "Type": "OTHER",
+            "Text": "https://t.co/5xZPUykUyJ",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        }
+    ]
+}

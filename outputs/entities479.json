@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9768413305282593,
+            "Type": "PERSON",
+            "Text": "Herman Cain",
+            "BeginOffset": 0,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9987030029296875,
+            "Type": "PERSON",
+            "Text": "Barack Obama",
+            "BeginOffset": 13,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.968244194984436,
+            "Type": "LOCATION",
+            "Text": "USA",
+            "BeginOffset": 110,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.9999226331710815,
+            "Type": "OTHER",
+            "Text": "https://t.co/xpbFudua0T",
+            "BeginOffset": 115,
+            "EndOffset": 138
+        }
+    ]
+}

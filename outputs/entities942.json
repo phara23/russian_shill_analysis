@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7906367778778076,
+            "Type": "PERSON",
+            "Text": "@TheOnion",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.7756519317626953,
+            "Type": "QUANTITY",
+            "Text": "30",
+            "BeginOffset": 61,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.8707746863365173,
+            "Type": "OTHER",
+            "Text": "https://t.co/ubEGWy2cPe",
+            "BeginOffset": 104,
+            "EndOffset": 127
+        },
+        {
+            "Score": 0.9439404606819153,
+            "Type": "OTHER",
+            "Text": "https://t.c",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

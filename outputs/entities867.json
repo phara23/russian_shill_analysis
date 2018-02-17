@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8828684091567993,
+            "Type": "PERSON",
+            "Text": "@buzzardbob",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9999756813049316,
+            "Type": "OTHER",
+            "Text": "https://t.co/s0LWI5CRB4",
+            "BeginOffset": 16,
+            "EndOffset": 39
+        }
+    ]
+}

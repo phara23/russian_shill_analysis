@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5659313201904297,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8106014728546143,
+            "Type": "PERSON",
+            "Text": "@Trump_World",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9386588931083679,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 17,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9501487016677856,
+            "Type": "PERSON",
+            "Text": "TRUMP",
+            "BeginOffset": 72,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9471688866615295,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 127,
+            "EndOffset": 131
+        }
+    ]
+}

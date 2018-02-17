@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9931468367576599,
+            "Type": "PERSON",
+            "Text": "Tom",
+            "BeginOffset": 0,
+            "EndOffset": 3
+        },
+        {
+            "Score": 0.9899591207504272,
+            "Type": "PERSON",
+            "Text": "Jerry Springer",
+            "BeginOffset": 8,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.5824907422065735,
+            "Type": "ORGANIZATION",
+            "Text": "#CatTV",
+            "BeginOffset": 23,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.7641016840934753,
+            "Type": "PERSON",
+            "Text": "@midnight",
+            "BeginOffset": 30,
+            "EndOffset": 39
+        }
+    ]
+}

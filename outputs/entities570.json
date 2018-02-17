@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9688435792922974,
+            "Type": "PERSON",
+            "Text": "@DonaldJTrumpJr",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8836756348609924,
+            "Type": "PERSON",
+            "Text": "Bernie",
+            "BeginOffset": 20,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9770752191543579,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 37,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9776471853256226,
+            "Type": "PERSON",
+            "Text": "Sanders",
+            "BeginOffset": 54,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9698875546455383,
+            "Type": "OTHER",
+            "Text": "https://t.co/dOQpqVruV",
+            "BeginOffset": 117,
+            "EndOffset": 139
+        }
+    ]
+}

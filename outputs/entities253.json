@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.739337146282196,
+            "Type": "PERSON",
+            "Text": "@tpartynews",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9247878193855286,
+            "Type": "QUANTITY",
+            "Text": "45 more days",
+            "BeginOffset": 16,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9944624304771423,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 67,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.9999001026153564,
+            "Type": "OTHER",
+            "Text": "https://t.co/AqOmUZU3uz",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        }
+    ]
+}

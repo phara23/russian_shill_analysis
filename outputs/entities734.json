@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9113996624946594,
+            "Type": "COMMERCIAL_ITEM",
+            "Text": "Galaxy 5",
+            "BeginOffset": 24,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.8721640706062317,
+            "Type": "ORGANIZATION",
+            "Text": "New York City FC",
+            "BeginOffset": 34,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.8378282785415649,
+            "Type": "QUANTITY",
+            "Text": "1",
+            "BeginOffset": 51,
+            "EndOffset": 52
+        }
+    ]
+}

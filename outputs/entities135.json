@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8892375826835632,
+            "Type": "PERSON",
+            "Text": "@BitcoinzMan",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8864494562149048,
+            "Type": "PERSON",
+            "Text": "bruce fenton",
+            "BeginOffset": 46,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.7264536023139954,
+            "Type": "OTHER",
+            "Text": "http://t.co/y29PcMZ16U",
+            "BeginOffset": 109,
+            "EndOffset": 131
+        },
+        {
+            "Score": 0.9585785865783691,
+            "Type": "OTHER",
+            "Text": "http://…",
+            "BeginOffset": 132,
+            "EndOffset": 140
+        }
+    ]
+}

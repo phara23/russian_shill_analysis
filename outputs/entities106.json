@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9324288964271545,
+            "Type": "PERSON",
+            "Text": "@MatthiasMeisner",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8523364663124084,
+            "Type": "PERSON",
+            "Text": "Wie",
+            "BeginOffset": 21,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.43611687421798706,
+            "Type": "QUANTITY",
+            "Text": "20",
+            "BeginOffset": 92,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.9995399713516235,
+            "Type": "OTHER",
+            "Text": "https://t.co/64xOeAIqs2",
+            "BeginOffset": 95,
+            "EndOffset": 118
+        }
+    ]
+}

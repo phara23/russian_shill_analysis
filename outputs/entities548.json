@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8166425824165344,
+            "Type": "PERSON",
+            "Text": "@PinkCottonMom",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6013171672821045,
+            "Type": "LOCATION",
+            "Text": "AMERICA",
+            "BeginOffset": 78,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.9742559790611267,
+            "Type": "OTHER",
+            "Text": "https://t.co/bnVSw2TA4n",
+            "BeginOffset": 86,
+            "EndOffset": 109
+        }
+    ]
+}

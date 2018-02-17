@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9113288521766663,
+            "Type": "PERSON",
+            "Text": "@globalnews312",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.916506826877594,
+            "Type": "PERSON",
+            "Text": "TRUMP",
+            "BeginOffset": 29,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.7066312432289124,
+            "Type": "PERSON",
+            "Text": "PENCE",
+            "BeginOffset": 39,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.8859252333641052,
+            "Type": "OTHER",
+            "Text": "https://t.co/EZeoISHJQu",
+            "BeginOffset": 71,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.9999364614486694,
+            "Type": "OTHER",
+            "Text": "https://t.co/bKKwDNV8fT",
+            "BeginOffset": 95,
+            "EndOffset": 118
+        }
+    ]
+}

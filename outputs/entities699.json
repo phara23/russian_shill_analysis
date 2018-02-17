@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9972348809242249,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9973962903022766,
+            "Type": "QUANTITY",
+            "Text": "20 mins",
+            "BeginOffset": 31,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9745117425918579,
+            "Type": "ORGANIZATION",
+            "Text": "CNN",
+            "BeginOffset": 44,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9962620139122009,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 92,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.9300426840782166,
+            "Type": "QUANTITY",
+            "Text": "less than 5",
+            "BeginOffset": 103,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.9999583959579468,
+            "Type": "OTHER",
+            "Text": "https://t.co/WCCidZGCN2",
+            "BeginOffset": 116,
+            "EndOffset": 139
+        }
+    ]
+}

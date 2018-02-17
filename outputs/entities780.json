@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9899314641952515,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 22,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.8894777894020081,
+            "Type": "PERSON",
+            "Text": "Geert Wilders",
+            "BeginOffset": 50,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9850436449050903,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 86,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9998736381530762,
+            "Type": "OTHER",
+            "Text": "https://t.co/jVkTONIoR2",
+            "BeginOffset": 91,
+            "EndOffset": 114
+        }
+    ]
+}

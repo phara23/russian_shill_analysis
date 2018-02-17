@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8093066215515137,
+            "Type": "PERSON",
+            "Text": "@DRUDGE_REPORT",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9872516393661499,
+            "Type": "PERSON",
+            "Text": "Madonna",
+            "BeginOffset": 19,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.995931088924408,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 51,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9997339844703674,
+            "Type": "OTHER",
+            "Text": "https://t.co/SuHzOM3OrV",
+            "BeginOffset": 60,
+            "EndOffset": 83
+        }
+    ]
+}

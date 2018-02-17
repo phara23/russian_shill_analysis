@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7205175757408142,
+            "Type": "ORGANIZATION",
+            "Text": "@RedState",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9999234676361084,
+            "Type": "OTHER",
+            "Text": "https://t.co/HwaebG2rdI",
+            "BeginOffset": 98,
+            "EndOffset": 121
+        }
+    ]
+}

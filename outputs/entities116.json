@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9597679376602173,
+            "Type": "DATE",
+            "Text": "2015",
+            "BeginOffset": 8,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.5409149527549744,
+            "Type": "ORGANIZATION",
+            "Text": "Steelers",
+            "BeginOffset": 13,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.622085452079773,
+            "Type": "ORGANIZATION",
+            "Text": "Heinz Field",
+            "BeginOffset": 43,
+            "EndOffset": 54
+        }
+    ]
+}

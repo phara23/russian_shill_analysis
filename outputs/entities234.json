@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.933695912361145,
+            "Type": "PERSON",
+            "Text": "@VickyBrush",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9224710464477539,
+            "Type": "PERSON",
+            "Text": "@cruztribe",
+            "BeginOffset": 35,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.973468005657196,
+            "Type": "PERSON",
+            "Text": "@hillarycoughing",
+            "BeginOffset": 46,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9761118292808533,
+            "Type": "PERSON",
+            "Text": "@seanhannity",
+            "BeginOffset": 63,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.9887940883636475,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 76,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.9919165372848511,
+            "Type": "PERSON",
+            "Text": "@mike_pence",
+            "BeginOffset": 93,
+            "EndOffset": 104
+        }
+    ]
+}

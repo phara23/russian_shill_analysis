@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8159412741661072,
+            "Type": "PERSON",
+            "Text": "@wishiwasatiger",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8903148770332336,
+            "Type": "PERSON",
+            "Text": "@Emphoto21",
+            "BeginOffset": 20,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9374285340309143,
+            "Type": "PERSON",
+            "Text": "@KeshaTedder",
+            "BeginOffset": 31,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9852696061134338,
+            "Type": "QUANTITY",
+            "Text": "140 characters",
+            "BeginOffset": 84,
+            "EndOffset": 98
+        }
+    ]
+}

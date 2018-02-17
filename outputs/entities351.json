@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8759408593177795,
+            "Type": "PERSON",
+            "Text": "@BlackGirlNerds",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9668183326721191,
+            "Type": "DATE",
+            "Text": "2005",
+            "BeginOffset": 31,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.999870777130127,
+            "Type": "OTHER",
+            "Text": "https://t.co/ze0GAmX1Ag",
+            "BeginOffset": 40,
+            "EndOffset": 63
+        }
+    ]
+}

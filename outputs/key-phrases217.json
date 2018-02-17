@@ -1,0 +1,28 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.8655667304992676,
+            "Text": "Donald Trump",
+            "BeginOffset": 0,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.985227108001709,
+            "Text": "Texas audience",
+            "BeginOffset": 19,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9997147917747498,
+            "Text": "the fate",
+            "BeginOffset": 37,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9335852861404419,
+            "Text": "11 million people",
+            "BeginOffset": 49,
+            "EndOffset": 66
+        }
+    ]
+}

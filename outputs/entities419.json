@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7713887691497803,
+            "Type": "PERSON",
+            "Text": "@PatrioticChoice",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.5629501342773438,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 21,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9725100994110107,
+            "Type": "PERSON",
+            "Text": "@jphilman0206",
+            "BeginOffset": 24,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.8554105162620544,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 39,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9628081917762756,
+            "Type": "OTHER",
+            "Text": "https://t.co/pKB0jzdWQn",
+            "BeginOffset": 87,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.4526008367538452,
+            "Type": "LOCATION",
+            "Text": "#WakeUpAmerica",
+            "BeginOffset": 111,
+            "EndOffset": 125
+        }
+    ]
+}

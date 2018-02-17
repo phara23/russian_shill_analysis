@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.826494038105011,
+            "Type": "PERSON",
+            "Text": "@ava",
+            "BeginOffset": 3,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.5185537934303284,
+            "Type": "QUANTITY",
+            "Text": "one",
+            "BeginOffset": 70,
+            "EndOffset": 73
+        }
+    ]
+}

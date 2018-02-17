@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9573206305503845,
+            "Type": "PERSON",
+            "Text": "@CajunKangaroo",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8674339652061462,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 23,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9463940858840942,
+            "Type": "PERSON",
+            "Text": "Reagan",
+            "BeginOffset": 41,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.49059441685676575,
+            "Type": "PERSON",
+            "Text": "#Trump",
+            "BeginOffset": 80,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9797394871711731,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 86,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9276432394981384,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 91,
+            "EndOffset": 107
+        }
+    ]
+}

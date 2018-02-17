@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7975375056266785,
+            "Type": "PERSON",
+            "Text": "@tpartynews",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9998267292976379,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 20,
+            "EndOffset": 25
+        }
+    ]
+}

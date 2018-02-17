@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7675489783287048,
+            "Type": "PERSON",
+            "Text": "@DianeRainie1",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9156953692436218,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 22,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9289868474006653,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 88,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.8459221124649048,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 96,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.9915509223937988,
+            "Type": "PERSON",
+            "Text": "TRUMP",
+            "BeginOffset": 122,
+            "EndOffset": 127
+        }
+    ]
+}

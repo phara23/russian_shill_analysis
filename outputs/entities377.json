@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5089110136032104,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.6617213487625122,
+            "Type": "PERSON",
+            "Text": "@USAforTrump2016",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.7649553418159485,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 26,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9809530377388,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 56,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9819157123565674,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 67,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9981339573860168,
+            "Type": "OTHER",
+            "Text": "https://t.co/s0R9JXYYEs",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        }
+    ]
+}

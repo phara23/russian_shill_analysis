@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7508060336112976,
+            "Type": "OTHER",
+            "Text": "Syrian",
+            "BeginOffset": 50,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9921354055404663,
+            "Type": "ORGANIZATION",
+            "Text": "ISIS",
+            "BeginOffset": 70,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.42337653040885925,
+            "Type": "ORGANIZATION",
+            "Text": "#IslamKills",
+            "BeginOffset": 101,
+            "EndOffset": 112
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9952981472015381,
+            "Type": "PERSON",
+            "Text": "Demi Lovato",
+            "BeginOffset": 0,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9956602454185486,
+            "Type": "ORGANIZATION",
+            "Text": "Instagram",
+            "BeginOffset": 40,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9946197271347046,
+            "Type": "ORGANIZATION",
+            "Text": "Instagram",
+            "BeginOffset": 54,
+            "EndOffset": 63
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8691512942314148,
+            "Type": "PERSON",
+            "Text": "@ihatethemedia",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9999536275863647,
+            "Type": "OTHER",
+            "Text": "https://t.co/DX9qJpmwaG",
+            "BeginOffset": 50,
+            "EndOffset": 73
+        }
+    ]
+}

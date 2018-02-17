@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9138615727424622,
+            "Type": "PERSON",
+            "Text": "@therealroseanne",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.4743660092353821,
+            "Type": "PERSON",
+            "Text": "#PaulaJones",
+            "BeginOffset": 35,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.999086856842041,
+            "Type": "DATE",
+            "Text": "1998",
+            "BeginOffset": 66,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9483757019042969,
+            "Type": "ORGANIZATION",
+            "Text": "Hollywood",
+            "BeginOffset": 72,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.998893141746521,
+            "Type": "PERSON",
+            "Text": "Bill Cli",
+            "BeginOffset": 131,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8366910219192505,
+            "Type": "PERSON",
+            "Text": "@xavvypls",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.37681201100349426,
+            "Type": "PERSON",
+            "Text": "GGreenwald",
+            "BeginOffset": 83,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.9235343933105469,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 110,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.3693283200263977,
+            "Type": "PERSON",
+            "Text": "CharlesOr",
+            "BeginOffset": 130,
+            "EndOffset": 139
+        }
+    ]
+}

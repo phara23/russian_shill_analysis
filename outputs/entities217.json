@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9977207779884338,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 0,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9569833874702454,
+            "Type": "LOCATION",
+            "Text": "Texas",
+            "BeginOffset": 19,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.8362445831298828,
+            "Type": "QUANTITY",
+            "Text": "11 million people",
+            "BeginOffset": 49,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.8116424679756165,
+            "Type": "OTHER",
+            "Text": "https://t.co/6GIKLNPCif",
+            "BeginOffset": 67,
+            "EndOffset": 90
+        }
+    ]
+}

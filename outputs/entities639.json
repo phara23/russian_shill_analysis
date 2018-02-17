@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5338780879974365,
+            "Type": "ORGANIZATION",
+            "Text": "@520",
+            "BeginOffset": 3,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.802067220211029,
+            "Type": "PERSON",
+            "Text": "@DaRealYungMert",
+            "BeginOffset": 30,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.980434775352478,
+            "Type": "OTHER",
+            "Text": "https://t.co/XUKoPS2dZ2",
+            "BeginOffset": 46,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.5781131386756897,
+            "Type": "OTHER",
+            "Text": "#520",
+            "BeginOffset": 74,
+            "EndOffset": 78
+        }
+    ]
+}

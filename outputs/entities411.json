@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7316969037055969,
+            "Type": "PERSON",
+            "Text": "@ChicagoILDaily",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9556251764297485,
+            "Type": "ORGANIZATION",
+            "Text": "Blackhawks",
+            "BeginOffset": 44,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9616629481315613,
+            "Type": "ORGANIZATION",
+            "Text": "Flyers",
+            "BeginOffset": 55,
+            "EndOffset": 61
+        }
+    ]
+}

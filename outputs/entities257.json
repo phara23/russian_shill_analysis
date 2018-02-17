@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7285961508750916,
+            "Type": "PERSON",
+            "Text": "@ocblues",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.963161826133728,
+            "Type": "ORGANIZATION",
+            "Text": "BofA",
+            "BeginOffset": 13,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9973558187484741,
+            "Type": "PERSON",
+            "Text": "James Diamond",
+            "BeginOffset": 20,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9884124398231506,
+            "Type": "QUANTITY",
+            "Text": "400 times",
+            "BeginOffset": 48,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9335237741470337,
+            "Type": "OTHER",
+            "Text": "https://t.co/dJtv3Rp7Gu",
+            "BeginOffset": 87,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.9181345701217651,
+            "Type": "OTHER",
+            "Text": "https://t.co/lpGr",
+            "BeginOffset": 122,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9119246006011963,
+            "Type": "PERSON",
+            "Text": "@ed_hooley",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9289442896842957,
+            "Type": "PERSON",
+            "Text": "BILL CLINTON",
+            "BeginOffset": 15,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9765878915786743,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 116,
+            "EndOffset": 120
+        }
+    ]
+}

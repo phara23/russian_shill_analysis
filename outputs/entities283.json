@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8438121676445007,
+            "Type": "PERSON",
+            "Text": "@theonlyadult",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9514915943145752,
+            "Type": "PERSON",
+            "Text": "Jesus",
+            "BeginOffset": 42,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9999938011169434,
+            "Type": "OTHER",
+            "Text": "https://t.co/YhXLC87iO1",
+            "BeginOffset": 48,
+            "EndOffset": 71
+        }
+    ]
+}

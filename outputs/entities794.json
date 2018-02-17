@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.883115828037262,
+            "Type": "PERSON",
+            "Text": "@Pjw20161951",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9925785660743713,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 17,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9983326196670532,
+            "Type": "PERSON",
+            "Text": "Ted Cruz",
+            "BeginOffset": 56,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9980626106262207,
+            "Type": "PERSON",
+            "Text": "Mark Levin",
+            "BeginOffset": 71,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.9997840523719788,
+            "Type": "OTHER",
+            "Text": "https://t.co/9M90MOey2F",
+            "BeginOffset": 99,
+            "EndOffset": 122
+        }
+    ]
+}

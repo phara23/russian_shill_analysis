@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7415151596069336,
+            "Type": "PERSON",
+            "Text": "@ZaibatsuNews",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9958904981613159,
+            "Type": "ORGANIZATION",
+            "Text": "ISIS",
+            "BeginOffset": 18,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.8259175419807434,
+            "Type": "OTHER",
+            "Text": "https://t.co/ScVzpTBzsf",
+            "BeginOffset": 63,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.7104792594909668,
+            "Type": "ORGANIZATION",
+            "Text": "#p2",
+            "BeginOffset": 87,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9999421834945679,
+            "Type": "OTHER",
+            "Text": "https://t.co/xzibjWGwfF",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        }
+    ]
+}

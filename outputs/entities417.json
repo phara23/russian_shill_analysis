@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9326574206352234,
+            "Type": "PERSON",
+            "Text": "@JordanSargeantx",
+            "BeginOffset": 15,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.917479932308197,
+            "Type": "DATE",
+            "Text": "this morning",
+            "BeginOffset": 40,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9769189953804016,
+            "Type": "LOCATION",
+            "Text": "Brussels",
+            "BeginOffset": 81,
+            "EndOffset": 89
+        }
+    ]
+}

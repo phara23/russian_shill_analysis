@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9382498264312744,
+            "Type": "PERSON",
+            "Text": "@MDBlanchfield",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9110047817230225,
+            "Type": "ORGANIZATION",
+            "Text": "Washington Post",
+            "BeginOffset": 90,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.9998574256896973,
+            "Type": "OTHER",
+            "Text": "https://t.co/K2e4XdXRfu",
+            "BeginOffset": 106,
+            "EndOffset": 129
+        }
+    ]
+}

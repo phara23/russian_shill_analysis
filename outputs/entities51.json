@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8699634075164795,
+            "Type": "PERSON",
+            "Text": "@Ban_asslam",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9013761878013611,
+            "Type": "QUANTITY",
+            "Text": "3 ft",
+            "BeginOffset": 77,
+            "EndOffset": 81
+        }
+    ]
+}

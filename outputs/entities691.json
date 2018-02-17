@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9776048064231873,
+            "Type": "PERSON",
+            "Text": "@John_R_Scott",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9937489032745361,
+            "Type": "QUANTITY",
+            "Text": "15 times",
+            "BeginOffset": 49,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.8286043405532837,
+            "Type": "DATE",
+            "Text": "last 24 hours",
+            "BeginOffset": 65,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.999896764755249,
+            "Type": "OTHER",
+            "Text": "https://t.co/emJiB1Nt2o",
+            "BeginOffset": 80,
+            "EndOffset": 103
+        }
+    ]
+}

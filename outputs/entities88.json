@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9025439023971558,
+            "Type": "PERSON",
+            "Text": "@FanBrosShow",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8968439102172852,
+            "Type": "PERSON",
+            "Text": "Prince",
+            "BeginOffset": 17,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.8251422643661499,
+            "Type": "QUANTITY",
+            "Text": "9-track",
+            "BeginOffset": 44,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.7131802439689636,
+            "Type": "TITLE",
+            "Text": "Batman",
+            "BeginOffset": 59,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9376245141029358,
+            "Type": "DATE",
+            "Text": "1989",
+            "BeginOffset": 75,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.9989529848098755,
+            "Type": "PERSON",
+            "Text": "Tim Burton",
+            "BeginOffset": 80,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.8560877442359924,
+            "Type": "QUANTITY",
+            "Text": "4.3M",
+            "BeginOffset": 118,
+            "EndOffset": 122
+        }
+    ]
+}

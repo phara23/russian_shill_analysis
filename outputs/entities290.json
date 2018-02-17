@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8972095251083374,
+            "Type": "PERSON",
+            "Text": "@iamDG7",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9799036383628845,
+            "Type": "LOCATION",
+            "Text": "Tennessee",
+            "BeginOffset": 42,
+            "EndOffset": 51
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8008785247802734,
+            "Type": "PERSON",
+            "Text": "@tacoeater",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9549711346626282,
+            "Type": "PERSON",
+            "Text": "Lincoln",
+            "BeginOffset": 31,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9930096864700317,
+            "Type": "PERSON",
+            "Text": "Roosevelt",
+            "BeginOffset": 40,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9984796643257141,
+            "Type": "PERSON",
+            "Text": "Truman",
+            "BeginOffset": 51,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9976874589920044,
+            "Type": "PERSON",
+            "Text": "Reagan",
+            "BeginOffset": 59,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.8377628326416016,
+            "Type": "PERSON",
+            "Text": "President Comacho",
+            "BeginOffset": 96,
+            "EndOffset": 113
+        }
+    ]
+}

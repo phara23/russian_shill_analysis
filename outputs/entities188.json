@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8172087669372559,
+            "Type": "PERSON",
+            "Text": "@guardian",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8203369975090027,
+            "Type": "OTHER",
+            "Text": "British",
+            "BeginOffset": 14,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9996858835220337,
+            "Type": "PERSON",
+            "Text": "Adam Gemili",
+            "BeginOffset": 31,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9999731779098511,
+            "Type": "OTHER",
+            "Text": "http://t.co/6vgSL9BN8n",
+            "BeginOffset": 80,
+            "EndOffset": 102
+        }
+    ]
+}

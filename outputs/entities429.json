@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8114625811576843,
+            "Type": "PERSON",
+            "Text": "@nursegoda",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8879062533378601,
+            "Type": "PERSON",
+            "Text": "@KeshaTedder",
+            "BeginOffset": 15,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9999573230743408,
+            "Type": "OTHER",
+            "Text": "https://t.co/dzdTBVGsB8",
+            "BeginOffset": 28,
+            "EndOffset": 51
+        }
+    ]
+}

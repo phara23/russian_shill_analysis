@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9162846803665161,
+            "Type": "PERSON",
+            "Text": "@StreitzM",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.5800556540489197,
+            "Type": "PERSON",
+            "Text": "Auch bei",
+            "BeginOffset": 14,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.7728804349899292,
+            "Type": "PERSON",
+            "Text": "@SpotifyDE",
+            "BeginOffset": 23,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.7910835146903992,
+            "Type": "PERSON",
+            "Text": "@saschalobo",
+            "BeginOffset": 66,
+            "EndOffset": 77
+        }
+    ]
+}

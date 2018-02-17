@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9130593538284302,
+            "Type": "PERSON",
+            "Text": "@cvpayne",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9566945433616638,
+            "Type": "QUANTITY",
+            "Text": "90%",
+            "BeginOffset": 26,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9999362230300903,
+            "Type": "OTHER",
+            "Text": "https://t.co/vq2sLZwHXt",
+            "BeginOffset": 79,
+            "EndOffset": 102
+        }
+    ]
+}

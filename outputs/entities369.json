@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9729062914848328,
+            "Type": "DATE",
+            "Text": "Today",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9959631562232971,
+            "Type": "PERSON",
+            "Text": "Chuck Palahniuk",
+            "BeginOffset": 74,
+            "EndOffset": 89
+        }
+    ]
+}

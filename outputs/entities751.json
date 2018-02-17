@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8219022750854492,
+            "Type": "PERSON",
+            "Text": "@suzost",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9852065443992615,
+            "Type": "PERSON",
+            "Text": "Dinesh D'Souza",
+            "BeginOffset": 23,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.7395632266998291,
+            "Type": "ORGANIZATION",
+            "Text": "Dem Party",
+            "BeginOffset": 53,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.947219729423523,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 109,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.948329508304596,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 119,
+            "EndOffset": 126
+        },
+        {
+            "Score": 0.8077525496482849,
+            "Type": "OTHER",
+            "Text": "https://t.c",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

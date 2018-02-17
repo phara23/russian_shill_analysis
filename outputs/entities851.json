@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8056262731552124,
+            "Type": "PERSON",
+            "Text": "@LadyLiberTea",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9101953506469727,
+            "Type": "PERSON",
+            "Text": "@esqonfire",
+            "BeginOffset": 19,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.6196204423904419,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 31,
+            "EndOffset": 33
+        }
+    ]
+}

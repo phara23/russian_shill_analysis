@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9616212248802185,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8599498271942139,
+            "Type": "LOCATION",
+            "Text": "NY, NJ",
+            "BeginOffset": 41,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.8987682461738586,
+            "Type": "DATE",
+            "Text": "this weekend",
+            "BeginOffset": 55,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.6128858327865601,
+            "Type": "LOCATION",
+            "Text": "Americans",
+            "BeginOffset": 113,
+            "EndOffset": 122
+        }
+    ]
+}

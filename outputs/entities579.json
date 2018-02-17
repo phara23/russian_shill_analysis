@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9086260199546814,
+            "Type": "PERSON",
+            "Text": "@WNeiljohnson",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8958264589309692,
+            "Type": "ORGANIZATION",
+            "Text": "Supreme Court",
+            "BeginOffset": 18,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9865472316741943,
+            "Type": "LOCATION",
+            "Text": "Jerusalem",
+            "BeginOffset": 54,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9997976422309875,
+            "Type": "OTHER",
+            "Text": "http://t.co/p0HrSgg234",
+            "BeginOffset": 80,
+            "EndOffset": 102
+        }
+    ]
+}

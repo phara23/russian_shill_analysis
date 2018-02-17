@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8820599913597107,
+            "Type": "PERSON",
+            "Text": "@HealthRanger",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.743513286113739,
+            "Type": "QUANTITY",
+            "Text": "20 tons",
+            "BeginOffset": 58,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9864513874053955,
+            "Type": "OTHER",
+            "Text": "https://t.co/PXnb9rKZ27",
+            "BeginOffset": 86,
+            "EndOffset": 109
+        },
+        {
+            "Score": 0.9830643534660339,
+            "Type": "OTHER",
+            "Text": "https://t.co/6",
+            "BeginOffset": 125,
+            "EndOffset": 139
+        }
+    ]
+}

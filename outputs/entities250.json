@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9936572909355164,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 8,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8028941750526428,
+            "Type": "OTHER",
+            "Text": "https://t.co/AbH2dZLWeQ",
+            "BeginOffset": 53,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.9999264478683472,
+            "Type": "OTHER",
+            "Text": "https://t.co/VROJFfpCYF",
+            "BeginOffset": 77,
+            "EndOffset": 100
+        }
+    ]
+}

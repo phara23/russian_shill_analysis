@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8799677491188049,
+            "Type": "PERSON",
+            "Text": "@Tonys_Rant",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9955834746360779,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 16,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.7773184180259705,
+            "Type": "TITLE",
+            "Text": "Murder Capital Chicago\nHistory",
+            "BeginOffset": 47,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9982790946960449,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 109,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.8684226274490356,
+            "Type": "PERSON",
+            "Text": "Obama Denie",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

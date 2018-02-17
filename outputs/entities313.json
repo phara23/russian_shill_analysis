@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7525144219398499,
+            "Type": "PERSON",
+            "Text": "Clintons",
+            "BeginOffset": 29,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.8445174694061279,
+            "Type": "QUANTITY",
+            "Text": "first",
+            "BeginOffset": 50,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9675451517105103,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 72,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9997567534446716,
+            "Type": "OTHER",
+            "Text": "https://t.co/DcvdqMklBe",
+            "BeginOffset": 92,
+            "EndOffset": 115
+        }
+    ]
+}

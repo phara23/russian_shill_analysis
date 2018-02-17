@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8793747425079346,
+            "Type": "PERSON",
+            "Text": "@HouseCracka",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.5902988910675049,
+            "Type": "ORGANIZATION",
+            "Text": "Catholic",
+            "BeginOffset": 21,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.949863076210022,
+            "Type": "QUANTITY",
+            "Text": "billions of dollars",
+            "BeginOffset": 46,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9780091047286987,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 70,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.603350043296814,
+            "Type": "ORGANIZATION",
+            "Text": "Islamic",
+            "BeginOffset": 87,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.971345841884613,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 107,
+            "EndOffset": 114
+        }
+    ]
+}

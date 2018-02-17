@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8142646551132202,
+            "Type": "PERSON",
+            "Text": "@guardian",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.7372236251831055,
+            "Type": "QUANTITY",
+            "Text": "10 best Mad Men",
+            "BeginOffset": 18,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9999428987503052,
+            "Type": "OTHER",
+            "Text": "http://t.co/kndHl2IDg9",
+            "BeginOffset": 45,
+            "EndOffset": 67
+        }
+    ]
+}

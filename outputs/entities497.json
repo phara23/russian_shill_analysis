@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9055110216140747,
+            "Type": "PERSON",
+            "Text": "@betseyross",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9354042410850525,
+            "Type": "PERSON",
+            "Text": "Cheney",
+            "BeginOffset": 41,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.8521307110786438,
+            "Type": "OTHER",
+            "Text": "https://t.co/jKoIDe2tSr",
+            "BeginOffset": 107,
+            "EndOffset": 130
+        },
+        {
+            "Score": 0.8384774327278137,
+            "Type": "ORGANIZATION",
+            "Text": "@foxnews",
+            "BeginOffset": 131,
+            "EndOffset": 139
+        }
+    ]
+}

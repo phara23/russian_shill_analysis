@@ -1,0 +1,28 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9956894516944885,
+            "Text": "USA",
+            "BeginOffset": 0,
+            "EndOffset": 3
+        },
+        {
+            "Score": 0.9965555667877197,
+            "Text": "a country",
+            "BeginOffset": 7,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9977425932884216,
+            "Text": "great people",
+            "BeginOffset": 20,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9756478071212769,
+            "Text": "useless deaths",
+            "BeginOffset": 45,
+            "EndOffset": 59
+        }
+    ]
+}

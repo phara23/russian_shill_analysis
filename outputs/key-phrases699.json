@@ -1,0 +1,40 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9982201457023621,
+            "Text": "Trump",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9986928701400757,
+            "Text": "a landslide",
+            "BeginOffset": 13,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9907199144363403,
+            "Text": "a 20 mins",
+            "BeginOffset": 29,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9983962774276733,
+            "Text": "a CNN poll",
+            "BeginOffset": 42,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9674935340881348,
+            "Text": "Hillary",
+            "BeginOffset": 92,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.9866045713424683,
+            "Text": "less than 5",
+            "BeginOffset": 103,
+            "EndOffset": 114
+        }
+    ]
+}

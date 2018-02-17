@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8363332152366638,
+            "Type": "ORGANIZATION",
+            "Text": "NBC",
+            "BeginOffset": 0,
+            "EndOffset": 3
+        },
+        {
+            "Score": 0.9518325924873352,
+            "Type": "QUANTITY",
+            "Text": "6 Million",
+            "BeginOffset": 13,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9606378078460693,
+            "Type": "ORGANIZATION",
+            "Text": "Democratic Party",
+            "BeginOffset": 26,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.6684750914573669,
+            "Type": "QUANTITY",
+            "Text": "First Debate",
+            "BeginOffset": 53,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.7279729843139648,
+            "Type": "OTHER",
+            "Text": "https://t.co/Fuxkxhiukx",
+            "BeginOffset": 78,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.9999747276306152,
+            "Type": "OTHER",
+            "Text": "https://t.co/DI7vVs8Mn6",
+            "BeginOffset": 102,
+            "EndOffset": 125
+        }
+    ]
+}

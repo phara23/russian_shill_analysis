@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7902103662490845,
+            "Type": "EVENT",
+            "Text": "Battle of Bunker Hill",
+            "BeginOffset": 12,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.6323151588439941,
+            "Type": "PERSON",
+            "Text": "@midnight",
+            "BeginOffset": 56,
+            "EndOffset": 65
+        }
+    ]
+}

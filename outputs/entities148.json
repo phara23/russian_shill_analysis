@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9151030778884888,
+            "Type": "PERSON",
+            "Text": "@chrisshipitv",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8723204731941223,
+            "Type": "PERSON",
+            "Text": "@johnmcdonnellMP",
+            "BeginOffset": 55,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.8545162081718445,
+            "Type": "PERSON",
+            "Text": "Osborne",
+            "BeginOffset": 110,
+            "EndOffset": 117
+        }
+    ]
+}

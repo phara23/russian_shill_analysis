@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8292721509933472,
+            "Type": "PERSON",
+            "Text": "@BreitbartNews",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9627344012260437,
+            "Type": "ORGANIZATION",
+            "Text": "Democratic Party",
+            "BeginOffset": 46,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9995442032814026,
+            "Type": "OTHER",
+            "Text": "https://t.co/tOMfHOkXZg",
+            "BeginOffset": 106,
+            "EndOffset": 129
+        }
+    ]
+}

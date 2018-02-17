@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8559786081314087,
+            "Type": "PERSON",
+            "Text": "@ScreamyMonkey",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7909546494483948,
+            "Type": "LOCATION",
+            "Text": "U.S.",
+            "BeginOffset": 28,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9942448735237122,
+            "Type": "ORGANIZATION",
+            "Text": "NSA",
+            "BeginOffset": 45,
+            "EndOffset": 48
+        }
+    ]
+}

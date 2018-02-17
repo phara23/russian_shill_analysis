@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9019104838371277,
+            "Type": "PERSON",
+            "Text": "@TRobinsonNewEra",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9917424917221069,
+            "Type": "ORGANIZATION",
+            "Text": "ISIS",
+            "BeginOffset": 43,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9999668598175049,
+            "Type": "OTHER",
+            "Text": "https://t.co/HzBYrZPCvq",
+            "BeginOffset": 102,
+            "EndOffset": 125
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7219407558441162,
+            "Type": "PERSON",
+            "Text": "@NewCenturyTimes",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8204048871994019,
+            "Type": "ORGANIZATION",
+            "Text": "Republican",
+            "BeginOffset": 21,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.6022588610649109,
+            "Type": "QUANTITY",
+            "Text": "Millions",
+            "BeginOffset": 74,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.6257636547088623,
+            "Type": "LOCATION",
+            "Text": "Americans",
+            "BeginOffset": 86,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.9557079672813416,
+            "Type": "OTHER",
+            "Text": "https://t.co/yKKgbq",
+            "BeginOffset": 120,
+            "EndOffset": 139
+        }
+    ]
+}

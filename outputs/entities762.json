@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9420238733291626,
+            "Type": "PERSON",
+            "Text": "@yunisher33",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8844884634017944,
+            "Type": "PERSON",
+            "Text": "@PapaSaetan",
+            "BeginOffset": 16,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.8808639645576477,
+            "Type": "PERSON",
+            "Text": "@1VoiceMatters",
+            "BeginOffset": 28,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.8157995343208313,
+            "Type": "PERSON",
+            "Text": "@Patriots",
+            "BeginOffset": 43,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.8890601396560669,
+            "Type": "PERSON",
+            "Text": "Papa Saetan",
+            "BeginOffset": 80,
+            "EndOffset": 91
+        }
+    ]
+}

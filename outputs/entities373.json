@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8851159811019897,
+            "Type": "PERSON",
+            "Text": "@StopStopHillary",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9983343482017517,
+            "Type": "PERSON",
+            "Text": "Bill Clinton",
+            "BeginOffset": 21,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9235500693321228,
+            "Type": "PERSON",
+            "Text": "Hillary Hates",
+            "BeginOffset": 48,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.802044689655304,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 62,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9926730990409851,
+            "Type": "OTHER",
+            "Text": "https://t.co/wSmIdrgUc9",
+            "BeginOffset": 70,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.9883636832237244,
+            "Type": "ORGANIZATION",
+            "Text": "@YouTube",
+            "BeginOffset": 98,
+            "EndOffset": 106
+        }
+    ]
+}

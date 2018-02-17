@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.999675452709198,
+            "Type": "PERSON",
+            "Text": "Ricky Vaughn",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9967154860496521,
+            "Type": "PERSON",
+            "Text": "Bill Murray",
+            "BeginOffset": 73,
+            "EndOffset": 84
+        }
+    ]
+}

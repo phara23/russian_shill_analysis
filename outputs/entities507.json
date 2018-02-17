@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5117557048797607,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8181578516960144,
+            "Type": "ORGANIZATION",
+            "Text": "@ElPaso_Post",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.6089577674865723,
+            "Type": "ORGANIZATION",
+            "Text": "Disturbios",
+            "BeginOffset": 17,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.821902871131897,
+            "Type": "LOCATION",
+            "Text": "Los Ángeles",
+            "BeginOffset": 31,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.5685815811157227,
+            "Type": "ORGANIZATION",
+            "Text": "hace 23 años",
+            "BeginOffset": 44,
+            "EndOffset": 56
+        }
+    ]
+}

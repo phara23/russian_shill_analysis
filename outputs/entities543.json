@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9335460662841797,
+            "Type": "PERSON",
+            "Text": "@AntonRubaclini",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9976131916046143,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 49,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.8583473563194275,
+            "Type": "DATE",
+            "Text": "1837",
+            "BeginOffset": 104,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.932580292224884,
+            "Type": "QUANTITY",
+            "Text": "3rd st",
+            "BeginOffset": 109,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.3813800513744354,
+            "Type": "LOCATION",
+            "Text": "LA",
+            "BeginOffset": 117,
+            "EndOffset": 119
+        },
+        {
+            "Score": 0.5904892086982727,
+            "Type": "OTHER",
+            "Text": "90023",
+            "BeginOffset": 120,
+            "EndOffset": 125
+        }
+    ]
+}

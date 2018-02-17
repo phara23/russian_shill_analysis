@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9217812418937683,
+            "Type": "PERSON",
+            "Text": "@kurteichenwald",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9759170413017273,
+            "Type": "DATE",
+            "Text": "Tomorrow",
+            "BeginOffset": 20,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.8836413621902466,
+            "Type": "ORGANIZATION",
+            "Text": "@Newsweek",
+            "BeginOffset": 32,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9698384404182434,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 59,
+            "EndOffset": 64
+        }
+    ]
+}

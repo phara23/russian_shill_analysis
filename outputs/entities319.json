@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.840604841709137,
+            "Type": "PERSON",
+            "Text": "@LiliaEP",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9996137619018555,
+            "Type": "PERSON",
+            "Text": "Andrew McCarthy",
+            "BeginOffset": 32,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.7875610589981079,
+            "Type": "ORGANIZATION",
+            "Text": "@NRO",
+            "BeginOffset": 51,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.7559218406677246,
+            "Type": "PERSON",
+            "Text": "@SenTedCruz",
+            "BeginOffset": 70,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.99996018409729,
+            "Type": "OTHER",
+            "Text": "https://t.co/o09x7bucP9",
+            "BeginOffset": 109,
+            "EndOffset": 132
+        }
+    ]
+}

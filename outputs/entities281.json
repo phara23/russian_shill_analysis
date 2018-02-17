@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7986205816268921,
+            "Type": "PERSON",
+            "Text": "@AmericanVoterUS",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.940560519695282,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 21,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9969398975372314,
+            "Type": "DATE",
+            "Text": "November 8th",
+            "BeginOffset": 119,
+            "EndOffset": 131
+        }
+    ]
+}

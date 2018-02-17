@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.946387529373169,
+            "Type": "PERSON",
+            "Text": "@Don_Vito_08",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8280766606330872,
+            "Type": "ORGANIZATION",
+            "Text": "Democrats",
+            "BeginOffset": 28,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9003506898880005,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 91,
+            "EndOffset": 96
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9976159930229187,
+            "Type": "PERSON",
+            "Text": "Bill Clinton",
+            "BeginOffset": 60,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.9999797344207764,
+            "Type": "OTHER",
+            "Text": "https://t.co/UQuj3V7xrd",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

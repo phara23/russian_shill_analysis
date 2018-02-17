@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9830259680747986,
+            "Type": "QUANTITY",
+            "Text": "14 victims",
+            "BeginOffset": 32,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.19016176462173462,
+            "Type": "ORGANIZATION",
+            "Text": "#SanBernardino",
+            "BeginOffset": 46,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.8898718953132629,
+            "Type": "LOCATION",
+            "Text": "California",
+            "BeginOffset": 70,
+            "EndOffset": 80
+        }
+    ]
+}

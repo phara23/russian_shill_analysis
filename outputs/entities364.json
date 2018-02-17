@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7795236706733704,
+            "Type": "PERSON",
+            "Text": "@BPDmisconduct",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.5702625513076782,
+            "Type": "ORGANIZATION",
+            "Text": "Mount Vernon",
+            "BeginOffset": 19,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.7126502990722656,
+            "Type": "PERSON",
+            "Text": "@goskagit",
+            "BeginOffset": 86,
+            "EndOffset": 95
+        }
+    ]
+}

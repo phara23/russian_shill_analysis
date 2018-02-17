@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4125761091709137,
+            "Type": "ORGANIZATION",
+            "Text": "#IslamKills",
+            "BeginOffset": 0,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9571096301078796,
+            "Type": "PERSON",
+            "Text": "@rgenci57",
+            "BeginOffset": 15,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.4735009968280792,
+            "Type": "OTHER",
+            "Text": "Islamic",
+            "BeginOffset": 70,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9901314973831177,
+            "Type": "QUANTITY",
+            "Text": "two hours",
+            "BeginOffset": 84,
+            "EndOffset": 93
+        }
+    ]
+}

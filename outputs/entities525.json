@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8660085201263428,
+            "Type": "PERSON",
+            "Text": "@Forbrydelsenfan",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.7503212690353394,
+            "Type": "PERSON",
+            "Text": "@DrewWestLA",
+            "BeginOffset": 21,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9212141633033752,
+            "Type": "PERSON",
+            "Text": "@WoobieTuesday",
+            "BeginOffset": 33,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9355776309967041,
+            "Type": "DATE",
+            "Text": "Tonight",
+            "BeginOffset": 50,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9998419284820557,
+            "Type": "OTHER",
+            "Text": "https://t.co/oTVwkToPZ3",
+            "BeginOffset": 59,
+            "EndOffset": 82
+        }
+    ]
+}

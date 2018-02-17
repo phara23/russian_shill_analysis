@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9157447814941406,
+            "Type": "PERSON",
+            "Text": "@GarrettHaake",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.999941349029541,
+            "Type": "OTHER",
+            "Text": "http://t.co/a53Aykqzs6",
+            "BeginOffset": 77,
+            "EndOffset": 99
+        }
+    ]
+}

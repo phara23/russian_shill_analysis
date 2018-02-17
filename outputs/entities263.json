@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9160972237586975,
+            "Type": "PERSON",
+            "Text": "@angelacobb",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9909263849258423,
+            "Type": "PERSON",
+            "Text": "Lennon",
+            "BeginOffset": 16,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9974554181098938,
+            "Type": "PERSON",
+            "Text": "McCartney",
+            "BeginOffset": 26,
+            "EndOffset": 35
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9174321293830872,
+            "Type": "PERSON",
+            "Text": "@KalalBarry",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.6536992192268372,
+            "Type": "LOCATION",
+            "Text": "#VA",
+            "BeginOffset": 40,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.6676663756370544,
+            "Type": "LOCATION",
+            "Text": "#NH",
+            "BeginOffset": 63,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.8867344260215759,
+            "Type": "LOCATION",
+            "Text": "#NC",
+            "BeginOffset": 67,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9274086952209473,
+            "Type": "LOCATION",
+            "Text": "#VA",
+            "BeginOffset": 71,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.7991030812263489,
+            "Type": "LOCATION",
+            "Text": "#NV",
+            "BeginOffset": 75,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.5652908682823181,
+            "Type": "LOCATION",
+            "Text": "Canadians",
+            "BeginOffset": 84,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.9999371767044067,
+            "Type": "OTHER",
+            "Text": "https://t.co/ziMFXhG7dJ",
+            "BeginOffset": 108,
+            "EndOffset": 131
+        }
+    ]
+}

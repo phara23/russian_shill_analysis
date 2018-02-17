@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.830376923084259,
+            "Type": "PERSON",
+            "Text": "@SinCityChiGirl",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9639286398887634,
+            "Type": "DATE",
+            "Text": "this morning",
+            "BeginOffset": 55,
+            "EndOffset": 67
+        }
+    ]
+}

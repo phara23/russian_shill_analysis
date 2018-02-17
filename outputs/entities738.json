@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7284237146377563,
+            "Type": "ORGANIZATION",
+            "Text": "@NYDailyNews",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.996295690536499,
+            "Type": "PERSON",
+            "Text": "Ramarley Graham",
+            "BeginOffset": 17,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.87913578748703,
+            "Type": "ORGANIZATION",
+            "Text": "NYPD",
+            "BeginOffset": 60,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9392797946929932,
+            "Type": "QUANTITY",
+            "Text": "four and a half years",
+            "BeginOffset": 97,
+            "EndOffset": 118
+        },
+        {
+            "Score": 0.9532070159912109,
+            "Type": "OTHER",
+            "Text": "https://t.co/Bf5SerD",
+            "BeginOffset": 119,
+            "EndOffset": 139
+        }
+    ]
+}

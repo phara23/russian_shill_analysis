@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8056394457817078,
+            "Type": "PERSON",
+            "Text": "@LadyLiberTea",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8767890930175781,
+            "Type": "PERSON",
+            "Text": "@healthandcents",
+            "BeginOffset": 19,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.8806906342506409,
+            "Type": "PERSON",
+            "Text": "@LVNancy",
+            "BeginOffset": 35,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9875596165657043,
+            "Type": "PERSON",
+            "Text": "Bernie",
+            "BeginOffset": 75,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.9615299105644226,
+            "Type": "PERSON",
+            "Text": "Jill DemExiters",
+            "BeginOffset": 82,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.9946407079696655,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 140,
+            "EndOffset": 144
+        }
+    ]
+}

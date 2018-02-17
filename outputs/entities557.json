@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9379582405090332,
+            "Type": "PERSON",
+            "Text": "@LindaSuhler",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9647517204284668,
+            "Type": "PERSON",
+            "Text": "TRUMP",
+            "BeginOffset": 21,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.5551493167877197,
+            "Type": "PERSON",
+            "Text": "#ObamaHillary",
+            "BeginOffset": 64,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.6358293890953064,
+            "Type": "PERSON",
+            "Text": "#CrookedHillary",
+            "BeginOffset": 78,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.37221553921699524,
+            "Type": "PERSON",
+            "Text": "#IranRansom",
+            "BeginOffset": 94,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.4179729223251343,
+            "Type": "QUANTITY",
+            "Text": "16",
+            "BeginOffset": 123,
+            "EndOffset": 125
+        }
+    ]
+}

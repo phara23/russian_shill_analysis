@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.810112476348877,
+            "Type": "PERSON",
+            "Text": "@DanMartin_cards",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.5099667906761169,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 21,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.7826964855194092,
+            "Type": "PERSON",
+            "Text": "@fredbookmann",
+            "BeginOffset": 24,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.7404375076293945,
+            "Type": "ORGANIZATION",
+            "Text": "Obama administration",
+            "BeginOffset": 43,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.6396751403808594,
+            "Type": "QUANTITY",
+            "Text": "one scam",
+            "BeginOffset": 80,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.959203839302063,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

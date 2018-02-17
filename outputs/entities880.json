@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.879054069519043,
+            "Type": "PERSON",
+            "Text": "@tomborelli",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9540315866470337,
+            "Type": "PERSON",
+            "Text": "@deneenborelli",
+            "BeginOffset": 17,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.8309032320976257,
+            "Type": "OTHER",
+            "Text": "American",
+            "BeginOffset": 34,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.6522272825241089,
+            "Type": "ORGANIZATION",
+            "Text": "@CR",
+            "BeginOffset": 57,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9998753070831299,
+            "Type": "OTHER",
+            "Text": "https://t.co/3bvVZI8UMz",
+            "BeginOffset": 89,
+            "EndOffset": 112
+        }
+    ]
+}

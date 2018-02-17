@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6400430798530579,
+            "Type": "PERSON",
+            "Text": "@CR",
+            "BeginOffset": 3,
+            "EndOffset": 6
+        },
+        {
+            "Score": 0.9964122176170349,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 8,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.6385552287101746,
+            "Type": "PERSON",
+            "Text": "@…",
+            "BeginOffset": 122,
+            "EndOffset": 124
+        },
+        {
+            "Score": 0.9330177903175354,
+            "Type": "OTHER",
+            "Text": "https://t.co/R",
+            "BeginOffset": 125,
+            "EndOffset": 139
+        }
+    ]
+}

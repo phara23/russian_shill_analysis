@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7162001729011536,
+            "Type": "QUANTITY",
+            "Text": "Double tap",
+            "BeginOffset": 0,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.5536634922027588,
+            "Type": "PERSON",
+            "Text": "OBJ",
+            "BeginOffset": 14,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9999349117279053,
+            "Type": "OTHER",
+            "Text": "https://t.co/F6tztRCa96",
+            "BeginOffset": 47,
+            "EndOffset": 70
+        }
+    ]
+}

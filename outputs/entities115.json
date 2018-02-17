@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9905961155891418,
+            "Type": "PERSON",
+            "Text": "George Soros",
+            "BeginOffset": 0,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9903364181518555,
+            "Type": "QUANTITY",
+            "Text": "16 states",
+            "BeginOffset": 39,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9999440908432007,
+            "Type": "OTHER",
+            "Text": "https://t.co/YX5Nkp928K",
+            "BeginOffset": 92,
+            "EndOffset": 115
+        }
+    ]
+}

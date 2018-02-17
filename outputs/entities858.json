@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.946500301361084,
+            "Type": "PERSON",
+            "Text": "@PeterRoskam",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9655641317367554,
+            "Type": "DATE",
+            "Text": "Today",
+            "BeginOffset": 17,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.5766123533248901,
+            "Type": "ORGANIZATION",
+            "Text": "House",
+            "BeginOffset": 27,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.8071771860122681,
+            "Type": "TITLE",
+            "Text": "#Obamacare",
+            "BeginOffset": 55,
+            "EndOffset": 65
+        }
+    ]
+}

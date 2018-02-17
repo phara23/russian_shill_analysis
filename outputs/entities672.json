@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.63936448097229,
+            "Type": "PERSON",
+            "Text": "@FeeBooths",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.5939441919326782,
+            "Type": "EVENT",
+            "Text": "Christmas",
+            "BeginOffset": 68,
+            "EndOffset": 77
+        }
+    ]
+}

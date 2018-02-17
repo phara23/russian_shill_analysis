@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9481956362724304,
+            "Type": "PERSON",
+            "Text": "@Darren32895836",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9992920756340027,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 26,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.4995158314704895,
+            "Type": "QUANTITY",
+            "Text": "4",
+            "BeginOffset": 49,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.7920791506767273,
+            "Type": "QUANTITY",
+            "Text": "2",
+            "BeginOffset": 61,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.5393403768539429,
+            "Type": "LOCATION",
+            "Text": "Americans",
+            "BeginOffset": 80,
+            "EndOffset": 89
+        }
+    ]
+}

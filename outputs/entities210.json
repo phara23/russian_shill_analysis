@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8223981857299805,
+            "Type": "PERSON",
+            "Text": "@wretchardthecat",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.6053608655929565,
+            "Type": "OTHER",
+            "Text": "Roman",
+            "BeginOffset": 56,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.8584898114204407,
+            "Type": "OTHER",
+            "Text": "Roman",
+            "BeginOffset": 94,
+            "EndOffset": 99
+        }
+    ]
+}

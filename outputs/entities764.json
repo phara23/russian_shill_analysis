@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8474145531654358,
+            "Type": "PERSON",
+            "Text": "@Martens_Ch",
+            "BeginOffset": 0,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.4943675696849823,
+            "Type": "PERSON",
+            "Text": "Sehr",
+            "BeginOffset": 12,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9978135228157043,
+            "Type": "PERSON",
+            "Text": "Frau Martens",
+            "BeginOffset": 25,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.5108067989349365,
+            "Type": "PERSON",
+            "Text": "#Merkel",
+            "BeginOffset": 39,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.7995479702949524,
+            "Type": "PERSON",
+            "Text": "#Kanzlerin",
+            "BeginOffset": 61,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.5272305011749268,
+            "Type": "PERSON",
+            "Text": "#Deutschland",
+            "BeginOffset": 76,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.7355391979217529,
+            "Type": "PERSON",
+            "Text": "sind Sie",
+            "BeginOffset": 91,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.3221687078475952,
+            "Type": "PERSON",
+            "Text": "#MerkelMussBleiben",
+            "BeginOffset": 115,
+            "EndOffset": 133
+        }
+    ]
+}

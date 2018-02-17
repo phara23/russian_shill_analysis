@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8468907475471497,
+            "Type": "PERSON",
+            "Text": "@Goeyvaerts12",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.871874213218689,
+            "Type": "ORGANIZATION",
+            "Text": "Muslims",
+            "BeginOffset": 71,
+            "EndOffset": 78
+        }
+    ]
+}

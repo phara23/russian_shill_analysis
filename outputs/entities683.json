@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9989715814590454,
+            "Type": "PERSON",
+            "Text": "Gary Johnson",
+            "BeginOffset": 0,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9946606755256653,
+            "Type": "LOCATION",
+            "Text": "Aleppo",
+            "BeginOffset": 35,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9145580530166626,
+            "Type": "OTHER",
+            "Text": "https://t.co/PfNp8mWWDx",
+            "BeginOffset": 44,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9060966968536377,
+            "Type": "OTHER",
+            "Text": "https://t.co/1KPXto2HfW",
+            "BeginOffset": 70,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.9999840259552002,
+            "Type": "OTHER",
+            "Text": "https://t.co/J3hb2Jj6En",
+            "BeginOffset": 94,
+            "EndOffset": 117
+        }
+    ]
+}

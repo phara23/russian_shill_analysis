@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8750479817390442,
+            "Type": "ORGANIZATION",
+            "Text": "@I_am_not_E",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9967265129089355,
+            "Type": "PERSON",
+            "Text": "John Bobbitt",
+            "BeginOffset": 41,
+            "EndOffset": 53
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9155678749084473,
+            "Type": "PERSON",
+            "Text": "@AlanKrautPoker",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8825464844703674,
+            "Type": "PERSON",
+            "Text": "@mitchellvii",
+            "BeginOffset": 20,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9847347736358643,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 83,
+            "EndOffset": 88
+        }
+    ]
+}

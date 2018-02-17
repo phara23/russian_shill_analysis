@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9873800873756409,
+            "Type": "PERSON",
+            "Text": "@steve0423",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9867897629737854,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 15,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.4963502883911133,
+            "Type": "QUANTITY",
+            "Text": "One",
+            "BeginOffset": 37,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.6711683869361877,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 71,
+            "EndOffset": 86
+        }
+    ]
+}

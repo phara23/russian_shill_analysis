@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7639047503471375,
+            "Type": "PERSON",
+            "Text": "@aidno",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9995315074920654,
+            "Type": "OTHER",
+            "Text": "https://t.co/0fsrYscvlp",
+            "BeginOffset": 104,
+            "EndOffset": 127
+        }
+    ]
+}

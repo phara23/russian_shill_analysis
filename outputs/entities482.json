@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.881458580493927,
+            "Type": "PERSON",
+            "Text": "@DynaMoChen",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.6787315011024475,
+            "Type": "PERSON",
+            "Text": "Taco Bell",
+            "BeginOffset": 39,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.8742908239364624,
+            "Type": "PERSON",
+            "Text": "@iCanHash",
+            "BeginOffset": 63,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.960513174533844,
+            "Type": "PERSON",
+            "Text": "@TLCPrincess",
+            "BeginOffset": 73,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.9853283166885376,
+            "Type": "PERSON",
+            "Text": "@TheRealJmar",
+            "BeginOffset": 86,
+            "EndOffset": 98
+        }
+    ]
+}

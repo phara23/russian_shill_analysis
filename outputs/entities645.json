@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8509122133255005,
+            "Type": "PERSON",
+            "Text": "@sippindoc",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9786213040351868,
+            "Type": "LOCATION",
+            "Text": "Dubai",
+            "BeginOffset": 49,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9997875094413757,
+            "Type": "OTHER",
+            "Text": "https://t.co/kHKQUUrVnD",
+            "BeginOffset": 85,
+            "EndOffset": 108
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7338211536407471,
+            "Type": "PERSON",
+            "Text": "@Info24",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.7714337706565857,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 10,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8340197801589966,
+            "Type": "ORGANIZATION",
+            "Text": "Church Of England",
+            "BeginOffset": 14,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9999511241912842,
+            "Type": "OTHER",
+            "Text": "http://t.co/QOAZRzn6J1",
+            "BeginOffset": 64,
+            "EndOffset": 86
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8864715695381165,
+            "Type": "PERSON",
+            "Text": "@meechonmars",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.6154258251190186,
+            "Type": "QUANTITY",
+            "Text": "first",
+            "BeginOffset": 26,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9997385144233704,
+            "Type": "OTHER",
+            "Text": "https://t.co/WWzjkpyTkt",
+            "BeginOffset": 100,
+            "EndOffset": 123
+        }
+    ]
+}

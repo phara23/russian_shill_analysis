@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9134138822555542,
+            "Type": "PERSON",
+            "Text": "@Cernovich",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9939175844192505,
+            "Type": "PERSON",
+            "Text": "Brian Stupor",
+            "BeginOffset": 20,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.8594679236412048,
+            "Type": "ORGANIZATION",
+            "Text": "Clinton News Network",
+            "BeginOffset": 60,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.904695987701416,
+            "Type": "PERSON",
+            "Text": "@daveleifer",
+            "BeginOffset": 90,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.9567646980285645,
+            "Type": "PERSON",
+            "Text": "@brianstelter",
+            "BeginOffset": 102,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.9999661445617676,
+            "Type": "OTHER",
+            "Text": "https://t.co/0M3z1EnoFd",
+            "BeginOffset": 116,
+            "EndOffset": 139
+        }
+    ]
+}

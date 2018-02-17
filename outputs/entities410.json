@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8591234683990479,
+            "Type": "PERSON",
+            "Text": "@MitchellBader",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.957740843296051,
+            "Type": "DATE",
+            "Text": "2017",
+            "BeginOffset": 22,
+            "EndOffset": 26
+        }
+    ]
+}

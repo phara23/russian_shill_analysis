@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9755197167396545,
+            "Type": "PERSON",
+            "Text": "@kolin_benson",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9985986351966858,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 35,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9966995120048523,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 46,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9251459240913391,
+            "Type": "OTHER",
+            "Text": "https://t.co/mHEj9QN8Rw",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        }
+    ]
+}

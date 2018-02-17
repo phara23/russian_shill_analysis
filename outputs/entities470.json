@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9822523593902588,
+            "Type": "PERSON",
+            "Text": "@Kamani1147",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.926494300365448,
+            "Type": "PERSON",
+            "Text": "Takei",
+            "BeginOffset": 16,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.3225390613079071,
+            "Type": "PERSON",
+            "Text": "Uranus",
+            "BeginOffset": 50,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9999573230743408,
+            "Type": "OTHER",
+            "Text": "https://t.co/5NU2H0Aauf",
+            "BeginOffset": 58,
+            "EndOffset": 81
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.955374538898468,
+            "Type": "PERSON",
+            "Text": "@denise_coyle6",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9386404752731323,
+            "Type": "PERSON",
+            "Text": "@JenniferLeeUSA",
+            "BeginOffset": 19,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9440761208534241,
+            "Type": "PERSON",
+            "Text": "@CarmineZozzora",
+            "BeginOffset": 35,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.6881265640258789,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 59,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9999901056289673,
+            "Type": "OTHER",
+            "Text": "https://t.co/KwLC6Pg5g3",
+            "BeginOffset": 64,
+            "EndOffset": 87
+        }
+    ]
+}

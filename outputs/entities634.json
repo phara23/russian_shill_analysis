@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8797476887702942,
+            "Type": "PERSON",
+            "Text": "@JUDAHsCHILDREN",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8368157744407654,
+            "Type": "PERSON",
+            "Text": "obama",
+            "BeginOffset": 20,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9999861717224121,
+            "Type": "OTHER",
+            "Text": "https://t.co/cHv0TmjCQX",
+            "BeginOffset": 66,
+            "EndOffset": 89
+        }
+    ]
+}

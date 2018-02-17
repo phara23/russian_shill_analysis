@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9017601013183594,
+            "Type": "PERSON",
+            "Text": "@StevenErtelt",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9320083260536194,
+            "Type": "OTHER",
+            "Text": "https://t.co/PUiSW89MBa",
+            "BeginOffset": 93,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.9999252557754517,
+            "Type": "OTHER",
+            "Text": "https://t.co/EXw5rHvGOp",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

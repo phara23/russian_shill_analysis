@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7520155310630798,
+            "Type": "PERSON",
+            "Text": "@indigenous01",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9210761189460754,
+            "Type": "PERSON",
+            "Text": "President-elect @realDonaldTrump",
+            "BeginOffset": 18,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.5216233730316162,
+            "Type": "PERSON",
+            "Text": "God",
+            "BeginOffset": 133,
+            "EndOffset": 136
+        }
+    ]
+}

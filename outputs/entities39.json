@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9477360248565674,
+            "Type": "PERSON",
+            "Text": "@hldb73",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9986435770988464,
+            "Type": "PERSON",
+            "Text": "Bryan",
+            "BeginOffset": 12,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9952999949455261,
+            "Type": "PERSON",
+            "Text": "Ryan Adams",
+            "BeginOffset": 21,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.8152962327003479,
+            "Type": "PERSON",
+            "Text": "@WorldOfHashtags",
+            "BeginOffset": 75,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.9687246680259705,
+            "Type": "PERSON",
+            "Text": "@TheRyanAdams",
+            "BeginOffset": 92,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.9573763012886047,
+            "Type": "PERSON",
+            "Text": "@bryanadams",
+            "BeginOffset": 106,
+            "EndOffset": 117
+        },
+        {
+            "Score": 0.9073880910873413,
+            "Type": "OTHER",
+            "Text": "https://t.co/wFBdne8K",
+            "BeginOffset": 118,
+            "EndOffset": 139
+        }
+    ]
+}

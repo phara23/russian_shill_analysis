@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6738439202308655,
+            "Type": "PERSON",
+            "Text": "Barney Madoff",
+            "BeginOffset": 0,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8225206732749939,
+            "Type": "PERSON",
+            "Text": "@midnight",
+            "BeginOffset": 30,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.999914288520813,
+            "Type": "OTHER",
+            "Text": "https://t.co/DK4AM4RoYq",
+            "BeginOffset": 40,
+            "EndOffset": 63
+        }
+    ]
+}

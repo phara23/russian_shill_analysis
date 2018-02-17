@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8983068466186523,
+            "Type": "PERSON",
+            "Text": "@ChristiChat",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.6056659817695618,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 17,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.7909955978393555,
+            "Type": "PERSON",
+            "Text": "@jstines3",
+            "BeginOffset": 20,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.704302191734314,
+            "Type": "ORGANIZATION",
+            "Text": "DEMS",
+            "BeginOffset": 31,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.6362128257751465,
+            "Type": "ORGANIZATION",
+            "Text": "LAUNDER MONEY",
+            "BeginOffset": 50,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.5955466032028198,
+            "Type": "ORGANIZATION",
+            "Text": "MOB",
+            "BeginOffset": 84,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.9381358623504639,
+            "Type": "OTHER",
+            "Text": "http://t.co/ocQtogH8Yr",
+            "BeginOffset": 105,
+            "EndOffset": 127
+        },
+        {
+            "Score": 0.4084281623363495,
+            "Type": "ORGANIZATION",
+            "Text": "#PJNET",
+            "BeginOffset": 128,
+            "EndOffset": 134
+        }
+    ]
+}

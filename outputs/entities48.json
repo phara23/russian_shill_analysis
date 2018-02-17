@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8845354914665222,
+            "Type": "PERSON",
+            "Text": "@TrumpSuperPAC",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9933329224586487,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 19,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.8073723912239075,
+            "Type": "ORGANIZATION",
+            "Text": "Muslim",
+            "BeginOffset": 29,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9270802140235901,
+            "Type": "ORGANIZATION",
+            "Text": "@FoxNews",
+            "BeginOffset": 58,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9253101944923401,
+            "Type": "ORGANIZATION",
+            "Text": "@CNN",
+            "BeginOffset": 83,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.9824338555335999,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 95,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.4700238108634949,
+            "Type": "ORGANIZATION",
+            "Text": "#MAGA",
+            "BeginOffset": 134,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7891766428947449,
+            "Type": "PERSON",
+            "Text": "@realDailyWire",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8230718970298767,
+            "Type": "ORGANIZATION",
+            "Text": "Supreme Court",
+            "BeginOffset": 23,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.862231969833374,
+            "Type": "ORGANIZATION",
+            "Text": "Democrats",
+            "BeginOffset": 45,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9471229314804077,
+            "Type": "PERSON",
+            "Text": "Pence",
+            "BeginOffset": 79,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.6941037178039551,
+            "Type": "ORGANIZATION",
+            "Text": "Democrats",
+            "BeginOffset": 114,
+            "EndOffset": 123
+        }
+    ]
+}

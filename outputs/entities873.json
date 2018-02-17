@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.86542809009552,
+            "Type": "PERSON",
+            "Text": "@SuperHeroSpeak",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8117209672927856,
+            "Type": "QUANTITY",
+            "Text": "one thing",
+            "BeginOffset": 20,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9096890687942505,
+            "Type": "PERSON",
+            "Text": "@scottjlarsonart",
+            "BeginOffset": 57,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.9380887150764465,
+            "Type": "OTHER",
+            "Text": "https://t.co/wL6qTID2Io",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        },
+        {
+            "Score": 0.5799918174743652,
+            "Type": "OTHER",
+            "Text": "#P",
+            "BeginOffset": 137,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8467367887496948,
+            "Type": "PERSON",
+            "Text": "@fubaglady",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9699562788009644,
+            "Type": "QUANTITY",
+            "Text": "50%",
+            "BeginOffset": 34,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.5556643009185791,
+            "Type": "QUANTITY",
+            "Text": "one",
+            "BeginOffset": 67,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9998231530189514,
+            "Type": "OTHER",
+            "Text": "https://t.co/wuSmcXHdpG",
+            "BeginOffset": 86,
+            "EndOffset": 109
+        }
+    ]
+}

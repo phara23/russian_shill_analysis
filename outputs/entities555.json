@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7859655022621155,
+            "Type": "PERSON",
+            "Text": "@wickwife",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8623992800712585,
+            "Type": "ORGANIZATION",
+            "Text": "Islam",
+            "BeginOffset": 73,
+            "EndOffset": 78
+        }
+    ]
+}

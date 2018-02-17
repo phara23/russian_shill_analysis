@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8183029890060425,
+            "Type": "PERSON",
+            "Text": "@ava",
+            "BeginOffset": 3,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.997402548789978,
+            "Type": "LOCATION",
+            "Text": "New Orleans",
+            "BeginOffset": 37,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9998815059661865,
+            "Type": "OTHER",
+            "Text": "https://t.co/djHXPzRLME",
+            "BeginOffset": 52,
+            "EndOffset": 75
+        }
+    ]
+}

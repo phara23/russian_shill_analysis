@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9344083666801453,
+            "Type": "PERSON",
+            "Text": "@BabyJannyMeow",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.5266993045806885,
+            "Type": "QUANTITY",
+            "Text": "15",
+            "BeginOffset": 35,
+            "EndOffset": 37
+        }
+    ]
+}

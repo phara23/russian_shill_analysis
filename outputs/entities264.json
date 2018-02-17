@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9455778002738953,
+            "Type": "PERSON",
+            "Text": "@karencollinsnyc",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9909964203834534,
+            "Type": "PERSON",
+            "Text": "Blaine Trump",
+            "BeginOffset": 21,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.26809507608413696,
+            "Type": "PERSON",
+            "Text": "God",
+            "BeginOffset": 59,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9992484450340271,
+            "Type": "PERSON",
+            "Text": "Melania",
+            "BeginOffset": 82,
+            "EndOffset": 89
+        }
+    ]
+}

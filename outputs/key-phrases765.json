@@ -1,0 +1,22 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9992817640304565,
+            "Text": "This girl",
+            "BeginOffset": 0,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9925234913825989,
+            "Text": "a very important msg",
+            "BeginOffset": 14,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9975729584693909,
+            "Text": "the word",
+            "BeginOffset": 62,
+            "EndOffset": 70
+        }
+    ]
+}

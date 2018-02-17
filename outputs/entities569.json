@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9221655130386353,
+            "Type": "PERSON",
+            "Text": "@HaroldWNelson",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9917950630187988,
+            "Type": "PERSON",
+            "Text": "David Hill",
+            "BeginOffset": 24,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.6048508286476135,
+            "Type": "QUANTITY",
+            "Text": "13",
+            "BeginOffset": 39,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.6907687187194824,
+            "Type": "QUANTITY",
+            "Text": "17",
+            "BeginOffset": 81,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.933575451374054,
+            "Type": "ORGANIZATION",
+            "Text": "Howard University",
+            "BeginOffset": 99,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.9995808005332947,
+            "Type": "OTHER",
+            "Text": "https://t.co/O7kimvyOLG",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

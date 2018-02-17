@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9191011190414429,
+            "Type": "PERSON",
+            "Text": "@Jjc1Jerry",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9790246486663818,
+            "Type": "DATE",
+            "Text": "today",
+            "BeginOffset": 36,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9247415661811829,
+            "Type": "ORGANIZATION",
+            "Text": "Clinton News Network",
+            "BeginOffset": 49,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9975048899650574,
+            "Type": "ORGANIZATION",
+            "Text": "CNN",
+            "BeginOffset": 71,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9961431622505188,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 81,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9468622803688049,
+            "Type": "OTHER",
+            "Text": "https://t.co/w",
+            "BeginOffset": 125,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7792224287986755,
+            "Type": "PERSON",
+            "Text": "@Seems3r",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9601552486419678,
+            "Type": "PERSON",
+            "Text": "@anuragkashyap72",
+            "BeginOffset": 76,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.7552317380905151,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 130,
+            "EndOffset": 139
+        }
+    ]
+}

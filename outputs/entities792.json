@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5342807769775391,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8443194031715393,
+            "Type": "ORGANIZATION",
+            "Text": "@ATL_PROMO",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9110198020935059,
+            "Type": "DATE",
+            "Text": "SATURDAY AUGUST 26",
+            "BeginOffset": 45,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9434748888015747,
+            "Type": "OTHER",
+            "Text": "https://t.c",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

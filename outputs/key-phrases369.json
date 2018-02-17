@@ -1,0 +1,28 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9974660873413086,
+            "Text": "Today",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9763457179069519,
+            "Text": "the sort",
+            "BeginOffset": 9,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9990820288658142,
+            "Text": "day",
+            "BeginOffset": 21,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9981052875518799,
+            "Text": "the sun",
+            "BeginOffset": 31,
+            "EndOffset": 38
+        }
+    ]
+}

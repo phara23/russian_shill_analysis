@@ -1,0 +1,67 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7000870704650879,
+            "Type": "PERSON",
+            "Text": "@StatesPoll",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.4314374625682831,
+            "Type": "LOCATION",
+            "Text": "Maine",
+            "BeginOffset": 16,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.8710500001907349,
+            "Type": "QUANTITY",
+            "Text": "2nd district",
+            "BeginOffset": 22,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9885202050209045,
+            "Type": "PERSON",
+            "Text": "TRUMP",
+            "BeginOffset": 36,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9983131885528564,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 45,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.8735327124595642,
+            "Type": "OTHER",
+            "Text": "https://t.co/PuS8UCO1fE",
+            "BeginOffset": 80,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.2932317852973938,
+            "Type": "ORGANIZATION",
+            "Text": "#TrumpTrain",
+            "BeginOffset": 104,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.9700672626495361,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 126,
+            "EndOffset": 130
+        },
+        {
+            "Score": 0.5302442908287048,
+            "Type": "QUANTITY",
+            "Text": "20",
+            "BeginOffset": 137,
+            "EndOffset": 139
+        }
+    ]
+}

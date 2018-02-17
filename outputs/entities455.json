@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8703814744949341,
+            "Type": "PERSON",
+            "Text": "@HillaryForGA",
+            "BeginOffset": 0,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.950101912021637,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 14,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9957744479179382,
+            "Type": "LOCATION",
+            "Text": "Benghazi",
+            "BeginOffset": 124,
+            "EndOffset": 132
+        }
+    ]
+}

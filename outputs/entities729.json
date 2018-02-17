@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8275275230407715,
+            "Type": "PERSON",
+            "Text": "@RealBlueBets",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9843818545341492,
+            "Type": "DATE",
+            "Text": "2 days ago",
+            "BeginOffset": 53,
+            "EndOffset": 63
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8329049348831177,
+            "Type": "PERSON",
+            "Text": "@fubaglady",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.987223744392395,
+            "Type": "PERSON",
+            "Text": "@SueHa55",
+            "BeginOffset": 16,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9841302633285522,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 25,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9746015071868896,
+            "Type": "PERSON",
+            "Text": "@StephenBannon",
+            "BeginOffset": 42,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9127306342124939,
+            "Type": "PERSON",
+            "Text": "@LifeZette",
+            "BeginOffset": 57,
+            "EndOffset": 67
+        }
+    ]
+}

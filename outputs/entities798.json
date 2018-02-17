@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8429089784622192,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.7208001613616943,
+            "Type": "LOCATION",
+            "Text": "South Carolina",
+            "BeginOffset": 39,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.972008228302002,
+            "Type": "QUANTITY",
+            "Text": "14",
+            "BeginOffset": 70,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.9480807185173035,
+            "Type": "OTHER",
+            "Text": "https://t.co/eCFPxSyWxq",
+            "BeginOffset": 83,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.7790184617042542,
+            "Type": "PERSON",
+            "Text": "@RawStory",
+            "BeginOffset": 107,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.9999228715896606,
+            "Type": "OTHER",
+            "Text": "https://t.co/eIZRLRpnsG",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

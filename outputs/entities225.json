@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8782746195793152,
+            "Type": "PERSON",
+            "Text": "@PigeonToday",
+            "BeginOffset": 0,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.980246365070343,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 18,
+            "EndOffset": 23
+        }
+    ]
+}

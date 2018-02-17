@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.909254789352417,
+            "Type": "PERSON",
+            "Text": "@KurtSchlichter",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9994630813598633,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 30,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.933832585811615,
+            "Type": "PERSON",
+            "Text": "@DeLoachJ",
+            "BeginOffset": 130,
+            "EndOffset": 139
+        }
+    ]
+}

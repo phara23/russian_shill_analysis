@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8249075412750244,
+            "Type": "PERSON",
+            "Text": "@IsraelNewsNow",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.904452383518219,
+            "Type": "ORGANIZATION",
+            "Text": "ADL",
+            "BeginOffset": 19,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9564169645309448,
+            "Type": "ORGANIZATION",
+            "Text": "Huffington Post",
+            "BeginOffset": 32,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.8722054958343506,
+            "Type": "OTHER",
+            "Text": "Arabic",
+            "BeginOffset": 70,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.9999845027923584,
+            "Type": "OTHER",
+            "Text": "https://t.co/hQ9YVrzhrw",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        }
+    ]
+}

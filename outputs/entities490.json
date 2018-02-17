@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6825762391090393,
+            "Type": "ORGANIZATION",
+            "Text": "@UNITEDWEDREAM",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.773256778717041,
+            "Type": "QUANTITY",
+            "Text": "3 \n\nSuicide Warning Signs",
+            "BeginOffset": 62,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.9990490674972534,
+            "Type": "OTHER",
+            "Text": "1-800-273-8255",
+            "BeginOffset": 125,
+            "EndOffset": 139
+        }
+    ]
+}

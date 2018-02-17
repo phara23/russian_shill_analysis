@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8681405782699585,
+            "Type": "PERSON",
+            "Text": "@kerpen",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9999793767929077,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 31,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.8652691841125488,
+            "Type": "QUANTITY",
+            "Text": "100%",
+            "BeginOffset": 77,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.9999830722808838,
+            "Type": "OTHER",
+            "Text": "https://t.co/ys5UYpxjXc",
+            "BeginOffset": 84,
+            "EndOffset": 107
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8563922643661499,
+            "Type": "PERSON",
+            "Text": "@GeorgiaDirtRoad",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8979406356811523,
+            "Type": "ORGANIZATION",
+            "Text": "@CNN",
+            "BeginOffset": 50,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.49158212542533875,
+            "Type": "OTHER",
+            "Text": "American",
+            "BeginOffset": 113,
+            "EndOffset": 121
+        }
+    ]
+}

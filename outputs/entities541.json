@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8204286694526672,
+            "Type": "PERSON",
+            "Text": "@OCAmericans",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9983921051025391,
+            "Type": "PERSON",
+            "Text": "Bernie Sanders",
+            "BeginOffset": 17,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9982591867446899,
+            "Type": "PERSON",
+            "Text": "Bill Clinton",
+            "BeginOffset": 38,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.6526856422424316,
+            "Type": "ORGANIZATION",
+            "Text": "White House",
+            "BeginOffset": 53,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.7800920009613037,
+            "Type": "OTHER",
+            "Text": "https://t.c",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

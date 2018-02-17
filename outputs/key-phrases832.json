@@ -1,0 +1,28 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9733459949493408,
+            "Text": "White House Letter",
+            "BeginOffset": 0,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8878728747367859,
+            "Text": "Obama",
+            "BeginOffset": 20,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9482799768447876,
+            "Text": "the White House",
+            "BeginOffset": 35,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9890357255935669,
+            "Text": "a Nerdie",
+            "BeginOffset": 51,
+            "EndOffset": 59
+        }
+    ]
+}

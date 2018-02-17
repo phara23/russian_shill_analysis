@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.895359218120575,
+            "Type": "PERSON",
+            "Text": "@Joe_America",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.866679310798645,
+            "Type": "DATE",
+            "Text": "1776",
+            "BeginOffset": 15,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9692717790603638,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 69,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.9302761554718018,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 79,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.9124667644500732,
+            "Type": "OTHER",
+            "Text": "https://t.co/kEPzYdNK",
+            "BeginOffset": 118,
+            "EndOffset": 139
+        }
+    ]
+}

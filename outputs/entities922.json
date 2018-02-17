@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8494033813476562,
+            "Type": "PERSON",
+            "Text": "@AntiRacismTv",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.6757132411003113,
+            "Type": "OTHER",
+            "Text": "European",
+            "BeginOffset": 28,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.996340811252594,
+            "Type": "OTHER",
+            "Text": "https://t.co/23KTsBV5hj",
+            "BeginOffset": 70,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.316701203584671,
+            "Type": "LOCATION",
+            "Text": "#Europe",
+            "BeginOffset": 95,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.9996479749679565,
+            "Type": "OTHER",
+            "Text": "https://t.co/XKkiiGlpUh",
+            "BeginOffset": 112,
+            "EndOffset": 135
+        }
+    ]
+}

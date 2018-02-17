@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8741248250007629,
+            "Type": "PERSON",
+            "Text": "@twright55",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.875451385974884,
+            "Type": "PERSON",
+            "Text": "@SenWarren",
+            "BeginOffset": 15,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.7027511596679688,
+            "Type": "PERSON",
+            "Text": "#Trump",
+            "BeginOffset": 26,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.4445769488811493,
+            "Type": "PERSON",
+            "Text": "#Tatiana",
+            "BeginOffset": 59,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9999479055404663,
+            "Type": "OTHER",
+            "Text": "https://t.co/88YNveeZJB",
+            "BeginOffset": 68,
+            "EndOffset": 91
+        }
+    ]
+}

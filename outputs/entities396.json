@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.49188709259033203,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8507545590400696,
+            "Type": "PERSON",
+            "Text": "@leftyguitar1",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9468512535095215,
+            "Type": "PERSON",
+            "Text": "@RobbieSherwood",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9975829720497131,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 59,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9996325969696045,
+            "Type": "OTHER",
+            "Text": "https://t.co/Qyjx4bUHiG",
+            "BeginOffset": 102,
+            "EndOffset": 125
+        }
+    ]
+}

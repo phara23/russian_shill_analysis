@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9805598855018616,
+            "Type": "PERSON",
+            "Text": "@jefe_viejo",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.5099924206733704,
+            "Type": "TITLE",
+            "Text": "Civil War",
+            "BeginOffset": 20,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.6936884522438049,
+            "Type": "PERSON",
+            "Text": "Pelosi",
+            "BeginOffset": 31,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.5563978552818298,
+            "Type": "PERSON",
+            "Text": "Warren",
+            "BeginOffset": 52,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.999924898147583,
+            "Type": "OTHER",
+            "Text": "https://t.co/5GsJVPRnXH",
+            "BeginOffset": 71,
+            "EndOffset": 94
+        }
+    ]
+}

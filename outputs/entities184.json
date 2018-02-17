@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8851178884506226,
+            "Type": "PERSON",
+            "Text": "@AmyMek",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.4745740592479706,
+            "Type": "OTHER",
+            "Text": "Somali",
+            "BeginOffset": 50,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9668776392936707,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

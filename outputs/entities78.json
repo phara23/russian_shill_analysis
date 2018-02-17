@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.870910108089447,
+            "Type": "PERSON",
+            "Text": "@divinerebel",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.6847125291824341,
+            "Type": "ORGANIZATION",
+            "Text": "@ComedyCentral",
+            "BeginOffset": 40,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.7679361701011658,
+            "Type": "PERSON",
+            "Text": "@larrywilmore",
+            "BeginOffset": 62,
+            "EndOffset": 75
+        }
+    ]
+}

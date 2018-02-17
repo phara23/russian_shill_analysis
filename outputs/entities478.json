@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9993039965629578,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 8,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.9771724343299866,
+            "Type": "PERSON",
+            "Text": "Malik Obama",
+            "BeginOffset": 58,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9998956918716431,
+            "Type": "OTHER",
+            "Text": "https://t.co/a7iLCddqqo",
+            "BeginOffset": 70,
+            "EndOffset": 93
+        }
+    ]
+}

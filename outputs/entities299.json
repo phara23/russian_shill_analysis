@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8437645435333252,
+            "Type": "ORGANIZATION",
+            "Text": "Texas Democrats",
+            "BeginOffset": 0,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9356703162193298,
+            "Type": "OTHER",
+            "Text": "https://t.co/8UEm9WnNU7",
+            "BeginOffset": 56,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.5703228712081909,
+            "Type": "ORGANIZATION",
+            "Text": "#tcot",
+            "BeginOffset": 80,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.4435456097126007,
+            "Type": "ORGANIZATION",
+            "Text": "#PJNET",
+            "BeginOffset": 86,
+            "EndOffset": 92
+        }
+    ]
+}

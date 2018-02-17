@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8767927289009094,
+            "Type": "PERSON",
+            "Text": "@shestokas",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.26427724957466125,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 15,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9690645933151245,
+            "Type": "DATE",
+            "Text": "today",
+            "BeginOffset": 114,
+            "EndOffset": 119
+        },
+        {
+            "Score": 0.956863522529602,
+            "Type": "OTHER",
+            "Text": "https://t.co/1ttdY",
+            "BeginOffset": 121,
+            "EndOffset": 139
+        }
+    ]
+}

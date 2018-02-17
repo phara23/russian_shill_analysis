@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.47296786308288574,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8987886309623718,
+            "Type": "ORGANIZATION",
+            "Text": "@Daily_Star",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8969247341156006,
+            "Type": "QUANTITY",
+            "Text": "three skiers",
+            "BeginOffset": 50,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.2777712047100067,
+            "Type": "OTHER",
+            "Text": "Brit",
+            "BeginOffset": 71,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.8486669063568115,
+            "Type": "LOCATION",
+            "Text": "French Alps",
+            "BeginOffset": 94,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.8547503352165222,
+            "Type": "OTHER",
+            "Text": "https://t.co/IobmByYYs6",
+            "BeginOffset": 106,
+            "EndOffset": 129
+        },
+        {
+            "Score": 0.9105987548828125,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 130,
+            "EndOffset": 139
+        }
+    ]
+}

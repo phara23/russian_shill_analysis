@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8469763994216919,
+            "Type": "PERSON",
+            "Text": "@IsraelandStufff",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9882560968399048,
+            "Type": "QUANTITY",
+            "Text": "12 years",
+            "BeginOffset": 64,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.39928850531578064,
+            "Type": "LOCATION",
+            "Text": "#Jerusalem",
+            "BeginOffset": 107,
+            "EndOffset": 117
+        },
+        {
+            "Score": 0.8842651844024658,
+            "Type": "PERSON",
+            "Text": "Ahmad",
+            "BeginOffset": 128,
+            "EndOffset": 133
+        }
+    ]
+}

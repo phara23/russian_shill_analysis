@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9741830825805664,
+            "Type": "QUANTITY",
+            "Text": "90 minutes",
+            "BeginOffset": 0,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9967507123947144,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 20,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9881823658943176,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 27,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9999183416366577,
+            "Type": "OTHER",
+            "Text": "https://t.co/e6mCUDNMOJ",
+            "BeginOffset": 58,
+            "EndOffset": 81
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8050000667572021,
+            "Type": "PERSON",
+            "Text": "@amrightnow",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.5243753790855408,
+            "Type": "LOCATION",
+            "Text": "Wisconsin",
+            "BeginOffset": 61,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9957183003425598,
+            "Type": "OTHER",
+            "Text": "https://t.co/rW5WkLHXBX",
+            "BeginOffset": 77,
+            "EndOffset": 100
+        }
+    ]
+}

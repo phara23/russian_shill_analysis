@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8903797268867493,
+            "Type": "PERSON",
+            "Text": "@borndarling",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9636476635932922,
+            "Type": "PERSON",
+            "Text": "trump",
+            "BeginOffset": 32,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9999635219573975,
+            "Type": "OTHER",
+            "Text": "https://t.co/ZVdL0xAmVv",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        }
+    ]
+}

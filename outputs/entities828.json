@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8991048336029053,
+            "Type": "PERSON",
+            "Text": "@HawkinsUSA",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9999799728393555,
+            "Type": "OTHER",
+            "Text": "https://t.co/KeY4IxrXV8",
+            "BeginOffset": 21,
+            "EndOffset": 44
+        }
+    ]
+}

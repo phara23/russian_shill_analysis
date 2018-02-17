@@ -1,0 +1,28 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9988599419593811,
+            "Text": "police",
+            "BeginOffset": 13,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.7870654463768005,
+            "Text": "officers",
+            "BeginOffset": 35,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9952260851860046,
+            "Text": "the front lines",
+            "BeginOffset": 66,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.9208145141601562,
+            "Text": "these difficult times",
+            "BeginOffset": 85,
+            "EndOffset": 106
+        }
+    ]
+}

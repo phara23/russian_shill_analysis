@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8994525671005249,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.915058970451355,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 35,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.47620195150375366,
+            "Type": "ORGANIZATION",
+            "Text": "Muslim",
+            "BeginOffset": 106,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.6792882084846497,
+            "Type": "OTHER",
+            "Text": "Americans",
+            "BeginOffset": 113,
+            "EndOffset": 122
+        }
+    ]
+}

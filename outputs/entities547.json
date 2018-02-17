@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9940958023071289,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.7229862213134766,
+            "Type": "PERSON",
+            "Text": "Xi Ratify",
+            "BeginOffset": 10,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.7295768857002258,
+            "Type": "LOCATION",
+            "Text": "Paris",
+            "BeginOffset": 20,
+            "EndOffset": 25
+        }
+    ]
+}

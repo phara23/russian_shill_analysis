@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8384491205215454,
+            "Type": "PERSON",
+            "Text": "@OneWordGospel",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.570548951625824,
+            "Type": "QUANTITY",
+            "Text": "each seed",
+            "BeginOffset": 56,
+            "EndOffset": 65
+        }
+    ]
+}

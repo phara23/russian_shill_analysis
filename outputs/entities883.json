@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6916664242744446,
+            "Type": "PERSON",
+            "Text": "@borforall",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.6559990644454956,
+            "Type": "ORGANIZATION",
+            "Text": "Nerf",
+            "BeginOffset": 53,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9440925121307373,
+            "Type": "COMMERCIAL_ITEM",
+            "Text": "Herder Slayer",
+            "BeginOffset": 58,
+            "EndOffset": 71
+        }
+    ]
+}

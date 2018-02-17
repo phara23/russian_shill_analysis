@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.916772186756134,
+            "Type": "PERSON",
+            "Text": "@MusicJunkyPush",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8930383920669556,
+            "Type": "QUANTITY",
+            "Text": "5 Things",
+            "BeginOffset": 20,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.8343852162361145,
+            "Type": "ORGANIZATION",
+            "Text": "Facebook",
+            "BeginOffset": 34,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.8952772617340088,
+            "Type": "OTHER",
+            "Text": "https://t.co/RahVFvbuL6",
+            "BeginOffset": 69,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.9998586177825928,
+            "Type": "OTHER",
+            "Text": "https://t.co/2BStOdQnJm",
+            "BeginOffset": 93,
+            "EndOffset": 116
+        }
+    ]
+}

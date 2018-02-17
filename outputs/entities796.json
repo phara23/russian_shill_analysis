@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6530694961547852,
+            "Type": "QUANTITY",
+            "Text": "#3",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.9722427725791931,
+            "Type": "PERSON",
+            "Text": "Adele",
+            "BeginOffset": 48,
+            "EndOffset": 53
+        }
+    ]
+}

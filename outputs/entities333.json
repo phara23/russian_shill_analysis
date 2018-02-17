@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8682572245597839,
+            "Type": "PERSON",
+            "Text": "@TruthFrqncyNews",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.5663902759552002,
+            "Type": "OTHER",
+            "Text": "British",
+            "BeginOffset": 21,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9999908208847046,
+            "Type": "OTHER",
+            "Text": "https://t.co/RwNR0vNqa4",
+            "BeginOffset": 52,
+            "EndOffset": 75
+        }
+    ]
+}

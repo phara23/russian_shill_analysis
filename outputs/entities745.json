@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9008119702339172,
+            "Type": "PERSON",
+            "Text": "@Starseed52",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.646876335144043,
+            "Type": "ORGANIZATION",
+            "Text": "#MSNBC",
+            "BeginOffset": 16,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9976333379745483,
+            "Type": "ORGANIZATION",
+            "Text": "FBI",
+            "BeginOffset": 24,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.8797324895858765,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 69,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.9983214735984802,
+            "Type": "DATE",
+            "Text": "October 28, 2016",
+            "BeginOffset": 86,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.6822227835655212,
+            "Type": "OTHER",
+            "Text": "https://t.co/fdfDdY4Odo",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        },
+        {
+            "Score": 0.7750869989395142,
+            "Type": "ORGANIZATION",
+            "Text": "#PodestaEmai",
+            "BeginOffset": 127,
+            "EndOffset": 139
+        }
+    ]
+}

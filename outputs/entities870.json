@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.943030834197998,
+            "Type": "PERSON",
+            "Text": "@AprilLaJune",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.6664320826530457,
+            "Type": "QUANTITY",
+            "Text": "5B",
+            "BeginOffset": 51,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9949964284896851,
+            "Type": "PERSON",
+            "Text": "Putin",
+            "BeginOffset": 81,
+            "EndOffset": 86
+        }
+    ]
+}

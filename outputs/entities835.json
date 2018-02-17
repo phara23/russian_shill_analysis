@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7389883995056152,
+            "Type": "PERSON",
+            "Text": "@DivineMoments",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9741660356521606,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 19,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.7862453460693359,
+            "Type": "ORGANIZATION",
+            "Text": "DOJ",
+            "BeginOffset": 63,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.999985933303833,
+            "Type": "OTHER",
+            "Text": "https://t.co/cmJRdKJq9U",
+            "BeginOffset": 81,
+            "EndOffset": 104
+        }
+    ]
+}

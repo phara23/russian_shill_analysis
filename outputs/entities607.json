@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8736253976821899,
+            "Type": "PERSON",
+            "Text": "@MsPackyetti",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8093165755271912,
+            "Type": "QUANTITY",
+            "Text": "34:5",
+            "BeginOffset": 101,
+            "EndOffset": 105
+        }
+    ]
+}

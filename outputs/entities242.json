@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8310381770133972,
+            "Type": "PERSON",
+            "Text": "@luvGodncountry",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9881645441055298,
+            "Type": "ORGANIZATION",
+            "Text": "YouTube",
+            "BeginOffset": 35,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9753046631813049,
+            "Type": "OTHER",
+            "Text": "https://t.co/GRzkk3uMf8",
+            "BeginOffset": 50,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.4528816044330597,
+            "Type": "QUANTITY",
+            "Text": "1",
+            "BeginOffset": 95,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.9979931116104126,
+            "Type": "OTHER",
+            "Text": "https://t.co/yhkJPLAjlw",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        }
+    ]
+}

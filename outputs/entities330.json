@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9504196047782898,
+            "Type": "PERSON",
+            "Text": "@luchadora41",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9493500590324402,
+            "Type": "LOCATION",
+            "Text": "Europe",
+            "BeginOffset": 51,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9173902273178101,
+            "Type": "OTHER",
+            "Text": "https://t.co/5PGVEVD9w4",
+            "BeginOffset": 58,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.3048773407936096,
+            "Type": "ORGANIZATION",
+            "Text": "#WakeUpAmerica",
+            "BeginOffset": 82,
+            "EndOffset": 96
+        }
+    ]
+}

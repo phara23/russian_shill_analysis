@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8802180290222168,
+            "Type": "PERSON",
+            "Text": "@TheSynead",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.814072847366333,
+            "Type": "PERSON",
+            "Text": "@RappaChick",
+            "BeginOffset": 37,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.7456136345863342,
+            "Type": "EVENT",
+            "Text": "Christmas",
+            "BeginOffset": 69,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.9998694658279419,
+            "Type": "OTHER",
+            "Text": "https://t.co/rFWIqRHqko",
+            "BeginOffset": 101,
+            "EndOffset": 124
+        }
+    ]
+}

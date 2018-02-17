@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9049215912818909,
+            "Type": "QUANTITY",
+            "Text": "74%",
+            "BeginOffset": 6,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9501546025276184,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 24,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9495913982391357,
+            "Type": "OTHER",
+            "Text": "https://t.co/kMK99bIJq1",
+            "BeginOffset": 58,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.9999843835830688,
+            "Type": "OTHER",
+            "Text": "https://t.co/R0Qau3FfUK",
+            "BeginOffset": 82,
+            "EndOffset": 105
+        }
+    ]
+}

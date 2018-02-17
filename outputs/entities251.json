@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.809052050113678,
+            "Type": "PERSON",
+            "Text": "@CincinnatiDays",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9983257055282593,
+            "Type": "PERSON",
+            "Text": "John Kasich",
+            "BeginOffset": 20,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.5037111639976501,
+            "Type": "QUANTITY",
+            "Text": "third campaign",
+            "BeginOffset": 38,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9090499877929688,
+            "Type": "LOCATION",
+            "Text": "Michigan",
+            "BeginOffset": 61,
+            "EndOffset": 69
+        }
+    ]
+}

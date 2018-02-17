@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6844524145126343,
+            "Type": "ORGANIZATION",
+            "Text": "@NRSC",
+            "BeginOffset": 3,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.9996219277381897,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 10,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.5457945466041565,
+            "Type": "PERSON",
+            "Text": "Dem",
+            "BeginOffset": 41,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9502952694892883,
+            "Type": "OTHER",
+            "Text": "https://t.co/oKglPKqUKF",
+            "BeginOffset": 68,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.5072920918464661,
+            "Type": "ORGANIZATION",
+            "Text": "#PASen",
+            "BeginOffset": 92,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.9999580383300781,
+            "Type": "OTHER",
+            "Text": "https://t.co/5qzZbn2PGe",
+            "BeginOffset": 99,
+            "EndOffset": 122
+        }
+    ]
+}

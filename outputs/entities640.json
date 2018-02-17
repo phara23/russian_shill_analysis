@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9454790353775024,
+            "Type": "PERSON",
+            "Text": "@ckazjason",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9707778096199036,
+            "Type": "QUANTITY",
+            "Text": "3%",
+            "BeginOffset": 50,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.6873846650123596,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 53,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.7579522728919983,
+            "Type": "QUANTITY",
+            "Text": "Single Year",
+            "BeginOffset": 87,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.9555260539054871,
+            "Type": "QUANTITY",
+            "Text": "3%",
+            "BeginOffset": 102,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.9898229837417603,
+            "Type": "OTHER",
+            "Text": "https://t.co/EXItBH14io",
+            "BeginOffset": 112,
+            "EndOffset": 135
+        }
+    ]
+}

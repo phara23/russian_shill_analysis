@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.892129123210907,
+            "Type": "PERSON",
+            "Text": "@igorvolsky",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.6950422525405884,
+            "Type": "PERSON",
+            "Text": "Ayotte",
+            "BeginOffset": 45,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9233186841011047,
+            "Type": "ORGANIZATION",
+            "Text": "NRA",
+            "BeginOffset": 107,
+            "EndOffset": 110
+        }
+    ]
+}

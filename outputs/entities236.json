@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8892530202865601,
+            "Type": "PERSON",
+            "Text": "@DBloom451",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9518575072288513,
+            "Type": "PERSON",
+            "Text": "@KellyAyotte",
+            "BeginOffset": 18,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9843666553497314,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 64,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9775406718254089,
+            "Type": "PERSON",
+            "Text": "Kelly",
+            "BeginOffset": 108,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.9999899864196777,
+            "Type": "OTHER",
+            "Text": "https://t.co/ACxetz89R0",
+            "BeginOffset": 115,
+            "EndOffset": 138
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9766672849655151,
+            "Type": "PERSON",
+            "Text": "@JamilSmith",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9961711764335632,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 16,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.49777039885520935,
+            "Type": "PERSON",
+            "Text": "Khans",
+            "BeginOffset": 88,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.8111395835876465,
+            "Type": "PERSON",
+            "Text": "@gabrielsherman",
+            "BeginOffset": 104,
+            "EndOffset": 119
+        },
+        {
+            "Score": 0.6632834672927856,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 130,
+            "EndOffset": 139
+        }
+    ]
+}

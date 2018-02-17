@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8679598569869995,
+            "Type": "PERSON",
+            "Text": "@ArchangelMagicx",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9504718780517578,
+            "Type": "ORGANIZATION",
+            "Text": "Republican",
+            "BeginOffset": 21,
+            "EndOffset": 31
+        }
+    ]
+}

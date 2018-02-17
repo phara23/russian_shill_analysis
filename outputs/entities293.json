@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.49799656867980957,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8656936883926392,
+            "Type": "PERSON",
+            "Text": "@HereIs_Kev",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9957528114318848,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 68,
+            "EndOffset": 73
+        }
+    ]
+}

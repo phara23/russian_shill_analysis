@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8990803956985474,
+            "Type": "PERSON",
+            "Text": "@MannyBuckley",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9903228282928467,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 49,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.8073921799659729,
+            "Type": "QUANTITY",
+            "Text": "4Words",
+            "BeginOffset": 55,
+            "EndOffset": 61
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9593788385391235,
+            "Type": "DATE",
+            "Text": "1950",
+            "BeginOffset": 35,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9813712239265442,
+            "Type": "PERSON",
+            "Text": "Truman",
+            "BeginOffset": 40,
+            "EndOffset": 46
+        }
+    ]
+}

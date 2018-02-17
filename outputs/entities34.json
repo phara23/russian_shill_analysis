@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7781993746757507,
+            "Type": "PERSON",
+            "Text": "@Ladydiann2",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7338717579841614,
+            "Type": "OTHER",
+            "Text": "Americans",
+            "BeginOffset": 34,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9464132785797119,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 49,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.727656364440918,
+            "Type": "OTHER",
+            "Text": "American",
+            "BeginOffset": 80,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9965304732322693,
+            "Type": "OTHER",
+            "Text": "https://t.co/G44E6",
+            "BeginOffset": 121,
+            "EndOffset": 139
+        }
+    ]
+}

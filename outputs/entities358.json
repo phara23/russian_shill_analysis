@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8542953133583069,
+            "Type": "PERSON",
+            "Text": "@LibAmericaOrg",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6683265566825867,
+            "Type": "PERSON",
+            "Text": "Florida Jailers",
+            "BeginOffset": 24,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9187492728233337,
+            "Type": "OTHER",
+            "Text": "https://t.co/TUL1qioA8u",
+            "BeginOffset": 92,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.9999016523361206,
+            "Type": "OTHER",
+            "Text": "https://t.co/vmWQgsRyeY",
+            "BeginOffset": 116,
+            "EndOffset": 139
+        }
+    ]
+}

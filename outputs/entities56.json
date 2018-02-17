@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7647303342819214,
+            "Type": "PERSON",
+            "Text": "@NBLmusicSalerno",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.709835946559906,
+            "Type": "DATE",
+            "Text": "#2017",
+            "BeginOffset": 21,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.905376136302948,
+            "Type": "PERSON",
+            "Text": "Mio Paisan",
+            "BeginOffset": 46,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.8776039481163025,
+            "Type": "PERSON",
+            "Text": "@SleepSkee",
+            "BeginOffset": 57,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.8765764236450195,
+            "Type": "ORGANIZATION",
+            "Text": "@Twitter",
+            "BeginOffset": 79,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.7480078339576721,
+            "Type": "PERSON",
+            "Text": "@LoveQuotes",
+            "BeginOffset": 88,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.6556282639503479,
+            "Type": "ORGANIZATION",
+            "Text": "@sc",
+            "BeginOffset": 136,
+            "EndOffset": 139
+        }
+    ]
+}

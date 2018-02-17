@@ -1,0 +1,34 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9981504678726196,
+            "Text": "My favorite texts",
+            "BeginOffset": 0,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9968209266662598,
+            "Text": "the ones",
+            "BeginOffset": 22,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9889721274375916,
+            "Text": "a smile",
+            "BeginOffset": 67,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9988511204719543,
+            "Text": "your face",
+            "BeginOffset": 78,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.997310221195221,
+            "Text": "the first time",
+            "BeginOffset": 98,
+            "EndOffset": 112
+        }
+    ]
+}

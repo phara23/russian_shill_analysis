@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7535473108291626,
+            "Type": "PERSON",
+            "Text": "@Prntly",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.8179757595062256,
+            "Type": "ORGANIZATION",
+            "Text": "Politico",
+            "BeginOffset": 21,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9740197658538818,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 44,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9731830358505249,
+            "Type": "ORGANIZATION",
+            "Text": "CNN",
+            "BeginOffset": 75,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.9839199185371399,
+            "Type": "OTHER",
+            "Text": "https://t.co/UU2AzVDLFj",
+            "BeginOffset": 82,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.8692970275878906,
+            "Type": "PERSON",
+            "Text": "@aduanebrown",
+            "BeginOffset": 106,
+            "EndOffset": 118
+        },
+        {
+            "Score": 0.9914014339447021,
+            "Type": "PERSON",
+            "Text": "@Rockprincess818",
+            "BeginOffset": 119,
+            "EndOffset": 135
+        },
+        {
+            "Score": 0.9104401469230652,
+            "Type": "PERSON",
+            "Text": "@K",
+            "BeginOffset": 137,
+            "EndOffset": 139
+        }
+    ]
+}

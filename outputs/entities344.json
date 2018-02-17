@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.792757511138916,
+            "Type": "PERSON",
+            "Text": "@TwiterHero",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.781697154045105,
+            "Type": "LOCATION",
+            "Text": "U.S.",
+            "BeginOffset": 16,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.9768270254135132,
+            "Type": "QUANTITY",
+            "Text": "10 billion",
+            "BeginOffset": 59,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.988444447517395,
+            "Type": "DATE",
+            "Text": "2021",
+            "BeginOffset": 73,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9753813147544861,
+            "Type": "OTHER",
+            "Text": "https://t.co/lbbIQF3Jpv",
+            "BeginOffset": 86,
+            "EndOffset": 109
+        },
+        {
+            "Score": 0.9790191650390625,
+            "Type": "ORGANIZATION",
+            "Text": "@Reuters",
+            "BeginOffset": 114,
+            "EndOffset": 122
+        },
+        {
+            "Score": 0.8872520923614502,
+            "Type": "QUANTITY",
+            "Text": "1 in",
+            "BeginOffset": 131,
+            "EndOffset": 135
+        }
+    ]
+}

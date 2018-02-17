@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8591946959495544,
+            "Type": "PERSON",
+            "Text": "@AmericanLandsCn",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9903516173362732,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 21,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9999842643737793,
+            "Type": "OTHER",
+            "Text": "https://t.co/c49W9Y2hDd",
+            "BeginOffset": 89,
+            "EndOffset": 112
+        }
+    ]
+}

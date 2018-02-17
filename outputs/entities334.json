@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6855823993682861,
+            "Type": "PERSON",
+            "Text": "@VABVOX",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9767112135887146,
+            "Type": "PERSON",
+            "Text": "@docrocktex26",
+            "BeginOffset": 12,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9648696184158325,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 26,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9961339235305786,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 124,
+            "EndOffset": 128
+        }
+    ]
+}

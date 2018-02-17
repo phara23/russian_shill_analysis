@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9111060500144958,
+            "Type": "PERSON",
+            "Text": "@mitchellvii",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9975288510322571,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 55,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9870577454566956,
+            "Type": "ORGANIZATION",
+            "Text": "Twitter",
+            "BeginOffset": 85,
+            "EndOffset": 92
+        }
+    ]
+}

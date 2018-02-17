@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8596110939979553,
+            "Type": "PERSON",
+            "Text": "@tgradous",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.351291686296463,
+            "Type": "PERSON",
+            "Text": "#TedCruz",
+            "BeginOffset": 14,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9460791945457458,
+            "Type": "OTHER",
+            "Text": "https://t.co/eDXklBNGw5",
+            "BeginOffset": 82,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.9366326928138733,
+            "Type": "OTHER",
+            "Text": "https://t.co/m1",
+            "BeginOffset": 124,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7032507061958313,
+            "Type": "PERSON",
+            "Text": "Israel Clinton",
+            "BeginOffset": 26,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9999486804008484,
+            "Type": "PERSON",
+            "Text": "Tim Kaine",
+            "BeginOffset": 54,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9832940101623535,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 82,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.9653910398483276,
+            "Type": "OTHER",
+            "Text": "https://t.co/aAWhKKPG5H",
+            "BeginOffset": 88,
+            "EndOffset": 111
+        },
+        {
+            "Score": 0.9999974966049194,
+            "Type": "OTHER",
+            "Text": "https://t.co/MksJ0XB5PD",
+            "BeginOffset": 112,
+            "EndOffset": 135
+        }
+    ]
+}

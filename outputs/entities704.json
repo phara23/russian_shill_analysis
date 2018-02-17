@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8878562450408936,
+            "Type": "QUANTITY",
+            "Text": "tens of thousands of ineligible mail",
+            "BeginOffset": 34,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.990278422832489,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 74,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.9220725297927856,
+            "Type": "LOCATION",
+            "Text": "Broward County, Flor",
+            "BeginOffset": 106,
+            "EndOffset": 126
+        }
+    ]
+}

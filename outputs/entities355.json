@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8946177363395691,
+            "Type": "PERSON",
+            "Text": "@iDeLorean",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.999927282333374,
+            "Type": "OTHER",
+            "Text": "https://t.co/iSmmJt92u6",
+            "BeginOffset": 42,
+            "EndOffset": 65
+        }
+    ]
+}

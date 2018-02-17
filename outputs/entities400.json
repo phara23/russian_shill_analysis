@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7863181233406067,
+            "Type": "PERSON",
+            "Text": "@WorldProfessor",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.84891676902771,
+            "Type": "PERSON",
+            "Text": "@GdnHigherEd",
+            "BeginOffset": 86,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.916959285736084,
+            "Type": "PERSON",
+            "Text": "@insidehighered",
+            "BeginOffset": 99,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.9039914608001709,
+            "Type": "PERSON",
+            "Text": "@DiverseIssues",
+            "BeginOffset": 115,
+            "EndOffset": 129
+        },
+        {
+            "Score": 0.9425148963928223,
+            "Type": "PERSON",
+            "Text": "@chronicl",
+            "BeginOffset": 130,
+            "EndOffset": 139
+        }
+    ]
+}

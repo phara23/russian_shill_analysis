@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.3257790505886078,
+            "Type": "ORGANIZATION",
+            "Text": "NORAD",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9820324778556824,
+            "Type": "OTHER",
+            "Text": "https://t.co/pA0lDQG2OU",
+            "BeginOffset": 48,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.43569254875183105,
+            "Type": "ORGANIZATION",
+            "Text": "#RT",
+            "BeginOffset": 72,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.8355188369750977,
+            "Type": "ORGANIZATION",
+            "Text": "@MoviFallenAngel",
+            "BeginOffset": 76,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.9999610185623169,
+            "Type": "OTHER",
+            "Text": "https://t.co/jL2fB4Qe4M",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        }
+    ]
+}

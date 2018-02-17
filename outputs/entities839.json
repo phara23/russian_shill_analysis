@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6080844402313232,
+            "Type": "PERSON",
+            "Text": "@Fusion",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9932796359062195,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 21,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9999861717224121,
+            "Type": "PERSON",
+            "Text": "Steve Bannon",
+            "BeginOffset": 56,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.8723418116569519,
+            "Type": "OTHER",
+            "Text": "Asians",
+            "BeginOffset": 100,
+            "EndOffset": 106
+        }
+    ]
+}

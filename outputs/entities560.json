@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9249868988990784,
+            "Type": "PERSON",
+            "Text": "@davidsirota",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7674321532249451,
+            "Type": "PERSON",
+            "Text": "@TheYoungTurks",
+            "BeginOffset": 18,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.8790512084960938,
+            "Type": "ORGANIZATION",
+            "Text": "@IBTimes",
+            "BeginOffset": 42,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9603520631790161,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 75,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.9999850988388062,
+            "Type": "OTHER",
+            "Text": "https://t.co/819Aq48tdl",
+            "BeginOffset": 95,
+            "EndOffset": 118
+        }
+    ]
+}

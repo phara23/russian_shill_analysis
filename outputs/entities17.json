@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8362142443656921,
+            "Type": "PERSON",
+            "Text": "@AIIAmericanGirI",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9808790683746338,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 24,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.5286393761634827,
+            "Type": "QUANTITY",
+            "Text": "450",
+            "BeginOffset": 37,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.5590581893920898,
+            "Type": "LOCATION",
+            "Text": "Iraq",
+            "BeginOffset": 41,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9998400211334229,
+            "Type": "OTHER",
+            "Text": "http://t.co/nNAeycMv6c",
+            "BeginOffset": 64,
+            "EndOffset": 86
+        }
+    ]
+}

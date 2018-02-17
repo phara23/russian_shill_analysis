@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8841038346290588,
+            "Type": "PERSON",
+            "Text": "@apostlelaurinda",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9912740588188171,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 21,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9697997570037842,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 66,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.5102360844612122,
+            "Type": "PERSON",
+            "Text": "di",
+            "BeginOffset": 138,
+            "EndOffset": 140
+        }
+    ]
+}

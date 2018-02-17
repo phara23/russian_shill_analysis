@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9538002014160156,
+            "Type": "PERSON",
+            "Text": "@KellyannePolls",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9951693415641785,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 20,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.92453533411026,
+            "Type": "QUANTITY",
+            "Text": "more than 6 pts",
+            "BeginOffset": 39,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.7021410465240479,
+            "Type": "ORGANIZATION",
+            "Text": "@latimes",
+            "BeginOffset": 58,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9835989475250244,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 92,
+            "EndOffset": 99
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.62535560131073,
+            "Type": "ORGANIZATION",
+            "Text": "@100PercFEDUP",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9716877937316895,
+            "Type": "DATE",
+            "Text": "October",
+            "BeginOffset": 108,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.9609783887863159,
+            "Type": "OTHER",
+            "Text": "https://t.co",
+            "BeginOffset": 127,
+            "EndOffset": 139
+        }
+    ]
+}

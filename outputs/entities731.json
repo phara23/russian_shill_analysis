@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.851561963558197,
+            "Type": "PERSON",
+            "Text": "@GoodMenProject",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9863958358764648,
+            "Type": "DATE",
+            "Text": "today",
+            "BeginOffset": 62,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9916427135467529,
+            "Type": "DATE",
+            "Text": "Tomorrow",
+            "BeginOffset": 69,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9999610185623169,
+            "Type": "OTHER",
+            "Text": "https://t.co/m1IPQZGQHK",
+            "BeginOffset": 79,
+            "EndOffset": 102
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9086713194847107,
+            "Type": "PERSON",
+            "Text": "@Stevenwhirsch99",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9797550439834595,
+            "Type": "QUANTITY",
+            "Text": "4 men",
+            "BeginOffset": 44,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9987602233886719,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 55,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.31527531147003174,
+            "Type": "PERSON",
+            "Text": "#Benghazi",
+            "BeginOffset": 78,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.9999676942825317,
+            "Type": "OTHER",
+            "Text": "https://t.co/c83qXIoWgq",
+            "BeginOffset": 101,
+            "EndOffset": 124
+        }
+    ]
+}

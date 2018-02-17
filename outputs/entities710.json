@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8696888089179993,
+            "Type": "PERSON",
+            "Text": "@LoyalByDesign",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9243577122688293,
+            "Type": "QUANTITY",
+            "Text": "65%",
+            "BeginOffset": 76,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.9177157878875732,
+            "Type": "QUANTITY",
+            "Text": "1 HOUR",
+            "BeginOffset": 86,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.8760260939598083,
+            "Type": "OTHER",
+            "Text": "https://t.co/NPq63KMyS2",
+            "BeginOffset": 104,
+            "EndOffset": 127
+        },
+        {
+            "Score": 0.9463764429092407,
+            "Type": "OTHER",
+            "Text": "https://t.c",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

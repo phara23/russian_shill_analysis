@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.67732173204422,
+            "Type": "LOCATION",
+            "Text": "Saudi",
+            "BeginOffset": 13,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.6061140894889832,
+            "Type": "PERSON",
+            "Text": "Hill",
+            "BeginOffset": 34,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9999756813049316,
+            "Type": "OTHER",
+            "Text": "https://t.co/ZiAXrUYbNF",
+            "BeginOffset": 40,
+            "EndOffset": 63
+        }
+    ]
+}

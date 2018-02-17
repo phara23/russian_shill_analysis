@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8658002018928528,
+            "Type": "PERSON",
+            "Text": "@creepingsharia",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8438158631324768,
+            "Type": "LOCATION",
+            "Text": "Rhode Island",
+            "BeginOffset": 20,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.7049160003662109,
+            "Type": "QUANTITY",
+            "Text": "Four Muslim “students",
+            "BeginOffset": 34,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9237321019172668,
+            "Type": "OTHER",
+            "Text": "https://t.co/x4UaAKlLDJ",
+            "BeginOffset": 104,
+            "EndOffset": 127
+        },
+        {
+            "Score": 0.9670080542564392,
+            "Type": "OTHER",
+            "Text": "http://t.co",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8623407483100891,
+            "Type": "PERSON",
+            "Text": "@LeksIIIRadio",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.917059063911438,
+            "Type": "PERSON",
+            "Text": "Pence",
+            "BeginOffset": 41,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9974470138549805,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 53,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.5412857532501221,
+            "Type": "LOCATION",
+            "Text": "WI Town",
+            "BeginOffset": 62,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9654302597045898,
+            "Type": "DATE",
+            "Text": "Aug 5",
+            "BeginOffset": 75,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.9806055426597595,
+            "Type": "OTHER",
+            "Text": "https://t.co/d6f6zT7sJU",
+            "BeginOffset": 81,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.7301392555236816,
+            "Type": "ORGANIZATION",
+            "Text": "@bigjbeezy",
+            "BeginOffset": 109,
+            "EndOffset": 119
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.882577657699585,
+            "Type": "PERSON",
+            "Text": "Guten Morgen",
+            "BeginOffset": 0,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.6774890422821045,
+            "Type": "PERSON",
+            "Text": "Liebe",
+            "BeginOffset": 20,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9997935891151428,
+            "Type": "OTHER",
+            "Text": "https://t.co/Kshc1Hzc2u",
+            "BeginOffset": 74,
+            "EndOffset": 97
+        }
+    ]
+}

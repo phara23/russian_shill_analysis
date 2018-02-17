@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9495805501937866,
+            "Type": "PERSON",
+            "Text": "@Marc_Smash",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8304858803749084,
+            "Type": "PERSON",
+            "Text": "@Acosta",
+            "BeginOffset": 16,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9995259046554565,
+            "Type": "OTHER",
+            "Text": "https://t.co/mhWRWdfuQz",
+            "BeginOffset": 24,
+            "EndOffset": 47
+        }
+    ]
+}

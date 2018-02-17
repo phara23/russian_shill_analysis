@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8414587378501892,
+            "Type": "PERSON",
+            "Text": "@JOHNGARCIA1152",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8453900814056396,
+            "Type": "PERSON",
+            "Text": "@USFreedomArmy",
+            "BeginOffset": 20,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9221354126930237,
+            "Type": "PERSON",
+            "Text": "JOHN LEWIS",
+            "BeginOffset": 39,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9999090433120728,
+            "Type": "OTHER",
+            "Text": "https://t.co/ax9kTSKcdM",
+            "BeginOffset": 56,
+            "EndOffset": 79
+        }
+    ]
+}

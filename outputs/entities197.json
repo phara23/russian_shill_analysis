@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8961405754089355,
+            "Type": "PERSON",
+            "Text": "@RobHoey",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.7478139996528625,
+            "Type": "OTHER",
+            "Text": "Iraqi",
+            "BeginOffset": 30,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.33708927035331726,
+            "Type": "LOCATION",
+            "Text": "Mosul",
+            "BeginOffset": 57,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9977512955665588,
+            "Type": "OTHER",
+            "Text": "https://t.co/9mkTmLoEZQ",
+            "BeginOffset": 65,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.936623215675354,
+            "Type": "ORGANIZATION",
+            "Text": "@RobHoey",
+            "BeginOffset": 93,
+            "EndOffset": 101
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5075703859329224,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.688200831413269,
+            "Type": "PERSON",
+            "Text": "@PoundSignGames",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.6261613368988037,
+            "Type": "DATE",
+            "Text": "#2016",
+            "BeginOffset": 68,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.8356760740280151,
+            "Type": "QUANTITY",
+            "Text": "3Words",
+            "BeginOffset": 83,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.9008920788764954,
+            "Type": "PERSON",
+            "Text": "@GiselleEvns",
+            "BeginOffset": 114,
+            "EndOffset": 126
+        }
+    ]
+}

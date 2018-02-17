@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8812258839607239,
+            "Type": "PERSON",
+            "Text": "@DorothyERoberts",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9902594685554504,
+            "Type": "TITLE",
+            "Text": "Immigration Act of 1924",
+            "BeginOffset": 88,
+            "EndOffset": 111
+        },
+        {
+            "Score": 0.9999394416809082,
+            "Type": "OTHER",
+            "Text": "https://t.co/5VXyckyeRU",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        }
+    ]
+}

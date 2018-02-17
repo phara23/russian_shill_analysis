@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8731065988540649,
+            "Type": "PERSON",
+            "Text": "@Robertfata1",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9312731623649597,
+            "Type": "LOCATION",
+            "Text": "Europe",
+            "BeginOffset": 112,
+            "EndOffset": 118
+        }
+    ]
+}

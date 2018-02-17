@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8981441855430603,
+            "Type": "PERSON",
+            "Text": "@bergwelten",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7072411775588989,
+            "Type": "PERSON",
+            "Text": "Ein beeindruckendes",
+            "BeginOffset": 16,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9955803751945496,
+            "Type": "QUANTITY",
+            "Text": "3.106 m",
+            "BeginOffset": 62,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.8490554690361023,
+            "Type": "PERSON",
+            "Text": "@philipp.schoenauer",
+            "BeginOffset": 89,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.7912675142288208,
+            "Type": "PERSON",
+            "Text": "@bergwelten",
+            "BeginOffset": 117,
+            "EndOffset": 128
+        }
+    ]
+}

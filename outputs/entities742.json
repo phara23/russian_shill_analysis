@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7183008790016174,
+            "Type": "PERSON",
+            "Text": "@washingtonpost",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9952484965324402,
+            "Type": "PERSON",
+            "Text": "Pence",
+            "BeginOffset": 20,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9984971880912781,
+            "Type": "DATE",
+            "Text": "Feb. 9",
+            "BeginOffset": 46,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9979768395423889,
+            "Type": "PERSON",
+            "Text": "Flynn",
+            "BeginOffset": 58,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.8172280192375183,
+            "Type": "LOCATION",
+            "Text": "Russia",
+            "BeginOffset": 78,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.7599533796310425,
+            "Type": "QUANTITY",
+            "Text": "two weeks",
+            "BeginOffset": 86,
+            "EndOffset": 95
+        }
+    ]
+}

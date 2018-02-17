@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5477948188781738,
+            "Type": "QUANTITY",
+            "Text": "second",
+            "BeginOffset": 13,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.6145972609519958,
+            "Type": "LOCATION",
+            "Text": "Americans",
+            "BeginOffset": 21,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9897352457046509,
+            "Type": "ORGANIZATION",
+            "Text": "FBI",
+            "BeginOffset": 49,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.907815158367157,
+            "Type": "PERSON",
+            "Text": "Comey",
+            "BeginOffset": 62,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9999842643737793,
+            "Type": "OTHER",
+            "Text": "https://t.co/tXqbeRK3yw",
+            "BeginOffset": 83,
+            "EndOffset": 106
+        }
+    ]
+}

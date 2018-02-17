@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8158025145530701,
+            "Type": "PERSON",
+            "Text": "@Muricadad",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.4239337742328644,
+            "Type": "PERSON",
+            "Text": "#HillaryClinton",
+            "BeginOffset": 20,
+            "EndOffset": 35
+        }
+    ]
+}

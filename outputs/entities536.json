@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.79945969581604,
+            "Type": "PERSON",
+            "Text": "@realDailyWire",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8702558279037476,
+            "Type": "ORGANIZATION",
+            "Text": "UN",
+            "BeginOffset": 19,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.6314477324485779,
+            "Type": "ORGANIZATION",
+            "Text": "Israel",
+            "BeginOffset": 70,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.9999638795852661,
+            "Type": "OTHER",
+            "Text": "https://t.co/Yuc6lRlV0A",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        }
+    ]
+}

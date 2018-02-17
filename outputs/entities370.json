@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8967159986495972,
+            "Type": "PERSON",
+            "Text": "@Trump4",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.4590126574039459,
+            "Type": "PERSON",
+            "Text": "HILLARY",
+            "BeginOffset": 56,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9911062121391296,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 74,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.35956084728240967,
+            "Type": "PERSON",
+            "Text": "#HillaryClinton",
+            "BeginOffset": 79,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.5606470108032227,
+            "Type": "PERSON",
+            "Text": "#CrookedClinton",
+            "BeginOffset": 95,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.9384124875068665,
+            "Type": "OTHER",
+            "Text": "https://t.co/M",
+            "BeginOffset": 125,
+            "EndOffset": 139
+        }
+    ]
+}

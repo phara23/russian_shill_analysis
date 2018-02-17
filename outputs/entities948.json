@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8181194067001343,
+            "Type": "ORGANIZATION",
+            "Text": "@CBCNews",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.7647697329521179,
+            "Type": "LOCATION",
+            "Text": "Ottawa",
+            "BeginOffset": 13,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.879518449306488,
+            "Type": "OTHER",
+            "Text": "http://t.co/vQv9xcFpfz",
+            "BeginOffset": 90,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.9999634027481079,
+            "Type": "OTHER",
+            "Text": "http://t.co/i5m9uctPkz",
+            "BeginOffset": 113,
+            "EndOffset": 135
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9258037209510803,
+            "Type": "PERSON",
+            "Text": "@michaelkeyes",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8903624415397644,
+            "Type": "QUANTITY",
+            "Text": "18 Times",
+            "BeginOffset": 77,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.9642088413238525,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 86,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.9368528723716736,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 100,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.9808558821678162,
+            "Type": "LOCATION",
+            "Text": "Asia",
+            "BeginOffset": 111,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.9999477863311768,
+            "Type": "OTHER",
+            "Text": "https://t.co/vYZ5dRY1KD",
+            "BeginOffset": 116,
+            "EndOffset": 139
+        }
+    ]
+}

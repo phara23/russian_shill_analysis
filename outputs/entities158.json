@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7807847857475281,
+            "Type": "PERSON",
+            "Text": "@RoseD1st",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.5125792622566223,
+            "Type": "PERSON",
+            "Text": "Trumps",
+            "BeginOffset": 17,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9997575879096985,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 30,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9959232807159424,
+            "Type": "PERSON",
+            "Text": "Bill Clinton",
+            "BeginOffset": 42,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9915848970413208,
+            "Type": "OTHER",
+            "Text": "https://t.co/I0G1WZ6Q6K",
+            "BeginOffset": 67,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9863530993461609,
+            "Type": "ORGANIZATION",
+            "Text": "@YouTube",
+            "BeginOffset": 95,
+            "EndOffset": 103
+        }
+    ]
+}

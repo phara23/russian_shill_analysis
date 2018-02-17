@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8842512369155884,
+            "Type": "PERSON",
+            "Text": "@basedmattforney",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9791553616523743,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 36,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.6195924878120422,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 130,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7479498386383057,
+            "Type": "PERSON",
+            "Text": "@TuesdayTells",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8841080069541931,
+            "Type": "PERSON",
+            "Text": "@MikePenceVP",
+            "BeginOffset": 19,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.31773969531059265,
+            "Type": "PERSON",
+            "Text": "#HillaryClinton",
+            "BeginOffset": 34,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9827235341072083,
+            "Type": "QUANTITY",
+            "Text": "33,000",
+            "BeginOffset": 121,
+            "EndOffset": 127
+        }
+    ]
+}

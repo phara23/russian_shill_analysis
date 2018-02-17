@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6834898591041565,
+            "Type": "PERSON",
+            "Text": "@Shooters_Wife",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6359931230545044,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 19,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.6746541857719421,
+            "Type": "ORGANIZATION",
+            "Text": "@Shooters_Wife",
+            "BeginOffset": 22,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.925649106502533,
+            "Type": "OTHER",
+            "Text": "https://t.co/0ta5DFxOis",
+            "BeginOffset": 110,
+            "EndOffset": 133
+        }
+    ]
+}

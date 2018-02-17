@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8585399985313416,
+            "Type": "PERSON",
+            "Text": "Orlando Shooter",
+            "BeginOffset": 0,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9378756284713745,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 33,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.567216157913208,
+            "Type": "ORGANIZATION",
+            "Text": "NYT",
+            "BeginOffset": 57,
+            "EndOffset": 60
+        }
+    ]
+}

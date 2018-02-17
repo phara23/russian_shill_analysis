@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6281806826591492,
+            "Type": "PERSON",
+            "Text": "@mseric",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.7874608039855957,
+            "Type": "PERSON",
+            "Text": "@Diealated",
+            "BeginOffset": 12,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9999508857727051,
+            "Type": "OTHER",
+            "Text": "https://t.co/Dk701ymTz4",
+            "BeginOffset": 47,
+            "EndOffset": 70
+        }
+    ]
+}

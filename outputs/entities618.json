@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8541268110275269,
+            "Type": "PERSON",
+            "Text": "@JSCCounterPunch",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9895889759063721,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 26,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.7006837129592896,
+            "Type": "OTHER",
+            "Text": "Asian",
+            "BeginOffset": 34,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9929914474487305,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 80,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.9383496046066284,
+            "Type": "OTHER",
+            "Text": "Chinese",
+            "BeginOffset": 100,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.6943516135215759,
+            "Type": "LOCATION",
+            "Text": "Taiwan",
+            "BeginOffset": 126,
+            "EndOffset": 132
+        }
+    ]
+}

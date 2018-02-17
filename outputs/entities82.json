@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.838480532169342,
+            "Type": "PERSON",
+            "Text": "@funkflex",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.7527337074279785,
+            "Type": "PERSON",
+            "Text": "Jeezy",
+            "BeginOffset": 22,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.99763023853302,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 31,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9998477697372437,
+            "Type": "OTHER",
+            "Text": "https://t.co/ApqAVshya9",
+            "BeginOffset": 93,
+            "EndOffset": 116
+        }
+    ]
+}

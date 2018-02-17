@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8854442238807678,
+            "Type": "PERSON",
+            "Text": "@FlanaganSiobhan",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9307692050933838,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 57,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.9996664524078369,
+            "Type": "OTHER",
+            "Text": "https://t.co/atPUgLuC1F",
+            "BeginOffset": 101,
+            "EndOffset": 124
+        }
+    ]
+}

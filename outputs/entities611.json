@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9510322213172913,
+            "Type": "PERSON",
+            "Text": "@ScottieKash",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8615068197250366,
+            "Type": "PERSON",
+            "Text": "@KevinEArgueta",
+            "BeginOffset": 37,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9999133348464966,
+            "Type": "OTHER",
+            "Text": "https://t.co/oMSOtXji0S",
+            "BeginOffset": 52,
+            "EndOffset": 75
+        }
+    ]
+}

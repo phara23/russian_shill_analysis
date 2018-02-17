@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9128962755203247,
+            "Type": "PERSON",
+            "Text": "@kimberqueenb",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.812167227268219,
+            "Type": "QUANTITY",
+            "Text": "3Words",
+            "BeginOffset": 34,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9940083026885986,
+            "Type": "PERSON",
+            "Text": "Elaine Benes",
+            "BeginOffset": 50,
+            "EndOffset": 62
+        }
+    ]
+}

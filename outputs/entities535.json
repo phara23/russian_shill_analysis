@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7162286639213562,
+            "Type": "QUANTITY",
+            "Text": "third chance",
+            "BeginOffset": 0,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8070771098136902,
+            "Type": "QUANTITY",
+            "Text": "second",
+            "BeginOffset": 34,
+            "EndOffset": 40
+        }
+    ]
+}

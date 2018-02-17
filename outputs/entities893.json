@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6573336124420166,
+            "Type": "EVENT",
+            "Text": "2016 Race",
+            "BeginOffset": 4,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.709352433681488,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 22,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9782296419143677,
+            "Type": "OTHER",
+            "Text": "https://t.co/N3VROO52r8",
+            "BeginOffset": 63,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9808973670005798,
+            "Type": "OTHER",
+            "Text": "https://t.co/XDBaPnHm6c",
+            "BeginOffset": 89,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.9999710321426392,
+            "Type": "OTHER",
+            "Text": "https://t.co/79OaDfdBLk",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        }
+    ]
+}

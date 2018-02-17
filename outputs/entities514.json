@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.889071524143219,
+            "Type": "PERSON",
+            "Text": "@danadoo1",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.7441427707672119,
+            "Type": "QUANTITY",
+            "Text": "4Words",
+            "BeginOffset": 48,
+            "EndOffset": 54
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9514737129211426,
+            "Type": "PERSON",
+            "Text": "@LindaSuhler",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9995335936546326,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 18,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9561929702758789,
+            "Type": "QUANTITY",
+            "Text": "550%",
+            "BeginOffset": 53,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.5432591438293457,
+            "Type": "OTHER",
+            "Text": "Syrian",
+            "BeginOffset": 70,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.6441808342933655,
+            "Type": "LOCATION",
+            "Text": "U.S..",
+            "BeginOffset": 102,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.564293622970581,
+            "Type": "QUANTITY",
+            "Text": "16",
+            "BeginOffset": 122,
+            "EndOffset": 124
+        }
+    ]
+}

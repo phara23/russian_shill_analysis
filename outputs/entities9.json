@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8784307837486267,
+            "Type": "PERSON",
+            "Text": "@Shareblue",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9963511228561401,
+            "Type": "PERSON",
+            "Text": "Pence",
+            "BeginOffset": 15,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.9924909472465515,
+            "Type": "OTHER",
+            "Text": "https://t.co/HjhPguBK1Y",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        },
+        {
+            "Score": 0.9590873122215271,
+            "Type": "PERSON",
+            "Text": "@alisonrose711",
+            "BeginOffset": 123,
+            "EndOffset": 137
+        }
+    ]
+}

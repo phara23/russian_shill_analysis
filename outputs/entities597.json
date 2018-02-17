@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9034011363983154,
+            "Type": "PERSON",
+            "Text": "@poodbit499",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8960743546485901,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 16,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9721293449401855,
+            "Type": "PERSON",
+            "Text": "TRUMP",
+            "BeginOffset": 39,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.5781671404838562,
+            "Type": "QUANTITY",
+            "Text": "one election",
+            "BeginOffset": 124,
+            "EndOffset": 136
+        }
+    ]
+}

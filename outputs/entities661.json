@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9122979640960693,
+            "Type": "PERSON",
+            "Text": "@freedomwatchweb",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9604588150978088,
+            "Type": "PERSON",
+            "Text": "Comey",
+            "BeginOffset": 21,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9455298185348511,
+            "Type": "ORGANIZATION",
+            "Text": "Republicans",
+            "BeginOffset": 99,
+            "EndOffset": 110
+        }
+    ]
+}

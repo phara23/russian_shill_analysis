@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8746637105941772,
+            "Type": "PERSON",
+            "Text": "@midnight",
+            "BeginOffset": 0,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.7706068754196167,
+            "Type": "QUANTITY",
+            "Text": "Fifth Grazer",
+            "BeginOffset": 40,
+            "EndOffset": 52
+        }
+    ]
+}

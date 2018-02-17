@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8159446716308594,
+            "Type": "PERSON",
+            "Text": "@doubledittos",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9981496930122375,
+            "Type": "PERSON",
+            "Text": "Jeff Sessions",
+            "BeginOffset": 53,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9995743632316589,
+            "Type": "OTHER",
+            "Text": "https://t.co/09uSAoFu4Z",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        }
+    ]
+}

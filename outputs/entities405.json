@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8400570750236511,
+            "Type": "PERSON",
+            "Text": "@thehill",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9826866388320923,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 29,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.996605396270752,
+            "Type": "PERSON",
+            "Text": "John Lewis",
+            "BeginOffset": 69,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.8848361968994141,
+            "Type": "OTHER",
+            "Text": "https://t.co/uxSjn0lvXX",
+            "BeginOffset": 81,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.9999861717224121,
+            "Type": "OTHER",
+            "Text": "https://t.co/9KZ5NzbrJb",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        }
+    ]
+}

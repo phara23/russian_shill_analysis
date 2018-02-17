@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9152722954750061,
+            "Type": "PERSON",
+            "Text": "@ThankYouBernie",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9984258413314819,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 20,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9998910427093506,
+            "Type": "OTHER",
+            "Text": "https://t.co/NdH8GQoZbj",
+            "BeginOffset": 81,
+            "EndOffset": 104
+        }
+    ]
+}

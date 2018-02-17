@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8728285431861877,
+            "Type": "PERSON",
+            "Text": "@AriaWilsonGOP",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8538399934768677,
+            "Type": "QUANTITY",
+            "Text": "3 Women Face Charges",
+            "BeginOffset": 19,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.5658053755760193,
+            "Type": "QUANTITY",
+            "Text": "Dozens",
+            "BeginOffset": 68,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.8915148377418518,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 78,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.8305580615997314,
+            "Type": "OTHER",
+            "Text": "https://t.co/JjlZxaW3JN",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.9999802112579346,
+            "Type": "OTHER",
+            "Text": "https://t.co/qW2Ok9ROxH",
+            "BeginOffset": 114,
+            "EndOffset": 137
+        }
+    ]
+}

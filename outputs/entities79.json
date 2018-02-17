@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9942322373390198,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.7934858202934265,
+            "Type": "ORGANIZATION",
+            "Text": "Muslims",
+            "BeginOffset": 78,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.9020271301269531,
+            "Type": "LOCATION",
+            "Text": "NY",
+            "BeginOffset": 92,
+            "EndOffset": 94
+        }
+    ]
+}

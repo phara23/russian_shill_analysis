@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9393645524978638,
+            "Type": "PERSON",
+            "Text": "@brianmcarey",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7435497641563416,
+            "Type": "LOCATION",
+            "Text": "Texas",
+            "BeginOffset": 73,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.9997627139091492,
+            "Type": "OTHER",
+            "Text": "https://t.co/eVVCRDRLii",
+            "BeginOffset": 92,
+            "EndOffset": 115
+        }
+    ]
+}

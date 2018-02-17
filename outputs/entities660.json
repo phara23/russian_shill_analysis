@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9056927561759949,
+            "Type": "PERSON",
+            "Text": "@missLtoe",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8961095809936523,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 50,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9902336597442627,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 65,
+            "EndOffset": 70
+        }
+    ]
+}

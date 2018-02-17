@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7793354392051697,
+            "Type": "PERSON",
+            "Text": "@bodysculptorokc",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9946789741516113,
+            "Type": "ORGANIZATION",
+            "Text": "CNN",
+            "BeginOffset": 21,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9760273694992065,
+            "Type": "PERSON",
+            "Text": "Pence",
+            "BeginOffset": 35,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9949931502342224,
+            "Type": "PERSON",
+            "Text": "Pence",
+            "BeginOffset": 117,
+            "EndOffset": 122
+        }
+    ]
+}

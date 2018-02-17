@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.753635823726654,
+            "Type": "PERSON",
+            "Text": "@vulture",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.5730926394462585,
+            "Type": "ORGANIZATION",
+            "Text": "M.I.A.",
+            "BeginOffset": 13,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.804766058921814,
+            "Type": "PERSON",
+            "Text": "@craigsj",
+            "BeginOffset": 55,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.8138378262519836,
+            "Type": "OTHER",
+            "Text": "https://t.co/mSYa5nwlE2",
+            "BeginOffset": 73,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.9999858140945435,
+            "Type": "OTHER",
+            "Text": "https://t.co/Qnv4nR10VC",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        }
+    ]
+}

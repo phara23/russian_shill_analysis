@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9172163605690002,
+            "Type": "PERSON",
+            "Text": "@JacquelinIsBest",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.6251160502433777,
+            "Type": "QUANTITY",
+            "Text": "12 March",
+            "BeginOffset": 40,
+            "EndOffset": 48
+        }
+    ]
+}

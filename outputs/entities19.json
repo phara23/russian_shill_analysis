@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6632465124130249,
+            "Type": "PERSON",
+            "Text": "@RadioACR",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9931430220603943,
+            "Type": "PERSON",
+            "Text": "Chuck Todd",
+            "BeginOffset": 14,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9980670213699341,
+            "Type": "PERSON",
+            "Text": "Kellyanne Conway",
+            "BeginOffset": 28,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.8004555106163025,
+            "Type": "PERSON",
+            "Text": "@21WIRE",
+            "BeginOffset": 78,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.9639426469802856,
+            "Type": "PERSON",
+            "Text": "@KellyannePolls",
+            "BeginOffset": 91,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.9877209663391113,
+            "Type": "PERSON",
+            "Text": "Chuck Todd",
+            "BeginOffset": 113,
+            "EndOffset": 123
+        },
+        {
+            "Score": 0.8266408443450928,
+            "Type": "OTHER",
+            "Text": "https://t.co/gi",
+            "BeginOffset": 124,
+            "EndOffset": 139
+        }
+    ]
+}

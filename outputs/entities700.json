@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9641716480255127,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.6562972068786621,
+            "Type": "LOCATION",
+            "Text": "Louisiana",
+            "BeginOffset": 31,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9952449202537537,
+            "Type": "PERSON",
+            "Text": "John Kennedy",
+            "BeginOffset": 65,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.98336261510849,
+            "Type": "DATE",
+            "Text": "tomorrow",
+            "BeginOffset": 78,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9823864698410034,
+            "Type": "PERSON",
+            "Text": "Kennedy",
+            "BeginOffset": 97,
+            "EndOffset": 104
+        }
+    ]
+}

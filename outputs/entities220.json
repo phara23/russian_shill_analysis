@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9394285678863525,
+            "Type": "PERSON",
+            "Text": "@johnpike15",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9179522395133972,
+            "Type": "PERSON",
+            "Text": "@TalibKweli",
+            "BeginOffset": 16,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.8549261093139648,
+            "Type": "PERSON",
+            "Text": "@Unanimous_D",
+            "BeginOffset": 28,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.8937229514122009,
+            "Type": "PERSON",
+            "Text": "@blackwoodplus",
+            "BeginOffset": 101,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.9998156428337097,
+            "Type": "OTHER",
+            "Text": "https://t.co/7E3o2BJyTz",
+            "BeginOffset": 116,
+            "EndOffset": 139
+        }
+    ]
+}

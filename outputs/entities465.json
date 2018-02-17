@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8321864008903503,
+            "Type": "PERSON",
+            "Text": "@renatomotta1303",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.7668680548667908,
+            "Type": "QUANTITY",
+            "Text": "90",
+            "BeginOffset": 21,
+            "EndOffset": 23
+        }
+    ]
+}

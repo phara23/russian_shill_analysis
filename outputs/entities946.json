@@ -1,0 +1,67 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9884718656539917,
+            "Type": "PERSON",
+            "Text": "@azar_sara",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8529766798019409,
+            "Type": "PERSON",
+            "Text": "@whitewolfdown",
+            "BeginOffset": 15,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9744853973388672,
+            "Type": "PERSON",
+            "Text": "@AnnaCohenZodek",
+            "BeginOffset": 30,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9861115217208862,
+            "Type": "PERSON",
+            "Text": "@CJCameron3",
+            "BeginOffset": 46,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9955699443817139,
+            "Type": "PERSON",
+            "Text": "@Gianlui91580067",
+            "BeginOffset": 58,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9965579509735107,
+            "Type": "PERSON",
+            "Text": "@KeepSmile912",
+            "BeginOffset": 75,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9380916357040405,
+            "Type": "PERSON",
+            "Text": "@LUTZUdo",
+            "BeginOffset": 89,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.9682451486587524,
+            "Type": "PERSON",
+            "Text": "@xandraax",
+            "BeginOffset": 98,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.9998664855957031,
+            "Type": "OTHER",
+            "Text": "https://t.co/5L9CYGwbfN",
+            "BeginOffset": 108,
+            "EndOffset": 131
+        }
+    ]
+}

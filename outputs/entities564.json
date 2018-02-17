@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.816410481929779,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8049814105033875,
+            "Type": "ORGANIZATION",
+            "Text": "Black Caucus Joins House",
+            "BeginOffset": 13,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9749592542648315,
+            "Type": "OTHER",
+            "Text": "https://t.co/4eyBcTj3H0",
+            "BeginOffset": 61,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.7825984954833984,
+            "Type": "PERSON",
+            "Text": "@EurWeb",
+            "BeginOffset": 85,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.9998201727867126,
+            "Type": "OTHER",
+            "Text": "https://t.co/u3OlgIKy3E",
+            "BeginOffset": 93,
+            "EndOffset": 116
+        }
+    ]
+}

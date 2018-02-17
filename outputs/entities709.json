@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8056992888450623,
+            "Type": "PERSON",
+            "Text": "@m_cof",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9925461411476135,
+            "Type": "ORGANIZATION",
+            "Text": "Twitter",
+            "BeginOffset": 11,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.6976669430732727,
+            "Type": "QUANTITY",
+            "Text": "first quarter",
+            "BeginOffset": 72,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.9041662812232971,
+            "Type": "OTHER",
+            "Text": "http://t.co/YQ2imH6kUA",
+            "BeginOffset": 106,
+            "EndOffset": 128
+        },
+        {
+            "Score": 0.9851952195167542,
+            "Type": "OTHER",
+            "Text": "http://t.c",
+            "BeginOffset": 129,
+            "EndOffset": 139
+        }
+    ]
+}

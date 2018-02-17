@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9257683157920837,
+            "Type": "PERSON",
+            "Text": "@LindaSuhler",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9569310545921326,
+            "Type": "PERSON",
+            "Text": "Cruz",
+            "BeginOffset": 17,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.8476799726486206,
+            "Type": "PERSON",
+            "Text": "Carson",
+            "BeginOffset": 36,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.5107029676437378,
+            "Type": "PERSON",
+            "Text": "Carson Dropout",
+            "BeginOffset": 73,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.8494683504104614,
+            "Type": "OTHER",
+            "Text": "https://t.co/vpvC2zvUyv",
+            "BeginOffset": 106,
+            "EndOffset": 129
+        },
+        {
+            "Score": 0.7540761828422546,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 130,
+            "EndOffset": 139
+        }
+    ]
+}

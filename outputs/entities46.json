@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8755964636802673,
+            "Type": "PERSON",
+            "Text": "@RawStory",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9793000817298889,
+            "Type": "TITLE",
+            "Text": "Star Wars",
+            "BeginOffset": 15,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9107753038406372,
+            "Type": "PERSON",
+            "Text": "Han Solo",
+            "BeginOffset": 26,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9847801923751831,
+            "Type": "DATE",
+            "Text": "January",
+            "BeginOffset": 64,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9999836683273315,
+            "Type": "OTHER",
+            "Text": "https://t.co/bkZq7F7IkD",
+            "BeginOffset": 72,
+            "EndOffset": 95
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8062679171562195,
+            "Type": "PERSON",
+            "Text": "@LotusTom",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.988029420375824,
+            "Type": "PERSON",
+            "Text": "Graham",
+            "BeginOffset": 17,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9994269609451294,
+            "Type": "PERSON",
+            "Text": "McCain",
+            "BeginOffset": 28,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.8246926665306091,
+            "Type": "OTHER",
+            "Text": "Russian",
+            "BeginOffset": 54,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.42377355694770813,
+            "Type": "PERSON",
+            "Text": "Syr",
+            "BeginOffset": 136,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8377468585968018,
+            "Type": "PERSON",
+            "Text": "@thomassfl",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.7219520211219788,
+            "Type": "ORGANIZATION",
+            "Text": "Wikileaks",
+            "BeginOffset": 15,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9908657073974609,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 35,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9965322017669678,
+            "Type": "PERSON",
+            "Text": "Bernie Sanders",
+            "BeginOffset": 63,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9777554869651794,
+            "Type": "OTHER",
+            "Text": "https://t.co/l9X32FegV6",
+            "BeginOffset": 78,
+            "EndOffset": 101
+        }
+    ]
+}

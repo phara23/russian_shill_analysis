@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8913885951042175,
+            "Type": "PERSON",
+            "Text": "@sinbadbad",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9292654991149902,
+            "Type": "PERSON",
+            "Text": "trump",
+            "BeginOffset": 93,
+            "EndOffset": 98
+        }
+    ]
+}

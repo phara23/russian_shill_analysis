@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9427587985992432,
+            "Type": "PERSON",
+            "Text": "@Jasper_Fly",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.4776785671710968,
+            "Type": "QUANTITY",
+            "Text": "100",
+            "BeginOffset": 25,
+            "EndOffset": 28
+        }
+    ]
+}

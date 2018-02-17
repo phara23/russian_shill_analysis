@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8379130959510803,
+            "Type": "PERSON",
+            "Text": "@ScreamyMonkey",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.24034622311592102,
+            "Type": "PERSON",
+            "Text": "Ladue",
+            "BeginOffset": 65,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.8705665469169617,
+            "Type": "QUANTITY",
+            "Text": "0 million",
+            "BeginOffset": 77,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.8877747058868408,
+            "Type": "ORGANIZATION",
+            "Text": "St. Louis Post-Dispatch",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        },
+        {
+            "Score": 0.9761173725128174,
+            "Type": "OTHER",
+            "Text": "http://t.co/vHHE",
+            "BeginOffset": 121,
+            "EndOffset": 137
+        }
+    ]
+}

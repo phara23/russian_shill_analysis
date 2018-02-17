@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8566404581069946,
+            "Type": "PERSON",
+            "Text": "@AntiRacismTv",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9569522738456726,
+            "Type": "LOCATION",
+            "Text": "Venezuela",
+            "BeginOffset": 119,
+            "EndOffset": 128
+        }
+    ]
+}

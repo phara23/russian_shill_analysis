@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8056142330169678,
+            "Type": "PERSON",
+            "Text": "@HistoryHeroes",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6126870512962341,
+            "Type": "LOCATION",
+            "Text": "LA Leimert Park",
+            "BeginOffset": 19,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9404823780059814,
+            "Type": "DATE",
+            "Text": "today 7/31/2016",
+            "BeginOffset": 42,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.751710057258606,
+            "Type": "QUANTITY",
+            "Text": "11a",
+            "BeginOffset": 59,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9881574511528015,
+            "Type": "QUANTITY",
+            "Text": "6p",
+            "BeginOffset": 63,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9382642507553101,
+            "Type": "OTHER",
+            "Text": "https://t.co",
+            "BeginOffset": 127,
+            "EndOffset": 139
+        }
+    ]
+}

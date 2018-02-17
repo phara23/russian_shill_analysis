@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8355227708816528,
+            "Type": "PERSON",
+            "Text": "@GeffGefferson1",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9603180289268494,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 44,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.8741623163223267,
+            "Type": "PERSON",
+            "Text": "@TheHashtagGame",
+            "BeginOffset": 67,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.951650857925415,
+            "Type": "PERSON",
+            "Text": "@TheHashPod",
+            "BeginOffset": 84,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.9432497620582581,
+            "Type": "PERSON",
+            "Text": "@Diealated",
+            "BeginOffset": 97,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.9719195365905762,
+            "Type": "PERSON",
+            "Text": "@ImJordanCharles",
+            "BeginOffset": 109,
+            "EndOffset": 125
+        },
+        {
+            "Score": 0.9299758672714233,
+            "Type": "PERSON",
+            "Text": "@SethGoodtim",
+            "BeginOffset": 127,
+            "EndOffset": 139
+        }
+    ]
+}

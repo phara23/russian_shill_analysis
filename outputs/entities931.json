@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5088922381401062,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.6985084414482117,
+            "Type": "ORGANIZATION",
+            "Text": "@NYC_",
+            "BeginOffset": 3,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.9997362494468689,
+            "Type": "PERSON",
+            "Text": "Bruce Jenner",
+            "BeginOffset": 18,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9829628467559814,
+            "Type": "ORGANIZATION",
+            "Text": "ABC",
+            "BeginOffset": 38,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.3789493143558502,
+            "Type": "QUANTITY",
+            "Text": "millions",
+            "BeginOffset": 53,
+            "EndOffset": 61
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8695579767227173,
+            "Type": "PERSON",
+            "Text": "@Payetsu",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.7676252722740173,
+            "Type": "QUANTITY",
+            "Text": "11:11",
+            "BeginOffset": 92,
+            "EndOffset": 97
+        }
+    ]
+}

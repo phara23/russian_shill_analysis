@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8546429872512817,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9667038321495056,
+            "Type": "LOCATION",
+            "Text": "New Orleans",
+            "BeginOffset": 15,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9279107451438904,
+            "Type": "OTHER",
+            "Text": "https://t.co/beBQHvy1DE",
+            "BeginOffset": 111,
+            "EndOffset": 134
+        },
+        {
+            "Score": 0.7142371535301208,
+            "Type": "PERSON",
+            "Text": "@Raw",
+            "BeginOffset": 135,
+            "EndOffset": 139
+        }
+    ]
+}

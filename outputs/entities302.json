@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7684758305549622,
+            "Type": "PERSON",
+            "Text": "@muwo",
+            "BeginOffset": 3,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.9487942457199097,
+            "Type": "DATE",
+            "Text": "tonight",
+            "BeginOffset": 54,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.6205496788024902,
+            "Type": "DATE",
+            "Text": "#80s",
+            "BeginOffset": 63,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.5444037318229675,
+            "Type": "QUANTITY",
+            "Text": "90",
+            "BeginOffset": 67,
+            "EndOffset": 69
+        }
+    ]
+}

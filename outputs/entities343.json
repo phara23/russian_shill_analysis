@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8227939605712891,
+            "Type": "PERSON",
+            "Text": "@DiscloseTV",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9123156666755676,
+            "Type": "QUANTITY",
+            "Text": "One Hour",
+            "BeginOffset": 33,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9993368983268738,
+            "Type": "OTHER",
+            "Text": "https://t.co/lHAwonvHA2",
+            "BeginOffset": 83,
+            "EndOffset": 106
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8279364109039307,
+            "Type": "QUANTITY",
+            "Text": "Both candidates",
+            "BeginOffset": 0,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.5133796334266663,
+            "Type": "PERSON",
+            "Text": "Jigsaw",
+            "BeginOffset": 41,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9997839331626892,
+            "Type": "OTHER",
+            "Text": "https://t.co/TwgOU5nu49",
+            "BeginOffset": 77,
+            "EndOffset": 100
+        }
+    ]
+}

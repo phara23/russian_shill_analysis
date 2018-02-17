@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9550367593765259,
+            "Type": "PERSON",
+            "Text": "@JoyAnnReid",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7131773829460144,
+            "Type": "PERSON",
+            "Text": "@amjoyshow",
+            "BeginOffset": 34,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9725267291069031,
+            "Type": "DATE",
+            "Text": "today",
+            "BeginOffset": 56,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9998906850814819,
+            "Type": "OTHER",
+            "Text": "https://t.co/qVbeS9waRF",
+            "BeginOffset": 75,
+            "EndOffset": 98
+        }
+    ]
+}

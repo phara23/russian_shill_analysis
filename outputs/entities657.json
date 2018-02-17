@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8549911379814148,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9741162657737732,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 18,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.957953691482544,
+            "Type": "OTHER",
+            "Text": "https://t.co/AgECMmglkY",
+            "BeginOffset": 43,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.7549028396606445,
+            "Type": "PERSON",
+            "Text": "@NatCounterPunch",
+            "BeginOffset": 67,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.9999241828918457,
+            "Type": "OTHER",
+            "Text": "https://t.co/2IJLKyZ3ry",
+            "BeginOffset": 84,
+            "EndOffset": 107
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8940436244010925,
+            "Type": "PERSON",
+            "Text": "@cmdorsey",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9759562015533447,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 14,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9983338713645935,
+            "Type": "DATE",
+            "Text": "2014",
+            "BeginOffset": 107,
+            "EndOffset": 111
+        }
+    ]
+}

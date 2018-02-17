@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.720794141292572,
+            "Type": "PERSON",
+            "Text": "@petefrt",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8514862060546875,
+            "Type": "PERSON",
+            "Text": "@Reince",
+            "BeginOffset": 19,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9398013949394226,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 28,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.995050847530365,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 48,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9129810929298401,
+            "Type": "OTHER",
+            "Text": "https://t.co/i9NMamhwN2",
+            "BeginOffset": 91,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.999981164932251,
+            "Type": "OTHER",
+            "Text": "https://t.co/EugB8uOOC2",
+            "BeginOffset": 115,
+            "EndOffset": 138
+        }
+    ]
+}

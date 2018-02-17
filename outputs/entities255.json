@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9504882097244263,
+            "Type": "PERSON",
+            "Text": "@ErikHandy",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9666264057159424,
+            "Type": "DATE",
+            "Text": "Today",
+            "BeginOffset": 15,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.9997878670692444,
+            "Type": "OTHER",
+            "Text": "https://t.co/IpzBb1WYcS",
+            "BeginOffset": 53,
+            "EndOffset": 76
+        }
+    ]
+}

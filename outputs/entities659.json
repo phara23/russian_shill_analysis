@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8248500227928162,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.7403293251991272,
+            "Type": "PERSON",
+            "Text": "@IBW21st",
+            "BeginOffset": 14,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9999598264694214,
+            "Type": "OTHER",
+            "Text": "https://t.co/Hx49d3UCUM",
+            "BeginOffset": 91,
+            "EndOffset": 114
+        }
+    ]
+}

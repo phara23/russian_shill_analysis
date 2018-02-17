@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9433577656745911,
+            "Type": "PERSON",
+            "Text": "Justin",
+            "BeginOffset": 57,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.7895603179931641,
+            "Type": "PERSON",
+            "Text": "Beiber",
+            "BeginOffset": 66,
+            "EndOffset": 72
+        }
+    ]
+}

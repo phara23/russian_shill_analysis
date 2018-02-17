@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7540224194526672,
+            "Type": "PERSON",
+            "Text": "@17ebivor",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.7915840744972229,
+            "Type": "QUANTITY",
+            "Text": "More Than 20",
+            "BeginOffset": 53,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.999774158000946,
+            "Type": "OTHER",
+            "Text": "https://t.co/r6tCn6wcBy",
+            "BeginOffset": 89,
+            "EndOffset": 112
+        }
+    ]
+}

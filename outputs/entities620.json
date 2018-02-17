@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.518925130367279,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.9685426950454712,
+            "Type": "PERSON",
+            "Text": "@Dean_TenBrink",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        }
+    ]
+}

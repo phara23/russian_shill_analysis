@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7880039811134338,
+            "Type": "PERSON",
+            "Text": "@googergieger",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9962234497070312,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 50,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.615962028503418,
+            "Type": "PERSON",
+            "Text": "Trumpertantrum",
+            "BeginOffset": 79,
+            "EndOffset": 93
+        }
+    ]
+}

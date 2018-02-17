@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7030178308486938,
+            "Type": "PERSON",
+            "Text": "@goFBW",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9273626804351807,
+            "Type": "DATE",
+            "Text": "this weekend",
+            "BeginOffset": 23,
+            "EndOffset": 35
+        }
+    ]
+}

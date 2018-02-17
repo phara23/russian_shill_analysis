@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9046050310134888,
+            "Type": "PERSON",
+            "Text": "@ellelljaytoo",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.48991531133651733,
+            "Type": "LOCATION",
+            "Text": "Midwestern",
+            "BeginOffset": 119,
+            "EndOffset": 129
+        }
+    ]
+}

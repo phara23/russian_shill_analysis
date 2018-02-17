@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9180986285209656,
+            "Type": "PERSON",
+            "Text": "@andersonDrLJA",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9640989899635315,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 25,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.5435017943382263,
+            "Type": "QUANTITY",
+            "Text": "2JAIL",
+            "BeginOffset": 62,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.6284414529800415,
+            "Type": "QUANTITY",
+            "Text": "2JAIL",
+            "BeginOffset": 79,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.7787262201309204,
+            "Type": "LOCATION",
+            "Text": "AMERICA",
+            "BeginOffset": 110,
+            "EndOffset": 117
+        }
+    ]
+}

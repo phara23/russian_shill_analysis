@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9224605560302734,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.6231241226196289,
+            "Type": "PERSON",
+            "Text": "Taj Mahal",
+            "BeginOffset": 6,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8276627659797668,
+            "Type": "LOCATION",
+            "Text": "Atlantic City",
+            "BeginOffset": 32,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.6855433583259583,
+            "Type": "ORGANIZATION",
+            "Text": "Wall Street",
+            "BeginOffset": 61,
+            "EndOffset": 72
+        }
+    ]
+}

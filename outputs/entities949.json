@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8384044766426086,
+            "Type": "PERSON",
+            "Text": "@Shimmyfab",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8765057325363159,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 15,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9990608096122742,
+            "Type": "OTHER",
+            "Text": "https://t.co/H7fhAtE1Zy",
+            "BeginOffset": 111,
+            "EndOffset": 134
+        }
+    ]
+}

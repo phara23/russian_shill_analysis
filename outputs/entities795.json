@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9186479449272156,
+            "Type": "PERSON",
+            "Text": "@matthewamiller",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9721087217330933,
+            "Type": "DATE",
+            "Text": "today",
+            "BeginOffset": 24,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.6588464975357056,
+            "Type": "ORGANIZATION",
+            "Text": "DOJ",
+            "BeginOffset": 69,
+            "EndOffset": 72
+        }
+    ]
+}

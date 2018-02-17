@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.880246639251709,
+            "Type": "PERSON",
+            "Text": "Kanzlerin",
+            "BeginOffset": 0,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.7911043167114258,
+            "Type": "PERSON",
+            "Text": "von dem Volk",
+            "BeginOffset": 15,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.999064028263092,
+            "Type": "OTHER",
+            "Text": "https://t.co/jxcJAkmLPf",
+            "BeginOffset": 64,
+            "EndOffset": 87
+        }
+    ]
+}

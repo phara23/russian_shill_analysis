@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8810716271400452,
+            "Type": "PERSON",
+            "Text": "@kiddstclair",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.4201718866825104,
+            "Type": "LOCATION",
+            "Text": "Cincinnati",
+            "BeginOffset": 21,
+            "EndOffset": 31
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9765864610671997,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.43270474672317505,
+            "Type": "LOCATION",
+            "Text": "Kenyan",
+            "BeginOffset": 8,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.89894038438797,
+            "Type": "QUANTITY",
+            "Text": "half-brother",
+            "BeginOffset": 15,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9965031147003174,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 45,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.7976360321044922,
+            "Type": "OTHER",
+            "Text": "https://t.co/CKasedqsWg #news",
+            "BeginOffset": 58,
+            "EndOffset": 87
+        }
+    ]
+}

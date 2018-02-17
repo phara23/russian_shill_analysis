@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8322638273239136,
+            "Type": "PERSON",
+            "Text": "@xavvypls",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8454488515853882,
+            "Type": "ORGANIZATION",
+            "Text": "Channel4News",
+            "BeginOffset": 38,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.8836981654167175,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 71,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.4866481423377991,
+            "Type": "ORGANIZATION",
+            "Text": "SAA",
+            "BeginOffset": 85,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.6887909173965454,
+            "Type": "QUANTITY",
+            "Text": "First",
+            "BeginOffset": 103,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.5282974243164062,
+            "Type": "LOCATION",
+            "Text": "Russia",
+            "BeginOffset": 115,
+            "EndOffset": 121
+        }
+    ]
+}

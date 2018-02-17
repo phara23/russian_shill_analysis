@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8410171270370483,
+            "Type": "PERSON",
+            "Text": "@wokieleaks1",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9987314343452454,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 36,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.766600489616394,
+            "Type": "QUANTITY",
+            "Text": "first president",
+            "BeginOffset": 54,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9998711347579956,
+            "Type": "OTHER",
+            "Text": "https://t.co/wZliMIuEZz",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        }
+    ]
+}

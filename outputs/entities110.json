@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9294170141220093,
+            "Type": "PERSON",
+            "Text": "@AyeshaASiddiqi",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7636091113090515,
+            "Type": "QUANTITY",
+            "Text": "fifty tweet",
+            "BeginOffset": 51,
+            "EndOffset": 62
+        }
+    ]
+}

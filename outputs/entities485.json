@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6470130681991577,
+            "Type": "PERSON",
+            "Text": "@cgpb",
+            "BeginOffset": 3,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.57956463098526,
+            "Type": "PERSON",
+            "Text": "Bill",
+            "BeginOffset": 49,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9999508857727051,
+            "Type": "OTHER",
+            "Text": "https://t.co/MZlb3IxzJv",
+            "BeginOffset": 62,
+            "EndOffset": 85
+        }
+    ]
+}

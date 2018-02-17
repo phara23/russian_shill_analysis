@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.49359992146492004,
+            "Type": "PERSON",
+            "Text": "@2",
+            "BeginOffset": 3,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.8943620920181274,
+            "Type": "PERSON",
+            "Text": "President James Monroe",
+            "BeginOffset": 13,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.5442100763320923,
+            "Type": "QUANTITY",
+            "Text": "#2",
+            "BeginOffset": 85,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.31948262453079224,
+            "Type": "ORGANIZATION",
+            "Text": "#NRA",
+            "BeginOffset": 89,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.8331813216209412,
+            "Type": "OTHER",
+            "Text": "https://t.co/ysVbVhVJPt",
+            "BeginOffset": 107,
+            "EndOffset": 130
+        }
+    ]
+}

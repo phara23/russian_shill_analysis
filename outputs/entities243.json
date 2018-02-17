@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8443003296852112,
+            "Type": "PERSON",
+            "Text": "@MichelleKOrts10",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.737996518611908,
+            "Type": "ORGANIZATION",
+            "Text": "@1Viperbabe",
+            "BeginOffset": 22,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.7976245284080505,
+            "Type": "PERSON",
+            "Text": "@JilliSizzle",
+            "BeginOffset": 34,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.995628833770752,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 64,
+            "EndOffset": 71
+        }
+    ]
+}

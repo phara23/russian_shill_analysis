@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8831585645675659,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8021885752677917,
+            "Type": "TITLE",
+            "Text": "The Birth of a Nation",
+            "BeginOffset": 16,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.6197954416275024,
+            "Type": "PERSON",
+            "Text": "Nat Turner",
+            "BeginOffset": 55,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9434666037559509,
+            "Type": "DATE",
+            "Text": "1831",
+            "BeginOffset": 93,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.9598506689071655,
+            "Type": "OTHER",
+            "Text": "https://t.co/UL4i7gPGbX",
+            "BeginOffset": 98,
+            "EndOffset": 121
+        },
+        {
+            "Score": 0.8456420302391052,
+            "Type": "ORGANIZATION",
+            "Text": "@CRG_CRM",
+            "BeginOffset": 122,
+            "EndOffset": 130
+        }
+    ]
+}

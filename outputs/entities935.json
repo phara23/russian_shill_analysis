@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8447960019111633,
+            "Type": "PERSON",
+            "Text": "@amronsomar",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9875495433807373,
+            "Type": "ORGANIZATION",
+            "Text": "FBI",
+            "BeginOffset": 16,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9987494945526123,
+            "Type": "PERSON",
+            "Text": "James Comey",
+            "BeginOffset": 29,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.99406498670578,
+            "Type": "PERSON",
+            "Text": "Martha Stewart",
+            "BeginOffset": 84,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.999983549118042,
+            "Type": "OTHER",
+            "Text": "https://t.co/w112w6fXJo",
+            "BeginOffset": 100,
+            "EndOffset": 123
+        }
+    ]
+}

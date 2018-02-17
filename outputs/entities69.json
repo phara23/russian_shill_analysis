@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8351190686225891,
+            "Type": "PERSON",
+            "Text": "@FreeLabelNet",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7727255821228027,
+            "Type": "PERSON",
+            "Text": "@JonnyRay_",
+            "BeginOffset": 26,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.42899414896965027,
+            "Type": "PERSON",
+            "Text": "Shisui",
+            "BeginOffset": 46,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9999622106552124,
+            "Type": "OTHER",
+            "Text": "https://t.co/2vv5gg088j",
+            "BeginOffset": 54,
+            "EndOffset": 77
+        }
+    ]
+}

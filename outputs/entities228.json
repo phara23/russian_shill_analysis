@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9506238698959351,
+            "Type": "PERSON",
+            "Text": "@JRubinBlogger",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9958937168121338,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 19,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.8548309803009033,
+            "Type": "LOCATION",
+            "Text": "Cuba",
+            "BeginOffset": 49,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9998617172241211,
+            "Type": "OTHER",
+            "Text": "https://t.co/mKq2UZNWGC",
+            "BeginOffset": 54,
+            "EndOffset": 77
+        }
+    ]
+}

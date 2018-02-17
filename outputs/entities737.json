@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7950674891471863,
+            "Type": "PERSON",
+            "Text": "@Usainflames",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.6774169206619263,
+            "Type": "LOCATION",
+            "Text": "Tennessee",
+            "BeginOffset": 17,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.8548484444618225,
+            "Type": "OTHER",
+            "Text": "https://t.co",
+            "BeginOffset": 127,
+            "EndOffset": 139
+        }
+    ]
+}

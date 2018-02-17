@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9104323387145996,
+            "Type": "PERSON",
+            "Text": "@SunKissdNerd",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9746954441070557,
+            "Type": "ORGANIZATION",
+            "Text": "ISIS",
+            "BeginOffset": 53,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9914652705192566,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 98,
+            "EndOffset": 103
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8369442224502563,
+            "Type": "PERSON",
+            "Text": "@BioAnnie1",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9865863919258118,
+            "Type": "PERSON",
+            "Text": "@sherry4201",
+            "BeginOffset": 15,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9774593710899353,
+            "Type": "PERSON",
+            "Text": "@DrJillStein",
+            "BeginOffset": 27,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.4706493318080902,
+            "Type": "QUANTITY",
+            "Text": "zero",
+            "BeginOffset": 81,
+            "EndOffset": 85
+        }
+    ]
+}

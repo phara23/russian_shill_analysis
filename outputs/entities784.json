@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9420927166938782,
+            "Type": "PERSON",
+            "Text": "@csbennett55",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9774312973022461,
+            "Type": "PERSON",
+            "Text": "@oplaw628",
+            "BeginOffset": 17,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9866986870765686,
+            "Type": "PERSON",
+            "Text": "@DoNotForget911",
+            "BeginOffset": 27,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9633328914642334,
+            "Type": "PERSON",
+            "Text": "@dbsconservative",
+            "BeginOffset": 43,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.9897262454032898,
+            "Type": "PERSON",
+            "Text": "@Brute_Bradford",
+            "BeginOffset": 60,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.9402920603752136,
+            "Type": "PERSON",
+            "Text": "@X_SocialMedia_X",
+            "BeginOffset": 76,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.856104850769043,
+            "Type": "QUANTITY",
+            "Text": "First Litter",
+            "BeginOffset": 110,
+            "EndOffset": 122
+        }
+    ]
+}

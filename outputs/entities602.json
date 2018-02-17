@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9218025207519531,
+            "Type": "PERSON",
+            "Text": "@March_for_Trump",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9575744867324829,
+            "Type": "LOCATION",
+            "Text": "Florida",
+            "BeginOffset": 60,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9502286314964294,
+            "Type": "LOCATION",
+            "Text": "Florida",
+            "BeginOffset": 120,
+            "EndOffset": 127
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9197476506233215,
+            "Type": "PERSON",
+            "Text": "@CharMeLoDi",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7272440195083618,
+            "Type": "QUANTITY",
+            "Text": "#1",
+            "BeginOffset": 21,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9897215962409973,
+            "Type": "DATE",
+            "Text": "2017",
+            "BeginOffset": 27,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9952279329299927,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 47,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9998732805252075,
+            "Type": "OTHER",
+            "Text": "https://t.co/ZQWTUg6uQZ",
+            "BeginOffset": 53,
+            "EndOffset": 76
+        }
+    ]
+}

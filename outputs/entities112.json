@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8649395108222961,
+            "Type": "PERSON",
+            "Text": "Beyonce",
+            "BeginOffset": 0,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.9918111562728882,
+            "Type": "PERSON",
+            "Text": "Michael Jackson",
+            "BeginOffset": 51,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9995697140693665,
+            "Type": "OTHER",
+            "Text": "https://t.co/RQf8km7WcM",
+            "BeginOffset": 115,
+            "EndOffset": 138
+        }
+    ]
+}

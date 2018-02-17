@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.902794599533081,
+            "Type": "PERSON",
+            "Text": "@CharlieMBrownX",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.45043134689331055,
+            "Type": "QUANTITY",
+            "Text": "4 #Election",
+            "BeginOffset": 45,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9935727119445801,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 56,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.2427610158920288,
+            "Type": "LOCATION",
+            "Text": "#American",
+            "BeginOffset": 69,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.736791729927063,
+            "Type": "PERSON",
+            "Text": "@PoliticsPeach",
+            "BeginOffset": 101,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.9251943826675415,
+            "Type": "PERSON",
+            "Text": "@ninaturner",
+            "BeginOffset": 116,
+            "EndOffset": 127
+        }
+    ]
+}

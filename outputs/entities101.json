@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9476470947265625,
+            "Type": "PERSON",
+            "Text": "@realjunsonchan",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9525078535079956,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 118,
+            "EndOffset": 123
+        }
+    ]
+}

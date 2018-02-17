@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.47075629234313965,
+            "Type": "ORGANIZATION",
+            "Text": "@2",
+            "BeginOffset": 3,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9397610425949097,
+            "Type": "PERSON",
+            "Text": "Reagan",
+            "BeginOffset": 14,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.9576994180679321,
+            "Type": "OTHER",
+            "Text": "https://t.co",
+            "BeginOffset": 129,
+            "EndOffset": 141
+        }
+    ]
+}

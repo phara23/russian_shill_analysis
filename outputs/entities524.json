@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8354038596153259,
+            "Type": "PERSON",
+            "Text": "@gerfingerpoken",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9565705060958862,
+            "Type": "ORGANIZATION",
+            "Text": "IRS",
+            "BeginOffset": 24,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9961467981338501,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 33,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9822721481323242,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 54,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9231866002082825,
+            "Type": "OTHER",
+            "Text": "https://t.co/EWkqWLPAQN",
+            "BeginOffset": 63,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.5667523145675659,
+            "Type": "OTHER",
+            "Text": "American",
+            "BeginOffset": 87,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.9701926708221436,
+            "Type": "OTHER",
+            "Text": "https://t.co/L7h6rlr1le",
+            "BeginOffset": 104,
+            "EndOffset": 127
+        },
+        {
+            "Score": 0.671594500541687,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 129,
+            "EndOffset": 138
+        }
+    ]
+}

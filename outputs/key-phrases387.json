@@ -1,0 +1,40 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9895500540733337,
+            "Text": "Blood",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9773125052452087,
+            "Text": "police officers",
+            "BeginOffset": 9,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9982265830039978,
+            "Text": "Dallas",
+            "BeginOffset": 28,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9982067346572876,
+            "Text": "Obama",
+            "BeginOffset": 42,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9923846125602722,
+            "Text": "hand",
+            "BeginOffset": 50,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9940179586410522,
+            "Text": "every Democrat",
+            "BeginOffset": 63,
+            "EndOffset": 77
+        }
+    ]
+}

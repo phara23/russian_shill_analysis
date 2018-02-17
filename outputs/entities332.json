@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8024514317512512,
+            "Type": "PERSON",
+            "Text": "@UnderVisualsNYC",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.7987549304962158,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 26,
+            "EndOffset": 33
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9452533721923828,
+            "Type": "PERSON",
+            "Text": "@davidbanner",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9995303153991699,
+            "Type": "OTHER",
+            "Text": "https://t.co/9TDonSSI7d",
+            "BeginOffset": 52,
+            "EndOffset": 75
+        }
+    ]
+}

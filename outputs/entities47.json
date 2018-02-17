@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8401351571083069,
+            "Type": "PERSON",
+            "Text": "@KStreetHipster",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8355116248130798,
+            "Type": "PERSON",
+            "Text": "Hamner-Brown",
+            "BeginOffset": 20,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.970260739326477,
+            "Type": "QUANTITY",
+            "Text": "billions of years",
+            "BeginOffset": 87,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.5523455739021301,
+            "Type": "ORGANIZATION",
+            "Text": "#KSHBC",
+            "BeginOffset": 106,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.999988317489624,
+            "Type": "OTHER",
+            "Text": "https://t.co/TQh86xN3pJ",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        }
+    ]
+}

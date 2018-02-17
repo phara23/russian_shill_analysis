@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6921607851982117,
+            "Type": "ORGANIZATION",
+            "Text": "White House",
+            "BeginOffset": 0,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9868167042732239,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 20,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.7294723391532898,
+            "Type": "ORGANIZATION",
+            "Text": "White House",
+            "BeginOffset": 39,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9511771202087402,
+            "Type": "OTHER",
+            "Text": "https://t.co/lURcSGRmqM",
+            "BeginOffset": 63,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9574087858200073,
+            "Type": "OTHER",
+            "Text": "https://t.co/XDBaPnHm6c",
+            "BeginOffset": 89,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.9999417066574097,
+            "Type": "OTHER",
+            "Text": "https://t.co/avCskLBc6r",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        }
+    ]
+}

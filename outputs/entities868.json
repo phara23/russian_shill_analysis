@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9424525499343872,
+            "Type": "OTHER",
+            "Text": "https://t.co/JLlWavVdoB",
+            "BeginOffset": 0,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.8327561020851135,
+            "Type": "QUANTITY",
+            "Text": "1000s",
+            "BeginOffset": 32,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9309578537940979,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 57,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.8530552983283997,
+            "Type": "LOCATION",
+            "Text": "UK",
+            "BeginOffset": 83,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.9999767541885376,
+            "Type": "OTHER",
+            "Text": "https://t.co/2tAdcv4Vvl",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        }
+    ]
+}

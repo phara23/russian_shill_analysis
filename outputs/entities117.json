@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8122825026512146,
+            "Type": "PERSON",
+            "Text": "@DRUDGE_REPORT",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8300656080245972,
+            "Type": "LOCATION",
+            "Text": "California",
+            "BeginOffset": 19,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9997697472572327,
+            "Type": "OTHER",
+            "Text": "https://t.co/OKN5TitWOW",
+            "BeginOffset": 95,
+            "EndOffset": 118
+        }
+    ]
+}

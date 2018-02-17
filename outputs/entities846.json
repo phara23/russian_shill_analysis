@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6872590184211731,
+            "Type": "PERSON",
+            "Text": "@SeditionaryI",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8637493848800659,
+            "Type": "PERSON",
+            "Text": "@Yalboroo",
+            "BeginOffset": 18,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.8031406998634338,
+            "Type": "OTHER",
+            "Text": "Jews",
+            "BeginOffset": 106,
+            "EndOffset": 110
+        }
+    ]
+}

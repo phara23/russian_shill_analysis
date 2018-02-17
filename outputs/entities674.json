@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8543457388877869,
+            "Type": "PERSON",
+            "Text": "@monday_mayhem",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8274047374725342,
+            "Type": "PERSON",
+            "Text": "@monday_mayhem",
+            "BeginOffset": 82,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.9164617657661438,
+            "Type": "PERSON",
+            "Text": "@HashtagRoundup",
+            "BeginOffset": 98,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.8851604461669922,
+            "Type": "PERSON",
+            "Text": "@TheHashtagGame",
+            "BeginOffset": 115,
+            "EndOffset": 130
+        }
+    ]
+}

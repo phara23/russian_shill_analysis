@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9686299562454224,
+            "Type": "PERSON",
+            "Text": "@handley_dix",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9956449866294861,
+            "Type": "PERSON",
+            "Text": "John Gotti",
+            "BeginOffset": 24,
+            "EndOffset": 34
+        }
+    ]
+}

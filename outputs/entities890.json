@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8163688778877258,
+            "Type": "PERSON",
+            "Text": "@SanDiegoPost",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9470113515853882,
+            "Type": "ORGANIZATION",
+            "Text": "Supreme Court",
+            "BeginOffset": 18,
+            "EndOffset": 31
+        }
+    ]
+}

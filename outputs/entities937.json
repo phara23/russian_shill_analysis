@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9409536719322205,
+            "Type": "PERSON",
+            "Text": "@rolandsmartin",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9957618117332458,
+            "Type": "PERSON",
+            "Text": "Chloe",
+            "BeginOffset": 48,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9821226596832275,
+            "Type": "OTHER",
+            "Text": "https://t.co/vcbONGD",
+            "BeginOffset": 119,
+            "EndOffset": 139
+        }
+    ]
+}
