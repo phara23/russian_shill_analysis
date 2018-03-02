@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.875762939453125,
+            "Type": "PERSON",
+            "Text": "@Norseman86",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9862419366836548,
+            "Type": "DATE",
+            "Text": "2017",
+            "BeginOffset": 86,
+            "EndOffset": 90
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.757498562335968,
+            "Type": "PERSON",
+            "Text": "@eveewing",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9757509231567383,
+            "Type": "PERSON",
+            "Text": "Bayard Rustin",
+            "BeginOffset": 14,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9638000130653381,
+            "Type": "DATE",
+            "Text": "March",
+            "BeginOffset": 56,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9613212943077087,
+            "Type": "LOCATION",
+            "Text": "Washington",
+            "BeginOffset": 65,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.9998470544815063,
+            "Type": "DATE",
+            "Text": "1963",
+            "BeginOffset": 79,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.622235894203186,
+            "Type": "ORGANIZATION",
+            "Text": "SNCC",
+            "BeginOffset": 131,
+            "EndOffset": 135
+        },
+        {
+            "Score": 0.5835457444190979,
+            "Type": "ORGANIZATION",
+            "Text": "Stoke",
+            "BeginOffset": 142,
+            "EndOffset": 147
+        }
+    ]
+}

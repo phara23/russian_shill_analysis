@@ -1,0 +1,81 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9217689633369446,
+            "Type": "PERSON",
+            "Text": "@nicktjacob",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9918006658554077,
+            "Type": "DATE",
+            "Text": "2/18/16",
+            "BeginOffset": 60,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.6924306750297546,
+            "Type": "QUANTITY",
+            "Text": "42/49",
+            "BeginOffset": 77,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.49731171131134033,
+            "Type": "PERSON",
+            "Text": "#Cruz",
+            "BeginOffset": 88,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.4565674066543579,
+            "Type": "QUANTITY",
+            "Text": "37",
+            "BeginOffset": 95,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.9912281036376953,
+            "Type": "QUANTITY",
+            "Text": "55",
+            "BeginOffset": 98,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.9767081141471863,
+            "Type": "QUANTITY",
+            "Text": "18",
+            "BeginOffset": 103,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.9148454666137695,
+            "Type": "PERSON",
+            "Text": "#Trump",
+            "BeginOffset": 107,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.6580594778060913,
+            "Type": "QUANTITY",
+            "Text": "35",
+            "BeginOffset": 115,
+            "EndOffset": 117
+        },
+        {
+            "Score": 0.9908707737922668,
+            "Type": "QUANTITY",
+            "Text": "61",
+            "BeginOffset": 118,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.7475228309631348,
+            "Type": "QUANTITY",
+            "Text": "-26",
+            "BeginOffset": 122,
+            "EndOffset": 125
+        }
+    ]
+}

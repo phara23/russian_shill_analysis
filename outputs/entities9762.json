@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7772364616394043,
+            "Type": "PERSON",
+            "Text": "@rwads",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9996863007545471,
+            "Type": "PERSON",
+            "Text": "Andy Kaufman",
+            "BeginOffset": 48,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9999186992645264,
+            "Type": "OTHER",
+            "Text": "https://t.co/eMPg0OmB2U",
+            "BeginOffset": 112,
+            "EndOffset": 135
+        }
+    ]
+}

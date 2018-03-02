@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9184892177581787,
+            "Type": "PERSON",
+            "Text": "@peddoc63",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9817199110984802,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 25,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.6644725799560547,
+            "Type": "QUANTITY",
+            "Text": "million dollar",
+            "BeginOffset": 42,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.7454605102539062,
+            "Type": "LOCATION",
+            "Text": "#Chappaqua",
+            "BeginOffset": 76,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.4043237864971161,
+            "Type": "ORGANIZATION",
+            "Text": "Chelsea",
+            "BeginOffset": 112,
+            "EndOffset": 119
+        },
+        {
+            "Score": 0.9928300976753235,
+            "Type": "OTHER",
+            "Text": "https://t.co/dMC2R9CC2",
+            "BeginOffset": 120,
+            "EndOffset": 142
+        }
+    ]
+}

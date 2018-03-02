@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6623644828796387,
+            "Type": "ORGANIZATION",
+            "Text": "UK PM",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9028588533401489,
+            "Type": "EVENT",
+            "Text": "Brexit",
+            "BeginOffset": 22,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.7712653279304504,
+            "Type": "OTHER",
+            "Text": "German",
+            "BeginOffset": 44,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.45401033759117126,
+            "Type": "DATE",
+            "Text": "Sunday",
+            "BeginOffset": 61,
+            "EndOffset": 67
+        }
+    ]
+}

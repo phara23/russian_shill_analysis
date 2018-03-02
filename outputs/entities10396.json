@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5011218786239624,
+            "Type": "PERSON",
+            "Text": "Huband",
+            "BeginOffset": 5,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.7840759754180908,
+            "Type": "PERSON",
+            "Text": "Richer",
+            "BeginOffset": 16,
+            "EndOffset": 22
+        }
+    ]
+}

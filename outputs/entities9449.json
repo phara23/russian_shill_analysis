@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8175893425941467,
+            "Type": "PERSON",
+            "Text": "@PhoenixNewsAZ",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6816579103469849,
+            "Type": "QUANTITY",
+            "Text": "11",
+            "BeginOffset": 55,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.6095623970031738,
+            "Type": "PERSON",
+            "Text": "Bethany Home Road",
+            "BeginOffset": 66,
+            "EndOffset": 83
+        }
+    ]
+}

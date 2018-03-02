@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.908409059047699,
+            "Type": "PERSON",
+            "Text": "@glennbeck",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.45969176292419434,
+            "Type": "ORGANIZATION",
+            "Text": "Cyberbully",
+            "BeginOffset": 15,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9051569104194641,
+            "Type": "OTHER",
+            "Text": "https://t.co/AfuQ7UHZkY",
+            "BeginOffset": 74,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.9999470710754395,
+            "Type": "OTHER",
+            "Text": "https://t.co/HEUfvS8vXo",
+            "BeginOffset": 98,
+            "EndOffset": 121
+        }
+    ]
+}

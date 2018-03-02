@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9019118547439575,
+            "Type": "PERSON",
+            "Text": "@goofster59",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8211805820465088,
+            "Type": "QUANTITY",
+            "Text": "Four States",
+            "BeginOffset": 56,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9853277802467346,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 73,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.9676582217216492,
+            "Type": "OTHER",
+            "Text": "https://t.co/tsKcQSIJVY",
+            "BeginOffset": 88,
+            "EndOffset": 111
+        },
+        {
+            "Score": 0.8958954215049744,
+            "Type": "ORGANIZATION",
+            "Text": "@Patriotic_Folks",
+            "BeginOffset": 116,
+            "EndOffset": 132
+        }
+    ]
+}

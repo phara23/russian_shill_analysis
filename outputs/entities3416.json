@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8663929104804993,
+            "Type": "PERSON",
+            "Text": "@theblaze",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8640321493148804,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 24,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.8455371856689453,
+            "Type": "PERSON",
+            "Text": "Attorney General Sally Yates",
+            "BeginOffset": 79,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.732143759727478,
+            "Type": "OTHER",
+            "Text": "https://t.co/Fuc9T8JVEK",
+            "BeginOffset": 108,
+            "EndOffset": 131
+        }
+    ]
+}

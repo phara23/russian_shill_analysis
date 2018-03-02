@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9280158281326294,
+            "Type": "PERSON",
+            "Text": "@BarracudaMama",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9392217397689819,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 67,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9222166538238525,
+            "Type": "OTHER",
+            "Text": "http://t.co/NAyV2cSVsL",
+            "BeginOffset": 89,
+            "EndOffset": 111
+        },
+        {
+            "Score": 0.7929235696792603,
+            "Type": "ORGANIZATION",
+            "Text": "#BB4SP",
+            "BeginOffset": 112,
+            "EndOffset": 118
+        },
+        {
+            "Score": 0.940313458442688,
+            "Type": "OTHER",
+            "Text": "http://t.co/NLLVtkOG",
+            "BeginOffset": 119,
+            "EndOffset": 139
+        }
+    ]
+}

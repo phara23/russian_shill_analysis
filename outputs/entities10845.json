@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9613856077194214,
+            "Type": "PERSON",
+            "Text": "@JosephAGallant",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7815066576004028,
+            "Type": "ORGANIZATION",
+            "Text": "New York Values",
+            "BeginOffset": 33,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9975941181182861,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 69,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.9277981519699097,
+            "Type": "OTHER",
+            "Text": "https://t.co/kgRf1Tey64",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.38004928827285767,
+            "Type": "ORGANIZATION",
+            "Text": "#TedCruz",
+            "BeginOffset": 121,
+            "EndOffset": 129
+        },
+        {
+            "Score": 0.9636180996894836,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 129,
+            "EndOffset": 133
+        }
+    ]
+}

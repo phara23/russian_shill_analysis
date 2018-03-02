@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6512008309364319,
+            "Type": "PERSON",
+            "Text": "@RenewUSTweets",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.572138249874115,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 19,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.8517246246337891,
+            "Type": "PERSON",
+            "Text": "@idontcall911",
+            "BeginOffset": 22,
+            "EndOffset": 35
+        }
+    ]
+}

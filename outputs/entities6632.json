@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9391873478889465,
+            "Type": "PERSON",
+            "Text": "@DaystoTrump",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7366790175437927,
+            "Type": "LOCATION",
+            "Text": "Saudi Arabia",
+            "BeginOffset": 41,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.991096019744873,
+            "Type": "EVENT",
+            "Text": "World War III",
+            "BeginOffset": 65,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.8892653584480286,
+            "Type": "LOCATION",
+            "Text": "Russia",
+            "BeginOffset": 81,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.8788589835166931,
+            "Type": "PERSON",
+            "Text": "#Trump",
+            "BeginOffset": 121,
+            "EndOffset": 127
+        }
+    ]
+}

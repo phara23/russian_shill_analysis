@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8257047533988953,
+            "Type": "PERSON",
+            "Text": "@WorldTruthTV",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9211440086364746,
+            "Type": "OTHER",
+            "Text": "https://t.co/telXZBWPRi",
+            "BeginOffset": 93,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.9999916553497314,
+            "Type": "OTHER",
+            "Text": "https://t.co/Fa3A4c3dM3",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

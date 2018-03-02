@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8476750254631042,
+            "Type": "PERSON",
+            "Text": "@HenryRops1",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9528570771217346,
+            "Type": "PERSON",
+            "Text": "@jeanmudra",
+            "BeginOffset": 17,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.7951934337615967,
+            "Type": "PERSON",
+            "Text": "Gold Star Khan",
+            "BeginOffset": 42,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9008857607841492,
+            "Type": "PERSON",
+            "Text": "@PaulBegala",
+            "BeginOffset": 113,
+            "EndOffset": 124
+        },
+        {
+            "Score": 0.9407264590263367,
+            "Type": "PERSON",
+            "Text": "@NormOrnstein",
+            "BeginOffset": 125,
+            "EndOffset": 138
+        }
+    ]
+}

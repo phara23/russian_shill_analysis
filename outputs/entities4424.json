@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9125089645385742,
+            "Type": "PERSON",
+            "Text": "@KatyEMixon",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9961129426956177,
+            "Type": "PERSON",
+            "Text": "Mark",
+            "BeginOffset": 19,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.7089416980743408,
+            "Type": "ORGANIZATION",
+            "Text": "@AmericanWifeABC",
+            "BeginOffset": 74,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9998989105224609,
+            "Type": "OTHER",
+            "Text": "https://t.co/4tmOSJcAmV",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        }
+    ]
+}

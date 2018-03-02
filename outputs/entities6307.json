@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8247804045677185,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8592433333396912,
+            "Type": "PERSON",
+            "Text": "@JMillerSPKSOut",
+            "BeginOffset": 14,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9989069104194641,
+            "Type": "PERSON",
+            "Text": "Colin Kaepernick",
+            "BeginOffset": 42,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9997790455818176,
+            "Type": "OTHER",
+            "Text": "https://t.co/TBK35SlHze",
+            "BeginOffset": 91,
+            "EndOffset": 114
+        }
+    ]
+}

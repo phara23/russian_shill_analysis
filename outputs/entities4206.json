@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7467553019523621,
+            "Type": "PERSON",
+            "Text": "@IndieRadioPlay",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7651767730712891,
+            "Type": "PERSON",
+            "Text": "Lil Uzi Vert",
+            "BeginOffset": 33,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9999064207077026,
+            "Type": "OTHER",
+            "Text": "https://t.co/eMX9JgTv3v",
+            "BeginOffset": 61,
+            "EndOffset": 84
+        }
+    ]
+}

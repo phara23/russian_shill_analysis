@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9331680536270142,
+            "Type": "PERSON",
+            "Text": "@NolanHack",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9983221888542175,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 28,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9982631802558899,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 116,
+            "EndOffset": 121
+        }
+    ]
+}

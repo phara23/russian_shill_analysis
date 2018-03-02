@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9657065868377686,
+            "Type": "PERSON",
+            "Text": "@g_reichenbach",
+            "BeginOffset": 0,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9310702085494995,
+            "Type": "PERSON",
+            "Text": "Sind Sie der  Meinung",
+            "BeginOffset": 15,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.8689186573028564,
+            "Type": "PERSON",
+            "Text": "minderjährig wären",
+            "BeginOffset": 71,
+            "EndOffset": 89
+        }
+    ]
+}

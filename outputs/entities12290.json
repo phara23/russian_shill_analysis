@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8036053776741028,
+            "Type": "ORGANIZATION",
+            "Text": "@eB2B_entertain",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9316415786743164,
+            "Type": "QUANTITY",
+            "Text": "10 Biggest Struggles",
+            "BeginOffset": 20,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.7087289094924927,
+            "Type": "OTHER",
+            "Text": "https://t.co/gnlYlysWSX",
+            "BeginOffset": 88,
+            "EndOffset": 111
+        },
+        {
+            "Score": 0.9999594688415527,
+            "Type": "OTHER",
+            "Text": "https://t.co/FRca0ghC3N",
+            "BeginOffset": 112,
+            "EndOffset": 135
+        }
+    ]
+}

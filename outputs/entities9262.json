@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6359351873397827,
+            "Type": "PERSON",
+            "Text": "@Fingersflying",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.5514105558395386,
+            "Type": "OTHER",
+            "Text": "https://t.co/a6UjMHcV05",
+            "BeginOffset": 45,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.7732957005500793,
+            "Type": "DATE",
+            "Text": "2026",
+            "BeginOffset": 71,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.4406092166900635,
+            "Type": "ORGANIZATION",
+            "Text": "#CCOT",
+            "BeginOffset": 76,
+            "EndOffset": 81
+        }
+    ]
+}

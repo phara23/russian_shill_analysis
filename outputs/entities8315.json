@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8987194895744324,
+            "Type": "PERSON",
+            "Text": "@mrd125",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.6637933850288391,
+            "Type": "DATE",
+            "Text": "#2016",
+            "BeginOffset": 28,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.8561263680458069,
+            "Type": "QUANTITY",
+            "Text": "4Words",
+            "BeginOffset": 35,
+            "EndOffset": 41
+        }
+    ]
+}

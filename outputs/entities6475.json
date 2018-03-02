@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8963279724121094,
+            "Type": "ORGANIZATION",
+            "Text": "Clinton Foundation",
+            "BeginOffset": 25,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9999257326126099,
+            "Type": "OTHER",
+            "Text": "https://t.co/q3OH9uHFBe",
+            "BeginOffset": 95,
+            "EndOffset": 118
+        }
+    ]
+}

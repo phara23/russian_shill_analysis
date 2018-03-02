@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9352486729621887,
+            "Type": "PERSON",
+            "Text": "@AndyHashtagger",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9177154898643494,
+            "Type": "ORGANIZATION",
+            "Text": "Muslims",
+            "BeginOffset": 44,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9944605827331543,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 62,
+            "EndOffset": 67
+        }
+    ]
+}

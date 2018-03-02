@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8933236002922058,
+            "Type": "QUANTITY",
+            "Text": "two strangers",
+            "BeginOffset": 20,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.8763757348060608,
+            "Type": "QUANTITY",
+            "Text": "two best friends",
+            "BeginOffset": 85,
+            "EndOffset": 101
+        }
+    ]
+}

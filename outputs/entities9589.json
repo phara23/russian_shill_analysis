@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7847104668617249,
+            "Type": "PERSON",
+            "Text": "@guntrust",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8576731085777283,
+            "Type": "LOCATION",
+            "Text": "U.S.",
+            "BeginOffset": 58,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.953414261341095,
+            "Type": "OTHER",
+            "Text": "https://t.co/HFBMoHlJkz",
+            "BeginOffset": 70,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.42833948135375977,
+            "Type": "ORGANIZATION",
+            "Text": "#tcot",
+            "BeginOffset": 94,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.6193763613700867,
+            "Type": "QUANTITY",
+            "Text": "#2A",
+            "BeginOffset": 106,
+            "EndOffset": 109
+        },
+        {
+            "Score": 0.7582603096961975,
+            "Type": "ORGANIZATION",
+            "Text": "@guntrust",
+            "BeginOffset": 114,
+            "EndOffset": 123
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.906385600566864,
+            "Type": "PERSON",
+            "Text": "@TexasCruzn",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9837102890014648,
+            "Type": "PERSON",
+            "Text": "O'Reilly",
+            "BeginOffset": 16,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9964140057563782,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 29,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.8625808358192444,
+            "Type": "PERSON",
+            "Text": "Donald",
+            "BeginOffset": 51,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.8110257387161255,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 70,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.9926202297210693,
+            "Type": "OTHER",
+            "Text": "https://t.co/kA3kLt7LCh",
+            "BeginOffset": 98,
+            "EndOffset": 121
+        },
+        {
+            "Score": 0.8301211595535278,
+            "Type": "ORGANIZATION",
+            "Text": "@BarracudaMama",
+            "BeginOffset": 126,
+            "EndOffset": 140
+        }
+    ]
+}

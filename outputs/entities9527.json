@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7206742763519287,
+            "Type": "PERSON",
+            "Text": "@GABBYiSACTiVE",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9901643991470337,
+            "Type": "PERSON",
+            "Text": "Regina King",
+            "BeginOffset": 30,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9999161958694458,
+            "Type": "OTHER",
+            "Text": "https://t.co/G02QhISq7G",
+            "BeginOffset": 86,
+            "EndOffset": 109
+        }
+    ]
+}

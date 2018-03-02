@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8437125086784363,
+            "Type": "PERSON",
+            "Text": "@PINKSUGARATL",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.6084782481193542,
+            "Type": "LOCATION",
+            "Text": "#atlanta",
+            "BeginOffset": 30,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.999889612197876,
+            "Type": "OTHER",
+            "Text": "https://t.co/2Zqzz229Ig",
+            "BeginOffset": 99,
+            "EndOffset": 122
+        }
+    ]
+}

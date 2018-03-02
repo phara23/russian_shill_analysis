@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8068493008613586,
+            "Type": "PERSON",
+            "Text": "@HerediaDesigns",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.847986102104187,
+            "Type": "QUANTITY",
+            "Text": "13th character",
+            "BeginOffset": 32,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9554193615913391,
+            "Type": "PERSON",
+            "Text": "DJ Steve",
+            "BeginOffset": 67,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.9999735355377197,
+            "Type": "OTHER",
+            "Text": "https://t.co/N7YU3ScxpK",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        }
+    ]
+}

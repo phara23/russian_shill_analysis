@@ -1,0 +1,67 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8858827948570251,
+            "Type": "PERSON",
+            "Text": "@DOLORESALANIZ",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8968375325202942,
+            "Type": "PERSON",
+            "Text": "@AnitaLea1",
+            "BeginOffset": 44,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9476714730262756,
+            "Type": "PERSON",
+            "Text": "@BeachcatTt",
+            "BeginOffset": 55,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9976499676704407,
+            "Type": "PERSON",
+            "Text": "@dmm609",
+            "BeginOffset": 67,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9983333349227905,
+            "Type": "PERSON",
+            "Text": "@MsJayC77",
+            "BeginOffset": 75,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9938624501228333,
+            "Type": "PERSON",
+            "Text": "@lilo623",
+            "BeginOffset": 85,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.925593912601471,
+            "Type": "PERSON",
+            "Text": "@Marvel0usJesus",
+            "BeginOffset": 94,
+            "EndOffset": 109
+        },
+        {
+            "Score": 0.9852138757705688,
+            "Type": "PERSON",
+            "Text": "@KuddleMe2",
+            "BeginOffset": 110,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.9818445444107056,
+            "Type": "PERSON",
+            "Text": "@cegore65",
+            "BeginOffset": 121,
+            "EndOffset": 130
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9420647621154785,
+            "Type": "PERSON",
+            "Text": "@basdjan",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8043615818023682,
+            "Type": "QUANTITY",
+            "Text": "level 4",
+            "BeginOffset": 25,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.8082014322280884,
+            "Type": "QUANTITY",
+            "Text": "187,236",
+            "BeginOffset": 60,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9674873948097229,
+            "Type": "OTHER",
+            "Text": "http://t.co/TPh6fH03zX",
+            "BeginOffset": 83,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.676382303237915,
+            "Type": "ORGANIZATION",
+            "Text": "#robotcoingame",
+            "BeginOffset": 106,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.5259125232696533,
+            "Type": "ORGANIZATION",
+            "Text": "#Bitcoin",
+            "BeginOffset": 121,
+            "EndOffset": 129
+        },
+        {
+            "Score": 0.5420297384262085,
+            "Type": "ORGANIZATION",
+            "Text": "#FreeBitc",
+            "BeginOffset": 130,
+            "EndOffset": 139
+        }
+    ]
+}

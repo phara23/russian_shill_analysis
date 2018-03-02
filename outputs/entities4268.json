@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8797399997711182,
+            "Type": "PERSON",
+            "Text": "@missled2u",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9117301106452942,
+            "Type": "PERSON",
+            "Text": "@ANOMALY1",
+            "BeginOffset": 15,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.922316312789917,
+            "Type": "ORGANIZATION",
+            "Text": "Muslims",
+            "BeginOffset": 64,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9774542450904846,
+            "Type": "DATE",
+            "Text": "2011",
+            "BeginOffset": 86,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.6664336919784546,
+            "Type": "ORGANIZATION",
+            "Text": "OBAMA BANNED REFUGEES",
+            "BeginOffset": 92,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.7175102829933167,
+            "Type": "PERSON",
+            "Text": "Pres Trump",
+            "BeginOffset": 127,
+            "EndOffset": 137
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9967291951179504,
+            "Type": "PERSON",
+            "Text": "Ted Cruz",
+            "BeginOffset": 0,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.9946357607841492,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 18,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9030634760856628,
+            "Type": "OTHER",
+            "Text": "https://t.co/P7EIgzvKbC",
+            "BeginOffset": 31,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9998971223831177,
+            "Type": "OTHER",
+            "Text": "https://t.co/w8SRVGvw8X",
+            "BeginOffset": 65,
+            "EndOffset": 88
+        }
+    ]
+}

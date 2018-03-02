@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.580134928226471,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.7280896902084351,
+            "Type": "PERSON",
+            "Text": "@Houston17",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9984643459320068,
+            "Type": "PERSON",
+            "Text": "David",
+            "BeginOffset": 13,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9534873366355896,
+            "Type": "ORGANIZATION",
+            "Text": "Republican",
+            "BeginOffset": 56,
+            "EndOffset": 66
+        }
+    ]
+}

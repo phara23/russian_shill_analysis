@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8444936871528625,
+            "Type": "PERSON",
+            "Text": "@LoneWolfCircles",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9870325326919556,
+            "Type": "LOCATION",
+            "Text": "New Zealand",
+            "BeginOffset": 50,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.7799973487854004,
+            "Type": "PERSON",
+            "Text": "@AJEnglish",
+            "BeginOffset": 71,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.9999405145645142,
+            "Type": "OTHER",
+            "Text": "https://t.co/fCENMhVoII",
+            "BeginOffset": 83,
+            "EndOffset": 106
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9276050329208374,
+            "Type": "PERSON",
+            "Text": "@seanhannity",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9212514758110046,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 24,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9999797344207764,
+            "Type": "OTHER",
+            "Text": "https://t.co/X3W7Nf3Oqp",
+            "BeginOffset": 73,
+            "EndOffset": 96
+        }
+    ]
+}

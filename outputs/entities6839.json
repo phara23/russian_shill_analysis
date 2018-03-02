@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9585726261138916,
+            "Type": "PERSON",
+            "Text": "@realdaveshelton",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.6377719044685364,
+            "Type": "DATE",
+            "Text": "#2016",
+            "BeginOffset": 43,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.8469866514205933,
+            "Type": "QUANTITY",
+            "Text": "4Words",
+            "BeginOffset": 50,
+            "EndOffset": 56
+        }
+    ]
+}

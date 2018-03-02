@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9485788345336914,
+            "Type": "PERSON",
+            "Text": "@Lagartija_Nix",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9999226331710815,
+            "Type": "PERSON",
+            "Text": "Steven Seagal",
+            "BeginOffset": 25,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9999470114707947,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 71,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9989354014396667,
+            "Type": "PERSON",
+            "Text": "Barack Obama",
+            "BeginOffset": 91,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.9999054670333862,
+            "Type": "OTHER",
+            "Text": "https://t.co/En6dOseilp",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        }
+    ]
+}

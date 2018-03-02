@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8904372453689575,
+            "Type": "PERSON",
+            "Text": "@HeiseThomas",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.999863862991333,
+            "Type": "OTHER",
+            "Text": "https://t.co/ESMDStxrPI",
+            "BeginOffset": 61,
+            "EndOffset": 84
+        }
+    ]
+}

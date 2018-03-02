@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9233938455581665,
+            "Type": "PERSON",
+            "Text": "@TheMarkRomano",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9987791180610657,
+            "Type": "PERSON",
+            "Text": "Michelle Obama",
+            "BeginOffset": 22,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.955868661403656,
+            "Type": "OTHER",
+            "Text": "https://t.co",
+            "BeginOffset": 127,
+            "EndOffset": 139
+        }
+    ]
+}

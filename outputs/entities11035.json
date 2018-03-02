@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.902510404586792,
+            "Type": "PERSON",
+            "Text": "@ElliottWilson",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6318755149841309,
+            "Type": "OTHER",
+            "Text": "https://t.co/fzY0Be1rxA",
+            "BeginOffset": 41,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9900922179222107,
+            "Type": "OTHER",
+            "Text": "https://t.co/zmC7Lx586g",
+            "BeginOffset": 65,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.6935564875602722,
+            "Type": "ORGANIZATION",
+            "Text": "@TIDALHiFi",
+            "BeginOffset": 89,
+            "EndOffset": 99
+        }
+    ]
+}

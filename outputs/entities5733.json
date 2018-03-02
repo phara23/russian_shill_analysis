@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7175601720809937,
+            "Type": "PERSON",
+            "Text": "@PatriotGinger",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6649570465087891,
+            "Type": "PERSON",
+            "Text": "@TeriGRight",
+            "BeginOffset": 23,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.6940060257911682,
+            "Type": "PERSON",
+            "Text": "Prez",
+            "BeginOffset": 41,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.6867830753326416,
+            "Type": "QUANTITY",
+            "Text": "FOUR SCOTUS appointments",
+            "BeginOffset": 57,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.9791383147239685,
+            "Type": "OTHER",
+            "Text": "https://t.co/vEfMBfkPnI",
+            "BeginOffset": 114,
+            "EndOffset": 137
+        }
+    ]
+}

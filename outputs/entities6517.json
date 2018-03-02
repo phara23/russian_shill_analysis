@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8258565664291382,
+            "Type": "ORGANIZATION",
+            "Text": "@AP",
+            "BeginOffset": 3,
+            "EndOffset": 6
+        },
+        {
+            "Score": 0.999189555644989,
+            "Type": "OTHER",
+            "Text": "http://t.co/clFOwO9rJd",
+            "BeginOffset": 68,
+            "EndOffset": 90
+        }
+    ]
+}

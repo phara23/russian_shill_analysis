@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7692171931266785,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 8,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8703747987747192,
+            "Type": "LOCATION",
+            "Text": "Missouri",
+            "BeginOffset": 21,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.817663848400116,
+            "Type": "ORGANIZATION",
+            "Text": "Senate",
+            "BeginOffset": 46,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9999711513519287,
+            "Type": "OTHER",
+            "Text": "https://t.co/b2wdwoj9u9",
+            "BeginOffset": 61,
+            "EndOffset": 84
+        }
+    ]
+}

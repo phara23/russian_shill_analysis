@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8787811398506165,
+            "Type": "PERSON",
+            "Text": "@missrettaretta",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.6594036221504211,
+            "Type": "DATE",
+            "Text": "#2017",
+            "BeginOffset": 20,
+            "EndOffset": 25
+        }
+    ]
+}

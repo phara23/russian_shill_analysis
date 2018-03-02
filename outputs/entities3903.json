@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.885949969291687,
+            "Type": "PERSON",
+            "Text": "@atlasshrugs",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8575189709663391,
+            "Type": "PERSON",
+            "Text": "President Donald Trump",
+            "BeginOffset": 17,
+            "EndOffset": 39
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9721867442131042,
+            "Type": "PERSON",
+            "Text": "@Jarjarbug",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9926407933235168,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 15,
+            "EndOffset": 20
+        }
+    ]
+}

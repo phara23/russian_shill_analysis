@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5307989716529846,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8393806219100952,
+            "Type": "ORGANIZATION",
+            "Text": "@TEN_GOP",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9089416265487671,
+            "Type": "ORGANIZATION",
+            "Text": "Muslim",
+            "BeginOffset": 13,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9645058512687683,
+            "Type": "LOCATION",
+            "Text": "Los Angeles",
+            "BeginOffset": 29,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.8878638744354248,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 76,
+            "EndOffset": 83
+        }
+    ]
+}

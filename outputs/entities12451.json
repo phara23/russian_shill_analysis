@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8333041667938232,
+            "Type": "PERSON",
+            "Text": "@LVNancy",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9750574231147766,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 13,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.7869057059288025,
+            "Type": "QUANTITY",
+            "Text": "22 BIGGEST Scandals",
+            "BeginOffset": 23,
+            "EndOffset": 42
+        }
+    ]
+}

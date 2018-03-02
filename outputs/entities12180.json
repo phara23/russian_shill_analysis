@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9523481130599976,
+            "Type": "PERSON",
+            "Text": "@aliotta_joe",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9998785257339478,
+            "Type": "OTHER",
+            "Text": "https://t.co/77lnUgH2ao",
+            "BeginOffset": 28,
+            "EndOffset": 51
+        }
+    ]
+}

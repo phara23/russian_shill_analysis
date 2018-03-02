@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9052021503448486,
+            "Type": "PERSON",
+            "Text": "@Cernovich",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9437578916549683,
+            "Type": "PERSON",
+            "Text": "Carlos Slims",
+            "BeginOffset": 30,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.7997891902923584,
+            "Type": "ORGANIZATION",
+            "Text": "NYT",
+            "BeginOffset": 49,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9117443561553955,
+            "Type": "PERSON",
+            "Text": "Saddam",
+            "BeginOffset": 62,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9289637804031372,
+            "Type": "OTHER",
+            "Text": "https://t.c",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

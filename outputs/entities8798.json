@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6465696096420288,
+            "Type": "LOCATION",
+            "Text": "#Obama",
+            "BeginOffset": 84,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9499949216842651,
+            "Type": "LOCATION",
+            "Text": "#nobama",
+            "BeginOffset": 91,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.9982189536094666,
+            "Type": "LOCATION",
+            "Text": "#USA",
+            "BeginOffset": 99,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.9599076509475708,
+            "Type": "LOCATION",
+            "Text": "#America",
+            "BeginOffset": 104,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.9994833469390869,
+            "Type": "OTHER",
+            "Text": "https://t.co/DWhSrH3cKf",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8558669090270996,
+            "Type": "PERSON",
+            "Text": "@HellieEdwards",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9820235371589661,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 82,
+            "EndOffset": 84
+        }
+    ]
+}

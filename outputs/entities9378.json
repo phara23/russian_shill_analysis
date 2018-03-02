@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9382933378219604,
+            "Type": "PERSON",
+            "Text": "@nook71715",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.25656506419181824,
+            "Type": "ORGANIZATION",
+            "Text": "#DarriusStewart",
+            "BeginOffset": 58,
+            "EndOffset": 73
+        }
+    ]
+}

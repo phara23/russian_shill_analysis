@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8113157749176025,
+            "Type": "ORGANIZATION",
+            "Text": "@REPUBL_I_CAN",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9936320185661316,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 79,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9997571110725403,
+            "Type": "OTHER",
+            "Text": "https://t.co/fcuZ3FjWLt",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        }
+    ]
+}

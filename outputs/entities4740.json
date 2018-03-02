@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8352357745170593,
+            "Type": "PERSON",
+            "Text": "@trendinaliaCA",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8735775351524353,
+            "Type": "PERSON",
+            "Text": "@theclobra",
+            "BeginOffset": 97,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.9597226977348328,
+            "Type": "OTHER",
+            "Text": "https://t.co/F7jcyRLG8j",
+            "BeginOffset": 109,
+            "EndOffset": 132
+        },
+        {
+            "Score": 0.7304939031600952,
+            "Type": "QUANTITY",
+            "Text": "49 RT",
+            "BeginOffset": 134,
+            "EndOffset": 139
+        }
+    ]
+}

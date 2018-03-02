@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8646170496940613,
+            "Type": "PERSON",
+            "Text": "@HigherHeights4",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9753042459487915,
+            "Type": "QUANTITY",
+            "Text": "20 mos",
+            "BeginOffset": 50,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9868738055229187,
+            "Type": "QUANTITY",
+            "Text": "12 mos",
+            "BeginOffset": 91,
+            "EndOffset": 97
+        }
+    ]
+}

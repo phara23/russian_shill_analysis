@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7772470712661743,
+            "Type": "PERSON",
+            "Text": "@BleacherReport",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9132784008979797,
+            "Type": "PERSON",
+            "Text": "Austin Rivers",
+            "BeginOffset": 44,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9784963130950928,
+            "Type": "PERSON",
+            "Text": "Doc Rivers",
+            "BeginOffset": 62,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.9998518228530884,
+            "Type": "OTHER",
+            "Text": "https://t.co/KTvfQGMwCG",
+            "BeginOffset": 116,
+            "EndOffset": 139
+        }
+    ]
+}

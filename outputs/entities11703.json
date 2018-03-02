@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9092538356781006,
+            "Type": "PERSON",
+            "Text": "@SonofBaldwin",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.545856237411499,
+            "Type": "PERSON",
+            "Text": "#Virgil",
+            "BeginOffset": 25,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.5102287530899048,
+            "Type": "OTHER",
+            "Text": "Jamaican",
+            "BeginOffset": 40,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.7324941158294678,
+            "Type": "PERSON",
+            "Text": "@themiddlespaces",
+            "BeginOffset": 97,
+            "EndOffset": 113
+        }
+    ]
+}

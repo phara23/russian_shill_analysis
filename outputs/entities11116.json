@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.889617383480072,
+            "Type": "PERSON",
+            "Text": "@midnight",
+            "BeginOffset": 0,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.21659469604492188,
+            "Type": "ORGANIZATION",
+            "Text": "SanFrancisco",
+            "BeginOffset": 10,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9004240036010742,
+            "Type": "QUANTITY",
+            "Text": "69ers",
+            "BeginOffset": 23,
+            "EndOffset": 28
+        }
+    ]
+}

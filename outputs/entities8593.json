@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6404346227645874,
+            "Type": "PERSON",
+            "Text": "@0HOUR",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.760490357875824,
+            "Type": "ORGANIZATION",
+            "Text": "Clinton Foundation",
+            "BeginOffset": 14,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.8983408808708191,
+            "Type": "TITLE",
+            "Text": "Racketeer\nInfluenced\nCorrupt \nOrganizations Act",
+            "BeginOffset": 33,
+            "EndOffset": 80
+        }
+    ]
+}

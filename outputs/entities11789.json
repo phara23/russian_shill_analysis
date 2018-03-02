@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8020195364952087,
+            "Type": "PERSON",
+            "Text": "@LouGeese",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9948418736457825,
+            "Type": "PERSON",
+            "Text": "@marcus8908",
+            "BeginOffset": 15,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.99900883436203,
+            "Type": "PERSON",
+            "Text": "Julian Assange",
+            "BeginOffset": 42,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.4699026942253113,
+            "Type": "ORGANIZATION",
+            "Text": "onRT",
+            "BeginOffset": 80,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.3495079278945923,
+            "Type": "ORGANIZATION",
+            "Text": "Russia",
+            "BeginOffset": 85,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.9890407919883728,
+            "Type": "DATE",
+            "Text": "Today",
+            "BeginOffset": 92,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.45927906036376953,
+            "Type": "OTHER",
+            "Text": "Russians",
+            "BeginOffset": 115,
+            "EndOffset": 123
+        }
+    ]
+}

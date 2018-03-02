@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9832451343536377,
+            "Type": "DATE",
+            "Text": "today",
+            "BeginOffset": 37,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9975225329399109,
+            "Type": "LOCATION",
+            "Text": "Chile",
+            "BeginOffset": 46,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.8606148958206177,
+            "Type": "DATE",
+            "Text": "1973",
+            "BeginOffset": 92,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.9997279047966003,
+            "Type": "OTHER",
+            "Text": "https://t.co/HsyiCvRSVF",
+            "BeginOffset": 112,
+            "EndOffset": 135
+        }
+    ]
+}

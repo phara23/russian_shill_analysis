@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8539015650749207,
+            "Type": "PERSON",
+            "Text": "@limitlesskait",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9588700532913208,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 57,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.6082944869995117,
+            "Type": "OTHER",
+            "Text": "American",
+            "BeginOffset": 91,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.4993908107280731,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 129,
+            "EndOffset": 138
+        }
+    ]
+}

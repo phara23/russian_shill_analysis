@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8911606669425964,
+            "Type": "PERSON",
+            "Text": "@pnehlen",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.7359189391136169,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 13,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.983851969242096,
+            "Type": "PERSON",
+            "Text": "Ryan",
+            "BeginOffset": 56,
+            "EndOffset": 60
+        }
+    ]
+}

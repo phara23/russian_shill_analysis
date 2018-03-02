@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7384892106056213,
+            "Type": "PERSON",
+            "Text": "@MiaoReport",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9650930762290955,
+            "Type": "PERSON",
+            "Text": "@MikeMartin1733",
+            "BeginOffset": 16,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.3240604102611542,
+            "Type": "LOCATION",
+            "Text": "#Hannity",
+            "BeginOffset": 65,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.9835910797119141,
+            "Type": "DATE",
+            "Text": "last night",
+            "BeginOffset": 74,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9330369830131531,
+            "Type": "PERSON",
+            "Text": "Assange",
+            "BeginOffset": 90,
+            "EndOffset": 97
+        }
+    ]
+}

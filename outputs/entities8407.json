@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9413946866989136,
+            "Type": "PERSON",
+            "Text": "@LindaSuhler",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9964402318000793,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 17,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9983757734298706,
+            "Type": "OTHER",
+            "Text": "https://t.co/zJedOac7cX",
+            "BeginOffset": 102,
+            "EndOffset": 125
+        }
+    ]
+}

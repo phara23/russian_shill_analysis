@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7836096286773682,
+            "Type": "PERSON",
+            "Text": "@TeriGRight",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.45897769927978516,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 16,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7113926410675049,
+            "Type": "PERSON",
+            "Text": "@kingattax",
+            "BeginOffset": 19,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.7202010750770569,
+            "Type": "LOCATION",
+            "Text": "South Carolina",
+            "BeginOffset": 31,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.4307675063610077,
+            "Type": "PERSON",
+            "Text": "Cruz",
+            "BeginOffset": 49,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9420119524002075,
+            "Type": "OTHER",
+            "Text": "https://t.co/LNB6XWM0fU",
+            "BeginOffset": 74,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.42010611295700073,
+            "Type": "PERSON",
+            "Text": "#CruzCrew",
+            "BeginOffset": 98,
+            "EndOffset": 107
+        }
+    ]
+}

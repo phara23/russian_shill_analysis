@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7708795666694641,
+            "Type": "PERSON",
+            "Text": "@Ramtoad",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9654741287231445,
+            "Type": "ORGANIZATION",
+            "Text": "Congress",
+            "BeginOffset": 13,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9333940148353577,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 36,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.45863762497901917,
+            "Type": "OTHER",
+            "Text": "Israeli",
+            "BeginOffset": 72,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.6750108599662781,
+            "Type": "PERSON",
+            "Text": "Netanyahu",
+            "BeginOffset": 83,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.9999575614929199,
+            "Type": "OTHER",
+            "Text": "https://t.co/j751vBMwyd",
+            "BeginOffset": 93,
+            "EndOffset": 116
+        }
+    ]
+}

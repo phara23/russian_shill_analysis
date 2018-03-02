@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9291301965713501,
+            "Type": "PERSON",
+            "Text": "@JonJustice",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8686389327049255,
+            "Type": "OTHER",
+            "Text": "Russian",
+            "BeginOffset": 31,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.982406497001648,
+            "Type": "LOCATION",
+            "Text": "Europe",
+            "BeginOffset": 65,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9665786027908325,
+            "Type": "OTHER",
+            "Text": "https://t.co/zdKKZ6",
+            "BeginOffset": 120,
+            "EndOffset": 139
+        }
+    ]
+}

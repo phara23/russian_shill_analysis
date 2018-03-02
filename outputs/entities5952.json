@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5061792731285095,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.9643216729164124,
+            "Type": "PERSON",
+            "Text": "@Evan_McMullin",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9997910857200623,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 23,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9999899864196777,
+            "Type": "OTHER",
+            "Text": "https://t.co/4GtbXdnX03",
+            "BeginOffset": 45,
+            "EndOffset": 68
+        }
+    ]
+}

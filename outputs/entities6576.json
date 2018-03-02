@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.84623783826828,
+            "Type": "PERSON",
+            "Text": "@patriots928",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9958919286727905,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 49,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.7407097220420837,
+            "Type": "LOCATION",
+            "Text": "St. Cloud",
+            "BeginOffset": 75,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.99997878074646,
+            "Type": "OTHER",
+            "Text": "https://t.co/s4z8CHLP5S",
+            "BeginOffset": 114,
+            "EndOffset": 137
+        }
+    ]
+}

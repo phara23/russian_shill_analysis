@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8616907000541687,
+            "Type": "PERSON",
+            "Text": "@Conservatexian",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8926381468772888,
+            "Type": "LOCATION",
+            "Text": "Benghazi",
+            "BeginOffset": 39,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9681931138038635,
+            "Type": "PERSON",
+            "Text": "Bill",
+            "BeginOffset": 61,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9923285245895386,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 70,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.398811399936676,
+            "Type": "LOCATION",
+            "Text": "Atlantic",
+            "BeginOffset": 101,
+            "EndOffset": 109
+        },
+        {
+            "Score": 0.9999747276306152,
+            "Type": "OTHER",
+            "Text": "https://t.co/1bna5HxFPP",
+            "BeginOffset": 110,
+            "EndOffset": 133
+        }
+    ]
+}

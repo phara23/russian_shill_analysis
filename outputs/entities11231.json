@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7457694411277771,
+            "Type": "PERSON",
+            "Text": "@WorldTruthTV",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.773796796798706,
+            "Type": "ORGANIZATION",
+            "Text": "@Support",
+            "BeginOffset": 18,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.7310227155685425,
+            "Type": "QUANTITY",
+            "Text": "double posts",
+            "BeginOffset": 46,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.8978421092033386,
+            "Type": "QUANTITY",
+            "Text": "each time",
+            "BeginOffset": 70,
+            "EndOffset": 79
+        }
+    ]
+}

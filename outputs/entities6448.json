@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5366821885108948,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.841832160949707,
+            "Type": "ORGANIZATION",
+            "Text": "@Bundesliga_DE",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.364633172750473,
+            "Type": "ORGANIZATION",
+            "Text": "Ein",
+            "BeginOffset": 19,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.5531123280525208,
+            "Type": "ORGANIZATION",
+            "Text": "Halbzeit",
+            "BeginOffset": 54,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9994366765022278,
+            "Type": "OTHER",
+            "Text": "https://t.co/uiO3on75hg",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

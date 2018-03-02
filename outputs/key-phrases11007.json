@@ -1,0 +1,34 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9834678173065186,
+            "Text": "Obama",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9914985299110413,
+            "Text": "the most anti-police president",
+            "BeginOffset": 9,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.8419477343559265,
+            "Text": "cops blood",
+            "BeginOffset": 48,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9988470077514648,
+            "Text": "his hands",
+            "BeginOffset": 62,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.6543722152709961,
+            "Text": "#ResignObama\n#RNCinCLE\n#TrumpPence",
+            "BeginOffset": 73,
+            "EndOffset": 107
+        }
+    ]
+}

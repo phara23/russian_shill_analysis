@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8474663496017456,
+            "Type": "PERSON",
+            "Text": "@BraveConWarrior",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9365708231925964,
+            "Type": "ORGANIZATION",
+            "Text": "IRS",
+            "BeginOffset": 21,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.7345815300941467,
+            "Type": "ORGANIZATION",
+            "Text": "Clinton Foundation",
+            "BeginOffset": 79,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.9299079775810242,
+            "Type": "OTHER",
+            "Text": "http://t.co",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

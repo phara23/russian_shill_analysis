@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7595014572143555,
+            "Type": "PERSON",
+            "Text": "@politico",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9971380233764648,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 39,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9488241076469421,
+            "Type": "OTHER",
+            "Text": "https://t.c",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

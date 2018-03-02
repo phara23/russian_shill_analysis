@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9762105345726013,
+            "Type": "PERSON",
+            "Text": "@mabry4849",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8446064591407776,
+            "Type": "PERSON",
+            "Text": "@retiredfirecapt",
+            "BeginOffset": 15,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9628114104270935,
+            "Type": "PERSON",
+            "Text": "@DixieRebelForce",
+            "BeginOffset": 32,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9697567820549011,
+            "Type": "PERSON",
+            "Text": "@belvedere",
+            "BeginOffset": 49,
+            "EndOffset": 59
+        }
+    ]
+}

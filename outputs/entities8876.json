@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9147091507911682,
+            "Type": "PERSON",
+            "Text": "@aleliabundles",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7361644506454468,
+            "Type": "PERSON",
+            "Text": "@BeyHive",
+            "BeginOffset": 30,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9060490131378174,
+            "Type": "PERSON",
+            "Text": "@MichelleObama",
+            "BeginOffset": 105,
+            "EndOffset": 119
+        },
+        {
+            "Score": 0.9578964710235596,
+            "Type": "OTHER",
+            "Text": "https://t.co/BwnHZe",
+            "BeginOffset": 120,
+            "EndOffset": 139
+        }
+    ]
+}

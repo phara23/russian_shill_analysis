@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8812910914421082,
+            "Type": "PERSON",
+            "Text": "@NasirLeigh",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9686794281005859,
+            "Type": "PERSON",
+            "Text": "Mo'Nique",
+            "BeginOffset": 16,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9917364120483398,
+            "Type": "PERSON",
+            "Text": "Hilary Clinton",
+            "BeginOffset": 37,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9980656504631042,
+            "Type": "PERSON",
+            "Text": "Bill Clinton",
+            "BeginOffset": 58,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9999817609786987,
+            "Type": "OTHER",
+            "Text": "https://t.co/Z23MpIXQ5Y",
+            "BeginOffset": 75,
+            "EndOffset": 98
+        }
+    ]
+}

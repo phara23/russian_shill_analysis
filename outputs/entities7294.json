@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.890820324420929,
+            "Type": "PERSON",
+            "Text": "@PrisonPlanet",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9432117342948914,
+            "Type": "ORGANIZATION",
+            "Text": "Washington Post",
+            "BeginOffset": 42,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9999715089797974,
+            "Type": "OTHER",
+            "Text": "https://t.co/gsQi52AxJN",
+            "BeginOffset": 59,
+            "EndOffset": 82
+        }
+    ]
+}

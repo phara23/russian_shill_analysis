@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7445739507675171,
+            "Type": "PERSON",
+            "Text": "@AddInfoOrg",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9831212759017944,
+            "Type": "ORGANIZATION",
+            "Text": "CNN",
+            "BeginOffset": 16,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9942776560783386,
+            "Type": "PERSON",
+            "Text": "Kellyanne Conway",
+            "BeginOffset": 30,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9502661824226379,
+            "Type": "OTHER",
+            "Text": "https://t.co/VV4malZBcd",
+            "BeginOffset": 100,
+            "EndOffset": 123
+        },
+        {
+            "Score": 0.961647093296051,
+            "Type": "OTHER",
+            "Text": "https://t.co/Pl",
+            "BeginOffset": 124,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7467553019523621,
+            "Type": "PERSON",
+            "Text": "@IndieRadioPlay",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9167152047157288,
+            "Type": "PERSON",
+            "Text": "Dino",
+            "BeginOffset": 33,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9691697955131531,
+            "Type": "PERSON",
+            "Text": "@Mysterious_Ent",
+            "BeginOffset": 39,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.6069220900535583,
+            "Type": "PERSON",
+            "Text": "K.I.G.",
+            "BeginOffset": 58,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9131748080253601,
+            "Type": "PERSON",
+            "Text": "Lil Flip",
+            "BeginOffset": 70,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.9999843835830688,
+            "Type": "OTHER",
+            "Text": "https://t.co/eMX9JgTv3v",
+            "BeginOffset": 85,
+            "EndOffset": 108
+        }
+    ]
+}

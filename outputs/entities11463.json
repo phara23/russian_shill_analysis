@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.947806179523468,
+            "Type": "PERSON",
+            "Text": "@Shannonigans885",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9110651612281799,
+            "Type": "ORGANIZATION",
+            "Text": "Google",
+            "BeginOffset": 36,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.8805608153343201,
+            "Type": "ORGANIZATION",
+            "Text": "WebMD",
+            "BeginOffset": 115,
+            "EndOffset": 120
+        }
+    ]
+}

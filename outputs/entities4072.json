@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9008131623268127,
+            "Type": "PERSON",
+            "Text": "@Sweetcaramel_71",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9663274884223938,
+            "Type": "PERSON",
+            "Text": "Chelsea Clinton",
+            "BeginOffset": 37,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.995394766330719,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 59,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9969397187232971,
+            "Type": "PERSON",
+            "Text": "Juanita Broaddrick",
+            "BeginOffset": 113,
+            "EndOffset": 131
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9036946892738342,
+            "Type": "PERSON",
+            "Text": "@AshleyWarrior",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.982731282711029,
+            "Type": "PERSON",
+            "Text": "@Elena07617349",
+            "BeginOffset": 19,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9511355757713318,
+            "Type": "PERSON",
+            "Text": "@English_Pitbull",
+            "BeginOffset": 34,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9602468013763428,
+            "Type": "PERSON",
+            "Text": "@savealgalt",
+            "BeginOffset": 51,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9407656192779541,
+            "Type": "PERSON",
+            "Text": "@oinc2islam",
+            "BeginOffset": 63,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.888610303401947,
+            "Type": "PERSON",
+            "Text": "@PcExtremist",
+            "BeginOffset": 75,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.616773784160614,
+            "Type": "QUANTITY",
+            "Text": "millions",
+            "BeginOffset": 108,
+            "EndOffset": 116
+        }
+    ]
+}

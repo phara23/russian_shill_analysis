@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6679892539978027,
+            "Type": "PERSON",
+            "Text": "@CNePerson",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8707319498062134,
+            "Type": "PERSON",
+            "Text": "@KGforTrump",
+            "BeginOffset": 15,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9970144033432007,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 122,
+            "EndOffset": 129
+        }
+    ]
+}

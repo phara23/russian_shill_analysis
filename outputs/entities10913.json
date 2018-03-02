@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8900927901268005,
+            "Type": "PERSON",
+            "Text": "@TweeterTrish",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8487050533294678,
+            "Type": "ORGANIZATION",
+            "Text": "@CNN",
+            "BeginOffset": 28,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9108193516731262,
+            "Type": "ORGANIZATION",
+            "Text": "@nytimes",
+            "BeginOffset": 37,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9998868703842163,
+            "Type": "OTHER",
+            "Text": "https://t.co/5xsVfKV79a",
+            "BeginOffset": 46,
+            "EndOffset": 69
+        }
+    ]
+}

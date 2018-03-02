@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9257069826126099,
+            "Type": "PERSON",
+            "Text": "@seanhannity",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8560815453529358,
+            "Type": "ORGANIZATION",
+            "Text": "Hollywood",
+            "BeginOffset": 57,
+            "EndOffset": 66
+        }
+    ]
+}

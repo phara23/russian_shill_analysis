@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9079553484916687,
+            "Type": "PERSON",
+            "Text": "@aaronsayswhat1",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8166800737380981,
+            "Type": "DATE",
+            "Text": "Mondays",
+            "BeginOffset": 35,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9990466237068176,
+            "Type": "OTHER",
+            "Text": "https://t.co/ttjhDjTAEA",
+            "BeginOffset": 70,
+            "EndOffset": 93
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5337464213371277,
+            "Type": "ORGANIZATION",
+            "Text": "U2",
+            "BeginOffset": 13,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.43804049491882324,
+            "Type": "ORGANIZATION",
+            "Text": "#DrunkBands",
+            "BeginOffset": 17,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.6577029228210449,
+            "Type": "PERSON",
+            "Text": "@midnight",
+            "BeginOffset": 29,
+            "EndOffset": 38
+        }
+    ]
+}

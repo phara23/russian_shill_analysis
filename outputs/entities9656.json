@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8164399266242981,
+            "Type": "PERSON",
+            "Text": "@Usanewsbullet",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9970998764038086,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 36,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.8525654673576355,
+            "Type": "PERSON",
+            "Text": "Michael Starts",
+            "BeginOffset": 46,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.5269982814788818,
+            "Type": "OTHER",
+            "Text": "Americans",
+            "BeginOffset": 83,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.9469256401062012,
+            "Type": "OTHER",
+            "Text": "https://t.co/ynPBfyC4Fk",
+            "BeginOffset": 95,
+            "EndOffset": 118
+        },
+        {
+            "Score": 0.9930357336997986,
+            "Type": "OTHER",
+            "Text": "https://t.co/iM45ok3",
+            "BeginOffset": 119,
+            "EndOffset": 139
+        }
+    ]
+}

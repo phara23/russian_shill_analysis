@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.48201292753219604,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8554207682609558,
+            "Type": "PERSON",
+            "Text": "@Mozi_N",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.7906447052955627,
+            "Type": "PERSON",
+            "Text": "Charles #Koch",
+            "BeginOffset": 23,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9724306464195251,
+            "Type": "OTHER",
+            "Text": "http://t.co/VNztfaZ2MO",
+            "BeginOffset": 75,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.4768497943878174,
+            "Type": "ORGANIZATION",
+            "Text": "#UniteBlue",
+            "BeginOffset": 98,
+            "EndOffset": 108
+        }
+    ]
+}

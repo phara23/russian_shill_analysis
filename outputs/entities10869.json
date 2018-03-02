@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9516974687576294,
+            "Type": "PERSON",
+            "Text": "@SarahKSilverman",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9389111399650574,
+            "Type": "QUANTITY",
+            "Text": "hundreds of thousands of people",
+            "BeginOffset": 57,
+            "EndOffset": 88
+        }
+    ]
+}

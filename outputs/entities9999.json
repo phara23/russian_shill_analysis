@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9245510101318359,
+            "Type": "PERSON",
+            "Text": "@neeratanden",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9954641461372375,
+            "Type": "PERSON",
+            "Text": "Sanders",
+            "BeginOffset": 78,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.8812283873558044,
+            "Type": "PERSON",
+            "Text": "Ossoff",
+            "BeginOffset": 100,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.7265594005584717,
+            "Type": "TITLE",
+            "Text": "GA6",
+            "BeginOffset": 110,
+            "EndOffset": 113
+        }
+    ]
+}

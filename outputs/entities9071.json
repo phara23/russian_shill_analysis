@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8887951374053955,
+            "Type": "PERSON",
+            "Text": "@MDfor15",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8409039378166199,
+            "Type": "ORGANIZATION",
+            "Text": "#Uber",
+            "BeginOffset": 13,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9582111835479736,
+            "Type": "DATE",
+            "Text": "tonight",
+            "BeginOffset": 78,
+            "EndOffset": 85
+        }
+    ]
+}

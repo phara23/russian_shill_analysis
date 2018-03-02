@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8475403189659119,
+            "Type": "PERSON",
+            "Text": "Mayor Giuliani",
+            "BeginOffset": 0,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9177214503288269,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 34,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9620157480239868,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 60,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9529700875282288,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 82,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.9999468326568604,
+            "Type": "OTHER",
+            "Text": "https://t.co/84XZDOWMOC",
+            "BeginOffset": 91,
+            "EndOffset": 114
+        }
+    ]
+}

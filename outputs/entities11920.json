@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9052037000656128,
+            "Type": "PERSON",
+            "Text": "@chrissyteigen",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9924484491348267,
+            "Type": "DATE",
+            "Text": "January 20th",
+            "BeginOffset": 25,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9994220733642578,
+            "Type": "OTHER",
+            "Text": "https://t.co/32TGBAUkgi",
+            "BeginOffset": 38,
+            "EndOffset": 61
+        }
+    ]
+}

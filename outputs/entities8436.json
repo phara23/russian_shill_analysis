@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7329323887825012,
+            "Type": "PERSON",
+            "Text": "@DeptofDefense",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9886218905448914,
+            "Type": "PERSON",
+            "Text": "Santa",
+            "BeginOffset": 19,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.3545196056365967,
+            "Type": "PERSON",
+            "Text": "#SantaClaus",
+            "BeginOffset": 56,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.6856046319007874,
+            "Type": "COMMERCIAL_ITEM",
+            "Text": "T-45C Goshawk",
+            "BeginOffset": 97,
+            "EndOffset": 110
+        }
+    ]
+}

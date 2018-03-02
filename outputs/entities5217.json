@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7456918954849243,
+            "Type": "PERSON",
+            "Text": "@WDFx2EU7",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9962728023529053,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 14,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8436504602432251,
+            "Type": "QUANTITY",
+            "Text": "3 woman",
+            "BeginOffset": 70,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9914090037345886,
+            "Type": "DATE",
+            "Text": "1989",
+            "BeginOffset": 91,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.9999228715896606,
+            "Type": "OTHER",
+            "Text": "https://t.co/mjCmSKHxqG",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        }
+    ]
+}

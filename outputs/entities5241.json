@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.48190510272979736,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8871179819107056,
+            "Type": "PERSON",
+            "Text": "@Thor_2000",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9906657934188843,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 54,
+            "EndOffset": 59
+        }
+    ]
+}

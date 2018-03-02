@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5860342979431152,
+            "Type": "ORGANIZATION",
+            "Text": "@100",
+            "BeginOffset": 3,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.7789158821105957,
+            "Type": "PERSON",
+            "Text": "TRUMP",
+            "BeginOffset": 28,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9831318259239197,
+            "Type": "QUANTITY",
+            "Text": "8 Years",
+            "BeginOffset": 85,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.999941349029541,
+            "Type": "OTHER",
+            "Text": "https://t.co/tyAMo6d5OD",
+            "BeginOffset": 102,
+            "EndOffset": 125
+        }
+    ]
+}

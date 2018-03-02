@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7962474822998047,
+            "Type": "PERSON",
+            "Text": "@MiamiSixthMan",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9599513411521912,
+            "Type": "PERSON",
+            "Text": "@DamianVanore23",
+            "BeginOffset": 19,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.7836363911628723,
+            "Type": "ORGANIZATION",
+            "Text": "@AfterFFriday",
+            "BeginOffset": 59,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.9862678050994873,
+            "Type": "DATE",
+            "Text": "today",
+            "BeginOffset": 102,
+            "EndOffset": 107
+        }
+    ]
+}

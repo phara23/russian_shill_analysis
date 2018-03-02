@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8022449612617493,
+            "Type": "PERSON",
+            "Text": "@KFILE",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9052397012710571,
+            "Type": "ORGANIZATION",
+            "Text": "Google",
+            "BeginOffset": 104,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.9999681711196899,
+            "Type": "OTHER",
+            "Text": "https://t.co/geZ3ti8buf",
+            "BeginOffset": 111,
+            "EndOffset": 134
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8585154414176941,
+            "Type": "PERSON",
+            "Text": "@deray",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.8491917848587036,
+            "Type": "TITLE",
+            "Text": "Get Out",
+            "BeginOffset": 12,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9917791485786438,
+            "Type": "DATE",
+            "Text": "2017",
+            "BeginOffset": 52,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9999617338180542,
+            "Type": "OTHER",
+            "Text": "https://t.co/pMrnDPg7gm",
+            "BeginOffset": 57,
+            "EndOffset": 80
+        }
+    ]
+}

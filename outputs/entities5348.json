@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8546788692474365,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9115721583366394,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 14,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9991111755371094,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 27,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9565839767456055,
+            "Type": "OTHER",
+            "Text": "https://t.co/KmtaH8ylwL",
+            "BeginOffset": 73,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.781225323677063,
+            "Type": "ORGANIZATION",
+            "Text": "@BBC5Live",
+            "BeginOffset": 97,
+            "EndOffset": 106
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7302312850952148,
+            "Type": "PERSON",
+            "Text": "@Showdown20161",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9940720200538635,
+            "Type": "ORGANIZATION",
+            "Text": "CNN",
+            "BeginOffset": 19,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9816970229148865,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 106,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.46997809410095215,
+            "Type": "ORGANIZATION",
+            "Text": "#MAGA",
+            "BeginOffset": 111,
+            "EndOffset": 116
+        }
+    ]
+}

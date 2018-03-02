@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8093334436416626,
+            "Type": "PERSON",
+            "Text": "@GlobalGoalsUN",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9969384074211121,
+            "Type": "QUANTITY",
+            "Text": "20 days",
+            "BeginOffset": 24,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9694162607192993,
+            "Type": "OTHER",
+            "Text": "https://t.co/XkOC4ogxVO",
+            "BeginOffset": 110,
+            "EndOffset": 133
+        },
+        {
+            "Score": 0.3238030672073364,
+            "Type": "PERSON",
+            "Text": "#Sma",
+            "BeginOffset": 135,
+            "EndOffset": 139
+        }
+    ]
+}

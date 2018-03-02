@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9931824803352356,
+            "Type": "PERSON",
+            "Text": "David Duke",
+            "BeginOffset": 0,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.99981689453125,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 25,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9155631065368652,
+            "Type": "LOCATION",
+            "Text": "Louisiana",
+            "BeginOffset": 69,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.9998937845230103,
+            "Type": "OTHER",
+            "Text": "https://t.co/dmGRx1gea2",
+            "BeginOffset": 79,
+            "EndOffset": 102
+        }
+    ]
+}

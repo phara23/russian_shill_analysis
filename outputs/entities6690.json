@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7349768877029419,
+            "Type": "ORGANIZATION",
+            "Text": "@ActivistPost",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.785818338394165,
+            "Type": "ORGANIZATION",
+            "Text": "Karolinska Institute Forces",
+            "BeginOffset": 30,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.4581771492958069,
+            "Type": "ORGANIZATION",
+            "Text": "EMF",
+            "BeginOffset": 58,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.999994158744812,
+            "Type": "OTHER",
+            "Text": "https://t.co/AQSGXb7M5B",
+            "BeginOffset": 102,
+            "EndOffset": 125
+        }
+    ]
+}

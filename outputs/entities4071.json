@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.785695493221283,
+            "Type": "PERSON",
+            "Text": "@IndyUSA",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8489810824394226,
+            "Type": "LOCATION",
+            "Text": "Texas",
+            "BeginOffset": 33,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.8847306966781616,
+            "Type": "OTHER",
+            "Text": "http://t.co/Uu4CyGIuSL",
+            "BeginOffset": 99,
+            "EndOffset": 121
+        },
+        {
+            "Score": 0.9204856157302856,
+            "Type": "OTHER",
+            "Text": "http://t.co/aVfcm",
+            "BeginOffset": 122,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9139775633811951,
+            "Type": "PERSON",
+            "Text": "@jermainedupri",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9249632954597473,
+            "Type": "ORGANIZATION",
+            "Text": "NOVA",
+            "BeginOffset": 54,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9724476933479309,
+            "Type": "ORGANIZATION",
+            "Text": "#SoundCloud",
+            "BeginOffset": 62,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.9999179840087891,
+            "Type": "OTHER",
+            "Text": "https://t.co/e8mkeKx6jK",
+            "BeginOffset": 79,
+            "EndOffset": 102
+        }
+    ]
+}

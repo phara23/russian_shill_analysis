@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8815094828605652,
+            "Type": "PERSON",
+            "Text": "@BlackGirlNerds",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.47419607639312744,
+            "Type": "OTHER",
+            "Text": "GIF",
+            "BeginOffset": 29,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.8688158392906189,
+            "Type": "DATE",
+            "Text": "this year",
+            "BeginOffset": 33,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9998760223388672,
+            "Type": "OTHER",
+            "Text": "https://t.co/6LJqjMJIZo",
+            "BeginOffset": 43,
+            "EndOffset": 66
+        }
+    ]
+}

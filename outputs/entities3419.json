@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6867373585700989,
+            "Type": "PERSON",
+            "Text": "@thedailybeast",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.906855046749115,
+            "Type": "OTHER",
+            "Text": "Russian",
+            "BeginOffset": 19,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.7840595245361328,
+            "Type": "LOCATION",
+            "Text": "Rio",
+            "BeginOffset": 67,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.8752342462539673,
+            "Type": "OTHER",
+            "Text": "https://t.co/ptG4UPWjdF",
+            "BeginOffset": 72,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.9999973773956299,
+            "Type": "OTHER",
+            "Text": "https://t.co/22Th8Rt57t",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        }
+    ]
+}

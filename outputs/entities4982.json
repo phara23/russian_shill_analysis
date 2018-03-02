@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8769890666007996,
+            "Type": "PERSON",
+            "Text": "@SLstar_n",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8999300003051758,
+            "Type": "PERSON",
+            "Text": "@PatDollard",
+            "BeginOffset": 14,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.8641271591186523,
+            "Type": "PERSON",
+            "Text": "@LAPDHollywood",
+            "BeginOffset": 26,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9191443920135498,
+            "Type": "PERSON",
+            "Text": "@DRUDGE",
+            "BeginOffset": 41,
+            "EndOffset": 48
+        }
+    ]
+}

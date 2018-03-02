@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8806716799736023,
+            "Type": "PERSON",
+            "Text": "@jayceodpromoter",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.41557031869888306,
+            "Type": "QUANTITY",
+            "Text": "99",
+            "BeginOffset": 39,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9645372033119202,
+            "Type": "QUANTITY",
+            "Text": "100k",
+            "BeginOffset": 42,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9495750665664673,
+            "Type": "ORGANIZATION",
+            "Text": "#soundcloud",
+            "BeginOffset": 47,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.8836631178855896,
+            "Type": "QUANTITY",
+            "Text": "50 followers",
+            "BeginOffset": 91,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.5321199893951416,
+            "Type": "QUANTITY",
+            "Text": "150",
+            "BeginOffset": 104,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.6936264634132385,
+            "Type": "QUANTITY",
+            "Text": "70",
+            "BeginOffset": 115,
+            "EndOffset": 117
+        },
+        {
+            "Score": 0.9578284621238708,
+            "Type": "OTHER",
+            "Text": "https://t.co",
+            "BeginOffset": 125,
+            "EndOffset": 137
+        }
+    ]
+}

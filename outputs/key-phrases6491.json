@@ -1,0 +1,34 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9864763617515564,
+            "Text": "Hillary",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9990430474281311,
+            "Text": "gifts",
+            "BeginOffset": 20,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9955524802207947,
+            "Text": "foreign govts",
+            "BeginOffset": 31,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9406002759933472,
+            "Text": "her allegiance",
+            "BeginOffset": 63,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9851247668266296,
+            "Text": "donors",
+            "BeginOffset": 89,
+            "EndOffset": 95
+        }
+    ]
+}

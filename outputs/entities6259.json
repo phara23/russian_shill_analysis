@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6626230478286743,
+            "Type": "PERSON",
+            "Text": "Zed Lepplin",
+            "BeginOffset": 0,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.7916714549064636,
+            "Type": "PERSON",
+            "Text": "@midnight",
+            "BeginOffset": 25,
+            "EndOffset": 34
+        }
+    ]
+}

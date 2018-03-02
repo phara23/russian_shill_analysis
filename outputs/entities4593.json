@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9445445537567139,
+            "Type": "PERSON",
+            "Text": "#Brussels Obama",
+            "BeginOffset": 0,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7280141115188599,
+            "Type": "OTHER",
+            "Text": "Syrian",
+            "BeginOffset": 21,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.8019545674324036,
+            "Type": "LOCATION",
+            "Text": "U.S.",
+            "BeginOffset": 57,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.4814712405204773,
+            "Type": "ORGANIZATION",
+            "Text": "#IslamKills",
+            "BeginOffset": 78,
+            "EndOffset": 89
+        }
+    ]
+}

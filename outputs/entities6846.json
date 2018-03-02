@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7181612253189087,
+            "Type": "PERSON",
+            "Text": "@beforeitsnews",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9274985790252686,
+            "Type": "QUANTITY",
+            "Text": "6 Lessons",
+            "BeginOffset": 19,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.6495638489723206,
+            "Type": "LOCATION",
+            "Text": "Oroville Dam",
+            "BeginOffset": 47,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.5729318261146545,
+            "Type": "OTHER",
+            "Text": "https://t.co/sMeWvjyjds",
+            "BeginOffset": 69,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.9999713897705078,
+            "Type": "OTHER",
+            "Text": "https://t.co/tlUlZ2h9PO",
+            "BeginOffset": 93,
+            "EndOffset": 116
+        }
+    ]
+}

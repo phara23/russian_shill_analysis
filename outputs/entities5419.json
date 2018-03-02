@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8825530409812927,
+            "Type": "ORGANIZATION",
+            "Text": "@CNN",
+            "BeginOffset": 3,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.8377800583839417,
+            "Type": "PERSON",
+            "Text": "@AsraNomani",
+            "BeginOffset": 10,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9978278279304504,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 43,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.5481954216957092,
+            "Type": "ORGANIZATION",
+            "Text": "Islamic",
+            "BeginOffset": 106,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.9710727334022522,
+            "Type": "OTHER",
+            "Text": "https://t.co/ac",
+            "BeginOffset": 124,
+            "EndOffset": 139
+        }
+    ]
+}

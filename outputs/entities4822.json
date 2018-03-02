@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8853805661201477,
+            "Type": "PERSON",
+            "Text": "@illy52",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.7248730063438416,
+            "Type": "QUANTITY",
+            "Text": "1 Kings",
+            "BeginOffset": 86,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.9766498804092407,
+            "Type": "QUANTITY",
+            "Text": "8:34",
+            "BeginOffset": 94,
+            "EndOffset": 98
+        }
+    ]
+}

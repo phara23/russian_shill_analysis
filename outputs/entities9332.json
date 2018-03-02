@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9355786442756653,
+            "Type": "PERSON",
+            "Text": "@georgebarnes311",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9777843356132507,
+            "Type": "PERSON",
+            "Text": "@ritzy_jewels",
+            "BeginOffset": 21,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9503974914550781,
+            "Type": "PERSON",
+            "Text": "@BlissTabitha",
+            "BeginOffset": 35,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9968366026878357,
+            "Type": "PERSON",
+            "Text": "@skoss13",
+            "BeginOffset": 49,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9759460091590881,
+            "Type": "PERSON",
+            "Text": "@inhuggermugger",
+            "BeginOffset": 58,
+            "EndOffset": 73
+        }
+    ]
+}

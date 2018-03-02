@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8720945119857788,
+            "Type": "PERSON",
+            "Text": "@AlbanyLG",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8329678177833557,
+            "Type": "PERSON",
+            "Text": "Gov. Cuomo",
+            "BeginOffset": 23,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9544848203659058,
+            "Type": "LOCATION",
+            "Text": "1 World Trade Center",
+            "BeginOffset": 66,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.8888922929763794,
+            "Type": "DATE",
+            "Text": "Monday morning",
+            "BeginOffset": 90,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.8185175061225891,
+            "Type": "OTHER",
+            "Text": "https://t.co/QoCZPdeh0P",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        },
+        {
+            "Score": 0.7307936549186707,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 129,
+            "EndOffset": 138
+        }
+    ]
+}

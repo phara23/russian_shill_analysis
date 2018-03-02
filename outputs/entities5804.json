@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9004404544830322,
+            "Type": "PERSON",
+            "Text": "@nine_oh",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.798647403717041,
+            "Type": "PERSON",
+            "Text": "Money Gritterz",
+            "BeginOffset": 43,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9359477162361145,
+            "Type": "PERSON",
+            "Text": "@moneygritterz1",
+            "BeginOffset": 58,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.9498578906059265,
+            "Type": "PERSON",
+            "Text": "Chevy Man",
+            "BeginOffset": 74,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.8268688917160034,
+            "Type": "QUANTITY",
+            "Text": "9.0",
+            "BeginOffset": 112,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.942399799823761,
+            "Type": "OTHER",
+            "Text": "https://t.co/b7",
+            "BeginOffset": 128,
+            "EndOffset": 143
+        }
+    ]
+}

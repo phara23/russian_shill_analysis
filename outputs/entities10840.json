@@ -1,0 +1,67 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8268701434135437,
+            "Type": "PERSON",
+            "Text": "@CelebrateTheWin",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.7783082127571106,
+            "Type": "PERSON",
+            "Text": "@notalemming",
+            "BeginOffset": 21,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9178345799446106,
+            "Type": "PERSON",
+            "Text": "@Patriotic1s",
+            "BeginOffset": 34,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9563818573951721,
+            "Type": "PERSON",
+            "Text": "@col_nj",
+            "BeginOffset": 47,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.8725669980049133,
+            "Type": "PERSON",
+            "Text": "@HumaAbedin",
+            "BeginOffset": 55,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9164217710494995,
+            "Type": "PERSON",
+            "Text": "Huma",
+            "BeginOffset": 68,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.5454215407371521,
+            "Type": "QUANTITY",
+            "Text": "one",
+            "BeginOffset": 80,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.7474737763404846,
+            "Type": "ORGANIZATION",
+            "Text": "Muslim Brotherhood",
+            "BeginOffset": 84,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.9903475046157837,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 127,
+            "EndOffset": 132
+        }
+    ]
+}

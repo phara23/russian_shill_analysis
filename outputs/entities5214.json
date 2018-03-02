@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9047397971153259,
+            "Type": "PERSON",
+            "Text": "@TomOrr777",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9884456396102905,
+            "Type": "LOCATION",
+            "Text": "England",
+            "BeginOffset": 32,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9138661623001099,
+            "Type": "QUANTITY",
+            "Text": "5",
+            "BeginOffset": 63,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9974198937416077,
+            "Type": "QUANTITY",
+            "Text": "10 years",
+            "BeginOffset": 68,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.9884766340255737,
+            "Type": "LOCATION",
+            "Text": "USA",
+            "BeginOffset": 90,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.9328753352165222,
+            "Type": "ORGANIZATION",
+            "Text": "Muslim",
+            "BeginOffset": 105,
+            "EndOffset": 111
+        }
+    ]
+}

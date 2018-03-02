@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8867658376693726,
+            "Type": "PERSON",
+            "Text": "@HashtagZoo",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7513831853866577,
+            "Type": "DATE",
+            "Text": "11A ET",
+            "BeginOffset": 27,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9856663346290588,
+            "Type": "DATE",
+            "Text": "today",
+            "BeginOffset": 34,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.7182737588882446,
+            "Type": "ORGANIZATION",
+            "Text": "@HashtagZoo",
+            "BeginOffset": 44,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.7822800278663635,
+            "Type": "PERSON",
+            "Text": "@FastLaugh",
+            "BeginOffset": 61,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.6892785429954529,
+            "Type": "PERSON",
+            "Text": "@NationalLampoon",
+            "BeginOffset": 78,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.7901601195335388,
+            "Type": "ORGANIZATION",
+            "Text": "@HashtagRoundup",
+            "BeginOffset": 98,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.8875656127929688,
+            "Type": "PERSON",
+            "Text": "@TheHashtagGame",
+            "BeginOffset": 125,
+            "EndOffset": 140
+        }
+    ]
+}

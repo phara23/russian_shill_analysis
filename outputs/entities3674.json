@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9592825770378113,
+            "Type": "PERSON",
+            "Text": "@jimtankersley",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.582822322845459,
+            "Type": "ORGANIZATION",
+            "Text": "Pew",
+            "BeginOffset": 19,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9883900880813599,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 27,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9998694658279419,
+            "Type": "OTHER",
+            "Text": "https://t.co/dVfUa10shp",
+            "BeginOffset": 111,
+            "EndOffset": 134
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6963334083557129,
+            "Type": "PERSON",
+            "Text": "@cmgnews",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9725472331047058,
+            "Type": "EVENT",
+            "Text": "Open #DataScience Conference",
+            "BeginOffset": 24,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9838159680366516,
+            "Type": "LOCATION",
+            "Text": "Boston",
+            "BeginOffset": 56,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9588974714279175,
+            "Type": "DATE",
+            "Text": "May 30",
+            "BeginOffset": 63,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9639473557472229,
+            "Type": "DATE",
+            "Text": "31",
+            "BeginOffset": 70,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.6715078353881836,
+            "Type": "PERSON",
+            "Text": "@OpenDataSci",
+            "BeginOffset": 76,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9275805354118347,
+            "Type": "OTHER",
+            "Text": "http://t.co/PpjQTgRbZf",
+            "BeginOffset": 91,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.4105798602104187,
+            "Type": "ORGANIZATION",
+            "Text": "#ODSc",
+            "BeginOffset": 114,
+            "EndOffset": 119
+        },
+        {
+            "Score": 0.9895193576812744,
+            "Type": "OTHER",
+            "Text": "http://t.co/yzLd3oa",
+            "BeginOffset": 120,
+            "EndOffset": 139
+        }
+    ]
+}

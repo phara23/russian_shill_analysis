@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4886711537837982,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.5965737700462341,
+            "Type": "ORGANIZATION",
+            "Text": "@WSCP",
+            "BeginOffset": 3,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.9564686417579651,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 11,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8413711190223694,
+            "Type": "ORGANIZATION",
+            "Text": "NYT",
+            "BeginOffset": 49,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9755050539970398,
+            "Type": "OTHER",
+            "Text": "https://t.co/DuD7qAEoN4",
+            "BeginOffset": 114,
+            "EndOffset": 137
+        }
+    ]
+}

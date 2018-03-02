@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8685097098350525,
+            "Type": "PERSON",
+            "Text": "@sillynotabsurd",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9987264275550842,
+            "Type": "PERSON",
+            "Text": "Jimmy Fallon",
+            "BeginOffset": 20,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9125752449035645,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 41,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9976637363433838,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 62,
+            "EndOffset": 67
+        }
+    ]
+}

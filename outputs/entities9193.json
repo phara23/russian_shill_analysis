@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8432093262672424,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9965409636497498,
+            "Type": "PERSON",
+            "Text": "George W. Bush",
+            "BeginOffset": 13,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9993959069252014,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 46,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.973660945892334,
+            "Type": "OTHER",
+            "Text": "https://t.co/pNIBvfgDS7",
+            "BeginOffset": 82,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.8358094096183777,
+            "Type": "ORGANIZATION",
+            "Text": "@Bipartisanism",
+            "BeginOffset": 110,
+            "EndOffset": 124
+        },
+        {
+            "Score": 0.7812685966491699,
+            "Type": "OTHER",
+            "Text": "https://t.co/U",
+            "BeginOffset": 125,
+            "EndOffset": 139
+        }
+    ]
+}

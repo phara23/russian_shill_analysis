@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7364928722381592,
+            "Type": "PERSON",
+            "Text": "@Bikers4",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.6920416355133057,
+            "Type": "PERSON",
+            "Text": "@TheDemocrats",
+            "BeginOffset": 58,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.8928636908531189,
+            "Type": "PERSON",
+            "Text": "@NancyPelosi",
+            "BeginOffset": 88,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.9309024810791016,
+            "Type": "OTHER",
+            "Text": "https://t.co/jMdN0286HG",
+            "BeginOffset": 101,
+            "EndOffset": 124
+        }
+    ]
+}

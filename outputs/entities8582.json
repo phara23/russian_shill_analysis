@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7030693292617798,
+            "Type": "ORGANIZATION",
+            "Text": "@wikileaks",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9940443634986877,
+            "Type": "ORGANIZATION",
+            "Text": "CNN",
+            "BeginOffset": 22,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9142453670501709,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 40,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9998247623443604,
+            "Type": "PERSON",
+            "Text": "Donna Brazile",
+            "BeginOffset": 50,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.7751799821853638,
+            "Type": "QUANTITY",
+            "Text": "2nd",
+            "BeginOffset": 84,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.9973710179328918,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 109,
+            "EndOffset": 124
+        },
+        {
+            "Score": 0.9185428023338318,
+            "Type": "OTHER",
+            "Text": "https://t.co/5",
+            "BeginOffset": 125,
+            "EndOffset": 139
+        }
+    ]
+}

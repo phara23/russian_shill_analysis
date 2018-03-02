@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9991539120674133,
+            "Type": "PERSON",
+            "Text": "Chris Brown",
+            "BeginOffset": 92,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.9998681545257568,
+            "Type": "OTHER",
+            "Text": "https://t.co/QNROMR1yNr",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        }
+    ]
+}

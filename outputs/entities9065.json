@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7666366696357727,
+            "Type": "PERSON",
+            "Text": "@Taliesyne",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8859367966651917,
+            "Type": "PERSON",
+            "Text": "@KeshaTedder",
+            "BeginOffset": 15,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9999947547912598,
+            "Type": "OTHER",
+            "Text": "https://t.co/4pmRW4XFxF",
+            "BeginOffset": 28,
+            "EndOffset": 51
+        }
+    ]
+}

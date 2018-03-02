@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9943304061889648,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 0,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.9963898062705994,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 22,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.816415548324585,
+            "Type": "LOCATION",
+            "Text": "Mich., Pa.",
+            "BeginOffset": 31,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9838256239891052,
+            "Type": "LOCATION",
+            "Text": "Ohio",
+            "BeginOffset": 51,
+            "EndOffset": 55
+        }
+    ]
+}

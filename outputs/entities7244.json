@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5580743551254272,
+            "Type": "OTHER",
+            "Text": "Syrian",
+            "BeginOffset": 30,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9913468956947327,
+            "Type": "LOCATION",
+            "Text": "Europe",
+            "BeginOffset": 62,
+            "EndOffset": 68
+        }
+    ]
+}

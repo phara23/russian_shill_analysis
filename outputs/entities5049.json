@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8829878568649292,
+            "Type": "PERSON",
+            "Text": "@tommasz",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9949179887771606,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 32,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9905124306678772,
+            "Type": "PERSON",
+            "Text": "Hitler",
+            "BeginOffset": 64,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9842460751533508,
+            "Type": "OTHER",
+            "Text": "https://t.co/Iu0OxAXxaQ",
+            "BeginOffset": 72,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.854408323764801,
+            "Type": "ORGANIZATION",
+            "Text": "@slate",
+            "BeginOffset": 100,
+            "EndOffset": 106
+        }
+    ]
+}

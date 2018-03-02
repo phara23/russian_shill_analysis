@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7809913158416748,
+            "Type": "PERSON",
+            "Text": "@WDFx2EU7",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.749958336353302,
+            "Type": "PERSON",
+            "Text": "#Trump",
+            "BeginOffset": 14,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.9858593940734863,
+            "Type": "PERSON",
+            "Text": "Christian Hilland",
+            "BeginOffset": 33,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.8312633633613586,
+            "Type": "ORGANIZATION",
+            "Text": "FEC",
+            "BeginOffset": 87,
+            "EndOffset": 90
+        }
+    ]
+}

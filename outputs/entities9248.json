@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5298877954483032,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.9199075102806091,
+            "Type": "PERSON",
+            "Text": "@Adamant_Yves",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        }
+    ]
+}

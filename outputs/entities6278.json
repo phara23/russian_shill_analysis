@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8189276456832886,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9995973706245422,
+            "Type": "PERSON",
+            "Text": "Frank Ocean",
+            "BeginOffset": 13,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.8980617523193359,
+            "Type": "QUANTITY",
+            "Text": "first interview",
+            "BeginOffset": 34,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9885545969009399,
+            "Type": "QUANTITY",
+            "Text": "3 years",
+            "BeginOffset": 53,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.7464600801467896,
+            "Type": "ORGANIZATION",
+            "Text": "White House State Dinner",
+            "BeginOffset": 68,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.8859919309616089,
+            "Type": "OTHER",
+            "Text": "https://t.co/G7dYjRVk9D",
+            "BeginOffset": 93,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.6821451783180237,
+            "Type": "PERSON",
+            "Text": "@Blavity",
+            "BeginOffset": 117,
+            "EndOffset": 125
+        },
+        {
+            "Score": 0.9189841747283936,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

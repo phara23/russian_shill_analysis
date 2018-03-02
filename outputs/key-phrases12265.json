@@ -1,0 +1,34 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9700637459754944,
+            "Text": "Study",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9919400215148926,
+            "Text": "Hillary",
+            "BeginOffset": 18,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9939074516296387,
+            "Text": "800,000 votes",
+            "BeginOffset": 30,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9950968623161316,
+            "Text": "non-citizens",
+            "BeginOffset": 49,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9571604132652283,
+            "Text": "Another glass ceiling",
+            "BeginOffset": 63,
+            "EndOffset": 84
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5155476927757263,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.6945933103561401,
+            "Type": "PERSON",
+            "Text": "@BSest2016",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9999047517776489,
+            "Type": "OTHER",
+            "Text": "https://t.co/Et2DLuHYBe",
+            "BeginOffset": 59,
+            "EndOffset": 82
+        }
+    ]
+}

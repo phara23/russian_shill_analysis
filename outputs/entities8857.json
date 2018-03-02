@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9233676195144653,
+            "Type": "PERSON",
+            "Text": "@bobfox321",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9478979706764221,
+            "Type": "OTHER",
+            "Text": "https://t.co/lG0IUgZxru",
+            "BeginOffset": 65,
+            "EndOffset": 88
+        }
+    ]
+}

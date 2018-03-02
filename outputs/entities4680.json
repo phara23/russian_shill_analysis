@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7663956880569458,
+            "Type": "PERSON",
+            "Text": "@BIZPACReview",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9949373006820679,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 42,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.7026709914207458,
+            "Type": "PERSON",
+            "Text": "Huma",
+            "BeginOffset": 67,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9730941653251648,
+            "Type": "OTHER",
+            "Text": "https://t.co/6l3R",
+            "BeginOffset": 122,
+            "EndOffset": 139
+        }
+    ]
+}

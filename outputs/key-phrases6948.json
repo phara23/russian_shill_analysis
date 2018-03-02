@@ -1,0 +1,40 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9421886801719666,
+            "Text": "Man",
+            "BeginOffset": 0,
+            "EndOffset": 3
+        },
+        {
+            "Score": 0.9985748529434204,
+            "Text": "a terrorist",
+            "BeginOffset": 18,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9995166063308716,
+            "Text": "Munich",
+            "BeginOffset": 33,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9960993528366089,
+            "Text": "9 people",
+            "BeginOffset": 51,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.8763896822929382,
+            "Text": "speech",
+            "BeginOffset": 80,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.7055840492248535,
+            "Text": "Germany",
+            "BeginOffset": 89,
+            "EndOffset": 96
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6871161460876465,
+            "Type": "PERSON",
+            "Text": "@SportsCenter",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9017203450202942,
+            "Type": "ORGANIZATION",
+            "Text": "Knicks",
+            "BeginOffset": 28,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9999545216560364,
+            "Type": "PERSON",
+            "Text": "Derrick Rose",
+            "BeginOffset": 41,
+            "EndOffset": 53
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8904663920402527,
+            "Type": "PERSON",
+            "Text": "@TomMcMurray10",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.849310040473938,
+            "Type": "PERSON",
+            "Text": "@PoliticalShort",
+            "BeginOffset": 19,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9880825877189636,
+            "Type": "PERSON",
+            "Text": "@JL02048628",
+            "BeginOffset": 35,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.85898756980896,
+            "Type": "PERSON",
+            "Text": "@CNN",
+            "BeginOffset": 47,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9682457447052002,
+            "Type": "ORGANIZATION",
+            "Text": "CNN",
+            "BeginOffset": 89,
+            "EndOffset": 92
+        }
+    ]
+}

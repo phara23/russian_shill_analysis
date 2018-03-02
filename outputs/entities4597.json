@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9250571727752686,
+            "Type": "PERSON",
+            "Text": "@DrJillStein",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7064401507377625,
+            "Type": "ORGANIZATION",
+            "Text": "@debates",
+            "BeginOffset": 42,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9088084697723389,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 85,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.6660803556442261,
+            "Type": "OTHER",
+            "Text": "Americans",
+            "BeginOffset": 103,
+            "EndOffset": 112
+        }
+    ]
+}

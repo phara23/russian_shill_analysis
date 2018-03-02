@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9968600273132324,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.987911581993103,
+            "Type": "TITLE",
+            "Text": "Obamacare",
+            "BeginOffset": 8,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9599730968475342,
+            "Type": "PERSON",
+            "Text": "McCain",
+            "BeginOffset": 37,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9706517457962036,
+            "Type": "PERSON",
+            "Text": "Kirkpatrick",
+            "BeginOffset": 48,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.766640305519104,
+            "Type": "OTHER",
+            "Text": "https://t.co/aIwod4D5tN",
+            "BeginOffset": 65,
+            "EndOffset": 88
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.861801028251648,
+            "Type": "PERSON",
+            "Text": "@yaf",
+            "BeginOffset": 3,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.8663012385368347,
+            "Type": "PERSON",
+            "Text": "@benshapiro",
+            "BeginOffset": 39,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9685856103897095,
+            "Type": "DATE",
+            "Text": "tonight",
+            "BeginOffset": 51,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9636284708976746,
+            "Type": "ORGANIZATION",
+            "Text": "Marquette University",
+            "BeginOffset": 62,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.9989778995513916,
+            "Type": "OTHER",
+            "Text": "https://t.co/yF33MoWWO2",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        }
+    ]
+}

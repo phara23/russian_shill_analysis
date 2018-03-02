@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.951296329498291,
+            "Type": "PERSON",
+            "Text": "@chrisroytaylor",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8719462156295776,
+            "Type": "PERSON",
+            "Text": "@theheraldsun",
+            "BeginOffset": 91,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.9047622084617615,
+            "Type": "OTHER",
+            "Text": "https://t.co/Tte",
+            "BeginOffset": 127,
+            "EndOffset": 143
+        }
+    ]
+}

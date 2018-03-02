@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8165497779846191,
+            "Type": "PERSON",
+            "Text": "@hokiedokiemike",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8882989883422852,
+            "Type": "PERSON",
+            "Text": "@DRUDGE_REPORT",
+            "BeginOffset": 20,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.41354405879974365,
+            "Type": "PERSON",
+            "Text": "#sethrich",
+            "BeginOffset": 87,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.9828284382820129,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

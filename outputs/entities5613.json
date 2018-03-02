@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8598975539207458,
+            "Type": "PERSON",
+            "Text": "@newsburko",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9392824172973633,
+            "Type": "OTHER",
+            "Text": "https://t.co/KmE5FTycDn",
+            "BeginOffset": 93,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.9999892711639404,
+            "Type": "OTHER",
+            "Text": "https://t.co/7HXM1Pf3IG",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

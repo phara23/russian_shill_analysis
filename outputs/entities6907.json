@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7331597208976746,
+            "Type": "PERSON",
+            "Text": "@XLNB",
+            "BeginOffset": 3,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.9657338261604309,
+            "Type": "PERSON",
+            "Text": "Mickey D",
+            "BeginOffset": 75,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.8921663165092468,
+            "Type": "DATE",
+            "Text": "two days ago",
+            "BeginOffset": 84,
+            "EndOffset": 96
+        }
+    ]
+}

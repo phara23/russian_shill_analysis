@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.761857271194458,
+            "Type": "PERSON",
+            "Text": "@realDailyWire",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.748412549495697,
+            "Type": "OTHER",
+            "Text": "British",
+            "BeginOffset": 25,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.8668158054351807,
+            "Type": "ORGANIZATION",
+            "Text": "Muslims",
+            "BeginOffset": 77,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.8573835492134094,
+            "Type": "OTHER",
+            "Text": "https://t.co/xOPMwL1qlf",
+            "BeginOffset": 86,
+            "EndOffset": 109
+        },
+        {
+            "Score": 0.9999977350234985,
+            "Type": "OTHER",
+            "Text": "https://t.co/HQ89WsqgxN",
+            "BeginOffset": 110,
+            "EndOffset": 133
+        }
+    ]
+}

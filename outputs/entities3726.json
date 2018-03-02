@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.887562096118927,
+            "Type": "PERSON",
+            "Text": "@ctone11",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9600187540054321,
+            "Type": "ORGANIZATION",
+            "Text": "@YouTube",
+            "BeginOffset": 23,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9907081127166748,
+            "Type": "OTHER",
+            "Text": "https://t.co/68cKxxFmOT",
+            "BeginOffset": 38,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9937301874160767,
+            "Type": "PERSON",
+            "Text": "Tariq Nasheed",
+            "BeginOffset": 62,
+            "EndOffset": 75
+        }
+    ]
+}

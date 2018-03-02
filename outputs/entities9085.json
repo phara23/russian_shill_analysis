@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8619491457939148,
+            "Type": "PERSON",
+            "Text": "@adjunctprofessr",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9974959492683411,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 68,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.9943195581436157,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 130,
+            "EndOffset": 135
+        }
+    ]
+}

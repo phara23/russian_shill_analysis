@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8241941332817078,
+            "Type": "PERSON",
+            "Text": "@camboviet",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.967843770980835,
+            "Type": "OTHER",
+            "Text": "https://t.co/pWU8jVVuX8",
+            "BeginOffset": 78,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.8467473983764648,
+            "Type": "ORGANIZATION",
+            "Text": "@allafrica",
+            "BeginOffset": 106,
+            "EndOffset": 116
+        }
+    ]
+}

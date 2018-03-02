@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.40478140115737915,
+            "Type": "PERSON",
+            "Text": "#DonaldTrump",
+            "BeginOffset": 0,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8673536777496338,
+            "Type": "QUANTITY",
+            "Text": "00million",
+            "BeginOffset": 19,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.871895968914032,
+            "Type": "ORGANIZATION",
+            "Text": "Univision",
+            "BeginOffset": 45,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.7142769694328308,
+            "Type": "ORGANIZATION",
+            "Text": "#MissUniverso",
+            "BeginOffset": 81,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.988191545009613,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 106,
+            "EndOffset": 111
+        }
+    ]
+}

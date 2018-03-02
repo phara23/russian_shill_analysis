@@ -1,0 +1,40 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.8962136507034302,
+            "Text": "this part",
+            "BeginOffset": 20,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9997219443321228,
+            "Text": "my life",
+            "BeginOffset": 33,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9510716795921326,
+            "Text": "&amp;",
+            "BeginOffset": 70,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.8479682207107544,
+            "Text": "quot",
+            "BeginOffset": 75,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.6734617948532104,
+            "Text": "Phew",
+            "BeginOffset": 80,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.7108441591262817,
+            "Text": "&amp;",
+            "BeginOffset": 115,
+            "EndOffset": 120
+        }
+    ]
+}

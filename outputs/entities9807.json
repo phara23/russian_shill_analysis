@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8353824615478516,
+            "Type": "PERSON",
+            "Text": "@rodimusprime",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9146367311477661,
+            "Type": "DATE",
+            "Text": "Six years ago",
+            "BeginOffset": 18,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9745477437973022,
+            "Type": "DATE",
+            "Text": "today",
+            "BeginOffset": 32,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.8025739192962646,
+            "Type": "PERSON",
+            "Text": "@SayDatAgain",
+            "BeginOffset": 45,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9776198863983154,
+            "Type": "PERSON",
+            "Text": "@bomani_jones",
+            "BeginOffset": 62,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.9362612962722778,
+            "Type": "OTHER",
+            "Text": "https://t.co/f",
+            "BeginOffset": 125,
+            "EndOffset": 139
+        }
+    ]
+}

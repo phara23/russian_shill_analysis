@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7818688750267029,
+            "Type": "PERSON",
+            "Text": "@number1green",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9940886497497559,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 18,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9991563558578491,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 73,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.9846677184104919,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 111,
+            "EndOffset": 115
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7472673654556274,
+            "Type": "ORGANIZATION",
+            "Text": "Northeast High school",
+            "BeginOffset": 0,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9923302531242371,
+            "Type": "LOCATION",
+            "Text": "Oakland Park, FL",
+            "BeginOffset": 25,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9999477863311768,
+            "Type": "OTHER",
+            "Text": "https://t.co/nBPmBbu8SM",
+            "BeginOffset": 91,
+            "EndOffset": 114
+        }
+    ]
+}

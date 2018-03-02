@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.45616787672042847,
+            "Type": "PERSON",
+            "Text": "Soros",
+            "BeginOffset": 15,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.9990492463111877,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 71,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.9999372959136963,
+            "Type": "OTHER",
+            "Text": "https://t.co/tx1QdRh5ig",
+            "BeginOffset": 115,
+            "EndOffset": 138
+        }
+    ]
+}

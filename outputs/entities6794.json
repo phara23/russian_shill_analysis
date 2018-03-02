@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9339038729667664,
+            "Type": "PERSON",
+            "Text": "@elchingon5150",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6440389752388,
+            "Type": "EVENT",
+            "Text": "Christmas",
+            "BeginOffset": 71,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.959800124168396,
+            "Type": "DATE",
+            "Text": "this year",
+            "BeginOffset": 86,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.594777524471283,
+            "Type": "EVENT",
+            "Text": "#ChristmasAftermath",
+            "BeginOffset": 97,
+            "EndOffset": 116
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6913599371910095,
+            "Type": "PERSON",
+            "Text": "@BlastingNews",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.6611372828483582,
+            "Type": "TITLE",
+            "Text": "Dragon Ball Super",
+            "BeginOffset": 19,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.6766827702522278,
+            "Type": "QUANTITY",
+            "Text": "episode 73",
+            "BeginOffset": 39,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.8158354163169861,
+            "Type": "OTHER",
+            "Text": "https://t.co/0Ad5YlmINj",
+            "BeginOffset": 59,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.999977707862854,
+            "Type": "OTHER",
+            "Text": "https://t.co/5Gc8CDHkSi",
+            "BeginOffset": 83,
+            "EndOffset": 106
+        }
+    ]
+}

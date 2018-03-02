@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7265343070030212,
+            "Type": "QUANTITY",
+            "Text": "Night 2",
+            "BeginOffset": 12,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8939754366874695,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 23,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9856970310211182,
+            "Type": "OTHER",
+            "Text": "https://t.co/D0H4YP6X5N",
+            "BeginOffset": 38,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9135841131210327,
+            "Type": "OTHER",
+            "Text": "https://t.co/0aSh3ddYmz",
+            "BeginOffset": 64,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.9999245405197144,
+            "Type": "OTHER",
+            "Text": "https://t.co/WCvaOdd7fL",
+            "BeginOffset": 88,
+            "EndOffset": 111
+        }
+    ]
+}

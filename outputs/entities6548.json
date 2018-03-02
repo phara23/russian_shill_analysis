@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9030906558036804,
+            "Type": "PERSON",
+            "Text": "@HalleyBorderCol",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.649132251739502,
+            "Type": "PERSON",
+            "Text": "Crooked Hillary",
+            "BeginOffset": 65,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.8711614608764648,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 112,
+            "EndOffset": 127
+        },
+        {
+            "Score": 0.8107511401176453,
+            "Type": "OTHER",
+            "Text": "https://t.c",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

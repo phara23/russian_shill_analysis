@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8657963275909424,
+            "Type": "ORGANIZATION",
+            "Text": "@I_am_not_E",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9866812229156494,
+            "Type": "DATE",
+            "Text": "2017",
+            "BeginOffset": 19,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9724067449569702,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 57,
+            "EndOffset": 61
+        }
+    ]
+}

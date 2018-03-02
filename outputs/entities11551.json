@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9660720229148865,
+            "Type": "PERSON",
+            "Text": "@joelanthony77",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6701279282569885,
+            "Type": "DATE",
+            "Text": "#2016",
+            "BeginOffset": 19,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.76499342918396,
+            "Type": "QUANTITY",
+            "Text": "4Words",
+            "BeginOffset": 26,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9427440762519836,
+            "Type": "PERSON",
+            "Text": "Hillary Rodham Clinton",
+            "BeginOffset": 38,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.999914288520813,
+            "Type": "OTHER",
+            "Text": "https://t.co/MwIi6YvRVT",
+            "BeginOffset": 61,
+            "EndOffset": 84
+        }
+    ]
+}

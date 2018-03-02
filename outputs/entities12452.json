@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9813884496688843,
+            "Type": "ORGANIZATION",
+            "Text": "New York Times",
+            "BeginOffset": 0,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8972645401954651,
+            "Type": "QUANTITY",
+            "Text": "2 women",
+            "BeginOffset": 16,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9969106316566467,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 28,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9998735189437866,
+            "Type": "OTHER",
+            "Text": "https://t.co/vPpBQkkLZz",
+            "BeginOffset": 63,
+            "EndOffset": 86
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9197111129760742,
+            "Type": "PERSON",
+            "Text": "@myGianLuca",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8128637075424194,
+            "Type": "PERSON",
+            "Text": "@hillaryclinton",
+            "BeginOffset": 19,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9363876581192017,
+            "Type": "PERSON",
+            "Text": "@billclinton",
+            "BeginOffset": 35,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.7612225413322449,
+            "Type": "PERSON",
+            "Text": "@CNNPolitics",
+            "BeginOffset": 48,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.8265988230705261,
+            "Type": "PERSON",
+            "Text": "@nypost",
+            "BeginOffset": 61,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9741334915161133,
+            "Type": "PERSON",
+            "Text": "@rushlimbaugh",
+            "BeginOffset": 70,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.9807698130607605,
+            "Type": "PERSON",
+            "Text": "@seanhannity",
+            "BeginOffset": 84,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.9851600527763367,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 97,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.7501881718635559,
+            "Type": "PERSON",
+            "Text": "@BuzzFeed",
+            "BeginOffset": 114,
+            "EndOffset": 123
+        },
+        {
+            "Score": 0.908208429813385,
+            "Type": "OTHER",
+            "Text": "https://t.co/9T",
+            "BeginOffset": 124,
+            "EndOffset": 139
+        }
+    ]
+}

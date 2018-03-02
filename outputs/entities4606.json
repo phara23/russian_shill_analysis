@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.553745687007904,
+            "Type": "QUANTITY",
+            "Text": "10 show",
+            "BeginOffset": 14,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9679005146026611,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 22,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.8739694952964783,
+            "Type": "QUANTITY",
+            "Text": "55,000 emails",
+            "BeginOffset": 69,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.9999866485595703,
+            "Type": "OTHER",
+            "Text": "https://t.co/j7Dv8Fj9Cq",
+            "BeginOffset": 83,
+            "EndOffset": 106
+        }
+    ]
+}

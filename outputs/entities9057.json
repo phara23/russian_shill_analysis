@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9216277003288269,
+            "Type": "PERSON",
+            "Text": "@StacyBrewer18",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8679605722427368,
+            "Type": "ORGANIZATION",
+            "Text": "Congress",
+            "BeginOffset": 64,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.9892075657844543,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 83,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9998915195465088,
+            "Type": "OTHER",
+            "Text": "https://t.co/TzfLxNltrb",
+            "BeginOffset": 108,
+            "EndOffset": 131
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8499426245689392,
+            "Type": "PERSON",
+            "Text": "@KCityDaily",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8899664878845215,
+            "Type": "LOCATION",
+            "Text": "Indiana",
+            "BeginOffset": 22,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.8682243824005127,
+            "Type": "QUANTITY",
+            "Text": "93",
+            "BeginOffset": 60,
+            "EndOffset": 62
+        }
+    ]
+}

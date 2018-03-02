@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9730890393257141,
+            "Type": "PERSON",
+            "Text": "@JamesMorgan92",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8430965542793274,
+            "Type": "QUANTITY",
+            "Text": "one day",
+            "BeginOffset": 36,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9998871088027954,
+            "Type": "OTHER",
+            "Text": "https://t.co/IxcTqdhxkM",
+            "BeginOffset": 69,
+            "EndOffset": 92
+        }
+    ]
+}

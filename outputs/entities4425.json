@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9063924551010132,
+            "Type": "PERSON",
+            "Text": "@YzyMerch",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.7434906363487244,
+            "Type": "OTHER",
+            "Text": "https://t.co/rftIzDNrxE",
+            "BeginOffset": 43,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9999874830245972,
+            "Type": "OTHER",
+            "Text": "https://t.co/km9ymSNDs4",
+            "BeginOffset": 67,
+            "EndOffset": 90
+        }
+    ]
+}

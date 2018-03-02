@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9725565910339355,
+            "Type": "PERSON",
+            "Text": "@Scully64",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8007056713104248,
+            "Type": "PERSON",
+            "Text": "@ericbolling",
+            "BeginOffset": 43,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.7208714485168457,
+            "Type": "PERSON",
+            "Text": "@FoxNews",
+            "BeginOffset": 60,
+            "EndOffset": 68
+        }
+    ]
+}

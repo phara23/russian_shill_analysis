@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8489090800285339,
+            "Type": "PERSON",
+            "Text": "@WilsonWPA",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9986719489097595,
+            "Type": "PERSON",
+            "Text": "Ted Cruz",
+            "BeginOffset": 53,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9997609257698059,
+            "Type": "OTHER",
+            "Text": "https://t.co/AEBy97SZhL",
+            "BeginOffset": 107,
+            "EndOffset": 130
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7879142165184021,
+            "Type": "PERSON",
+            "Text": "@LouDobbs",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.6471561193466187,
+            "Type": "QUANTITY",
+            "Text": "9th",
+            "BeginOffset": 14,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7522084712982178,
+            "Type": "ORGANIZATION",
+            "Text": "Circuit Court of Appeals",
+            "BeginOffset": 18,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.7887726426124573,
+            "Type": "ORGANIZATION",
+            "Text": "@POTUS",
+            "BeginOffset": 51,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.8886786699295044,
+            "Type": "PERSON",
+            "Text": "@KellyannePolls",
+            "BeginOffset": 85,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.45430925488471985,
+            "Type": "ORGANIZATION",
+            "Text": "#Dobbs",
+            "BeginOffset": 107,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.837859570980072,
+            "Type": "QUANTITY",
+            "Text": "7p",
+            "BeginOffset": 117,
+            "EndOffset": 119
+        },
+        {
+            "Score": 0.5745078325271606,
+            "Type": "ORGANIZATION",
+            "Text": "#MAGA",
+            "BeginOffset": 120,
+            "EndOffset": 125
+        }
+    ]
+}

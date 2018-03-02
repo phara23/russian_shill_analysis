@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8573576211929321,
+            "Type": "PERSON",
+            "Text": "@Always_Trump",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9266926050186157,
+            "Type": "ORGANIZATION",
+            "Text": "@NBC",
+            "BeginOffset": 27,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9875320196151733,
+            "Type": "QUANTITY",
+            "Text": "6 Million",
+            "BeginOffset": 41,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9785075783729553,
+            "Type": "ORGANIZATION",
+            "Text": "Democratic Party",
+            "BeginOffset": 58,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.587456226348877,
+            "Type": "QUANTITY",
+            "Text": "first",
+            "BeginOffset": 85,
+            "EndOffset": 90
+        }
+    ]
+}

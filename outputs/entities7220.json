@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7260242104530334,
+            "Type": "PERSON",
+            "Text": "@AmericaRising",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.915522038936615,
+            "Type": "QUANTITY",
+            "Text": "One Year",
+            "BeginOffset": 19,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.8837915062904358,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 35,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9599434733390808,
+            "Type": "OTHER",
+            "Text": "http://t.co/26O07Ijmer",
+            "BeginOffset": 81,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.9999659061431885,
+            "Type": "OTHER",
+            "Text": "http://t.co/wRRgVT9KCP",
+            "BeginOffset": 104,
+            "EndOffset": 126
+        }
+    ]
+}

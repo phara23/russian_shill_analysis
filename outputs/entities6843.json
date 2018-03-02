@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7266623377799988,
+            "Type": "PERSON",
+            "Text": "Merkel",
+            "BeginOffset": 0,
+            "EndOffset": 6
+        },
+        {
+            "Score": 0.8749818205833435,
+            "Type": "PERSON",
+            "Text": "Frau der Welt",
+            "BeginOffset": 26,
+            "EndOffset": 39
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7273054122924805,
+            "Type": "PERSON",
+            "Text": "@riteprices",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9083707332611084,
+            "Type": "QUANTITY",
+            "Text": "5 new followers",
+            "BeginOffset": 48,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.953885018825531,
+            "Type": "QUANTITY",
+            "Text": "7 unfollowers",
+            "BeginOffset": 68,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.9706856608390808,
+            "Type": "OTHER",
+            "Text": "https://t.co/r3QbYSE3tX",
+            "BeginOffset": 86,
+            "EndOffset": 109
+        }
+    ]
+}

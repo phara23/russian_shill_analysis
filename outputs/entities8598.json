@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9262717962265015,
+            "Type": "PERSON",
+            "Text": "@ScottPresler",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8413041234016418,
+            "Type": "ORGANIZATION",
+            "Text": "Harris Co. Republican Party",
+            "BeginOffset": 38,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.6371200680732727,
+            "Type": "ORGANIZATION",
+            "Text": "#UHCL",
+            "BeginOffset": 123,
+            "EndOffset": 128
+        }
+    ]
+}

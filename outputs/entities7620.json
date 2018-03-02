@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8783631324768066,
+            "Type": "PERSON",
+            "Text": "@FreedomChild3",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9139267206192017,
+            "Type": "PERSON",
+            "Text": "@ConstanceQueen8",
+            "BeginOffset": 19,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9999206066131592,
+            "Type": "OTHER",
+            "Text": "https://t.co/HAopRYT2RQ",
+            "BeginOffset": 49,
+            "EndOffset": 72
+        }
+    ]
+}

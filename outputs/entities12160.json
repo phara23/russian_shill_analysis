@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.747227132320404,
+            "Type": "PERSON",
+            "Text": "@CallawayBOT",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9829668998718262,
+            "Type": "ORGANIZATION",
+            "Text": "CNN",
+            "BeginOffset": 17,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.920635461807251,
+            "Type": "PERSON",
+            "Text": "Sen. Bernie Sanders",
+            "BeginOffset": 44,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9685044288635254,
+            "Type": "OTHER",
+            "Text": "https://t.co/qVb00FZz2s",
+            "BeginOffset": 64,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.639973521232605,
+            "Type": "ORGANIZATION",
+            "Text": "#FeelTheBern",
+            "BeginOffset": 88,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.9939874410629272,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 109,
+            "EndOffset": 113
+        }
+    ]
+}

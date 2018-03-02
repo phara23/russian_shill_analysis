@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8182657361030579,
+            "Type": "PERSON",
+            "Text": "@WorldTruthTV",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7013687491416931,
+            "Type": "EVENT",
+            "Text": "Christmas",
+            "BeginOffset": 44,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9997304081916809,
+            "Type": "OTHER",
+            "Text": "https://t.co/5lyi5Si7Lh",
+            "BeginOffset": 54,
+            "EndOffset": 77
+        }
+    ]
+}

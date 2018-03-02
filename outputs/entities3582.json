@@ -1,0 +1,67 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9670125842094421,
+            "Type": "PERSON",
+            "Text": "@Larry_in_Ohio",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8546194434165955,
+            "Type": "ORGANIZATION",
+            "Text": "@AppSame",
+            "BeginOffset": 19,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9479886293411255,
+            "Type": "ORGANIZATION",
+            "Text": "@FBI",
+            "BeginOffset": 28,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.8741231560707092,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 33,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9950008988380432,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 91,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.9843006730079651,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 111,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.9957504272460938,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 118,
+            "EndOffset": 125
+        },
+        {
+            "Score": 0.9576021432876587,
+            "Type": "PERSON",
+            "Text": "Lynch",
+            "BeginOffset": 126,
+            "EndOffset": 131
+        },
+        {
+            "Score": 0.7604902386665344,
+            "Type": "PERSON",
+            "Text": "Com",
+            "BeginOffset": 136,
+            "EndOffset": 139
+        }
+    ]
+}

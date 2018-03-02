@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6572868824005127,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.779283881187439,
+            "Type": "PERSON",
+            "Text": "@oneJesusloves",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9842590093612671,
+            "Type": "OTHER",
+            "Text": "https://t.co/Y69fHoOJ7B",
+            "BeginOffset": 68,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.28040507435798645,
+            "Type": "ORGANIZATION",
+            "Text": "#RenewUS",
+            "BeginOffset": 92,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.46216443181037903,
+            "Type": "ORGANIZATION",
+            "Text": "#PJNET",
+            "BeginOffset": 101,
+            "EndOffset": 107
+        }
+    ]
+}

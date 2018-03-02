@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7302151918411255,
+            "Type": "PERSON",
+            "Text": "@RoomOfRumor",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9998990893363953,
+            "Type": "PERSON",
+            "Text": "Matt Turner",
+            "BeginOffset": 58,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.5123090744018555,
+            "Type": "ORGANIZATION",
+            "Text": "KLTV",
+            "BeginOffset": 93,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.9999176263809204,
+            "Type": "OTHER",
+            "Text": "http://t.co/vXPvFh5ftg",
+            "BeginOffset": 99,
+            "EndOffset": 121
+        }
+    ]
+}

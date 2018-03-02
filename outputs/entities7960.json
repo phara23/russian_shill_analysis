@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5039418339729309,
+            "Type": "ORGANIZATION",
+            "Text": "@1",
+            "BeginOffset": 3,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.5197499394416809,
+            "Type": "ORGANIZATION",
+            "Text": "BleachBit",
+            "BeginOffset": 31,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.46847301721572876,
+            "Type": "ORGANIZATION",
+            "Text": "#CrookedHillary",
+            "BeginOffset": 59,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.8233740925788879,
+            "Type": "PERSON",
+            "Text": "@Cernovich",
+            "BeginOffset": 98,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.9385517835617065,
+            "Type": "PERSON",
+            "Text": "@RealJamesWoods",
+            "BeginOffset": 109,
+            "EndOffset": 124
+        },
+        {
+            "Score": 0.9436165690422058,
+            "Type": "PERSON",
+            "Text": "@TandeJane",
+            "BeginOffset": 125,
+            "EndOffset": 135
+        }
+    ]
+}

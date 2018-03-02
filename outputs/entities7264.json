@@ -1,0 +1,67 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8969221115112305,
+            "Type": "PERSON",
+            "Text": "@kylegriffin1",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.990711510181427,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 18,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.3735019862651825,
+            "Type": "QUANTITY",
+            "Text": "30",
+            "BeginOffset": 56,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.4681165814399719,
+            "Type": "QUANTITY",
+            "Text": "63",
+            "BeginOffset": 71,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.7650179862976074,
+            "Type": "QUANTITY",
+            "Text": "-33",
+            "BeginOffset": 79,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.9864882826805115,
+            "Type": "ORGANIZATION",
+            "Text": "NBC",
+            "BeginOffset": 85,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9605324864387512,
+            "Type": "ORGANIZATION",
+            "Text": "WSJ",
+            "BeginOffset": 89,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.9817202687263489,
+            "Type": "DATE",
+            "Text": "Oct. 8",
+            "BeginOffset": 98,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.977482795715332,
+            "Type": "DATE",
+            "Text": "10",
+            "BeginOffset": 105,
+            "EndOffset": 107
+        }
+    ]
+}

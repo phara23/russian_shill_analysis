@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9365720748901367,
+            "Type": "PERSON",
+            "Text": "@Kwicherbichen",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9846333265304565,
+            "Type": "PERSON",
+            "Text": "Putin",
+            "BeginOffset": 19,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9893691539764404,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 32,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.7149837613105774,
+            "Type": "LOCATION",
+            "Text": "U.S.",
+            "BeginOffset": 52,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.7985435128211975,
+            "Type": "LOCATION",
+            "Text": "Russia",
+            "BeginOffset": 82,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9999545812606812,
+            "Type": "OTHER",
+            "Text": "https://t.co/bDPg1CFtI4",
+            "BeginOffset": 89,
+            "EndOffset": 112
+        }
+    ]
+}

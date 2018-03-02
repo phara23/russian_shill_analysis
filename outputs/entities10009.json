@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7377955317497253,
+            "Type": "PERSON",
+            "Text": "@itvnews",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9460108280181885,
+            "Type": "QUANTITY",
+            "Text": "Two young children",
+            "BeginOffset": 13,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9740613698959351,
+            "Type": "LOCATION",
+            "Text": "Australia",
+            "BeginOffset": 57,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9411101341247559,
+            "Type": "OTHER",
+            "Text": "https://t.co/888rrTkITi",
+            "BeginOffset": 89,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.9999839067459106,
+            "Type": "OTHER",
+            "Text": "https://t.co/BO4XVjgtCN",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        }
+    ]
+}

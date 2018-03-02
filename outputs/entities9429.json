@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7825312614440918,
+            "Type": "PERSON",
+            "Text": "@HipHopToGo",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.669969916343689,
+            "Type": "PERSON",
+            "Text": "McLaren",
+            "BeginOffset": 16,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.5493161678314209,
+            "Type": "OTHER",
+            "Text": "F1",
+            "BeginOffset": 26,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9999672174453735,
+            "Type": "OTHER",
+            "Text": "https://t.co/Bw2JYXawe8",
+            "BeginOffset": 64,
+            "EndOffset": 87
+        }
+    ]
+}

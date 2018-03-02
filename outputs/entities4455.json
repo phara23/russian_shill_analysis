@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9950898885726929,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9656978845596313,
+            "Type": "LOCATION",
+            "Text": "NYC",
+            "BeginOffset": 20,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.7714541554450989,
+            "Type": "LOCATION",
+            "Text": "Empire City",
+            "BeginOffset": 53,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9829741716384888,
+            "Type": "LOCATION",
+            "Text": "Trump Tower",
+            "BeginOffset": 84,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.9907745718955994,
+            "Type": "DATE",
+            "Text": "Nov 12",
+            "BeginOffset": 99,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.9999598264694214,
+            "Type": "OTHER",
+            "Text": "https://t.co/nNfrytDaMF",
+            "BeginOffset": 107,
+            "EndOffset": 130
+        }
+    ]
+}

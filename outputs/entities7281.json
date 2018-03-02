@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8755550384521484,
+            "Type": "PERSON",
+            "Text": "@TomMayerEuropa",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9398390650749207,
+            "Type": "PERSON",
+            "Text": "@MarijanKelava",
+            "BeginOffset": 20,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9359204769134521,
+            "Type": "PERSON",
+            "Text": "@msulzbacher",
+            "BeginOffset": 35,
+            "EndOffset": 47
+        }
+    ]
+}

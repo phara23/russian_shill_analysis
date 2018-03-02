@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9217159748077393,
+            "Type": "PERSON",
+            "Text": "@stellacotton",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8596905469894409,
+            "Type": "ORGANIZATION",
+            "Text": "Al-Qaeda",
+            "BeginOffset": 18,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.7528663873672485,
+            "Type": "LOCATION",
+            "Text": "U.S.",
+            "BeginOffset": 65,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9999867677688599,
+            "Type": "OTHER",
+            "Text": "https://t.co/jXzXZmZUUs",
+            "BeginOffset": 95,
+            "EndOffset": 118
+        }
+    ]
+}

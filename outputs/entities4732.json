@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9370284676551819,
+            "Type": "PERSON",
+            "Text": "@kupajo322",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9661427736282349,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 15,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.8961977362632751,
+            "Type": "PERSON",
+            "Text": "@foxandfriends",
+            "BeginOffset": 32,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9699046611785889,
+            "Type": "PERSON",
+            "Text": "@BarackObama",
+            "BeginOffset": 47,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.9116894006729126,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 85,
+            "EndOffset": 100
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6178908944129944,
+            "Type": "ORGANIZATION",
+            "Text": "@AltRights",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.794429361820221,
+            "Type": "ORGANIZATION",
+            "Text": "@CNNPolitics",
+            "BeginOffset": 15,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9894381165504456,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 42,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9454231858253479,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 73,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.815773606300354,
+            "Type": "ORGANIZATION",
+            "Text": "CNN 4",
+            "BeginOffset": 115,
+            "EndOffset": 120
+        }
+    ]
+}

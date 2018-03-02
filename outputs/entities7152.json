@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8278598785400391,
+            "Type": "PERSON",
+            "Text": "@deray",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9912408590316772,
+            "Type": "PERSON",
+            "Text": "Marco Rubio",
+            "BeginOffset": 11,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.8946096301078796,
+            "Type": "ORGANIZATION",
+            "Text": "WikiLeaks",
+            "BeginOffset": 31,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9733701348304749,
+            "Type": "DATE",
+            "Text": "Today",
+            "BeginOffset": 43,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9603129029273987,
+            "Type": "ORGANIZATION",
+            "Text": "Democrats",
+            "BeginOffset": 59,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9789745807647705,
+            "Type": "DATE",
+            "Text": "Tomorrow",
+            "BeginOffset": 70,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.9999450445175171,
+            "Type": "OTHER",
+            "Text": "https://t.co/Dx5QxxfJS5",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        }
+    ]
+}

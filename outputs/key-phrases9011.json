@@ -1,0 +1,28 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9229430556297302,
+            "Text": "RT @HealthNewsBit",
+            "BeginOffset": 0,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.532631516456604,
+            "Text": "Email",
+            "BeginOffset": 19,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9878324270248413,
+            "Text": "#Patient #Information",
+            "BeginOffset": 38,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.9461119771003723,
+            "Text": "UM #Doctors #Group #Hacked",
+            "BeginOffset": 63,
+            "EndOffset": 89
+        }
+    ]
+}

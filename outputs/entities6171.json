@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8154832720756531,
+            "Type": "PERSON",
+            "Text": "@AIIAmericanGirI",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9989477396011353,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 24,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.7717747688293457,
+            "Type": "ORGANIZATION",
+            "Text": "Republican",
+            "BeginOffset": 46,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.739179253578186,
+            "Type": "ORGANIZATION",
+            "Text": "@LifeNewsHQ",
+            "BeginOffset": 123,
+            "EndOffset": 134
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.905292809009552,
+            "Type": "PERSON",
+            "Text": "@daniecal",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9992873072624207,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 58,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.48334309458732605,
+            "Type": "QUANTITY",
+            "Text": "one",
+            "BeginOffset": 77,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.8085055947303772,
+            "Type": "EVENT",
+            "Text": "9/11",
+            "BeginOffset": 112,
+            "EndOffset": 116
+        }
+    ]
+}

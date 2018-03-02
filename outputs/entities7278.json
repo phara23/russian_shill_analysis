@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9469690918922424,
+            "Type": "PERSON",
+            "Text": "@marsialynn86",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9846811890602112,
+            "Type": "PERSON",
+            "Text": "@Simma_dunn_naw",
+            "BeginOffset": 18,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9584319591522217,
+            "Type": "PERSON",
+            "Text": "@Char1956B",
+            "BeginOffset": 34,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9424235224723816,
+            "Type": "PERSON",
+            "Text": "@seanhannity",
+            "BeginOffset": 45,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.904654860496521,
+            "Type": "PERSON",
+            "Text": "@POTUS",
+            "BeginOffset": 58,
+            "EndOffset": 64
+        }
+    ]
+}

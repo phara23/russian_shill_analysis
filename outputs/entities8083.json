@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9308715462684631,
+            "Type": "PERSON",
+            "Text": "@Noahbierman",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.741017758846283,
+            "Type": "QUANTITY",
+            "Text": "One man",
+            "BeginOffset": 17,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.999818742275238,
+            "Type": "OTHER",
+            "Text": "http://t.co/lKqF59Xupe",
+            "BeginOffset": 97,
+            "EndOffset": 119
+        }
+    ]
+}

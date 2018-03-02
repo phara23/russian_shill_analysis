@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8657114505767822,
+            "Type": "PERSON",
+            "Text": "@CerromeRussell",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.5582271218299866,
+            "Type": "QUANTITY",
+            "Text": "One",
+            "BeginOffset": 20,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9999535083770752,
+            "Type": "OTHER",
+            "Text": "https://t.co/4JZbtenQMc",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        }
+    ]
+}

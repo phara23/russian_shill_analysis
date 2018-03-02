@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8893214464187622,
+            "Type": "PERSON",
+            "Text": "@NogaraBatiste",
+            "BeginOffset": 0,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9479274153709412,
+            "Type": "PERSON",
+            "Text": "@SheeitDawg",
+            "BeginOffset": 15,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9541096687316895,
+            "Type": "QUANTITY",
+            "Text": "40%",
+            "BeginOffset": 31,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9731495976448059,
+            "Type": "ORGANIZATION",
+            "Text": "Twitter",
+            "BeginOffset": 65,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.9881149530410767,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 80,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.9621402621269226,
+            "Type": "QUANTITY",
+            "Text": "10%",
+            "BeginOffset": 100,
+            "EndOffset": 103
+        }
+    ]
+}

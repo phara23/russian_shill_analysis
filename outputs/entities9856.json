@@ -1,0 +1,67 @@
+{
+    "Entities": [
+        {
+            "Score": 0.836864173412323,
+            "Type": "PERSON",
+            "Text": "@kylegriffin1",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9959853291511536,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 18,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.6587650179862976,
+            "Type": "OTHER",
+            "Text": "African Americans",
+            "BeginOffset": 52,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.6420389413833618,
+            "Type": "OTHER",
+            "Text": "+72\nAsian",
+            "BeginOffset": 70,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.5653330087661743,
+            "Type": "OTHER",
+            "Text": "Americans",
+            "BeginOffset": 80,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.6899257898330688,
+            "Type": "QUANTITY",
+            "Text": "65\nLatinos",
+            "BeginOffset": 91,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.8636699914932251,
+            "Type": "QUANTITY",
+            "Text": "55\nWhites",
+            "BeginOffset": 103,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.9340090751647949,
+            "Type": "QUANTITY",
+            "Text": "10",
+            "BeginOffset": 114,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.5870957374572754,
+            "Type": "ORGANIZATION",
+            "Text": "GenForward",
+            "BeginOffset": 123,
+            "EndOffset": 133
+        }
+    ]
+}

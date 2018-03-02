@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7708374857902527,
+            "Type": "PERSON",
+            "Text": "@RappersIQ",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.5953510999679565,
+            "Type": "ORGANIZATION",
+            "Text": "@PRODIGYMOBBDEEP",
+            "BeginOffset": 23,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9836261868476868,
+            "Type": "OTHER",
+            "Text": "https://t.co/RxmsP9GZiY",
+            "BeginOffset": 61,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.787307858467102,
+            "Type": "DATE",
+            "Text": "#Sunday",
+            "BeginOffset": 85,
+            "EndOffset": 92
+        }
+    ]
+}

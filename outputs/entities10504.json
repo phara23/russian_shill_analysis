@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8458395004272461,
+            "Type": "PERSON",
+            "Text": "Sheriff Paul Van Blarcum",
+            "BeginOffset": 10,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.5709824562072754,
+            "Type": "QUANTITY",
+            "Text": "#Guns4",
+            "BeginOffset": 38,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9215584993362427,
+            "Type": "LOCATION",
+            "Text": "NY",
+            "BeginOffset": 44,
+            "EndOffset": 46
+        }
+    ]
+}

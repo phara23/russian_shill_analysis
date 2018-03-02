@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7369629740715027,
+            "Type": "PERSON",
+            "Text": "@Politweecs",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.4785436987876892,
+            "Type": "PERSON",
+            "Text": "#DonaldTrump",
+            "BeginOffset": 16,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.8972654342651367,
+            "Type": "QUANTITY",
+            "Text": "00million",
+            "BeginOffset": 35,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.8688866496086121,
+            "Type": "ORGANIZATION",
+            "Text": "Univision",
+            "BeginOffset": 61,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.7237411141395569,
+            "Type": "ORGANIZATION",
+            "Text": "#MissUniverso",
+            "BeginOffset": 97,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.9836440682411194,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 122,
+            "EndOffset": 127
+        },
+        {
+            "Score": 0.8812440037727356,
+            "Type": "OTHER",
+            "Text": "http://…",
+            "BeginOffset": 130,
+            "EndOffset": 138
+        }
+    ]
+}

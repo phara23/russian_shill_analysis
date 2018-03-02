@@ -1,0 +1,28 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9961436986923218,
+            "Text": "Trump",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9294199347496033,
+            "Text": "’s deportation plan",
+            "BeginOffset": 5,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9866413474082947,
+            "Text": "Garcetti",
+            "BeginOffset": 26,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.7435938119888306,
+            "Text": "LA studen",
+            "BeginOffset": 77,
+            "EndOffset": 86
+        }
+    ]
+}

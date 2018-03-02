@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5006784796714783,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.733293354511261,
+            "Type": "PERSON",
+            "Text": "@Usainflames",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9967330098152161,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 36,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.7066634893417358,
+            "Type": "OTHER",
+            "Text": "https://t.co/XraFNwUtvO",
+            "BeginOffset": 78,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.9999790191650391,
+            "Type": "OTHER",
+            "Text": "https://t.co/k8w3GLGvij",
+            "BeginOffset": 102,
+            "EndOffset": 125
+        }
+    ]
+}

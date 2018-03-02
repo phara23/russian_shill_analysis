@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.25055480003356934,
+            "Type": "ORGANIZATION",
+            "Text": "Dexy",
+            "BeginOffset": 0,
+            "EndOffset": 4
+        },
+        {
+            "Score": 0.7852609157562256,
+            "Type": "COMMERCIAL_ITEM",
+            "Text": "Midnight Beer Runners",
+            "BeginOffset": 7,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.6478930115699768,
+            "Type": "ORGANIZATION",
+            "Text": "#DrunkBands",
+            "BeginOffset": 30,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.700354278087616,
+            "Type": "COMMERCIAL_ITEM",
+            "Text": "@midnight",
+            "BeginOffset": 42,
+            "EndOffset": 51
+        }
+    ]
+}

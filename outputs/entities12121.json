@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8619346022605896,
+            "Type": "PERSON",
+            "Text": "@TransGriot",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.4832729399204254,
+            "Type": "ORGANIZATION",
+            "Text": "SCOTUS",
+            "BeginOffset": 59,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9996077418327332,
+            "Type": "OTHER",
+            "Text": "https://t.co/MtVDfoGSLr",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        }
+    ]
+}

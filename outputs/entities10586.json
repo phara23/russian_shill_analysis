@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7152525186538696,
+            "Type": "ORGANIZATION",
+            "Text": "@NYDailyNews",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9992207288742065,
+            "Type": "PERSON",
+            "Text": "Vladimir Putin",
+            "BeginOffset": 59,
+            "EndOffset": 73
+        }
+    ]
+}

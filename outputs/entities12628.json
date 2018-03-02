@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9296591877937317,
+            "Type": "PERSON",
+            "Text": "@Lrihendry",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9949709177017212,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 41,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9758150577545166,
+            "Type": "OTHER",
+            "Text": "https://t.co/hK",
+            "BeginOffset": 124,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9135771989822388,
+            "Type": "PERSON",
+            "Text": "@Boazziz",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.6956683397293091,
+            "Type": "PERSON",
+            "Text": "#Obama",
+            "BeginOffset": 21,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.5371432900428772,
+            "Type": "PERSON",
+            "Text": "#Change",
+            "BeginOffset": 47,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9987789988517761,
+            "Type": "DATE",
+            "Text": "2008",
+            "BeginOffset": 62,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9750321507453918,
+            "Type": "OTHER",
+            "Text": "https://t.co",
+            "BeginOffset": 127,
+            "EndOffset": 139
+        }
+    ]
+}

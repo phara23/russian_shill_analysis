@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9228147268295288,
+            "Type": "PERSON",
+            "Text": "@AisteachJohn",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9884095191955566,
+            "Type": "OTHER",
+            "Text": "https://t.co/bcWLscyI5Y",
+            "BeginOffset": 57,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.9352998733520508,
+            "Type": "PERSON",
+            "Text": "@GIJew29",
+            "BeginOffset": 91,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.9793500900268555,
+            "Type": "PERSON",
+            "Text": "@trumps_taxes",
+            "BeginOffset": 100,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.8886388540267944,
+            "Type": "PERSON",
+            "Text": "@IPGJournal",
+            "BeginOffset": 114,
+            "EndOffset": 125
+        }
+    ]
+}

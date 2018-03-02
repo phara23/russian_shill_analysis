@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9030174016952515,
+            "Type": "PERSON",
+            "Text": "@DLin71",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9590259790420532,
+            "Type": "PERSON",
+            "Text": "KIRK",
+            "BeginOffset": 17,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9584658145904541,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 35,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.699703574180603,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 42,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.955247163772583,
+            "Type": "ORGANIZATION",
+            "Text": "Republicans",
+            "BeginOffset": 60,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9961779117584229,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 81,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9920503497123718,
+            "Type": "PERSON",
+            "Text": "KIRK",
+            "BeginOffset": 103,
+            "EndOffset": 107
+        }
+    ]
+}

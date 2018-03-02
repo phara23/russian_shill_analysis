@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.844845175743103,
+            "Type": "PERSON",
+            "Text": "@ronstew",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.7333357930183411,
+            "Type": "ORGANIZATION",
+            "Text": "Momentum Broadcasting",
+            "BeginOffset": 13,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.8004729747772217,
+            "Type": "LOCATION",
+            "Text": "Visalia, CA",
+            "BeginOffset": 35,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9999366998672485,
+            "Type": "OTHER",
+            "Text": "https://t.co/RzuM6aiyVb",
+            "BeginOffset": 74,
+            "EndOffset": 97
+        }
+    ]
+}

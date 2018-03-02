@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8978957533836365,
+            "Type": "PERSON",
+            "Text": "@FeministaJones",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9859200716018677,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 20,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.6421046257019043,
+            "Type": "LOCATION",
+            "Text": "Russia",
+            "BeginOffset": 64,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.798492968082428,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 120,
+            "EndOffset": 122
+        },
+        {
+            "Score": 0.9757341742515564,
+            "Type": "LOCATION",
+            "Text": "Russia",
+            "BeginOffset": 123,
+            "EndOffset": 129
+        }
+    ]
+}

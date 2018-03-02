@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9070422649383545,
+            "Type": "PERSON",
+            "Text": "@CDoranHarader",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9959465861320496,
+            "Type": "PERSON",
+            "Text": "Jimmy Fallon",
+            "BeginOffset": 41,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9899450540542603,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 66,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.7916745543479919,
+            "Type": "OTHER",
+            "Text": "https://t.co/3p4neGlXqd",
+            "BeginOffset": 81,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.9999858140945435,
+            "Type": "OTHER",
+            "Text": "https://t.co/7dTg3qjuaR",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        }
+    ]
+}

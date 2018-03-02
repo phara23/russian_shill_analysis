@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9217489361763,
+            "Type": "PERSON",
+            "Text": "@bfraser747",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8776795864105225,
+            "Type": "ORGANIZATION",
+            "Text": "Republican",
+            "BeginOffset": 62,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.9720343947410583,
+            "Type": "ORGANIZATION",
+            "Text": "Democrat",
+            "BeginOffset": 77,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.4911700487136841,
+            "Type": "ORGANIZATION",
+            "Text": "#Corruption",
+            "BeginOffset": 98,
+            "EndOffset": 109
+        },
+        {
+            "Score": 0.6132330298423767,
+            "Type": "ORGANIZATION",
+            "Text": "#MAGA",
+            "BeginOffset": 113,
+            "EndOffset": 118
+        }
+    ]
+}

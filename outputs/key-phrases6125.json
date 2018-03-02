@@ -1,0 +1,28 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9824224710464478,
+            "Text": "King",
+            "BeginOffset": 0,
+            "EndOffset": 4
+        },
+        {
+            "Score": 0.9950772523880005,
+            "Text": "Trump",
+            "BeginOffset": 14,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8983255624771118,
+            "Text": "N-word",
+            "BeginOffset": 27,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9518422484397888,
+            "Text": "insulting Ali",
+            "BeginOffset": 35,
+            "EndOffset": 48
+        }
+    ]
+}

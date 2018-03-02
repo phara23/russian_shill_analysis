@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8448396921157837,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.35512614250183105,
+            "Type": "ORGANIZATION",
+            "Text": "Washington",
+            "BeginOffset": 18,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9916541576385498,
+            "Type": "PERSON",
+            "Text": "Barack Obama",
+            "BeginOffset": 57,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.999990701675415,
+            "Type": "OTHER",
+            "Text": "https://t.co/5tGw4BPqxU",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        }
+    ]
+}

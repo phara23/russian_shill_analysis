@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8506664037704468,
+            "Type": "PERSON",
+            "Text": "@guardian",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.30117613077163696,
+            "Type": "PERSON",
+            "Text": "McDonald",
+            "BeginOffset": 14,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9999207258224487,
+            "Type": "OTHER",
+            "Text": "https://t.co/Y0iBcEi7tQ",
+            "BeginOffset": 91,
+            "EndOffset": 114
+        }
+    ]
+}

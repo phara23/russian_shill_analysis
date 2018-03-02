@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8944368958473206,
+            "Type": "PERSON",
+            "Text": "@BoSnerdley",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7833382487297058,
+            "Type": "PERSON",
+            "Text": "Cotton",
+            "BeginOffset": 16,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9971774816513062,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 27,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9999768733978271,
+            "Type": "OTHER",
+            "Text": "https://t.co/q0iv2n0NM5",
+            "BeginOffset": 69,
+            "EndOffset": 92
+        }
+    ]
+}

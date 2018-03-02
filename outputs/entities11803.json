@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9348592162132263,
+            "Type": "PERSON",
+            "Text": "@bluehand007",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9940381050109863,
+            "Type": "PERSON",
+            "Text": "@anj0715",
+            "BeginOffset": 17,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9650037884712219,
+            "Type": "PERSON",
+            "Text": "@msangiebook",
+            "BeginOffset": 26,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.937512993812561,
+            "Type": "PERSON",
+            "Text": "@dcontroversal",
+            "BeginOffset": 39,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9201517105102539,
+            "Type": "PERSON",
+            "Text": "@t3bogot3bogo",
+            "BeginOffset": 54,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9006029367446899,
+            "Type": "PERSON",
+            "Text": "@WinnaWinna2016",
+            "BeginOffset": 68,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.7823969125747681,
+            "Type": "PERSON",
+            "Text": "@/Newbluehan",
+            "BeginOffset": 127,
+            "EndOffset": 139
+        }
+    ]
+}

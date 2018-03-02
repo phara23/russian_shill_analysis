@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5107716917991638,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.6802030801773071,
+            "Type": "ORGANIZATION",
+            "Text": "@NolteNC",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9969903230667114,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 25,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9999576807022095,
+            "Type": "OTHER",
+            "Text": "https://t.co/2UZCK511hb",
+            "BeginOffset": 45,
+            "EndOffset": 68
+        }
+    ]
+}

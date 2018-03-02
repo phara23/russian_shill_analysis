@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9910643696784973,
+            "Type": "PERSON",
+            "Text": "@Johnny_Petrini",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8929890394210815,
+            "Type": "QUANTITY",
+            "Text": "8 Rules",
+            "BeginOffset": 20,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9509692192077637,
+            "Type": "OTHER",
+            "Text": "https://t.co/HbZsTPPFm6",
+            "BeginOffset": 50,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.7777144312858582,
+            "Type": "ORGANIZATION",
+            "Text": "@3tags_org",
+            "BeginOffset": 79,
+            "EndOffset": 89
+        }
+    ]
+}

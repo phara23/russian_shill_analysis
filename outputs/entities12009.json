@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8400223851203918,
+            "Type": "ORGANIZATION",
+            "Text": "Islamic Europe",
+            "BeginOffset": 4,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.95087730884552,
+            "Type": "LOCATION",
+            "Text": "Europe",
+            "BeginOffset": 27,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.8624905943870544,
+            "Type": "PERSON",
+            "Text": "Geert Wilders",
+            "BeginOffset": 92,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.9998698234558105,
+            "Type": "OTHER",
+            "Text": "https://t.co/4hHFYuEysd",
+            "BeginOffset": 106,
+            "EndOffset": 129
+        }
+    ]
+}

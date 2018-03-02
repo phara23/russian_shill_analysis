@@ -1,0 +1,67 @@
+{
+    "Entities": [
+        {
+            "Score": 0.831689715385437,
+            "Type": "PERSON",
+            "Text": "@firefire100",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9412558078765869,
+            "Type": "DATE",
+            "Text": "70's",
+            "BeginOffset": 22,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.8870394229888916,
+            "Type": "PERSON",
+            "Text": "@eb4prez",
+            "BeginOffset": 66,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9797913432121277,
+            "Type": "DATE",
+            "Text": "70s",
+            "BeginOffset": 104,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.5464849472045898,
+            "Type": "ORGANIZATION",
+            "Text": "IDC",
+            "BeginOffset": 109,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.4920804798603058,
+            "Type": "ORGANIZATION",
+            "Text": "IDC",
+            "BeginOffset": 113,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.7746775150299072,
+            "Type": "ORGANIZATION",
+            "Text": "IDC",
+            "BeginOffset": 117,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.8288484215736389,
+            "Type": "ORGANIZATION",
+            "Text": "IDC",
+            "BeginOffset": 121,
+            "EndOffset": 124
+        },
+        {
+            "Score": 0.8440716862678528,
+            "Type": "ORGANIZATION",
+            "Text": "IDC",
+            "BeginOffset": 125,
+            "EndOffset": 128
+        }
+    ]
+}

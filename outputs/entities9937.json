@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.703877866268158,
+            "Type": "PERSON",
+            "Text": "@drboycewatkins",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7266075611114502,
+            "Type": "LOCATION",
+            "Text": "Atlanta",
+            "BeginOffset": 31,
+            "EndOffset": 38
+        }
+    ]
+}

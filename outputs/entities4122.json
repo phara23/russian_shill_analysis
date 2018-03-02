@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7824231386184692,
+            "Type": "PERSON",
+            "Text": "@_tenchi",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.7263286709785461,
+            "Type": "PERSON",
+            "Text": "@DidITweetThat",
+            "BeginOffset": 18,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.7816300392150879,
+            "Type": "PERSON",
+            "Text": "@WorldOfH",
+            "BeginOffset": 130,
+            "EndOffset": 139
+        }
+    ]
+}

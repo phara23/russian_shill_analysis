@@ -1,0 +1,28 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9112808108329773,
+            "Text": "Hillary",
+            "BeginOffset": 0,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.9612786769866943,
+            "Text": "divider-in-chief",
+            "BeginOffset": 16,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9822372794151306,
+            "Text": "Trump",
+            "BeginOffset": 34,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9494333267211914,
+            "Text": "uniter-in-chief",
+            "BeginOffset": 48,
+            "EndOffset": 63
+        }
+    ]
+}

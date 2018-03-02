@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8753718733787537,
+            "Type": "PERSON",
+            "Text": "@leithfadel",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.5591464042663574,
+            "Type": "PERSON",
+            "Text": "Tiger Forces",
+            "BeginOffset": 16,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9663970470428467,
+            "Type": "QUANTITY",
+            "Text": "3 villages",
+            "BeginOffset": 37,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9795034527778625,
+            "Type": "LOCATION",
+            "Text": "east Aleppo",
+            "BeginOffset": 51,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9943469166755676,
+            "Type": "ORGANIZATION",
+            "Text": "ISIS",
+            "BeginOffset": 66,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.5630030035972595,
+            "Type": "ORGANIZATION",
+            "Text": "Jabboul Lake",
+            "BeginOffset": 92,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.9999094009399414,
+            "Type": "OTHER",
+            "Text": "https://t.co/aATtIxSzuZ",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        }
+    ]
+}

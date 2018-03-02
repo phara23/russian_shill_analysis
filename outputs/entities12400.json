@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7598562240600586,
+            "Type": "PERSON",
+            "Text": "@KeepitRealTea",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9677477478981018,
+            "Type": "LOCATION",
+            "Text": "Flint",
+            "BeginOffset": 47,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9494962692260742,
+            "Type": "OTHER",
+            "Text": "https://t.co/Vsoujxrgl4",
+            "BeginOffset": 67,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9613494277000427,
+            "Type": "ORGANIZATION",
+            "Text": "@freep",
+            "BeginOffset": 95,
+            "EndOffset": 101
+        }
+    ]
+}

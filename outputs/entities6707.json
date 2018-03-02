@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9897289872169495,
+            "Type": "TITLE",
+            "Text": "X-Files",
+            "BeginOffset": 1,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.9858934879302979,
+            "Type": "OTHER",
+            "Text": "https://t.co/GyAGOt72eS",
+            "BeginOffset": 29,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.3833732008934021,
+            "Type": "ORGANIZATION",
+            "Text": "#twisters",
+            "BeginOffset": 53,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.5363859534263611,
+            "Type": "ORGANIZATION",
+            "Text": "#tcot",
+            "BeginOffset": 63,
+            "EndOffset": 68
+        }
+    ]
+}

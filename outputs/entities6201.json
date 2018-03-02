@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9811210036277771,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.5685079097747803,
+            "Type": "OTHER",
+            "Text": "Scottish",
+            "BeginOffset": 8,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.994836688041687,
+            "Type": "DATE",
+            "Text": "2015",
+            "BeginOffset": 37,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9005201458930969,
+            "Type": "OTHER",
+            "Text": "https://t.co/SyI5Al2RJT",
+            "BeginOffset": 49,
+            "EndOffset": 72
+        }
+    ]
+}

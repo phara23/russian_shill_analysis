@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6621788144111633,
+            "Type": "PERSON",
+            "Text": "@StopTrump",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9493642449378967,
+            "Type": "DATE",
+            "Text": "2020",
+            "BeginOffset": 13,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.999936580657959,
+            "Type": "OTHER",
+            "Text": "https://t.co/aj9mbHXjpx",
+            "BeginOffset": 53,
+            "EndOffset": 76
+        }
+    ]
+}

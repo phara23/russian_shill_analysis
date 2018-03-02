@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8695581555366516,
+            "Type": "PERSON",
+            "Text": "@ThomasRabe",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9887198805809021,
+            "Type": "DATE",
+            "Text": "Yesterday evening",
+            "BeginOffset": 16,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.804654598236084,
+            "Type": "QUANTITY",
+            "Text": "first-ever boss",
+            "BeginOffset": 43,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.995634138584137,
+            "Type": "PERSON",
+            "Text": "Alastair Suttone",
+            "BeginOffset": 59,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.9271218776702881,
+            "Type": "ORGANIZATION",
+            "Text": "European Commission",
+            "BeginOffset": 86,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.9927164912223816,
+            "Type": "LOCATION",
+            "Text": "Brussels",
+            "BeginOffset": 109,
+            "EndOffset": 117
+        },
+        {
+            "Score": 0.9614242315292358,
+            "Type": "DATE",
+            "Text": "1989",
+            "BeginOffset": 127,
+            "EndOffset": 131
+        }
+    ]
+}

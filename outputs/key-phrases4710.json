@@ -1,0 +1,28 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9834821224212646,
+            "Text": "this man",
+            "BeginOffset": 12,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.9689645767211914,
+            "Text": "air time",
+            "BeginOffset": 33,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9777367115020752,
+            "Text": "CNN or BBC",
+            "BeginOffset": 45,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9954962134361267,
+            "Text": "the truth",
+            "BeginOffset": 74,
+            "EndOffset": 83
+        }
+    ]
+}

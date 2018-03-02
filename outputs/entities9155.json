@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8624749183654785,
+            "Type": "PERSON",
+            "Text": "@midnight",
+            "BeginOffset": 0,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.4950616955757141,
+            "Type": "PERSON",
+            "Text": "Terra Nova",
+            "BeginOffset": 10,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.42333123087882996,
+            "Type": "LOCATION",
+            "Text": "Scotia",
+            "BeginOffset": 21,
+            "EndOffset": 27
+        }
+    ]
+}

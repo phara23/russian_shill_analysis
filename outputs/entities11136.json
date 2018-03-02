@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8532773852348328,
+            "Type": "PERSON",
+            "Text": "@WorldTruthTV",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.5925790071487427,
+            "Type": "OTHER",
+            "Text": "British",
+            "BeginOffset": 18,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9823786616325378,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 43,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9873708486557007,
+            "Type": "ORGANIZATION",
+            "Text": "CIA",
+            "BeginOffset": 50,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.999941349029541,
+            "Type": "OTHER",
+            "Text": "https://t.co/ZcUgOGeX4Z",
+            "BeginOffset": 81,
+            "EndOffset": 104
+        }
+    ]
+}

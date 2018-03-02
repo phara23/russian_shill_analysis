@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6656721234321594,
+            "Type": "PERSON",
+            "Text": "@SoulBounce",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8581948280334473,
+            "Type": "PERSON",
+            "Text": "@Zo3hree5",
+            "BeginOffset": 28,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.6374384760856628,
+            "Type": "TITLE",
+            "Text": "SkyBreak",
+            "BeginOffset": 85,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.991200864315033,
+            "Type": "OTHER",
+            "Text": "https://t.co/GfraS0Lv14",
+            "BeginOffset": 115,
+            "EndOffset": 138
+        }
+    ]
+}

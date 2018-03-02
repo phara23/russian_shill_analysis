@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9578266143798828,
+            "Type": "PERSON",
+            "Text": "@tedcruz",
+            "BeginOffset": 0,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.9612394571304321,
+            "Type": "DATE",
+            "Text": "tonight",
+            "BeginOffset": 34,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.7122065424919128,
+            "Type": "ORGANIZATION",
+            "Text": "CBS #GOPDebate",
+            "BeginOffset": 44,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9703444242477417,
+            "Type": "DATE",
+            "Text": "9 pm ET",
+            "BeginOffset": 62,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9579121470451355,
+            "Type": "OTHER",
+            "Text": "https://t.co/HjeURsL7la",
+            "BeginOffset": 71,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.5043426156044006,
+            "Type": "PERSON",
+            "Text": "#CruzCrew",
+            "BeginOffset": 95,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.9999712705612183,
+            "Type": "OTHER",
+            "Text": "https://t.co/0PRwp6WRIX",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        }
+    ]
+}

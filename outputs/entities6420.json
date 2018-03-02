@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.930391252040863,
+            "Type": "PERSON",
+            "Text": "@SykesCharlie",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9985697269439697,
+            "Type": "PERSON",
+            "Text": "Sean Hannity",
+            "BeginOffset": 37,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9976236820220947,
+            "Type": "PERSON",
+            "Text": "Megyn Kelly",
+            "BeginOffset": 66,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9514061808586121,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 117,
+            "EndOffset": 122
+        },
+        {
+            "Score": 0.9881396293640137,
+            "Type": "OTHER",
+            "Text": "https://t.co/Gl9",
+            "BeginOffset": 123,
+            "EndOffset": 139
+        }
+    ]
+}

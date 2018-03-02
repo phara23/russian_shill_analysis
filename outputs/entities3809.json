@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.883771538734436,
+            "Type": "PERSON",
+            "Text": "@sweet_melissa06",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9714265465736389,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 77,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.9999659061431885,
+            "Type": "OTHER",
+            "Text": "https://t.co/OAOEX24ER0",
+            "BeginOffset": 94,
+            "EndOffset": 117
+        }
+    ]
+}

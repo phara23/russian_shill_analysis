@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7545596361160278,
+            "Type": "PERSON",
+            "Text": "@NatGeoChannel",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9003363847732544,
+            "Type": "PERSON",
+            "Text": "@TerryCrews",
+            "BeginOffset": 20,
+            "EndOffset": 31
+        }
+    ]
+}

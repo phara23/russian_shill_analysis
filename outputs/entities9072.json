@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6827770471572876,
+            "Type": "PERSON",
+            "Text": "@FeeBooths",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8545072674751282,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 23,
+            "EndOffset": 26
+        }
+    ]
+}

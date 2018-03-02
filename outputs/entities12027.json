@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9494771957397461,
+            "Type": "PERSON",
+            "Text": "@joemo23",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.727823793888092,
+            "Type": "ORGANIZATION",
+            "Text": "Clinton Foundation",
+            "BeginOffset": 13,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9972297549247742,
+            "Type": "OTHER",
+            "Text": "https://t.co/pfaNkcIvT1",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        }
+    ]
+}

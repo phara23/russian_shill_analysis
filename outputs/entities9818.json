@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8961994051933289,
+            "Type": "PERSON",
+            "Text": "@Dbargen",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9885022640228271,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 13,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.738452136516571,
+            "Type": "QUANTITY",
+            "Text": "4,200",
+            "BeginOffset": 26,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.7707704305648804,
+            "Type": "PERSON",
+            "Text": "@AndrewCFollett",
+            "BeginOffset": 68,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.9397953748703003,
+            "Type": "OTHER",
+            "Text": "https://t.co/EbANWUru",
+            "BeginOffset": 118,
+            "EndOffset": 139
+        }
+    ]
+}

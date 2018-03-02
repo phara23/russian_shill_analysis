@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.958726704120636,
+            "Type": "PERSON",
+            "Text": "@KellyannePolls",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9974668025970459,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 23,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.7114995121955872,
+            "Type": "LOCATION",
+            "Text": "DC",
+            "BeginOffset": 59,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9989904761314392,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 63,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.559303879737854,
+            "Type": "QUANTITY",
+            "Text": "millions",
+            "BeginOffset": 80,
+            "EndOffset": 88
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9991942048072815,
+            "Type": "PERSON",
+            "Text": "Sidney Blumenthal",
+            "BeginOffset": 0,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.998608410358429,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 19,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.3440566658973694,
+            "Type": "LOCATION",
+            "Text": "Libya",
+            "BeginOffset": 68,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.7151762843132019,
+            "Type": "DATE",
+            "Text": "#2016",
+            "BeginOffset": 74,
+            "EndOffset": 79
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9013991355895996,
+            "Type": "PERSON",
+            "Text": "@StefanMolyneux",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9279131293296814,
+            "Type": "ORGANIZATION",
+            "Text": "Washington Post",
+            "BeginOffset": 20,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9695318937301636,
+            "Type": "QUANTITY",
+            "Text": "10 weapons",
+            "BeginOffset": 50,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.6468846797943115,
+            "Type": "ORGANIZATION",
+            "Text": "ICE",
+            "BeginOffset": 88,
+            "EndOffset": 91
+        }
+    ]
+}

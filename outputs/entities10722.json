@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8944883942604065,
+            "Type": "PERSON",
+            "Text": "@Dbargen",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9149648547172546,
+            "Type": "PERSON",
+            "Text": "@Dbargen",
+            "BeginOffset": 16,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9978659152984619,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 32,
+            "EndOffset": 44
+        }
+    ]
+}

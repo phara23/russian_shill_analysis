@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8991337418556213,
+            "Type": "PERSON",
+            "Text": "@nine_oh",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8556793928146362,
+            "Type": "TITLE",
+            "Text": "Is It All Good",
+            "BeginOffset": 22,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9041604995727539,
+            "Type": "PERSON",
+            "Text": "@7evenft",
+            "BeginOffset": 40,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9999369382858276,
+            "Type": "OTHER",
+            "Text": "https://t.co/iChLzW8ECo",
+            "BeginOffset": 59,
+            "EndOffset": 82
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9152532815933228,
+            "Type": "PERSON",
+            "Text": "@TimKcomic",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9948819875717163,
+            "Type": "PERSON",
+            "Text": "Abraham Lincoln",
+            "BeginOffset": 40,
+            "EndOffset": 55
+        }
+    ]
+}

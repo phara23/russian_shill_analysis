@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8755349516868591,
+            "Type": "PERSON",
+            "Text": "@iAMaladden",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7438738942146301,
+            "Type": "QUANTITY",
+            "Text": "100",
+            "BeginOffset": 43,
+            "EndOffset": 46
+        }
+    ]
+}

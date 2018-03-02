@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8680707812309265,
+            "Type": "PERSON",
+            "Text": "@CasanovasTool",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9020028710365295,
+            "Type": "PERSON",
+            "Text": "Lucy",
+            "BeginOffset": 19,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.997523844242096,
+            "Type": "PERSON",
+            "Text": "Bob",
+            "BeginOffset": 67,
+            "EndOffset": 70
+        }
+    ]
+}

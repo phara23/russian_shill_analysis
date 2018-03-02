@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7442518472671509,
+            "Type": "PERSON",
+            "Text": "@TheFoundingSon",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9397092461585999,
+            "Type": "QUANTITY",
+            "Text": "2 police officers",
+            "BeginOffset": 20,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9991517066955566,
+            "Type": "LOCATION",
+            "Text": "San Diego",
+            "BeginOffset": 46,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.571447491645813,
+            "Type": "ORGANIZATION",
+            "Text": "#BlackLivesMatter",
+            "BeginOffset": 64,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.9037477970123291,
+            "Type": "OTHER",
+            "Text": "https://t.c",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

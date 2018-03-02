@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9375590085983276,
+            "Type": "PERSON",
+            "Text": "@JewsChooseTrump",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9518594741821289,
+            "Type": "PERSON",
+            "Text": "Kaine",
+            "BeginOffset": 61,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9059818983078003,
+            "Type": "ORGANIZATION",
+            "Text": "Muslim",
+            "BeginOffset": 96,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.6521609425544739,
+            "Type": "ORGANIZATION",
+            "Text": "Muslim Brot",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

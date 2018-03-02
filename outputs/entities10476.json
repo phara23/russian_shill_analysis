@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.915554940700531,
+            "Type": "PERSON",
+            "Text": "@alexispauline",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6374008059501648,
+            "Type": "QUANTITY",
+            "Text": "one",
+            "BeginOffset": 33,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.7996980547904968,
+            "Type": "QUANTITY",
+            "Text": "four alums",
+            "BeginOffset": 40,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.8815398216247559,
+            "Type": "ORGANIZATION",
+            "Text": "Barnard Library",
+            "BeginOffset": 84,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.8512565493583679,
+            "Type": "OTHER",
+            "Text": "https://t.co/t5v98wrBJr",
+            "BeginOffset": 111,
+            "EndOffset": 134
+        }
+    ]
+}

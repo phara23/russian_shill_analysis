@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4718010127544403,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8255493640899658,
+            "Type": "ORGANIZATION",
+            "Text": "@Church_Militant",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.6775687336921692,
+            "Type": "ORGANIZATION",
+            "Text": "Catholics",
+            "BeginOffset": 21,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.8901914954185486,
+            "Type": "PERSON",
+            "Text": "Sen. Kaine",
+            "BeginOffset": 48,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.994367778301239,
+            "Type": "OTHER",
+            "Text": "https://t.co/30C64S4HqM",
+            "BeginOffset": 84,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.8910375833511353,
+            "Type": "ORGANIZATION",
+            "Text": "@Church_Militant",
+            "BeginOffset": 112,
+            "EndOffset": 128
+        },
+        {
+            "Score": 0.5120477676391602,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 129,
+            "EndOffset": 138
+        }
+    ]
+}

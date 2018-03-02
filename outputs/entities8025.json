@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5463057160377502,
+            "Type": "PERSON",
+            "Text": "Horton",
+            "BeginOffset": 0,
+            "EndOffset": 6
+        },
+        {
+            "Score": 0.7272102236747742,
+            "Type": "PERSON",
+            "Text": "@midnight",
+            "BeginOffset": 41,
+            "EndOffset": 50
+        }
+    ]
+}

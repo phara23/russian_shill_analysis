@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9153133630752563,
+            "Type": "PERSON",
+            "Text": "@Billradman",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.6160555481910706,
+            "Type": "PERSON",
+            "Text": "#Obama",
+            "BeginOffset": 39,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.34513059258461,
+            "Type": "ORGANIZATION",
+            "Text": "#Russia",
+            "BeginOffset": 56,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.3543942868709564,
+            "Type": "ORGANIZATION",
+            "Text": "#Netanyahu",
+            "BeginOffset": 112,
+            "EndOffset": 122
+        },
+        {
+            "Score": 0.9835094809532166,
+            "Type": "OTHER",
+            "Text": "https://t.co/jt",
+            "BeginOffset": 124,
+            "EndOffset": 139
+        }
+    ]
+}

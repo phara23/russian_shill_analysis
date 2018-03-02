@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8347122073173523,
+            "Type": "PERSON",
+            "Text": "@RHEverywhere",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9301275014877319,
+            "Type": "ORGANIZATION",
+            "Text": "#Snapchat",
+            "BeginOffset": 35,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9999725818634033,
+            "Type": "OTHER",
+            "Text": "https://t.co/4tvPGrejxZ",
+            "BeginOffset": 71,
+            "EndOffset": 94
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8000181317329407,
+            "Type": "PERSON",
+            "Text": "@BOSSOnCampus",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9735662937164307,
+            "Type": "QUANTITY",
+            "Text": "5 Steps",
+            "BeginOffset": 18,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.859844446182251,
+            "Type": "OTHER",
+            "Text": "https://t.co/UEfih4YVCY",
+            "BeginOffset": 78,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.9999576807022095,
+            "Type": "OTHER",
+            "Text": "https://t.co/hBXwJItej0",
+            "BeginOffset": 106,
+            "EndOffset": 129
+        }
+    ]
+}

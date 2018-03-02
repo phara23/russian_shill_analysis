@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7684581279754639,
+            "Type": "PERSON",
+            "Text": "@_BSmoov",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8864843249320984,
+            "Type": "PERSON",
+            "Text": "@OhEmmeG",
+            "BeginOffset": 17,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9999175071716309,
+            "Type": "OTHER",
+            "Text": "https://t.co/PDZbIrQsgQ",
+            "BeginOffset": 101,
+            "EndOffset": 124
+        }
+    ]
+}

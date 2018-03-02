@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7651011347770691,
+            "Type": "PERSON",
+            "Text": "@LibertySeeds",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9932768940925598,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 65,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.8582299947738647,
+            "Type": "PERSON",
+            "Text": "@RepDianeBlack",
+            "BeginOffset": 125,
+            "EndOffset": 139
+        }
+    ]
+}

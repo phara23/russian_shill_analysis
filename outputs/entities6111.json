@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9088500738143921,
+            "Type": "PERSON",
+            "Text": "@BustaRhymes",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9215924739837646,
+            "Type": "PERSON",
+            "Text": "@noreaga",
+            "BeginOffset": 43,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9999457597732544,
+            "Type": "OTHER",
+            "Text": "https://t.co/9orpK4EMBU",
+            "BeginOffset": 109,
+            "EndOffset": 132
+        }
+    ]
+}

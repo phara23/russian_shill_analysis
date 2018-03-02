@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8617214560508728,
+            "Type": "PERSON",
+            "Text": "@WBHChannel",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.6679027676582336,
+            "Type": "PERSON",
+            "Text": "@TheRalphRetort",
+            "BeginOffset": 17,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9224105477333069,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 60,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.9715412855148315,
+            "Type": "LOCATION",
+            "Text": "Sweden",
+            "BeginOffset": 80,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.8479315638542175,
+            "Type": "LOCATION",
+            "Text": "#Sweden",
+            "BeginOffset": 121,
+            "EndOffset": 128
+        }
+    ]
+}

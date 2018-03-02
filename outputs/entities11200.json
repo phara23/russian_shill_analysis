@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8707414865493774,
+            "Type": "PERSON",
+            "Text": "@SPIEGELONLINE",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.63106769323349,
+            "Type": "PERSON",
+            "Text": "Juli",
+            "BeginOffset": 36,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.8462238907814026,
+            "Type": "TITLE",
+            "Text": "#Windows10",
+            "BeginOffset": 66,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.999817430973053,
+            "Type": "OTHER",
+            "Text": "https://t.co/qNk9giwjzP",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

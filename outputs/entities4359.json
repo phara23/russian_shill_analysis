@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.856211245059967,
+            "Type": "PERSON",
+            "Text": "@AndreaIsGreen",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8639704585075378,
+            "Type": "PERSON",
+            "Text": "@CrestonQ",
+            "BeginOffset": 19,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9934611320495605,
+            "Type": "PERSON",
+            "Text": "@babushka_tasi",
+            "BeginOffset": 29,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9869727492332458,
+            "Type": "PERSON",
+            "Text": "@UvKLvr47",
+            "BeginOffset": 44,
+            "EndOffset": 53
+        }
+    ]
+}

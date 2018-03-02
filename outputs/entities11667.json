@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9243872761726379,
+            "Type": "PERSON",
+            "Text": "@bayareahausfrau",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8118771314620972,
+            "Type": "QUANTITY",
+            "Text": "first picture",
+            "BeginOffset": 25,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.717376172542572,
+            "Type": "ORGANIZATION",
+            "Text": "@POTUS",
+            "BeginOffset": 42,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9999182224273682,
+            "Type": "OTHER",
+            "Text": "https://t.co/RV3tk0RMaH",
+            "BeginOffset": 76,
+            "EndOffset": 99
+        }
+    ]
+}

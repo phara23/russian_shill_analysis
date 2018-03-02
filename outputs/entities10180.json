@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8010193109512329,
+            "Type": "PERSON",
+            "Text": "@CallawayBOT",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8194616436958313,
+            "Type": "PERSON",
+            "Text": "@justgrateful",
+            "BeginOffset": 28,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.7356996536254883,
+            "Type": "ORGANIZATION",
+            "Text": "@DNC",
+            "BeginOffset": 55,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.46516165137290955,
+            "Type": "ORGANIZATION",
+            "Text": "#DNC",
+            "BeginOffset": 60,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.7788810729980469,
+            "Type": "PERSON",
+            "Text": "@DonnaBrazile",
+            "BeginOffset": 65,
+            "EndOffset": 78
+        }
+    ]
+}

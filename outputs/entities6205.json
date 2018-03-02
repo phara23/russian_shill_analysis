@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8940249085426331,
+            "Type": "PERSON",
+            "Text": "@WillSeattle",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9802650213241577,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 30,
+            "EndOffset": 35
+        }
+    ]
+}

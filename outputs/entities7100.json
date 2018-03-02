@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.998492956161499,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 0,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.7423475384712219,
+            "Type": "PERSON",
+            "Text": "Tough Guy",
+            "BeginOffset": 28,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9934154748916626,
+            "Type": "PERSON",
+            "Text": "Joe Biden",
+            "BeginOffset": 39,
+            "EndOffset": 48
+        }
+    ]
+}

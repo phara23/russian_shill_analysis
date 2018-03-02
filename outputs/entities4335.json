@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9673522710800171,
+            "Type": "QUANTITY",
+            "Text": "two",
+            "BeginOffset": 6,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.968360185623169,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 39,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9905439615249634,
+            "Type": "ORGANIZATION",
+            "Text": "ISIS",
+            "BeginOffset": 63,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9974562525749207,
+            "Type": "ORGANIZATION",
+            "Text": "ISIS",
+            "BeginOffset": 91,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.999975323677063,
+            "Type": "OTHER",
+            "Text": "https://t.co/oJFCVHP7zu",
+            "BeginOffset": 114,
+            "EndOffset": 137
+        }
+    ]
+}

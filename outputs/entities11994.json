@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9557376503944397,
+            "Type": "PERSON",
+            "Text": "@JordanSekulow",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9007442593574524,
+            "Type": "ORGANIZATION",
+            "Text": "Republicans",
+            "BeginOffset": 64,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.9999778270721436,
+            "Type": "OTHER",
+            "Text": "https://t.co/41xtKVt2Sy",
+            "BeginOffset": 76,
+            "EndOffset": 99
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9410879611968994,
+            "Type": "PERSON",
+            "Text": "@Don_Vito_08",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.6364766955375671,
+            "Type": "PERSON",
+            "Text": "@POTUS",
+            "BeginOffset": 18,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.986506462097168,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 25,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.44462376832962036,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 65,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.6793769598007202,
+            "Type": "ORGANIZATION",
+            "Text": "TPP",
+            "BeginOffset": 73,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.4547666907310486,
+            "Type": "ORGANIZATION",
+            "Text": "#AmericaFirst",
+            "BeginOffset": 88,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.5913382768630981,
+            "Type": "ORGANIZATION",
+            "Text": "#TPP",
+            "BeginOffset": 102,
+            "EndOffset": 106
+        }
+    ]
+}

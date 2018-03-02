@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9630022644996643,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.3219597637653351,
+            "Type": "PERSON",
+            "Text": "#Trump",
+            "BeginOffset": 98,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.9876448512077332,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 104,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.9134806394577026,
+            "Type": "OTHER",
+            "Text": "https://t.co/8icSqEombg",
+            "BeginOffset": 109,
+            "EndOffset": 132
+        }
+    ]
+}

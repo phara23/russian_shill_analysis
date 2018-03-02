@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9261170029640198,
+            "Type": "PERSON",
+            "Text": "@randyshort",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.6008409261703491,
+            "Type": "OTHER",
+            "Text": "Americans",
+            "BeginOffset": 35,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9909471273422241,
+            "Type": "OTHER",
+            "Text": "https://t.co/ovCW9iHZXK",
+            "BeginOffset": 83,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.7324188947677612,
+            "Type": "ORGANIZATION",
+            "Text": "@realalexjones",
+            "BeginOffset": 111,
+            "EndOffset": 125
+        }
+    ]
+}

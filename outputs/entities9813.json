@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8708698153495789,
+            "Type": "PERSON",
+            "Text": "@PrisonPlanetTV",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.6738556027412415,
+            "Type": "QUANTITY",
+            "Text": "Part 3",
+            "BeginOffset": 20,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9945141673088074,
+            "Type": "QUANTITY",
+            "Text": "14hrs",
+            "BeginOffset": 33,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.8672651648521423,
+            "Type": "PERSON",
+            "Text": "President Trump",
+            "BeginOffset": 51,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9931786060333252,
+            "Type": "OTHER",
+            "Text": "https://t.co/K8Op9bucQp",
+            "BeginOffset": 111,
+            "EndOffset": 134
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8523449897766113,
+            "Type": "PERSON",
+            "Text": "@American1765",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.6707702279090881,
+            "Type": "ORGANIZATION",
+            "Text": "@Support",
+            "BeginOffset": 36,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9475575685501099,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 52,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.959879994392395,
+            "Type": "ORGANIZATION",
+            "Text": "Twitter",
+            "BeginOffset": 98,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.9998611211776733,
+            "Type": "OTHER",
+            "Text": "https://t.co/gQ1RdFpsPu",
+            "BeginOffset": 111,
+            "EndOffset": 134
+        }
+    ]
+}

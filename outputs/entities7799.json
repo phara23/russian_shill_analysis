@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9229990839958191,
+            "Type": "ORGANIZATION",
+            "Text": "Catholic",
+            "BeginOffset": 0,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.9591744542121887,
+            "Type": "LOCATION",
+            "Text": "Kansas",
+            "BeginOffset": 19,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.7688547968864441,
+            "Type": "PERSON",
+            "Text": "Kaine",
+            "BeginOffset": 37,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.8211959004402161,
+            "Type": "OTHER",
+            "Text": "https://t.co/Zeumiosyyu",
+            "BeginOffset": 43,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.36400291323661804,
+            "Type": "ORGANIZATION",
+            "Text": "#news",
+            "BeginOffset": 67,
+            "EndOffset": 72
+        }
+    ]
+}

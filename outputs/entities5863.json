@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7148058414459229,
+            "Type": "PERSON",
+            "Text": "@CCityCatholic",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9979123473167419,
+            "Type": "ORGANIZATION",
+            "Text": "ISIS",
+            "BeginOffset": 19,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9904147386550903,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 39,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9930778741836548,
+            "Type": "ORGANIZATION",
+            "Text": "ISIS",
+            "BeginOffset": 60,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9950599074363708,
+            "Type": "LOCATION",
+            "Text": "Europe",
+            "BeginOffset": 90,
+            "EndOffset": 96
+        }
+    ]
+}

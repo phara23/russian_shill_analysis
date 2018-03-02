@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.977935791015625,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 0,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.6968294978141785,
+            "Type": "PERSON",
+            "Text": "Clintons",
+            "BeginOffset": 33,
+            "EndOffset": 41
+        }
+    ]
+}

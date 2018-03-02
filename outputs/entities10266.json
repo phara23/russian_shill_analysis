@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8403180241584778,
+            "Type": "PERSON",
+            "Text": "@wmathison",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.4497433006763458,
+            "Type": "ORGANIZATION",
+            "Text": "Virginia HS",
+            "BeginOffset": 32,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9702807664871216,
+            "Type": "OTHER",
+            "Text": "https://t.co/uRWCw9h0eo",
+            "BeginOffset": 94,
+            "EndOffset": 117
+        }
+    ]
+}

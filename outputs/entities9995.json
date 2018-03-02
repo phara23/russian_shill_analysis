@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8187234997749329,
+            "Type": "PERSON",
+            "Text": "@triqu3tra",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9615560173988342,
+            "Type": "LOCATION",
+            "Text": "Iceland",
+            "BeginOffset": 130,
+            "EndOffset": 137
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8977124094963074,
+            "Type": "PERSON",
+            "Text": "@tagesschau",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9233896136283875,
+            "Type": "PERSON",
+            "Text": "Tod von Liu",
+            "BeginOffset": 16,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9581053256988525,
+            "Type": "PERSON",
+            "Text": "Kein Atemzug",
+            "BeginOffset": 36,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.6326757073402405,
+            "Type": "OTHER",
+            "Text": "https://t.co/cBvk6DvvmM",
+            "BeginOffset": 75,
+            "EndOffset": 98
+        }
+    ]
+}

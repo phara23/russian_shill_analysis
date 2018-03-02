@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4947614371776581,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.7157008647918701,
+            "Type": "PERSON",
+            "Text": "@MillCityNews",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8616744875907898,
+            "Type": "LOCATION",
+            "Text": "Minnesota",
+            "BeginOffset": 76,
+            "EndOffset": 85
+        }
+    ]
+}

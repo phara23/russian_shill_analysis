@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8373637795448303,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.653232991695404,
+            "Type": "PERSON",
+            "Text": "T.I.",
+            "BeginOffset": 13,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9374551177024841,
+            "Type": "OTHER",
+            "Text": "https://t.co/V6p9DKdjOa",
+            "BeginOffset": 102,
+            "EndOffset": 125
+        },
+        {
+            "Score": 0.8831886053085327,
+            "Type": "PERSON",
+            "Text": "@ATLBlackStar",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

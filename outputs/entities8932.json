@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4961714446544647,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.7738746404647827,
+            "Type": "PERSON",
+            "Text": "@Adnkronos",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.827130913734436,
+            "Type": "PERSON",
+            "Text": "@caterinabalivo",
+            "BeginOffset": 16,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9101569652557373,
+            "Type": "OTHER",
+            "Text": "https://t.co/hbejDx1mzC",
+            "BeginOffset": 72,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.9999271631240845,
+            "Type": "OTHER",
+            "Text": "https://t.co/BfEpBwZBjz",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        }
+    ]
+}

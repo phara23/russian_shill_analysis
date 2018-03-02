@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8672012090682983,
+            "Type": "PERSON",
+            "Text": "@realkingrobbo",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9528340697288513,
+            "Type": "QUANTITY",
+            "Text": "5.7 Percent",
+            "BeginOffset": 24,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.6092079877853394,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 39,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9503909945487976,
+            "Type": "OTHER",
+            "Text": "https://t.co/gMub0qRtZt",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        }
+    ]
+}

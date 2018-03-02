@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7946284413337708,
+            "Type": "PERSON",
+            "Text": "@ToConservatives",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9913729429244995,
+            "Type": "PERSON",
+            "Text": "Bernie",
+            "BeginOffset": 85,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.9908062815666199,
+            "Type": "PERSON",
+            "Text": "@davidsirias1",
+            "BeginOffset": 93,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.9725990295410156,
+            "Type": "PERSON",
+            "Text": "@CarmanK1",
+            "BeginOffset": 107,
+            "EndOffset": 116
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8398268818855286,
+            "Type": "PERSON",
+            "Text": "@Brownfractals",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.675230085849762,
+            "Type": "PERSON",
+            "Text": "#Obama",
+            "BeginOffset": 57,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.8871546387672424,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 85,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.6581520438194275,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 130,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8801050186157227,
+            "Type": "PERSON",
+            "Text": "@JeanetteJing",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9392499327659607,
+            "Type": "PERSON",
+            "Text": "@scott_satzer",
+            "BeginOffset": 18,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9682100415229797,
+            "Type": "PERSON",
+            "Text": "@iDanSimpson",
+            "BeginOffset": 32,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9998536109924316,
+            "Type": "OTHER",
+            "Text": "https://t.co/K06eDt3ocO",
+            "BeginOffset": 101,
+            "EndOffset": 124
+        }
+    ]
+}

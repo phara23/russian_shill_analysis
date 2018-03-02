@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8248133659362793,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.7699329853057861,
+            "Type": "PERSON",
+            "Text": "@TheSource",
+            "BeginOffset": 14,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9158397912979126,
+            "Type": "PERSON",
+            "Text": "Chi-Town",
+            "BeginOffset": 26,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.7395607233047485,
+            "Type": "PERSON",
+            "Text": "Tauzha",
+            "BeginOffset": 37,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9733204245567322,
+            "Type": "TITLE",
+            "Text": "Blew A Bag",
+            "BeginOffset": 77,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.9392309188842773,
+            "Type": "PERSON",
+            "Text": "Lil Durk",
+            "BeginOffset": 91,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.9999239444732666,
+            "Type": "OTHER",
+            "Text": "https://t.co/Sv492ddK7r",
+            "BeginOffset": 100,
+            "EndOffset": 123
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7684975266456604,
+            "Type": "PERSON",
+            "Text": "@petefrt",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9538877606391907,
+            "Type": "PERSON",
+            "Text": "Goodwin",
+            "BeginOffset": 13,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.998374342918396,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 22,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9683197140693665,
+            "Type": "OTHER",
+            "Text": "https://t.co/uxP2oDF5SF",
+            "BeginOffset": 78,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.428496390581131,
+            "Type": "ORGANIZATION",
+            "Text": "#tcot",
+            "BeginOffset": 102,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.6758280396461487,
+            "Type": "PERSON",
+            "Text": "#p2",
+            "BeginOffset": 115,
+            "EndOffset": 118
+        },
+        {
+            "Score": 0.9883325695991516,
+            "Type": "OTHER",
+            "Text": "https://t.co/2ILktIu",
+            "BeginOffset": 119,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9944036602973938,
+            "Text": "Donald Trump",
+            "BeginOffset": 0,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9961316585540771,
+            "Text": "Hillary",
+            "BeginOffset": 16,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.77997887134552,
+            "Text": "The job",
+            "BeginOffset": 26,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9990553855895996,
+            "Text": "an elected official",
+            "BeginOffset": 37,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9994751214981079,
+            "Text": "the citizens",
+            "BeginOffset": 69,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.8630838394165039,
+            "Text": "the U.S.” \n#HillarysEmails",
+            "BeginOffset": 85,
+            "EndOffset": 111
+        }
+    ]
+}

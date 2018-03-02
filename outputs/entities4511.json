@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8770323395729065,
+            "Type": "PERSON",
+            "Text": "@LindaSchoenberg",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8233546018600464,
+            "Type": "PERSON",
+            "Text": "@baratunde",
+            "BeginOffset": 21,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9990878105163574,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 52,
+            "EndOffset": 67
+        }
+    ]
+}

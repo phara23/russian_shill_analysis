@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9600755572319031,
+            "Type": "PERSON",
+            "Text": "@AjalaTanya",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9989062547683716,
+            "Type": "PERSON",
+            "Text": "Malia Obama",
+            "BeginOffset": 16,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9907111525535583,
+            "Type": "OTHER",
+            "Text": "https://t.co/3gLRzm2Pqe",
+            "BeginOffset": 64,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.863030195236206,
+            "Type": "ORGANIZATION",
+            "Text": "@smh",
+            "BeginOffset": 92,
+            "EndOffset": 96
+        }
+    ]
+}

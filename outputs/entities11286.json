@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.801064133644104,
+            "Type": "PERSON",
+            "Text": "@BoogsMalone",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.957214891910553,
+            "Type": "ORGANIZATION",
+            "Text": "youtube",
+            "BeginOffset": 60,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.999984622001648,
+            "Type": "OTHER",
+            "Text": "https://t.co/7v8TVPGLRw",
+            "BeginOffset": 68,
+            "EndOffset": 91
+        }
+    ]
+}

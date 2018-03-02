@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8248277902603149,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8175278902053833,
+            "Type": "PERSON",
+            "Text": "@BlackPressUSA",
+            "BeginOffset": 14,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.8680664896965027,
+            "Type": "PERSON",
+            "Text": "Former Attorney General Eric Holder",
+            "BeginOffset": 42,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.999868631362915,
+            "Type": "OTHER",
+            "Text": "https://t.co/1sFalr0w2G",
+            "BeginOffset": 102,
+            "EndOffset": 125
+        }
+    ]
+}

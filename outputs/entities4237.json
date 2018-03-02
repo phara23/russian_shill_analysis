@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.47763216495513916,
+            "Type": "QUANTITY",
+            "Text": "One",
+            "BeginOffset": 0,
+            "EndOffset": 3
+        },
+        {
+            "Score": 0.9307690262794495,
+            "Type": "PERSON",
+            "Text": "Levi Strauss",
+            "BeginOffset": 97,
+            "EndOffset": 109
+        }
+    ]
+}

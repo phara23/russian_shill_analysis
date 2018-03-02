@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8237056732177734,
+            "Type": "PERSON",
+            "Text": "@The_Last_NewsPa",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9709259271621704,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 31,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.889046847820282,
+            "Type": "OTHER",
+            "Text": "https://t.co/l55gxKaThs",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.9997207522392273,
+            "Type": "OTHER",
+            "Text": "https://t.co/2vBhOPpeaF",
+            "BeginOffset": 114,
+            "EndOffset": 137
+        }
+    ]
+}

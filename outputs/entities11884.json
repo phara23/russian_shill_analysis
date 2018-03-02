@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7818148136138916,
+            "Type": "PERSON",
+            "Text": "@YourAnonNews",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9962688684463501,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 35,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9976508021354675,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 59,
+            "EndOffset": 66
+        }
+    ]
+}

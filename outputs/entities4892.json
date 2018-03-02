@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6806096434593201,
+            "Type": "PERSON",
+            "Text": "@LiberatedCit",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8293449878692627,
+            "Type": "PERSON",
+            "Text": "@Dbargen",
+            "BeginOffset": 18,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9977351427078247,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 71,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.8792712688446045,
+            "Type": "QUANTITY",
+            "Text": "at least 80%",
+            "BeginOffset": 81,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.7353202700614929,
+            "Type": "OTHER",
+            "Text": "https://t.co/mTGpKkTxMw",
+            "BeginOffset": 108,
+            "EndOffset": 131
+        }
+    ]
+}

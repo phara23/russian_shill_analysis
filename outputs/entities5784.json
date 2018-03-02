@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9994906187057495,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 0,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9619590044021606,
+            "Type": "ORGANIZATION",
+            "Text": "Fox News",
+            "BeginOffset": 66,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.7328786253929138,
+            "Type": "LOCATION",
+            "Text": "Cleveland Heights",
+            "BeginOffset": 85,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.9150407910346985,
+            "Type": "OTHER",
+            "Text": "https://t.co/pzohj9P2En",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9373327493667603,
+            "Type": "PERSON",
+            "Text": "Santa",
+            "BeginOffset": 28,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9998956918716431,
+            "Type": "OTHER",
+            "Text": "https://t.co/dBcdQR4Fls",
+            "BeginOffset": 94,
+            "EndOffset": 117
+        }
+    ]
+}

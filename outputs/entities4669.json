@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9085663557052612,
+            "Type": "PERSON",
+            "Text": "@CaptainSiya",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7425872683525085,
+            "Type": "PERSON",
+            "Text": "@9thwonder",
+            "BeginOffset": 50,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9999085664749146,
+            "Type": "OTHER",
+            "Text": "https://t.co/jpPHHFrKMx",
+            "BeginOffset": 74,
+            "EndOffset": 97
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8668012619018555,
+            "Type": "PERSON",
+            "Text": "@ferraripabloUY",
+            "BeginOffset": 0,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9491623640060425,
+            "Type": "ORGANIZATION",
+            "Text": "WADA",
+            "BeginOffset": 53,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9999263286590576,
+            "Type": "OTHER",
+            "Text": "https://t.co/sBGo3VvRGs",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

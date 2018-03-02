@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9443511962890625,
+            "Type": "PERSON",
+            "Text": "@MzLadyEbony",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7937518358230591,
+            "Type": "PERSON",
+            "Text": "@CesarEnforced",
+            "BeginOffset": 38,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9999639987945557,
+            "Type": "OTHER",
+            "Text": "https://t.co/WhdtXMHxe1",
+            "BeginOffset": 53,
+            "EndOffset": 76
+        }
+    ]
+}

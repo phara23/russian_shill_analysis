@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8248214721679688,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8090725541114807,
+            "Type": "PERSON",
+            "Text": "@SwaysUniverse",
+            "BeginOffset": 14,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9919580817222595,
+            "Type": "PERSON",
+            "Text": "Nick Grant",
+            "BeginOffset": 30,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.49421536922454834,
+            "Type": "PERSON",
+            "Text": "Sway",
+            "BeginOffset": 79,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.9999197721481323,
+            "Type": "OTHER",
+            "Text": "https://t.co/x3zdHeOgrf",
+            "BeginOffset": 99,
+            "EndOffset": 122
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.921856164932251,
+            "Type": "PERSON",
+            "Text": "@jaketapper",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8992560505867004,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 20,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9093523621559143,
+            "Type": "OTHER",
+            "Text": "https://t.co/CmcLLryV7c",
+            "BeginOffset": 64,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.999992847442627,
+            "Type": "OTHER",
+            "Text": "https://t.co/ZXxM5m9Lt6",
+            "BeginOffset": 88,
+            "EndOffset": 111
+        }
+    ]
+}

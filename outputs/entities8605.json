@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9171956777572632,
+            "Type": "PERSON",
+            "Text": "@JVER1",
+            "BeginOffset": 0,
+            "EndOffset": 6
+        },
+        {
+            "Score": 0.9406319260597229,
+            "Type": "PERSON",
+            "Text": "Joyce",
+            "BeginOffset": 13,
+            "EndOffset": 18
+        }
+    ]
+}

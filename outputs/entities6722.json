@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9245497584342957,
+            "Type": "PERSON",
+            "Text": "@SarahEV64",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9951369166374207,
+            "Type": "DATE",
+            "Text": "yesterday",
+            "BeginOffset": 38,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9863976836204529,
+            "Type": "DATE",
+            "Text": "Today",
+            "BeginOffset": 49,
+            "EndOffset": 54
+        }
+    ]
+}

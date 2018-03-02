@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9191462993621826,
+            "Type": "PERSON",
+            "Text": "@DarkMoneyWatch",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7270728349685669,
+            "Type": "PERSON",
+            "Text": "@MapLight",
+            "BeginOffset": 24,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.8660188317298889,
+            "Type": "PERSON",
+            "Text": "@andrewperezdc",
+            "BeginOffset": 40,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9892392158508301,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 101,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.9898092746734619,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 108,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.6394848823547363,
+            "Type": "ORGANIZATION",
+            "Text": "PAC",
+            "BeginOffset": 122,
+            "EndOffset": 125
+        }
+    ]
+}

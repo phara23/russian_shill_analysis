@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.864886462688446,
+            "Type": "ORGANIZATION",
+            "Text": "@Hockey_Pro_Guru",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8401587605476379,
+            "Type": "QUANTITY",
+            "Text": "600 + requests",
+            "BeginOffset": 38,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.8811304569244385,
+            "Type": "LOCATION",
+            "Text": "#Benghazi",
+            "BeginOffset": 79,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9218794107437134,
+            "Type": "PERSON",
+            "Text": "Amb Stevens",
+            "BeginOffset": 96,
+            "EndOffset": 107
+        }
+    ]
+}

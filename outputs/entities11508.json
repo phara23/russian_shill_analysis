@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7374528646469116,
+            "Type": "PERSON",
+            "Text": "@cmef1",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9876876473426819,
+            "Type": "OTHER",
+            "Text": "https://t.co/pTbax1BPB3",
+            "BeginOffset": 11,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.8990441560745239,
+            "Type": "ORGANIZATION",
+            "Text": "@100percFEDUP",
+            "BeginOffset": 39,
+            "EndOffset": 52
+        }
+    ]
+}

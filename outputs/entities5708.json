@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8325243592262268,
+            "Type": "PERSON",
+            "Text": "@LisaBloom",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9987519383430481,
+            "Type": "PERSON",
+            "Text": "Walter Scott",
+            "BeginOffset": 36,
+            "EndOffset": 48
+        }
+    ]
+}

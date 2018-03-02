@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9465898275375366,
+            "Type": "PERSON",
+            "Text": "@ElianaBenador",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8532859086990356,
+            "Type": "PERSON",
+            "Text": "@hillaryclinton",
+            "BeginOffset": 91,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.5120388269424438,
+            "Type": "LOCATION",
+            "Text": "#America",
+            "BeginOffset": 125,
+            "EndOffset": 133
+        }
+    ]
+}

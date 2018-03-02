@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.835382342338562,
+            "Type": "PERSON",
+            "Text": "@KansasCityDNews",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.5389761924743652,
+            "Type": "QUANTITY",
+            "Text": "Hundreds",
+            "BeginOffset": 27,
+            "EndOffset": 35
+        }
+    ]
+}

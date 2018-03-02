@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9261866211891174,
+            "Type": "PERSON",
+            "Text": "@betseyross",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9808750152587891,
+            "Type": "PERSON",
+            "Text": "TRUMP",
+            "BeginOffset": 88,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.9035088419914246,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 100,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.47199419140815735,
+            "Type": "QUANTITY",
+            "Text": "4Trump",
+            "BeginOffset": 125,
+            "EndOffset": 131
+        }
+    ]
+}

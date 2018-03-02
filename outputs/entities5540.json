@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.862808346748352,
+            "Type": "PERSON",
+            "Text": "@alert5",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.5610493421554565,
+            "Type": "LOCATION",
+            "Text": "Russia",
+            "BeginOffset": 12,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.5593271851539612,
+            "Type": "LOCATION",
+            "Text": "Voronezh",
+            "BeginOffset": 32,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.8617308735847473,
+            "Type": "LOCATION",
+            "Text": "Murmansk",
+            "BeginOffset": 55,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.8662671446800232,
+            "Type": "OTHER",
+            "Text": "https://t.co/gW4BGzWmg9",
+            "BeginOffset": 66,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.999913215637207,
+            "Type": "OTHER",
+            "Text": "https://t.co/ShmfmHXNuf",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        }
+    ]
+}

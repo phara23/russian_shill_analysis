@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9579290151596069,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9632140398025513,
+            "Type": "LOCATION",
+            "Text": "Cuba",
+            "BeginOffset": 35,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9661446809768677,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 78,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.8966631889343262,
+            "Type": "LOCATION",
+            "Text": "Cuba",
+            "BeginOffset": 127,
+            "EndOffset": 131
+        }
+    ]
+}

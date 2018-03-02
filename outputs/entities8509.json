@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.931287944316864,
+            "Type": "PERSON",
+            "Text": "@MichaelDelauzon",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9951557517051697,
+            "Type": "PERSON",
+            "Text": "John McCain",
+            "BeginOffset": 21,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9970415830612183,
+            "Type": "PERSON",
+            "Text": "George Soros",
+            "BeginOffset": 70,
+            "EndOffset": 82
+        }
+    ]
+}

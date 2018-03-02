@@ -1,0 +1,34 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.5883764624595642,
+            "Text": "Cash",
+            "BeginOffset": 0,
+            "EndOffset": 4
+        },
+        {
+            "Score": 0.9822782874107361,
+            "Text": "those money orders",
+            "BeginOffset": 12,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9817368984222412,
+            "Text": "that Nigerian Prince",
+            "BeginOffset": 36,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9983803629875183,
+            "Text": "nice gifts",
+            "BeginOffset": 73,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.8994773626327515,
+            "Text": "all the girls and boys",
+            "BeginOffset": 88,
+            "EndOffset": 110
+        }
+    ]
+}

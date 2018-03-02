@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8546334505081177,
+            "Type": "PERSON",
+            "Text": "@OKKinderhookRG",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.479189395904541,
+            "Type": "PERSON",
+            "Text": "Lindenwald Brick",
+            "BeginOffset": 20,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.7099935412406921,
+            "Type": "OTHER",
+            "Text": "https://t.co/1Nf5QvSJYi",
+            "BeginOffset": 42,
+            "EndOffset": 65
+        }
+    ]
+}

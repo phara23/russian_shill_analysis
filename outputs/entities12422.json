@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6302917003631592,
+            "Type": "PERSON",
+            "Text": "@ussoccerfeed",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8245688676834106,
+            "Type": "PERSON",
+            "Text": "Mannnn Jamaica",
+            "BeginOffset": 18,
+            "EndOffset": 32
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8363866806030273,
+            "Type": "PERSON",
+            "Text": "@TrumpVolume",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8838944435119629,
+            "Type": "OTHER",
+            "Text": "https://t.co/Mj7KqKmpiE",
+            "BeginOffset": 67,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9999639987945557,
+            "Type": "OTHER",
+            "Text": "https://t.co/ksK2HvVgqw",
+            "BeginOffset": 91,
+            "EndOffset": 114
+        }
+    ]
+}

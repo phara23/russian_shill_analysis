@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9677372574806213,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 0,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9190811514854431,
+            "Type": "PERSON",
+            "Text": "@seanhannity",
+            "BeginOffset": 17,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.47874754667282104,
+            "Type": "PERSON",
+            "Text": "Hannity",
+            "BeginOffset": 30,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.8920363187789917,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 56,
+            "EndOffset": 63
+        }
+    ]
+}

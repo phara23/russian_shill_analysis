@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6925246119499207,
+            "Type": "PERSON",
+            "Text": "@TrueFactsStated",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8996432423591614,
+            "Type": "OTHER",
+            "Text": "Russian",
+            "BeginOffset": 47,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9968017339706421,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 80,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.9692029356956482,
+            "Type": "QUANTITY",
+            "Text": "15 years",
+            "BeginOffset": 99,
+            "EndOffset": 107
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.784188449382782,
+            "Type": "PERSON",
+            "Text": "@tgradous",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.7886859774589539,
+            "Type": "QUANTITY",
+            "Text": "1ST",
+            "BeginOffset": 14,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9774768948554993,
+            "Type": "OTHER",
+            "Text": "https://t.co/uke2edV0Se",
+            "BeginOffset": 94,
+            "EndOffset": 117
+        },
+        {
+            "Score": 0.9851391911506653,
+            "Type": "OTHER",
+            "Text": "https://t.co/O3x",
+            "BeginOffset": 123,
+            "EndOffset": 139
+        }
+    ]
+}

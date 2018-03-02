@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8832650184631348,
+            "Type": "PERSON",
+            "Text": "@mg1928",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9061728119850159,
+            "Type": "PERSON",
+            "Text": "@newtgingrich",
+            "BeginOffset": 12,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9998681545257568,
+            "Type": "OTHER",
+            "Text": "https://t.co/WTJSLJputP",
+            "BeginOffset": 41,
+            "EndOffset": 64
+        }
+    ]
+}

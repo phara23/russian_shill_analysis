@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8842514753341675,
+            "Type": "PERSON",
+            "Text": "@elonmusk",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.6762838959693909,
+            "Type": "ORGANIZATION",
+            "Text": "Tesla",
+            "BeginOffset": 82,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.7426689267158508,
+            "Type": "QUANTITY",
+            "Text": "both",
+            "BeginOffset": 133,
+            "EndOffset": 137
+        }
+    ]
+}

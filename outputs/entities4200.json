@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9454783797264099,
+            "Type": "PERSON",
+            "Text": "@Fahrenthold",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9143502116203308,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 52,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9944199919700623,
+            "Type": "PERSON",
+            "Text": "@mike_pence",
+            "BeginOffset": 73,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9998458623886108,
+            "Type": "OTHER",
+            "Text": "https://t.co/2CsHRWrxYN",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

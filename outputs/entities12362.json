@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7926248908042908,
+            "Type": "PERSON",
+            "Text": "@BIZPACReview",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9691336750984192,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 18,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9936904907226562,
+            "Type": "ORGANIZATION",
+            "Text": "CIA",
+            "BeginOffset": 54,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.6066821217536926,
+            "Type": "ORGANIZATION",
+            "Text": "Russia",
+            "BeginOffset": 88,
+            "EndOffset": 94
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8897610306739807,
+            "Type": "ORGANIZATION",
+            "Text": "Muslims",
+            "BeginOffset": 14,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.7548331022262573,
+            "Type": "ORGANIZATION",
+            "Text": "Christians",
+            "BeginOffset": 41,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9257053732872009,
+            "Type": "ORGANIZATION",
+            "Text": "Muslims",
+            "BeginOffset": 64,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9999887943267822,
+            "Type": "OTHER",
+            "Text": "https://t.co/M7sxrPBxCL",
+            "BeginOffset": 111,
+            "EndOffset": 134
+        }
+    ]
+}

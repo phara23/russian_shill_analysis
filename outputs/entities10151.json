@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9983854293823242,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 17,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.7404965758323669,
+            "Type": "PERSON",
+            "Text": "Klansmen",
+            "BeginOffset": 39,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9998815059661865,
+            "Type": "OTHER",
+            "Text": "https://t.co/RBfyeSCmV7",
+            "BeginOffset": 62,
+            "EndOffset": 85
+        }
+    ]
+}

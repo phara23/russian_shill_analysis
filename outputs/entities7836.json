@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9380397200584412,
+            "Type": "QUANTITY",
+            "Text": "10",
+            "BeginOffset": 22,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9687634706497192,
+            "Type": "QUANTITY",
+            "Text": "25,000 refugees",
+            "BeginOffset": 32,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9834393858909607,
+            "Type": "ORGANIZATION",
+            "Text": "ISIS",
+            "BeginOffset": 52,
+            "EndOffset": 56
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8367255926132202,
+            "Type": "PERSON",
+            "Text": "@HippieLadyIdeas",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.786538302898407,
+            "Type": "DATE",
+            "Text": "last 50 years",
+            "BeginOffset": 67,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.9265391230583191,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 84,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9999850988388062,
+            "Type": "OTHER",
+            "Text": "https://t.co/EG2gv7xq3y",
+            "BeginOffset": 99,
+            "EndOffset": 122
+        }
+    ]
+}

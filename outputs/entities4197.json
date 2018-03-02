@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.826204240322113,
+            "Type": "LOCATION",
+            "Text": "Louisiana",
+            "BeginOffset": 0,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.892096757888794,
+            "Type": "ORGANIZATION",
+            "Text": "LSU",
+            "BeginOffset": 56,
+            "EndOffset": 59
+        }
+    ]
+}

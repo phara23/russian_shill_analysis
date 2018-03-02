@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.783566415309906,
+            "Type": "PERSON",
+            "Text": "@worldnetdaily",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9899135828018188,
+            "Type": "LOCATION",
+            "Text": "Milwaukee",
+            "BeginOffset": 50,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.9697228670120239,
+            "Type": "OTHER",
+            "Text": "https://t.co/HSbJDhG",
+            "BeginOffset": 122,
+            "EndOffset": 142
+        }
+    ]
+}

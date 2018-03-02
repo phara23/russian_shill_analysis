@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9247334003448486,
+            "Type": "PERSON",
+            "Text": "@barrycunningham",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9516950845718384,
+            "Type": "OTHER",
+            "Text": "https://t.co",
+            "BeginOffset": 127,
+            "EndOffset": 139
+        }
+    ]
+}

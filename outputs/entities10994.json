@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8145334124565125,
+            "Type": "PERSON",
+            "Text": "@DRUDGE_REPORT",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6892665028572083,
+            "Type": "ORGANIZATION",
+            "Text": "Middle America",
+            "BeginOffset": 19,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9998903274536133,
+            "Type": "OTHER",
+            "Text": "https://t.co/UoU4FAPKJU",
+            "BeginOffset": 64,
+            "EndOffset": 87
+        }
+    ]
+}

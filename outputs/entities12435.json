@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9159615635871887,
+            "Type": "PERSON",
+            "Text": "@Born_To_DYE",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9891824126243591,
+            "Type": "PERSON",
+            "Text": "Putin",
+            "BeginOffset": 41,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9986650943756104,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 56,
+            "EndOffset": 61
+        }
+    ]
+}

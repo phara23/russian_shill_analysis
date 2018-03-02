@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8773669004440308,
+            "Type": "PERSON",
+            "Text": "@cristinalaila1",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9400913119316101,
+            "Type": "ORGANIZATION",
+            "Text": "Muslims",
+            "BeginOffset": 30,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.8131465911865234,
+            "Type": "QUANTITY",
+            "Text": "millions of black slaves",
+            "BeginOffset": 53,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.8418142795562744,
+            "Type": "OTHER",
+            "Text": "Arabic",
+            "BeginOffset": 84,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.5514352321624756,
+            "Type": "PERSON",
+            "Text": "Abeed",
+            "BeginOffset": 108,
+            "EndOffset": 113
+        }
+    ]
+}

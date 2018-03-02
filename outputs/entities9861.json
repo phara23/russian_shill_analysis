@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7059237957000732,
+            "Type": "PERSON",
+            "Text": "@BBCSPSE",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9448317289352417,
+            "Type": "DATE",
+            "Text": "this week",
+            "BeginOffset": 32,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.7416492700576782,
+            "Type": "ORGANIZATION",
+            "Text": "BBC",
+            "BeginOffset": 70,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.40545931458473206,
+            "Type": "COMMERCIAL_ITEM",
+            "Text": "iPlayer",
+            "BeginOffset": 74,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.9999839067459106,
+            "Type": "OTHER",
+            "Text": "https://t.co/1LBeMiIk9N",
+            "BeginOffset": 84,
+            "EndOffset": 107
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.46852508187294006,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8383167386054993,
+            "Type": "PERSON",
+            "Text": "@Sef_jo",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.7327378392219543,
+            "Type": "QUANTITY",
+            "Text": "3Words",
+            "BeginOffset": 28,
+            "EndOffset": 34
+        }
+    ]
+}

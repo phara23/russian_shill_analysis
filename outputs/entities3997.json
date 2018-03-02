@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8401830196380615,
+            "Type": "PERSON",
+            "Text": "@thegrea81",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9306015968322754,
+            "Type": "PERSON",
+            "Text": "@Kay_Angel",
+            "BeginOffset": 18,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9735243320465088,
+            "Type": "PERSON",
+            "Text": "Rhema",
+            "BeginOffset": 49,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9744859337806702,
+            "Type": "DATE",
+            "Text": "tonight",
+            "BeginOffset": 71,
+            "EndOffset": 78
+        }
+    ]
+}

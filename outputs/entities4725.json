@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7042955756187439,
+            "Type": "ORGANIZATION",
+            "Text": "@SoxNationNews",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6905930638313293,
+            "Type": "ORGANIZATION",
+            "Text": "@RedSox_Stuff",
+            "BeginOffset": 19,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.8649168610572815,
+            "Type": "QUANTITY",
+            "Text": "two",
+            "BeginOffset": 78,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.8408780694007874,
+            "Type": "QUANTITY",
+            "Text": "at least one starting pitcher",
+            "BeginOffset": 86,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.7754732370376587,
+            "Type": "PERSON",
+            "Text": "Porcello",
+            "BeginOffset": 117,
+            "EndOffset": 125
+        }
+    ]
+}

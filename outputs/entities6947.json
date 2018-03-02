@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9988048076629639,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 0,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9811089634895325,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 24,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.5769955515861511,
+            "Type": "LOCATION",
+            "Text": "Rust Belt",
+            "BeginOffset": 32,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9081722497940063,
+            "Type": "OTHER",
+            "Text": "https://t.co/NfMcVdAhLB",
+            "BeginOffset": 47,
+            "EndOffset": 70
+        }
+    ]
+}

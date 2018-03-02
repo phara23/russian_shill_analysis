@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8639918565750122,
+            "Type": "PERSON",
+            "Text": "#Turkish Defense Minister Fikri Isik",
+            "BeginOffset": 0,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.3763951063156128,
+            "Type": "ORGANIZATION",
+            "Text": "#Turkey",
+            "BeginOffset": 38,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.7905319333076477,
+            "Type": "COMMERCIAL_ITEM",
+            "Text": "S-400",
+            "BeginOffset": 76,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.5040105581283569,
+            "Type": "LOCATION",
+            "Text": "#Russia",
+            "BeginOffset": 107,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.9999380111694336,
+            "Type": "OTHER",
+            "Text": "https://t.co/0wJLOWwWPv",
+            "BeginOffset": 115,
+            "EndOffset": 138
+        }
+    ]
+}

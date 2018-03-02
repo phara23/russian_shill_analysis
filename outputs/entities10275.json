@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7428597807884216,
+            "Type": "PERSON",
+            "Text": "@CtrlSec",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9358472228050232,
+            "Type": "OTHER",
+            "Text": "https://t.co/SA5PvB8agl",
+            "BeginOffset": 37,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9749594926834106,
+            "Type": "OTHER",
+            "Text": "https://t.co/AU12RZyVsH",
+            "BeginOffset": 61,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9915536046028137,
+            "Type": "OTHER",
+            "Text": "https://t.co/SE2YK0QP2C",
+            "BeginOffset": 85,
+            "EndOffset": 108
+        }
+    ]
+}

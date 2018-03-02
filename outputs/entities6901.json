@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9004144668579102,
+            "Type": "PERSON",
+            "Text": "@MarkBraithwait2",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9899678826332092,
+            "Type": "PERSON",
+            "Text": "@rgenci57",
+            "BeginOffset": 21,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9994114637374878,
+            "Type": "OTHER",
+            "Text": "https://t.co/dHonkTrBYD",
+            "BeginOffset": 31,
+            "EndOffset": 54
+        }
+    ]
+}

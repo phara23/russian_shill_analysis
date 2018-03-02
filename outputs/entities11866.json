@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8344820737838745,
+            "Type": "PERSON",
+            "Text": "@PhoenixNewsAZ",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9992194175720215,
+            "Type": "PERSON",
+            "Text": "Byron Murphy",
+            "BeginOffset": 19,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.5979083180427551,
+            "Type": "TITLE",
+            "Text": "The Opening",
+            "BeginOffset": 53,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.8259282112121582,
+            "Type": "QUANTITY",
+            "Text": "No. 1",
+            "BeginOffset": 68,
+            "EndOffset": 73
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.8979920744895935,
+            "Text": "RT @FoxNews",
+            "BeginOffset": 0,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9769067168235779,
+            "Text": "WIKILEAKS",
+            "BeginOffset": 13,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.8496639728546143,
+            "Text": "Clinton pal",
+            "BeginOffset": 24,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9374881386756897,
+            "Text": "Hillary",
+            "BeginOffset": 44,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9826576709747314,
+            "Text": "a human",
+            "BeginOffset": 85,
+            "EndOffset": 92
+        }
+    ]
+}

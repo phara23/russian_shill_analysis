@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9813350439071655,
+            "Type": "PERSON",
+            "Text": "Kerry",
+            "BeginOffset": 7,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.6750072836875916,
+            "Type": "PERSON",
+            "Text": "#KerryDoSmth",
+            "BeginOffset": 57,
+            "EndOffset": 69
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7424275279045105,
+            "Type": "PERSON",
+            "Text": "@ProfessorDNA",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9478355646133423,
+            "Type": "PERSON",
+            "Text": "@jjsattorney",
+            "BeginOffset": 38,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.954626739025116,
+            "Type": "PERSON",
+            "Text": "@panegron",
+            "BeginOffset": 51,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.986678957939148,
+            "Type": "PERSON",
+            "Text": "@DarbyKathleen",
+            "BeginOffset": 61,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.9830473065376282,
+            "Type": "PERSON",
+            "Text": "@kadyalexis",
+            "BeginOffset": 76,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.9738807678222656,
+            "Type": "PERSON",
+            "Text": "@kkennedyshinn",
+            "BeginOffset": 88,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.9689639210700989,
+            "Type": "PERSON",
+            "Text": "@ProfPlum15",
+            "BeginOffset": 114,
+            "EndOffset": 125
+        },
+        {
+            "Score": 0.9328959584236145,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

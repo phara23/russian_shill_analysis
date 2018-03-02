@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8797217011451721,
+            "Type": "PERSON",
+            "Text": "@FeministaJones",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.5089298486709595,
+            "Type": "QUANTITY",
+            "Text": "One",
+            "BeginOffset": 20,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9218499660491943,
+            "Type": "OTHER",
+            "Text": "https://t.co/wpoUuch",
+            "BeginOffset": 119,
+            "EndOffset": 139
+        }
+    ]
+}

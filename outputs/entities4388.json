@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.813943088054657,
+            "Type": "PERSON",
+            "Text": "@steingal2",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9947846531867981,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 15,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.962184727191925,
+            "Type": "LOCATION",
+            "Text": "Lumberton, NC",
+            "BeginOffset": 52,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.8062614798545837,
+            "Type": "QUANTITY",
+            "Text": "3 other towns",
+            "BeginOffset": 73,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.8734147548675537,
+            "Type": "EVENT",
+            "Text": "Hurricane Matthew",
+            "BeginOffset": 98,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.9999719858169556,
+            "Type": "OTHER",
+            "Text": "https://t.co/rYXUdwgdb7",
+            "BeginOffset": 119,
+            "EndOffset": 142
+        }
+    ]
+}

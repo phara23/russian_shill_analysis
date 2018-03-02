@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8248071670532227,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.7379346489906311,
+            "Type": "PERSON",
+            "Text": "@HipHopWired",
+            "BeginOffset": 14,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9694482088088989,
+            "Type": "PERSON",
+            "Text": "Kendrick Lamar",
+            "BeginOffset": 28,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9982142448425293,
+            "Type": "PERSON",
+            "Text": "Dave Chappelle",
+            "BeginOffset": 54,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9998655319213867,
+            "Type": "OTHER",
+            "Text": "https://t.co/tmGIndxkns",
+            "BeginOffset": 99,
+            "EndOffset": 122
+        }
+    ]
+}

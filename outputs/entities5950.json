@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7909141182899475,
+            "Type": "PERSON",
+            "Text": "@ATLBlackStar",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.782267689704895,
+            "Type": "QUANTITY",
+            "Text": "2 Children’s Series",
+            "BeginOffset": 68,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.9072696566581726,
+            "Type": "ORGANIZATION",
+            "Text": "Amazon",
+            "BeginOffset": 92,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.9999339580535889,
+            "Type": "OTHER",
+            "Text": "https://t.co/3y0YspjPsk",
+            "BeginOffset": 99,
+            "EndOffset": 122
+        }
+    ]
+}

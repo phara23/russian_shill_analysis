@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.966802179813385,
+            "Type": "PERSON",
+            "Text": "@adilorenzo66",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.954119086265564,
+            "Type": "PERSON",
+            "Text": "@jstines3",
+            "BeginOffset": 18,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9254001975059509,
+            "Type": "PERSON",
+            "Text": "@IcabodKeller",
+            "BeginOffset": 28,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9069671630859375,
+            "Type": "PERSON",
+            "Text": "@CarlyFiorina",
+            "BeginOffset": 42,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.8857869505882263,
+            "Type": "PERSON",
+            "Text": "Carly",
+            "BeginOffset": 59,
+            "EndOffset": 64
+        }
+    ]
+}

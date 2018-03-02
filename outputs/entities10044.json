@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.829954206943512,
+            "Type": "PERSON",
+            "Text": "@ncscooper",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.7749963998794556,
+            "Type": "QUANTITY",
+            "Text": "57",
+            "BeginOffset": 64,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9465526342391968,
+            "Type": "OTHER",
+            "Text": "https://t.co/NQb45YOKyD",
+            "BeginOffset": 67,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9999535083770752,
+            "Type": "OTHER",
+            "Text": "https://t.co/FM7uksAjOg",
+            "BeginOffset": 91,
+            "EndOffset": 114
+        }
+    ]
+}

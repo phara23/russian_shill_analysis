@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6719947457313538,
+            "Type": "PERSON",
+            "Text": "@INPDUMNYC",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9998821020126343,
+            "Type": "OTHER",
+            "Text": "https://t.co/e1oWSZMxEG",
+            "BeginOffset": 85,
+            "EndOffset": 108
+        }
+    ]
+}

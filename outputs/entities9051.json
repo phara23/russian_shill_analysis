@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9364380836486816,
+            "Type": "PERSON",
+            "Text": "@JoeFreedomLove",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.823829710483551,
+            "Type": "ORGANIZATION",
+            "Text": "Muslims",
+            "BeginOffset": 24,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.6422728300094604,
+            "Type": "OTHER",
+            "Text": "German",
+            "BeginOffset": 35,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.8563946485519409,
+            "Type": "QUANTITY",
+            "Text": "Thousands of right-wing extremists",
+            "BeginOffset": 49,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.9216667413711548,
+            "Type": "LOCATION",
+            "Text": "Berlin",
+            "BeginOffset": 98,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.8773608207702637,
+            "Type": "ORGANIZATION",
+            "Text": "Daily Mail",
+            "BeginOffset": 113,
+            "EndOffset": 123
+        },
+        {
+            "Score": 0.9237876534461975,
+            "Type": "OTHER",
+            "Text": "https://t.co/lg",
+            "BeginOffset": 124,
+            "EndOffset": 139
+        }
+    ]
+}

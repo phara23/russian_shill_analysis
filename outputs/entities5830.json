@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9459954500198364,
+            "Type": "PERSON",
+            "Text": "@KingJohnLove",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.985198438167572,
+            "Type": "ORGANIZATION",
+            "Text": "Twitter",
+            "BeginOffset": 33,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.8896511793136597,
+            "Type": "PERSON",
+            "Text": "Timberlake",
+            "BeginOffset": 46,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9999723434448242,
+            "Type": "OTHER",
+            "Text": "https://t.co/Alrn4RsAZm",
+            "BeginOffset": 58,
+            "EndOffset": 81
+        }
+    ]
+}

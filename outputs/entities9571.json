@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8130640387535095,
+            "Type": "PERSON",
+            "Text": "@redostoneage",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.5506207942962646,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 41,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9909381866455078,
+            "Type": "OTHER",
+            "Text": "https://t.co/U6hvnh3v9P",
+            "BeginOffset": 75,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.5442734360694885,
+            "Type": "LOCATION",
+            "Text": "#chicago",
+            "BeginOffset": 109,
+            "EndOffset": 117
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9212213754653931,
+            "Type": "PERSON",
+            "Text": "@MollyMcKew",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9977040886878967,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 49,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9844042658805847,
+            "Type": "OTHER",
+            "Text": "https://t.co",
+            "BeginOffset": 131,
+            "EndOffset": 143
+        }
+    ]
+}

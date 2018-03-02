@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7731524705886841,
+            "Type": "ORGANIZATION",
+            "Text": "@EMA_radio",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9976400136947632,
+            "Type": "PERSON",
+            "Text": "Kim",
+            "BeginOffset": 25,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.5860558748245239,
+            "Type": "QUANTITY",
+            "Text": "98",
+            "BeginOffset": 58,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.947836697101593,
+            "Type": "OTHER",
+            "Text": "https://t.co/hG2NE0wExs",
+            "BeginOffset": 73,
+            "EndOffset": 96
+        }
+    ]
+}

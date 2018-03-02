@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6877029538154602,
+            "Type": "PERSON",
+            "Text": "@moutet",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9868619441986084,
+            "Type": "PERSON",
+            "Text": "Boris",
+            "BeginOffset": 45,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9999829530715942,
+            "Type": "OTHER",
+            "Text": "https://t.co/Xt6cJqb0Bz",
+            "BeginOffset": 65,
+            "EndOffset": 88
+        }
+    ]
+}

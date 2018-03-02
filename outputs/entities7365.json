@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8975896835327148,
+            "Type": "PERSON",
+            "Text": "@hectormorenco",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8471572399139404,
+            "Type": "LOCATION",
+            "Text": "D.C.",
+            "BeginOffset": 52,
+            "EndOffset": 56
+        }
+    ]
+}

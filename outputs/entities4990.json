@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8528278470039368,
+            "Type": "PERSON",
+            "Text": "@EpicBear",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9494208693504333,
+            "Type": "ORGANIZATION",
+            "Text": "WikiLeaks",
+            "BeginOffset": 14,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.7096871137619019,
+            "Type": "OTHER",
+            "Text": "Guccifer 2.0",
+            "BeginOffset": 25,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.987288236618042,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 39,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9999632835388184,
+            "Type": "OTHER",
+            "Text": "https://t.co/tlaixzT3z1",
+            "BeginOffset": 81,
+            "EndOffset": 104
+        }
+    ]
+}

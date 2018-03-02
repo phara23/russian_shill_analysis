@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7953473925590515,
+            "Type": "PERSON",
+            "Text": "@OGRONC",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9112049341201782,
+            "Type": "QUANTITY",
+            "Text": "One day",
+            "BeginOffset": 106,
+            "EndOffset": 113
+        }
+    ]
+}

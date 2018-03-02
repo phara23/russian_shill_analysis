@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.962505042552948,
+            "Type": "PERSON",
+            "Text": "@JoyAnnReid",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9002517461776733,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 100,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.999992847442627,
+            "Type": "OTHER",
+            "Text": "https://t.co/Ez037k0Hkq",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        }
+    ]
+}

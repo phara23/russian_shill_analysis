@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8248885869979858,
+            "Type": "PERSON",
+            "Text": "@StanLiAtlantis",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.6161959171295166,
+            "Type": "DATE",
+            "Text": "#2016",
+            "BeginOffset": 20,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.906811535358429,
+            "Type": "QUANTITY",
+            "Text": "4Words",
+            "BeginOffset": 27,
+            "EndOffset": 33
+        }
+    ]
+}

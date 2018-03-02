@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9234607219696045,
+            "Type": "PERSON",
+            "Text": "@YaBoyColeJones",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.948181688785553,
+            "Type": "PERSON",
+            "Text": "Van Driver",
+            "BeginOffset": 24,
+            "EndOffset": 34
+        }
+    ]
+}

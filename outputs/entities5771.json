@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5132219195365906,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8665147423744202,
+            "Type": "PERSON",
+            "Text": "@Raymond_Fed",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7019957304000854,
+            "Type": "QUANTITY",
+            "Text": "first",
+            "BeginOffset": 26,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9996125102043152,
+            "Type": "OTHER",
+            "Text": "https://t.co/aZeU3qLfah",
+            "BeginOffset": 64,
+            "EndOffset": 87
+        }
+    ]
+}

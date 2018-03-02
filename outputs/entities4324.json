@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7260103821754456,
+            "Type": "PERSON",
+            "Text": "@preciousliberty",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9620426893234253,
+            "Type": "OTHER",
+            "Text": "https://t.co/ujQ5sPoOTw",
+            "BeginOffset": 106,
+            "EndOffset": 129
+        },
+        {
+            "Score": 0.45919764041900635,
+            "Type": "ORGANIZATION",
+            "Text": "#MAGA",
+            "BeginOffset": 134,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9687442779541016,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9808961153030396,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 22,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.8903090357780457,
+            "Type": "QUANTITY",
+            "Text": "Two Official Favors",
+            "BeginOffset": 32,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.8589633703231812,
+            "Type": "LOCATION",
+            "Text": "Morocco",
+            "BeginOffset": 55,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9617546200752258,
+            "Type": "QUANTITY",
+            "Text": "8 Million",
+            "BeginOffset": 75,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.7746581435203552,
+            "Type": "ORGANIZATION",
+            "Text": "Clinton Foundation",
+            "BeginOffset": 89,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.8257503509521484,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 124,
+            "EndOffset": 137
+        }
+    ]
+}

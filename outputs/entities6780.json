@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.79423588514328,
+            "Type": "PERSON",
+            "Text": "@BevComstock",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9201799631118774,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 47,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.995375394821167,
+            "Type": "OTHER",
+            "Text": "https://t.co/dRJPLtW7vC",
+            "BeginOffset": 64,
+            "EndOffset": 87
+        }
+    ]
+}

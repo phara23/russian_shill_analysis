@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.923011839389801,
+            "Type": "PERSON",
+            "Text": "@SykesCharlie",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.6674635410308838,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 18,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9999856948852539,
+            "Type": "OTHER",
+            "Text": "https://t.co/enxWQyxIUK",
+            "BeginOffset": 66,
+            "EndOffset": 89
+        }
+    ]
+}

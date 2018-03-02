@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9206705093383789,
+            "Type": "PERSON",
+            "Text": "@Crystal1Johnson",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9978379011154175,
+            "Type": "PERSON",
+            "Text": "Doris Miller",
+            "BeginOffset": 21,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.4837999939918518,
+            "Type": "QUANTITY",
+            "Text": "one",
+            "BeginOffset": 86,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.868380069732666,
+            "Type": "EVENT",
+            "Text": "WW II",
+            "BeginOffset": 93,
+            "EndOffset": 98
+        }
+    ]
+}

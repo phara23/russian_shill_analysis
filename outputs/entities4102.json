@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7816317677497864,
+            "Type": "PERSON",
+            "Text": "@FPRNRadio",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.6612377166748047,
+            "Type": "TITLE",
+            "Text": "Rundown Live",
+            "BeginOffset": 22,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.8734749555587769,
+            "Type": "QUANTITY",
+            "Text": "Episode 695",
+            "BeginOffset": 35,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9744184613227844,
+            "Type": "PERSON",
+            "Text": "Timothy Noakes",
+            "BeginOffset": 55,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9993825554847717,
+            "Type": "PERSON",
+            "Text": "Tim Noakes",
+            "BeginOffset": 75,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.498672217130661,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 129,
+            "EndOffset": 138
+        }
+    ]
+}

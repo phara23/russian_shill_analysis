@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9289822578430176,
+            "Type": "PERSON",
+            "Text": "@treythetruth213",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.6511664390563965,
+            "Type": "QUANTITY",
+            "Text": "162",
+            "BeginOffset": 51,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9828245639801025,
+            "Type": "PERSON",
+            "Text": "Ramarni Wilfred",
+            "BeginOffset": 56,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9995261430740356,
+            "Type": "PERSON",
+            "Text": "Stephen Hawking",
+            "BeginOffset": 102,
+            "EndOffset": 117
+        },
+        {
+            "Score": 0.9869654178619385,
+            "Type": "PERSON",
+            "Text": "Bill Gates",
+            "BeginOffset": 121,
+            "EndOffset": 131
+        },
+        {
+            "Score": 0.9503797888755798,
+            "Type": "PERSON",
+            "Text": "Alber",
+            "BeginOffset": 138,
+            "EndOffset": 143
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8376491069793701,
+            "Type": "PERSON",
+            "Text": "@Rmhenry1Henry",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.5762657523155212,
+            "Type": "ORGANIZATION",
+            "Text": "#Clinton Machine",
+            "BeginOffset": 19,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9998668432235718,
+            "Type": "OTHER",
+            "Text": "https://t.co/aYDBoJxPh4",
+            "BeginOffset": 71,
+            "EndOffset": 94
+        }
+    ]
+}

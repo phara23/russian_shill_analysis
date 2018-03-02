@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8957247734069824,
+            "Type": "PERSON",
+            "Text": "@mollyday15",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8365318775177002,
+            "Type": "OTHER",
+            "Text": "Jewish",
+            "BeginOffset": 47,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9999473094940186,
+            "Type": "OTHER",
+            "Text": "https://t.co/zb6mQv0HEP",
+            "BeginOffset": 74,
+            "EndOffset": 97
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.936575174331665,
+            "Type": "PERSON",
+            "Text": "@Brinny88",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.7403287887573242,
+            "Type": "DATE",
+            "Text": "#2017",
+            "BeginOffset": 14,
+            "EndOffset": 19
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8004547357559204,
+            "Type": "PERSON",
+            "Text": "@fettiwap",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8191431760787964,
+            "Type": "PERSON",
+            "Text": "@WhoTFisVon",
+            "BeginOffset": 20,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9999489784240723,
+            "Type": "OTHER",
+            "Text": "https://t.co/9w2WnYcrLO",
+            "BeginOffset": 32,
+            "EndOffset": 55
+        }
+    ]
+}

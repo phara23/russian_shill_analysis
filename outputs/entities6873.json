@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8520756363868713,
+            "Type": "ORGANIZATION",
+            "Text": "@V_of_Europe",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9632354974746704,
+            "Type": "QUANTITY",
+            "Text": "16-year-old",
+            "BeginOffset": 27,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.877040684223175,
+            "Type": "OTHER",
+            "Text": "German",
+            "BeginOffset": 39,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9914122819900513,
+            "Type": "LOCATION",
+            "Text": "Germany",
+            "BeginOffset": 81,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.8282876014709473,
+            "Type": "OTHER",
+            "Text": "https://t.co/wuXEbAtDnq",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.9999972581863403,
+            "Type": "OTHER",
+            "Text": "https://t.co/GI68urgRPf",
+            "BeginOffset": 114,
+            "EndOffset": 137
+        }
+    ]
+}

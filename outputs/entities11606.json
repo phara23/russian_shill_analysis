@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7621853351593018,
+            "Type": "ORGANIZATION",
+            "Text": "US Nazi",
+            "BeginOffset": 4,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9704080820083618,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 27,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.945823073387146,
+            "Type": "OTHER",
+            "Text": "https://t.co/lldiyxcPIk",
+            "BeginOffset": 33,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9999889135360718,
+            "Type": "OTHER",
+            "Text": "https://t.co/pLMQ2AsZTB",
+            "BeginOffset": 57,
+            "EndOffset": 80
+        }
+    ]
+}

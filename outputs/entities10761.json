@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.855143129825592,
+            "Type": "PERSON",
+            "Text": "@SputnikInt",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7217340469360352,
+            "Type": "ORGANIZATION",
+            "Text": "@WikiLeaks",
+            "BeginOffset": 24,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9423210620880127,
+            "Type": "QUANTITY",
+            "Text": "24th batch",
+            "BeginOffset": 44,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.7961635589599609,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 58,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.98286372423172,
+            "Type": "OTHER",
+            "Text": "https://t.co/mZprrJUE4M",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        }
+    ]
+}

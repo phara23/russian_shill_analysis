@@ -1,0 +1,40 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9362421035766602,
+            "Text": "RT @ZaibatsuNews",
+            "BeginOffset": 0,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9911800622940063,
+            "Text": "Fiat Chrysler",
+            "BeginOffset": 18,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9560930132865906,
+            "Text": "Trump",
+            "BeginOffset": 44,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9880594611167908,
+            "Text": "President-elect",
+            "BeginOffset": 60,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.8955161571502686,
+            "Text": "company",
+            "BeginOffset": 92,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.8633677363395691,
+            "Text": "’s job creation",
+            "BeginOffset": 99,
+            "EndOffset": 114
+        }
+    ]
+}

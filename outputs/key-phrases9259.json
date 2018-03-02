@@ -1,0 +1,34 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.8850494027137756,
+            "Text": "FOX NEWS POLL",
+            "BeginOffset": 0,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9743502140045166,
+            "Text": "Clinton",
+            "BeginOffset": 15,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9973354935646057,
+            "Text": "Trump",
+            "BeginOffset": 29,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9949991703033447,
+            "Text": "10 points",
+            "BeginOffset": 38,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9449669122695923,
+            "Text": "flawed presidential candidates",
+            "BeginOffset": 62,
+            "EndOffset": 92
+        }
+    ]
+}

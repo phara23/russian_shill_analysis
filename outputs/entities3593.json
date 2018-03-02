@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6499718427658081,
+            "Type": "PERSON",
+            "Text": "@instapundit",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9991862177848816,
+            "Type": "OTHER",
+            "Text": "https://t.co/irf2KBhVAz",
+            "BeginOffset": 80,
+            "EndOffset": 103
+        }
+    ]
+}

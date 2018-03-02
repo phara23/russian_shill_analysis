@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.797438383102417,
+            "Type": "PERSON",
+            "Text": "Gute Nacht",
+            "BeginOffset": 0,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.8931909799575806,
+            "Type": "PERSON",
+            "Text": "ihr Lieben",
+            "BeginOffset": 12,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9999539852142334,
+            "Type": "OTHER",
+            "Text": "https://t.co/sIROHd19o8",
+            "BeginOffset": 37,
+            "EndOffset": 60
+        }
+    ]
+}

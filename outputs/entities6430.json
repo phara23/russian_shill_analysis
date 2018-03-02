@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6829347610473633,
+            "Type": "PERSON",
+            "Text": "@Shooters_Wife",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.46681496500968933,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 19,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.6855372190475464,
+            "Type": "ORGANIZATION",
+            "Text": "@TexasSheBandit",
+            "BeginOffset": 22,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9622690081596375,
+            "Type": "OTHER",
+            "Text": "https://t.co/UjbC2AR4gS",
+            "BeginOffset": 87,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.384162962436676,
+            "Type": "PERSON",
+            "Text": "#CruzCrew",
+            "BeginOffset": 111,
+            "EndOffset": 120
+        }
+    ]
+}

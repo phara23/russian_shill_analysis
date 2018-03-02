@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9160686135292053,
+            "Type": "PERSON",
+            "Text": "@Maggyw519",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9318296313285828,
+            "Type": "PERSON",
+            "Text": "@brianbeutler",
+            "BeginOffset": 15,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9999604225158691,
+            "Type": "OTHER",
+            "Text": "https://t.co/TQQq1ygEZ4",
+            "BeginOffset": 77,
+            "EndOffset": 100
+        }
+    ]
+}

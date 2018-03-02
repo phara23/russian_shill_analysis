@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8683233261108398,
+            "Type": "PERSON",
+            "Text": "@InkOfSquid",
+            "BeginOffset": 0,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9499495625495911,
+            "Type": "PERSON",
+            "Text": "@DurtyDuckie",
+            "BeginOffset": 12,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9235029816627502,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 84,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9682949185371399,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 119,
+            "EndOffset": 124
+        }
+    ]
+}

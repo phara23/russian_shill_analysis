@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7999277710914612,
+            "Type": "ORGANIZATION",
+            "Text": "#IS Sharia Court",
+            "BeginOffset": 0,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7573058009147644,
+            "Type": "QUANTITY",
+            "Text": "600 Yezidis",
+            "BeginOffset": 25,
+            "EndOffset": 36
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9515801668167114,
+            "Type": "PERSON",
+            "Text": "@kupajo322",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9503987431526184,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 18,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9641326069831848,
+            "Type": "QUANTITY",
+            "Text": "00 million",
+            "BeginOffset": 51,
+            "EndOffset": 61
+        }
+    ]
+}

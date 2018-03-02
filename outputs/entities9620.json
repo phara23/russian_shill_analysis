@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8506224751472473,
+            "Type": "PERSON",
+            "Text": "@SebGorka",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.6179428100585938,
+            "Type": "QUANTITY",
+            "Text": "79",
+            "BeginOffset": 41,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.4593313932418823,
+            "Type": "ORGANIZATION",
+            "Text": "Iran",
+            "BeginOffset": 78,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.9546248316764832,
+            "Type": "DATE",
+            "Text": "1989",
+            "BeginOffset": 87,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.7123482823371887,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 92,
+            "EndOffset": 99
+        }
+    ]
+}

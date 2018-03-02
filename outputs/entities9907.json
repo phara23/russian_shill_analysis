@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9458602666854858,
+            "Type": "PERSON",
+            "Text": "@holland_tom",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7943379282951355,
+            "Type": "ORGANIZATION",
+            "Text": "Christians",
+            "BeginOffset": 25,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9594979882240295,
+            "Type": "LOCATION",
+            "Text": "Egypt",
+            "BeginOffset": 58,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.950313925743103,
+            "Type": "LOCATION",
+            "Text": "Pakistan",
+            "BeginOffset": 70,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.6922222971916199,
+            "Type": "PERSON",
+            "Text": "@GabrielSaidR",
+            "BeginOffset": 85,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.517940104007721,
+            "Type": "LOCATION",
+            "Text": "Iran",
+            "BeginOffset": 125,
+            "EndOffset": 129
+        },
+        {
+            "Score": 0.9689534902572632,
+            "Type": "OTHER",
+            "Text": "https://t.co",
+            "BeginOffset": 131,
+            "EndOffset": 143
+        }
+    ]
+}

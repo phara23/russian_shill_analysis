@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7187519669532776,
+            "Type": "PERSON",
+            "Text": "@BlastingNews",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.591363787651062,
+            "Type": "TITLE",
+            "Text": "Emerald City",
+            "BeginOffset": 19,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9302142858505249,
+            "Type": "QUANTITY",
+            "Text": "1",
+            "BeginOffset": 33,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.7377919554710388,
+            "Type": "QUANTITY",
+            "Text": "06",
+            "BeginOffset": 35,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.8692224025726318,
+            "Type": "OTHER",
+            "Text": "https://t.co/E7LiFHuAkr",
+            "BeginOffset": 78,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.9999786615371704,
+            "Type": "OTHER",
+            "Text": "https://t.co/MrJ0AvMZl8",
+            "BeginOffset": 102,
+            "EndOffset": 125
+        }
+    ]
+}

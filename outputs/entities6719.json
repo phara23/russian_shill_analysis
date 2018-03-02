@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8606790900230408,
+            "Type": "PERSON",
+            "Text": "@AbnInfVet",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.5283020734786987,
+            "Type": "ORGANIZATION",
+            "Text": "USFA",
+            "BeginOffset": 77,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.9844145774841309,
+            "Type": "OTHER",
+            "Text": "https://t.co/rRZgBcU8tm",
+            "BeginOffset": 85,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.7873687744140625,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 134,
+            "EndOffset": 143
+        }
+    ]
+}

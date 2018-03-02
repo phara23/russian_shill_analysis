@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9080691933631897,
+            "Type": "PERSON",
+            "Text": "@masnOrioles",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9401671886444092,
+            "Type": "PERSON",
+            "Text": "Trumbo",
+            "BeginOffset": 17,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9999852180480957,
+            "Type": "OTHER",
+            "Text": "https://t.co/X0K2cEB314",
+            "BeginOffset": 58,
+            "EndOffset": 81
+        }
+    ]
+}

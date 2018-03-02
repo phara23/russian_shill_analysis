@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9200751781463623,
+            "Type": "PERSON",
+            "Text": "@NikkiWoods",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.6626704931259155,
+            "Type": "QUANTITY",
+            "Text": "#365",
+            "BeginOffset": 105,
+            "EndOffset": 109
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8484456539154053,
+            "Type": "PERSON",
+            "Text": "@AllenWest",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9318554997444153,
+            "Type": "OTHER",
+            "Text": "http://t.co/3CPs4dsO2W",
+            "BeginOffset": 96,
+            "EndOffset": 118
+        },
+        {
+            "Score": 0.9941810965538025,
+            "Type": "OTHER",
+            "Text": "http://t.co/VbGbIzEA",
+            "BeginOffset": 119,
+            "EndOffset": 139
+        }
+    ]
+}

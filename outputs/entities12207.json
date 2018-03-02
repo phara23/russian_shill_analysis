@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7985286116600037,
+            "Type": "PERSON",
+            "Text": "@AllenWestRepub",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9117700457572937,
+            "Type": "PERSON",
+            "Text": "Kaine",
+            "BeginOffset": 20,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9889345765113831,
+            "Type": "PERSON",
+            "Text": "Pence",
+            "BeginOffset": 38,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9870667457580566,
+            "Type": "QUANTITY",
+            "Text": "70 times",
+            "BeginOffset": 44,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9114072918891907,
+            "Type": "PERSON",
+            "Text": "A.F.Branco",
+            "BeginOffset": 107,
+            "EndOffset": 117
+        },
+        {
+            "Score": 0.9730726480484009,
+            "Type": "OTHER",
+            "Text": "https://t.co/Q4sXt0qD",
+            "BeginOffset": 118,
+            "EndOffset": 139
+        }
+    ]
+}

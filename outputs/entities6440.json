@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8761502504348755,
+            "Type": "PERSON",
+            "Text": "@GarretLebois",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9189159274101257,
+            "Type": "OTHER",
+            "Text": "https://t.co/hPmu8PAcie",
+            "BeginOffset": 18,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.7688948512077332,
+            "Type": "PERSON",
+            "Text": "Merkel",
+            "BeginOffset": 44,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.8143865466117859,
+            "Type": "ORGANIZATION",
+            "Text": "EU",
+            "BeginOffset": 64,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.8082352876663208,
+            "Type": "QUANTITY",
+            "Text": "ten kings",
+            "BeginOffset": 73,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.9683555364608765,
+            "Type": "QUANTITY",
+            "Text": "one hour",
+            "BeginOffset": 102,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.9193744659423828,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

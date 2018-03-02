@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8892130255699158,
+            "Type": "PERSON",
+            "Text": "@ChristiChat",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9981479644775391,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 17,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9144524335861206,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 80,
+            "EndOffset": 87
+        }
+    ]
+}

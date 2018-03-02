@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7912560105323792,
+            "Type": "PERSON",
+            "Text": "@camboviet",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.587419331073761,
+            "Type": "ORGANIZATION",
+            "Text": "Iran",
+            "BeginOffset": 15,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9999502897262573,
+            "Type": "OTHER",
+            "Text": "https://t.co/JxnQIje5KL",
+            "BeginOffset": 74,
+            "EndOffset": 97
+        }
+    ]
+}

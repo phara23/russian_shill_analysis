@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8003924489021301,
+            "Type": "QUANTITY",
+            "Text": "first time",
+            "BeginOffset": 15,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9929633736610413,
+            "Type": "DATE",
+            "Text": "tomorrow",
+            "BeginOffset": 26,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.6778637766838074,
+            "Type": "PERSON",
+            "Text": "trump",
+            "BeginOffset": 77,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.7334842681884766,
+            "Type": "QUANTITY",
+            "Text": "2k16",
+            "BeginOffset": 115,
+            "EndOffset": 119
+        }
+    ]
+}

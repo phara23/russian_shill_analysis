@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8027088642120361,
+            "Type": "PERSON",
+            "Text": "@WashDCOnline",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8602498769760132,
+            "Type": "QUANTITY",
+            "Text": "Third special session",
+            "BeginOffset": 18,
+            "EndOffset": 39
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9359075427055359,
+            "Type": "PERSON",
+            "Text": "@GerardKapraun",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6973543763160706,
+            "Type": "LOCATION",
+            "Text": "Israel",
+            "BeginOffset": 54,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9999839067459106,
+            "Type": "OTHER",
+            "Text": "https://t.co/95u46Oxf71",
+            "BeginOffset": 93,
+            "EndOffset": 116
+        }
+    ]
+}

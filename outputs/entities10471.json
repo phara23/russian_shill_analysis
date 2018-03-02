@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4898606538772583,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.9464319944381714,
+            "Type": "PERSON",
+            "Text": "@Kevin_Mackie",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9845413565635681,
+            "Type": "PERSON",
+            "Text": "@Tom_Bergeron",
+            "BeginOffset": 18,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9244022369384766,
+            "Type": "PERSON",
+            "Text": "@hwinkler4",
+            "BeginOffset": 32,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.999901294708252,
+            "Type": "OTHER",
+            "Text": "https://t.co/wrt3KOAGLk",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        }
+    ]
+}

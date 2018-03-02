@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9026188254356384,
+            "Type": "PERSON",
+            "Text": "@CerdagneFrance",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.6281921863555908,
+            "Type": "LOCATION",
+            "Text": "France",
+            "BeginOffset": 23,
+            "EndOffset": 29
+        }
+    ]
+}

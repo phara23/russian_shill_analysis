@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8962689638137817,
+            "Type": "PERSON",
+            "Text": "@Dreamweasel",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9999300241470337,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 21,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9984340071678162,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 31,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.3545260429382324,
+            "Type": "ORGANIZATION",
+            "Text": "Birtherism",
+            "BeginOffset": 55,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9821356534957886,
+            "Type": "QUANTITY",
+            "Text": "100%",
+            "BeginOffset": 74,
+            "EndOffset": 78
+        }
+    ]
+}

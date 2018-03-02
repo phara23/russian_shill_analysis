@@ -1,0 +1,40 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9051059484481812,
+            "Text": "RT @tfgnews",
+            "BeginOffset": 0,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9452652931213379,
+            "Text": "@USARMY @USMC @USAirForce @USNavy",
+            "BeginOffset": 25,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.6224112510681152,
+            "Text": "rcv",
+            "BeginOffset": 69,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.6772961020469666,
+            "Text": "50 billion",
+            "BeginOffset": 75,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.9658825397491455,
+            "Text": "Iran",
+            "BeginOffset": 97,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.8603836894035339,
+            "Text": "4 Trump",
+            "BeginOffset": 108,
+            "EndOffset": 115
+        }
+    ]
+}

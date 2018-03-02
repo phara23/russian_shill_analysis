@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8603163957595825,
+            "Type": "DATE",
+            "Text": "after 8pm",
+            "BeginOffset": 38,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9979098439216614,
+            "Type": "DATE",
+            "Text": "8am",
+            "BeginOffset": 130,
+            "EndOffset": 133
+        }
+    ]
+}

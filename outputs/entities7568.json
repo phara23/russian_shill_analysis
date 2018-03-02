@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5189739465713501,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8275075554847717,
+            "Type": "ORGANIZATION",
+            "Text": "@America_1st_: RT",
+            "BeginOffset": 3,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.8724551200866699,
+            "Type": "PERSON",
+            "Text": "President Trump",
+            "BeginOffset": 39,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9960870742797852,
+            "Type": "PERSON",
+            "Text": "George Soros",
+            "BeginOffset": 66,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.983174741268158,
+            "Type": "ORGANIZATION",
+            "Text": "FBI",
+            "BeginOffset": 86,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.9999740123748779,
+            "Type": "OTHER",
+            "Text": "https://t.co/tlBec6ylz7",
+            "BeginOffset": 108,
+            "EndOffset": 131
+        }
+    ]
+}

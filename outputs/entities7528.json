@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8211245536804199,
+            "Type": "PERSON",
+            "Text": "@politicususa",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9989740252494812,
+            "Type": "PERSON",
+            "Text": "Paul Krugman",
+            "BeginOffset": 18,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.824868381023407,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 42,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9489135146141052,
+            "Type": "PERSON",
+            "Text": "Bush",
+            "BeginOffset": 57,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.8086858987808228,
+            "Type": "EVENT",
+            "Text": "2003 Rush to War",
+            "BeginOffset": 64,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.8555225133895874,
+            "Type": "OTHER",
+            "Text": "https://t.co/CCtRcBXRxp",
+            "BeginOffset": 81,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.655058741569519,
+            "Type": "ORGANIZATION",
+            "Text": "#p2",
+            "BeginOffset": 105,
+            "EndOffset": 108
+        }
+    ]
+}

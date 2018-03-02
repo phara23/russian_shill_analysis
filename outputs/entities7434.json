@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6018462777137756,
+            "Type": "PERSON",
+            "Text": "@365",
+            "BeginOffset": 3,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.9592462182044983,
+            "Type": "LOCATION",
+            "Text": "USA",
+            "BeginOffset": 7,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9808109402656555,
+            "Type": "OTHER",
+            "Text": "https://t.co/zITwci1IFy",
+            "BeginOffset": 76,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.8745373487472534,
+            "Type": "PERSON",
+            "Text": "@WildBillUSA",
+            "BeginOffset": 100,
+            "EndOffset": 112
+        }
+    ]
+}

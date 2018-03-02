@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7820919752120972,
+            "Type": "PERSON",
+            "Text": "@realDailyWire",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9054715633392334,
+            "Type": "QUANTITY",
+            "Text": "5 Main Myths",
+            "BeginOffset": 19,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.994175374507904,
+            "Type": "PERSON",
+            "Text": "Jeff Sessions",
+            "BeginOffset": 38,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.999687910079956,
+            "Type": "OTHER",
+            "Text": "https://t.co/43dkONgNGe",
+            "BeginOffset": 61,
+            "EndOffset": 84
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4812186360359192,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8298768401145935,
+            "Type": "PERSON",
+            "Text": "@MsTexas1967",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        }
+    ]
+}

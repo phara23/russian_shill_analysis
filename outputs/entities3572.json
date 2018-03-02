@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8453472256660461,
+            "Type": "PERSON",
+            "Text": "Biden",
+            "BeginOffset": 24,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.927953839302063,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 34,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9578741788864136,
+            "Type": "OTHER",
+            "Text": "https://t.co/jpCZV0Mhg3",
+            "BeginOffset": 44,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9999593496322632,
+            "Type": "OTHER",
+            "Text": "https://t.co/TrXapRHab5",
+            "BeginOffset": 68,
+            "EndOffset": 91
+        }
+    ]
+}

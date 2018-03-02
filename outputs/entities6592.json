@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8958479166030884,
+            "Type": "PERSON",
+            "Text": "John Wilkes",
+            "BeginOffset": 0,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.7596683502197266,
+            "Type": "PERSON",
+            "Text": "@midnight",
+            "BeginOffset": 39,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9997934699058533,
+            "Type": "OTHER",
+            "Text": "https://t.co/G78zaDgbBR",
+            "BeginOffset": 49,
+            "EndOffset": 72
+        }
+    ]
+}

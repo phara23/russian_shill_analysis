@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9508949518203735,
+            "Type": "PERSON",
+            "Text": "@Jail_Killery",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.36118993163108826,
+            "Type": "PERSON",
+            "Text": "#Hillary",
+            "BeginOffset": 18,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9389786720275879,
+            "Type": "QUANTITY",
+            "Text": "1",
+            "BeginOffset": 56,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.6714592576026917,
+            "Type": "QUANTITY",
+            "Text": "4",
+            "BeginOffset": 65,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.7922842502593994,
+            "Type": "LOCATION",
+            "Text": "Benghazi",
+            "BeginOffset": 67,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.8694970011711121,
+            "Type": "OTHER",
+            "Text": "https://t.co/UTbUjYM6Ku",
+            "BeginOffset": 84,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.6680173277854919,
+            "Type": "ORGANIZATION",
+            "Text": "#ClintonScandals",
+            "BeginOffset": 108,
+            "EndOffset": 124
+        }
+    ]
+}

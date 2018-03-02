@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8614636659622192,
+            "Type": "PERSON",
+            "Text": "@ajfromhouston",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.5394550561904907,
+            "Type": "LOCATION",
+            "Text": "FLORIDA PANHANDLE",
+            "BeginOffset": 37,
+            "EndOffset": 54
+        }
+    ]
+}

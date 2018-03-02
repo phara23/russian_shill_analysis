@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.859591007232666,
+            "Type": "PERSON",
+            "Text": "@alfonslopeztena",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8888660669326782,
+            "Type": "LOCATION",
+            "Text": "Ukraine",
+            "BeginOffset": 21,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.6074630618095398,
+            "Type": "LOCATION",
+            "Text": "Russia",
+            "BeginOffset": 41,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.8145346641540527,
+            "Type": "OTHER",
+            "Text": "https://t.co/LI5DEDDTRv",
+            "BeginOffset": 74,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.9999539852142334,
+            "Type": "OTHER",
+            "Text": "https://t.co/Lb7Edhy5XJ",
+            "BeginOffset": 98,
+            "EndOffset": 121
+        }
+    ]
+}

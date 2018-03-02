@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.999908983707428,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 0,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8334086537361145,
+            "Type": "EVENT",
+            "Text": "National Baptist Convention",
+            "BeginOffset": 46,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.8865704536437988,
+            "Type": "OTHER",
+            "Text": "https://t.co/NzGUMdrj2a",
+            "BeginOffset": 74,
+            "EndOffset": 97
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8903564810752869,
+            "Type": "PERSON",
+            "Text": "@Writeintrump",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.98899906873703,
+            "Type": "DATE",
+            "Text": "today",
+            "BeginOffset": 49,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9908027648925781,
+            "Type": "ORGANIZATION",
+            "Text": "CNN",
+            "BeginOffset": 89,
+            "EndOffset": 92
+        }
+    ]
+}

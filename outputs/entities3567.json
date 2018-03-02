@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8722208738327026,
+            "Type": "PERSON",
+            "Text": "@slone",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9959379434585571,
+            "Type": "PERSON",
+            "Text": "Peterson",
+            "BeginOffset": 11,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.970870316028595,
+            "Type": "OTHER",
+            "Text": "http://t.co/",
+            "BeginOffset": 127,
+            "EndOffset": 139
+        }
+    ]
+}

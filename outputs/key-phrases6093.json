@@ -1,0 +1,34 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.998781144618988,
+            "Text": "Trump",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9982426762580872,
+            "Text": "a new policy agenda",
+            "BeginOffset": 29,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9892650246620178,
+            "Text": "the American economy”",
+            "BeginOffset": 67,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9486570954322815,
+            "Text": "a speech",
+            "BeginOffset": 92,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.9564113020896912,
+            "Text": "Monday",
+            "BeginOffset": 101,
+            "EndOffset": 107
+        }
+    ]
+}

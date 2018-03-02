@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8275241255760193,
+            "Type": "PERSON",
+            "Text": "@DLTrunnell",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8178222179412842,
+            "Type": "PERSON",
+            "Text": "@EnigmaNetxx",
+            "BeginOffset": 16,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.8441290259361267,
+            "Type": "PERSON",
+            "Text": "Assange",
+            "BeginOffset": 84,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.9939099550247192,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 94,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.5780414342880249,
+            "Type": "ORGANIZATION",
+            "Text": "PBO",
+            "BeginOffset": 120,
+            "EndOffset": 123
+        }
+    ]
+}

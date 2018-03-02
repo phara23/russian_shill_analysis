@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.835090696811676,
+            "Type": "PERSON",
+            "Text": "@ETRandall",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.7111266851425171,
+            "Type": "DATE",
+            "Text": "#2016",
+            "BeginOffset": 15,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.9369844794273376,
+            "Type": "QUANTITY",
+            "Text": "4Words",
+            "BeginOffset": 22,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9929772019386292,
+            "Type": "DATE",
+            "Text": "2017",
+            "BeginOffset": 35,
+            "EndOffset": 39
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9247714877128601,
+            "Type": "PERSON",
+            "Text": "@cooluser51",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9340260028839111,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 45,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9995878338813782,
+            "Type": "OTHER",
+            "Text": "https://t.co/WlMFQmMbeI",
+            "BeginOffset": 95,
+            "EndOffset": 118
+        }
+    ]
+}

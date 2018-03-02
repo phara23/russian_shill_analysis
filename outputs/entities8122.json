@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9486739039421082,
+            "Type": "PERSON",
+            "Text": "@keeg1616",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.6340017318725586,
+            "Type": "DATE",
+            "Text": "#2016",
+            "BeginOffset": 30,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.6679341793060303,
+            "Type": "QUANTITY",
+            "Text": "3Words",
+            "BeginOffset": 45,
+            "EndOffset": 51
+        }
+    ]
+}

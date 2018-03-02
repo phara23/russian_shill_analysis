@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8149771094322205,
+            "Type": "PERSON",
+            "Text": "@youngsinick",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9982779026031494,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 75,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.9999446868896484,
+            "Type": "OTHER",
+            "Text": "https://t.co/aZ6m3bTlvg",
+            "BeginOffset": 112,
+            "EndOffset": 135
+        }
+    ]
+}

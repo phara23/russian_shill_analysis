@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9197311401367188,
+            "Type": "PERSON",
+            "Text": "@Cernovich",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8968455195426941,
+            "Type": "PERSON",
+            "Text": "@dhh",
+            "BeginOffset": 39,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9959152340888977,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 54,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.99164879322052,
+            "Type": "PERSON",
+            "Text": "Castro",
+            "BeginOffset": 77,
+            "EndOffset": 83
+        }
+    ]
+}

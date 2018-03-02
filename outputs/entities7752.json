@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8913331627845764,
+            "Type": "PERSON",
+            "Text": "@ZDFschwerin",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7283564805984497,
+            "Type": "LOCATION",
+            "Text": "Schwerin",
+            "BeginOffset": 30,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9998897314071655,
+            "Type": "OTHER",
+            "Text": "https://t.co/6UblGtmgK3",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        }
+    ]
+}

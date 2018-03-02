@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.913031280040741,
+            "Type": "PERSON",
+            "Text": "@JOMainEvent",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8090969920158386,
+            "Type": "PERSON",
+            "Text": "@greta",
+            "BeginOffset": 18,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9349914193153381,
+            "Type": "ORGANIZATION",
+            "Text": "@MSNBC",
+            "BeginOffset": 95,
+            "EndOffset": 101
+        }
+    ]
+}

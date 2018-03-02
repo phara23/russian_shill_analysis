@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7425256967544556,
+            "Type": "PERSON",
+            "Text": "@ElectionLawCtr",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9306615591049194,
+            "Type": "PERSON",
+            "Text": "Steve #Bannon",
+            "BeginOffset": 51,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9824009537696838,
+            "Type": "OTHER",
+            "Text": "https://t.co/GWdZ4Z7rc9",
+            "BeginOffset": 71,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.5229586362838745,
+            "Type": "PERSON",
+            "Text": "#Trump",
+            "BeginOffset": 95,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.5169503688812256,
+            "Type": "PERSON",
+            "Text": "#NeverTrump",
+            "BeginOffset": 102,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.3646061420440674,
+            "Type": "PERSON",
+            "Text": "#Israel",
+            "BeginOffset": 114,
+            "EndOffset": 121
+        },
+        {
+            "Score": 0.56523597240448,
+            "Type": "PERSON",
+            "Text": "#Jewish",
+            "BeginOffset": 122,
+            "EndOffset": 129
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9168590903282166,
+            "Type": "PERSON",
+            "Text": "@ajplus",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.34166622161865234,
+            "Type": "ORGANIZATION",
+            "Text": "Michelin",
+            "BeginOffset": 55,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9999368190765381,
+            "Type": "OTHER",
+            "Text": "https://t.co/ii5MxI1hp1",
+            "BeginOffset": 72,
+            "EndOffset": 95
+        }
+    ]
+}

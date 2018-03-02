@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7689109444618225,
+            "Type": "PERSON",
+            "Text": "@LJCuzzort",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9460768103599548,
+            "Type": "PERSON",
+            "Text": "@deneenborelli",
+            "BeginOffset": 15,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.975272536277771,
+            "Type": "PERSON",
+            "Text": "@JustinTHollJr",
+            "BeginOffset": 30,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9981638193130493,
+            "Type": "PERSON",
+            "Text": "@jborelli27",
+            "BeginOffset": 45,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9771446585655212,
+            "Type": "PERSON",
+            "Text": "@tomborelli",
+            "BeginOffset": 57,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9945584535598755,
+            "Type": "PERSON",
+            "Text": "@Joe_Borelli",
+            "BeginOffset": 69,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.8410714268684387,
+            "Type": "EVENT",
+            "Text": "New Year",
+            "BeginOffset": 88,
+            "EndOffset": 96
+        }
+    ]
+}

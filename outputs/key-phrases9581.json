@@ -1,0 +1,34 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.6465710997581482,
+            "Text": "Trump",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9330822229385376,
+            "Text": "list",
+            "BeginOffset": 12,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9167208075523376,
+            "Text": "Speech",
+            "BeginOffset": 18,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9917762279510498,
+            "Text": "agenda",
+            "BeginOffset": 36,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9301559925079346,
+            "Text": "1st 100 days",
+            "BeginOffset": 47,
+            "EndOffset": 59
+        }
+    ]
+}

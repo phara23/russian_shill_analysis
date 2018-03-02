@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8675016164779663,
+            "Type": "PERSON",
+            "Text": "@BARON_1987",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.789942741394043,
+            "Type": "PERSON",
+            "Text": "Batman",
+            "BeginOffset": 32,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9542122483253479,
+            "Type": "PERSON",
+            "Text": "Batman",
+            "BeginOffset": 42,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9999493360519409,
+            "Type": "OTHER",
+            "Text": "https://t.co/HqIfBOv2qW",
+            "BeginOffset": 49,
+            "EndOffset": 72
+        }
+    ]
+}

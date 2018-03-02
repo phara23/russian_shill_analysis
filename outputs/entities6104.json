@@ -1,0 +1,74 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5411344766616821,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8624870777130127,
+            "Type": "ORGANIZATION",
+            "Text": "@Hutch_USA",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8719666600227356,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 15,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8397398591041565,
+            "Type": "ORGANIZATION",
+            "Text": "@TeaParty_Rising",
+            "BeginOffset": 18,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.32412639260292053,
+            "Type": "PERSON",
+            "Text": "Savage",
+            "BeginOffset": 36,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9657458066940308,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 45,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.5541020035743713,
+            "Type": "QUANTITY",
+            "Text": "6",
+            "BeginOffset": 70,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9662829637527466,
+            "Type": "ORGANIZATION",
+            "Text": "Muslims",
+            "BeginOffset": 75,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.9740592241287231,
+            "Type": "OTHER",
+            "Text": "https://t.co/NRjWA67lX4",
+            "BeginOffset": 95,
+            "EndOffset": 118
+        },
+        {
+            "Score": 0.9942376613616943,
+            "Type": "OTHER",
+            "Text": "https://t.co/7tGhH2n",
+            "BeginOffset": 119,
+            "EndOffset": 139
+        }
+    ]
+}

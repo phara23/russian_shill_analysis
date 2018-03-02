@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8594560623168945,
+            "Type": "PERSON",
+            "Text": "@NOrleansDaily",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8775272965431213,
+            "Type": "ORGANIZATION",
+            "Text": "Covington City Council",
+            "BeginOffset": 61,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.9632030129432678,
+            "Type": "DATE",
+            "Text": "Tuesday",
+            "BeginOffset": 84,
+            "EndOffset": 91
+        }
+    ]
+}

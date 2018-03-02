@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9190589189529419,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 8,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.949424684047699,
+            "Type": "QUANTITY",
+            "Text": "6 officers",
+            "BeginOffset": 61,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9700460433959961,
+            "Type": "QUANTITY",
+            "Text": "3 officers",
+            "BeginOffset": 78,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9998088479042053,
+            "Type": "OTHER",
+            "Text": "https://t.co/2BCdpMnena",
+            "BeginOffset": 94,
+            "EndOffset": 117
+        }
+    ]
+}

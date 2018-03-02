@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7337048649787903,
+            "Type": "ORGANIZATION",
+            "Text": "@USATODAY",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9949581027030945,
+            "Type": "LOCATION",
+            "Text": "Europe",
+            "BeginOffset": 41,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9973068237304688,
+            "Type": "OTHER",
+            "Text": "https://t.co/ENu0Ime4H2",
+            "BeginOffset": 49,
+            "EndOffset": 72
+        }
+    ]
+}

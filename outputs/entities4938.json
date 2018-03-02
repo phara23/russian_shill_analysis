@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8094657063484192,
+            "Type": "PERSON",
+            "Text": "@GeeksOfColor",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9973048567771912,
+            "Type": "PERSON",
+            "Text": "John Boyega",
+            "BeginOffset": 29,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9997053742408752,
+            "Type": "OTHER",
+            "Text": "https://t.co/bbOAW2nPst",
+            "BeginOffset": 82,
+            "EndOffset": 105
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.958217203617096,
+            "Type": "PERSON",
+            "Text": "Schiff",
+            "BeginOffset": 5,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.998306155204773,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 13,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9979028701782227,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 64,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.9997915625572205,
+            "Type": "OTHER",
+            "Text": "https://t.co/6ahuhNlAOz",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9929932951927185,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 33,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.5851743817329407,
+            "Type": "OTHER",
+            "Text": "American",
+            "BeginOffset": 52,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9674680829048157,
+            "Type": "TITLE",
+            "Text": "Obamacare",
+            "BeginOffset": 78,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.9998434782028198,
+            "Type": "OTHER",
+            "Text": "https://t.co/jr3rPUPe9N",
+            "BeginOffset": 94,
+            "EndOffset": 117
+        }
+    ]
+}

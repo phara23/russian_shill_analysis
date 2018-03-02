@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9004643559455872,
+            "Type": "PERSON",
+            "Text": "@TeamTrump",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.5465959906578064,
+            "Type": "PERSON",
+            "Text": "Barletta",
+            "BeginOffset": 27,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9658634662628174,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 49,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.8166118264198303,
+            "Type": "OTHER",
+            "Text": "https://t.co/7oUwxtmI6q",
+            "BeginOffset": 85,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.9999839067459106,
+            "Type": "OTHER",
+            "Text": "https://t.co/19ODBtq71g",
+            "BeginOffset": 109,
+            "EndOffset": 132
+        }
+    ]
+}

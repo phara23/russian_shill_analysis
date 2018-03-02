@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8594650030136108,
+            "Type": "PERSON",
+            "Text": "@zerohedge",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.5529565215110779,
+            "Type": "ORGANIZATION",
+            "Text": "BOE",
+            "BeginOffset": 15,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7587805986404419,
+            "Type": "QUANTITY",
+            "Text": "7",
+            "BeginOffset": 38,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9547788500785828,
+            "Type": "QUANTITY",
+            "Text": "15 year",
+            "BeginOffset": 40,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.967339813709259,
+            "Type": "QUANTITY",
+            "Text": "3.01",
+            "BeginOffset": 62,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9470841288566589,
+            "Type": "QUANTITY",
+            "Text": "3.08",
+            "BeginOffset": 70,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9999847412109375,
+            "Type": "OTHER",
+            "Text": "https://t.co/VoY2eCny74",
+            "BeginOffset": 80,
+            "EndOffset": 103
+        }
+    ]
+}

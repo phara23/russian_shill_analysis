@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.34184595942497253,
+            "Type": "QUANTITY",
+            "Text": "15",
+            "BeginOffset": 16,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9310981035232544,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 61,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.8120689988136292,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 90,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.5666857361793518,
+            "Type": "ORGANIZATION",
+            "Text": "@closer",
+            "BeginOffset": 105,
+            "EndOffset": 112
+        }
+    ]
+}

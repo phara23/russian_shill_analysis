@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.887846052646637,
+            "Type": "PERSON",
+            "Text": "@TheLordHasSpoke",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.6956244111061096,
+            "Type": "PERSON",
+            "Text": "@midnight",
+            "BeginOffset": 58,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9998520612716675,
+            "Type": "OTHER",
+            "Text": "https://t.co/zsuT2EtXSo",
+            "BeginOffset": 68,
+            "EndOffset": 91
+        }
+    ]
+}

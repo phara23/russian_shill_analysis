@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.99227374792099,
+            "Type": "ORGANIZATION",
+            "Text": "Twitter",
+            "BeginOffset": 7,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9967836737632751,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 28,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.566663384437561,
+            "Type": "QUANTITY",
+            "Text": "16",
+            "BeginOffset": 82,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9344482421875,
+            "Type": "OTHER",
+            "Text": "https://t.co/G5Nr1PSA7v",
+            "BeginOffset": 85,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.9999632835388184,
+            "Type": "OTHER",
+            "Text": "https://t.co/ePWu7FGV6K",
+            "BeginOffset": 109,
+            "EndOffset": 132
+        }
+    ]
+}

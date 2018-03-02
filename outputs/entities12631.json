@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9328826665878296,
+            "Type": "PERSON",
+            "Text": "@WeNeedTrump",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8992917537689209,
+            "Type": "PERSON",
+            "Text": "Reno Trump",
+            "BeginOffset": 21,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9859767556190491,
+            "Type": "PERSON",
+            "Text": "Austyn Crites",
+            "BeginOffset": 42,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.8790718913078308,
+            "Type": "ORGANIZATION",
+            "Text": "@wikileaks",
+            "BeginOffset": 70,
+            "EndOffset": 80
+        }
+    ]
+}

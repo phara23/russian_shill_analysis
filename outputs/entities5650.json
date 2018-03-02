@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9087048172950745,
+            "Type": "PERSON",
+            "Text": "@JaceFord22",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8442897200584412,
+            "Type": "PERSON",
+            "Text": "@valdostastate",
+            "BeginOffset": 16,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9978911280632019,
+            "Type": "PERSON",
+            "Text": "Michelle Manhart",
+            "BeginOffset": 47,
+            "EndOffset": 63
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9531776905059814,
+            "Type": "PERSON",
+            "Text": "@DragonflyJonez",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.6495814323425293,
+            "Type": "TITLE",
+            "Text": "The Wash",
+            "BeginOffset": 47,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9880726337432861,
+            "Type": "PERSON",
+            "Text": "Ross",
+            "BeginOffset": 61,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9955279231071472,
+            "Type": "PERSON",
+            "Text": "Gucci",
+            "BeginOffset": 70,
+            "EndOffset": 75
+        }
+    ]
+}

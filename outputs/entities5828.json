@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8681447505950928,
+            "Type": "PERSON",
+            "Text": "@nautilus55",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7446866035461426,
+            "Type": "PERSON",
+            "Text": "Key Clinton",
+            "BeginOffset": 36,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9644734263420105,
+            "Type": "OTHER",
+            "Text": "https://t.co/6b7tgVcN66",
+            "BeginOffset": 100,
+            "EndOffset": 123
+        },
+        {
+            "Score": 0.8312533497810364,
+            "Type": "ORGANIZATION",
+            "Text": "@ConservaVi",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

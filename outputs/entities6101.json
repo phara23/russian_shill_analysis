@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9930620789527893,
+            "Type": "PERSON",
+            "Text": "@stephen_taylor",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9853294491767883,
+            "Type": "PERSON",
+            "Text": "Will Mulcair",
+            "BeginOffset": 20,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9947288632392883,
+            "Type": "PERSON",
+            "Text": "Trudeau",
+            "BeginOffset": 37,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.6594334244728088,
+            "Type": "LOCATION",
+            "Text": "Quebec",
+            "BeginOffset": 67,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.8397687673568726,
+            "Type": "LOCATION",
+            "Text": "French",
+            "BeginOffset": 108,
+            "EndOffset": 114
+        }
+    ]
+}

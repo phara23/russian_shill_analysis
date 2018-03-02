@@ -1,0 +1,74 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7016032338142395,
+            "Type": "QUANTITY",
+            "Text": "74f",
+            "BeginOffset": 4,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.6834759712219238,
+            "Type": "QUANTITY",
+            "Text": "5c",
+            "BeginOffset": 7,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.7021365165710449,
+            "Type": "QUANTITY",
+            "Text": "728e",
+            "BeginOffset": 9,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.7542015910148621,
+            "Type": "QUANTITY",
+            "Text": "7d",
+            "BeginOffset": 13,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.74262535572052,
+            "Type": "QUANTITY",
+            "Text": "446d",
+            "BeginOffset": 15,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.7714338898658752,
+            "Type": "PERSON",
+            "Text": "Hillary Orlando",
+            "BeginOffset": 21,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9656128287315369,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 65,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.8702261447906494,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 79,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.5312482118606567,
+            "Type": "LOCATION",
+            "Text": "Florida",
+            "BeginOffset": 95,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.8399136066436768,
+            "Type": "OTHER",
+            "Text": "https://t.co/uvREoeaWb2",
+            "BeginOffset": 114,
+            "EndOffset": 137
+        }
+    ]
+}

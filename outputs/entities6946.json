@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9310847520828247,
+            "Type": "PERSON",
+            "Text": "@HowardKurtz",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7829976677894592,
+            "Type": "QUANTITY",
+            "Text": "Both candidates",
+            "BeginOffset": 17,
+            "EndOffset": 32
+        }
+    ]
+}

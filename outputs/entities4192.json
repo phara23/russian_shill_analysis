@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8913050889968872,
+            "Type": "PERSON",
+            "Text": "@SecretsBedard",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9863124489784241,
+            "Type": "PERSON",
+            "Text": "Pence",
+            "BeginOffset": 19,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9966859221458435,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 31,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9973379969596863,
+            "Type": "PERSON",
+            "Text": "Reagan",
+            "BeginOffset": 38,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9172807931900024,
+            "Type": "OTHER",
+            "Text": "https://t.co/Wo38wes1Mj",
+            "BeginOffset": 84,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.8893792033195496,
+            "Type": "ORGANIZATION",
+            "Text": "@DCExaminer",
+            "BeginOffset": 112,
+            "EndOffset": 123
+        },
+        {
+            "Score": 0.9645431041717529,
+            "Type": "OTHER",
+            "Text": "https://t.co/E3",
+            "BeginOffset": 124,
+            "EndOffset": 139
+        }
+    ]
+}

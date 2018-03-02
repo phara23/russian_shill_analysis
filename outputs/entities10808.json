@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6907092332839966,
+            "Type": "ORGANIZATION",
+            "Text": "@DEfortheBG",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9678540229797363,
+            "Type": "PERSON",
+            "Text": "@robynwalensky1",
+            "BeginOffset": 16,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.8024362325668335,
+            "Type": "PERSON",
+            "Text": "@DocThompsonShow",
+            "BeginOffset": 32,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9998213648796082,
+            "Type": "OTHER",
+            "Text": "https://t.co/60R2RCmtBe",
+            "BeginOffset": 69,
+            "EndOffset": 92
+        }
+    ]
+}

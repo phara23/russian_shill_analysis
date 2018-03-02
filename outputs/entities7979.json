@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9171145558357239,
+            "Type": "PERSON",
+            "Text": "@ghalianno",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8691104054450989,
+            "Type": "QUANTITY",
+            "Text": "4 Year",
+            "BeginOffset": 24,
+            "EndOffset": 30
+        }
+    ]
+}

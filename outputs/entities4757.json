@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6301552653312683,
+            "Type": "PERSON",
+            "Text": "@RobotSteve",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9972912669181824,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 14,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.791362464427948,
+            "Type": "ORGANIZATION",
+            "Text": "Sydney Morning Herald",
+            "BeginOffset": 20,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9964269995689392,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 42,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.8625200390815735,
+            "Type": "QUANTITY",
+            "Text": "5 yr old",
+            "BeginOffset": 85,
+            "EndOffset": 93
+        }
+    ]
+}

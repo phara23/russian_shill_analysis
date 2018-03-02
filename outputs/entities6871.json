@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7175320386886597,
+            "Type": "PERSON",
+            "Text": "@AltRights",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9535281658172607,
+            "Type": "QUANTITY",
+            "Text": "25%",
+            "BeginOffset": 37,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9907374382019043,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 61,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.9796062111854553,
+            "Type": "DATE",
+            "Text": "today",
+            "BeginOffset": 83,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.6696672439575195,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 129,
+            "EndOffset": 138
+        }
+    ]
+}

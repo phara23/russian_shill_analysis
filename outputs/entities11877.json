@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9189046025276184,
+            "Type": "PERSON",
+            "Text": "Donald Trump Canton",
+            "BeginOffset": 0,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9782789945602417,
+            "Type": "DATE",
+            "Text": "7 p.m.",
+            "BeginOffset": 38,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.8674689531326294,
+            "Type": "OTHER",
+            "Text": "https://t.co/ZbghNDOtkV",
+            "BeginOffset": 61,
+            "EndOffset": 84
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8219940066337585,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.6516136527061462,
+            "Type": "ORGANIZATION",
+            "Text": "Travelodge Hotel",
+            "BeginOffset": 64,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.9999371767044067,
+            "Type": "OTHER",
+            "Text": "https://t.co/UD3EGVhLG8",
+            "BeginOffset": 86,
+            "EndOffset": 109
+        }
+    ]
+}

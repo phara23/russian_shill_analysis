@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8936271071434021,
+            "Type": "PERSON",
+            "Text": "@dstfelix",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.5722450017929077,
+            "Type": "ORGANIZATION",
+            "Text": "America",
+            "BeginOffset": 113,
+            "EndOffset": 120
+        }
+    ]
+}

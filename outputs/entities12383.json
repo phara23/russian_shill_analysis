@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8844563961029053,
+            "Type": "PERSON",
+            "Text": "@conorfsheridan",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9952006340026855,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 50,
+            "EndOffset": 55
+        }
+    ]
+}

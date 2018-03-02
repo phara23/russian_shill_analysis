@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8884879946708679,
+            "Type": "PERSON",
+            "Text": "@MsAvaArmstrong",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.5615281462669373,
+            "Type": "QUANTITY",
+            "Text": "one",
+            "BeginOffset": 40,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9984216094017029,
+            "Type": "PERSON",
+            "Text": "Ava Armstrong",
+            "BeginOffset": 71,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9165294170379639,
+            "Type": "QUANTITY",
+            "Text": "5.0 Stars",
+            "BeginOffset": 100,
+            "EndOffset": 109
+        },
+        {
+            "Score": 0.9297448396682739,
+            "Type": "OTHER",
+            "Text": "https://t.co/TBLAogk9rg",
+            "BeginOffset": 111,
+            "EndOffset": 134
+        }
+    ]
+}

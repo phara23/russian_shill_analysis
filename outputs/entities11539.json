@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6769506335258484,
+            "Type": "PERSON",
+            "Text": "@AR15",
+            "BeginOffset": 3,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.42012348771095276,
+            "Type": "ORGANIZATION",
+            "Text": "Aresenal",
+            "BeginOffset": 20,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9943791031837463,
+            "Type": "COMMERCIAL_ITEM",
+            "Text": "SLR107",
+            "BeginOffset": 29,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.7765718698501587,
+            "Type": "COMMERCIAL_ITEM",
+            "Text": "SAM7",
+            "BeginOffset": 40,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9801905751228333,
+            "Type": "DATE",
+            "Text": "2017",
+            "BeginOffset": 59,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9996902942657471,
+            "Type": "OTHER",
+            "Text": "https://t.co/ZVvbsg2gjk",
+            "BeginOffset": 65,
+            "EndOffset": 88
+        }
+    ]
+}

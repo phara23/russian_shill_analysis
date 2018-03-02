@@ -1,0 +1,28 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9352781772613525,
+            "Text": "Pence",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.96932452917099,
+            "Text": "Clinton",
+            "BeginOffset": 9,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7065154910087585,
+            "Text": "Most Dishonest",
+            "BeginOffset": 19,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9754825234413147,
+            "Text": "Richard Nixon",
+            "BeginOffset": 40,
+            "EndOffset": 53
+        }
+    ]
+}

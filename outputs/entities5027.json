@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7487025260925293,
+            "Type": "PERSON",
+            "Text": "@AlRobins2015",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9654446244239807,
+            "Type": "ORGANIZATION",
+            "Text": "Clinton Foundation",
+            "BeginOffset": 53,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9745543599128723,
+            "Type": "OTHER",
+            "Text": "https://t.co/CKsdiSpCJI",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        },
+        {
+            "Score": 0.9311612844467163,
+            "Type": "ORGANIZATION",
+            "Text": "@TheWe",
+            "BeginOffset": 133,
+            "EndOffset": 139
+        }
+    ]
+}

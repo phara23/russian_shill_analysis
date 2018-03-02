@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8678369522094727,
+            "Type": "PERSON",
+            "Text": "@alexburnsNYT",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9984886646270752,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 30,
+            "EndOffset": 35
+        }
+    ]
+}

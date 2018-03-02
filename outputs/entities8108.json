@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8267433047294617,
+            "Type": "PERSON",
+            "Text": "@theinquisitr",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9937491416931152,
+            "Type": "PERSON",
+            "Text": "Kate Middleton",
+            "BeginOffset": 18,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9999738931655884,
+            "Type": "OTHER",
+            "Text": "https://t.co/UgD8A0vokV",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        }
+    ]
+}

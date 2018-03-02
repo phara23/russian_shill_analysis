@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7830947637557983,
+            "Type": "PERSON",
+            "Text": "@OnlineHouston",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9976529479026794,
+            "Type": "ORGANIZATION",
+            "Text": "FBI",
+            "BeginOffset": 19,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9765541553497314,
+            "Type": "DATE",
+            "Text": "Friday",
+            "BeginOffset": 37,
+            "EndOffset": 43
+        }
+    ]
+}

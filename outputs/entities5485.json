@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.881087601184845,
+            "Type": "ORGANIZATION",
+            "Text": "#US Defense Department",
+            "BeginOffset": 0,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9999529123306274,
+            "Type": "OTHER",
+            "Text": "https://t.co/LPV90RaTqL",
+            "BeginOffset": 121,
+            "EndOffset": 144
+        }
+    ]
+}

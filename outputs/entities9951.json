@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7768463492393494,
+            "Type": "PERSON",
+            "Text": "@_fudgetosser",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.6074709892272949,
+            "Type": "DATE",
+            "Text": "#2017",
+            "BeginOffset": 19,
+            "EndOffset": 24
+        }
+    ]
+}

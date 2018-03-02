@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9307093024253845,
+            "Type": "PERSON",
+            "Text": "@frenchfortrump",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.4992496967315674,
+            "Type": "OTHER",
+            "Text": "French",
+            "BeginOffset": 25,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9256998896598816,
+            "Type": "QUANTITY",
+            "Text": "5 Languages",
+            "BeginOffset": 51,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.7274554967880249,
+            "Type": "PERSON",
+            "Text": "@FLOTUS",
+            "BeginOffset": 83,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.973615288734436,
+            "Type": "PERSON",
+            "Text": "@chelseahandler",
+            "BeginOffset": 91,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.9334574937820435,
+            "Type": "QUANTITY",
+            "Text": "1 la",
+            "BeginOffset": 135,
+            "EndOffset": 139
+        }
+    ]
+}

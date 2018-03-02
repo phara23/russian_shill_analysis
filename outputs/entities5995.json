@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8950648903846741,
+            "Type": "PERSON",
+            "Text": "@kurteichenwald",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9754718542098999,
+            "Type": "DATE",
+            "Text": "2000",
+            "BeginOffset": 38,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.8319036364555359,
+            "Type": "TITLE",
+            "Text": "The Informant: A True Story, 2 show how information",
+            "BeginOffset": 44,
+            "EndOffset": 95
+        }
+    ]
+}

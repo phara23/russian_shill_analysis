@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6576804518699646,
+            "Type": "PERSON",
+            "Text": "@UTVReview",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9557968378067017,
+            "Type": "DATE",
+            "Text": "March 3",
+            "BeginOffset": 54,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.6474353671073914,
+            "Type": "DATE",
+            "Text": "10",
+            "BeginOffset": 62,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.4784550666809082,
+            "Type": "ORGANIZATION",
+            "Text": "Bend Bulletin",
+            "BeginOffset": 67,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.9868773221969604,
+            "Type": "OTHER",
+            "Text": "https://t.co/8wt71nAdPQ",
+            "BeginOffset": 82,
+            "EndOffset": 105
+        }
+    ]
+}

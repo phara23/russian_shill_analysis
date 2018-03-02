@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9147529602050781,
+            "Type": "PERSON",
+            "Text": "@KurtSchlichter",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.999321699142456,
+            "Type": "OTHER",
+            "Text": "https://t.co/ooIKTJhaNo",
+            "BeginOffset": 60,
+            "EndOffset": 83
+        }
+    ]
+}

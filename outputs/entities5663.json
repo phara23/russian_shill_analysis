@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6305029392242432,
+            "Type": "PERSON",
+            "Text": "@astrologistic",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7972779870033264,
+            "Type": "PERSON",
+            "Text": "@XLNB",
+            "BeginOffset": 19,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9773150682449341,
+            "Type": "LOCATION",
+            "Text": "GA",
+            "BeginOffset": 63,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9999152421951294,
+            "Type": "OTHER",
+            "Text": "https://t.co/9fMuBF6Fic",
+            "BeginOffset": 85,
+            "EndOffset": 108
+        }
+    ]
+}

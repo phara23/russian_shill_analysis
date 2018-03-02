@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5861625671386719,
+            "Type": "PERSON",
+            "Text": "Betty",
+            "BeginOffset": 4,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.8290582299232483,
+            "Type": "PERSON",
+            "Text": "@midnight",
+            "BeginOffset": 33,
+            "EndOffset": 42
+        }
+    ]
+}

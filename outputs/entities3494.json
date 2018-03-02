@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6960390210151672,
+            "Type": "PERSON",
+            "Text": "@FreedomFOA",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.4155467748641968,
+            "Type": "ORGANIZATION",
+            "Text": "#FFOA",
+            "BeginOffset": 16,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9999611377716064,
+            "Type": "OTHER",
+            "Text": "https://t.co/fud6dXfOjM",
+            "BeginOffset": 36,
+            "EndOffset": 59
+        }
+    ]
+}

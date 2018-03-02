@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8340784907341003,
+            "Type": "PERSON",
+            "Text": "@theinquisitr",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9986769556999207,
+            "Type": "PERSON",
+            "Text": "Taylor Swift",
+            "BeginOffset": 18,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9947311282157898,
+            "Type": "PERSON",
+            "Text": "Hailey Baldwin",
+            "BeginOffset": 35,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9988119602203369,
+            "Type": "PERSON",
+            "Text": "Gigi Hadid",
+            "BeginOffset": 76,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9999357461929321,
+            "Type": "OTHER",
+            "Text": "https://t.co/zlhvUnV790",
+            "BeginOffset": 100,
+            "EndOffset": 123
+        }
+    ]
+}

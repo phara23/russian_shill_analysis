@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5342186093330383,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.7924308776855469,
+            "Type": "PERSON",
+            "Text": "@Italians4Trump",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9673128724098206,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 20,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.7829660773277283,
+            "Type": "ORGANIZATION",
+            "Text": "FBI",
+            "BeginOffset": 33,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9999774694442749,
+            "Type": "OTHER",
+            "Text": "https://t.co/GYQ9R1u0nu",
+            "BeginOffset": 51,
+            "EndOffset": 74
+        }
+    ]
+}

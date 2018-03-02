@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7845263481140137,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.7969144582748413,
+            "Type": "QUANTITY",
+            "Text": "25 Hilarious Cake Ideas",
+            "BeginOffset": 13,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9600719213485718,
+            "Type": "OTHER",
+            "Text": "https://t.co/nwdE05I",
+            "BeginOffset": 119,
+            "EndOffset": 139
+        }
+    ]
+}

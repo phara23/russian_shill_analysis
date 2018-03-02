@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7114183902740479,
+            "Type": "ORGANIZATION",
+            "Text": "@T3TruthSeeker",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7633717060089111,
+            "Type": "PERSON",
+            "Text": "@_0Hour",
+            "BeginOffset": 19,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.6395962834358215,
+            "Type": "QUANTITY",
+            "Text": "1__",
+            "BeginOffset": 26,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.8490251302719116,
+            "Type": "PERSON",
+            "Text": "@DorisTruong",
+            "BeginOffset": 30,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.8211685419082642,
+            "Type": "PERSON",
+            "Text": "@washingtonpost",
+            "BeginOffset": 43,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9787216186523438,
+            "Type": "PERSON",
+            "Text": "@DanScavino",
+            "BeginOffset": 59,
+            "EndOffset": 70
+        }
+    ]
+}

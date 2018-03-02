@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8060861229896545,
+            "Type": "PERSON",
+            "Text": "@LovelyLowEnd",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7134337425231934,
+            "Type": "OTHER",
+            "Text": "American",
+            "BeginOffset": 41,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.90067058801651,
+            "Type": "ORGANIZATION",
+            "Text": "Dem Party",
+            "BeginOffset": 78,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.7851787805557251,
+            "Type": "PERSON",
+            "Text": "Roosevelt",
+            "BeginOffset": 129,
+            "EndOffset": 138
+        }
+    ]
+}

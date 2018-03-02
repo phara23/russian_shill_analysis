@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8558827042579651,
+            "Type": "PERSON",
+            "Text": "@kattographer",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9509807825088501,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 53,
+            "EndOffset": 58
+        }
+    ]
+}

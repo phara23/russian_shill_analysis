@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7953611016273499,
+            "Type": "PERSON",
+            "Text": "@AlPunto",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9645799398422241,
+            "Type": "PERSON",
+            "Text": "@AdryanaBoyne",
+            "BeginOffset": 14,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.8576146960258484,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 30,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9972341060638428,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 69,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9362266063690186,
+            "Type": "DATE",
+            "Text": "10am",
+            "BeginOffset": 110,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.6734451651573181,
+            "Type": "DATE",
+            "Text": "9c/1pac",
+            "BeginOffset": 115,
+            "EndOffset": 122
+        },
+        {
+            "Score": 0.9688313603401184,
+            "Type": "OTHER",
+            "Text": "https://t.co/7wI",
+            "BeginOffset": 123,
+            "EndOffset": 139
+        }
+    ]
+}

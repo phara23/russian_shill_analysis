@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.849605917930603,
+            "Type": "PERSON",
+            "Text": "@ScreamyMonkey",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7849841117858887,
+            "Type": "PERSON",
+            "Text": "U.S. House Speaker Hastert",
+            "BeginOffset": 35,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.999968409538269,
+            "Type": "OTHER",
+            "Text": "http://t.co/ETxsMFTK5Y",
+            "BeginOffset": 91,
+            "EndOffset": 113
+        }
+    ]
+}

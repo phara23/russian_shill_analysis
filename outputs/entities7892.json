@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.911711573600769,
+            "Type": "PERSON",
+            "Text": "@SenWarren",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9354273080825806,
+            "Type": "PERSON",
+            "Text": "@SenOrrinHatch",
+            "BeginOffset": 19,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.8501831889152527,
+            "Type": "PERSON",
+            "Text": "@POTUS",
+            "BeginOffset": 35,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.7197213768959045,
+            "Type": "PERSON",
+            "Text": "Mnuchin",
+            "BeginOffset": 55,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.5233822464942932,
+            "Type": "ORGANIZATION",
+            "Text": "OneWest",
+            "BeginOffset": 69,
+            "EndOffset": 76
+        }
+    ]
+}

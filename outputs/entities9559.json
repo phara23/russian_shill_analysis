@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7528533339500427,
+            "Type": "PERSON",
+            "Text": "@imcrews",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9361797571182251,
+            "Type": "PERSON",
+            "Text": "@knbennett76132",
+            "BeginOffset": 14,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9461121559143066,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 30,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9983528852462769,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 44,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9409154653549194,
+            "Type": "PERSON",
+            "Text": "@melanieus",
+            "BeginOffset": 133,
+            "EndOffset": 143
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7842217087745667,
+            "Type": "PERSON",
+            "Text": "@TheFoundingSon",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9967834949493408,
+            "Type": "PERSON",
+            "Text": "Milo",
+            "BeginOffset": 30,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9999039173126221,
+            "Type": "OTHER",
+            "Text": "https://t.co/HKMYJIPYad",
+            "BeginOffset": 107,
+            "EndOffset": 130
+        }
+    ]
+}

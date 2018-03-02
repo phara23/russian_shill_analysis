@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9188858866691589,
+            "Type": "PERSON",
+            "Text": "@JackiGmail",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9840493202209473,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 34,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9167715311050415,
+            "Type": "LOCATION",
+            "Text": "Michigan",
+            "BeginOffset": 62,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9710402488708496,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 97,
+            "EndOffset": 101
+        }
+    ]
+}

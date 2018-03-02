@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5250017642974854,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.7768880724906921,
+            "Type": "PERSON",
+            "Text": "@Rushs_Dad",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9263988137245178,
+            "Type": "OTHER",
+            "Text": "https://t.co/fH",
+            "BeginOffset": 124,
+            "EndOffset": 139
+        }
+    ]
+}

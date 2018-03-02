@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7405398488044739,
+            "Type": "ORGANIZATION",
+            "Text": "@NYMag",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.7549410462379456,
+            "Type": "TITLE",
+            "Text": "iTunes",
+            "BeginOffset": 11,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8520761728286743,
+            "Type": "PERSON",
+            "Text": "@Drake 9 million",
+            "BeginOffset": 31,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.8520638942718506,
+            "Type": "TITLE",
+            "Text": "Tidal",
+            "BeginOffset": 88,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.7716910243034363,
+            "Type": "OTHER",
+            "Text": "http://t.co/fVCGdrME4W",
+            "BeginOffset": 95,
+            "EndOffset": 117
+        },
+        {
+            "Score": 0.9877682328224182,
+            "Type": "OTHER",
+            "Text": "http://t.co/LfyUO5h",
+            "BeginOffset": 118,
+            "EndOffset": 137
+        }
+    ]
+}

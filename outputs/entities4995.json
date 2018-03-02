@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8825156688690186,
+            "Type": "PERSON",
+            "Text": "@wy4_trump",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.7967790961265564,
+            "Type": "ORGANIZATION",
+            "Text": "@NAACP",
+            "BeginOffset": 21,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.8042352199554443,
+            "Type": "PERSON",
+            "Text": "@BlacksForTrump",
+            "BeginOffset": 76,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.9271551370620728,
+            "Type": "PERSON",
+            "Text": "@BlackGirlNerds",
+            "BeginOffset": 92,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.8870401978492737,
+            "Type": "PERSON",
+            "Text": "@BLACKGIRLSROCK",
+            "BeginOffset": 108,
+            "EndOffset": 123
+        },
+        {
+            "Score": 0.9786524772644043,
+            "Type": "PERSON",
+            "Text": "@Oprah",
+            "BeginOffset": 124,
+            "EndOffset": 130
+        }
+    ]
+}

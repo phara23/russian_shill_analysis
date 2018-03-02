@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8762258291244507,
+            "Type": "PERSON",
+            "Text": "@kerpen",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9926665425300598,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 38,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9972387552261353,
+            "Type": "LOCATION",
+            "Text": "Syria",
+            "BeginOffset": 78,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.7460823655128479,
+            "Type": "OTHER",
+            "Text": "Russian",
+            "BeginOffset": 116,
+            "EndOffset": 123
+        },
+        {
+            "Score": 0.9177641272544861,
+            "Type": "PERSON",
+            "Text": "Tru",
+            "BeginOffset": 136,
+            "EndOffset": 139
+        }
+    ]
+}

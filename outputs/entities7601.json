@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8097681403160095,
+            "Type": "PERSON",
+            "Text": "@DanteB4u",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.657084047794342,
+            "Type": "DATE",
+            "Text": "Great Recession",
+            "BeginOffset": 30,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.8517305850982666,
+            "Type": "ORGANIZATION",
+            "Text": "Supreme Court",
+            "BeginOffset": 73,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.8679885864257812,
+            "Type": "ORGANIZATION",
+            "Text": "Senate",
+            "BeginOffset": 88,
+            "EndOffset": 94
+        }
+    ]
+}

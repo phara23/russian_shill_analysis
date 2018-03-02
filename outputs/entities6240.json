@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7586514353752136,
+            "Type": "PERSON",
+            "Text": "@1andrewfenton",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9471620321273804,
+            "Type": "QUANTITY",
+            "Text": "49",
+            "BeginOffset": 51,
+            "EndOffset": 53
+        }
+    ]
+}

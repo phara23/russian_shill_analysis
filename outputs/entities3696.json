@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8409201502799988,
+            "Type": "PERSON",
+            "Text": "@FreeBeacon",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9343998432159424,
+            "Type": "QUANTITY",
+            "Text": "541,000 SSNs",
+            "BeginOffset": 51,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9790180921554565,
+            "Type": "OTHER",
+            "Text": "http://t.co/L0mEOO62mD",
+            "BeginOffset": 82,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.9194781184196472,
+            "Type": "ORGANIZATION",
+            "Text": "@LizWFB",
+            "BeginOffset": 109,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.9984130859375,
+            "Type": "OTHER",
+            "Text": "http://t.co/rf2DZoZUgD",
+            "BeginOffset": 117,
+            "EndOffset": 139
+        }
+    ]
+}

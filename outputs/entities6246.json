@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8973366618156433,
+            "Type": "PERSON",
+            "Text": "@zerohedge",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.5885955691337585,
+            "Type": "PERSON",
+            "Text": "MACY’S SEES",
+            "BeginOffset": 15,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.6437501907348633,
+            "Type": "QUANTITY",
+            "Text": "95 TO",
+            "BeginOffset": 35,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.7598679065704346,
+            "Type": "QUANTITY",
+            "Text": "10",
+            "BeginOffset": 42,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.5053467750549316,
+            "Type": "QUANTITY",
+            "Text": "15",
+            "BeginOffset": 51,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9914827346801758,
+            "Type": "QUANTITY",
+            "Text": "40",
+            "BeginOffset": 58,
+            "EndOffset": 60
+        }
+    ]
+}

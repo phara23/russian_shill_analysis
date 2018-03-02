@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7014051079750061,
+            "Type": "ORGANIZATION",
+            "Text": "@ActivistPost",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9580138325691223,
+            "Type": "QUANTITY",
+            "Text": "3 Cops",
+            "BeginOffset": 67,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.9999750852584839,
+            "Type": "OTHER",
+            "Text": "https://t.co/X6kYwGUl90",
+            "BeginOffset": 95,
+            "EndOffset": 118
+        }
+    ]
+}

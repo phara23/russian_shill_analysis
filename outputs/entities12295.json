@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.946639895439148,
+            "Type": "PERSON",
+            "Text": "@hillarysusans",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.99229496717453,
+            "Type": "PERSON",
+            "Text": "John Stossel",
+            "BeginOffset": 26,
+            "EndOffset": 38
+        }
+    ]
+}

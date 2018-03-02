@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9872540831565857,
+            "Type": "OTHER",
+            "Text": "https://t.co/f8O02bvCKV",
+            "BeginOffset": 41,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.8331001996994019,
+            "Type": "ORGANIZATION",
+            "Text": "@wdr",
+            "BeginOffset": 69,
+            "EndOffset": 73
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9947060942649841,
+            "Type": "ORGANIZATION",
+            "Text": "ISIS",
+            "BeginOffset": 0,
+            "EndOffset": 4
+        },
+        {
+            "Score": 0.9092460870742798,
+            "Type": "LOCATION",
+            "Text": "Times Square",
+            "BeginOffset": 25,
+            "EndOffset": 37
+        }
+    ]
+}

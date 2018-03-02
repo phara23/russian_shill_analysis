@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9136261940002441,
+            "Type": "PERSON",
+            "Text": "@Gamiliell",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.980585515499115,
+            "Type": "PERSON",
+            "Text": "Amal Clooney",
+            "BeginOffset": 22,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9992520213127136,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 46,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9998904466629028,
+            "Type": "OTHER",
+            "Text": "https://t.co/ugAvR7iZLO",
+            "BeginOffset": 68,
+            "EndOffset": 91
+        }
+    ]
+}

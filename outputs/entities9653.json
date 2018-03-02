@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9511663317680359,
+            "Type": "ORGANIZATION",
+            "Text": "ISIS",
+            "BeginOffset": 24,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.4351555407047272,
+            "Type": "LOCATION",
+            "Text": "Mecca",
+            "BeginOffset": 59,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9940593242645264,
+            "Type": "OTHER",
+            "Text": "https://t.co/DQ0yOJlilE",
+            "BeginOffset": 75,
+            "EndOffset": 98
+        }
+    ]
+}

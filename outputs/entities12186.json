@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8799106478691101,
+            "Type": "PERSON",
+            "Text": "@BayoumiMoustafa",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8235875368118286,
+            "Type": "ORGANIZATION",
+            "Text": "Muslim",
+            "BeginOffset": 27,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9951123595237732,
+            "Type": "LOCATION",
+            "Text": "Missouri",
+            "BeginOffset": 108,
+            "EndOffset": 116
+        }
+    ]
+}

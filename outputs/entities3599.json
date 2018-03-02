@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8456659913063049,
+            "Type": "PERSON",
+            "Text": "@propriator",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.36631500720977783,
+            "Type": "ORGANIZATION",
+            "Text": "NWT",
+            "BeginOffset": 16,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.6947665810585022,
+            "Type": "QUANTITY",
+            "Text": "2XL",
+            "BeginOffset": 73,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.957500159740448,
+            "Type": "OTHER",
+            "Text": "https://t.co/HrRYQhsBuG",
+            "BeginOffset": 84,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.9050185680389404,
+            "Type": "ORGANIZATION",
+            "Text": "@cgeclectics",
+            "BeginOffset": 112,
+            "EndOffset": 124
+        }
+    ]
+}

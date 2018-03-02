@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6223297119140625,
+            "Type": "ORGANIZATION",
+            "Text": "Muslim",
+            "BeginOffset": 0,
+            "EndOffset": 6
+        },
+        {
+            "Score": 0.9663915038108826,
+            "Type": "ORGANIZATION",
+            "Text": "Canadian High School",
+            "BeginOffset": 31,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.826205849647522,
+            "Type": "ORGANIZATION",
+            "Text": "Sexually Harassing Young Girls",
+            "BeginOffset": 53,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.7826246023178101,
+            "Type": "OTHER",
+            "Text": "https://t.co/w5nKdKcjfK",
+            "BeginOffset": 86,
+            "EndOffset": 109
+        },
+        {
+            "Score": 0.9999145269393921,
+            "Type": "OTHER",
+            "Text": "https://t.co/wtkuyhxMMH",
+            "BeginOffset": 110,
+            "EndOffset": 133
+        }
+    ]
+}

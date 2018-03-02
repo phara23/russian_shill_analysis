@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9721916317939758,
+            "Type": "PERSON",
+            "Text": "Hanna",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.7329630255699158,
+            "Type": "QUANTITY",
+            "Text": "First",
+            "BeginOffset": 9,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7564440369606018,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 15,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9759791493415833,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 54,
+            "EndOffset": 61
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9948902726173401,
+            "Text": "a girl",
+            "BeginOffset": 0,
+            "EndOffset": 6
+        },
+        {
+            "Score": 0.9410592913627625,
+            "Text": "a riot policeman",
+            "BeginOffset": 20,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.994772732257843,
+            "Text": "today",
+            "BeginOffset": 37,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9994987845420837,
+            "Text": "Chile",
+            "BeginOffset": 46,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.999009370803833,
+            "Text": "a protest",
+            "BeginOffset": 60,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9949939250946045,
+            "Text": "the country",
+            "BeginOffset": 78,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.9930855631828308,
+            "Text": "’s 1973 military coup",
+            "BeginOffset": 89,
+            "EndOffset": 110
+        }
+    ]
+}

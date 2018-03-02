@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.935492753982544,
+            "Type": "PERSON",
+            "Text": "@RalphSchiano",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8639892339706421,
+            "Type": "PERSON",
+            "Text": "@politico",
+            "BeginOffset": 19,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9530324339866638,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 29,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.8996433615684509,
+            "Type": "PERSON",
+            "Text": "@billclinton",
+            "BeginOffset": 65,
+            "EndOffset": 77
+        }
+    ]
+}

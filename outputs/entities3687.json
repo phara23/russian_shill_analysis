@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8289057612419128,
+            "Type": "PERSON",
+            "Text": "@HistoryInPix",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7702691555023193,
+            "Type": "QUANTITY",
+            "Text": "600 year",
+            "BeginOffset": 18,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.517437219619751,
+            "Type": "LOCATION",
+            "Text": "Prague Czech",
+            "BeginOffset": 53,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9998382329940796,
+            "Type": "OTHER",
+            "Text": "https://t.co/2vUGlhfaVk",
+            "BeginOffset": 76,
+            "EndOffset": 99
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7113574147224426,
+            "Type": "ORGANIZATION",
+            "Text": "Patriots",
+            "BeginOffset": 35,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.4626601040363312,
+            "Type": "ORGANIZATION",
+            "Text": "Freedom",
+            "BeginOffset": 47,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.980714738368988,
+            "Type": "OTHER",
+            "Text": "https://t.co/vU8AKuJ7Kk",
+            "BeginOffset": 55,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.8531917333602905,
+            "Type": "ORGANIZATION",
+            "Text": "@3tags_org",
+            "BeginOffset": 84,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.4188971519470215,
+            "Type": "ORGANIZATION",
+            "Text": "#PJNET",
+            "BeginOffset": 95,
+            "EndOffset": 101
+        }
+    ]
+}

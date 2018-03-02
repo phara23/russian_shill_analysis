@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8610703349113464,
+            "Type": "PERSON",
+            "Text": "@SPIEGELONLINE",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7838114500045776,
+            "Type": "PERSON",
+            "Text": "Einer der Attentäter von #Rouen",
+            "BeginOffset": 19,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.7557799816131592,
+            "Type": "PERSON",
+            "Text": "Aufsicht der Justiz",
+            "BeginOffset": 63,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.9703757166862488,
+            "Type": "OTHER",
+            "Text": "https://t.co/q5sR",
+            "BeginOffset": 122,
+            "EndOffset": 139
+        }
+    ]
+}

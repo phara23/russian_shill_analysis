@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8381018042564392,
+            "Type": "PERSON",
+            "Text": "@PJStrikeForce",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9982463121414185,
+            "Type": "OTHER",
+            "Text": "https://t.co/obBbLmMgmT",
+            "BeginOffset": 101,
+            "EndOffset": 124
+        }
+    ]
+}

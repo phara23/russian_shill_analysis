@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8898947238922119,
+            "Type": "PERSON",
+            "Text": "@OldManConroy",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.6938627362251282,
+            "Type": "EVENT",
+            "Text": "Easter",
+            "BeginOffset": 32,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.792346179485321,
+            "Type": "OTHER",
+            "Text": "Australian",
+            "BeginOffset": 101,
+            "EndOffset": 111
+        },
+        {
+            "Score": 0.9481620788574219,
+            "Type": "LOCATION",
+            "Text": "Tasmania",
+            "BeginOffset": 122,
+            "EndOffset": 130
+        }
+    ]
+}

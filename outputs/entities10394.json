@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.703501284122467,
+            "Type": "PERSON",
+            "Text": "@toddwhaines",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9143356084823608,
+            "Type": "PERSON",
+            "Text": "@gigirules7",
+            "BeginOffset": 17,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.5593290328979492,
+            "Type": "OTHER",
+            "Text": "German",
+            "BeginOffset": 33,
+            "EndOffset": 39
+        }
+    ]
+}

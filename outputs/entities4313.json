@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7391641139984131,
+            "Type": "PERSON",
+            "Text": "Christie",
+            "BeginOffset": 0,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.9965141415596008,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 17,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.7252957820892334,
+            "Type": "QUANTITY",
+            "Text": "second debate",
+            "BeginOffset": 53,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.8846757411956787,
+            "Type": "OTHER",
+            "Text": "https://t.co/wWmHjPfZdR",
+            "BeginOffset": 67,
+            "EndOffset": 90
+        }
+    ]
+}

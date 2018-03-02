@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9624367952346802,
+            "Type": "PERSON",
+            "Text": "Pence",
+            "BeginOffset": 23,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9025940299034119,
+            "Type": "PERSON",
+            "Text": "Kaine",
+            "BeginOffset": 30,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9310532212257385,
+            "Type": "OTHER",
+            "Text": "https://t.co/lRrgGm8d8Z",
+            "BeginOffset": 65,
+            "EndOffset": 88
+        }
+    ]
+}

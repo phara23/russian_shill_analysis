@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8287035226821899,
+            "Type": "PERSON",
+            "Text": "@umussbekidding",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9129435420036316,
+            "Type": "PERSON",
+            "Text": "Giuliani",
+            "BeginOffset": 51,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.9916175007820129,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 64,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.9999586343765259,
+            "Type": "OTHER",
+            "Text": "https://t.co/eBAk38CNj7",
+            "BeginOffset": 91,
+            "EndOffset": 114
+        }
+    ]
+}

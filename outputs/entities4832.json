@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8626677393913269,
+            "Type": "PERSON",
+            "Text": "@chiefplan1",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9698011875152588,
+            "Type": "LOCATION",
+            "Text": "New York",
+            "BeginOffset": 67,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.6012651324272156,
+            "Type": "LOCATION",
+            "Text": "La",
+            "BeginOffset": 139,
+            "EndOffset": 141
+        }
+    ]
+}

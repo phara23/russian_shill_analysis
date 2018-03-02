@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.820075273513794,
+            "Type": "PERSON",
+            "Text": "@Nova24",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.7583746314048767,
+            "Type": "PERSON",
+            "Text": "del intervjuja",
+            "BeginOffset": 27,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.7354617714881897,
+            "Type": "PERSON",
+            "Text": "Janezom Janšo",
+            "BeginOffset": 86,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.987021267414093,
+            "Type": "OTHER",
+            "Text": "https://t.co/ZUESuHf9RP",
+            "BeginOffset": 100,
+            "EndOffset": 123
+        },
+        {
+            "Score": 0.8647038340568542,
+            "Type": "ORGANIZATION",
+            "Text": "@Nova24TV",
+            "BeginOffset": 128,
+            "EndOffset": 137
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9087081551551819,
+            "Type": "PERSON",
+            "Text": "@smoothkobra",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9809547662734985,
+            "Type": "PERSON",
+            "Text": "Ellison",
+            "BeginOffset": 17,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9035805463790894,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 80,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.9970306158065796,
+            "Type": "PERSON",
+            "Text": "Bernie",
+            "BeginOffset": 103,
+            "EndOffset": 109
+        }
+    ]
+}

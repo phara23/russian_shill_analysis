@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.946551501750946,
+            "Type": "PERSON",
+            "Text": "@jeffyman",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9986215829849243,
+            "Type": "PERSON",
+            "Text": "Bill Clinton",
+            "BeginOffset": 14,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9997628927230835,
+            "Type": "PERSON",
+            "Text": "Marc Rich",
+            "BeginOffset": 48,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.987395703792572,
+            "Type": "OTHER",
+            "Text": "https://t.co/hsh6PcsVgu",
+            "BeginOffset": 79,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.9473556876182556,
+            "Type": "ORGANIZATION",
+            "Text": "@nypost",
+            "BeginOffset": 107,
+            "EndOffset": 114
+        }
+    ]
+}

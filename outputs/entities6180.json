@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8337685465812683,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9395372271537781,
+            "Type": "QUANTITY",
+            "Text": "79-year-old",
+            "BeginOffset": 14,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9506831765174866,
+            "Type": "LOCATION",
+            "Text": "New Rochelle",
+            "BeginOffset": 46,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9214868545532227,
+            "Type": "OTHER",
+            "Text": "https://t.co/RSXzdlIMBN",
+            "BeginOffset": 59,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.8430179357528687,
+            "Type": "ORGANIZATION",
+            "Text": "@ABC7NY",
+            "BeginOffset": 83,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.6989418268203735,
+            "Type": "ORGANIZATION",
+            "Text": "@NewYorkCommuter",
+            "BeginOffset": 91,
+            "EndOffset": 107
+        }
+    ]
+}

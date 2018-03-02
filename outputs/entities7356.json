@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8465734124183655,
+            "Type": "PERSON",
+            "Text": "@NetworksManager",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8718132972717285,
+            "Type": "QUANTITY",
+            "Text": "215 vets",
+            "BeginOffset": 21,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.6602752208709717,
+            "Type": "ORGANIZATION",
+            "Text": "Phoenix VA",
+            "BeginOffset": 69,
+            "EndOffset": 79
+        }
+    ]
+}

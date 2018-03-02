@@ -1,0 +1,34 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9582838416099548,
+            "Text": "Clinton",
+            "BeginOffset": 0,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.9823532104492188,
+            "Text": "the campaign trail",
+            "BeginOffset": 24,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9988601803779602,
+            "Text": "Trump",
+            "BeginOffset": 46,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9213122725486755,
+            "Text": "’s taxes —",
+            "BeginOffset": 51,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9917475581169128,
+            "Text": "some big swings",
+            "BeginOffset": 72,
+            "EndOffset": 87
+        }
+    ]
+}

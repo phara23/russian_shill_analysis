@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.997782826423645,
+            "Type": "PERSON",
+            "Text": "Ana Navarro",
+            "BeginOffset": 0,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9936485886573792,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 13,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9939127564430237,
+            "Type": "PERSON",
+            "Text": "Ryan",
+            "BeginOffset": 47,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9663177132606506,
+            "Type": "PERSON",
+            "Text": "Rubio",
+            "BeginOffset": 56,
+            "EndOffset": 61
+        }
+    ]
+}

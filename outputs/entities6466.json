@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8843895792961121,
+            "Type": "PERSON",
+            "Text": "@CaptYonah",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.6978999972343445,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 50,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9786226153373718,
+            "Type": "DATE",
+            "Text": "today",
+            "BeginOffset": 70,
+            "EndOffset": 75
+        }
+    ]
+}

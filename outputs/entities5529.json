@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9473338723182678,
+            "Type": "PERSON",
+            "Text": "@johnjoh60",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9053865075111389,
+            "Type": "ORGANIZATION",
+            "Text": "@GOP",
+            "BeginOffset": 131,
+            "EndOffset": 135
+        },
+        {
+            "Score": 0.9229885935783386,
+            "Type": "ORGANIZATION",
+            "Text": "@CN",
+            "BeginOffset": 136,
+            "EndOffset": 139
+        }
+    ]
+}

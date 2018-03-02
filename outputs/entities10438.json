@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8411630988121033,
+            "Type": "PERSON",
+            "Text": "@adept2u",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9949244856834412,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 21,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.8673781752586365,
+            "Type": "QUANTITY",
+            "Text": "3rd mortgages",
+            "BeginOffset": 81,
+            "EndOffset": 94
+        }
+    ]
+}

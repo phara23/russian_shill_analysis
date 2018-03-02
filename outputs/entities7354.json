@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9306941032409668,
+            "Type": "PERSON",
+            "Text": "@lemonde_pol",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9999159574508667,
+            "Type": "OTHER",
+            "Text": "https://t.co/TvXpF9VZvt",
+            "BeginOffset": 71,
+            "EndOffset": 94
+        }
+    ]
+}

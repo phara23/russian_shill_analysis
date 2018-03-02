@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9426663517951965,
+            "Type": "PERSON",
+            "Text": "@rolandsmartin",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9926062822341919,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 77,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.7981698513031006,
+            "Type": "ORGANIZATION",
+            "Text": "Oval Office",
+            "BeginOffset": 92,
+            "EndOffset": 103
+        }
+    ]
+}

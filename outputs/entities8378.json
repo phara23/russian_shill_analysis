@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9031494855880737,
+            "Type": "PERSON",
+            "Text": "@WayneSense",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9765938520431519,
+            "Type": "PERSON",
+            "Text": "Jeb Bush",
+            "BeginOffset": 102,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.9360832571983337,
+            "Type": "OTHER",
+            "Text": "https://t.co",
+            "BeginOffset": 127,
+            "EndOffset": 139
+        }
+    ]
+}

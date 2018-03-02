@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7907441854476929,
+            "Type": "PERSON",
+            "Text": "@HubertUlric",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9803215265274048,
+            "Type": "PERSON",
+            "Text": "Cornel West",
+            "BeginOffset": 17,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9569457173347473,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 118,
+            "EndOffset": 125
+        },
+        {
+            "Score": 0.7727524042129517,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

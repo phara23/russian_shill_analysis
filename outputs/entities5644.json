@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8555831909179688,
+            "Type": "PERSON",
+            "Text": "@mmmoonie",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.7681120038032532,
+            "Type": "PERSON",
+            "Text": "#Trump",
+            "BeginOffset": 71,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9829779267311096,
+            "Type": "OTHER",
+            "Text": "https://t.co/k8X",
+            "BeginOffset": 123,
+            "EndOffset": 139
+        }
+    ]
+}

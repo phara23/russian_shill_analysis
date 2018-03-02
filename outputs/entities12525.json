@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7193894982337952,
+            "Type": "PERSON",
+            "Text": "@StopNuclearWar",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.6724242568016052,
+            "Type": "ORGANIZATION",
+            "Text": "@thenation",
+            "BeginOffset": 89,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.9542645812034607,
+            "Type": "OTHER",
+            "Text": "https://t.co/TX0RIUsXDQ",
+            "BeginOffset": 100,
+            "EndOffset": 123
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8974047899246216,
+            "Type": "PERSON",
+            "Text": "@cmdorsey",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8779087662696838,
+            "Type": "PERSON",
+            "Text": "@wolfblitzer",
+            "BeginOffset": 27,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9987881779670715,
+            "Type": "OTHER",
+            "Text": "https://t.co/bT3Z8EDOcl",
+            "BeginOffset": 79,
+            "EndOffset": 102
+        }
+    ]
+}

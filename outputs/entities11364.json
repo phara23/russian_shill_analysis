@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7765945792198181,
+            "Type": "PERSON",
+            "Text": "@AudraEqualityMc",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9978498220443726,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 24,
+            "EndOffset": 29
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9785947203636169,
+            "Text": "These two",
+            "BeginOffset": 0,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9831066131591797,
+            "Text": "America",
+            "BeginOffset": 39,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9897898435592651,
+            "Text": "ISIS",
+            "BeginOffset": 63,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9915192127227783,
+            "Text": "a threat",
+            "BeginOffset": 71,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.8280289769172668,
+            "Text": "ISIS",
+            "BeginOffset": 91,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.9986913800239563,
+            "Text": "our people",
+            "BeginOffset": 102,
+            "EndOffset": 112
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7300844192504883,
+            "Type": "PERSON",
+            "Text": "@Koxinga8",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8940123319625854,
+            "Type": "ORGANIZATION",
+            "Text": "Muslim",
+            "BeginOffset": 14,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.9830796718597412,
+            "Type": "OTHER",
+            "Text": "https://t.co/8TkkoS9GmG",
+            "BeginOffset": 73,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.7869691252708435,
+            "Type": "ORGANIZATION",
+            "Text": "@pamelageller",
+            "BeginOffset": 101,
+            "EndOffset": 114
+        }
+    ]
+}

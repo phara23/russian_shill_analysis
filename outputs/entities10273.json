@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6736571788787842,
+            "Type": "PERSON",
+            "Text": "@postpolitics",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9968044757843018,
+            "Type": "PERSON",
+            "Text": "Jeb Bush",
+            "BeginOffset": 22,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9876589179039001,
+            "Type": "DATE",
+            "Text": "1981",
+            "BeginOffset": 49,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9967888593673706,
+            "Type": "DATE",
+            "Text": "2013",
+            "BeginOffset": 54,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9999057054519653,
+            "Type": "OTHER",
+            "Text": "http://t.co/shDMpCSW5y",
+            "BeginOffset": 59,
+            "EndOffset": 81
+        }
+    ]
+}

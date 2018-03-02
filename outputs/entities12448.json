@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7580816745758057,
+            "Type": "PERSON",
+            "Text": "@PollyTickal",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9986886382102966,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 60,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.7332447171211243,
+            "Type": "QUANTITY",
+            "Text": "both",
+            "BeginOffset": 89,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.9992108345031738,
+            "Type": "OTHER",
+            "Text": "https://t.co/3MFrFVOryj",
+            "BeginOffset": 109,
+            "EndOffset": 132
+        }
+    ]
+}

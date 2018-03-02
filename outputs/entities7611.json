@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8247891068458557,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.7758818864822388,
+            "Type": "PERSON",
+            "Text": "@ATLBlackStar",
+            "BeginOffset": 14,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9970327019691467,
+            "Type": "PERSON",
+            "Text": "David Banner",
+            "BeginOffset": 29,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9999605417251587,
+            "Type": "OTHER",
+            "Text": "https://t.co/yKV6LVZaMF",
+            "BeginOffset": 101,
+            "EndOffset": 124
+        }
+    ]
+}

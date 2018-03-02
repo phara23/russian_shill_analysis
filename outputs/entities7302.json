@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8056403994560242,
+            "Type": "PERSON",
+            "Text": "@ZaibatsuNews",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8794642090797424,
+            "Type": "QUANTITY",
+            "Text": "50 despicable things",
+            "BeginOffset": 27,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9990296363830566,
+            "Type": "PERSON",
+            "Text": "George W. Bush",
+            "BeginOffset": 48,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.844008207321167,
+            "Type": "DATE",
+            "Text": "after 9/11",
+            "BeginOffset": 78,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.7656940817832947,
+            "Type": "OTHER",
+            "Text": "https://t.co/yNgLpnMewS",
+            "BeginOffset": 89,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.7496283054351807,
+            "Type": "ORGANIZATION",
+            "Text": "#p2 #tcot",
+            "BeginOffset": 113,
+            "EndOffset": 122
+        }
+    ]
+}

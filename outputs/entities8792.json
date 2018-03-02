@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8952402472496033,
+            "Type": "PERSON",
+            "Text": "@bandlersbanter",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9738482236862183,
+            "Type": "OTHER",
+            "Text": "https://t.co/ueRQHaYHkI",
+            "BeginOffset": 88,
+            "EndOffset": 111
+        },
+        {
+            "Score": 0.892057478427887,
+            "Type": "PERSON",
+            "Text": "@benshapiro",
+            "BeginOffset": 112,
+            "EndOffset": 123
+        },
+        {
+            "Score": 0.9119361639022827,
+            "Type": "PERSON",
+            "Text": "@realDailyWire",
+            "BeginOffset": 124,
+            "EndOffset": 138
+        }
+    ]
+}

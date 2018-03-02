@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8534718155860901,
+            "Type": "PERSON",
+            "Text": "@Pamela_Moore",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9997606873512268,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 40,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.902871310710907,
+            "Type": "OTHER",
+            "Text": "Russian",
+            "BeginOffset": 65,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.9999659061431885,
+            "Type": "OTHER",
+            "Text": "https://t.co/aIV2j1AFsD",
+            "BeginOffset": 115,
+            "EndOffset": 138
+        }
+    ]
+}

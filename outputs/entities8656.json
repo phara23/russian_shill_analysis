@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.871934711933136,
+            "Type": "PERSON",
+            "Text": "@theresareidy",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.886405348777771,
+            "Type": "PERSON",
+            "Text": "Sepp Blatter",
+            "BeginOffset": 80,
+            "EndOffset": 92
+        }
+    ]
+}

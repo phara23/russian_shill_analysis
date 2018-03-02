@@ -1,0 +1,67 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8720554709434509,
+            "Type": "PERSON",
+            "Text": "@PatriotGinger",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6730052828788757,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 19,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9455127716064453,
+            "Type": "PERSON",
+            "Text": "@marshahorn66",
+            "BeginOffset": 22,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.7047551870346069,
+            "Type": "PERSON",
+            "Text": "God",
+            "BeginOffset": 73,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.9318903684616089,
+            "Type": "PERSON",
+            "Text": "Luke",
+            "BeginOffset": 78,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.9674459099769592,
+            "Type": "QUANTITY",
+            "Text": "1:37",
+            "BeginOffset": 83,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.9498829245567322,
+            "Type": "OTHER",
+            "Text": "https://t.co/AW9RnQIPU9",
+            "BeginOffset": 88,
+            "EndOffset": 111
+        },
+        {
+            "Score": 0.3099462389945984,
+            "Type": "ORGANIZATION",
+            "Text": "#RenewUS",
+            "BeginOffset": 112,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.4447040855884552,
+            "Type": "ORGANIZATION",
+            "Text": "#PJNET",
+            "BeginOffset": 121,
+            "EndOffset": 127
+        }
+    ]
+}

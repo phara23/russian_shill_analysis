@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.957798182964325,
+            "Type": "PERSON",
+            "Text": "@georgiadeee",
+            "BeginOffset": 0,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.6861439943313599,
+            "Type": "QUANTITY",
+            "Text": "both",
+            "BeginOffset": 17,
+            "EndOffset": 21
+        }
+    ]
+}

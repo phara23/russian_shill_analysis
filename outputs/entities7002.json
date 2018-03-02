@@ -1,0 +1,74 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8957445621490479,
+            "Type": "PERSON",
+            "Text": "@nine_oh",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8513746857643127,
+            "Type": "QUANTITY",
+            "Text": "9.0",
+            "BeginOffset": 13,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7340161800384521,
+            "Type": "QUANTITY",
+            "Text": "4 shoutouts",
+            "BeginOffset": 32,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.8309206366539001,
+            "Type": "PERSON",
+            "Text": "@yungsunrise",
+            "BeginOffset": 58,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9116054773330688,
+            "Type": "PERSON",
+            "Text": "@cvpimp",
+            "BeginOffset": 71,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.9874963760375977,
+            "Type": "PERSON",
+            "Text": "@vigmaster1",
+            "BeginOffset": 79,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.973088264465332,
+            "Type": "PERSON",
+            "Text": "@v_micheal",
+            "BeginOffset": 91,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.9776403307914734,
+            "Type": "PERSON",
+            "Text": "@druskiez",
+            "BeginOffset": 102,
+            "EndOffset": 111
+        },
+        {
+            "Score": 0.9165704250335693,
+            "Type": "PERSON",
+            "Text": "@asimsujud",
+            "BeginOffset": 112,
+            "EndOffset": 122
+        },
+        {
+            "Score": 0.6316587328910828,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 129,
+            "EndOffset": 138
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8025388121604919,
+            "Type": "PERSON",
+            "Text": "@lesstaxingcpa",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.39811477065086365,
+            "Type": "PERSON",
+            "Text": "#Obama",
+            "BeginOffset": 19,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.997765839099884,
+            "Type": "QUANTITY",
+            "Text": "1.3 billion",
+            "BeginOffset": 42,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9999514818191528,
+            "Type": "OTHER",
+            "Text": "https://t.co/tlXUyeYUK2",
+            "BeginOffset": 102,
+            "EndOffset": 125
+        }
+    ]
+}

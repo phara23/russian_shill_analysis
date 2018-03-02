@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8148244023323059,
+            "Type": "PERSON",
+            "Text": "@Dian5",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9089100956916809,
+            "Type": "PERSON",
+            "Text": "@KathyGoodGirl",
+            "BeginOffset": 11,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9582344889640808,
+            "Type": "PERSON",
+            "Text": "@ChiverKelly",
+            "BeginOffset": 26,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9977006912231445,
+            "Type": "PERSON",
+            "Text": "@virgo2757",
+            "BeginOffset": 39,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9840482473373413,
+            "Type": "PERSON",
+            "Text": "@maggiebeauchamp",
+            "BeginOffset": 50,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9990298748016357,
+            "Type": "OTHER",
+            "Text": "https://t.co/K7qLiDEOin",
+            "BeginOffset": 76,
+            "EndOffset": 99
+        }
+    ]
+}

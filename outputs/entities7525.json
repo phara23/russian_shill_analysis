@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8297942280769348,
+            "Type": "PERSON",
+            "Text": "@charliespiering",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.5879620909690857,
+            "Type": "LOCATION",
+            "Text": "New Yorker",
+            "BeginOffset": 25,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9869564771652222,
+            "Type": "DATE",
+            "Text": "yesterday",
+            "BeginOffset": 56,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.907905101776123,
+            "Type": "OTHER",
+            "Text": "https://t.co/8FReJKCCLg",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.9998944997787476,
+            "Type": "OTHER",
+            "Text": "https://t.co/UlOFFbMnin",
+            "BeginOffset": 114,
+            "EndOffset": 137
+        }
+    ]
+}

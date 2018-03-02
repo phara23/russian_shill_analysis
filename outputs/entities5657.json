@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.795113742351532,
+            "Type": "PERSON",
+            "Text": "@TwitchyTeam",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9912931323051453,
+            "Type": "ORGANIZATION",
+            "Text": "CNN",
+            "BeginOffset": 20,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9944854974746704,
+            "Type": "PERSON",
+            "Text": "George Takei",
+            "BeginOffset": 110,
+            "EndOffset": 122
+        },
+        {
+            "Score": 0.9308164119720459,
+            "Type": "OTHER",
+            "Text": "https://t.co/Rhb",
+            "BeginOffset": 123,
+            "EndOffset": 139
+        }
+    ]
+}

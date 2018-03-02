@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9993085861206055,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 36,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9999234676361084,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 46,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9999405145645142,
+            "Type": "OTHER",
+            "Text": "https://t.co/CRZX2vpPQM",
+            "BeginOffset": 89,
+            "EndOffset": 112
+        }
+    ]
+}

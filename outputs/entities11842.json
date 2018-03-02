@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.852508008480072,
+            "Type": "PERSON",
+            "Text": "@RonAtkins",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9125449657440186,
+            "Type": "PERSON",
+            "Text": "@shirlmercy",
+            "BeginOffset": 15,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9944347739219666,
+            "Type": "PERSON",
+            "Text": "@teamcombover16",
+            "BeginOffset": 27,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.7462602257728577,
+            "Type": "ORGANIZATION",
+            "Text": "@CNN",
+            "BeginOffset": 43,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.73355633020401,
+            "Type": "ORGANIZATION",
+            "Text": "@Starbucks",
+            "BeginOffset": 48,
+            "EndOffset": 58
+        }
+    ]
+}

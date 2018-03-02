@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4962187111377716,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8035017251968384,
+            "Type": "PERSON",
+            "Text": "@cutupx2",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        }
+    ]
+}

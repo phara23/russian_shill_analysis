@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9761715531349182,
+            "Type": "PERSON",
+            "Text": "@JamilSmith",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9967993497848511,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 16,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.957469642162323,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 129,
+            "EndOffset": 136
+        }
+    ]
+}

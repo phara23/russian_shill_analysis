@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7555924654006958,
+            "Type": "PERSON",
+            "Text": "@ProfTerryHughes",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9948614239692688,
+            "Type": "QUANTITY",
+            "Text": "3 times",
+            "BeginOffset": 73,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.9087013602256775,
+            "Type": "QUANTITY",
+            "Text": "1C",
+            "BeginOffset": 92,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.9997987151145935,
+            "Type": "OTHER",
+            "Text": "https://t.co/bONc89wxVL",
+            "BeginOffset": 114,
+            "EndOffset": 137
+        }
+    ]
+}

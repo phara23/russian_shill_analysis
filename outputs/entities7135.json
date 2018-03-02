@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9128930568695068,
+            "Type": "PERSON",
+            "Text": "@HarryPotterFilm",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9964075684547424,
+            "Type": "PERSON",
+            "Text": "John Hurt",
+            "BeginOffset": 70,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.9995855689048767,
+            "Type": "PERSON",
+            "Text": "Ollivander",
+            "BeginOffset": 96,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.96854168176651,
+            "Type": "PERSON",
+            "Text": "Harry Potter",
+            "BeginOffset": 108,
+            "EndOffset": 120
+        }
+    ]
+}

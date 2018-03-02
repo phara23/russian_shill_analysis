@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9584850072860718,
+            "Type": "PERSON",
+            "Text": "@Julian_A_Cox",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9692855477333069,
+            "Type": "PERSON",
+            "Text": "@immigrant4trump",
+            "BeginOffset": 18,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.801916778087616,
+            "Type": "PERSON",
+            "Text": "@MMFlint",
+            "BeginOffset": 35,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.6679642200469971,
+            "Type": "PERSON",
+            "Text": "HILLARY",
+            "BeginOffset": 65,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.9723079204559326,
+            "Type": "LOCATION",
+            "Text": "USA",
+            "BeginOffset": 130,
+            "EndOffset": 133
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.921472430229187,
+            "Type": "PERSON",
+            "Text": "@SusanPage",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.997383177280426,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 46,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.8906551003456116,
+            "Type": "QUANTITY",
+            "Text": "first time",
+            "BeginOffset": 60,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.5762923359870911,
+            "Type": "QUANTITY",
+            "Text": "decades",
+            "BeginOffset": 74,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.8788545727729797,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 107,
+            "EndOffset": 110
+        }
+    ]
+}

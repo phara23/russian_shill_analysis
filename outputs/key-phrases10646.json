@@ -1,0 +1,28 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9451104998588562,
+            "Text": "DNC 2016",
+            "BeginOffset": 0,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.5646863579750061,
+            "Text": "Obama",
+            "BeginOffset": 10,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9172157645225525,
+            "Text": "America",
+            "BeginOffset": 33,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9907562136650085,
+            "Text": "Clinton",
+            "BeginOffset": 47,
+            "EndOffset": 54
+        }
+    ]
+}

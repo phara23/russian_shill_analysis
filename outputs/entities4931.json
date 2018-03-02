@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7811631560325623,
+            "Type": "PERSON",
+            "Text": "Gin",
+            "BeginOffset": 7,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.919137716293335,
+            "Type": "DATE",
+            "Text": "next morning",
+            "BeginOffset": 24,
+            "EndOffset": 36
+        }
+    ]
+}

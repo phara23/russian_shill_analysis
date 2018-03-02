@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9185556769371033,
+            "Type": "PERSON",
+            "Text": "@true_pundit",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9822508692741394,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 17,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9983553886413574,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 39,
+            "EndOffset": 54
+        }
+    ]
+}

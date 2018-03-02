@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.993623673915863,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.3363136053085327,
+            "Type": "OTHER",
+            "Text": "Hindu",
+            "BeginOffset": 16,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.4848688840866089,
+            "Type": "PERSON",
+            "Text": "Edison",
+            "BeginOffset": 52,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9999638795852661,
+            "Type": "OTHER",
+            "Text": "https://t.co/JMwxsIVNOl",
+            "BeginOffset": 59,
+            "EndOffset": 82
+        }
+    ]
+}

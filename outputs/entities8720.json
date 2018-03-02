@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.899873673915863,
+            "Type": "PERSON",
+            "Text": "@backyardconserv",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9162564277648926,
+            "Type": "ORGANIZATION",
+            "Text": "New York Times",
+            "BeginOffset": 104,
+            "EndOffset": 118
+        },
+        {
+            "Score": 0.9801750779151917,
+            "Type": "OTHER",
+            "Text": "https://t.co/nL6W906",
+            "BeginOffset": 119,
+            "EndOffset": 139
+        }
+    ]
+}

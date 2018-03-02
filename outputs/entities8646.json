@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9120323061943054,
+            "Type": "PERSON",
+            "Text": "@Millerita",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9885050654411316,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 41,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9999167919158936,
+            "Type": "OTHER",
+            "Text": "https://t.co/WQr5vKmYJU",
+            "BeginOffset": 95,
+            "EndOffset": 118
+        }
+    ]
+}

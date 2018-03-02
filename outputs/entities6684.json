@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8217903971672058,
+            "Type": "PERSON",
+            "Text": "@FabricePothier",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8160119652748108,
+            "Type": "ORGANIZATION",
+            "Text": "DC",
+            "BeginOffset": 20,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9720525145530701,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 40,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.6458306908607483,
+            "Type": "ORGANIZATION",
+            "Text": "Russia",
+            "BeginOffset": 89,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.7449501156806946,
+            "Type": "ORGANIZATION",
+            "Text": "@POTUS",
+            "BeginOffset": 107,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.8671793937683105,
+            "Type": "PERSON",
+            "Text": "Merkel",
+            "BeginOffset": 125,
+            "EndOffset": 131
+        }
+    ]
+}

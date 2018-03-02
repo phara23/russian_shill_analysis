@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8693053722381592,
+            "Type": "PERSON",
+            "Text": "@RotNScoundrel",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9168134331703186,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 52,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9981277585029602,
+            "Type": "PERSON",
+            "Text": "Al Gore",
+            "BeginOffset": 118,
+            "EndOffset": 125
+        }
+    ]
+}

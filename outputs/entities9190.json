@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5269975066184998,
+            "Type": "OTHER",
+            "Text": "American",
+            "BeginOffset": 15,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.33143481612205505,
+            "Type": "ORGANIZATION",
+            "Text": "#BanIslam",
+            "BeginOffset": 71,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.9874916076660156,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 102,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.999994158744812,
+            "Type": "OTHER",
+            "Text": "https://t.co/8Zh2rJW1Ch",
+            "BeginOffset": 107,
+            "EndOffset": 130
+        }
+    ]
+}

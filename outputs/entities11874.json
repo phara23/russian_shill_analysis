@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7393099665641785,
+            "Type": "PERSON",
+            "Text": "@atensnut",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9883899092674255,
+            "Type": "QUANTITY",
+            "Text": "38 years",
+            "BeginOffset": 47,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9960009455680847,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 94,
+            "EndOffset": 99
+        }
+    ]
+}

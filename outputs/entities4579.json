@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8421577215194702,
+            "Type": "PERSON",
+            "Text": "@igorvolsky",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9551171660423279,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 52,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9725542068481445,
+            "Type": "QUANTITY",
+            "Text": "1%",
+            "BeginOffset": 121,
+            "EndOffset": 123
+        },
+        {
+            "Score": 0.9397435784339905,
+            "Type": "QUANTITY",
+            "Text": "99",
+            "BeginOffset": 136,
+            "EndOffset": 138
+        }
+    ]
+}

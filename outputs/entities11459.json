@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8330954313278198,
+            "Type": "PERSON",
+            "Text": "@Fic_or_Die",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9768508672714233,
+            "Type": "PERSON",
+            "Text": "@laughingskull59",
+            "BeginOffset": 16,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9964267611503601,
+            "Type": "DATE",
+            "Text": "8.45pm",
+            "BeginOffset": 33,
+            "EndOffset": 39
+        }
+    ]
+}

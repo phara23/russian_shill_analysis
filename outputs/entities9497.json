@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8269884586334229,
+            "Type": "PERSON",
+            "Text": "@AIIAmericanGirI",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.6505618095397949,
+            "Type": "PERSON",
+            "Text": "Piggy",
+            "BeginOffset": 37,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9968069791793823,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 50,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.7730460166931152,
+            "Type": "PERSON",
+            "Text": "@BIZPACReview",
+            "BeginOffset": 120,
+            "EndOffset": 133
+        }
+    ]
+}

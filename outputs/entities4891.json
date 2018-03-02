@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9077210426330566,
+            "Type": "PERSON",
+            "Text": "@blk_slv_master",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.709550678730011,
+            "Type": "LOCATION",
+            "Text": "Illinois",
+            "BeginOffset": 101,
+            "EndOffset": 109
+        },
+        {
+            "Score": 0.7443541288375854,
+            "Type": "PERSON",
+            "Text": "@Africarevolt",
+            "BeginOffset": 111,
+            "EndOffset": 124
+        },
+        {
+            "Score": 0.8718951344490051,
+            "Type": "PERSON",
+            "Text": "@KeepitRealTea",
+            "BeginOffset": 125,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8499903082847595,
+            "Type": "PERSON",
+            "Text": "@Angrypeanut4",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9474332332611084,
+            "Type": "PERSON",
+            "Text": "Jesus",
+            "BeginOffset": 18,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.5093692541122437,
+            "Type": "EVENT",
+            "Text": "Easter",
+            "BeginOffset": 30,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.6802871227264404,
+            "Type": "ORGANIZATION",
+            "Text": "#EasterIn4Words",
+            "BeginOffset": 43,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.999942421913147,
+            "Type": "OTHER",
+            "Text": "https://t.co/xe6FNp8CtT",
+            "BeginOffset": 59,
+            "EndOffset": 82
+        }
+    ]
+}

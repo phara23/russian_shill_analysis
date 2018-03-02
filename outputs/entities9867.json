@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8542706966400146,
+            "Type": "PERSON",
+            "Text": "@funkflex",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.998998761177063,
+            "Type": "PERSON",
+            "Text": "Chris Brown",
+            "BeginOffset": 45,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.8805662393569946,
+            "Type": "OTHER",
+            "Text": "https://t.co/3SVH17Z3hb",
+            "BeginOffset": 83,
+            "EndOffset": 106
+        }
+    ]
+}

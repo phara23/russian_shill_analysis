@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5049124360084534,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8943572640419006,
+            "Type": "ORGANIZATION",
+            "Text": "@p_kenney",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8260868191719055,
+            "Type": "ORGANIZATION",
+            "Text": "@ABCPolitics",
+            "BeginOffset": 14,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.7523788213729858,
+            "Type": "ORGANIZATION",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 27,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9690259099006653,
+            "Type": "ORGANIZATION",
+            "Text": "@ABC",
+            "BeginOffset": 43,
+            "EndOffset": 47
+        }
+    ]
+}

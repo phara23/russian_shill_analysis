@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8160474300384521,
+            "Type": "PERSON",
+            "Text": "@Bellenore",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8849601149559021,
+            "Type": "PERSON",
+            "Text": "@USACitizen111",
+            "BeginOffset": 15,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9722822308540344,
+            "Type": "PERSON",
+            "Text": "@MarcoGutierrez",
+            "BeginOffset": 30,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.8912922143936157,
+            "Type": "PERSON",
+            "Text": "@latimes",
+            "BeginOffset": 46,
+            "EndOffset": 54
+        }
+    ]
+}

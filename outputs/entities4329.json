@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9626258015632629,
+            "Type": "PERSON",
+            "Text": "Sen. John McCain",
+            "BeginOffset": 13,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9992081522941589,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 35,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.8587216734886169,
+            "Type": "ORGANIZATION",
+            "Text": "Muslim",
+            "BeginOffset": 62,
+            "EndOffset": 68
+        }
+    ]
+}

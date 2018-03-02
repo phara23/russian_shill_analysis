@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7507414221763611,
+            "Type": "PERSON",
+            "Text": "@EBONYMag",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.7309814095497131,
+            "Type": "PERSON",
+            "Text": "@wonderwomentech",
+            "BeginOffset": 37,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.8464349508285522,
+            "Type": "OTHER",
+            "Text": "https://t.co/tVvMqVby9t",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        },
+        {
+            "Score": 0.7752412557601929,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 129,
+            "EndOffset": 138
+        }
+    ]
+}

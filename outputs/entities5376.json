@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9165977239608765,
+            "Type": "PERSON",
+            "Text": "@bad_bad_bernie",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9996402263641357,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 47,
+            "EndOffset": 62
+        }
+    ]
+}

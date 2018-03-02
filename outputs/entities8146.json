@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6912798881530762,
+            "Type": "PERSON",
+            "Text": "Clintons",
+            "BeginOffset": 52,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.8342834115028381,
+            "Type": "PERSON",
+            "Text": "@JudgeJeanine",
+            "BeginOffset": 96,
+            "EndOffset": 109
+        },
+        {
+            "Score": 0.9999597072601318,
+            "Type": "OTHER",
+            "Text": "https://t.co/RAXrCKynY8",
+            "BeginOffset": 110,
+            "EndOffset": 133
+        }
+    ]
+}

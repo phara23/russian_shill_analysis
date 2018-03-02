@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8238226175308228,
+            "Type": "PERSON",
+            "Text": "@ToddieDowns",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9868184328079224,
+            "Type": "PERSON",
+            "Text": "Bruce",
+            "BeginOffset": 43,
+            "EndOffset": 48
+        }
+    ]
+}

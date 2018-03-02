@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.85043865442276,
+            "Type": "PERSON",
+            "Text": "@wtfnewsamerica",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.714305579662323,
+            "Type": "ORGANIZATION",
+            "Text": "#FBI",
+            "BeginOffset": 72,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.9998515844345093,
+            "Type": "OTHER",
+            "Text": "https://t.co/nDuLL7Fy6x",
+            "BeginOffset": 107,
+            "EndOffset": 130
+        }
+    ]
+}

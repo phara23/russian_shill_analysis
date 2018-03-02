@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8881054520606995,
+            "Type": "PERSON",
+            "Text": "@EVKontorovich",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9960579872131348,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 48,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9555153846740723,
+            "Type": "PERSON",
+            "Text": "@bensha",
+            "BeginOffset": 130,
+            "EndOffset": 137
+        }
+    ]
+}

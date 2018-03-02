@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8558019995689392,
+            "Type": "PERSON",
+            "Text": "@KeeganNYC",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9838526248931885,
+            "Type": "ORGANIZATION",
+            "Text": "DHS",
+            "BeginOffset": 15,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8478967547416687,
+            "Type": "ORGANIZATION",
+            "Text": "Russia",
+            "BeginOffset": 24,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.7304079532623291,
+            "Type": "ORGANIZATION",
+            "Text": "DCLeaks",
+            "BeginOffset": 67,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9940366744995117,
+            "Type": "ORGANIZATION",
+            "Text": "Wikileaks",
+            "BeginOffset": 76,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.28393229842185974,
+            "Type": "ORGANIZATION",
+            "Text": "Guccifer",
+            "BeginOffset": 93,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.618006706237793,
+            "Type": "QUANTITY",
+            "Text": "2.0",
+            "BeginOffset": 102,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.9531489610671997,
+            "Type": "OTHER",
+            "Text": "https://t.co/sKJ2w32FMn",
+            "BeginOffset": 112,
+            "EndOffset": 135
+        }
+    ]
+}

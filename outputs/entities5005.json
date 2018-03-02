@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8542712330818176,
+            "Type": "LOCATION",
+            "Text": "Seattle",
+            "BeginOffset": 9,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9761984348297119,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 39,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.999958872795105,
+            "Type": "OTHER",
+            "Text": "http://t.co/PHrG5KSsKJ",
+            "BeginOffset": 74,
+            "EndOffset": 96
+        }
+    ]
+}

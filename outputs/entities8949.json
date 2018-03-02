@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7622806429862976,
+            "Type": "PERSON",
+            "Text": "@ColbyST1",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.6414388418197632,
+            "Type": "QUANTITY",
+            "Text": "#2A",
+            "BeginOffset": 128,
+            "EndOffset": 131
+        }
+    ]
+}

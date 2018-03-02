@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7801870107650757,
+            "Type": "PERSON",
+            "Text": "@MedianPolitics",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9982641935348511,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 81,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.9236845970153809,
+            "Type": "OTHER",
+            "Text": "https://t.co/OImEQarpy1",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.8880430459976196,
+            "Type": "ORGANIZATION",
+            "Text": "@heatstreet",
+            "BeginOffset": 125,
+            "EndOffset": 136
+        }
+    ]
+}

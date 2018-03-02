@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8876382112503052,
+            "Type": "PERSON",
+            "Text": "@OldKnudsen",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8390774726867676,
+            "Type": "EVENT",
+            "Text": "Christmas",
+            "BeginOffset": 51,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9784972667694092,
+            "Type": "ORGANIZATION",
+            "Text": "Amazon",
+            "BeginOffset": 74,
+            "EndOffset": 80
+        }
+    ]
+}

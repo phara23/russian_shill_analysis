@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.683957040309906,
+            "Type": "ORGANIZATION",
+            "Text": "@wikileaks",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9903823733329773,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 27,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9516434073448181,
+            "Type": "OTHER",
+            "Text": "https://t.co/M",
+            "BeginOffset": 125,
+            "EndOffset": 139
+        }
+    ]
+}

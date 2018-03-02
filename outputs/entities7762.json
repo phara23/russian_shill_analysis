@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8287222385406494,
+            "Type": "PERSON",
+            "Text": "@d_stress",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.7096790671348572,
+            "Type": "DATE",
+            "Text": "70d",
+            "BeginOffset": 36,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.6078040599822998,
+            "Type": "ORGANIZATION",
+            "Text": "#canon6d",
+            "BeginOffset": 72,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.9999440908432007,
+            "Type": "OTHER",
+            "Text": "https://t.co/FJorRdXC0C",
+            "BeginOffset": 109,
+            "EndOffset": 132
+        }
+    ]
+}

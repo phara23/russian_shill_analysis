@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8699339032173157,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.4789908528327942,
+            "Type": "PERSON",
+            "Text": "Mayor",
+            "BeginOffset": 15,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.9667156338691711,
+            "Type": "PERSON",
+            "Text": "Sandy",
+            "BeginOffset": 45,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9631521105766296,
+            "Type": "OTHER",
+            "Text": "https://t.co/dCE8W81XW4",
+            "BeginOffset": 80,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.772952139377594,
+            "Type": "ORGANIZATION",
+            "Text": "@NYDailyNews",
+            "BeginOffset": 104,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.9999129772186279,
+            "Type": "OTHER",
+            "Text": "https://t.co/IrezAh9Uop",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

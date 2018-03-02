@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8128839731216431,
+            "Type": "PERSON",
+            "Text": "@kingnting",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.6883643865585327,
+            "Type": "PERSON",
+            "Text": "@DaveBakeBeats",
+            "BeginOffset": 110,
+            "EndOffset": 124
+        },
+        {
+            "Score": 0.9281293153762817,
+            "Type": "OTHER",
+            "Text": "https://t.co",
+            "BeginOffset": 127,
+            "EndOffset": 139
+        }
+    ]
+}

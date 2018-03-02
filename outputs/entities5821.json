@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8244502544403076,
+            "Type": "PERSON",
+            "Text": "@The_Patriot_V",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9953780174255371,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 19,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9930099248886108,
+            "Type": "PERSON",
+            "Text": "Hitler",
+            "BeginOffset": 28,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9999749660491943,
+            "Type": "OTHER",
+            "Text": "https://t.co/x4MVYtwqqd",
+            "BeginOffset": 35,
+            "EndOffset": 58
+        }
+    ]
+}

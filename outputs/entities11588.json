@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8741264343261719,
+            "Type": "PERSON",
+            "Text": "@Steve2duhO",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7158529758453369,
+            "Type": "ORGANIZATION",
+            "Text": "Pizza Party",
+            "BeginOffset": 68,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.9999170303344727,
+            "Type": "OTHER",
+            "Text": "https://t.co/QaRRtYWP6h",
+            "BeginOffset": 80,
+            "EndOffset": 103
+        }
+    ]
+}

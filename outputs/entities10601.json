@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8041502237319946,
+            "Type": "PERSON",
+            "Text": "@lrrykeho",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8915004730224609,
+            "Type": "PERSON",
+            "Text": "@theyearofelan",
+            "BeginOffset": 14,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9735854864120483,
+            "Type": "PERSON",
+            "Text": "@SpeakerRyan",
+            "BeginOffset": 29,
+            "EndOffset": 41
+        }
+    ]
+}

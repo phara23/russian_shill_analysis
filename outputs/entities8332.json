@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8495779037475586,
+            "Type": "PERSON",
+            "Text": "@owillis",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9998179078102112,
+            "Type": "OTHER",
+            "Text": "https://t.co/C5COjPXQNU",
+            "BeginOffset": 34,
+            "EndOffset": 57
+        }
+    ]
+}

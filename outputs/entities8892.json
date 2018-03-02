@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9201149344444275,
+            "Type": "ORGANIZATION",
+            "Text": "Senate",
+            "BeginOffset": 0,
+            "EndOffset": 6
+        },
+        {
+            "Score": 0.9919893145561218,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 34,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.6774181127548218,
+            "Type": "EVENT",
+            "Text": "9/11",
+            "BeginOffset": 50,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9998869895935059,
+            "Type": "OTHER",
+            "Text": "https://t.co/e48HHbCsv5",
+            "BeginOffset": 63,
+            "EndOffset": 86
+        }
+    ]
+}

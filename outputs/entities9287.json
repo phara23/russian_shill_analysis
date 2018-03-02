@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7118887901306152,
+            "Type": "PERSON",
+            "Text": "@TrumpExodus",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9929205775260925,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 15,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.3719054162502289,
+            "Type": "OTHER",
+            "Text": "American",
+            "BeginOffset": 28,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9204457402229309,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 58,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.8288167119026184,
+            "Type": "QUANTITY",
+            "Text": "100+ federal court openings",
+            "BeginOffset": 83,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.849486231803894,
+            "Type": "QUANTITY",
+            "Text": "2X",
+            "BeginOffset": 113,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.9610836505889893,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 126,
+            "EndOffset": 131
+        }
+    ]
+}

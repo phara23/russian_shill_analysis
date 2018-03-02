@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7799514532089233,
+            "Type": "PERSON",
+            "Text": "@em2wice",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8510615825653076,
+            "Type": "ORGANIZATION",
+            "Text": "BBC Sport",
+            "BeginOffset": 13,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9990441203117371,
+            "Type": "PERSON",
+            "Text": "Anthony Joshua",
+            "BeginOffset": 25,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9999657869338989,
+            "Type": "OTHER",
+            "Text": "https://t.co/106cS71w7m",
+            "BeginOffset": 87,
+            "EndOffset": 110
+        }
+    ]
+}

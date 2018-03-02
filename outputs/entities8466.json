@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7858791947364807,
+            "Type": "PERSON",
+            "Text": "@LadyLiberTea",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9781164526939392,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 55,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.5370470881462097,
+            "Type": "PERSON",
+            "Text": "Limbaugh",
+            "BeginOffset": 100,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.7725372314453125,
+            "Type": "PERSON",
+            "Text": "@MikePence",
+            "BeginOffset": 119,
+            "EndOffset": 129
+        },
+        {
+            "Score": 0.6115099191665649,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 133,
+            "EndOffset": 142
+        }
+    ]
+}

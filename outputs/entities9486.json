@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9669973850250244,
+            "Type": "PERSON",
+            "Text": "@DonaldJTrumpJr",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.6844753623008728,
+            "Type": "LOCATION",
+            "Text": "Virginia",
+            "BeginOffset": 20,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9935305714607239,
+            "Type": "DATE",
+            "Text": "today",
+            "BeginOffset": 29,
+            "EndOffset": 34
+        }
+    ]
+}

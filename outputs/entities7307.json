@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7887840270996094,
+            "Type": "PERSON",
+            "Text": "@SadatX",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.8765050768852234,
+            "Type": "PERSON",
+            "Text": "@maryjane1",
+            "BeginOffset": 35,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.633915364742279,
+            "Type": "ORGANIZATION",
+            "Text": "@SadatXWine",
+            "BeginOffset": 66,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9999642372131348,
+            "Type": "OTHER",
+            "Text": "https://t.co/IKDQqmyDam",
+            "BeginOffset": 107,
+            "EndOffset": 130
+        }
+    ]
+}

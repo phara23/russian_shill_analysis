@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.880520224571228,
+            "Type": "PERSON",
+            "Text": "@DarlingEbony",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7363891005516052,
+            "Type": "PERSON",
+            "Text": "Holder",
+            "BeginOffset": 42,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.5618832111358643,
+            "Type": "ORGANIZATION",
+            "Text": "DOJ",
+            "BeginOffset": 54,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.7581850290298462,
+            "Type": "PERSON",
+            "Text": "Sessions",
+            "BeginOffset": 99,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.7774064540863037,
+            "Type": "PERSON",
+            "Text": "Klan",
+            "BeginOffset": 113,
+            "EndOffset": 117
+        }
+    ]
+}

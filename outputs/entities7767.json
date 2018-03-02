@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.732248842716217,
+            "Type": "PERSON",
+            "Text": "@RappersIQ",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8512105941772461,
+            "Type": "QUANTITY",
+            "Text": "First Time",
+            "BeginOffset": 44,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9547284841537476,
+            "Type": "OTHER",
+            "Text": "https://t.co/rwM",
+            "BeginOffset": 123,
+            "EndOffset": 139
+        }
+    ]
+}

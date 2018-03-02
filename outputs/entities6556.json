@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7522534728050232,
+            "Type": "ORGANIZATION",
+            "Text": "@Only4RM",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9941250681877136,
+            "Type": "PERSON",
+            "Text": "Harry Reid",
+            "BeginOffset": 20,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9637277722358704,
+            "Type": "DATE",
+            "Text": "this morning",
+            "BeginOffset": 31,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9151937961578369,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 92,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.7943589687347412,
+            "Type": "LOCATION",
+            "Text": "Russia",
+            "BeginOffset": 98,
+            "EndOffset": 104
+        }
+    ]
+}

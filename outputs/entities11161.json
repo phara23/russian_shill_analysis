@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9803224205970764,
+            "Type": "DATE",
+            "Text": "today",
+            "BeginOffset": 9,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8250212669372559,
+            "Type": "LOCATION",
+            "Text": "St. Petersburg",
+            "BeginOffset": 27,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.999576985836029,
+            "Type": "OTHER",
+            "Text": "https://t.co/BTCbNT4GVs",
+            "BeginOffset": 42,
+            "EndOffset": 65
+        }
+    ]
+}

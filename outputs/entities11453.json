@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8289575576782227,
+            "Type": "PERSON",
+            "Text": "@websquaw",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9985291361808777,
+            "Type": "PERSON",
+            "Text": "Susan Sarandon",
+            "BeginOffset": 14,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9752990007400513,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 30,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.988798201084137,
+            "Type": "OTHER",
+            "Text": "https://t.co/DFV4hTPs2n",
+            "BeginOffset": 70,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.7901253700256348,
+            "Type": "PERSON",
+            "Text": "@TheDemocrats",
+            "BeginOffset": 94,
+            "EndOffset": 107
+        }
+    ]
+}

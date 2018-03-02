@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9106964468955994,
+            "Type": "PERSON",
+            "Text": "@WNeiljohnson",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7987741231918335,
+            "Type": "QUANTITY",
+            "Text": "7 Homosexual U.S. Ambassadors",
+            "BeginOffset": 18,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9999674558639526,
+            "Type": "OTHER",
+            "Text": "http://t.co/M5V97lCW1m",
+            "BeginOffset": 89,
+            "EndOffset": 111
+        }
+    ]
+}

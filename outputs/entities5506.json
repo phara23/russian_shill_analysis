@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9236649870872498,
+            "Type": "PERSON",
+            "Text": "@michaelkeyes",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.6154810190200806,
+            "Type": "PERSON",
+            "Text": "#Clinton",
+            "BeginOffset": 115,
+            "EndOffset": 123
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9986134171485901,
+            "Type": "PERSON",
+            "Text": "Tim Kaine",
+            "BeginOffset": 0,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.936211109161377,
+            "Type": "ORGANIZATION",
+            "Text": "Twitter",
+            "BeginOffset": 25,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.6589648127555847,
+            "Type": "ORGANIZATION",
+            "Text": "Storm  #politics",
+            "BeginOffset": 36,
+            "EndOffset": 52
+        }
+    ]
+}

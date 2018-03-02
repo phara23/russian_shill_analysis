@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8656257390975952,
+            "Type": "ORGANIZATION",
+            "Text": "@A_M_Perez",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8281615972518921,
+            "Type": "ORGANIZATION",
+            "Text": "Jet Blue",
+            "BeginOffset": 73,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.9114478230476379,
+            "Type": "PERSON",
+            "Text": "@IvankaTrump",
+            "BeginOffset": 112,
+            "EndOffset": 124
+        },
+        {
+            "Score": 0.949699342250824,
+            "Type": "PERSON",
+            "Text": "@MattLasner",
+            "BeginOffset": 125,
+            "EndOffset": 136
+        }
+    ]
+}

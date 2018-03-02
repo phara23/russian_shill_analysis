@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8569211959838867,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8195483684539795,
+            "Type": "LOCATION",
+            "Text": "Brooklyn",
+            "BeginOffset": 67,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.9377272725105286,
+            "Type": "OTHER",
+            "Text": "https://t.co/zGjHtpdQ10",
+            "BeginOffset": 85,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.707773745059967,
+            "Type": "ORGANIZATION",
+            "Text": "@ABC7",
+            "BeginOffset": 109,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.7178403735160828,
+            "Type": "LOCATION",
+            "Text": "NY",
+            "BeginOffset": 114,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.9999650716781616,
+            "Type": "OTHER",
+            "Text": "https://t.co/om2iyDsfS5",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

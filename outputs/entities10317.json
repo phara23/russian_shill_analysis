@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9334874153137207,
+            "Type": "PERSON",
+            "Text": "@kurteichenwald",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9941001534461975,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 20,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.999406099319458,
+            "Type": "OTHER",
+            "Text": "https://t.co/nVSTekOfnN",
+            "BeginOffset": 99,
+            "EndOffset": 122
+        }
+    ]
+}

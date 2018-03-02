@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8988485336303711,
+            "Type": "PERSON",
+            "Text": "@SanJosePost",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.29615330696105957,
+            "Type": "ORGANIZATION",
+            "Text": "McDonald",
+            "BeginOffset": 49,
+            "EndOffset": 57
+        }
+    ]
+}

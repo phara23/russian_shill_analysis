@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.948664128780365,
+            "Type": "PERSON",
+            "Text": "@santiagos58",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9995037913322449,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 21,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9998972415924072,
+            "Type": "OTHER",
+            "Text": "https://t.co/m74EQWkoOu",
+            "BeginOffset": 74,
+            "EndOffset": 97
+        }
+    ]
+}

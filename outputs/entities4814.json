@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.878563642501831,
+            "Type": "PERSON",
+            "Text": "@theblaze",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.972912609577179,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 14,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8242093324661255,
+            "Type": "LOCATION",
+            "Text": "U.S.",
+            "BeginOffset": 40,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9858837723731995,
+            "Type": "LOCATION",
+            "Text": "Israel",
+            "BeginOffset": 56,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9845974445343018,
+            "Type": "LOCATION",
+            "Text": "Jerusalem",
+            "BeginOffset": 66,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.999944806098938,
+            "Type": "OTHER",
+            "Text": "https://t.co/wFs40m4Uk4",
+            "BeginOffset": 111,
+            "EndOffset": 134
+        }
+    ]
+}

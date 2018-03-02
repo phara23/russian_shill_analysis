@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8929809927940369,
+            "Type": "PERSON",
+            "Text": "@zerohedge",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.7006840705871582,
+            "Type": "PERSON",
+            "Text": "DUDLEY",
+            "BeginOffset": 15,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.7977291941642761,
+            "Type": "LOCATION",
+            "Text": "UK",
+            "BeginOffset": 57,
+            "EndOffset": 59
+        }
+    ]
+}

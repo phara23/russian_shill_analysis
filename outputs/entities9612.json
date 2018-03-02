@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7110446095466614,
+            "Type": "QUANTITY",
+            "Text": "two",
+            "BeginOffset": 6,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.8946824669837952,
+            "Type": "QUANTITY",
+            "Text": "two continents",
+            "BeginOffset": 30,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9998914003372192,
+            "Type": "OTHER",
+            "Text": "https://t.co/CcKWl1xsFZ",
+            "BeginOffset": 62,
+            "EndOffset": 85
+        }
+    ]
+}

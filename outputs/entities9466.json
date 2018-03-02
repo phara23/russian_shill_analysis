@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4814368784427643,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8504786491394043,
+            "Type": "PERSON",
+            "Text": "@Miami4Trump",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.4340358376502991,
+            "Type": "ORGANIZATION",
+            "Text": "#MuslimBan",
+            "BeginOffset": 118,
+            "EndOffset": 128
+        },
+        {
+            "Score": 0.5255917310714722,
+            "Type": "ORGANIZATION",
+            "Text": "#MAGA",
+            "BeginOffset": 129,
+            "EndOffset": 134
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9798762798309326,
+            "Type": "PERSON",
+            "Text": "Pence",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9937870502471924,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 9,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9980357885360718,
+            "Type": "PERSON",
+            "Text": "Richard Nixon",
+            "BeginOffset": 40,
+            "EndOffset": 53
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6761378049850464,
+            "Type": "ORGANIZATION",
+            "Text": "@wikileaks",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9998614192008972,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 19,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.8670594096183777,
+            "Type": "OTHER",
+            "Text": "https://t.co/WH2vbIsiEI",
+            "BeginOffset": 74,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.9998199343681335,
+            "Type": "OTHER",
+            "Text": "https://t.co/BNyPvdTvuE",
+            "BeginOffset": 98,
+            "EndOffset": 121
+        }
+    ]
+}

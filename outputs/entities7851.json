@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8501606583595276,
+            "Type": "PERSON",
+            "Text": "@ARnews1936",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9072221517562866,
+            "Type": "ORGANIZATION",
+            "Text": "Senate",
+            "BeginOffset": 16,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9996630549430847,
+            "Type": "PERSON",
+            "Text": "Rex Tillerson",
+            "BeginOffset": 32,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9288151264190674,
+            "Type": "OTHER",
+            "Text": "https://t.co/Ei3nGtiUZg",
+            "BeginOffset": 68,
+            "EndOffset": 91
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9219387769699097,
+            "Type": "PERSON",
+            "Text": "@NannieNelson64",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9879162907600403,
+            "Type": "PERSON",
+            "Text": "@Sheri_Hischild",
+            "BeginOffset": 20,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.875594437122345,
+            "Type": "ORGANIZATION",
+            "Text": "@app_jitsu",
+            "BeginOffset": 36,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.8737746477127075,
+            "Type": "ORGANIZATION",
+            "Text": "@DRUDGE_REPORT",
+            "BeginOffset": 47,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9688963294029236,
+            "Type": "ORGANIZATION",
+            "Text": "@YouTube",
+            "BeginOffset": 62,
+            "EndOffset": 70
+        }
+    ]
+}

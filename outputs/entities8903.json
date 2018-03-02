@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8780346512794495,
+            "Type": "PERSON",
+            "Text": "@TeamTrump",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.3036624789237976,
+            "Type": "PERSON",
+            "Text": "#RattledHillary",
+            "BeginOffset": 15,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9957259297370911,
+            "Type": "QUANTITY",
+            "Text": "30 years",
+            "BeginOffset": 55,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9927207231521606,
+            "Type": "QUANTITY",
+            "Text": "30 years",
+            "BeginOffset": 90,
+            "EndOffset": 98
+        }
+    ]
+}

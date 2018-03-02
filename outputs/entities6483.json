@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8022338151931763,
+            "Type": "ORGANIZATION",
+            "Text": "Columbus Dispatch",
+            "BeginOffset": 4,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.4339640140533447,
+            "Type": "ORGANIZATION",
+            "Text": "#HillaryClinton",
+            "BeginOffset": 31,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.8526955842971802,
+            "Type": "QUANTITY",
+            "Text": "First time",
+            "BeginOffset": 48,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.856873095035553,
+            "Type": "PERSON",
+            "Text": "Woodrow Wils",
+            "BeginOffset": 103,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.9999428987503052,
+            "Type": "OTHER",
+            "Text": "https://t.co/NHTeNDec8e",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

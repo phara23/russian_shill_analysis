@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8278497457504272,
+            "Type": "PERSON",
+            "Text": "@SomeKindaBoogin",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9975466132164001,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 25,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.5656411647796631,
+            "Type": "PERSON",
+            "Text": "#Trump",
+            "BeginOffset": 79,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.9888910055160522,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 85,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.9999836683273315,
+            "Type": "OTHER",
+            "Text": "https://t.co/vvMXvqqRFS",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        }
+    ]
+}

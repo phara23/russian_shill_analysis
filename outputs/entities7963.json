@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7018870711326599,
+            "Type": "ORGANIZATION",
+            "Text": "@WIRED",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.5838211178779602,
+            "Type": "ORGANIZATION",
+            "Text": "Apple",
+            "BeginOffset": 11,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.6911748051643372,
+            "Type": "QUANTITY",
+            "Text": "first battery case",
+            "BeginOffset": 19,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9988164901733398,
+            "Type": "COMMERCIAL_ITEM",
+            "Text": "iPhone",
+            "BeginOffset": 48,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9328093528747559,
+            "Type": "OTHER",
+            "Text": "https://t.co/GbQXExpspk",
+            "BeginOffset": 74,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.9999593496322632,
+            "Type": "OTHER",
+            "Text": "https://t.co/EjhzeY1HtE",
+            "BeginOffset": 98,
+            "EndOffset": 121
+        }
+    ]
+}

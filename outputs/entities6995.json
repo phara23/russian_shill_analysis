@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8393057584762573,
+            "Type": "PERSON",
+            "Text": "@OccupyWallStNYC",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9498619437217712,
+            "Type": "QUANTITY",
+            "Text": "Five facts",
+            "BeginOffset": 21,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.34810400009155273,
+            "Type": "ORGANIZATION",
+            "Text": "#AnnaBrown",
+            "BeginOffset": 38,
+            "EndOffset": 48
+        }
+    ]
+}

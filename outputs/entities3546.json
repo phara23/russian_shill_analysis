@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8628997206687927,
+            "Type": "PERSON",
+            "Text": "@Bettieh",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.795159637928009,
+            "Type": "PERSON",
+            "Text": "@TheDemocrats",
+            "BeginOffset": 71,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.40700972080230713,
+            "Type": "QUANTITY",
+            "Text": "2",
+            "BeginOffset": 110,
+            "EndOffset": 111
+        }
+    ]
+}

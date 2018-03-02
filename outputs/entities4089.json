@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8749517202377319,
+            "Type": "PERSON",
+            "Text": "@JusticeWillett",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9064143896102905,
+            "Type": "QUANTITY",
+            "Text": "1st",
+            "BeginOffset": 134,
+            "EndOffset": 137
+        }
+    ]
+}

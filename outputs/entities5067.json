@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8356858491897583,
+            "Type": "PERSON",
+            "Text": "@BoogsMalone",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.5332573652267456,
+            "Type": "QUANTITY",
+            "Text": "one",
+            "BeginOffset": 72,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.9999262094497681,
+            "Type": "OTHER",
+            "Text": "https://t.co/1ATqTTgN7I",
+            "BeginOffset": 76,
+            "EndOffset": 99
+        }
+    ]
+}

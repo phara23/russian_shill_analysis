@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9215857982635498,
+            "Type": "PERSON",
+            "Text": "@peddoc63",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9200853705406189,
+            "Type": "ORGANIZATION",
+            "Text": "Democrats",
+            "BeginOffset": 42,
+            "EndOffset": 51
+        }
+    ]
+}

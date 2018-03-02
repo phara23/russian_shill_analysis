@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9834454655647278,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.4228249788284302,
+            "Type": "PERSON",
+            "Text": "#ResignObama",
+            "BeginOffset": 73,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.566066324710846,
+            "Type": "QUANTITY",
+            "Text": "16",
+            "BeginOffset": 107,
+            "EndOffset": 109
+        },
+        {
+            "Score": 0.9987562894821167,
+            "Type": "OTHER",
+            "Text": "https://t.co/wBAQwUZgIy",
+            "BeginOffset": 110,
+            "EndOffset": 133
+        }
+    ]
+}

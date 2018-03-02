@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.51036137342453,
+            "Type": "EVENT",
+            "Text": "#My2017",
+            "BeginOffset": 0,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.9252813458442688,
+            "Type": "DATE",
+            "Text": "this year",
+            "BeginOffset": 27,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9818347692489624,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 51,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9999852180480957,
+            "Type": "OTHER",
+            "Text": "https://t.co/YYCEM4XcgH",
+            "BeginOffset": 56,
+            "EndOffset": 79
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8503059148788452,
+            "Type": "PERSON",
+            "Text": "@PollyTickal",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8059812188148499,
+            "Type": "PERSON",
+            "Text": "Clintons",
+            "BeginOffset": 27,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.7068092823028564,
+            "Type": "QUANTITY",
+            "Text": "3Words",
+            "BeginOffset": 50,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9999314546585083,
+            "Type": "OTHER",
+            "Text": "https://t.co/4oHZlrnZUH",
+            "BeginOffset": 57,
+            "EndOffset": 80
+        }
+    ]
+}

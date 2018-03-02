@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.84208744764328,
+            "Type": "PERSON",
+            "Text": "@gerfingerpoken",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.703816294670105,
+            "Type": "LOCATION",
+            "Text": "North Carolina",
+            "BeginOffset": 20,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.6130864024162292,
+            "Type": "OTHER",
+            "Text": "American",
+            "BeginOffset": 84,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.81397545337677,
+            "Type": "OTHER",
+            "Text": "https://t.co/RKD8uHTz5y",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        },
+        {
+            "Score": 0.8297606706619263,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 130,
+            "EndOffset": 139
+        }
+    ]
+}

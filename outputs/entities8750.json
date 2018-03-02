@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8755755424499512,
+            "Type": "PERSON",
+            "Text": "@samsteinhp",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9300872683525085,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 20,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9976816177368164,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 91,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.9858452081680298,
+            "Type": "OTHER",
+            "Text": "https://t.co/O9xcTlsk",
+            "BeginOffset": 118,
+            "EndOffset": 139
+        }
+    ]
+}

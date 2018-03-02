@@ -1,0 +1,40 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9957587718963623,
+            "Text": "the size",
+            "BeginOffset": 9,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9994924068450928,
+            "Text": "the dog",
+            "BeginOffset": 21,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9941274523735046,
+            "Text": "the fight",
+            "BeginOffset": 32,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.8043110370635986,
+            "Text": "its the size",
+            "BeginOffset": 42,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9990262389183044,
+            "Text": "the fight",
+            "BeginOffset": 58,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9996689558029175,
+            "Text": "the dog",
+            "BeginOffset": 71,
+            "EndOffset": 78
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8697430491447449,
+            "Type": "PERSON",
+            "Text": "@DanCas2",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9878402352333069,
+            "Type": "QUANTITY",
+            "Text": "1 species",
+            "BeginOffset": 43,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9454574584960938,
+            "Type": "QUANTITY",
+            "Text": "99%",
+            "BeginOffset": 54,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.769927978515625,
+            "Type": "PERSON",
+            "Text": "@AtheistCenter",
+            "BeginOffset": 110,
+            "EndOffset": 124
+        },
+        {
+            "Score": 0.916408896446228,
+            "Type": "OTHER",
+            "Text": "https://t.co/Wsl6",
+            "BeginOffset": 126,
+            "EndOffset": 143
+        }
+    ]
+}

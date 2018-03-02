@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8455246686935425,
+            "Type": "PERSON",
+            "Text": "@RoyalFamily",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7223896980285645,
+            "Type": "PERSON",
+            "Text": "@stjohnambulance",
+            "BeginOffset": 63,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.9419373273849487,
+            "Type": "TITLE",
+            "Text": "Long Service Medal",
+            "BeginOffset": 99,
+            "EndOffset": 117
+        },
+        {
+            "Score": 0.6697232723236084,
+            "Type": "ORGANIZATION",
+            "Text": "National Presi",
+            "BeginOffset": 125,
+            "EndOffset": 139
+        }
+    ]
+}

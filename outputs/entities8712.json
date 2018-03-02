@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5574448704719543,
+            "Type": "LOCATION",
+            "Text": "Syria",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.7055200338363647,
+            "Type": "LOCATION",
+            "Text": "Russia",
+            "BeginOffset": 26,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9981185793876648,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 44,
+            "EndOffset": 49
+        }
+    ]
+}

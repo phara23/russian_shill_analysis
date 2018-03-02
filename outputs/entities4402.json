@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9151386618614197,
+            "Type": "PERSON",
+            "Text": "@pamelava10",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.6873862743377686,
+            "Type": "PERSON",
+            "Text": "@defundPP",
+            "BeginOffset": 32,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9993126392364502,
+            "Type": "OTHER",
+            "Text": "https://t.co/JooeXjArfJ",
+            "BeginOffset": 42,
+            "EndOffset": 65
+        }
+    ]
+}

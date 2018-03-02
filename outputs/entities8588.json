@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8918091058731079,
+            "Type": "PERSON",
+            "Text": "@CIJAinfo",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9900954961776733,
+            "Type": "DATE",
+            "Text": "Today",
+            "BeginOffset": 25,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.8211992979049683,
+            "Type": "ORGANIZATION",
+            "Text": "Queen's Park",
+            "BeginOffset": 32,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.47429922223091125,
+            "Type": "ORGANIZATION",
+            "Text": "#BDS",
+            "BeginOffset": 61,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.4013693332672119,
+            "Type": "ORGANIZATION",
+            "Text": "#onpoli",
+            "BeginOffset": 123,
+            "EndOffset": 130
+        }
+    ]
+}

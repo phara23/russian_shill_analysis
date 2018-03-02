@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9042202234268188,
+            "Type": "PERSON",
+            "Text": "@NancyPelosi",
+            "BeginOffset": 7,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.7752025127410889,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 76,
+            "EndOffset": 81
+        }
+    ]
+}

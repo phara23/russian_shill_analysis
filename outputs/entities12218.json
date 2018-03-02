@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7907924652099609,
+            "Type": "PERSON",
+            "Text": "Der Wähler",
+            "BeginOffset": 0,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.5634109973907471,
+            "Type": "PERSON",
+            "Text": "Wahl",
+            "BeginOffset": 88,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.9996004700660706,
+            "Type": "OTHER",
+            "Text": "https://t.co/WqMyvDGKgb",
+            "BeginOffset": 120,
+            "EndOffset": 143
+        }
+    ]
+}

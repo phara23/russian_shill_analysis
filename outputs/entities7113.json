@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7778364419937134,
+            "Type": "ORGANIZATION",
+            "Text": "@VWNS4U",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.8710765838623047,
+            "Type": "PERSON",
+            "Text": "Newt Gingrich",
+            "BeginOffset": 12,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9774500131607056,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 29,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9992425441741943,
+            "Type": "DATE",
+            "Text": "September 14, 2016",
+            "BeginOffset": 64,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.9757829308509827,
+            "Type": "OTHER",
+            "Text": "https://t.co/BqyymQfvHP",
+            "BeginOffset": 83,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.9893428683280945,
+            "Type": "ORGANIZATION",
+            "Text": "@YouTube",
+            "BeginOffset": 111,
+            "EndOffset": 119
+        }
+    ]
+}

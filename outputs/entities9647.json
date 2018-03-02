@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9248189926147461,
+            "Type": "PERSON",
+            "Text": "@SyedSalehAbbas",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9933564066886902,
+            "Type": "DATE",
+            "Text": "Wednesday",
+            "BeginOffset": 80,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.7648938298225403,
+            "Type": "PERSON",
+            "Text": "God",
+            "BeginOffset": 96,
+            "EndOffset": 99
+        }
+    ]
+}

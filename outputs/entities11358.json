@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.992422878742218,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 0,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.918938159942627,
+            "Type": "LOCATION",
+            "Text": "Syria",
+            "BeginOffset": 22,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9413833022117615,
+            "Type": "OTHER",
+            "Text": "https://t.co/dZ32OV4KPl",
+            "BeginOffset": 41,
+            "EndOffset": 64
+        }
+    ]
+}

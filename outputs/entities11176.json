@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6908630728721619,
+            "Type": "ORGANIZATION",
+            "Text": "@wikileaks",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.7614912390708923,
+            "Type": "ORGANIZATION",
+            "Text": "Wikileaks",
+            "BeginOffset": 26,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.7434278726577759,
+            "Type": "ORGANIZATION",
+            "Text": "#HillaryClinton",
+            "BeginOffset": 37,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9821301698684692,
+            "Type": "PERSON",
+            "Text": "Julian Assange",
+            "BeginOffset": 78,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.9999039173126221,
+            "Type": "OTHER",
+            "Text": "https://t.co/S7tPrl2QCZ",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        }
+    ]
+}

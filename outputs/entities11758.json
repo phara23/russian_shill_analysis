@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9013316631317139,
+            "Type": "PERSON",
+            "Text": "@DanaGeezus",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9947393536567688,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 66,
+            "EndOffset": 73
+        }
+    ]
+}

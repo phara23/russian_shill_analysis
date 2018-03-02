@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8829473853111267,
+            "Type": "PERSON",
+            "Text": "@manslaper",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.7791177034378052,
+            "Type": "QUANTITY",
+            "Text": "twice a night",
+            "BeginOffset": 32,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9940757751464844,
+            "Type": "QUANTITY",
+            "Text": "3 times",
+            "BeginOffset": 60,
+            "EndOffset": 67
+        }
+    ]
+}

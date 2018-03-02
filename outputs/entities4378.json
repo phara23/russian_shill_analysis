@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9457581043243408,
+            "Type": "PERSON",
+            "Text": "@TalibKweli",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9438477158546448,
+            "Type": "QUANTITY",
+            "Text": "73",
+            "BeginOffset": 41,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.7629729509353638,
+            "Type": "QUANTITY",
+            "Text": "FIRST mention",
+            "BeginOffset": 49,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.7840802073478699,
+            "Type": "PERSON",
+            "Text": "@owenlpeacock",
+            "BeginOffset": 93,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.8008051514625549,
+            "Type": "OTHER",
+            "Text": "https://t.co/osVLqD2JRn",
+            "BeginOffset": 107,
+            "EndOffset": 130
+        },
+        {
+            "Score": 0.874313235282898,
+            "Type": "OTHER",
+            "Text": "https://…",
+            "BeginOffset": 131,
+            "EndOffset": 140
+        }
+    ]
+}

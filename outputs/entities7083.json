@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4869958162307739,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8778469562530518,
+            "Type": "PERSON",
+            "Text": "@SassyLassie_13",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9506307244300842,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 39,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.7450935244560242,
+            "Type": "QUANTITY",
+            "Text": "4Words",
+            "BeginOffset": 45,
+            "EndOffset": 51
+        }
+    ]
+}

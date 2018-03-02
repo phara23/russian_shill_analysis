@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7845313549041748,
+            "Type": "PERSON",
+            "Text": "@trillac_",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9715784788131714,
+            "Type": "PERSON",
+            "Text": "Suge Knight",
+            "BeginOffset": 27,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9835981726646423,
+            "Type": "PERSON",
+            "Text": "Suge Knight",
+            "BeginOffset": 72,
+            "EndOffset": 83
+        }
+    ]
+}

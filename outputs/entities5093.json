@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9625167846679688,
+            "Type": "PERSON",
+            "Text": "@AjalaTanya",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9663457870483398,
+            "Type": "PERSON",
+            "Text": "Nigel",
+            "BeginOffset": 20,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.7704187631607056,
+            "Type": "PERSON",
+            "Text": "@POTUS",
+            "BeginOffset": 27,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.954903244972229,
+            "Type": "LOCATION",
+            "Text": "UK",
+            "BeginOffset": 85,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.9642664194107056,
+            "Type": "ORGANIZATION",
+            "Text": "ISIS",
+            "BeginOffset": 101,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.9999781847000122,
+            "Type": "OTHER",
+            "Text": "https://t.co/goz3JstAnE",
+            "BeginOffset": 106,
+            "EndOffset": 129
+        }
+    ]
+}

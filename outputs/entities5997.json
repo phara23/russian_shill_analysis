@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9369871020317078,
+            "Type": "PERSON",
+            "Text": "@Sch_Finans",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9679679870605469,
+            "Type": "OTHER",
+            "Text": "https://t.co/3XCIT7CzX7",
+            "BeginOffset": 54,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9998948574066162,
+            "Type": "OTHER",
+            "Text": "https://t.co/5UAkBPXwH3",
+            "BeginOffset": 98,
+            "EndOffset": 121
+        }
+    ]
+}

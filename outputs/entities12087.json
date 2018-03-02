@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9530202150344849,
+            "Type": "PERSON",
+            "Text": "@riz_05",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9941633939743042,
+            "Type": "PERSON",
+            "Text": "George Martin",
+            "BeginOffset": 23,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.966285765171051,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 38,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.8882114291191101,
+            "Type": "QUANTITY",
+            "Text": "4Words",
+            "BeginOffset": 44,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9996936321258545,
+            "Type": "OTHER",
+            "Text": "https://t.co/OySZtLBHIk",
+            "BeginOffset": 51,
+            "EndOffset": 74
+        }
+    ]
+}

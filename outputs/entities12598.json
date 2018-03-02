@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9250550270080566,
+            "Type": "PERSON",
+            "Text": "@DisavowTrump16",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9933823347091675,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 36,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9171276688575745,
+            "Type": "PERSON",
+            "Text": "Trumper",
+            "BeginOffset": 104,
+            "EndOffset": 111
+        },
+        {
+            "Score": 0.4790550768375397,
+            "Type": "PERSON",
+            "Text": "#Tru",
+            "BeginOffset": 135,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5088922381401062,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.7352094054222107,
+            "Type": "ORGANIZATION",
+            "Text": "@NYC_Everyday",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9912247061729431,
+            "Type": "PERSON",
+            "Text": "Rihanna",
+            "BeginOffset": 18,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.32470980286598206,
+            "Type": "PERSON",
+            "Text": "#showbiz",
+            "BeginOffset": 48,
+            "EndOffset": 56
+        }
+    ]
+}

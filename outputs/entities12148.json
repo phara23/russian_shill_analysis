@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7655861377716064,
+            "Type": "PERSON",
+            "Text": "@ZaibatsuNews",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7538119554519653,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 44,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.943932056427002,
+            "Type": "OTHER",
+            "Text": "https://t.co/pEN3fTRlhM",
+            "BeginOffset": 115,
+            "EndOffset": 138
+        }
+    ]
+}

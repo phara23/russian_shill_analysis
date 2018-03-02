@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9529167413711548,
+            "Type": "ORGANIZATION",
+            "Text": "Muslims",
+            "BeginOffset": 0,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.8256682753562927,
+            "Type": "LOCATION",
+            "Text": "Paris",
+            "BeginOffset": 24,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9998964071273804,
+            "Type": "OTHER",
+            "Text": "https://t.co/9vyPTctgMN",
+            "BeginOffset": 73,
+            "EndOffset": 96
+        }
+    ]
+}

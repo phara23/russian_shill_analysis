@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8226934671401978,
+            "Type": "PERSON",
+            "Text": "@megturney",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9552354216575623,
+            "Type": "OTHER",
+            "Text": "https://t.co",
+            "BeginOffset": 127,
+            "EndOffset": 139
+        }
+    ]
+}

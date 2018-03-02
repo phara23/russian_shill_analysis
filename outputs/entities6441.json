@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9674917459487915,
+            "Type": "PERSON",
+            "Text": "@RyannCooperwood",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8882750868797302,
+            "Type": "LOCATION",
+            "Text": "ATL",
+            "BeginOffset": 35,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.4649960994720459,
+            "Type": "OTHER",
+            "Text": "Ebola",
+            "BeginOffset": 66,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.8342179656028748,
+            "Type": "OTHER",
+            "Text": "Liberian",
+            "BeginOffset": 81,
+            "EndOffset": 89
+        }
+    ]
+}

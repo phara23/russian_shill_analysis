@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9649986028671265,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9945663809776306,
+            "Type": "QUANTITY",
+            "Text": "50 states",
+            "BeginOffset": 66,
+            "EndOffset": 75
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8982439041137695,
+            "Type": "PERSON",
+            "Text": "@Dbargen",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.7589036822319031,
+            "Type": "PERSON",
+            "Text": "@KerryPicket",
+            "BeginOffset": 58,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.38121068477630615,
+            "Type": "ORGANIZATION",
+            "Text": "#NRA",
+            "BeginOffset": 71,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.6607234477996826,
+            "Type": "QUANTITY",
+            "Text": "#2A",
+            "BeginOffset": 87,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9393106698989868,
+            "Type": "OTHER",
+            "Text": "https://t.co/kpAfxJCkcp",
+            "BeginOffset": 112,
+            "EndOffset": 135
+        }
+    ]
+}

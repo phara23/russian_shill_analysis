@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8820275068283081,
+            "Type": "PERSON",
+            "Text": "@SovietSergey",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7929930686950684,
+            "Type": "PERSON",
+            "Text": "president-elect",
+            "BeginOffset": 30,
+            "EndOffset": 45
+        }
+    ]
+}

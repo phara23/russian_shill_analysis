@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8410823941230774,
+            "Type": "PERSON",
+            "Text": "@IanPTrait",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8883142471313477,
+            "Type": "LOCATION",
+            "Text": "Austria",
+            "BeginOffset": 15,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9855636358261108,
+            "Type": "OTHER",
+            "Text": "https://t.co/VM47GJDnPO",
+            "BeginOffset": 53,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.7249534726142883,
+            "Type": "LOCATION",
+            "Text": "UK",
+            "BeginOffset": 88,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9565925598144531,
+            "Type": "OTHER",
+            "Text": "https://t.co/N",
+            "BeginOffset": 125,
+            "EndOffset": 139
+        }
+    ]
+}

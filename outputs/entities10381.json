@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8460013270378113,
+            "Type": "PERSON",
+            "Text": "@Patriotancestry",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8025253415107727,
+            "Type": "QUANTITY",
+            "Text": "10 Ways",
+            "BeginOffset": 25,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9886690974235535,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 33,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.978388249874115,
+            "Type": "OTHER",
+            "Text": "https://t.co/yp9HG8Getd",
+            "BeginOffset": 87,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.9687104225158691,
+            "Type": "ORGANIZATION",
+            "Text": "@CatoInstitute",
+            "BeginOffset": 115,
+            "EndOffset": 129
+        }
+    ]
+}

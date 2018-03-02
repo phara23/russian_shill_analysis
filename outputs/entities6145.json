@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8452875018119812,
+            "Type": "PERSON",
+            "Text": "@KamVTV",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.6505520939826965,
+            "Type": "PERSON",
+            "Text": "#Trump",
+            "BeginOffset": 23,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9997718930244446,
+            "Type": "OTHER",
+            "Text": "https://t.co/2K86qFvfNE",
+            "BeginOffset": 65,
+            "EndOffset": 88
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8536930680274963,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9442839622497559,
+            "Type": "LOCATION",
+            "Text": "Pretoria",
+            "BeginOffset": 23,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.46886441111564636,
+            "Type": "ORGANIZATION",
+            "Text": "Zuma Corruption",
+            "BeginOffset": 35,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9408537745475769,
+            "Type": "OTHER",
+            "Text": "https://t.co/HW1TfJ05sg",
+            "BeginOffset": 67,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.7674378156661987,
+            "Type": "PERSON",
+            "Text": "@AfrikanEyes",
+            "BeginOffset": 91,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.9999797344207764,
+            "Type": "OTHER",
+            "Text": "https://t.co/Z1VkD9RVOn",
+            "BeginOffset": 104,
+            "EndOffset": 127
+        }
+    ]
+}

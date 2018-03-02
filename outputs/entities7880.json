@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8290268182754517,
+            "Type": "PERSON",
+            "Text": "@RevRodFitz1954",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9236531257629395,
+            "Type": "QUANTITY",
+            "Text": "one week",
+            "BeginOffset": 73,
+            "EndOffset": 81
+        }
+    ]
+}

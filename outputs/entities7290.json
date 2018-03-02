@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8968923687934875,
+            "Type": "PERSON",
+            "Text": "@sheabrowning",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.657126247882843,
+            "Type": "ORGANIZATION",
+            "Text": "Krispy Kreme",
+            "BeginOffset": 31,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.6986904740333557,
+            "Type": "PERSON",
+            "Text": "@HashTopiX",
+            "BeginOffset": 63,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.8969659209251404,
+            "Type": "PERSON",
+            "Text": "@HashtagRoundup",
+            "BeginOffset": 74,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.900313675403595,
+            "Type": "PERSON",
+            "Text": "@TheHashtagGame",
+            "BeginOffset": 90,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.9999061822891235,
+            "Type": "OTHER",
+            "Text": "https://t.co/mMM8Wqhm7q",
+            "BeginOffset": 106,
+            "EndOffset": 129
+        }
+    ]
+}

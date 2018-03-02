@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9466868042945862,
+            "Type": "PERSON",
+            "Text": "@samkalidi",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9944467544555664,
+            "Type": "PERSON",
+            "Text": "Putin",
+            "BeginOffset": 70,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.9999750852584839,
+            "Type": "OTHER",
+            "Text": "https://t.co/Agizh4JXGu",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        }
+    ]
+}

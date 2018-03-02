@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9134521484375,
+            "Type": "PERSON",
+            "Text": "@finy06",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.767895519733429,
+            "Type": "PERSON",
+            "Text": "@DCClothesline",
+            "BeginOffset": 12,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.799087405204773,
+            "Type": "LOCATION",
+            "Text": "Israel",
+            "BeginOffset": 66,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.9999059438705444,
+            "Type": "OTHER",
+            "Text": "https://t.co/CPuh5FdEJ4",
+            "BeginOffset": 73,
+            "EndOffset": 96
+        }
+    ]
+}

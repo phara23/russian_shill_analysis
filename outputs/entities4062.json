@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8643243908882141,
+            "Type": "PERSON",
+            "Text": "@CataperEden",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9838516116142273,
+            "Type": "ORGANIZATION",
+            "Text": "Twitter",
+            "BeginOffset": 58,
+            "EndOffset": 65
+        }
+    ]
+}

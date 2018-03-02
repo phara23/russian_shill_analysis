@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.934540331363678,
+            "Type": "PERSON",
+            "Text": "@JK_Callaway",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7024167776107788,
+            "Type": "PERSON",
+            "Text": "@callawayTEACHER",
+            "BeginOffset": 53,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.8152695298194885,
+            "Type": "PERSON",
+            "Text": "Evil Thomas",
+            "BeginOffset": 76,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.9999485015869141,
+            "Type": "OTHER",
+            "Text": "https://t.co/xvrQpUdS0c",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        }
+    ]
+}

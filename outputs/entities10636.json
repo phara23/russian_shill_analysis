@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9066244959831238,
+            "Type": "PERSON",
+            "Text": "@jessicamackk",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8450676798820496,
+            "Type": "OTHER",
+            "Text": "https://t.co/Rk4gyY1N22",
+            "BeginOffset": 95,
+            "EndOffset": 118
+        },
+        {
+            "Score": 0.5686343312263489,
+            "Type": "OTHER",
+            "Text": "Q26",
+            "BeginOffset": 119,
+            "EndOffset": 122
+        },
+        {
+            "Score": 0.9964616894721985,
+            "Type": "OTHER",
+            "Text": "https://t.co/SCpj0oMhP8",
+            "BeginOffset": 123,
+            "EndOffset": 146
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9148597717285156,
+            "Type": "PERSON",
+            "Text": "@betseyross",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.46668609976768494,
+            "Type": "QUANTITY",
+            "Text": "one",
+            "BeginOffset": 57,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9868113398551941,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 83,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.5160807967185974,
+            "Type": "QUANTITY",
+            "Text": "1000's",
+            "BeginOffset": 92,
+            "EndOffset": 98
+        }
+    ]
+}

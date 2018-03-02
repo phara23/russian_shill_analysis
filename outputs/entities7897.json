@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.827503502368927,
+            "Type": "PERSON",
+            "Text": "@FreeDavidKing",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9328829646110535,
+            "Type": "PERSON",
+            "Text": "@rolandscahill",
+            "BeginOffset": 19,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9908255934715271,
+            "Type": "PERSON",
+            "Text": "@KellyCa24212201",
+            "BeginOffset": 34,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9854230284690857,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 51,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9999281167984009,
+            "Type": "OTHER",
+            "Text": "https://t.co/nN4Hf3VkfB",
+            "BeginOffset": 89,
+            "EndOffset": 112
+        }
+    ]
+}

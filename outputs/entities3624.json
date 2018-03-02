@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7697029709815979,
+            "Type": "PERSON",
+            "Text": "@BIZPACReview",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9982286095619202,
+            "Type": "PERSON",
+            "Text": "Jesse Watters",
+            "BeginOffset": 18,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9989621043205261,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 71,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.8647379279136658,
+            "Type": "OTHER",
+            "Text": "https://t.co/7uMByppux0",
+            "BeginOffset": 104,
+            "EndOffset": 127
+        },
+        {
+            "Score": 0.942297637462616,
+            "Type": "OTHER",
+            "Text": "https://t.c",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

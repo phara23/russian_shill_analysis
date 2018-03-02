@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8321453928947449,
+            "Type": "PERSON",
+            "Text": "@Neoavatara",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9075919389724731,
+            "Type": "ORGANIZATION",
+            "Text": "Republican",
+            "BeginOffset": 85,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.9985927939414978,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 97,
+            "EndOffset": 109
+        },
+        {
+            "Score": 0.9872094392776489,
+            "Type": "OTHER",
+            "Text": "https://t.co/SZBmLxJO",
+            "BeginOffset": 118,
+            "EndOffset": 139
+        }
+    ]
+}

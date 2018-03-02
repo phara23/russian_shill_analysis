@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8334776163101196,
+            "Type": "PERSON",
+            "Text": "@CalamazoMajjiin",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9449238777160645,
+            "Type": "QUANTITY",
+            "Text": "1",
+            "BeginOffset": 21,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9736614227294922,
+            "Type": "QUANTITY",
+            "Text": "4",
+            "BeginOffset": 26,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9994761347770691,
+            "Type": "OTHER",
+            "Text": "https://t.co/QLZb9RHeGy",
+            "BeginOffset": 28,
+            "EndOffset": 51
+        }
+    ]
+}

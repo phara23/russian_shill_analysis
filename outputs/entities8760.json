@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8555160164833069,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.729633629322052,
+            "Type": "ORGANIZATION",
+            "Text": "Planned Parenthood",
+            "BeginOffset": 15,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9479425549507141,
+            "Type": "OTHER",
+            "Text": "https://t.co/nRcokGbsrV",
+            "BeginOffset": 76,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.8919581174850464,
+            "Type": "ORGANIZATION",
+            "Text": "@CNSNews",
+            "BeginOffset": 100,
+            "EndOffset": 108
+        }
+    ]
+}

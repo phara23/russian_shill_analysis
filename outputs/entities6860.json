@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9361677169799805,
+            "Type": "PERSON",
+            "Text": "@nook71715",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8708905577659607,
+            "Type": "EVENT",
+            "Text": "#InaugurationDay2017",
+            "BeginOffset": 59,
+            "EndOffset": 79
+        }
+    ]
+}

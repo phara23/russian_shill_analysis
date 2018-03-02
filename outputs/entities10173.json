@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.898619532585144,
+            "Type": "PERSON",
+            "Text": "@MeganSmiles",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.969105064868927,
+            "Type": "PERSON",
+            "Text": "@KamalaHarris",
+            "BeginOffset": 18,
+            "EndOffset": 31
+        }
+    ]
+}

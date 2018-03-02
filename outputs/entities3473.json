@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9458067417144775,
+            "Type": "PERSON",
+            "Text": "@Stevenwhirsch99",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.715133011341095,
+            "Type": "PERSON",
+            "Text": "#Trump",
+            "BeginOffset": 21,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.48005232214927673,
+            "Type": "OTHER",
+            "Text": "Americans",
+            "BeginOffset": 53,
+            "EndOffset": 62
+        }
+    ]
+}

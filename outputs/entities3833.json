@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6522054076194763,
+            "Type": "PERSON",
+            "Text": "@RTSQUAD",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8363276720046997,
+            "Type": "PERSON",
+            "Text": "@sjthomas16",
+            "BeginOffset": 54,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.7719066143035889,
+            "Type": "PERSON",
+            "Text": "@ #McDougalProperties",
+            "BeginOffset": 80,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.7347236275672913,
+            "Type": "OTHER",
+            "Text": "https://t.co/He1ZMNeePv",
+            "BeginOffset": 102,
+            "EndOffset": 125
+        },
+        {
+            "Score": 0.952190101146698,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

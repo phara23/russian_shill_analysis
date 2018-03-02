@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8360182642936707,
+            "Type": "PERSON",
+            "Text": "@Joe_America",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.92652428150177,
+            "Type": "DATE",
+            "Text": "1776",
+            "BeginOffset": 15,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.4582061469554901,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 31,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9862196445465088,
+            "Type": "ORGANIZATION",
+            "Text": "ISIS",
+            "BeginOffset": 53,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9996252059936523,
+            "Type": "OTHER",
+            "Text": "https://t.co/EsNLLO3GtI",
+            "BeginOffset": 86,
+            "EndOffset": 109
+        }
+    ]
+}

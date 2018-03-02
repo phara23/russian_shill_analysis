@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.896666944026947,
+            "Type": "PERSON",
+            "Text": "@cmdorsey",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.40791791677474976,
+            "Type": "TITLE",
+            "Text": "80686 OWNERS",
+            "BeginOffset": 19,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.6751080751419067,
+            "Type": "QUANTITY",
+            "Text": "2 STOP",
+            "BeginOffset": 59,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.7046135067939758,
+            "Type": "PERSON",
+            "Text": "@TedCruz\nR",
+            "BeginOffset": 66,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.9047912955284119,
+            "Type": "PERSON",
+            "Text": "HILLARY",
+            "BeginOffset": 116,
+            "EndOffset": 123
+        },
+        {
+            "Score": 0.7605196833610535,
+            "Type": "PERSON",
+            "Text": "ROMNEY",
+            "BeginOffset": 130,
+            "EndOffset": 136
+        },
+        {
+            "Score": 0.8367603421211243,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 137,
+            "EndOffset": 150
+        }
+    ]
+}

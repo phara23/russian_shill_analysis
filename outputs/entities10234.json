@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8670133352279663,
+            "Type": "PERSON",
+            "Text": "@Patriot_Drew",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9625250697135925,
+            "Type": "ORGANIZATION",
+            "Text": "Twitter",
+            "BeginOffset": 22,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9857920408248901,
+            "Type": "ORGANIZATION",
+            "Text": "FBI",
+            "BeginOffset": 70,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.6955277323722839,
+            "Type": "QUANTITY",
+            "Text": "#2",
+            "BeginOffset": 74,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.3779653310775757,
+            "Type": "OTHER",
+            "Text": "British",
+            "BeginOffset": 97,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.9937219023704529,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 127,
+            "EndOffset": 132
+        }
+    ]
+}

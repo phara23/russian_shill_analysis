@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8993310928344727,
+            "Type": "PERSON",
+            "Text": "@nine_oh",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9989880919456482,
+            "Type": "PERSON",
+            "Text": "Rick Ross",
+            "BeginOffset": 52,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9999308586120605,
+            "Type": "OTHER",
+            "Text": "https://t.co/iChLzWqg0Y",
+            "BeginOffset": 72,
+            "EndOffset": 95
+        }
+    ]
+}

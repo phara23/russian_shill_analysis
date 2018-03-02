@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6404712200164795,
+            "Type": "ORGANIZATION",
+            "Text": "@conservtivemom",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8617942333221436,
+            "Type": "PERSON",
+            "Text": "@DrDHMenke",
+            "BeginOffset": 20,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9618579149246216,
+            "Type": "PERSON",
+            "Text": "Glenn",
+            "BeginOffset": 82,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.957715630531311,
+            "Type": "PERSON",
+            "Text": "@glennbeck",
+            "BeginOffset": 127,
+            "EndOffset": 137
+        }
+    ]
+}

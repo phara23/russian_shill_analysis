@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9578257203102112,
+            "Type": "PERSON",
+            "Text": "@MissAngelaDavis",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.6765182018280029,
+            "Type": "PERSON",
+            "Text": "@HaughtybyNature",
+            "BeginOffset": 34,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9995885491371155,
+            "Type": "OTHER",
+            "Text": "https://t.co/aVDoPMbikp",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        }
+    ]
+}

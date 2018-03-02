@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8662202954292297,
+            "Type": "PERSON",
+            "Text": "@HeerJeet",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9969755411148071,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 49,
+            "EndOffset": 54
+        }
+    ]
+}

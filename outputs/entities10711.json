@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8837714195251465,
+            "Type": "PERSON",
+            "Text": "@rhonlirob",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9953879714012146,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 63,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9998146891593933,
+            "Type": "OTHER",
+            "Text": "https://t.co/uOh0ESkAaw",
+            "BeginOffset": 92,
+            "EndOffset": 115
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9445195198059082,
+            "Type": "ORGANIZATION",
+            "Text": "Republican National Committee",
+            "BeginOffset": 0,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.8971002101898193,
+            "Type": "LOCATION",
+            "Text": "Ohio",
+            "BeginOffset": 46,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9990252256393433,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 67,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.8848316073417664,
+            "Type": "OTHER",
+            "Text": "https://t.co/0D1FI5Es72",
+            "BeginOffset": 104,
+            "EndOffset": 127
+        }
+    ]
+}

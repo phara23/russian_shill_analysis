@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8743377327919006,
+            "Type": "ORGANIZATION",
+            "Text": "@CBSNews",
+            "BeginOffset": 0,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.8529914617538452,
+            "Type": "PERSON",
+            "Text": "@BernieSanders",
+            "BeginOffset": 9,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9220376014709473,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 24,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9598628282546997,
+            "Type": "PERSON",
+            "Text": "@MartinOMalley",
+            "BeginOffset": 40,
+            "EndOffset": 54
+        }
+    ]
+}

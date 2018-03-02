@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7845436334609985,
+            "Type": "PERSON",
+            "Text": "@theinquisitr",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9553737044334412,
+            "Type": "QUANTITY",
+            "Text": "2,747 Tweets",
+            "BeginOffset": 43,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.6436372995376587,
+            "Type": "ORGANIZATION",
+            "Text": "Uber Headquarter",
+            "BeginOffset": 59,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.93504798412323,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 106,
+            "EndOffset": 111
+        },
+        {
+            "Score": 0.9229874014854431,
+            "Type": "OTHER",
+            "Text": "https://t.co/Q6F",
+            "BeginOffset": 123,
+            "EndOffset": 139
+        }
+    ]
+}

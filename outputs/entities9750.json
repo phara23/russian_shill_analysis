@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9354262351989746,
+            "Type": "PERSON",
+            "Text": "@MattMurph24",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9880704879760742,
+            "Type": "DATE",
+            "Text": "2020",
+            "BeginOffset": 46,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.8415977358818054,
+            "Type": "QUANTITY",
+            "Text": "1st midterm",
+            "BeginOffset": 56,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9998786449432373,
+            "Type": "OTHER",
+            "Text": "https://t.co/vBAVX1v5AW",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        }
+    ]
+}

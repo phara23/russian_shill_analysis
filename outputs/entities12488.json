@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.914190411567688,
+            "Type": "PERSON",
+            "Text": "@ashriel5",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.6886445879936218,
+            "Type": "PERSON",
+            "Text": "#RTifYouAre Rex",
+            "BeginOffset": 14,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.698906421661377,
+            "Type": "PERSON",
+            "Text": "Tyrannosaurus",
+            "BeginOffset": 31,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9999845027923584,
+            "Type": "OTHER",
+            "Text": "https://t.co/axWM2UP9DR",
+            "BeginOffset": 45,
+            "EndOffset": 68
+        }
+    ]
+}

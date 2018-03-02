@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.810091495513916,
+            "Type": "PERSON",
+            "Text": "@ZaibatsuNews",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8943894505500793,
+            "Type": "LOCATION",
+            "Text": "South Carolina",
+            "BeginOffset": 18,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9886125922203064,
+            "Type": "DATE",
+            "Text": "2015",
+            "BeginOffset": 73,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.7774000763893127,
+            "Type": "OTHER",
+            "Text": "https://t.co/s6vfEzrhQn",
+            "BeginOffset": 92,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.7845816016197205,
+            "Type": "ORGANIZATION",
+            "Text": "#p2 #ctl",
+            "BeginOffset": 116,
+            "EndOffset": 124
+        },
+        {
+            "Score": 0.9541930556297302,
+            "Type": "OTHER",
+            "Text": "https://t.co/4",
+            "BeginOffset": 125,
+            "EndOffset": 139
+        }
+    ]
+}

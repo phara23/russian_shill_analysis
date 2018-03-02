@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9216348528862,
+            "Type": "PERSON",
+            "Text": "@kausmickey",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9986222982406616,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 23,
+            "EndOffset": 28
+        }
+    ]
+}

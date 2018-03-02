@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6752523183822632,
+            "Type": "ORGANIZATION",
+            "Text": "@HipHopDX",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9892396926879883,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 38,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9478425979614258,
+            "Type": "OTHER",
+            "Text": "https://t.co/C6UuOydkcU",
+            "BeginOffset": 43,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9999958276748657,
+            "Type": "OTHER",
+            "Text": "https://t.co/i4zkbHpGS9",
+            "BeginOffset": 67,
+            "EndOffset": 90
+        }
+    ]
+}

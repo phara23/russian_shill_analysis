@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8454671502113342,
+            "Type": "PERSON",
+            "Text": "@theblaze",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9995683431625366,
+            "Type": "PERSON",
+            "Text": "Steve Martin",
+            "BeginOffset": 14,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.998325526714325,
+            "Type": "PERSON",
+            "Text": "Carrie Fisher",
+            "BeginOffset": 54,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9061980247497559,
+            "Type": "OTHER",
+            "Text": "https://t.co/TytgI506y1",
+            "BeginOffset": 106,
+            "EndOffset": 129
+        },
+        {
+            "Score": 0.8323385715484619,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 130,
+            "EndOffset": 139
+        }
+    ]
+}

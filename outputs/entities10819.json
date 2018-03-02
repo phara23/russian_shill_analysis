@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.910053551197052,
+            "Type": "PERSON",
+            "Text": "@Gorimaslo",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9946393370628357,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 24,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9695054292678833,
+            "Type": "OTHER",
+            "Text": "https://t.co/9JhLx1OHP9",
+            "BeginOffset": 92,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.7932161092758179,
+            "Type": "ORGANIZATION",
+            "Text": "@AppSame",
+            "BeginOffset": 130,
+            "EndOffset": 138
+        }
+    ]
+}

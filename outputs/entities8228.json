@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9942789077758789,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.984621524810791,
+            "Type": "PERSON",
+            "Text": "Mark",
+            "BeginOffset": 53,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9659252762794495,
+            "Type": "LOCATION",
+            "Text": "Hawaii",
+            "BeginOffset": 81,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.9999855756759644,
+            "Type": "OTHER",
+            "Text": "https://t.co/5gv7NXa9d6",
+            "BeginOffset": 99,
+            "EndOffset": 122
+        }
+    ]
+}

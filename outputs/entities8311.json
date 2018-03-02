@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9317440390586853,
+            "Type": "PERSON",
+            "Text": "@MLKrivanek",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9693136811256409,
+            "Type": "PERSON",
+            "Text": "@docrocktex26",
+            "BeginOffset": 16,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9617282748222351,
+            "Type": "PERSON",
+            "Text": "@Shareblue",
+            "BeginOffset": 30,
+            "EndOffset": 40
+        }
+    ]
+}

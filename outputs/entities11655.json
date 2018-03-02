@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7886813879013062,
+            "Type": "PERSON",
+            "Text": "@FacMagnaAmerica",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.968791127204895,
+            "Type": "PERSON",
+            "Text": "@LesleyRStahl",
+            "BeginOffset": 22,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.8589013814926147,
+            "Type": "QUANTITY",
+            "Text": "#60Minutes",
+            "BeginOffset": 89,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.6701146364212036,
+            "Type": "ORGANIZATION",
+            "Text": "DJT",
+            "BeginOffset": 110,
+            "EndOffset": 113
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9075328707695007,
+            "Type": "PERSON",
+            "Text": "@WayneRoot",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.994684636592865,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 15,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.9999724626541138,
+            "Type": "OTHER",
+            "Text": "https://t.co/LX4tiJ1sq2",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        }
+    ]
+}

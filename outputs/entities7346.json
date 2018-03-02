@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8941453099250793,
+            "Type": "PERSON",
+            "Text": "@BCayenneBird",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.37111255526542664,
+            "Type": "ORGANIZATION",
+            "Text": "#JillStein",
+            "BeginOffset": 54,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9748266935348511,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 68,
+            "EndOffset": 75
+        }
+    ]
+}

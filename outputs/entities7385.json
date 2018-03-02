@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8362013101577759,
+            "Type": "PERSON",
+            "Text": "@AIIAmericanGirI",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8900949358940125,
+            "Type": "LOCATION",
+            "Text": "Egypt",
+            "BeginOffset": 24,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9121779203414917,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 44,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9999043941497803,
+            "Type": "OTHER",
+            "Text": "http://t.co/s3JbyuL3ok",
+            "BeginOffset": 102,
+            "EndOffset": 124
+        }
+    ]
+}

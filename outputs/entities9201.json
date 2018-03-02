@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8731507658958435,
+            "Type": "PERSON",
+            "Text": "@PatriotByGod",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.49577468633651733,
+            "Type": "ORGANIZATION",
+            "Text": "#RNCinCLE",
+            "BeginOffset": 18,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.2505986988544464,
+            "Type": "LOCATION",
+            "Text": "#America",
+            "BeginOffset": 90,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.8678120374679565,
+            "Type": "QUANTITY",
+            "Text": "1st",
+            "BeginOffset": 98,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.9997096657752991,
+            "Type": "OTHER",
+            "Text": "https://t.co/HvoqVNOBeX",
+            "BeginOffset": 102,
+            "EndOffset": 125
+        }
+    ]
+}

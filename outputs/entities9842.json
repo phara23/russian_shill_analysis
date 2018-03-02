@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8900700807571411,
+            "Type": "PERSON",
+            "Text": "@BikinInMaine",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.5979478359222412,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 18,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.9070392847061157,
+            "Type": "PERSON",
+            "Text": "@bcwilliams92",
+            "BeginOffset": 21,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.7632415294647217,
+            "Type": "PERSON",
+            "Text": "@tedcruz",
+            "BeginOffset": 105,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.9607377648353577,
+            "Type": "OTHER",
+            "Text": "https://t.co/w5UzRkC1bE",
+            "BeginOffset": 114,
+            "EndOffset": 137
+        }
+    ]
+}

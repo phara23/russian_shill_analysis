@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9218665957450867,
+            "Type": "PERSON",
+            "Text": "@speakinmytruth",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8129140734672546,
+            "Type": "PERSON",
+            "Text": "Rob",
+            "BeginOffset": 20,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9998815059661865,
+            "Type": "OTHER",
+            "Text": "https://t.co/NJezwyhf3n",
+            "BeginOffset": 33,
+            "EndOffset": 56
+        }
+    ]
+}

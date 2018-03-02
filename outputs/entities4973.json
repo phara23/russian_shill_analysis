@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7265527248382568,
+            "Type": "ORGANIZATION",
+            "Text": "@NYDailyNews",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8583559989929199,
+            "Type": "QUANTITY",
+            "Text": "more than two people per day",
+            "BeginOffset": 42,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9375510215759277,
+            "Type": "DATE",
+            "Text": "this year",
+            "BeginOffset": 82,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.8732649683952332,
+            "Type": "LOCATION",
+            "Text": "U.S.",
+            "BeginOffset": 99,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.5566978454589844,
+            "Type": "OTHER",
+            "Text": "http://t.co/CTWVuDbS4q",
+            "BeginOffset": 104,
+            "EndOffset": 126
+        },
+        {
+            "Score": 0.8911665081977844,
+            "Type": "OTHER",
+            "Text": "http://t.co/",
+            "BeginOffset": 127,
+            "EndOffset": 139
+        }
+    ]
+}

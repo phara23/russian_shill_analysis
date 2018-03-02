@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9812164306640625,
+            "Type": "PERSON",
+            "Text": "@BSdetector8000",
+            "BeginOffset": 0,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.5598352551460266,
+            "Type": "ORGANIZATION",
+            "Text": "islam",
+            "BeginOffset": 135,
+            "EndOffset": 140
+        }
+    ]
+}

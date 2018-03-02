@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6724518537521362,
+            "Type": "PERSON",
+            "Text": "@LifeNewsHQ",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8520815372467041,
+            "Type": "OTHER",
+            "Text": "https://t.co/jJYpQzGqZH",
+            "BeginOffset": 80,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.99992835521698,
+            "Type": "OTHER",
+            "Text": "https://t.co/O86UENrSmG",
+            "BeginOffset": 104,
+            "EndOffset": 127
+        }
+    ]
+}

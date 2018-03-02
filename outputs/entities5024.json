@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9141420125961304,
+            "Type": "PERSON",
+            "Text": "@JulietaPedrosa",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7143429517745972,
+            "Type": "QUANTITY",
+            "Text": "4Words",
+            "BeginOffset": 33,
+            "EndOffset": 39
+        }
+    ]
+}

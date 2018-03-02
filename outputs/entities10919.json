@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4943927228450775,
+            "Type": "PERSON",
+            "Text": "N.J.",
+            "BeginOffset": 0,
+            "EndOffset": 4
+        },
+        {
+            "Score": 0.9727767705917358,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 52,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.999946117401123,
+            "Type": "OTHER",
+            "Text": "https://t.co/8suu8NuRQi",
+            "BeginOffset": 66,
+            "EndOffset": 89
+        }
+    ]
+}

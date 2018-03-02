@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7113701105117798,
+            "Type": "PERSON",
+            "Text": "@RealNewsTarget",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7075695991516113,
+            "Type": "PERSON",
+            "Text": "Clinton Dynasty",
+            "BeginOffset": 52,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9663552641868591,
+            "Type": "OTHER",
+            "Text": "https://t.co/T2C32d7Tr3",
+            "BeginOffset": 68,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.8847524523735046,
+            "Type": "OTHER",
+            "Text": "https://t.co/t",
+            "BeginOffset": 125,
+            "EndOffset": 139
+        }
+    ]
+}

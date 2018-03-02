@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9675511121749878,
+            "Type": "PERSON",
+            "Text": "@JohnFromCranber",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.606174647808075,
+            "Type": "PERSON",
+            "Text": "Lerner",
+            "BeginOffset": 21,
+            "EndOffset": 27
+        }
+    ]
+}

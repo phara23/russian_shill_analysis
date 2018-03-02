@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5088922381401062,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.7104371786117554,
+            "Type": "ORGANIZATION",
+            "Text": "@NYC_Everyday",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.989020824432373,
+            "Type": "ORGANIZATION",
+            "Text": "Red Bulls",
+            "BeginOffset": 18,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.8049775958061218,
+            "Type": "ORGANIZATION",
+            "Text": "New York City F.C",
+            "BeginOffset": 32,
+            "EndOffset": 49
+        }
+    ]
+}

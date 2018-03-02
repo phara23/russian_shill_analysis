@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4981703460216522,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8887847661972046,
+            "Type": "PERSON",
+            "Text": "@Booth_Prince",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7876566648483276,
+            "Type": "OTHER",
+            "Text": "Zika",
+            "BeginOffset": 66,
+            "EndOffset": 70
+        }
+    ]
+}

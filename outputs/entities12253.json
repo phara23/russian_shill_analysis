@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8236262202262878,
+            "Type": "PERSON",
+            "Text": "@kalpenn",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8208090662956238,
+            "Type": "ORGANIZATION",
+            "Text": "@Twitter",
+            "BeginOffset": 13,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.8711376190185547,
+            "Type": "ORGANIZATION",
+            "Text": "@twitter",
+            "BeginOffset": 100,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.952032744884491,
+            "Type": "QUANTITY",
+            "Text": "7.4 billion",
+            "BeginOffset": 121,
+            "EndOffset": 132
+        }
+    ]
+}

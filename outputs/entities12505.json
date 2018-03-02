@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6752442717552185,
+            "Type": "PERSON",
+            "Text": "@endtimescartoon",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.27891314029693604,
+            "Type": "ORGANIZATION",
+            "Text": "#StarWars",
+            "BeginOffset": 21,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9999759197235107,
+            "Type": "OTHER",
+            "Text": "https://t.co/bdlu2Wj7Pz",
+            "BeginOffset": 31,
+            "EndOffset": 54
+        }
+    ]
+}

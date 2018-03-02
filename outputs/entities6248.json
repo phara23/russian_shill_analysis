@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9569721817970276,
+            "Type": "PERSON",
+            "Text": "@TrueCharLen",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9320248961448669,
+            "Type": "ORGANIZATION",
+            "Text": "Democratic Party",
+            "BeginOffset": 53,
+            "EndOffset": 69
+        }
+    ]
+}

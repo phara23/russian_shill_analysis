@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9357196688652039,
+            "Type": "PERSON",
+            "Text": "@pennybishop16",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7000221610069275,
+            "Type": "PERSON",
+            "Text": "Hillary Rotten",
+            "BeginOffset": 53,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9854427576065063,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 68,
+            "EndOffset": 75
+        }
+    ]
+}

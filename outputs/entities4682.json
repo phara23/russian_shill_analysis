@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5307989716529846,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8403497934341431,
+            "Type": "ORGANIZATION",
+            "Text": "@TEN_GOP",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9613400101661682,
+            "Type": "QUANTITY",
+            "Text": "55%",
+            "BeginOffset": 26,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9877485632896423,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 52,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.5229792594909668,
+            "Type": "ORGANIZATION",
+            "Text": "christian",
+            "BeginOffset": 63,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.9465585350990295,
+            "Type": "OTHER",
+            "Text": "https://t.co/595lxE8rlv",
+            "BeginOffset": 89,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.9999932050704956,
+            "Type": "OTHER",
+            "Text": "https://t.co/4lQiBqB1BL",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        }
+    ]
+}

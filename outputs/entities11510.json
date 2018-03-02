@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8837222456932068,
+            "Type": "PERSON",
+            "Text": "@propriator",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9659902453422546,
+            "Type": "OTHER",
+            "Text": "https://t.co/dzVuQEMwgS",
+            "BeginOffset": 83,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.8263999223709106,
+            "Type": "PERSON",
+            "Text": "@Beys_pearl",
+            "BeginOffset": 111,
+            "EndOffset": 122
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8035050630569458,
+            "Type": "ORGANIZATION",
+            "Text": "@eB2B_entertain",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9931002855300903,
+            "Type": "ORGANIZATION",
+            "Text": "Facebook",
+            "BeginOffset": 45,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9970332384109497,
+            "Type": "ORGANIZATION",
+            "Text": "Facebook",
+            "BeginOffset": 69,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9999732971191406,
+            "Type": "OTHER",
+            "Text": "https://t.co/S8beJXqiQV",
+            "BeginOffset": 89,
+            "EndOffset": 112
+        }
+    ]
+}

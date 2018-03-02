@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8408088684082031,
+            "Type": "PERSON",
+            "Text": "@redsteeze",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8627833724021912,
+            "Type": "QUANTITY",
+            "Text": "Both",
+            "BeginOffset": 15,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9902770519256592,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 20,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9976596832275391,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 32,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.8828325867652893,
+            "Type": "LOCATION",
+            "Text": "NYC",
+            "BeginOffset": 47,
+            "EndOffset": 50
+        }
+    ]
+}

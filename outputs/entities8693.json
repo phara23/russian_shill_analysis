@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9889777302742004,
+            "Type": "QUANTITY",
+            "Text": "4 states",
+            "BeginOffset": 0,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.9838191270828247,
+            "Type": "DATE",
+            "Text": "Nov. 8",
+            "BeginOffset": 41,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.7920289039611816,
+            "Type": "OTHER",
+            "Text": "https://t.co/fHk8DzAa3A",
+            "BeginOffset": 57,
+            "EndOffset": 80
+        }
+    ]
+}

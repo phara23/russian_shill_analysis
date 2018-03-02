@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9441528916358948,
+            "Type": "PERSON",
+            "Text": "@TheRealJahBaby",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8465646505355835,
+            "Type": "PERSON",
+            "Text": "Jah Baby",
+            "BeginOffset": 30,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9897217154502869,
+            "Type": "OTHER",
+            "Text": "https://t.co/2xRRUSTKK9",
+            "BeginOffset": 70,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.7641884684562683,
+            "Type": "PERSON",
+            "Text": "@IndyTapes",
+            "BeginOffset": 94,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.9777803421020508,
+            "Type": "PERSON",
+            "Text": "@TheRealJahBaby",
+            "BeginOffset": 105,
+            "EndOffset": 120
+        }
+    ]
+}

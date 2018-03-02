@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8593130111694336,
+            "Type": "PERSON",
+            "Text": "@englishseaside1",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.5589361786842346,
+            "Type": "OTHER",
+            "Text": "German",
+            "BeginOffset": 59,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.7378179430961609,
+            "Type": "QUANTITY",
+            "Text": "3rd",
+            "BeginOffset": 104,
+            "EndOffset": 107
+        }
+    ]
+}

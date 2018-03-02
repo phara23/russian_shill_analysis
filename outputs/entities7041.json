@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4814368784427643,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8486793041229248,
+            "Type": "PERSON",
+            "Text": "@Miami4Trump",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8458252549171448,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 48,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.848200798034668,
+            "Type": "PERSON",
+            "Text": "Barry DIDNT",
+            "BeginOffset": 87,
+            "EndOffset": 98
+        }
+    ]
+}

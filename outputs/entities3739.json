@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.93980872631073,
+            "Type": "PERSON",
+            "Text": "@lagendijk16",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7398924827575684,
+            "Type": "PERSON",
+            "Text": "@FffMachiavelli",
+            "BeginOffset": 53,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9299763441085815,
+            "Type": "PERSON",
+            "Text": "@at_last_free",
+            "BeginOffset": 69,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.9582080841064453,
+            "Type": "PERSON",
+            "Text": "@FreeInHart",
+            "BeginOffset": 83,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.9729055166244507,
+            "Type": "PERSON",
+            "Text": "@LampjeL",
+            "BeginOffset": 95,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.9885823130607605,
+            "Type": "PERSON",
+            "Text": "@Blondemevrouw1",
+            "BeginOffset": 104,
+            "EndOffset": 119
+        },
+        {
+            "Score": 0.9345729351043701,
+            "Type": "PERSON",
+            "Text": "@NUnl",
+            "BeginOffset": 120,
+            "EndOffset": 125
+        },
+        {
+            "Score": 0.9135241508483887,
+            "Type": "PERSON",
+            "Text": "@fvdemocratie",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

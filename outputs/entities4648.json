@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6608128547668457,
+            "Type": "PERSON",
+            "Text": "@TFWpromoteam",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9893220663070679,
+            "Type": "PERSON",
+            "Text": "Cire Maximus",
+            "BeginOffset": 56,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9283885359764099,
+            "Type": "PERSON",
+            "Text": "DJ Skroogmkduk",
+            "BeginOffset": 70,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.795961320400238,
+            "Type": "TITLE",
+            "Text": "We Got Next Vol 4)",
+            "BeginOffset": 87,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.858048141002655,
+            "Type": "PERSON",
+            "Text": "@DPone",
+            "BeginOffset": 109,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.9709758758544922,
+            "Type": "ORGANIZATION",
+            "Text": "#soundcloud",
+            "BeginOffset": 120,
+            "EndOffset": 131
+        }
+    ]
+}

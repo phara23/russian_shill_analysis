@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.869820773601532,
+            "Type": "QUANTITY",
+            "Text": "6 trillion",
+            "BeginOffset": 39,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.8895004391670227,
+            "Type": "PERSON",
+            "Text": "Reagan",
+            "BeginOffset": 95,
+            "EndOffset": 101
+        }
+    ]
+}

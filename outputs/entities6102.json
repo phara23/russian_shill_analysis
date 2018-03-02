@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7333540916442871,
+            "Type": "PERSON",
+            "Text": "@mashable",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.6683434844017029,
+            "Type": "TITLE",
+            "Text": "Tidal",
+            "BeginOffset": 34,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9028040766716003,
+            "Type": "OTHER",
+            "Text": "http://t.co/cG7pDWxR2z",
+            "BeginOffset": 92,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.9999738931655884,
+            "Type": "OTHER",
+            "Text": "http://t.co/hJys3xpnJY",
+            "BeginOffset": 115,
+            "EndOffset": 137
+        }
+    ]
+}

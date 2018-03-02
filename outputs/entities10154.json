@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8344891667366028,
+            "Type": "PERSON",
+            "Text": "@kylegriffin1",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9996798634529114,
+            "Type": "PERSON",
+            "Text": "Kellyanne Conway",
+            "BeginOffset": 18,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9939401149749756,
+            "Type": "PERSON",
+            "Text": "Kaine",
+            "BeginOffset": 40,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9958497285842896,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 101,
+            "EndOffset": 106
+        }
+    ]
+}

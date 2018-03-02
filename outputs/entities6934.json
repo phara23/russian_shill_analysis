@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6113541126251221,
+            "Type": "LOCATION",
+            "Text": "#SanBernadino",
+            "BeginOffset": 12,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9634817838668823,
+            "Type": "DATE",
+            "Text": "today",
+            "BeginOffset": 80,
+            "EndOffset": 85
+        }
+    ]
+}

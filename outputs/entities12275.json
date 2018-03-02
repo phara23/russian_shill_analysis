@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7717088460922241,
+            "Type": "PERSON",
+            "Text": "@ggeett37",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9118335843086243,
+            "Type": "PERSON",
+            "Text": "@authordennislee",
+            "BeginOffset": 20,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.6376656293869019,
+            "Type": "PERSON",
+            "Text": "Lord Jesus",
+            "BeginOffset": 53,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9703274369239807,
+            "Type": "OTHER",
+            "Text": "https://t.co/5nmbFX552q",
+            "BeginOffset": 112,
+            "EndOffset": 135
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9152326583862305,
+            "Type": "PERSON",
+            "Text": "@johnloudon",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.2573798894882202,
+            "Type": "PERSON",
+            "Text": "#Obama",
+            "BeginOffset": 16,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.8970804214477539,
+            "Type": "PERSON",
+            "Text": "@SpeakerRyan",
+            "BeginOffset": 45,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9274003505706787,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 66,
+            "EndOffset": 82
+        }
+    ]
+}

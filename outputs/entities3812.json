@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7733279466629028,
+            "Type": "PERSON",
+            "Text": "@SavageFilm",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9838011860847473,
+            "Type": "PERSON",
+            "Text": "Evelyne Brochu",
+            "BeginOffset": 16,
+            "EndOffset": 30
+        }
+    ]
+}

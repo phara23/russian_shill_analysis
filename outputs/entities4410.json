@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.95029217004776,
+            "Type": "PERSON",
+            "Text": "@louis_tmlnsn91",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9965441226959229,
+            "Type": "PERSON",
+            "Text": "Louis Tomlinson",
+            "BeginOffset": 53,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9971705675125122,
+            "Type": "PERSON",
+            "Text": "Louis Tomlinson",
+            "BeginOffset": 78,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.9991933703422546,
+            "Type": "PERSON",
+            "Text": "Louis Tomlinson",
+            "BeginOffset": 102,
+            "EndOffset": 117
+        }
+    ]
+}

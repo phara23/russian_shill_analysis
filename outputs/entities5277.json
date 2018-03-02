@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.857201874256134,
+            "Type": "PERSON",
+            "Text": "@mwgfla",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.826813817024231,
+            "Type": "PERSON",
+            "Text": "@GoGetChaLife",
+            "BeginOffset": 17,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9865756034851074,
+            "Type": "PERSON",
+            "Text": "@dani_goner",
+            "BeginOffset": 31,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.8262808918952942,
+            "Type": "PERSON",
+            "Text": "@danniestagteam",
+            "BeginOffset": 59,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9879519939422607,
+            "Type": "QUANTITY",
+            "Text": "15 minutes",
+            "BeginOffset": 79,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.8580329418182373,
+            "Type": "DATE",
+            "Text": "11:30 AM",
+            "BeginOffset": 129,
+            "EndOffset": 137
+        }
+    ]
+}

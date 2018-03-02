@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.856137752532959,
+            "Type": "PERSON",
+            "Text": "@SmallBiz4Trump",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8387935161590576,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 20,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9702551960945129,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 57,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.48770028352737427,
+            "Type": "PERSON",
+            "Text": "BushRyanRomney",
+            "BeginOffset": 76,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9249255657196045,
+            "Type": "PERSON",
+            "Text": "@dansenor",
+            "BeginOffset": 99,
+            "EndOffset": 108
+        }
+    ]
+}

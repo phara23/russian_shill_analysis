@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8226478695869446,
+            "Type": "PERSON",
+            "Text": "@BMS355",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.5369006395339966,
+            "Type": "QUANTITY",
+            "Text": "one",
+            "BeginOffset": 37,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.7726230025291443,
+            "Type": "EVENT",
+            "Text": "Cold War",
+            "BeginOffset": 112,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.9733073711395264,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

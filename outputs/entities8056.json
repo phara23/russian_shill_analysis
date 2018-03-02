@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9604939222335815,
+            "Type": "PERSON",
+            "Text": "@chrstphrj94",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.6575497984886169,
+            "Type": "DATE",
+            "Text": "#2016",
+            "BeginOffset": 36,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9666224122047424,
+            "Type": "QUANTITY",
+            "Text": "4words",
+            "BeginOffset": 43,
+            "EndOffset": 49
+        }
+    ]
+}

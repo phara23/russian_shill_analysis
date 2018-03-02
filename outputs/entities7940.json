@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8420092463493347,
+            "Type": "PERSON",
+            "Text": "@gerfingerpoken",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.690061628818512,
+            "Type": "OTHER",
+            "Text": "American",
+            "BeginOffset": 61,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9169954061508179,
+            "Type": "OTHER",
+            "Text": "https://t.co/Jeu2jtvlDE",
+            "BeginOffset": 81,
+            "EndOffset": 104
+        }
+    ]
+}

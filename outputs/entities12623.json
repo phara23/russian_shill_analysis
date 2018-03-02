@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.877084493637085,
+            "Type": "PERSON",
+            "Text": "@HeiseThomas",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.5799592733383179,
+            "Type": "PERSON",
+            "Text": "Radmann",
+            "BeginOffset": 52,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.8007779717445374,
+            "Type": "QUANTITY",
+            "Text": "76-mal",
+            "BeginOffset": 64,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9999697208404541,
+            "Type": "OTHER",
+            "Text": "https://t.co/Jt7A6G2CiA",
+            "BeginOffset": 82,
+            "EndOffset": 105
+        }
+    ]
+}

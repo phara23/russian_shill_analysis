@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7375881671905518,
+            "Type": "PERSON",
+            "Text": "@BIZPACReview",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.94989013671875,
+            "Type": "ORGANIZATION",
+            "Text": "Wikileaks",
+            "BeginOffset": 18,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9934647679328918,
+            "Type": "OTHER",
+            "Text": "https://t.co/y0LSazRP",
+            "BeginOffset": 118,
+            "EndOffset": 139
+        }
+    ]
+}

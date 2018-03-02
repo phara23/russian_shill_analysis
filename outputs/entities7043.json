@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9858394861221313,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.6763073205947876,
+            "Type": "QUANTITY",
+            "Text": "00M",
+            "BeginOffset": 13,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.6250486969947815,
+            "Type": "LOCATION",
+            "Text": "Iran",
+            "BeginOffset": 28,
+            "EndOffset": 32
+        }
+    ]
+}

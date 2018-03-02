@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9272642731666565,
+            "Type": "PERSON",
+            "Text": "@Hugojl323",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9443049430847168,
+            "Type": "PERSON",
+            "Text": "@ClariceHD47",
+            "BeginOffset": 15,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9983950257301331,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 64,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.7838252782821655,
+            "Type": "PERSON",
+            "Text": "#TrumpKlan",
+            "BeginOffset": 123,
+            "EndOffset": 133
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9170731902122498,
+            "Type": "PERSON",
+            "Text": "@Bethany99",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.5389729738235474,
+            "Type": "EVENT",
+            "Text": "xmas",
+            "BeginOffset": 75,
+            "EndOffset": 79
+        }
+    ]
+}

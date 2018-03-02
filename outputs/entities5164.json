@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4853116571903229,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8184346556663513,
+            "Type": "ORGANIZATION",
+            "Text": "@JD_Snapps",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.710347056388855,
+            "Type": "PERSON",
+            "Text": "Trumpenstein",
+            "BeginOffset": 61,
+            "EndOffset": 73
+        }
+    ]
+}

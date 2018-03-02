@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9735615849494934,
+            "Type": "PERSON",
+            "Text": "@watcherman2094",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9613378047943115,
+            "Type": "DATE",
+            "Text": "Monday morning",
+            "BeginOffset": 72,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9071264266967773,
+            "Type": "PERSON",
+            "Text": "@monday_mayhem",
+            "BeginOffset": 96,
+            "EndOffset": 110
+        }
+    ]
+}

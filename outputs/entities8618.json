@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8283538818359375,
+            "Type": "PERSON",
+            "Text": "@chiefplan1",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7769715785980225,
+            "Type": "PERSON",
+            "Text": "Donnie",
+            "BeginOffset": 27,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.7074796557426453,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 80,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.8748973608016968,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 107,
+            "EndOffset": 109
+        },
+        {
+            "Score": 0.875339925289154,
+            "Type": "QUANTITY",
+            "Text": "millions of jobs",
+            "BeginOffset": 110,
+            "EndOffset": 126
+        }
+    ]
+}

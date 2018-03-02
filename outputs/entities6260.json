@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9543439745903015,
+            "Type": "PERSON",
+            "Text": "@AJDelgado13",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8186700344085693,
+            "Type": "TITLE",
+            "Text": "American Comeback Story",
+            "BeginOffset": 30,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9897006750106812,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 75,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.9895092248916626,
+            "Type": "PERSON",
+            "Text": "William Campudoni",
+            "BeginOffset": 95,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.9849628806114197,
+            "Type": "OTHER",
+            "Text": "https://t.co/wPOCb8",
+            "BeginOffset": 120,
+            "EndOffset": 139
+        }
+    ]
+}

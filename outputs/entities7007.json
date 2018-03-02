@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9750542044639587,
+            "Type": "PERSON",
+            "Text": "@jimmy_dore",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7995219826698303,
+            "Type": "ORGANIZATION",
+            "Text": "HRC",
+            "BeginOffset": 19,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9967029690742493,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 45,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.99998939037323,
+            "Type": "OTHER",
+            "Text": "https://t.co/EC7K7t4YP7",
+            "BeginOffset": 104,
+            "EndOffset": 127
+        }
+    ]
+}

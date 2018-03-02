@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6177452802658081,
+            "Type": "ORGANIZATION",
+            "Text": "@TLiftit",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.831795334815979,
+            "Type": "QUANTITY",
+            "Text": "#6",
+            "BeginOffset": 53,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9947341680526733,
+            "Type": "OTHER",
+            "Text": "https://t.co/EE6pZ4DHj7",
+            "BeginOffset": 56,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.9875529408454895,
+            "Type": "ORGANIZATION",
+            "Text": "@YouTube",
+            "BeginOffset": 84,
+            "EndOffset": 92
+        }
+    ]
+}

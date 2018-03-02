@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9416583180427551,
+            "Type": "PERSON",
+            "Text": "@Crystal1Johnson",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.7251126170158386,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 44,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9999681711196899,
+            "Type": "OTHER",
+            "Text": "https://t.co/85MCM5mf5t",
+            "BeginOffset": 102,
+            "EndOffset": 125
+        }
+    ]
+}

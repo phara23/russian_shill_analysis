@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5804714560508728,
+            "Type": "ORGANIZATION",
+            "Text": "@100",
+            "BeginOffset": 3,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.9008585214614868,
+            "Type": "ORGANIZATION",
+            "Text": "Clock Boy",
+            "BeginOffset": 103,
+            "EndOffset": 112
+        }
+    ]
+}

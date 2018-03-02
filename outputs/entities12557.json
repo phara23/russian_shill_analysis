@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7624590396881104,
+            "Type": "PERSON",
+            "Text": "@realDailyWire",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.980381190776825,
+            "Type": "ORGANIZATION",
+            "Text": "CNN",
+            "BeginOffset": 30,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9909765720367432,
+            "Type": "PERSON",
+            "Text": "Tom Price",
+            "BeginOffset": 42,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9999622106552124,
+            "Type": "OTHER",
+            "Text": "https://t.co/sTzmpT7C3D",
+            "BeginOffset": 107,
+            "EndOffset": 130
+        }
+    ]
+}

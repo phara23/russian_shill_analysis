@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9490402340888977,
+            "Type": "QUANTITY",
+            "Text": "9 Inch",
+            "BeginOffset": 0,
+            "EndOffset": 6
+        },
+        {
+            "Score": 0.7084789872169495,
+            "Type": "PERSON",
+            "Text": "@midnight",
+            "BeginOffset": 19,
+            "EndOffset": 28
+        }
+    ]
+}

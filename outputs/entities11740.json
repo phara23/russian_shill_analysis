@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9138052463531494,
+            "Type": "PERSON",
+            "Text": "@kscheib",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8656805157661438,
+            "Type": "OTHER",
+            "Text": "https://t.co/XNBZFh7Pj2",
+            "BeginOffset": 84,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.9998571872711182,
+            "Type": "OTHER",
+            "Text": "https://t.co/324mMLwUw6",
+            "BeginOffset": 108,
+            "EndOffset": 131
+        }
+    ]
+}

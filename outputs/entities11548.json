@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9258716702461243,
+            "Type": "PERSON",
+            "Text": "@darrenrovell",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9801899790763855,
+            "Type": "PERSON",
+            "Text": "Gronkowski",
+            "BeginOffset": 18,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.975086510181427,
+            "Type": "PERSON",
+            "Text": "@bjweiss22",
+            "BeginOffset": 116,
+            "EndOffset": 126
+        },
+        {
+            "Score": 0.9730011820793152,
+            "Type": "OTHER",
+            "Text": "https://t.c",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

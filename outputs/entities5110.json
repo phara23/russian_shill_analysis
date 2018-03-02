@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7797330021858215,
+            "Type": "PERSON",
+            "Text": "@LAOnlineDaily",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9995932579040527,
+            "Type": "PERSON",
+            "Text": "Paul Tanaka",
+            "BeginOffset": 19,
+            "EndOffset": 30
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8693775534629822,
+            "Type": "PERSON",
+            "Text": "@LiianVarus",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9998621344566345,
+            "Type": "OTHER",
+            "Text": "(555) 983-2476",
+            "BeginOffset": 16,
+            "EndOffset": 30
+        }
+    ]
+}

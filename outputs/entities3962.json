@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7827920913696289,
+            "Type": "PERSON",
+            "Text": "@startelegram",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9365996718406677,
+            "Type": "PERSON",
+            "Text": "@tedcruz",
+            "BeginOffset": 20,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.6360164284706116,
+            "Type": "ORGANIZATION",
+            "Text": "Senate",
+            "BeginOffset": 30,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.8545715808868408,
+            "Type": "ORGANIZATION",
+            "Text": "Texas GOP",
+            "BeginOffset": 48,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9043018817901611,
+            "Type": "OTHER",
+            "Text": "https://t.co/6Ax2j8se8b",
+            "BeginOffset": 74,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.9999783039093018,
+            "Type": "OTHER",
+            "Text": "https://t.co/pAqpOLNih5",
+            "BeginOffset": 98,
+            "EndOffset": 121
+        }
+    ]
+}

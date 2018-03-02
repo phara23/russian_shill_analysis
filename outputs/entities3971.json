@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9105895757675171,
+            "Type": "PERSON",
+            "Text": "God",
+            "BeginOffset": 7,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9999638795852661,
+            "Type": "OTHER",
+            "Text": "https://t.co/qz1fzJ8sPB",
+            "BeginOffset": 54,
+            "EndOffset": 77
+        }
+    ]
+}

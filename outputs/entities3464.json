@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8561127185821533,
+            "Type": "PERSON",
+            "Text": "@JeanetteJing",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8396340608596802,
+            "Type": "PERSON",
+            "Text": "@sierraclub",
+            "BeginOffset": 18,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9999617338180542,
+            "Type": "OTHER",
+            "Text": "https://t.co/4E64ojo5Qx",
+            "BeginOffset": 30,
+            "EndOffset": 53
+        }
+    ]
+}

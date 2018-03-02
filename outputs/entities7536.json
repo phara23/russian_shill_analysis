@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8894376158714294,
+            "Type": "PERSON",
+            "Text": "@BlackjediNow",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9874083995819092,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 81,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.6750948429107666,
+            "Type": "QUANTITY",
+            "Text": "one fool",
+            "BeginOffset": 92,
+            "EndOffset": 100
+        }
+    ]
+}

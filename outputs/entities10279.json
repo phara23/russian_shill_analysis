@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9436818957328796,
+            "Type": "PERSON",
+            "Text": "@LeahR77",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9471037983894348,
+            "Type": "OTHER",
+            "Text": "https://t.co/8ouu6si4Y6",
+            "BeginOffset": 68,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.9998290538787842,
+            "Type": "OTHER",
+            "Text": "https://t.co/UCnkhiBYPp",
+            "BeginOffset": 92,
+            "EndOffset": 115
+        }
+    ]
+}

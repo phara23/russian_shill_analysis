@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8383516669273376,
+            "Type": "PERSON",
+            "Text": "@WorldTruthTV",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.5907808542251587,
+            "Type": "OTHER",
+            "Text": "Amish",
+            "BeginOffset": 18,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.6991448402404785,
+            "Type": "LOCATION",
+            "Text": "United States",
+            "BeginOffset": 38,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9584358334541321,
+            "Type": "OTHER",
+            "Text": "https://t.co/telXZBWPRi",
+            "BeginOffset": 109,
+            "EndOffset": 132
+        }
+    ]
+}

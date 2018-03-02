@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9476089477539062,
+            "Type": "PERSON",
+            "Text": "@ChancellorAlpha",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.5005860328674316,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 129,
+            "EndOffset": 138
+        }
+    ]
+}

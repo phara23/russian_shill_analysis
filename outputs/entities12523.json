@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.768248975276947,
+            "Type": "PERSON",
+            "Text": "@beforeitsnews",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9703035950660706,
+            "Type": "PERSON",
+            "Text": "Allen West",
+            "BeginOffset": 19,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9996604323387146,
+            "Type": "PERSON",
+            "Text": "John Lewis",
+            "BeginOffset": 72,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.9995229244232178,
+            "Type": "OTHER",
+            "Text": "https://t.co/yUPJPvSGpB",
+            "BeginOffset": 100,
+            "EndOffset": 123
+        }
+    ]
+}

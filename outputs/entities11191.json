@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6912357211112976,
+            "Type": "PERSON",
+            "Text": "@UPROXX",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.6966155767440796,
+            "Type": "ORGANIZATION",
+            "Text": "McDonald's",
+            "BeginOffset": 12,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.7311123609542847,
+            "Type": "OTHER",
+            "Text": "https://t.co/0nbK3U5vym",
+            "BeginOffset": 91,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.9999740123748779,
+            "Type": "OTHER",
+            "Text": "https://t.co/NTz5hiB80X",
+            "BeginOffset": 115,
+            "EndOffset": 138
+        }
+    ]
+}

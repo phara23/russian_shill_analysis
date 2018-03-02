@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9064133167266846,
+            "Type": "PERSON",
+            "Text": "@Maiden747",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.560724139213562,
+            "Type": "QUANTITY",
+            "Text": "100DaysToDoList",
+            "BeginOffset": 26,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9358628988265991,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 62,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9566880464553833,
+            "Type": "LOCATION",
+            "Text": "Mexico",
+            "BeginOffset": 127,
+            "EndOffset": 133
+        }
+    ]
+}

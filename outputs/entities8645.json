@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9786660671234131,
+            "Type": "PERSON",
+            "Text": "@jadegreen0987",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8806653618812561,
+            "Type": "QUANTITY",
+            "Text": "ONE WOMAN",
+            "BeginOffset": 29,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.6534093618392944,
+            "Type": "ORGANIZATION",
+            "Text": "Muslim",
+            "BeginOffset": 54,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.41403916478157043,
+            "Type": "LOCATION",
+            "Text": "American",
+            "BeginOffset": 77,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.9787513613700867,
+            "Type": "OTHER",
+            "Text": "https://t.co/IdGy3LZja8",
+            "BeginOffset": 116,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9498915672302246,
+            "Type": "PERSON",
+            "Text": "@MicheleKozal",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.6249271035194397,
+            "Type": "PERSON",
+            "Text": "Mohammed",
+            "BeginOffset": 53,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.798353374004364,
+            "Type": "LOCATION",
+            "Text": "U.S.",
+            "BeginOffset": 70,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9999401569366455,
+            "Type": "OTHER",
+            "Text": "https://t.co/3W2LZYjsmP",
+            "BeginOffset": 93,
+            "EndOffset": 116
+        }
+    ]
+}

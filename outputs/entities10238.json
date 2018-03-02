@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9441670775413513,
+            "Type": "PERSON",
+            "Text": "@Ivan_lvanovich",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9156053066253662,
+            "Type": "PERSON",
+            "Text": "@azarze",
+            "BeginOffset": 20,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9830703139305115,
+            "Type": "PERSON",
+            "Text": "@SenJohnMcCain",
+            "BeginOffset": 30,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9090190529823303,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 94,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.7757280468940735,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 131,
+            "EndOffset": 133
+        }
+    ]
+}

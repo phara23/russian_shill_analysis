@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7308361530303955,
+            "Type": "PERSON",
+            "Text": "@BreeNewsome",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9954553842544556,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 20,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9559112787246704,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 136,
+            "EndOffset": 138
+        }
+    ]
+}

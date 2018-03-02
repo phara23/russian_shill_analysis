@@ -1,0 +1,28 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9988576173782349,
+            "Text": "Trump",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9901247024536133,
+            "Text": "Dr. Oz medical report",
+            "BeginOffset": 12,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9988327622413635,
+            "Text": "Clinton",
+            "BeginOffset": 35,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9994564652442932,
+            "Text": "doctor",
+            "BeginOffset": 45,
+            "EndOffset": 51
+        }
+    ]
+}

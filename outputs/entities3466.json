@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8817368745803833,
+            "Type": "PERSON",
+            "Text": "@azmoderate",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9934759736061096,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 16,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9926988482475281,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 42,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9999151229858398,
+            "Type": "OTHER",
+            "Text": "https://t.co/MSsT2lNb1k",
+            "BeginOffset": 55,
+            "EndOffset": 78
+        }
+    ]
+}

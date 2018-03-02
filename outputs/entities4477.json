@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8362700343132019,
+            "Type": "PERSON",
+            "Text": "@AIIAmericanGirI",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.6396301984786987,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 50,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9998905658721924,
+            "Type": "PERSON",
+            "Text": "Robert Gibbs",
+            "BeginOffset": 76,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.648311972618103,
+            "Type": "ORGANIZATION",
+            "Text": "McDonald's",
+            "BeginOffset": 111,
+            "EndOffset": 121
+        },
+        {
+            "Score": 0.9705524444580078,
+            "Type": "OTHER",
+            "Text": "http://t.co/2C6Bn",
+            "BeginOffset": 122,
+            "EndOffset": 139
+        }
+    ]
+}

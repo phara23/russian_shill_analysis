@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9158700704574585,
+            "Type": "PERSON",
+            "Text": "@peddoc63",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9641642570495605,
+            "Type": "QUANTITY",
+            "Text": "42%",
+            "BeginOffset": 33,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9997897744178772,
+            "Type": "OTHER",
+            "Text": "https://t.co/qN5aurlIC2",
+            "BeginOffset": 106,
+            "EndOffset": 129
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8887820839881897,
+            "Type": "PERSON",
+            "Text": "@FerruccioBruno",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7453280091285706,
+            "Type": "DATE",
+            "Text": "#2017",
+            "BeginOffset": 20,
+            "EndOffset": 25
+        }
+    ]
+}

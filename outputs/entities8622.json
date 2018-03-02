@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.79912930727005,
+            "Type": "PERSON",
+            "Text": "@ForecasterEnten",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9998016953468323,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 43,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9989901185035706,
+            "Type": "PERSON",
+            "Text": "Bill Clinton",
+            "BeginOffset": 78,
+            "EndOffset": 90
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7194526791572571,
+            "Type": "PERSON",
+            "Text": "@faagifts",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.979764461517334,
+            "Type": "PERSON",
+            "Text": "Scott Baio",
+            "BeginOffset": 14,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9983943104743958,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 33,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9974496960639954,
+            "Type": "OTHER",
+            "Text": "https://t.co/ODskZ2J3S6",
+            "BeginOffset": 67,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9831204414367676,
+            "Type": "ORGANIZATION",
+            "Text": "@YouTube",
+            "BeginOffset": 95,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.9615721106529236,
+            "Type": "PERSON",
+            "Text": "@realdonaldtrump",
+            "BeginOffset": 104,
+            "EndOffset": 120
+        }
+    ]
+}

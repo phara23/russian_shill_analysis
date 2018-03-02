@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9463686943054199,
+            "Type": "PERSON",
+            "Text": "@PlanetKrusher",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8037211894989014,
+            "Type": "QUANTITY",
+            "Text": "4Words",
+            "BeginOffset": 32,
+            "EndOffset": 38
+        }
+    ]
+}

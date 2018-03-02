@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8042975664138794,
+            "Type": "PERSON",
+            "Text": "@veteranstoday",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8806821703910828,
+            "Type": "ORGANIZATION",
+            "Text": "Church Of Neoliberal  Evangelicals",
+            "BeginOffset": 23,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.94941246509552,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 60,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.8682850003242493,
+            "Type": "OTHER",
+            "Text": "https://t.co/oS4op8zSe6",
+            "BeginOffset": 79,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.9999643564224243,
+            "Type": "OTHER",
+            "Text": "https://t.co/0cJ2O3EuEs",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        }
+    ]
+}

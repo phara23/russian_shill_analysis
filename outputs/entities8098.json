@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9375925660133362,
+            "Type": "PERSON",
+            "Text": "@timmyjrebel",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.986580491065979,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 29,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9968626499176025,
+            "Type": "ORGANIZATION",
+            "Text": "CNN",
+            "BeginOffset": 37,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.988359808921814,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 67,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.9746014475822449,
+            "Type": "PERSON",
+            "Text": "Cruz",
+            "BeginOffset": 74,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.9933962821960449,
+            "Type": "OTHER",
+            "Text": "https://t.co/3AzBblvMXO",
+            "BeginOffset": 79,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.8853456377983093,
+            "Type": "ORGANIZATION",
+            "Text": "@DCExaminer",
+            "BeginOffset": 107,
+            "EndOffset": 118
+        },
+        {
+            "Score": 0.5486378073692322,
+            "Type": "ORGANIZATION",
+            "Text": "#CrookedMedia",
+            "BeginOffset": 119,
+            "EndOffset": 132
+        }
+    ]
+}

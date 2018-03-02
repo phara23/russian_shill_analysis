@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.860207200050354,
+            "Type": "ORGANIZATION",
+            "Text": "@k_mcq",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9960178732872009,
+            "Type": "ORGANIZATION",
+            "Text": "Twitter",
+            "BeginOffset": 11,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9981774091720581,
+            "Type": "OTHER",
+            "Text": "https://t.co/OBki070Vda",
+            "BeginOffset": 47,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9864875674247742,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 133,
+            "EndOffset": 138
+        }
+    ]
+}

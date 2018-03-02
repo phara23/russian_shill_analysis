@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9989191889762878,
+            "Type": "PERSON",
+            "Text": "LeBron James",
+            "BeginOffset": 0,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9989153146743774,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 22,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9999722242355347,
+            "Type": "OTHER",
+            "Text": "https://t.co/pJ6rQm8e6y",
+            "BeginOffset": 38,
+            "EndOffset": 61
+        }
+    ]
+}

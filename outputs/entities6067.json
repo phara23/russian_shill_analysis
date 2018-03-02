@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9344773888587952,
+            "Type": "PERSON",
+            "Text": "@adamoc132013",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9500450491905212,
+            "Type": "ORGANIZATION",
+            "Text": "Twitter",
+            "BeginOffset": 34,
+            "EndOffset": 41
+        }
+    ]
+}

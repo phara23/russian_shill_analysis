@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9134855270385742,
+            "Type": "PERSON",
+            "Text": "@conserv_tribune",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9556044936180115,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 81,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9755319356918335,
+            "Type": "OTHER",
+            "Text": "https://t.co/1uqlhY6ZL2",
+            "BeginOffset": 98,
+            "EndOffset": 121
+        },
+        {
+            "Score": 0.8124711513519287,
+            "Type": "OTHER",
+            "Text": "https://t.c",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

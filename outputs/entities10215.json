@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8042813539505005,
+            "Type": "PERSON",
+            "Text": "@abusedtaxpayer",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7788156867027283,
+            "Type": "QUANTITY",
+            "Text": "Both",
+            "BeginOffset": 20,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.5051072835922241,
+            "Type": "ORGANIZATION",
+            "Text": "DemORATS",
+            "BeginOffset": 72,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.9999206066131592,
+            "Type": "OTHER",
+            "Text": "https://t.co/bc4frRAXDJ",
+            "BeginOffset": 106,
+            "EndOffset": 129
+        }
+    ]
+}

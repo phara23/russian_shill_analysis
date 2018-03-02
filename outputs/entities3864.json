@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9674932956695557,
+            "Type": "PERSON",
+            "Text": "@ajamubaraka",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9928761720657349,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 17,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9247525334358215,
+            "Type": "TITLE",
+            "Text": "Trans-Pacific Partnership",
+            "BeginOffset": 42,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9206593632698059,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 103,
+            "EndOffset": 105
+        }
+    ]
+}

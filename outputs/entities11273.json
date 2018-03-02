@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8449949026107788,
+            "Type": "PERSON",
+            "Text": "@TheMorningSpew",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9922142624855042,
+            "Type": "PERSON",
+            "Text": "Angela Ashes",
+            "BeginOffset": 44,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.8556121587753296,
+            "Type": "PERSON",
+            "Text": "Ima Ashes",
+            "BeginOffset": 82,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.5338314771652222,
+            "Type": "PERSON",
+            "Text": "II",
+            "BeginOffset": 93,
+            "EndOffset": 95
+        }
+    ]
+}

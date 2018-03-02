@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8426996469497681,
+            "Type": "PERSON",
+            "Text": "@ellelljaytoo",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8512369394302368,
+            "Type": "PERSON",
+            "Text": "@SadlyCatless",
+            "BeginOffset": 18,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.936654269695282,
+            "Type": "PERSON",
+            "Text": "@AAskelson",
+            "BeginOffset": 32,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9601467847824097,
+            "Type": "PERSON",
+            "Text": "@toonces_lives",
+            "BeginOffset": 43,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9784411191940308,
+            "Type": "PERSON",
+            "Text": "@JaymeMcKenna",
+            "BeginOffset": 58,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9981958270072937,
+            "Type": "PERSON",
+            "Text": "@Johnsense38",
+            "BeginOffset": 72,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9733478426933289,
+            "Type": "PERSON",
+            "Text": "@ZenRand",
+            "BeginOffset": 85,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.9999117851257324,
+            "Type": "OTHER",
+            "Text": "https://t.co/T7JakrE3T8",
+            "BeginOffset": 94,
+            "EndOffset": 117
+        }
+    ]
+}

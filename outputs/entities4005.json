@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9412279725074768,
+            "Type": "PERSON",
+            "Text": "@SishirChetri",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9989890456199646,
+            "Type": "PERSON",
+            "Text": "Michelle Obama",
+            "BeginOffset": 31,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9988833069801331,
+            "Type": "PERSON",
+            "Text": "Jerry Seinfeld",
+            "BeginOffset": 75,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.991555392742157,
+            "Type": "OTHER",
+            "Text": "https://t.co/WX0K9nb",
+            "BeginOffset": 119,
+            "EndOffset": 139
+        }
+    ]
+}

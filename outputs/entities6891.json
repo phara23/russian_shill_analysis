@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9311111569404602,
+            "Type": "PERSON",
+            "Text": "@davidsirota",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9899354577064514,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 39,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.7411418557167053,
+            "Type": "ORGANIZATION",
+            "Text": "Wall Street",
+            "BeginOffset": 114,
+            "EndOffset": 125
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8779984712600708,
+            "Type": "PERSON",
+            "Text": "@DoogieYowza",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9941131472587585,
+            "Type": "ORGANIZATION",
+            "Text": "ISIS",
+            "BeginOffset": 60,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9995085000991821,
+            "Type": "OTHER",
+            "Text": "https://t.co/2f5EUoYeJW",
+            "BeginOffset": 110,
+            "EndOffset": 133
+        }
+    ]
+}

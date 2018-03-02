@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.940769374370575,
+            "Type": "PERSON",
+            "Text": "@Stevenwhirsch99",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9915010929107666,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 37,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.8753643035888672,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 59,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9759405851364136,
+            "Type": "QUANTITY",
+            "Text": "90 million dollars",
+            "BeginOffset": 79,
+            "EndOffset": 97
+        }
+    ]
+}

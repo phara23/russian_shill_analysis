@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9295451641082764,
+            "Type": "PERSON",
+            "Text": "@brunelldonald",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9452650547027588,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 78,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.9213951230049133,
+            "Type": "LOCATION",
+            "Text": "USA",
+            "BeginOffset": 111,
+            "EndOffset": 114
+        }
+    ]
+}

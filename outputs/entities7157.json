@@ -1,0 +1,74 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7717088460922241,
+            "Type": "PERSON",
+            "Text": "@ggeett37",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.5366290211677551,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 17,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9091530442237854,
+            "Type": "PERSON",
+            "Text": "@summersmile16",
+            "BeginOffset": 20,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.4422581195831299,
+            "Type": "QUANTITY",
+            "Text": "one",
+            "BeginOffset": 50,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.7798304557800293,
+            "Type": "PERSON",
+            "Text": "God",
+            "BeginOffset": 54,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.5841003060340881,
+            "Type": "QUANTITY",
+            "Text": "one Savior",
+            "BeginOffset": 62,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.9710196852684021,
+            "Type": "PERSON",
+            "Text": "Jesus",
+            "BeginOffset": 86,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.9757879376411438,
+            "Type": "OTHER",
+            "Text": "https://t.co/XeLSlozgDC",
+            "BeginOffset": 93,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.34486284852027893,
+            "Type": "LOCATION",
+            "Text": "#RenewUS",
+            "BeginOffset": 117,
+            "EndOffset": 125
+        },
+        {
+            "Score": 0.4812960922718048,
+            "Type": "LOCATION",
+            "Text": "#PJNET",
+            "BeginOffset": 126,
+            "EndOffset": 132
+        }
+    ]
+}

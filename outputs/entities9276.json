@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8945206999778748,
+            "Type": "PERSON",
+            "Text": "@1_Hoof_Hearted",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9045348167419434,
+            "Type": "PERSON",
+            "Text": "@RepMikeHonda",
+            "BeginOffset": 20,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.6061713099479675,
+            "Type": "LOCATION",
+            "Text": "#America",
+            "BeginOffset": 55,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9992438554763794,
+            "Type": "OTHER",
+            "Text": "https://t.co/kJYNdIOswb",
+            "BeginOffset": 64,
+            "EndOffset": 87
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.783135712146759,
+            "Type": "PERSON",
+            "Text": "Lynyrd Skynyrd",
+            "BeginOffset": 0,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8969888687133789,
+            "Type": "QUANTITY",
+            "Text": "Part 6",
+            "BeginOffset": 15,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.6782069802284241,
+            "Type": "PERSON",
+            "Text": "@midnight",
+            "BeginOffset": 37,
+            "EndOffset": 46
+        }
+    ]
+}

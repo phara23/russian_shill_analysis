@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9721363186836243,
+            "Type": "ORGANIZATION",
+            "Text": "Democrats",
+            "BeginOffset": 0,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9437888860702515,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 49,
+            "EndOffset": 54
+        }
+    ]
+}

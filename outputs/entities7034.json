@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8303225636482239,
+            "Type": "ORGANIZATION",
+            "Text": "@CNN",
+            "BeginOffset": 0,
+            "EndOffset": 4
+        },
+        {
+            "Score": 0.3424493074417114,
+            "Type": "PERSON",
+            "Text": "#HilaryClinton",
+            "BeginOffset": 18,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9922491312026978,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 50,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9999927282333374,
+            "Type": "OTHER",
+            "Text": "https://t.co/6sLCN3GvXb",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

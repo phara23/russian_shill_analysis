@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.675041139125824,
+            "Type": "PERSON",
+            "Text": "@TrumpPenceUSA",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9980302453041077,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 35,
+            "EndOffset": 42
+        }
+    ]
+}

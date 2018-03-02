@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7923323512077332,
+            "Type": "PERSON",
+            "Text": "@TrumpLion1776",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9654297232627869,
+            "Type": "PERSON",
+            "Text": "DONALD TRUMP",
+            "BeginOffset": 41,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9969884753227234,
+            "Type": "OTHER",
+            "Text": "https://t.co/SrUcMmELUO",
+            "BeginOffset": 54,
+            "EndOffset": 77
+        }
+    ]
+}

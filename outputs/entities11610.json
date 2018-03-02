@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8601245880126953,
+            "Type": "PERSON",
+            "Text": "@FeministaJones",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9230239391326904,
+            "Type": "DATE",
+            "Text": "Sunday morning",
+            "BeginOffset": 26,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9990265369415283,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 114,
+            "EndOffset": 126
+        }
+    ]
+}

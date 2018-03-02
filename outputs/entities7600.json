@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8211682438850403,
+            "Type": "PERSON",
+            "Text": "@InGodIDoTrust",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9895983934402466,
+            "Type": "PERSON",
+            "Text": "John McCain",
+            "BeginOffset": 19,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9912489652633667,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 38,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9448290467262268,
+            "Type": "OTHER",
+            "Text": "https://t.co/xqd0s6UCu9",
+            "BeginOffset": 101,
+            "EndOffset": 124
+        },
+        {
+            "Score": 0.9315364956855774,
+            "Type": "PERSON",
+            "Text": "@realDonaldTru",
+            "BeginOffset": 125,
+            "EndOffset": 139
+        }
+    ]
+}

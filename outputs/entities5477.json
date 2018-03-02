@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9091481566429138,
+            "Type": "PERSON",
+            "Text": "@KristinP22",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8123041987419128,
+            "Type": "PERSON",
+            "Text": "@MrsQuickly",
+            "BeginOffset": 16,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.7747243642807007,
+            "Type": "QUANTITY",
+            "Text": "both parties",
+            "BeginOffset": 77,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.8072872757911682,
+            "Type": "QUANTITY",
+            "Text": "2 them",
+            "BeginOffset": 117,
+            "EndOffset": 123
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7000807523727417,
+            "Type": "PERSON",
+            "Text": "@petefrt",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9736437797546387,
+            "Type": "QUANTITY",
+            "Text": "60%",
+            "BeginOffset": 19,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.5470153093338013,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 54,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9459612965583801,
+            "Type": "QUANTITY",
+            "Text": "First",
+            "BeginOffset": 62,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9688782691955566,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 75,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.5397072434425354,
+            "Type": "QUANTITY",
+            "Text": "#p2",
+            "BeginOffset": 98,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.9579300880432129,
+            "Type": "OTHER",
+            "Text": "https://t.co/qiSfuW4w9c",
+            "BeginOffset": 102,
+            "EndOffset": 125
+        },
+        {
+            "Score": 0.9726755619049072,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

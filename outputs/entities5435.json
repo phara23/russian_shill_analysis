@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8624267578125,
+            "Type": "PERSON",
+            "Text": "@JDumfordPhD",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7138401865959167,
+            "Type": "ORGANIZATION",
+            "Text": "@DWStweets",
+            "BeginOffset": 17,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.45864570140838623,
+            "Type": "PERSON",
+            "Text": "God",
+            "BeginOffset": 118,
+            "EndOffset": 121
+        }
+    ]
+}

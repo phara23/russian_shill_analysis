@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9070056676864624,
+            "Type": "PERSON",
+            "Text": "@JakeFapper",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9916850328445435,
+            "Type": "ORGANIZATION",
+            "Text": "eBay",
+            "BeginOffset": 94,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.49407437443733215,
+            "Type": "PERSON",
+            "Text": "J",
+            "BeginOffset": 138,
+            "EndOffset": 139
+        }
+    ]
+}

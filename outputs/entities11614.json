@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8220978379249573,
+            "Type": "PERSON",
+            "Text": "@NOrleansDaily",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9989492297172546,
+            "Type": "PERSON",
+            "Text": "Kyle Meyers",
+            "BeginOffset": 19,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.3365641236305237,
+            "Type": "ORGANIZATION",
+            "Text": "LSU",
+            "BeginOffset": 66,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.7719414830207825,
+            "Type": "QUANTITY",
+            "Text": "7",
+            "BeginOffset": 70,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.918955385684967,
+            "Type": "QUANTITY",
+            "Text": "7",
+            "BeginOffset": 75,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.983113706111908,
+            "Type": "PERSON",
+            "Text": "James Smith",
+            "BeginOffset": 78,
+            "EndOffset": 89
+        }
+    ]
+}

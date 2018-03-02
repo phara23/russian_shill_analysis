@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6665654182434082,
+            "Type": "ORGANIZATION",
+            "Text": "@BlastingNews",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7972067594528198,
+            "Type": "PERSON",
+            "Text": "Logan",
+            "BeginOffset": 30,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.5164728760719299,
+            "Type": "QUANTITY",
+            "Text": "second",
+            "BeginOffset": 63,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.49475952982902527,
+            "Type": "TITLE",
+            "Text": "Wolverine",
+            "BeginOffset": 71,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.9051728844642639,
+            "Type": "OTHER",
+            "Text": "https://t.co/W1JTrZutfi",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        },
+        {
+            "Score": 0.890946626663208,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 129,
+            "EndOffset": 138
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8247891068458557,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.7594545483589172,
+            "Type": "PERSON",
+            "Text": "@ATLBlackStar",
+            "BeginOffset": 14,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.8908880352973938,
+            "Type": "PERSON",
+            "Text": "Clark Atlanta",
+            "BeginOffset": 29,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.7662358283996582,
+            "Type": "PERSON",
+            "Text": "D. Student Barred",
+            "BeginOffset": 46,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9022988677024841,
+            "Type": "LOCATION",
+            "Text": "U.S.",
+            "BeginOffset": 78,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.8007581830024719,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 96,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.947737455368042,
+            "Type": "OTHER",
+            "Text": "https://t.co/rDUBdkrC",
+            "BeginOffset": 118,
+            "EndOffset": 139
+        }
+    ]
+}

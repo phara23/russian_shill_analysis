@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5834910273551941,
+            "Type": "OTHER",
+            "Text": "Latinos",
+            "BeginOffset": 15,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.8856559991836548,
+            "Type": "ORGANIZATION",
+            "Text": "@CNN",
+            "BeginOffset": 64,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9999812841415405,
+            "Type": "OTHER",
+            "Text": "https://t.co/zbsKprB86M",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        }
+    ]
+}

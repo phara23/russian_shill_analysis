@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.44701477885246277,
+            "Type": "ORGANIZATION",
+            "Text": "#DNCleaks",
+            "BeginOffset": 0,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9957489371299744,
+            "Type": "PERSON",
+            "Text": "George Soros",
+            "BeginOffset": 18,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9976069927215576,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 44,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.9999721050262451,
+            "Type": "OTHER",
+            "Text": "https://t.co/rk7NcxW5AJ",
+            "BeginOffset": 76,
+            "EndOffset": 99
+        }
+    ]
+}

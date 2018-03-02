@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7185707092285156,
+            "Type": "ORGANIZATION",
+            "Text": "@ActivistPost",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.5968959331512451,
+            "Type": "PERSON",
+            "Text": "Kissinger",
+            "BeginOffset": 59,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.8066554665565491,
+            "Type": "TITLE",
+            "Text": "Nobel Peace Prize",
+            "BeginOffset": 72,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.9998027682304382,
+            "Type": "OTHER",
+            "Text": "https://t.co/Q4Wfx5GTba",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        }
+    ]
+}

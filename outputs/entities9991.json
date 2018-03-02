@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7122286558151245,
+            "Type": "PERSON",
+            "Text": "@EStreetCat",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9626965522766113,
+            "Type": "PERSON",
+            "Text": "Milton Bradley",
+            "BeginOffset": 16,
+            "EndOffset": 30
+        }
+    ]
+}

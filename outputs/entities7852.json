@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9282386302947998,
+            "Type": "PERSON",
+            "Text": "@Davewellwisher",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9995319843292236,
+            "Type": "PERSON",
+            "Text": "John Lennon",
+            "BeginOffset": 87,
+            "EndOffset": 98
+        }
+    ]
+}

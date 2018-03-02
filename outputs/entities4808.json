@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9211786389350891,
+            "Type": "PERSON",
+            "Text": "@IdekLoyda",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9156674146652222,
+            "Type": "PERSON",
+            "Text": "@helenaguirrefer",
+            "BeginOffset": 28,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.6359865665435791,
+            "Type": "PERSON",
+            "Text": "#TrumpKlan",
+            "BeginOffset": 65,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.999975323677063,
+            "Type": "OTHER",
+            "Text": "https://t.co/IcNFCw7pIA",
+            "BeginOffset": 76,
+            "EndOffset": 99
+        }
+    ]
+}

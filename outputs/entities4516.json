@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8463244438171387,
+            "Type": "PERSON",
+            "Text": "@AlcoholMemoirs",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9954496026039124,
+            "Type": "PERSON",
+            "Text": "Jill",
+            "BeginOffset": 46,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9908857345581055,
+            "Type": "PERSON",
+            "Text": "Bill",
+            "BeginOffset": 52,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.6538322567939758,
+            "Type": "PERSON",
+            "Text": "Hill",
+            "BeginOffset": 63,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9492031931877136,
+            "Type": "LOCATION",
+            "Text": "Syria",
+            "BeginOffset": 71,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.9569137096405029,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 107,
+            "EndOffset": 111
+        }
+    ]
+}

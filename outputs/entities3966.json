@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.913843035697937,
+            "Type": "PERSON",
+            "Text": "@ShaunKing",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.4995507597923279,
+            "Type": "QUANTITY",
+            "Text": "2",
+            "BeginOffset": 15,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8592069745063782,
+            "Type": "ORGANIZATION",
+            "Text": "@Chicago_Police",
+            "BeginOffset": 17,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.957205593585968,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

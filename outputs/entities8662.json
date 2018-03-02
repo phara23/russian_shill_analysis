@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7391175627708435,
+            "Type": "PERSON",
+            "Text": "@petefrt",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9971045851707458,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 16,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9855703115463257,
+            "Type": "OTHER",
+            "Text": "https://t.co/5l",
+            "BeginOffset": 124,
+            "EndOffset": 139
+        }
+    ]
+}

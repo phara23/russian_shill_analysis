@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8964930176734924,
+            "Type": "PERSON",
+            "Text": "@OccupyHazletNJ",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.930425763130188,
+            "Type": "PERSON",
+            "Text": "@SpeakerRyan",
+            "BeginOffset": 65,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.844403862953186,
+            "Type": "PERSON",
+            "Text": "@MikePence N",
+            "BeginOffset": 82,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.3055925667285919,
+            "Type": "TITLE",
+            "Text": "#TheCrazyBunch",
+            "BeginOffset": 107,
+            "EndOffset": 121
+        }
+    ]
+}

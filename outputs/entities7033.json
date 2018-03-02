@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7210049629211426,
+            "Type": "PERSON",
+            "Text": "@maddnessme",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.953549861907959,
+            "Type": "PERSON",
+            "Text": "@lenadunham",
+            "BeginOffset": 16,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9385842084884644,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 39,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9058710932731628,
+            "Type": "EVENT",
+            "Text": "Breast Cancer Awarenes",
+            "BeginOffset": 109,
+            "EndOffset": 131
+        }
+    ]
+}

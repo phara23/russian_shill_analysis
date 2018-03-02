@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9054676294326782,
+            "Type": "PERSON",
+            "Text": "@Pamela_Moore",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9576212763786316,
+            "Type": "QUANTITY",
+            "Text": "90 million dollars",
+            "BeginOffset": 46,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9905270338058472,
+            "Type": "PERSON",
+            "Text": "Michelle Obama",
+            "BeginOffset": 83,
+            "EndOffset": 97
+        }
+    ]
+}

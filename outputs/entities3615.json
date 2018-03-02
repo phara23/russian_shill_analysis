@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6732831001281738,
+            "Type": "PERSON",
+            "Text": "@Nottinghams",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9631960988044739,
+            "Type": "PERSON",
+            "Text": "Kennedy",
+            "BeginOffset": 18,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9975027441978455,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 26,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.8537300229072571,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 45,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9999357461929321,
+            "Type": "OTHER",
+            "Text": "https://t.co/oU1q49AAAW",
+            "BeginOffset": 94,
+            "EndOffset": 117
+        }
+    ]
+}

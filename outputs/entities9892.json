@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8993860483169556,
+            "Type": "PERSON",
+            "Text": "@RRRoxy",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.8480234146118164,
+            "Type": "ORGANIZATION",
+            "Text": "@CNN",
+            "BeginOffset": 15,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9997974038124084,
+            "Type": "OTHER",
+            "Text": "https://t.co/znRyLFGF2Q",
+            "BeginOffset": 99,
+            "EndOffset": 122
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.945571780204773,
+            "Type": "PERSON",
+            "Text": "@jaspergregory",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9301148056983948,
+            "Type": "LOCATION",
+            "Text": "Greece",
+            "BeginOffset": 24,
+            "EndOffset": 30
+        }
+    ]
+}

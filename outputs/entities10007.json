@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8661438226699829,
+            "Type": "PERSON",
+            "Text": "@WarriorsPublish",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9816722273826599,
+            "Type": "DATE",
+            "Text": "March 18",
+            "BeginOffset": 21,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9990158081054688,
+            "Type": "OTHER",
+            "Text": "https://t.co/MmHgFVcSyh",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        }
+    ]
+}

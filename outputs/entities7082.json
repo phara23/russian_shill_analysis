@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8958131074905396,
+            "Type": "PERSON",
+            "Text": "@bigmacher",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9979320764541626,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 57,
+            "EndOffset": 69
+        }
+    ]
+}

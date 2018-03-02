@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5487341284751892,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8661147952079773,
+            "Type": "PERSON",
+            "Text": "@Delo_Taylor",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.3602934777736664,
+            "Type": "LOCATION",
+            "Text": "Honduran",
+            "BeginOffset": 24,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.7936159372329712,
+            "Type": "PERSON",
+            "Text": "Berta Càceres",
+            "BeginOffset": 51,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9997904896736145,
+            "Type": "OTHER",
+            "Text": "https://t.co/v69ASXiXBp",
+            "BeginOffset": 101,
+            "EndOffset": 124
+        }
+    ]
+}

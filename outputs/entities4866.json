@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8177752494812012,
+            "Type": "PERSON",
+            "Text": "@Bikers4Trump",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.976295530796051,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 44,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9998475909233093,
+            "Type": "PERSON",
+            "Text": "Anthony Weiner",
+            "BeginOffset": 67,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.9634644389152527,
+            "Type": "DATE",
+            "Text": "1 year ago",
+            "BeginOffset": 87,
+            "EndOffset": 97
+        }
+    ]
+}

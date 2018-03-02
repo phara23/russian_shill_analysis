@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8482875227928162,
+            "Type": "PERSON",
+            "Text": "@AbnInfVet",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8520416021347046,
+            "Type": "ORGANIZATION",
+            "Text": "HRC",
+            "BeginOffset": 26,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.98356032371521,
+            "Type": "OTHER",
+            "Text": "https://t.co/rRZgBcU8tm",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        },
+        {
+            "Score": 0.8259113430976868,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 134,
+            "EndOffset": 143
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7618158459663391,
+            "Type": "PERSON",
+            "Text": "@NecroticKing",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9537419676780701,
+            "Type": "OTHER",
+            "Text": "https://t.co/hmmiL1pIx3",
+            "BeginOffset": 18,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.8968303203582764,
+            "Type": "PERSON",
+            "Text": "@MIKEY_DOLLAZ_",
+            "BeginOffset": 42,
+            "EndOffset": 56
+        }
+    ]
+}

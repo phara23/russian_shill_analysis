@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8555297255516052,
+            "Type": "PERSON",
+            "Text": "@BreitbartNews",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8856984972953796,
+            "Type": "EVENT",
+            "Text": "Christmas",
+            "BeginOffset": 120,
+            "EndOffset": 129
+        }
+    ]
+}

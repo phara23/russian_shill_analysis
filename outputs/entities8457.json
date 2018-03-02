@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8782747983932495,
+            "Type": "PERSON",
+            "Text": "@M_E_Adams",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9988052248954773,
+            "Type": "PERSON",
+            "Text": "Thomas Jefferson",
+            "BeginOffset": 66,
+            "EndOffset": 82
+        }
+    ]
+}

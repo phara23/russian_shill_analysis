@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9218739867210388,
+            "Type": "PERSON",
+            "Text": "@WilyCarson",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.977961540222168,
+            "Type": "DATE",
+            "Text": "Today",
+            "BeginOffset": 31,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.7448711395263672,
+            "Type": "PERSON",
+            "Text": "@icanhash",
+            "BeginOffset": 61,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9999581575393677,
+            "Type": "OTHER",
+            "Text": "https://t.co/HCEPBn2H6k",
+            "BeginOffset": 71,
+            "EndOffset": 94
+        }
+    ]
+}

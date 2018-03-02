@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8920456767082214,
+            "Type": "PERSON",
+            "Text": "@Dubzzzinyaface",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7076029181480408,
+            "Type": "QUANTITY",
+            "Text": "5Words",
+            "BeginOffset": 73,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.6903461217880249,
+            "Type": "PERSON",
+            "Text": "@ShutUpAmanda",
+            "BeginOffset": 80,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.9999405145645142,
+            "Type": "OTHER",
+            "Text": "https://t.co/0TP9MCMS0V",
+            "BeginOffset": 94,
+            "EndOffset": 117
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8594359159469604,
+            "Type": "PERSON",
+            "Text": "@Joe_America",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8775776028633118,
+            "Type": "DATE",
+            "Text": "1776",
+            "BeginOffset": 15,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9691722989082336,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 59,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9250428080558777,
+            "Type": "OTHER",
+            "Text": "https://t.co/l5iHTMlwLj",
+            "BeginOffset": 79,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.4936290681362152,
+            "Type": "ORGANIZATION",
+            "Text": "#ClintonScandals",
+            "BeginOffset": 103,
+            "EndOffset": 119
+        },
+        {
+            "Score": 0.5426490306854248,
+            "Type": "ORGANIZATION",
+            "Text": "#TCOT",
+            "BeginOffset": 120,
+            "EndOffset": 125
+        }
+    ]
+}

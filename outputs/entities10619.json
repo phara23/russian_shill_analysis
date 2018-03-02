@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8709549903869629,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8684972524642944,
+            "Type": "PERSON",
+            "Text": "Bao Bao",
+            "BeginOffset": 15,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9791420698165894,
+            "Type": "OTHER",
+            "Text": "https://t.co/AMkrcqA8KC",
+            "BeginOffset": 51,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.8240600228309631,
+            "Type": "PERSON",
+            "Text": "@WashTimes",
+            "BeginOffset": 75,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.9999154806137085,
+            "Type": "OTHER",
+            "Text": "https://t.co/l8HuQuhzUM",
+            "BeginOffset": 86,
+            "EndOffset": 109
+        }
+    ]
+}

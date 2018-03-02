@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.784135639667511,
+            "Type": "PERSON",
+            "Text": "@OnPirateSat",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9869078397750854,
+            "Type": "PERSON",
+            "Text": "Bill",
+            "BeginOffset": 23,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.79576176404953,
+            "Type": "ORGANIZATION",
+            "Text": "NAFTA",
+            "BeginOffset": 41,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9841680526733398,
+            "Type": "PERSON",
+            "Text": "George H.W. Bush",
+            "BeginOffset": 49,
+            "EndOffset": 65
+        }
+    ]
+}

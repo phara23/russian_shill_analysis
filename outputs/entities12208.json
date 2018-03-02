@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8443506360054016,
+            "Type": "PERSON",
+            "Text": "@American1765",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7462576627731323,
+            "Type": "PERSON",
+            "Text": "@AlwaysGrowing00",
+            "BeginOffset": 19,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.8671610355377197,
+            "Type": "PERSON",
+            "Text": "President Trump",
+            "BeginOffset": 37,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9996635913848877,
+            "Type": "OTHER",
+            "Text": "https://t.co/qt23qdsbju",
+            "BeginOffset": 92,
+            "EndOffset": 115
+        }
+    ]
+}

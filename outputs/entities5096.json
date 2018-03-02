@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7966890931129456,
+            "Type": "PERSON",
+            "Text": "@LibertyBundle",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.49420028924942017,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 129,
+            "EndOffset": 138
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9349638819694519,
+            "Type": "PERSON",
+            "Text": "@kiawikiwiki",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9972569346427917,
+            "Type": "DATE",
+            "Text": "2011",
+            "BeginOffset": 82,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9823249578475952,
+            "Type": "OTHER",
+            "Text": "https://t.co/2CsED9H",
+            "BeginOffset": 119,
+            "EndOffset": 139
+        }
+    ]
+}

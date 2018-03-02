@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6981793642044067,
+            "Type": "ORGANIZATION",
+            "Text": "@wikileaks",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8892441391944885,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 34,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9987149238586426,
+            "Type": "PERSON",
+            "Text": "John Kerry",
+            "BeginOffset": 53,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.7482272386550903,
+            "Type": "LOCATION",
+            "Text": "Ecuador",
+            "BeginOffset": 70,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.4020070433616638,
+            "Type": "PERSON",
+            "Text": "Assange",
+            "BeginOffset": 86,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.9843668341636658,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 110,
+            "EndOffset": 117
+        },
+        {
+            "Score": 0.7305110096931458,
+            "Type": "ORGANIZATION",
+            "Text": "FARC",
+            "BeginOffset": 130,
+            "EndOffset": 134
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8400936126708984,
+            "Type": "PERSON",
+            "Text": "@WorldTruthTV",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7373150587081909,
+            "Type": "LOCATION",
+            "Text": "Brazil",
+            "BeginOffset": 18,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.572952151298523,
+            "Type": "ORGANIZATION",
+            "Text": "Monsanto",
+            "BeginOffset": 30,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9666182398796082,
+            "Type": "OTHER",
+            "Text": "https://t.co/Ar4nAdb",
+            "BeginOffset": 119,
+            "EndOffset": 139
+        }
+    ]
+}

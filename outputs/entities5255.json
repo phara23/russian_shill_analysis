@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5307989716529846,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8399093151092529,
+            "Type": "ORGANIZATION",
+            "Text": "@TEN_GOP",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.5073973536491394,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 13,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8788625001907349,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 53,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9593755602836609,
+            "Type": "PERSON",
+            "Text": "President Donald Trump",
+            "BeginOffset": 103,
+            "EndOffset": 125
+        },
+        {
+            "Score": 0.34497612714767456,
+            "Type": "PERSON",
+            "Text": "#obamafarew",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

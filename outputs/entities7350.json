@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7873968482017517,
+            "Type": "PERSON",
+            "Text": "@AllenWestRepub",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.990632176399231,
+            "Type": "TITLE",
+            "Text": "Obamacare",
+            "BeginOffset": 30,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.997308611869812,
+            "Type": "PERSON",
+            "Text": "Barack Obama",
+            "BeginOffset": 55,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9999444484710693,
+            "Type": "OTHER",
+            "Text": "https://t.co/HrNDtm3nhu",
+            "BeginOffset": 85,
+            "EndOffset": 108
+        }
+    ]
+}

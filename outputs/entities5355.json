@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7283464074134827,
+            "Type": "PERSON",
+            "Text": "@RippDemUp",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.991990327835083,
+            "Type": "QUANTITY",
+            "Text": "17 billion",
+            "BeginOffset": 30,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.3347940444946289,
+            "Type": "ORGANIZATION",
+            "Text": "Medicare",
+            "BeginOffset": 46,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9789393544197083,
+            "Type": "QUANTITY",
+            "Text": "5 billion",
+            "BeginOffset": 64,
+            "EndOffset": 73
+        }
+    ]
+}

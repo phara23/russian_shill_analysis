@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9924156665802002,
+            "Type": "PERSON",
+            "Text": "Donald Drumpf",
+            "BeginOffset": 0,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8661544919013977,
+            "Type": "PERSON",
+            "Text": "@midnight",
+            "BeginOffset": 14,
+            "EndOffset": 23
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8302171230316162,
+            "Type": "PERSON",
+            "Text": "@notthreefifths",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9379318952560425,
+            "Type": "PERSON",
+            "Text": "@jasiri_x",
+            "BeginOffset": 37,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9127095341682434,
+            "Type": "PERSON",
+            "Text": "@MaritaGarrett",
+            "BeginOffset": 66,
+            "EndOffset": 80
+        }
+    ]
+}

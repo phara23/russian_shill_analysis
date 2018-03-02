@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8462427258491516,
+            "Type": "PERSON",
+            "Text": "@gspdogs12",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.7283287644386292,
+            "Type": "PERSON",
+            "Text": "Said Clinton",
+            "BeginOffset": 25,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9799913167953491,
+            "Type": "OTHER",
+            "Text": "#8216",
+            "BeginOffset": 67,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.9464470148086548,
+            "Type": "OTHER",
+            "Text": "#8217",
+            "BeginOffset": 109,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.9999709129333496,
+            "Type": "OTHER",
+            "Text": "https://t.co/220fsSyEW3",
+            "BeginOffset": 116,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9111034870147705,
+            "Type": "PERSON",
+            "Text": "@wesearchr",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9291921854019165,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 25,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.6711207032203674,
+            "Type": "OTHER",
+            "Text": "Mexican",
+            "BeginOffset": 90,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.9507239460945129,
+            "Type": "OTHER",
+            "Text": "https://t.co/Ad3hG7amHL",
+            "BeginOffset": 111,
+            "EndOffset": 134
+        },
+        {
+            "Score": 0.8861696720123291,
+            "Type": "PERSON",
+            "Text": "@Cer",
+            "BeginOffset": 135,
+            "EndOffset": 139
+        }
+    ]
+}

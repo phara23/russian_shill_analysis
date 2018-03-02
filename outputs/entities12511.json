@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5141340494155884,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.828305721282959,
+            "Type": "PERSON",
+            "Text": "@Raffi_RC",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.6314970254898071,
+            "Type": "QUANTITY",
+            "Text": "3C",
+            "BeginOffset": 33,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.8935327529907227,
+            "Type": "ORGANIZATION",
+            "Text": "UN",
+            "BeginOffset": 91,
+            "EndOffset": 93
+        }
+    ]
+}

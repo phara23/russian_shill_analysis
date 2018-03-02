@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7402616739273071,
+            "Type": "PERSON",
+            "Text": "@_Makada",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9922559261322021,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 25,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9719987511634827,
+            "Type": "PERSON",
+            "Text": "DONALD TRUMP",
+            "BeginOffset": 63,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.9999690055847168,
+            "Type": "OTHER",
+            "Text": "https://t.co/TiSt6WnNqI",
+            "BeginOffset": 78,
+            "EndOffset": 101
+        }
+    ]
+}

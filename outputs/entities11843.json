@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9346833825111389,
+            "Type": "PERSON",
+            "Text": "@dawngpsalm63",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.735615074634552,
+            "Type": "PERSON",
+            "Text": "#Obama",
+            "BeginOffset": 23,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9797554016113281,
+            "Type": "OTHER",
+            "Text": "https://t.co/odF0",
+            "BeginOffset": 122,
+            "EndOffset": 139
+        }
+    ]
+}

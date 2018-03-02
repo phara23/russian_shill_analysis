@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9513412714004517,
+            "Type": "PERSON",
+            "Text": "@kingk8888",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.39289623498916626,
+            "Type": "PERSON",
+            "Text": "#KorrynGaines",
+            "BeginOffset": 15,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9997826218605042,
+            "Type": "OTHER",
+            "Text": "https://t.co/qboeHOAIjA",
+            "BeginOffset": 46,
+            "EndOffset": 69
+        }
+    ]
+}

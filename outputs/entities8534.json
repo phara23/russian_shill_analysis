@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9624868035316467,
+            "Type": "PERSON",
+            "Text": "@JesseBenn",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9842807054519653,
+            "Type": "PERSON",
+            "Text": "Jesus Christ",
+            "BeginOffset": 15,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9998775720596313,
+            "Type": "OTHER",
+            "Text": "https://t.co/f6ywBmSqWE",
+            "BeginOffset": 29,
+            "EndOffset": 52
+        }
+    ]
+}

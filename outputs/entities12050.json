@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9031960964202881,
+            "Type": "PERSON",
+            "Text": "@dustin_temple10",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9870104789733887,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 21,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9916605353355408,
+            "Type": "ORGANIZATION",
+            "Text": "ISIS",
+            "BeginOffset": 33,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9999358654022217,
+            "Type": "OTHER",
+            "Text": "https://t.co/Td5bcUgzg5",
+            "BeginOffset": 59,
+            "EndOffset": 82
+        }
+    ]
+}

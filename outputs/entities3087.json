@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7053594589233398,
+            "Type": "PERSON",
+            "Text": "@beforeitsnews",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8655798435211182,
+            "Type": "ORGANIZATION",
+            "Text": "NASA",
+            "BeginOffset": 19,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.36919644474983215,
+            "Type": "ORGANIZATION",
+            "Text": "Twins",
+            "BeginOffset": 24,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9002170562744141,
+            "Type": "OTHER",
+            "Text": "https://t.co/aDug8GdndG",
+            "BeginOffset": 67,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9999881982803345,
+            "Type": "OTHER",
+            "Text": "https://t.co/4EbHUj0Vs1",
+            "BeginOffset": 91,
+            "EndOffset": 114
+        }
+    ]
+}

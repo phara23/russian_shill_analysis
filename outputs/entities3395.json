@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8921209573745728,
+            "Type": "PERSON",
+            "Text": "@marilynnrox",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8713506460189819,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 17,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.6805441975593567,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 130,
+            "EndOffset": 139
+        }
+    ]
+}

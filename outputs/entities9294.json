@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7646484971046448,
+            "Type": "PERSON",
+            "Text": "@realDailyWire",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.768011212348938,
+            "Type": "OTHER",
+            "Text": "Russians",
+            "BeginOffset": 30,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9999842643737793,
+            "Type": "OTHER",
+            "Text": "https://t.co/J14bFlcRqx",
+            "BeginOffset": 77,
+            "EndOffset": 100
+        }
+    ]
+}

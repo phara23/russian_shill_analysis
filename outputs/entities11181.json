@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8616928458213806,
+            "Type": "PERSON",
+            "Text": "@ZaibatsuNews",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8326190710067749,
+            "Type": "PERSON",
+            "Text": "Scarborough",
+            "BeginOffset": 46,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9969918727874756,
+            "Type": "PERSON",
+            "Text": "Brzezinski",
+            "BeginOffset": 62,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.8893125653266907,
+            "Type": "PERSON",
+            "Text": "Donald ‘Fluffy",
+            "BeginOffset": 109,
+            "EndOffset": 123
+        },
+        {
+            "Score": 0.9307951331138611,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.915760338306427,
+            "Type": "PERSON",
+            "Text": "@ShaneCory",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8450111150741577,
+            "Type": "PERSON",
+            "Text": "@JamesOKeefeIII",
+            "BeginOffset": 32,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.893496572971344,
+            "Type": "PERSON",
+            "Text": "@donnabrazile",
+            "BeginOffset": 74,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.9557951092720032,
+            "Type": "PERSON",
+            "Text": "@seanhannity",
+            "BeginOffset": 90,
+            "EndOffset": 102
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9029794931411743,
+            "Type": "PERSON",
+            "Text": "@masnSteve",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9127910137176514,
+            "Type": "PERSON",
+            "Text": "Britton",
+            "BeginOffset": 15,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.6480525732040405,
+            "Type": "LOCATION",
+            "Text": "Twin Lakes",
+            "BeginOffset": 42,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9999560117721558,
+            "Type": "OTHER",
+            "Text": "https://t.co/WPPs3GtsFe",
+            "BeginOffset": 59,
+            "EndOffset": 82
+        }
+    ]
+}

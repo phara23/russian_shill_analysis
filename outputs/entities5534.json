@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9081178903579712,
+            "Type": "PERSON",
+            "Text": "@TruthFrqncyNews",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.4358622133731842,
+            "Type": "PERSON",
+            "Text": "Manhattan Man",
+            "BeginOffset": 51,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9993243217468262,
+            "Type": "OTHER",
+            "Text": "https://t.co/dono25FhNj",
+            "BeginOffset": 108,
+            "EndOffset": 131
+        }
+    ]
+}

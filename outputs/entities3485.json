@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8745055794715881,
+            "Type": "PERSON",
+            "Text": "@correctthemedia",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9948761463165283,
+            "Type": "PERSON",
+            "Text": "Andrew Breitbart",
+            "BeginOffset": 39,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.7436907887458801,
+            "Type": "QUANTITY",
+            "Text": "first",
+            "BeginOffset": 56,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.999051034450531,
+            "Type": "PERSON",
+            "Text": "Anthony Weiner",
+            "BeginOffset": 70,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9989386200904846,
+            "Type": "DATE",
+            "Text": "2011",
+            "BeginOffset": 96,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.9735724925994873,
+            "Type": "PERSON",
+            "Text": "Anthony",
+            "BeginOffset": 115,
+            "EndOffset": 122
+        }
+    ]
+}

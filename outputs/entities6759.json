@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8200823664665222,
+            "Type": "PERSON",
+            "Text": "@guardian",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9054116010665894,
+            "Type": "ORGANIZATION",
+            "Text": "Islamic State",
+            "BeginOffset": 14,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.48020797967910767,
+            "Type": "ORGANIZATION",
+            "Text": "Hamas",
+            "BeginOffset": 48,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9329370856285095,
+            "Type": "LOCATION",
+            "Text": "Gaza Strip",
+            "BeginOffset": 57,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9998766183853149,
+            "Type": "OTHER",
+            "Text": "http://t.co/RlcDIoNL7k",
+            "BeginOffset": 87,
+            "EndOffset": 109
+        }
+    ]
+}

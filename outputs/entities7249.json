@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6512021422386169,
+            "Type": "PERSON",
+            "Text": "@RenewUSTweets",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.5203419327735901,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 19,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.6716163754463196,
+            "Type": "ORGANIZATION",
+            "Text": "@efbrodiesr",
+            "BeginOffset": 22,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9270925521850586,
+            "Type": "OTHER",
+            "Text": "https://t.co/IQGHEHVlMg",
+            "BeginOffset": 58,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.2830534875392914,
+            "Type": "LOCATION",
+            "Text": "#RenewUS",
+            "BeginOffset": 84,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.6990101337432861,
+            "Type": "LOCATION",
+            "Text": "#PJNET",
+            "BeginOffset": 94,
+            "EndOffset": 100
+        }
+    ]
+}

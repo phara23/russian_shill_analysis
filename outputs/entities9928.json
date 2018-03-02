@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8500268459320068,
+            "Type": "PERSON",
+            "Text": "@theblaze",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9895797967910767,
+            "Type": "PERSON",
+            "Text": "Ted Cruz",
+            "BeginOffset": 14,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9383412003517151,
+            "Type": "PERSON",
+            "Text": "President Obama",
+            "BeginOffset": 44,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.9995432496070862,
+            "Type": "PERSON",
+            "Text": "John Kerry",
+            "BeginOffset": 61,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.8426023125648499,
+            "Type": "LOCATION",
+            "Text": "Israel",
+            "BeginOffset": 99,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.9999822378158569,
+            "Type": "OTHER",
+            "Text": "https://t.co/4xmp6rZdrN",
+            "BeginOffset": 106,
+            "EndOffset": 129
+        }
+    ]
+}

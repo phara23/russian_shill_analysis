@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7443237900733948,
+            "Type": "PERSON",
+            "Text": "@TheDailyEdge",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9993076324462891,
+            "Type": "PERSON",
+            "Text": "Melania Trump",
+            "BeginOffset": 65,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.9879977703094482,
+            "Type": "ORGANIZATION",
+            "Text": "University of Ljubljana",
+            "BeginOffset": 111,
+            "EndOffset": 134
+        }
+    ]
+}

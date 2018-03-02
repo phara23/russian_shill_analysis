@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8135700225830078,
+            "Type": "PERSON",
+            "Text": "@CraigCons",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.7795851230621338,
+            "Type": "QUANTITY",
+            "Text": "One criticism",
+            "BeginOffset": 15,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.858331561088562,
+            "Type": "ORGANIZATION",
+            "Text": "Islam",
+            "BeginOffset": 32,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9506223201751709,
+            "Type": "PERSON",
+            "Text": "Prophet Muhammad",
+            "BeginOffset": 83,
+            "EndOffset": 99
+        }
+    ]
+}

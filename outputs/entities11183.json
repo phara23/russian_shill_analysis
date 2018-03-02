@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8920212388038635,
+            "Type": "PERSON",
+            "Text": "@Joe_America",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9445208311080933,
+            "Type": "DATE",
+            "Text": "1776",
+            "BeginOffset": 15,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9363998770713806,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 21,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.7650279402732849,
+            "Type": "LOCATION",
+            "Text": "Mexico",
+            "BeginOffset": 61,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.93682861328125,
+            "Type": "OTHER",
+            "Text": "https://t.co/wB1r7WNzFE",
+            "BeginOffset": 74,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.4967995285987854,
+            "Type": "ORGANIZATION",
+            "Text": "#TCOT",
+            "BeginOffset": 98,
+            "EndOffset": 103
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8362401723861694,
+            "Type": "PERSON",
+            "Text": "@AmericanIndian8",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9882828593254089,
+            "Type": "PERSON",
+            "Text": "John Trudell",
+            "BeginOffset": 55,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9315778613090515,
+            "Type": "OTHER",
+            "Text": "https://t.co/7aKDoSPBtr",
+            "BeginOffset": 68,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.6657981276512146,
+            "Type": "ORGANIZATION",
+            "Text": "@POTUS",
+            "BeginOffset": 100,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.9685497283935547,
+            "Type": "OTHER",
+            "Text": "https://t.co",
+            "BeginOffset": 127,
+            "EndOffset": 139
+        }
+    ]
+}

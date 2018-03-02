@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8481027483940125,
+            "Type": "PERSON",
+            "Text": "@qkode",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.7903077006340027,
+            "Type": "OTHER",
+            "Text": "Iranian",
+            "BeginOffset": 35,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9997421503067017,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 85,
+            "EndOffset": 100
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7522830963134766,
+            "Type": "PERSON",
+            "Text": "@HazeyBaby_",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7712255120277405,
+            "Type": "PERSON",
+            "Text": "@TheEmaculateACE",
+            "BeginOffset": 42,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9947680234909058,
+            "Type": "OTHER",
+            "Text": "https://t.co/nFP1ii3vMa",
+            "BeginOffset": 82,
+            "EndOffset": 105
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5019871592521667,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.9870883226394653,
+            "Type": "PERSON",
+            "Text": "@Shane_Rodenbeck",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9990255236625671,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 44,
+            "EndOffset": 59
+        }
+    ]
+}

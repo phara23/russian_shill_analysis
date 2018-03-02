@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8814817667007446,
+            "Type": "PERSON",
+            "Text": "@ReenMatoMato",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8304424285888672,
+            "Type": "PERSON",
+            "Text": "trump",
+            "BeginOffset": 23,
+            "EndOffset": 28
+        }
+    ]
+}

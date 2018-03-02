@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9437409043312073,
+            "Type": "PERSON",
+            "Text": "Bill",
+            "BeginOffset": 10,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9994569420814514,
+            "Type": "PERSON",
+            "Text": "Kathy Shelton",
+            "BeginOffset": 29,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9561752676963806,
+            "Type": "DATE",
+            "Text": "tonight",
+            "BeginOffset": 53,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9984617233276367,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 73,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.999955415725708,
+            "Type": "OTHER",
+            "Text": "https://t.co/1E3Qi9gAb7",
+            "BeginOffset": 121,
+            "EndOffset": 144
+        }
+    ]
+}

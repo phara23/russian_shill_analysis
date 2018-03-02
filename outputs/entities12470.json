@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.2308645397424698,
+            "Type": "PERSON",
+            "Text": "#hillaryclinton",
+            "BeginOffset": 9,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9886981248855591,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 24,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9878830313682556,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 81,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.9604472517967224,
+            "Type": "OTHER",
+            "Text": "https://t.co/nubpkWr7B6",
+            "BeginOffset": 86,
+            "EndOffset": 109
+        }
+    ]
+}

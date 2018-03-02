@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9468635320663452,
+            "Type": "PERSON",
+            "Text": "@bunnyhugger75",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9993652701377869,
+            "Type": "PERSON",
+            "Text": "Leslie Rutledge",
+            "BeginOffset": 19,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.5370818972587585,
+            "Type": "QUANTITY",
+            "Text": "first",
+            "BeginOffset": 37,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9570806622505188,
+            "Type": "PERSON",
+            "Text": "trump",
+            "BeginOffset": 54,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.9991139769554138,
+            "Type": "PERSON",
+            "Text": "Machado",
+            "BeginOffset": 91,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.9761349558830261,
+            "Type": "OTHER",
+            "Text": "https://t.co/Zb",
+            "BeginOffset": 124,
+            "EndOffset": 139
+        }
+    ]
+}

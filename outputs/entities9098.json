@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9820768237113953,
+            "Type": "PERSON",
+            "Text": "@Kamani1147",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8293173313140869,
+            "Type": "QUANTITY",
+            "Text": "1-watt",
+            "BeginOffset": 41,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9999291896820068,
+            "Type": "OTHER",
+            "Text": "https://t.co/xKPPW9OPWV",
+            "BeginOffset": 55,
+            "EndOffset": 78
+        }
+    ]
+}

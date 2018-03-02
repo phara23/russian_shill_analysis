@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7349424958229065,
+            "Type": "ORGANIZATION",
+            "Text": "@USATODAY",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.7192161083221436,
+            "Type": "QUANTITY",
+            "Text": "3 drown",
+            "BeginOffset": 57,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9370535612106323,
+            "Type": "LOCATION",
+            "Text": "Northern California",
+            "BeginOffset": 88,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.9998565912246704,
+            "Type": "OTHER",
+            "Text": "http://t.co/v3MbSrKhRt",
+            "BeginOffset": 115,
+            "EndOffset": 137
+        }
+    ]
+}

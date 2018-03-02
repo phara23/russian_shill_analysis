@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.879054069519043,
+            "Type": "PERSON",
+            "Text": "@tomborelli",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9455716013908386,
+            "Type": "PERSON",
+            "Text": "@deneenborelli",
+            "BeginOffset": 17,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9029656052589417,
+            "Type": "PERSON",
+            "Text": "@SenTedCruz",
+            "BeginOffset": 45,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.7669270038604736,
+            "Type": "ORGANIZATION",
+            "Text": "@CR",
+            "BeginOffset": 60,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9996170997619629,
+            "Type": "OTHER",
+            "Text": "https://t.co/yyIbZpvE96",
+            "BeginOffset": 91,
+            "EndOffset": 114
+        }
+    ]
+}

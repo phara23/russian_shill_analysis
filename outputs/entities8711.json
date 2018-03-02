@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9245032668113708,
+            "Type": "PERSON",
+            "Text": "@ZenRand",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9953479766845703,
+            "Type": "QUANTITY",
+            "Text": "20 min",
+            "BeginOffset": 16,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.7619094252586365,
+            "Type": "TITLE",
+            "Text": "@HashtagRoundup",
+            "BeginOffset": 35,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.8380289673805237,
+            "Type": "PERSON",
+            "Text": "@FastLaugh",
+            "BeginOffset": 73,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.8859255909919739,
+            "Type": "PERSON",
+            "Text": "@HashtagZoo",
+            "BeginOffset": 84,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.8052759766578674,
+            "Type": "PERSON",
+            "Text": "@nationallampoon. https",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        }
+    ]
+}

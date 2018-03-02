@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9316192865371704,
+            "Type": "PERSON",
+            "Text": "@Cailin4Trump",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9321035146713257,
+            "Type": "PERSON",
+            "Text": "@MrsMissyMom",
+            "BeginOffset": 18,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9999698400497437,
+            "Type": "OTHER",
+            "Text": "411@gmail.com",
+            "BeginOffset": 56,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9999257326126099,
+            "Type": "OTHER",
+            "Text": "https://t.co/gQaY2oMXgb",
+            "BeginOffset": 101,
+            "EndOffset": 124
+        }
+    ]
+}

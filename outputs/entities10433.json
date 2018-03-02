@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8183948397636414,
+            "Type": "PERSON",
+            "Text": "@makebeatsnow",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8546310663223267,
+            "Type": "PERSON",
+            "Text": "@tdotwellsmusic",
+            "BeginOffset": 65,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.9676688313484192,
+            "Type": "OTHER",
+            "Text": "https://t.co/OQGBrVX2D8",
+            "BeginOffset": 99,
+            "EndOffset": 122
+        },
+        {
+            "Score": 0.9882259964942932,
+            "Type": "OTHER",
+            "Text": "https://t.co/iSZ",
+            "BeginOffset": 123,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9989984631538391,
+            "Type": "PERSON",
+            "Text": "Cory Booker",
+            "BeginOffset": 7,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9945611357688904,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 22,
+            "EndOffset": 37
+        }
+    ]
+}

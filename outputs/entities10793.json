@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9253883957862854,
+            "Type": "PERSON",
+            "Text": "@ezraklein",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.999489426612854,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 19,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.8334248661994934,
+            "Type": "QUANTITY",
+            "Text": "three cartoons",
+            "BeginOffset": 87,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.9999229907989502,
+            "Type": "OTHER",
+            "Text": "https://t.co/Qs2cUOo4Xv",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        }
+    ]
+}

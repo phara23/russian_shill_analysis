@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9587816596031189,
+            "Type": "PERSON",
+            "Text": "@suzidixon77",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7884864211082458,
+            "Type": "PERSON",
+            "Text": "@alukeonlife",
+            "BeginOffset": 20,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9734768271446228,
+            "Type": "PERSON",
+            "Text": "@suzidixon77",
+            "BeginOffset": 34,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9132194519042969,
+            "Type": "PERSON",
+            "Text": "@mattdesmier",
+            "BeginOffset": 47,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.8930875658988953,
+            "Type": "OTHER",
+            "Text": "https://t.co/fskFma2gLR",
+            "BeginOffset": 60,
+            "EndOffset": 83
+        }
+    ]
+}

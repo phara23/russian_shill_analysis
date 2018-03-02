@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8853875398635864,
+            "Type": "PERSON",
+            "Text": "@ali",
+            "BeginOffset": 3,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.9819007515907288,
+            "Type": "ORGANIZATION",
+            "Text": "Twitter",
+            "BeginOffset": 43,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9843662977218628,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 75,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.7399406433105469,
+            "Type": "ORGANIZATION",
+            "Text": "@POTUS44",
+            "BeginOffset": 99,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.8369746804237366,
+            "Type": "ORGANIZATION",
+            "Text": "@POTUS",
+            "BeginOffset": 109,
+            "EndOffset": 115
+        }
+    ]
+}

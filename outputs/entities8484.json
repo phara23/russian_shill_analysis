@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8594275712966919,
+            "Type": "PERSON",
+            "Text": "@KimDotcom",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9915653467178345,
+            "Type": "ORGANIZATION",
+            "Text": "FBI",
+            "BeginOffset": 27,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9966765642166138,
+            "Type": "ORGANIZATION",
+            "Text": "FBI",
+            "BeginOffset": 46,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.7710999250411987,
+            "Type": "LOCATION",
+            "Text": "DC",
+            "BeginOffset": 70,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.9698436260223389,
+            "Type": "ORGANIZATION",
+            "Text": "CIA",
+            "BeginOffset": 88,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.9958362579345703,
+            "Type": "ORGANIZATION",
+            "Text": "NSA",
+            "BeginOffset": 98,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.7442447543144226,
+            "Type": "QUANTITY",
+            "Text": "One domino f",
+            "BeginOffset": 131,
+            "EndOffset": 143
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9931791424751282,
+            "Type": "PERSON",
+            "Text": "Salma Hayek",
+            "BeginOffset": 5,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9998785257339478,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 24,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9766311049461365,
+            "Type": "OTHER",
+            "Text": "https://t.co/fYQ9uAAAQL",
+            "BeginOffset": 88,
+            "EndOffset": 111
+        }
+    ]
+}

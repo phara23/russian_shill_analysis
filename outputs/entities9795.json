@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8243861794471741,
+            "Type": "PERSON",
+            "Text": "@LessaT",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9876936674118042,
+            "Type": "QUANTITY",
+            "Text": "95.00",
+            "BeginOffset": 53,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9997512698173523,
+            "Type": "OTHER",
+            "Text": "https://t.co/0MUuKG5HGM",
+            "BeginOffset": 59,
+            "EndOffset": 82
+        }
+    ]
+}

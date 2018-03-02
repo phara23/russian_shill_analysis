@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9558561444282532,
+            "Type": "PERSON",
+            "Text": "@petertauber",
+            "BeginOffset": 0,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9956031441688538,
+            "Type": "PERSON",
+            "Text": "Herr Tauber",
+            "BeginOffset": 27,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.6511753797531128,
+            "Type": "PERSON",
+            "Text": "würden Sie",
+            "BeginOffset": 40,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9557850956916809,
+            "Type": "PERSON",
+            "Text": "Mal wählen",
+            "BeginOffset": 68,
+            "EndOffset": 78
+        }
+    ]
+}

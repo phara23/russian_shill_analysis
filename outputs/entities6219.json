@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8842719793319702,
+            "Type": "PERSON",
+            "Text": "@marypatriott",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9217951893806458,
+            "Type": "PERSON",
+            "Text": "@megynkelly",
+            "BeginOffset": 28,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.7135161757469177,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 52,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9997668862342834,
+            "Type": "PERSON",
+            "Text": "Donna Brazile",
+            "BeginOffset": 62,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.89188551902771,
+            "Type": "PERSON",
+            "Text": "HILLARY",
+            "BeginOffset": 104,
+            "EndOffset": 111
+        }
+    ]
+}

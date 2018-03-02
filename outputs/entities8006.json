@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9991766810417175,
+            "Type": "PERSON",
+            "Text": "Eric Bolling",
+            "BeginOffset": 8,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.8686591982841492,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 27,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.8600565791130066,
+            "Type": "OTHER",
+            "Text": "https://t.co/5jg43KWynT",
+            "BeginOffset": 62,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.9999746084213257,
+            "Type": "OTHER",
+            "Text": "https://t.co/lQKosS2m1d",
+            "BeginOffset": 86,
+            "EndOffset": 109
+        }
+    ]
+}

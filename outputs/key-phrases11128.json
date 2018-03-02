@@ -1,0 +1,28 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9869551062583923,
+            "Text": "NYTimes Forecast",
+            "BeginOffset": 0,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.999506950378418,
+            "Text": "Donald Trump",
+            "BeginOffset": 18,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9892303347587585,
+            "Text": "an 84% chance",
+            "BeginOffset": 35,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9473057389259338,
+            "Text": "Ohio",
+            "BeginOffset": 60,
+            "EndOffset": 64
+        }
+    ]
+}

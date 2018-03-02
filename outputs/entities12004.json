@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7865193486213684,
+            "Type": "PERSON",
+            "Text": "@famousquotenet",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9993491768836975,
+            "Type": "PERSON",
+            "Text": "John Adams",
+            "BeginOffset": 120,
+            "EndOffset": 130
+        }
+    ]
+}

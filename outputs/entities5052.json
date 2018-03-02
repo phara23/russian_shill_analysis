@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8895118832588196,
+            "Type": "PERSON",
+            "Text": "@LauraBejerano",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.734526515007019,
+            "Type": "PERSON",
+            "Text": "@OfficerCynical",
+            "BeginOffset": 19,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9635609984397888,
+            "Type": "PERSON",
+            "Text": "@TeamTrumpAZ",
+            "BeginOffset": 35,
+            "EndOffset": 47
+        }
+    ]
+}

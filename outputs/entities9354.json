@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8627908229827881,
+            "Type": "PERSON",
+            "Text": "@RoyalCentral",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9708805084228516,
+            "Type": "PERSON",
+            "Text": "Princess Charlene",
+            "BeginOffset": 18,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.7831375002861023,
+            "Type": "LOCATION",
+            "Text": "Paris",
+            "BeginOffset": 62,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9524656534194946,
+            "Type": "OTHER",
+            "Text": "https://t.co/40Fs1sDHbc",
+            "BeginOffset": 74,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.9999948740005493,
+            "Type": "OTHER",
+            "Text": "https://t.co/RJIP5GB8tM",
+            "BeginOffset": 98,
+            "EndOffset": 121
+        }
+    ]
+}

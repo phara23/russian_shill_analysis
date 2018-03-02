@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9672629833221436,
+            "Type": "PERSON",
+            "Text": "@mitchellvii",
+            "BeginOffset": 0,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9716402292251587,
+            "Type": "QUANTITY",
+            "Text": "Two hours",
+            "BeginOffset": 30,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.5180703997612,
+            "Type": "QUANTITY",
+            "Text": "16",
+            "BeginOffset": 84,
+            "EndOffset": 86
+        }
+    ]
+}

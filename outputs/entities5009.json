@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9987389445304871,
+            "Type": "DATE",
+            "Text": "November 8, 1933",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9994938969612122,
+            "Type": "PERSON",
+            "Text": "Ester Rolle",
+            "BeginOffset": 31,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9974210262298584,
+            "Type": "LOCATION",
+            "Text": "Pompano Beach, Florida",
+            "BeginOffset": 55,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.999935507774353,
+            "Type": "OTHER",
+            "Text": "https://t.co/n5RFtieMK5",
+            "BeginOffset": 108,
+            "EndOffset": 131
+        }
+    ]
+}

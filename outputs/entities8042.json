@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8393716216087341,
+            "Type": "PERSON",
+            "Text": "@SanDiegoPost",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9064088463783264,
+            "Type": "ORGANIZATION",
+            "Text": "#politics City Council",
+            "BeginOffset": 18,
+            "EndOffset": 40
+        }
+    ]
+}

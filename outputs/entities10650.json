@@ -1,0 +1,74 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5147284865379333,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.7342015504837036,
+            "Type": "PERSON",
+            "Text": "@Goldthinkers",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.667070746421814,
+            "Type": "ORGANIZATION",
+            "Text": "HRC",
+            "BeginOffset": 18,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9896129965782166,
+            "Type": "OTHER",
+            "Text": "https://t.co/1yKlb5Mo3Q",
+            "BeginOffset": 25,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.28459420800209045,
+            "Type": "QUANTITY",
+            "Text": "2",
+            "BeginOffset": 49,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9857681393623352,
+            "Type": "OTHER",
+            "Text": "https://t.co/Wh7RvjdGPk",
+            "BeginOffset": 52,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.32079192996025085,
+            "Type": "QUANTITY",
+            "Text": "3",
+            "BeginOffset": 76,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9901245832443237,
+            "Type": "OTHER",
+            "Text": "https://t.co/P2xUTGuy7I",
+            "BeginOffset": 79,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.3672025203704834,
+            "Type": "QUANTITY",
+            "Text": "4",
+            "BeginOffset": 103,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.9761772155761719,
+            "Type": "OTHER",
+            "Text": "https://t.co/6ejv3ur3VR",
+            "BeginOffset": 106,
+            "EndOffset": 129
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8589261770248413,
+            "Type": "PERSON",
+            "Text": "@ScreamyMonkey",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9692372679710388,
+            "Type": "LOCATION",
+            "Text": "Chicago",
+            "BeginOffset": 28,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.7456781268119812,
+            "Type": "ORGANIZATION",
+            "Text": "ACLU",
+            "BeginOffset": 75,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.9999421834945679,
+            "Type": "OTHER",
+            "Text": "http://t.co/DvkXVH1Isy",
+            "BeginOffset": 87,
+            "EndOffset": 109
+        }
+    ]
+}

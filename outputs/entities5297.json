@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8006105422973633,
+            "Type": "PERSON",
+            "Text": "@LibAmericaOrg",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9893966317176819,
+            "Type": "PERSON",
+            "Text": "Putin",
+            "BeginOffset": 42,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.7147899866104126,
+            "Type": "LOCATION",
+            "Text": "Russia",
+            "BeginOffset": 75,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.9316996335983276,
+            "Type": "OTHER",
+            "Text": "https://t.co/rdE0sjDXai",
+            "BeginOffset": 99,
+            "EndOffset": 122
+        },
+        {
+            "Score": 0.9772721529006958,
+            "Type": "OTHER",
+            "Text": "https://t.co/gx6",
+            "BeginOffset": 123,
+            "EndOffset": 139
+        }
+    ]
+}

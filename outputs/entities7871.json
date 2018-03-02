@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.955247700214386,
+            "Type": "LOCATION",
+            "Text": "Iowa",
+            "BeginOffset": 3,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.9963353872299194,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 9,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9974663257598877,
+            "Type": "ORGANIZATION",
+            "Text": "FBI",
+            "BeginOffset": 37,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9979124665260315,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 68,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.8999263048171997,
+            "Type": "OTHER",
+            "Text": "https://t.co/if0PZJD6js",
+            "BeginOffset": 95,
+            "EndOffset": 118
+        }
+    ]
+}

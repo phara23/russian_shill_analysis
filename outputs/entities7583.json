@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.891345202922821,
+            "Type": "PERSON",
+            "Text": "@RicheyCollazo",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9908828139305115,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 19,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.7131825089454651,
+            "Type": "PERSON",
+            "Text": "Ameri",
+            "BeginOffset": 41,
+            "EndOffset": 46
+        }
+    ]
+}

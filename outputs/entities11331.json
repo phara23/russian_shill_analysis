@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8195282220840454,
+            "Type": "PERSON",
+            "Text": "@FreeLabelNet",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8781413435935974,
+            "Type": "PERSON",
+            "Text": "@Trvp_Sqvad",
+            "BeginOffset": 23,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9994788765907288,
+            "Type": "OTHER",
+            "Text": "https://t.co/tEPugxWvjk",
+            "BeginOffset": 79,
+            "EndOffset": 102
+        }
+    ]
+}

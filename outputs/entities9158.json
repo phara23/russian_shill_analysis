@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7333694100379944,
+            "Type": "ORGANIZATION",
+            "Text": "@USATODAY",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8749046921730042,
+            "Type": "QUANTITY",
+            "Text": "One major mistake",
+            "BeginOffset": 14,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9976033568382263,
+            "Type": "OTHER",
+            "Text": "http://t.co/x3qdfPm9FN",
+            "BeginOffset": 75,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.8250337839126587,
+            "Type": "PERSON",
+            "Text": "@kimkomando",
+            "BeginOffset": 101,
+            "EndOffset": 112
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8158063292503357,
+            "Type": "PERSON",
+            "Text": "@DRUDGE_REPORT",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9284296631813049,
+            "Type": "PERSON",
+            "Text": "Schumer",
+            "BeginOffset": 19,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.8276687860488892,
+            "Type": "PERSON",
+            "Text": "Gorsuch",
+            "BeginOffset": 58,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9999099969863892,
+            "Type": "OTHER",
+            "Text": "https://t.co/RAWIYOLZX5",
+            "BeginOffset": 69,
+            "EndOffset": 92
+        }
+    ]
+}

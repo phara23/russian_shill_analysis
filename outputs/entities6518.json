@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8787122368812561,
+            "Type": "PERSON",
+            "Text": "@megynkelly",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8956915736198425,
+            "Type": "PERSON",
+            "Text": "President-elect @realDonaldTrump",
+            "BeginOffset": 16,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.5184638500213623,
+            "Type": "ORGANIZATION",
+            "Text": "Gitmo",
+            "BeginOffset": 96,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.35996466875076294,
+            "Type": "PERSON",
+            "Text": "#KellyFile",
+            "BeginOffset": 103,
+            "EndOffset": 113
+        }
+    ]
+}

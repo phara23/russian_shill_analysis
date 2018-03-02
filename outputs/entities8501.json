@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7291432023048401,
+            "Type": "PERSON",
+            "Text": "@onekainen",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8827400803565979,
+            "Type": "PERSON",
+            "Text": "@sinbadbad",
+            "BeginOffset": 15,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.750673234462738,
+            "Type": "PERSON",
+            "Text": "@POTUS",
+            "BeginOffset": 57,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9509695768356323,
+            "Type": "PERSON",
+            "Text": "Leslie Odom Jr.",
+            "BeginOffset": 94,
+            "EndOffset": 109
+        },
+        {
+            "Score": 0.9984293580055237,
+            "Type": "PERSON",
+            "Text": "Sara Barielles",
+            "BeginOffset": 117,
+            "EndOffset": 131
+        }
+    ]
+}

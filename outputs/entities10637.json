@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9339959025382996,
+            "Type": "PERSON",
+            "Text": "@Jami_USA",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9855404496192932,
+            "Type": "PERSON",
+            "Text": "Bernie",
+            "BeginOffset": 74,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.984376072883606,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 101,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.9925733804702759,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 116,
+            "EndOffset": 121
+        }
+    ]
+}

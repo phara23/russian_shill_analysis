@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9012107849121094,
+            "Type": "PERSON",
+            "Text": "@CruzinAhead",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.882461667060852,
+            "Type": "PERSON",
+            "Text": "@TedCruz",
+            "BeginOffset": 22,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.94097501039505,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 31,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9330700635910034,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 69,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.9755299091339111,
+            "Type": "OTHER",
+            "Text": "https://t.co/MeyX4TacSh",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        }
+    ]
+}

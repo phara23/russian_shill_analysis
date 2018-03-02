@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8557888269424438,
+            "Type": "PERSON",
+            "Text": "@ClickHole",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9110044240951538,
+            "Type": "OTHER",
+            "Text": "https://t.co/gqfKoTeO3P",
+            "BeginOffset": 100,
+            "EndOffset": 123
+        },
+        {
+            "Score": 0.9687873125076294,
+            "Type": "OTHER",
+            "Text": "https://t.co/nZ",
+            "BeginOffset": 124,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.963747501373291,
+            "Type": "PERSON",
+            "Text": "@EzraDrissman",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9761424660682678,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 50,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9745115041732788,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 66,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.9998286366462708,
+            "Type": "PERSON",
+            "Text": "Mike Pence",
+            "BeginOffset": 87,
+            "EndOffset": 97
+        }
+    ]
+}

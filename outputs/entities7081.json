@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8288185000419617,
+            "Type": "PERSON",
+            "Text": "@SputnikInt",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9695591926574707,
+            "Type": "PERSON",
+            "Text": "@mfa_russia",
+            "BeginOffset": 17,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.6878869533538818,
+            "Type": "OTHER",
+            "Text": "Belgian",
+            "BeginOffset": 30,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.8161469101905823,
+            "Type": "ORGANIZATION",
+            "Text": "Belgian Air Force",
+            "BeginOffset": 75,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.31090283393859863,
+            "Type": "ORGANIZATION",
+            "Text": "#Hassajek",
+            "BeginOffset": 123,
+            "EndOffset": 132
+        }
+    ]
+}

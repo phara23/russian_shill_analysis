@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9928423166275024,
+            "Type": "ORGANIZATION",
+            "Text": "ISIS",
+            "BeginOffset": 26,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.83295077085495,
+            "Type": "ORGANIZATION",
+            "Text": "China",
+            "BeginOffset": 35,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.7123881578445435,
+            "Type": "ORGANIZATION",
+            "Text": "France",
+            "BeginOffset": 104,
+            "EndOffset": 110
+        }
+    ]
+}

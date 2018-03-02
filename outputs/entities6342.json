@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8856594562530518,
+            "Type": "PERSON",
+            "Text": "@SpreadButter",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9997712969779968,
+            "Type": "OTHER",
+            "Text": "https://t.co/YAcIiLXtiJ",
+            "BeginOffset": 45,
+            "EndOffset": 68
+        }
+    ]
+}

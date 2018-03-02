@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8708978891372681,
+            "Type": "PERSON",
+            "Text": "@realOllieTaylor",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8652220964431763,
+            "Type": "PERSON",
+            "Text": "@777sjr",
+            "BeginOffset": 21,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9866139888763428,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 29,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9644829034805298,
+            "Type": "PERSON",
+            "Text": "@shawgerald4",
+            "BeginOffset": 46,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9928733110427856,
+            "Type": "PERSON",
+            "Text": "Ivanka",
+            "BeginOffset": 73,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.7925693988800049,
+            "Type": "QUANTITY",
+            "Text": "first woman",
+            "BeginOffset": 92,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.9967183470726013,
+            "Type": "DATE",
+            "Text": "2025",
+            "BeginOffset": 113,
+            "EndOffset": 117
+        }
+    ]
+}

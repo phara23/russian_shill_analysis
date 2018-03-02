@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7172049283981323,
+            "Type": "PERSON",
+            "Text": "@YoungCons",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9833037257194519,
+            "Type": "PERSON",
+            "Text": "Ashley Judd",
+            "BeginOffset": 15,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.8844638466835022,
+            "Type": "OTHER",
+            "Text": "http://t.co/V7cUmwUyJ9",
+            "BeginOffset": 75,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.9999780654907227,
+            "Type": "OTHER",
+            "Text": "http://t.co/2MjaRq4iRr",
+            "BeginOffset": 98,
+            "EndOffset": 120
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9398542046546936,
+            "Type": "PERSON",
+            "Text": "@MissAngelaDavis",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9951801300048828,
+            "Type": "DATE",
+            "Text": "5am",
+            "BeginOffset": 82,
+            "EndOffset": 85
+        }
+    ]
+}

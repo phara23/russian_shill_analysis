@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8925483822822571,
+            "Type": "ORGANIZATION",
+            "Text": "@MSNBC",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9396378993988037,
+            "Type": "QUANTITY",
+            "Text": "18-year-old",
+            "BeginOffset": 16,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.7993214726448059,
+            "Type": "LOCATION",
+            "Text": "Macedonia",
+            "BeginOffset": 33,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9506204724311829,
+            "Type": "OTHER",
+            "Text": "https://t.co/LWYOr99i8S",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.9999831914901733,
+            "Type": "OTHER",
+            "Text": "https://t.co/nVb6nE3zsw",
+            "BeginOffset": 114,
+            "EndOffset": 137
+        }
+    ]
+}

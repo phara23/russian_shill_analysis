@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7940936088562012,
+            "Type": "PERSON",
+            "Text": "@realDailyWire",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9979650974273682,
+            "Type": "PERSON",
+            "Text": "Bill Clinton",
+            "BeginOffset": 26,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9739701151847839,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 64,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9999409914016724,
+            "Type": "OTHER",
+            "Text": "https://t.co/pYiqRwWC74",
+            "BeginOffset": 79,
+            "EndOffset": 102
+        }
+    ]
+}

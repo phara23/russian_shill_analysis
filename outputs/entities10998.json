@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9138608574867249,
+            "Type": "PERSON",
+            "Text": "@morningmoneyben",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8294431567192078,
+            "Type": "PERSON",
+            "Text": "Villanova",
+            "BeginOffset": 36,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.998653769493103,
+            "Type": "PERSON",
+            "Text": "Steph Curry",
+            "BeginOffset": 84,
+            "EndOffset": 95
+        }
+    ]
+}

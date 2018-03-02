@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8514017462730408,
+            "Type": "PERSON",
+            "Text": "@maggiebeauchamp",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9697768688201904,
+            "Type": "PERSON",
+            "Text": "@myrnabob1",
+            "BeginOffset": 21,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9644981622695923,
+            "Type": "PERSON",
+            "Text": "@KathyGoodGirl",
+            "BeginOffset": 32,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9954476356506348,
+            "Type": "PERSON",
+            "Text": "@Dian5",
+            "BeginOffset": 47,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9840667247772217,
+            "Type": "PERSON",
+            "Text": "@scorpio5053",
+            "BeginOffset": 54,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.982871949672699,
+            "Type": "PERSON",
+            "Text": "@joan_e_adams",
+            "BeginOffset": 67,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.9658450484275818,
+            "Type": "PERSON",
+            "Text": "@ChiverKelly",
+            "BeginOffset": 81,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.9926639795303345,
+            "Type": "PERSON",
+            "Text": "Marie",
+            "BeginOffset": 101,
+            "EndOffset": 106
+        }
+    ]
+}

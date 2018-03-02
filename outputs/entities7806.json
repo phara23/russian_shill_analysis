@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8682430386543274,
+            "Type": "PERSON",
+            "Text": "@Aurelius80",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8637968301773071,
+            "Type": "PERSON",
+            "Text": "@politico",
+            "BeginOffset": 16,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.893384575843811,
+            "Type": "PERSON",
+            "Text": "@ludacristiano",
+            "BeginOffset": 26,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9999656677246094,
+            "Type": "OTHER",
+            "Text": "https://t.co/e3cXfDqEwq",
+            "BeginOffset": 41,
+            "EndOffset": 64
+        }
+    ]
+}

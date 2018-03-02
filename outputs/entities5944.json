@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.906287670135498,
+            "Type": "ORGANIZATION",
+            "Text": "Wikileaks",
+            "BeginOffset": 0,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9925436973571777,
+            "Type": "QUANTITY",
+            "Text": "19,252 emails",
+            "BeginOffset": 18,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9707119464874268,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 41,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.6312137246131897,
+            "Type": "QUANTITY",
+            "Text": "One",
+            "BeginOffset": 46,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9433614015579224,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 58,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9999526739120483,
+            "Type": "OTHER",
+            "Text": "https://t.co/k65JPluDqt",
+            "BeginOffset": 89,
+            "EndOffset": 112
+        }
+    ]
+}

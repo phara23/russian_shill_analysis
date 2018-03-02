@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9110329151153564,
+            "Type": "PERSON",
+            "Text": "@JerryHendrixII",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8633749485015869,
+            "Type": "PERSON",
+            "Text": "@SenTedCruz",
+            "BeginOffset": 44,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9162061214447021,
+            "Type": "PERSON",
+            "Text": "@GretchenCarlson",
+            "BeginOffset": 89,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.8530799150466919,
+            "Type": "ORGANIZATION",
+            "Text": "@FoxNews",
+            "BeginOffset": 109,
+            "EndOffset": 117
+        },
+        {
+            "Score": 0.9298591613769531,
+            "Type": "DATE",
+            "Text": "1430 EST",
+            "BeginOffset": 121,
+            "EndOffset": 129
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9092181324958801,
+            "Type": "PERSON",
+            "Text": "@LincolnFresno",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8605015277862549,
+            "Type": "LOCATION",
+            "Text": "U.S.",
+            "BeginOffset": 42,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.8231257200241089,
+            "Type": "OTHER",
+            "Text": "Central American",
+            "BeginOffset": 72,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.961018443107605,
+            "Type": "LOCATION",
+            "Text": "Texas",
+            "BeginOffset": 101,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.9778677225112915,
+            "Type": "OTHER",
+            "Text": "https://t.co/rvZTj5j3fi",
+            "BeginOffset": 112,
+            "EndOffset": 135
+        }
+    ]
+}

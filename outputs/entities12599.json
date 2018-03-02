@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.870063066482544,
+            "Type": "PERSON",
+            "Text": "@BlameEbro",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.776098370552063,
+            "Type": "PERSON",
+            "Text": "@deray",
+            "BeginOffset": 16,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.7676740884780884,
+            "Type": "LOCATION",
+            "Text": "Baton Rouge",
+            "BeginOffset": 61,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.653358519077301,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 130,
+            "EndOffset": 139
+        }
+    ]
+}

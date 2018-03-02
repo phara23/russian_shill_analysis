@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7238782644271851,
+            "Type": "PERSON",
+            "Text": "@ABCPolitics",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.38881343603134155,
+            "Type": "ORGANIZATION",
+            "Text": "UN",
+            "BeginOffset": 22,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.991540789604187,
+            "Type": "PERSON",
+            "Text": "Ban Ki-Moon",
+            "BeginOffset": 43,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.705032467842102,
+            "Type": "LOCATION",
+            "Text": "North Korea",
+            "BeginOffset": 78,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.9841898083686829,
+            "Type": "OTHER",
+            "Text": "https://t.co/ngEmK",
+            "BeginOffset": 119,
+            "EndOffset": 137
+        }
+    ]
+}

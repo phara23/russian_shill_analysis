@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8100667595863342,
+            "Type": "QUANTITY",
+            "Text": "first hashtag game",
+            "BeginOffset": 4,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9996660947799683,
+            "Type": "DATE",
+            "Text": "2017",
+            "BeginOffset": 26,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.8861779570579529,
+            "Type": "PERSON",
+            "Text": "@GiselleEvns",
+            "BeginOffset": 34,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.85431969165802,
+            "Type": "QUANTITY",
+            "Text": "an hour",
+            "BeginOffset": 61,
+            "EndOffset": 68
+        }
+    ]
+}

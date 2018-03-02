@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.924992561340332,
+            "Type": "PERSON",
+            "Text": "@Ramla_Ty",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9785652756690979,
+            "Type": "DATE",
+            "Text": "Today",
+            "BeginOffset": 99,
+            "EndOffset": 104
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9691247940063477,
+            "Type": "PERSON",
+            "Text": "@JohnFromCranber",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8229553699493408,
+            "Type": "PERSON",
+            "Text": "Clintons",
+            "BeginOffset": 21,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.7626941204071045,
+            "Type": "ORGANIZATION",
+            "Text": "Clinton Foundation",
+            "BeginOffset": 35,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9237887859344482,
+            "Type": "OTHER",
+            "Text": "https://t.co/wwleitqyyG",
+            "BeginOffset": 79,
+            "EndOffset": 102
+        }
+    ]
+}

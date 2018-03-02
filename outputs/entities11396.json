@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8782086372375488,
+            "Type": "PERSON",
+            "Text": "@mitchellvii",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9963963627815247,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 29,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.8757391571998596,
+            "Type": "LOCATION",
+            "Text": "New York",
+            "BeginOffset": 51,
+            "EndOffset": 59
+        }
+    ]
+}

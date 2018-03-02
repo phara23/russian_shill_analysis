@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8807033896446228,
+            "Type": "PERSON",
+            "Text": "@thelox",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9999563694000244,
+            "Type": "OTHER",
+            "Text": "https://t.co/ei51O50IIa",
+            "BeginOffset": 43,
+            "EndOffset": 66
+        }
+    ]
+}

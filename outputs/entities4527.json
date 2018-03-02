@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8693313598632812,
+            "Type": "PERSON",
+            "Text": "@allhailcollins1",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.886756181716919,
+            "Type": "PERSON",
+            "Text": "@LouGeese",
+            "BeginOffset": 21,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9714697003364563,
+            "Type": "PERSON",
+            "Text": "@aubrey_huff",
+            "BeginOffset": 31,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.66023188829422,
+            "Type": "QUANTITY",
+            "Text": "1st",
+            "BeginOffset": 50,
+            "EndOffset": 53
+        }
+    ]
+}

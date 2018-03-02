@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6319049000740051,
+            "Type": "PERSON",
+            "Text": "@RoomOfRumor",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9259341955184937,
+            "Type": "ORGANIZATION",
+            "Text": "Amazon",
+            "BeginOffset": 17,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.8536384701728821,
+            "Type": "ORGANIZATION",
+            "Text": "Iberdrola",
+            "BeginOffset": 30,
+            "EndOffset": 39
+        }
+    ]
+}

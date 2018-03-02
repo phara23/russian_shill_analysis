@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9562910199165344,
+            "Type": "PERSON",
+            "Text": "@Danimal941",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9857152104377747,
+            "Type": "TITLE",
+            "Text": "Obamacare",
+            "BeginOffset": 24,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9988808631896973,
+            "Type": "PERSON",
+            "Text": "Mike Pence",
+            "BeginOffset": 51,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.5893526673316956,
+            "Type": "QUANTITY",
+            "Text": "100",
+            "BeginOffset": 126,
+            "EndOffset": 129
+        }
+    ]
+}

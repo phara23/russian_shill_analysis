@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8754066824913025,
+            "Type": "PERSON",
+            "Text": "@tradeshowwendy",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9610763788223267,
+            "Type": "PERSON",
+            "Text": "@bjgrotzke",
+            "BeginOffset": 20,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9514976739883423,
+            "Type": "PERSON",
+            "Text": "@mnwild",
+            "BeginOffset": 31,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9680264592170715,
+            "Type": "PERSON",
+            "Text": "@suds1976",
+            "BeginOffset": 39,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.6888447999954224,
+            "Type": "PERSON",
+            "Text": "@110",
+            "BeginOffset": 49,
+            "EndOffset": 53
+        }
+    ]
+}

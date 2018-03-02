@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8810102343559265,
+            "Type": "PERSON",
+            "Text": "@waba4",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9745495319366455,
+            "Type": "ORGANIZATION",
+            "Text": "Trump University",
+            "BeginOffset": 51,
+            "EndOffset": 67
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7001312971115112,
+            "Type": "PERSON",
+            "Text": "@Justified_",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.6371400356292725,
+            "Type": "PERSON",
+            "Text": "@Pontifex",
+            "BeginOffset": 19,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.5204898715019226,
+            "Type": "PERSON",
+            "Text": "Pope",
+            "BeginOffset": 29,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9290047287940979,
+            "Type": "ORGANIZATION",
+            "Text": "Muslims",
+            "BeginOffset": 73,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.6940285563468933,
+            "Type": "ORGANIZATION",
+            "Text": "Christianity",
+            "BeginOffset": 98,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.6696038842201233,
+            "Type": "PERSON",
+            "Text": "Christian Gen",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

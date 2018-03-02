@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9366371631622314,
+            "Type": "PERSON",
+            "Text": "@TrayneshaCole",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.689315915107727,
+            "Type": "DATE",
+            "Text": "June",
+            "BeginOffset": 22,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.7430180311203003,
+            "Type": "PERSON",
+            "Text": "#Obama",
+            "BeginOffset": 27,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.722725510597229,
+            "Type": "ORGANIZATION",
+            "Text": "United State of Women",
+            "BeginOffset": 73,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.999887228012085,
+            "Type": "OTHER",
+            "Text": "https://t.co/KNqln9iH77",
+            "BeginOffset": 102,
+            "EndOffset": 125
+        }
+    ]
+}

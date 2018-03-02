@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9591089487075806,
+            "Type": "QUANTITY",
+            "Text": "10,000+",
+            "BeginOffset": 0,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.9726672172546387,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 24,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.4193040132522583,
+            "Type": "LOCATION",
+            "Text": "#Florida",
+            "BeginOffset": 84,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.38254669308662415,
+            "Type": "QUANTITY",
+            "Text": "16",
+            "BeginOffset": 104,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.9996941089630127,
+            "Type": "OTHER",
+            "Text": "https://t.co/9ktfry2YVE",
+            "BeginOffset": 107,
+            "EndOffset": 130
+        }
+    ]
+}

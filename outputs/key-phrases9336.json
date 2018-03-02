@@ -1,0 +1,34 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9997873306274414,
+            "Text": "The internet",
+            "BeginOffset": 0,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9890372157096863,
+            "Text": "the town square",
+            "BeginOffset": 25,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.998437762260437,
+            "Text": "the village",
+            "BeginOffset": 45,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9996410608291626,
+            "Text": "the world",
+            "BeginOffset": 62,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.981826663017273,
+            "Text": "tomorrow",
+            "BeginOffset": 80,
+            "EndOffset": 88
+        }
+    ]
+}

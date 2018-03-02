@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.996515691280365,
+            "Type": "PERSON",
+            "Text": "John Podesta",
+            "BeginOffset": 0,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9923891425132751,
+            "Type": "QUANTITY",
+            "Text": "75,000 shares",
+            "BeginOffset": 17,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9539855718612671,
+            "Type": "OTHER",
+            "Text": "Russian",
+            "BeginOffset": 36,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9952432513237,
+            "Type": "PERSON",
+            "Text": "Putin",
+            "BeginOffset": 72,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.6023201942443848,
+            "Type": "PERSON",
+            "Text": "MSM NEVER",
+            "BeginOffset": 79,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.6355845332145691,
+            "Type": "PERSON",
+            "Text": "Ru",
+            "BeginOffset": 118,
+            "EndOffset": 120
+        }
+    ]
+}

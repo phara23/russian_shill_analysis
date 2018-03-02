@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9547927379608154,
+            "Type": "PERSON",
+            "Text": "@BeanieJeanatjax",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.7819792032241821,
+            "Type": "PERSON",
+            "Text": "@my2bits4",
+            "BeginOffset": 21,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9092206358909607,
+            "Type": "QUANTITY",
+            "Text": "first women",
+            "BeginOffset": 77,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9976154565811157,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 114,
+            "EndOffset": 119
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8753346800804138,
+            "Type": "PERSON",
+            "Text": "@guardian",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.5391995310783386,
+            "Type": "ORGANIZATION",
+            "Text": "NME",
+            "BeginOffset": 33,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9893544912338257,
+            "Type": "DATE",
+            "Text": "70s",
+            "BeginOffset": 44,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9942346215248108,
+            "Type": "PERSON",
+            "Text": "Bowie",
+            "BeginOffset": 49,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9999682903289795,
+            "Type": "OTHER",
+            "Text": "https://t.co/bo94YW0b0G",
+            "BeginOffset": 73,
+            "EndOffset": 96
+        }
+    ]
+}

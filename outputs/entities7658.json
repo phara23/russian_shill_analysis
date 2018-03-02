@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.913989782333374,
+            "Type": "PERSON",
+            "Text": "@historylvrsclub",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8968086242675781,
+            "Type": "QUANTITY",
+            "Text": "7,600 ton",
+            "BeginOffset": 30,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.966016948223114,
+            "Type": "LOCATION",
+            "Text": "Alba Iulia, Romania",
+            "BeginOffset": 84,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.9957765936851501,
+            "Type": "DATE",
+            "Text": "1987",
+            "BeginOffset": 105,
+            "EndOffset": 109
+        },
+        {
+            "Score": 0.9998096823692322,
+            "Type": "OTHER",
+            "Text": "https://t.co/GRkUAbHwpj",
+            "BeginOffset": 111,
+            "EndOffset": 134
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8648846745491028,
+            "Type": "PERSON",
+            "Text": "@GulfDogs",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.6175991892814636,
+            "Type": "ORGANIZATION",
+            "Text": "Yahoo",
+            "BeginOffset": 15,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.9453330636024475,
+            "Type": "QUANTITY",
+            "Text": "1,700 Workers",
+            "BeginOffset": 28,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9956972599029541,
+            "Type": "PERSON",
+            "Text": "Marissa Mayer",
+            "BeginOffset": 45,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.8925638794898987,
+            "Type": "ORGANIZATION",
+            "Text": "Breitbart",
+            "BeginOffset": 87,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.9139463305473328,
+            "Type": "OTHER",
+            "Text": "https://t.co/PWS1t9dVg0",
+            "BeginOffset": 102,
+            "EndOffset": 125
+        }
+    ]
+}

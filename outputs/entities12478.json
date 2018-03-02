@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9331949353218079,
+            "Type": "PERSON",
+            "Text": "@davidsirota",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9918740391731262,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 49,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.7155103087425232,
+            "Type": "ORGANIZATION",
+            "Text": "NAFTA",
+            "BeginOffset": 65,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.990662157535553,
+            "Type": "PERSON",
+            "Text": "Bush",
+            "BeginOffset": 76,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.9885291457176208,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 95,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.30304643511772156,
+            "Type": "QUANTITY",
+            "Text": "93",
+            "BeginOffset": 129,
+            "EndOffset": 131
+        },
+        {
+            "Score": 0.852133572101593,
+            "Type": "OTHER",
+            "Text": "https://t.c",
+            "BeginOffset": 132,
+            "EndOffset": 143
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8634068369865417,
+            "Type": "PERSON",
+            "Text": "@BIZPACReview",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9663466811180115,
+            "Type": "PERSON",
+            "Text": "Guilfoyle",
+            "BeginOffset": 32,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9957708716392517,
+            "Type": "PERSON",
+            "Text": "Perino",
+            "BeginOffset": 46,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9868165850639343,
+            "Type": "OTHER",
+            "Text": "https://t.co/cWiXpC",
+            "BeginOffset": 120,
+            "EndOffset": 139
+        }
+    ]
+}

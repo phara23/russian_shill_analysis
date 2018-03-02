@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8489183783531189,
+            "Type": "ORGANIZATION",
+            "Text": "muslim",
+            "BeginOffset": 7,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9396216869354248,
+            "Type": "QUANTITY",
+            "Text": "700 per mo",
+            "BeginOffset": 31,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.7786105275154114,
+            "Type": "QUANTITY",
+            "Text": "93 MILLION Americans",
+            "BeginOffset": 90,
+            "EndOffset": 110
+        }
+    ]
+}

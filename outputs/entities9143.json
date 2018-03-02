@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8562844395637512,
+            "Type": "PERSON",
+            "Text": "@africanarchives",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.6989164352416992,
+            "Type": "QUANTITY",
+            "Text": "First Black girl",
+            "BeginOffset": 21,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9806857109069824,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 75,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.8613337874412537,
+            "Type": "PERSON",
+            "Text": "Dorothy Counts",
+            "BeginOffset": 78,
+            "EndOffset": 92
+        }
+    ]
+}

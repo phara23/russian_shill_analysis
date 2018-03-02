@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8573783040046692,
+            "Type": "PERSON",
+            "Text": "@trenttdogg",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9878858327865601,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 24,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9894223809242249,
+            "Type": "PERSON",
+            "Text": "Hitler",
+            "BeginOffset": 33,
+            "EndOffset": 39
+        }
+    ]
+}

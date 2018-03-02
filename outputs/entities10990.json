@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9335501194000244,
+            "Type": "PERSON",
+            "Text": "@SeverancePruner",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9976397752761841,
+            "Type": "PERSON",
+            "Text": "Robert Pattinson",
+            "BeginOffset": 46,
+            "EndOffset": 62
+        }
+    ]
+}

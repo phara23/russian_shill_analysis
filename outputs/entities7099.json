@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7886671423912048,
+            "Type": "PERSON",
+            "Text": "@Gop42016",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9997268319129944,
+            "Type": "PERSON",
+            "Text": "Jim Rogers",
+            "BeginOffset": 14,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9550402760505676,
+            "Type": "QUANTITY",
+            "Text": "100%",
+            "BeginOffset": 36,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.6616781949996948,
+            "Type": "LOCATION",
+            "Text": "U.S.",
+            "BeginOffset": 58,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9999854564666748,
+            "Type": "OTHER",
+            "Text": "https://t.co/CaXK7mwBu5",
+            "BeginOffset": 87,
+            "EndOffset": 110
+        }
+    ]
+}

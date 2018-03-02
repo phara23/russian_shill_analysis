@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7144750356674194,
+            "Type": "ORGANIZATION",
+            "Text": "@NewRepublic",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9959070682525635,
+            "Type": "PERSON",
+            "Text": "Ted Cruz",
+            "BeginOffset": 17,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9990432262420654,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 40,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.948247492313385,
+            "Type": "ORGANIZATION",
+            "Text": "RNC",
+            "BeginOffset": 60,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.766635537147522,
+            "Type": "OTHER",
+            "Text": "https://t.co/hJUJyJu3Sg",
+            "BeginOffset": 79,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.9999878406524658,
+            "Type": "OTHER",
+            "Text": "https://t.co/UdS1fI8nig",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        }
+    ]
+}

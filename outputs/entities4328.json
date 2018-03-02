@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8508899807929993,
+            "Type": "PERSON",
+            "Text": "@NaidaDeroos",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9459733366966248,
+            "Type": "ORGANIZATION",
+            "Text": "Samsung",
+            "BeginOffset": 28,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.7501083612442017,
+            "Type": "COMMERCIAL_ITEM",
+            "Text": "Level Music Lab",
+            "BeginOffset": 36,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.6518088579177856,
+            "Type": "COMMERCIAL_ITEM",
+            "Text": "Halsey Head",
+            "BeginOffset": 56,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.8737342357635498,
+            "Type": "ORGANIZATION",
+            "Text": "USC",
+            "BeginOffset": 71,
+            "EndOffset": 74
+        }
+    ]
+}

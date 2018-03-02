@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8391483426094055,
+            "Type": "PERSON",
+            "Text": "@topcota1SG",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9531581997871399,
+            "Type": "OTHER",
+            "Text": "911",
+            "BeginOffset": 47,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.6887980103492737,
+            "Type": "ORGANIZATION",
+            "Text": "Chelsea",
+            "BeginOffset": 66,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.9931502938270569,
+            "Type": "OTHER",
+            "Text": "https://t.co/3SZDuSTkHc",
+            "BeginOffset": 84,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.9227731823921204,
+            "Type": "ORGANIZATION",
+            "Text": "@nypost",
+            "BeginOffset": 112,
+            "EndOffset": 119
+        },
+        {
+            "Score": 0.9630556106567383,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 131,
+            "EndOffset": 136
+        }
+    ]
+}

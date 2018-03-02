@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4981703460216522,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8874057531356812,
+            "Type": "PERSON",
+            "Text": "@Booth_Prince",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.953973650932312,
+            "Type": "ORGANIZATION",
+            "Text": "White House",
+            "BeginOffset": 37,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.997309148311615,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 67,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.9211766123771667,
+            "Type": "OTHER",
+            "Text": "https://t.co/Ykyx",
+            "BeginOffset": 122,
+            "EndOffset": 139
+        }
+    ]
+}

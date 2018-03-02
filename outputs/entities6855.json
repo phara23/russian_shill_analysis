@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9102225303649902,
+            "Type": "PERSON",
+            "Text": "@PaleoHorse",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9963150024414062,
+            "Type": "PERSON",
+            "Text": "James Comey",
+            "BeginOffset": 16,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.6270594596862793,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 30,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9985705614089966,
+            "Type": "PERSON",
+            "Text": "Cheryl Mills",
+            "BeginOffset": 48,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.8311963677406311,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 89,
+            "EndOffset": 104
+        }
+    ]
+}

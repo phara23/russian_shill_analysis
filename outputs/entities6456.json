@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8460953831672668,
+            "Type": "PERSON",
+            "Text": "@queengost",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9836602807044983,
+            "Type": "QUANTITY",
+            "Text": "97 Companies",
+            "BeginOffset": 25,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.999956488609314,
+            "Type": "OTHER",
+            "Text": "https://t.co/0KoS5VG71H",
+            "BeginOffset": 69,
+            "EndOffset": 92
+        }
+    ]
+}

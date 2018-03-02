@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7912235260009766,
+            "Type": "PERSON",
+            "Text": "@patriots4trump",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9877731204032898,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 41,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9583144187927246,
+            "Type": "LOCATION",
+            "Text": "Ashville, NC",
+            "BeginOffset": 50,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9213553071022034,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 64,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.898303210735321,
+            "Type": "PERSON",
+            "Text": "@TrumpNewsNetwrk",
+            "BeginOffset": 81,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.9379051327705383,
+            "Type": "PERSON",
+            "Text": "@mitchellvii",
+            "BeginOffset": 98,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.9998998641967773,
+            "Type": "OTHER",
+            "Text": "https://t.co/ccZlJiNT6a",
+            "BeginOffset": 111,
+            "EndOffset": 134
+        }
+    ]
+}

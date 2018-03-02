@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9312673211097717,
+            "Type": "PERSON",
+            "Text": "@TheArmyKernel",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8870199918746948,
+            "Type": "DATE",
+            "Text": "6pm Sunday",
+            "BeginOffset": 48,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9953585267066956,
+            "Type": "OTHER",
+            "Text": "https://t.co/YCNR3ueZ3w",
+            "BeginOffset": 100,
+            "EndOffset": 123
+        },
+        {
+            "Score": 0.7933892607688904,
+            "Type": "ORGANIZATION",
+            "Text": "truTV UK",
+            "BeginOffset": 127,
+            "EndOffset": 135
+        }
+    ]
+}

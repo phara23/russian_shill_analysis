@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8721666932106018,
+            "Type": "PERSON",
+            "Text": "@Doctr__Wang",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9865010380744934,
+            "Type": "PERSON",
+            "Text": "Rosie",
+            "BeginOffset": 32,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9999834299087524,
+            "Type": "OTHER",
+            "Text": "https://t.co/zP03apk1f5",
+            "BeginOffset": 48,
+            "EndOffset": 71
+        }
+    ]
+}

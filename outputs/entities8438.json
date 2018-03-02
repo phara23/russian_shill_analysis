@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.87628573179245,
+            "Type": "PERSON",
+            "Text": "@cmdorsey",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9979445338249207,
+            "Type": "PERSON",
+            "Text": "Bernie",
+            "BeginOffset": 14,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.9452530741691589,
+            "Type": "QUANTITY",
+            "Text": "20 million",
+            "BeginOffset": 50,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.8830897212028503,
+            "Type": "TITLE",
+            "Text": "obamacare",
+            "BeginOffset": 73,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.6179472804069519,
+            "Type": "QUANTITY",
+            "Text": "millions",
+            "BeginOffset": 95,
+            "EndOffset": 103
+        }
+    ]
+}

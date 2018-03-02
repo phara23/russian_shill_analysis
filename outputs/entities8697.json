@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8199816942214966,
+            "Type": "PERSON",
+            "Text": "@PatVPeters",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9957230091094971,
+            "Type": "ORGANIZATION",
+            "Text": "FBI",
+            "BeginOffset": 16,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9920352101325989,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 37,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9553418159484863,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 48,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9999138116836548,
+            "Type": "OTHER",
+            "Text": "https://t.co/Z4Bhr6HqBR",
+            "BeginOffset": 95,
+            "EndOffset": 118
+        }
+    ]
+}

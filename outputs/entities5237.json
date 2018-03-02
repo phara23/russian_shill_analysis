@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9438537955284119,
+            "Type": "PERSON",
+            "Text": "@jthomas309",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8588159084320068,
+            "Type": "QUANTITY",
+            "Text": "One thing",
+            "BeginOffset": 16,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9999481439590454,
+            "Type": "OTHER",
+            "Text": "https://t.co/9HyGIlXk70",
+            "BeginOffset": 67,
+            "EndOffset": 90
+        }
+    ]
+}

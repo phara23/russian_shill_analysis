@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8895630836486816,
+            "Type": "PERSON",
+            "Text": "@Solely_Toya",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7596112489700317,
+            "Type": "ORGANIZATION",
+            "Text": "WalMar",
+            "BeginOffset": 133,
+            "EndOffset": 139
+        }
+    ]
+}

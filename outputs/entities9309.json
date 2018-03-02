@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6947001814842224,
+            "Type": "PERSON",
+            "Text": "@NoDAPL_",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9049625396728516,
+            "Type": "OTHER",
+            "Text": "https://t.co/n",
+            "BeginOffset": 125,
+            "EndOffset": 139
+        }
+    ]
+}

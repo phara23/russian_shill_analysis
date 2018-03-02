@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9979789853096008,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9981574416160583,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 14,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9849786162376404,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 32,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9506314992904663,
+            "Type": "PERSON",
+            "Text": "Giuliani",
+            "BeginOffset": 36,
+            "EndOffset": 44
+        }
+    ]
+}

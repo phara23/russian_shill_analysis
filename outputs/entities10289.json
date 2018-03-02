@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.811501681804657,
+            "Type": "PERSON",
+            "Text": "@ILoveMyWife0007",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.711090087890625,
+            "Type": "QUANTITY",
+            "Text": "4 True Peace",
+            "BeginOffset": 102,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.6497533917427063,
+            "Type": "QUANTITY",
+            "Text": "2 Reign",
+            "BeginOffset": 134,
+            "EndOffset": 141
+        }
+    ]
+}

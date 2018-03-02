@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9112378358840942,
+            "Type": "PERSON",
+            "Text": "@SamGriot",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9959320425987244,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 67,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.9948575496673584,
+            "Type": "DATE",
+            "Text": "November",
+            "BeginOffset": 76,
+            "EndOffset": 84
+        }
+    ]
+}

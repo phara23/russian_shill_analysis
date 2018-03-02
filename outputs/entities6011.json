@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8663903474807739,
+            "Type": "PERSON",
+            "Text": "@RyderCupFreaks",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7679916620254517,
+            "Type": "PERSON",
+            "Text": "Dazed Day",
+            "BeginOffset": 20,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9954227805137634,
+            "Type": "PERSON",
+            "Text": "Jason Day",
+            "BeginOffset": 45,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.8907088041305542,
+            "Type": "OTHER",
+            "Text": "http://t.co/fhE",
+            "BeginOffset": 124,
+            "EndOffset": 139
+        }
+    ]
+}

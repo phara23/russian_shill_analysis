@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9452077150344849,
+            "Type": "PERSON",
+            "Text": "@JackDrees",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9133684635162354,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 34,
+            "EndOffset": 38
+        }
+    ]
+}

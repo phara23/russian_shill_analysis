@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8383874297142029,
+            "Type": "PERSON",
+            "Text": "@Bikers4Trump",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.5767362117767334,
+            "Type": "QUANTITY",
+            "Text": "Millions",
+            "BeginOffset": 18,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.8858110904693604,
+            "Type": "LOCATION",
+            "Text": "Syria",
+            "BeginOffset": 37,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.8117130994796753,
+            "Type": "ORGANIZATION",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 43,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9658717513084412,
+            "Type": "LOCATION",
+            "Text": "Germany",
+            "BeginOffset": 116,
+            "EndOffset": 123
+        }
+    ]
+}

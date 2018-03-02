@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9124960899353027,
+            "Type": "PERSON",
+            "Text": "@ezraklein",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.7444534301757812,
+            "Type": "PERSON",
+            "Text": "@rtraister",
+            "BeginOffset": 25,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9988393187522888,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 44,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.8180317282676697,
+            "Type": "QUANTITY",
+            "Text": "2nd debate",
+            "BeginOffset": 74,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9995293617248535,
+            "Type": "OTHER",
+            "Text": "https://t.co/ton2wy0fym",
+            "BeginOffset": 86,
+            "EndOffset": 109
+        }
+    ]
+}

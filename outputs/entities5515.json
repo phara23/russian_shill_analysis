@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9319484829902649,
+            "Type": "PERSON",
+            "Text": "@LouiseKatina",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9336547255516052,
+            "Type": "PERSON",
+            "Text": "@BeladonnaRogers",
+            "BeginOffset": 19,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9795035123825073,
+            "Type": "PERSON",
+            "Text": "@Stonewall_77",
+            "BeginOffset": 36,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9906018972396851,
+            "Type": "PERSON",
+            "Text": "@irisflower33",
+            "BeginOffset": 50,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9559351205825806,
+            "Type": "PERSON",
+            "Text": "@rogerlsimon",
+            "BeginOffset": 64,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.9689996242523193,
+            "Type": "PERSON",
+            "Text": "@WayneBogda",
+            "BeginOffset": 77,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.930625319480896,
+            "Type": "PERSON",
+            "Text": "@ChristieC733",
+            "BeginOffset": 89,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.982530415058136,
+            "Type": "OTHER",
+            "Text": "http://t.co/uBTSJ2k",
+            "BeginOffset": 120,
+            "EndOffset": 139
+        }
+    ]
+}

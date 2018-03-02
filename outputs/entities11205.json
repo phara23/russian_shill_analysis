@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6775358319282532,
+            "Type": "ORGANIZATION",
+            "Text": "@wikileaks",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9805066585540771,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 32,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9556083083152771,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 55,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9913704991340637,
+            "Type": "ORGANIZATION",
+            "Text": "Goldman Sachs",
+            "BeginOffset": 60,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.9541667103767395,
+            "Type": "ORGANIZATION",
+            "Text": "Citibank",
+            "BeginOffset": 75,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.9648497104644775,
+            "Type": "OTHER",
+            "Text": "https://t.co/0aHB7p",
+            "BeginOffset": 120,
+            "EndOffset": 139
+        }
+    ]
+}

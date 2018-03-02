@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9199283123016357,
+            "Type": "PERSON",
+            "Text": "@keithellison",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.54676353931427,
+            "Type": "ORGANIZATION",
+            "Text": "Yad Vashem",
+            "BeginOffset": 26,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9961938858032227,
+            "Type": "DATE",
+            "Text": "last week",
+            "BeginOffset": 37,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.7265546917915344,
+            "Type": "PERSON",
+            "Text": "Mustafa Zejneba",
+            "BeginOffset": 58,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.5740699172019958,
+            "Type": "PERSON",
+            "Text": "Hardaga",
+            "BeginOffset": 74,
+            "EndOffset": 81
+        }
+    ]
+}

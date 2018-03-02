@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.3719870150089264,
+            "Type": "ORGANIZATION",
+            "Text": "Deutschland",
+            "BeginOffset": 0,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.6311917901039124,
+            "Type": "PERSON",
+            "Text": "Merkel",
+            "BeginOffset": 47,
+            "EndOffset": 53
+        }
+    ]
+}

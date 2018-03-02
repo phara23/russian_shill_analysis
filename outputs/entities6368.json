@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9107679724693298,
+            "Type": "PERSON",
+            "Text": "@SethMacFarlane",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9390245676040649,
+            "Type": "QUANTITY",
+            "Text": "two-thousand sixteen",
+            "BeginOffset": 32,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9987932443618774,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 125,
+            "EndOffset": 130
+        }
+    ]
+}

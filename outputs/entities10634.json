@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9996169805526733,
+            "Type": "PERSON",
+            "Text": "James Franco",
+            "BeginOffset": 0,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9513825178146362,
+            "Type": "LOCATION",
+            "Text": "Cleveland",
+            "BeginOffset": 38,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.992924690246582,
+            "Type": "PERSON",
+            "Text": "Franco",
+            "BeginOffset": 49,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.6876465678215027,
+            "Type": "PERSON",
+            "Text": "Verne Coll",
+            "BeginOffset": 83,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.9822481274604797,
+            "Type": "OTHER",
+            "Text": "http://t.co/6X84aNgEVG",
+            "BeginOffset": 97,
+            "EndOffset": 119
+        }
+    ]
+}

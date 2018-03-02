@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7938907742500305,
+            "Type": "PERSON",
+            "Text": "@Blavity",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9980340600013733,
+            "Type": "PERSON",
+            "Text": "Kendrick Johnson",
+            "BeginOffset": 24,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.905864417552948,
+            "Type": "OTHER",
+            "Text": "https://t.co/n2IKEcQdK6",
+            "BeginOffset": 67,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9999239444732666,
+            "Type": "OTHER",
+            "Text": "https://t.co/QUlBBEvYOD",
+            "BeginOffset": 91,
+            "EndOffset": 114
+        }
+    ]
+}

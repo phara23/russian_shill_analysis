@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8630602955818176,
+            "Type": "PERSON",
+            "Text": "@ThePatriot143",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8761618137359619,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 30,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.6673811674118042,
+            "Type": "ORGANIZATION",
+            "Text": "Muslim Brotherhood",
+            "BeginOffset": 67,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.8615427017211914,
+            "Type": "OTHER",
+            "Text": "https://t.co/jd",
+            "BeginOffset": 124,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9237480759620667,
+            "Type": "PERSON",
+            "Text": "@scarlett2112",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9989651441574097,
+            "Type": "PERSON",
+            "Text": "Michelle Malkin",
+            "BeginOffset": 18,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9980920553207397,
+            "Type": "PERSON",
+            "Text": "Rahm Emanuel",
+            "BeginOffset": 50,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9625674486160278,
+            "Type": "LOCATION",
+            "Text": "Chicago",
+            "BeginOffset": 104,
+            "EndOffset": 111
+        },
+        {
+            "Score": 0.9725702404975891,
+            "Type": "OTHER",
+            "Text": "https://t.co/HFBRnacfgj",
+            "BeginOffset": 112,
+            "EndOffset": 135
+        }
+    ]
+}

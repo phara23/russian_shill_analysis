@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8430415391921997,
+            "Type": "PERSON",
+            "Text": "@ChooseToBFree",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.4629532992839813,
+            "Type": "PERSON",
+            "Text": "#Hillary",
+            "BeginOffset": 23,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9495988488197327,
+            "Type": "QUANTITY",
+            "Text": "550%",
+            "BeginOffset": 49,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.6407167911529541,
+            "Type": "OTHER",
+            "Text": "Syrian",
+            "BeginOffset": 86,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.45941200852394104,
+            "Type": "ORGANIZATION",
+            "Text": "#MAGA",
+            "BeginOffset": 103,
+            "EndOffset": 108
+        }
+    ]
+}

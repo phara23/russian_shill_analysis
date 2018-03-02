@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7200155258178711,
+            "Type": "PERSON",
+            "Text": "@RussVet1",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9420919418334961,
+            "Type": "PERSON",
+            "Text": "Gen Flynn",
+            "BeginOffset": 14,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.8803143501281738,
+            "Type": "LOCATION",
+            "Text": "Trump Tower",
+            "BeginOffset": 43,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.8358186483383179,
+            "Type": "LOCATION",
+            "Text": "Trump Tower",
+            "BeginOffset": 98,
+            "EndOffset": 109
+        },
+        {
+            "Score": 0.9638424515724182,
+            "Type": "PERSON",
+            "Text": "Flynn",
+            "BeginOffset": 125,
+            "EndOffset": 130
+        }
+    ]
+}

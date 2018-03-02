@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9365211129188538,
+            "Type": "PERSON",
+            "Text": "@DanScavino",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9173182845115662,
+            "Type": "LOCATION",
+            "Text": "Bedford, New Hampshire",
+            "BeginOffset": 16,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9947561025619507,
+            "Type": "DATE",
+            "Text": "yesterday",
+            "BeginOffset": 52,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9328855872154236,
+            "Type": "LOCATION",
+            "Text": "NH",
+            "BeginOffset": 84,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.4834967255592346,
+            "Type": "QUANTITY",
+            "Text": "first",
+            "BeginOffset": 110,
+            "EndOffset": 115
+        }
+    ]
+}

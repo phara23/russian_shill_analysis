@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8904255032539368,
+            "Type": "PERSON",
+            "Text": "@hmrose180",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9190820455551147,
+            "Type": "PERSON",
+            "Text": "@mitchellvii",
+            "BeginOffset": 15,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9889021515846252,
+            "Type": "LOCATION",
+            "Text": "Columbus",
+            "BeginOffset": 38,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9885053038597107,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 82,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.9977865219116211,
+            "Type": "PERSON",
+            "Text": "Pence",
+            "BeginOffset": 88,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.7093193531036377,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 97,
+            "EndOffset": 104
+        }
+    ]
+}

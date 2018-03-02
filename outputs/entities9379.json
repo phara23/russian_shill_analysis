@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7410367131233215,
+            "Type": "PERSON",
+            "Text": "@InGodIDoTrust",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9602908492088318,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 19,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9378304481506348,
+            "Type": "DATE",
+            "Text": "Last night",
+            "BeginOffset": 33,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.4343203008174896,
+            "Type": "PERSON",
+            "Text": "Kaine",
+            "BeginOffset": 44,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9012594223022461,
+            "Type": "DATE",
+            "Text": "Tonight",
+            "BeginOffset": 50,
+            "EndOffset": 57
+        }
+    ]
+}

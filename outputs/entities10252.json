@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9499552845954895,
+            "Type": "PERSON",
+            "Text": "@randyprine",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9593610763549805,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 16,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9999120235443115,
+            "Type": "OTHER",
+            "Text": "https://t.co/8f9AoFYA6k",
+            "BeginOffset": 47,
+            "EndOffset": 70
+        }
+    ]
+}

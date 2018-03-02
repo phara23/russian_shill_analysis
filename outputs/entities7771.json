@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8282747268676758,
+            "Type": "QUANTITY",
+            "Text": "Day 2",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9472037553787231,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 9,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.993237316608429,
+            "Type": "ORGANIZATION",
+            "Text": "CNN",
+            "BeginOffset": 34,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.8616268634796143,
+            "Type": "OTHER",
+            "Text": "https://t.co/G0tGwtCBax",
+            "BeginOffset": 54,
+            "EndOffset": 77
+        }
+    ]
+}

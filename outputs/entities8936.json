@@ -1,0 +1,67 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9421340227127075,
+            "Type": "PERSON",
+            "Text": "@joshmrowley",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9913643598556519,
+            "Type": "ORGANIZATION",
+            "Text": "CBS",
+            "BeginOffset": 17,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.9994471669197083,
+            "Type": "ORGANIZATION",
+            "Text": "ABC",
+            "BeginOffset": 22,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9987986087799072,
+            "Type": "ORGANIZATION",
+            "Text": "NBC",
+            "BeginOffset": 27,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9908095002174377,
+            "Type": "ORGANIZATION",
+            "Text": "New York Times",
+            "BeginOffset": 32,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9958336353302002,
+            "Type": "ORGANIZATION",
+            "Text": "CNN",
+            "BeginOffset": 52,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9927839040756226,
+            "Type": "ORGANIZATION",
+            "Text": "Fox News",
+            "BeginOffset": 86,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.8877692818641663,
+            "Type": "ORGANIZATION",
+            "Text": "@ppppolls",
+            "BeginOffset": 111,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.9697597622871399,
+            "Type": "OTHER",
+            "Text": "https://t.co",
+            "BeginOffset": 127,
+            "EndOffset": 139
+        }
+    ]
+}

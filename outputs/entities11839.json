@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8350347280502319,
+            "Type": "ORGANIZATION",
+            "Text": "Charlotte PD",
+            "BeginOffset": 34,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.4306924343109131,
+            "Type": "ORGANIZATION",
+            "Text": "#KeithLamontScott",
+            "BeginOffset": 71,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9864602088928223,
+            "Type": "OTHER",
+            "Text": "https://t.co/U1ameQY0",
+            "BeginOffset": 97,
+            "EndOffset": 118
+        }
+    ]
+}

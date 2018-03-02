@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7726762890815735,
+            "Type": "PERSON",
+            "Text": "@guntrust",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9988296031951904,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 33,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.4497290551662445,
+            "Type": "QUANTITY",
+            "Text": "first",
+            "BeginOffset": 52,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.8052651882171631,
+            "Type": "OTHER",
+            "Text": "https://t.co/noQlvlOXHj",
+            "BeginOffset": 93,
+            "EndOffset": 116
+        }
+    ]
+}

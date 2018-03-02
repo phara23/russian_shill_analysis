@@ -1,0 +1,40 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9488174915313721,
+            "Text": "Bill Clinton",
+            "BeginOffset": 4,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.922147810459137,
+            "Text": "Hillary Clinton",
+            "BeginOffset": 33,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9151602983474731,
+            "Text": "Darcy cartoon",
+            "BeginOffset": 50,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9975047707557678,
+            "Text": "Bill Clinton",
+            "BeginOffset": 65,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9322332739830017,
+            "Text": "right",
+            "BeginOffset": 80,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.9914814233779907,
+            "Text": "Hillary",
+            "BeginOffset": 92,
+            "EndOffset": 99
+        }
+    ]
+}

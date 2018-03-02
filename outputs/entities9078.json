@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7246140241622925,
+            "Type": "PERSON",
+            "Text": "@TreyIles1",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9762887954711914,
+            "Type": "ORGANIZATION",
+            "Text": "UNCW",
+            "BeginOffset": 15,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9999526739120483,
+            "Type": "PERSON",
+            "Text": "Mark Scalf",
+            "BeginOffset": 26,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9415990710258484,
+            "Type": "ORGANIZATION",
+            "Text": "LSU",
+            "BeginOffset": 42,
+            "EndOffset": 45
+        }
+    ]
+}

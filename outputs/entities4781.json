@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8617110848426819,
+            "Type": "PERSON",
+            "Text": "@fistofJewry",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9956472516059875,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 28,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.8876988887786865,
+            "Type": "ORGANIZATION",
+            "Text": "White House",
+            "BeginOffset": 43,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.314128577709198,
+            "Type": "PERSON",
+            "Text": "#manhatten",
+            "BeginOffset": 56,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9999701976776123,
+            "Type": "OTHER",
+            "Text": "https://t.co/pUM0lpUBQ8",
+            "BeginOffset": 67,
+            "EndOffset": 90
+        }
+    ]
+}

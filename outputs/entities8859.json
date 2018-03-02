@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7692282795906067,
+            "Type": "PERSON",
+            "Text": "@msjbe20",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.914660632610321,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 21,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9823997020721436,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 49,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9999117851257324,
+            "Type": "OTHER",
+            "Text": "https://t.co/ztYcLrPonR",
+            "BeginOffset": 55,
+            "EndOffset": 78
+        }
+    ]
+}

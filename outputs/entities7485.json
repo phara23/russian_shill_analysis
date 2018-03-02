@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9259635806083679,
+            "Type": "PERSON",
+            "Text": "@gprince47",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9703071117401123,
+            "Type": "PERSON",
+            "Text": "@GeraldYak420",
+            "BeginOffset": 15,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9971597194671631,
+            "Type": "PERSON",
+            "Text": "@JAmy208",
+            "BeginOffset": 29,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9285688400268555,
+            "Type": "PERSON",
+            "Text": "@JadedByPolitics",
+            "BeginOffset": 38,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9608626365661621,
+            "Type": "PERSON",
+            "Text": "@GiftsDad",
+            "BeginOffset": 55,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.975334107875824,
+            "Type": "PERSON",
+            "Text": "@mikerzer",
+            "BeginOffset": 65,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9944153428077698,
+            "Type": "PERSON",
+            "Text": "@lupash7",
+            "BeginOffset": 75,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.9610578417778015,
+            "Type": "PERSON",
+            "Text": "@JHWalz32",
+            "BeginOffset": 84,
+            "EndOffset": 93
+        }
+    ]
+}

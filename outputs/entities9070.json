@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8175901174545288,
+            "Type": "PERSON",
+            "Text": "@The_DET_",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8491384983062744,
+            "Type": "ORGANIZATION",
+            "Text": "Lions",
+            "BeginOffset": 26,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.8992249369621277,
+            "Type": "PERSON",
+            "Text": "Stafford",
+            "BeginOffset": 50,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9999760389328003,
+            "Type": "OTHER",
+            "Text": "https://t.co/uCPFm026sB",
+            "BeginOffset": 85,
+            "EndOffset": 108
+        }
+    ]
+}

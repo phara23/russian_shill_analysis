@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.844778299331665,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8985059857368469,
+            "Type": "PERSON",
+            "Text": "@AttorneyCrump",
+            "BeginOffset": 46,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.989881157875061,
+            "Type": "PERSON",
+            "Text": "@cokogyrl007",
+            "BeginOffset": 61,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.8915547132492065,
+            "Type": "PERSON",
+            "Text": "@DrlocksLocks",
+            "BeginOffset": 74,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.5849431157112122,
+            "Type": "QUANTITY",
+            "Text": "TOP 51",
+            "BeginOffset": 98,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.9732525944709778,
+            "Type": "DATE",
+            "Text": "this week",
+            "BeginOffset": 124,
+            "EndOffset": 133
+        }
+    ]
+}

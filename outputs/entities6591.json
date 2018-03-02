@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8280656933784485,
+            "Type": "ORGANIZATION",
+            "Text": "FEC",
+            "BeginOffset": 0,
+            "EndOffset": 3
+        },
+        {
+            "Score": 0.9868794083595276,
+            "Type": "OTHER",
+            "Text": "https://t.co/esgC7nXdg2",
+            "BeginOffset": 49,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.5257290601730347,
+            "Type": "ORGANIZATION",
+            "Text": "#tcot",
+            "BeginOffset": 73,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.9999723434448242,
+            "Type": "OTHER",
+            "Text": "https://t.co/Vjrk7RIIYM",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        }
+    ]
+}

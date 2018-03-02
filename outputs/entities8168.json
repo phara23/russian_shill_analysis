@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5529841184616089,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.6779146194458008,
+            "Type": "PERSON",
+            "Text": "@ArcticFox2016",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.5263970494270325,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 19,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9996440410614014,
+            "Type": "OTHER",
+            "Text": "https://t.co/kTTrZzFbkK",
+            "BeginOffset": 73,
+            "EndOffset": 96
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8463689684867859,
+            "Type": "PERSON",
+            "Text": "@grindingdude",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7178771495819092,
+            "Type": "LOCATION",
+            "Text": "Iowa",
+            "BeginOffset": 39,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9865791201591492,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 65,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.9815528988838196,
+            "Type": "ORGANIZATION",
+            "Text": "Democrats",
+            "BeginOffset": 97,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.9584230184555054,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 118,
+            "EndOffset": 125
+        }
+    ]
+}

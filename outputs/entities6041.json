@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8355350494384766,
+            "Type": "PERSON",
+            "Text": "@rosemarielawino",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9015272855758667,
+            "Type": "PERSON",
+            "Text": "@TalibKweli",
+            "BeginOffset": 21,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9706379175186157,
+            "Type": "PERSON",
+            "Text": "@jeromybme",
+            "BeginOffset": 33,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9651399850845337,
+            "Type": "PERSON",
+            "Text": "@jodisweetgirl",
+            "BeginOffset": 44,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9456053376197815,
+            "Type": "PERSON",
+            "Text": "@AustinTyler",
+            "BeginOffset": 59,
+            "EndOffset": 71
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7866218686103821,
+            "Type": "PERSON",
+            "Text": "@ZaibatsuNews",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9993590116500854,
+            "Type": "PERSON",
+            "Text": "Kamala Harris",
+            "BeginOffset": 18,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.8338256478309631,
+            "Type": "OTHER",
+            "Text": "https://t.co/diSuMzoRwc",
+            "BeginOffset": 110,
+            "EndOffset": 133
+        },
+        {
+            "Score": 0.6755794286727905,
+            "Type": "ORGANIZATION",
+            "Text": "#p2",
+            "BeginOffset": 134,
+            "EndOffset": 137
+        }
+    ]
+}

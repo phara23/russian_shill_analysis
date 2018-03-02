@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8552142977714539,
+            "Type": "PERSON",
+            "Text": "@HaloChiefPO117",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9637504816055298,
+            "Type": "PERSON",
+            "Text": "@LindaSuhler",
+            "BeginOffset": 20,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9432602524757385,
+            "Type": "PERSON",
+            "Text": "@JadedByPolitics",
+            "BeginOffset": 33,
+            "EndOffset": 49
+        }
+    ]
+}

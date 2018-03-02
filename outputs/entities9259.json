@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9067690372467041,
+            "Type": "ORGANIZATION",
+            "Text": "FOX NEWS",
+            "BeginOffset": 0,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.9909103512763977,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 15,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9953933954238892,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 29,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9867637753486633,
+            "Type": "QUANTITY",
+            "Text": "10 points",
+            "BeginOffset": 38,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.6741691827774048,
+            "Type": "QUANTITY",
+            "Text": "both",
+            "BeginOffset": 49,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9999210834503174,
+            "Type": "OTHER",
+            "Text": "https://t.co/o5i5z51QLQ",
+            "BeginOffset": 95,
+            "EndOffset": 118
+        }
+    ]
+}

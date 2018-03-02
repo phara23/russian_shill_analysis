@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8213515281677246,
+            "Type": "PERSON",
+            "Text": "@sunkisseeddd",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.5379048585891724,
+            "Type": "DATE",
+            "Text": "#2016",
+            "BeginOffset": 18,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.8888564109802246,
+            "Type": "QUANTITY",
+            "Text": "4Words",
+            "BeginOffset": 25,
+            "EndOffset": 31
+        }
+    ]
+}

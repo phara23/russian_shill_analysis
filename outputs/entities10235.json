@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.97995924949646,
+            "Type": "ORGANIZATION",
+            "Text": "Twitter",
+            "BeginOffset": 20,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9999294281005859,
+            "Type": "OTHER",
+            "Text": "https://t.co/cJJHM3U89J",
+            "BeginOffset": 92,
+            "EndOffset": 115
+        }
+    ]
+}

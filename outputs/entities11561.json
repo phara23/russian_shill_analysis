@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9445538520812988,
+            "Type": "PERSON",
+            "Text": "@RogerJStoneJr",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7949315309524536,
+            "Type": "PERSON",
+            "Text": "@kelliwardaz",
+            "BeginOffset": 41,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.7638802528381348,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 56,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.8670892119407654,
+            "Type": "DATE",
+            "Text": "August",
+            "BeginOffset": 69,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.8290757536888123,
+            "Type": "PERSON",
+            "Text": "@JohnMcCain",
+            "BeginOffset": 81,
+            "EndOffset": 92
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8795714378356934,
+            "Type": "PERSON",
+            "Text": "@Carolde",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9022296071052551,
+            "Type": "PERSON",
+            "Text": "@BilzBangnBimbos",
+            "BeginOffset": 26,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9626116752624512,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 46,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9782061576843262,
+            "Type": "PERSON",
+            "Text": "@aaronbaransky",
+            "BeginOffset": 63,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9818527102470398,
+            "Type": "PERSON",
+            "Text": "@JasonTotin",
+            "BeginOffset": 78,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.919102668762207,
+            "Type": "PERSON",
+            "Text": "@DHecei",
+            "BeginOffset": 90,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.9985950589179993,
+            "Type": "OTHER",
+            "Text": "https://t.co/dhBaSFvUpn",
+            "BeginOffset": 98,
+            "EndOffset": 121
+        }
+    ]
+}

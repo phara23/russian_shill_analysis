@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8760327100753784,
+            "Type": "PERSON",
+            "Text": "@MarkDice",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.3916301131248474,
+            "Type": "PERSON",
+            "Text": "Psycho",
+            "BeginOffset": 27,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9997447729110718,
+            "Type": "PERSON",
+            "Text": "Sean Spicer",
+            "BeginOffset": 43,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.6436597108840942,
+            "Type": "ORGANIZATION",
+            "Text": "Apple Store",
+            "BeginOffset": 58,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.999883770942688,
+            "Type": "OTHER",
+            "Text": "https://t.co/zZcYwTJA6j",
+            "BeginOffset": 71,
+            "EndOffset": 94
+        }
+    ]
+}

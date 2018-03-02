@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8671141862869263,
+            "Type": "PERSON",
+            "Text": "@TruthFrqncyNews",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9390730261802673,
+            "Type": "DATE",
+            "Text": "Tonight",
+            "BeginOffset": 21,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9413754343986511,
+            "Type": "PERSON",
+            "Text": "Ian",
+            "BeginOffset": 47,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.6845234632492065,
+            "Type": "LOCATION",
+            "Text": "Isle of Man",
+            "BeginOffset": 60,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9999620914459229,
+            "Type": "OTHER",
+            "Text": "https://t.co/7BPoqoY4VB",
+            "BeginOffset": 88,
+            "EndOffset": 111
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9428935647010803,
+            "Type": "PERSON",
+            "Text": "@moonlander56",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9993011951446533,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 21,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.31248438358306885,
+            "Type": "LOCATION",
+            "Text": "Saudi",
+            "BeginOffset": 46,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.8672700524330139,
+            "Type": "LOCATION",
+            "Text": "Haiti",
+            "BeginOffset": 52,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.4152483642101288,
+            "Type": "PERSON",
+            "Text": "#HillaryClinton",
+            "BeginOffset": 65,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.9999127388000488,
+            "Type": "OTHER",
+            "Text": "https://t.co/crcP2n22r6",
+            "BeginOffset": 81,
+            "EndOffset": 104
+        }
+    ]
+}

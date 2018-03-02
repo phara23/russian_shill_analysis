@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8120262026786804,
+            "Type": "PERSON",
+            "Text": "@ConstanceQueen8",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.7170795798301697,
+            "Type": "QUANTITY",
+            "Text": "2 Stop",
+            "BeginOffset": 44,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.913044273853302,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 90,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.8896445631980896,
+            "Type": "OTHER",
+            "Text": "https://t.co/I",
+            "BeginOffset": 125,
+            "EndOffset": 139
+        }
+    ]
+}

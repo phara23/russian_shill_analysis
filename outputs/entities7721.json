@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8527849912643433,
+            "Type": "PERSON",
+            "Text": "@mnpshow2012",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9515424966812134,
+            "Type": "ORGANIZATION",
+            "Text": "@YouTube",
+            "BeginOffset": 38,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.8939486742019653,
+            "Type": "OTHER",
+            "Text": "https://t.co/rMsIufi1iq",
+            "BeginOffset": 56,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.419748455286026,
+            "Type": "ORGANIZATION",
+            "Text": "Worcester",
+            "BeginOffset": 88,
+            "EndOffset": 97
+        }
+    ]
+}

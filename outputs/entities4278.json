@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8654905557632446,
+            "Type": "PERSON",
+            "Text": "@GreenPartyUS",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8339791893959045,
+            "Type": "QUANTITY",
+            "Text": "one way",
+            "BeginOffset": 58,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9950975775718689,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 110,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.9999139308929443,
+            "Type": "OTHER",
+            "Text": "https://t.co/JDLt5aQPck",
+            "BeginOffset": 116,
+            "EndOffset": 139
+        }
+    ]
+}

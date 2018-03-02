@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7646822929382324,
+            "Type": "PERSON",
+            "Text": "@realDailyWire",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.5603934526443481,
+            "Type": "ORGANIZATION",
+            "Text": "Reuters",
+            "BeginOffset": 19,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.7550256848335266,
+            "Type": "LOCATION",
+            "Text": "U.S.",
+            "BeginOffset": 34,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.982566237449646,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 45,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.6497878432273865,
+            "Type": "ORGANIZATION",
+            "Text": "Iran",
+            "BeginOffset": 57,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.6108185648918152,
+            "Type": "ORGANIZATION",
+            "Text": "Zimbabwe",
+            "BeginOffset": 65,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.9997699856758118,
+            "Type": "OTHER",
+            "Text": "https://t.co/wrhvrDjuQR",
+            "BeginOffset": 75,
+            "EndOffset": 98
+        }
+    ]
+}

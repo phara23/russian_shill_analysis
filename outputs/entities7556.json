@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8508285880088806,
+            "Type": "PERSON",
+            "Text": "@CaseyMattoxADF",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9612377285957336,
+            "Type": "PERSON",
+            "Text": "@seanmdav",
+            "BeginOffset": 21,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.968772292137146,
+            "Type": "PERSON",
+            "Text": "Rubio",
+            "BeginOffset": 54,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.9902291297912598,
+            "Type": "PERSON",
+            "Text": "Cruz",
+            "BeginOffset": 60,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.48432713747024536,
+            "Type": "ORGANIZATION",
+            "Text": "GOPe",
+            "BeginOffset": 65,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.3563173711299896,
+            "Type": "ORGANIZATION",
+            "Text": "NH",
+            "BeginOffset": 97,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.8923306465148926,
+            "Type": "DATE",
+            "Text": "2/9",
+            "BeginOffset": 113,
+            "EndOffset": 116
+        }
+    ]
+}

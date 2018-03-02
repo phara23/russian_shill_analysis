@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8505606055259705,
+            "Type": "PERSON",
+            "Text": "@TheOneSoleShoe",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9850327968597412,
+            "Type": "OTHER",
+            "Text": "https://t.co/pCapqUCPr4",
+            "BeginOffset": 62,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.9041140675544739,
+            "Type": "ORGANIZATION",
+            "Text": "RNC",
+            "BeginOffset": 124,
+            "EndOffset": 127
+        }
+    ]
+}

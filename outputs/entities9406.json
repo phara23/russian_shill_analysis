@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8417311906814575,
+            "Type": "PERSON",
+            "Text": "@shotalandia",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.6957900524139404,
+            "Type": "PERSON",
+            "Text": "Trumps",
+            "BeginOffset": 48,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.6092182993888855,
+            "Type": "PERSON",
+            "Text": "Trumpets",
+            "BeginOffset": 70,
+            "EndOffset": 78
+        }
+    ]
+}

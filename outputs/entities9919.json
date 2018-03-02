@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8309631943702698,
+            "Type": "PERSON",
+            "Text": "@healthandcents",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9887114763259888,
+            "Type": "PERSON",
+            "Text": "John Barry",
+            "BeginOffset": 20,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.4069201350212097,
+            "Type": "PERSON",
+            "Text": "#Trump",
+            "BeginOffset": 43,
+            "EndOffset": 49
+        }
+    ]
+}

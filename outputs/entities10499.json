@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7651941180229187,
+            "Type": "PERSON",
+            "Text": "@HistoryInPics",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9743109941482544,
+            "Type": "PERSON",
+            "Text": "Freddie Mercury",
+            "BeginOffset": 19,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9957188367843628,
+            "Type": "PERSON",
+            "Text": "Darth Vader",
+            "BeginOffset": 42,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9995545148849487,
+            "Type": "PERSON",
+            "Text": "Tom Callins",
+            "BeginOffset": 69,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.9999496936798096,
+            "Type": "OTHER",
+            "Text": "http://t.co/eYUsmNQ9r5",
+            "BeginOffset": 82,
+            "EndOffset": 104
+        }
+    ]
+}

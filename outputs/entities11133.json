@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9992077350616455,
+            "Type": "PERSON",
+            "Text": "Glenn Beck",
+            "BeginOffset": 0,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.8431412577629089,
+            "Type": "OTHER",
+            "Text": "https://t.co/PYVJormJE2",
+            "BeginOffset": 66,
+            "EndOffset": 89
+        }
+    ]
+}

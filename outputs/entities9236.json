@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8040407299995422,
+            "Type": "PERSON",
+            "Text": "@DRUDGE_REPORT",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8588535189628601,
+            "Type": "PERSON",
+            "Text": "Musk",
+            "BeginOffset": 19,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9999613761901855,
+            "Type": "OTHER",
+            "Text": "https://t.co/6k5maIi2DH",
+            "BeginOffset": 56,
+            "EndOffset": 79
+        }
+    ]
+}

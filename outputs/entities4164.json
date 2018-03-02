@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8278666138648987,
+            "Type": "PERSON",
+            "Text": "@varepall",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9468043446540833,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 22,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9846116900444031,
+            "Type": "QUANTITY",
+            "Text": "32 Years",
+            "BeginOffset": 79,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.8872089982032776,
+            "Type": "OTHER",
+            "Text": "https://t.co/9PFK0YtaYR",
+            "BeginOffset": 89,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.7400031089782715,
+            "Type": "TITLE",
+            "Text": "OBAMACARE",
+            "BeginOffset": 115,
+            "EndOffset": 124
+        },
+        {
+            "Score": 0.789997935295105,
+            "Type": "PERSON",
+            "Text": "OBAMA",
+            "BeginOffset": 133,
+            "EndOffset": 138
+        }
+    ]
+}

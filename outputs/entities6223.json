@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8827444911003113,
+            "Type": "PERSON",
+            "Text": "@WillGuillemin",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.43808773159980774,
+            "Type": "EVENT",
+            "Text": "MLK Day",
+            "BeginOffset": 19,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.5398482084274292,
+            "Type": "PERSON",
+            "Text": "King",
+            "BeginOffset": 40,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9999744892120361,
+            "Type": "OTHER",
+            "Text": "https://t.co/0aYfX9WfeQ",
+            "BeginOffset": 56,
+            "EndOffset": 79
+        }
+    ]
+}

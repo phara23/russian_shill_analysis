@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8767383098602295,
+            "Type": "PERSON",
+            "Text": "@C2017",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9524369835853577,
+            "Type": "OTHER",
+            "Text": "https://t.co/B7SXp5is7R",
+            "BeginOffset": 37,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.5098048448562622,
+            "Type": "ORGANIZATION",
+            "Text": "#2017",
+            "BeginOffset": 61,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.8817147016525269,
+            "Type": "OTHER",
+            "Text": "https://t.co/JDzIycd2Xt",
+            "BeginOffset": 67,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9062678217887878,
+            "Type": "OTHER",
+            "Text": "https://t.co/YxHV2CqopW",
+            "BeginOffset": 91,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.5476049780845642,
+            "Type": "ORGANIZATION",
+            "Text": "N°",
+            "BeginOffset": 133,
+            "EndOffset": 135
+        }
+    ]
+}

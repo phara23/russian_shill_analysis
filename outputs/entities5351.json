@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9976934790611267,
+            "Type": "ORGANIZATION",
+            "Text": "ISIS",
+            "BeginOffset": 35,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9977805018424988,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 44,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.7868052124977112,
+            "Type": "QUANTITY",
+            "Text": "Both",
+            "BeginOffset": 63,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.895601749420166,
+            "Type": "ORGANIZATION",
+            "Text": "Saudi Arabia",
+            "BeginOffset": 78,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9999830722808838,
+            "Type": "OTHER",
+            "Text": "https://t.co/Z2qIB2Gc66",
+            "BeginOffset": 109,
+            "EndOffset": 132
+        }
+    ]
+}

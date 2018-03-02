@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8495561480522156,
+            "Type": "PERSON",
+            "Text": "@Dreamweasel",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.876266360282898,
+            "Type": "ORGANIZATION",
+            "Text": "Democrats",
+            "BeginOffset": 54,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9997559785842896,
+            "Type": "PERSON",
+            "Text": "Robert Byrd",
+            "BeginOffset": 69,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.3521401584148407,
+            "Type": "ORGANIZATION",
+            "Text": "KKK",
+            "BeginOffset": 92,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.9620062708854675,
+            "Type": "DATE",
+            "Text": "60 years ago",
+            "BeginOffset": 96,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.99693363904953,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 125,
+            "EndOffset": 137
+        }
+    ]
+}

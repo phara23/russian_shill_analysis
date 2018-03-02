@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8972977995872498,
+            "Type": "PERSON",
+            "Text": "@Fixer_guy",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.982146680355072,
+            "Type": "ORGANIZATION",
+            "Text": "CIA",
+            "BeginOffset": 53,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.6529552936553955,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 74,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.9721880555152893,
+            "Type": "LOCATION",
+            "Text": "Syria",
+            "BeginOffset": 88,
+            "EndOffset": 93
+        }
+    ]
+}

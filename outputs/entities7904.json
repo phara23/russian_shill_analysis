@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8660644888877869,
+            "Type": "PERSON",
+            "Text": "@HealthRanger",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.75543612241745,
+            "Type": "QUANTITY",
+            "Text": "5",
+            "BeginOffset": 18,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9737745523452759,
+            "Type": "OTHER",
+            "Text": "https://t.co/M5HT0ZdvL9",
+            "BeginOffset": 48,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.38066983222961426,
+            "Type": "ORGANIZATION",
+            "Text": "#CBD",
+            "BeginOffset": 72,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.9997065663337708,
+            "Type": "OTHER",
+            "Text": "https://t.co/6GsnF7KbaH",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        }
+    ]
+}

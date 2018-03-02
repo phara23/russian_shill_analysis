@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8707094192504883,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9945569038391113,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 15,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.8997436165809631,
+            "Type": "PERSON",
+            "Text": "Senator Ayotte",
+            "BeginOffset": 42,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9104010462760925,
+            "Type": "ORGANIZATION",
+            "Text": "Washington Post",
+            "BeginOffset": 80,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.9006479382514954,
+            "Type": "OTHER",
+            "Text": "https://t.co/YHwobYZYZM",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        },
+        {
+            "Score": 0.6879000663757324,
+            "Type": "ORGANIZATION",
+            "Text": "@RawStory",
+            "BeginOffset": 120,
+            "EndOffset": 129
+        },
+        {
+            "Score": 0.8254560828208923,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 130,
+            "EndOffset": 139
+        }
+    ]
+}

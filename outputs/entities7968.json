@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7961885929107666,
+            "Type": "PERSON",
+            "Text": "@ZaibatsuNews",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9811868667602539,
+            "Type": "LOCATION",
+            "Text": "Georgia",
+            "BeginOffset": 40,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.7812517881393433,
+            "Type": "OTHER",
+            "Text": "https://t.co/LKPzk3AmoR",
+            "BeginOffset": 63,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.7374057769775391,
+            "Type": "ORGANIZATION",
+            "Text": "#p2",
+            "BeginOffset": 87,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9999407529830933,
+            "Type": "OTHER",
+            "Text": "https://t.co/zwrguLklOm",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        }
+    ]
+}

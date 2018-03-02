@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6747652292251587,
+            "Type": "PERSON",
+            "Text": "@IGotsSmarts",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.5797099471092224,
+            "Type": "OTHER",
+            "Text": "Canadian",
+            "BeginOffset": 21,
+            "EndOffset": 29
+        }
+    ]
+}

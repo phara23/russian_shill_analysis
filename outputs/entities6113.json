@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.821128249168396,
+            "Type": "PERSON",
+            "Text": "@huffpostqueer",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.993564784526825,
+            "Type": "PERSON",
+            "Text": "Jane Fonda",
+            "BeginOffset": 19,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9972200989723206,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 90,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.9998693466186523,
+            "Type": "OTHER",
+            "Text": "https://t.co/8bY0Hpjev7",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        }
+    ]
+}

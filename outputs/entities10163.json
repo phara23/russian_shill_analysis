@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8203579783439636,
+            "Type": "PERSON",
+            "Text": "@_Makada",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9366066455841064,
+            "Type": "PERSON",
+            "Text": "Bill",
+            "BeginOffset": 19,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.6562577486038208,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 45,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.7788243293762207,
+            "Type": "ORGANIZATION",
+            "Text": "United Nations",
+            "BeginOffset": 53,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9998705387115479,
+            "Type": "OTHER",
+            "Text": "https://t.co/JIS8JIiguM",
+            "BeginOffset": 70,
+            "EndOffset": 93
+        }
+    ]
+}

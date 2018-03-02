@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8493627905845642,
+            "Type": "PERSON",
+            "Text": "@welt",
+            "BeginOffset": 3,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.8625469207763672,
+            "Type": "PERSON",
+            "Text": "Wie Journalisten",
+            "BeginOffset": 10,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9509919881820679,
+            "Type": "LOCATION",
+            "Text": "USA",
+            "BeginOffset": 31,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9879392385482788,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 39,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9257644414901733,
+            "Type": "OTHER",
+            "Text": "https://t.co/UDaWeVM8TZ",
+            "BeginOffset": 59,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.9999864101409912,
+            "Type": "OTHER",
+            "Text": "https://t.co/ax00rZSxkZ",
+            "BeginOffset": 83,
+            "EndOffset": 106
+        }
+    ]
+}

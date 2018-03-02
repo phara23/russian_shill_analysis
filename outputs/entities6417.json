@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9151518940925598,
+            "Type": "PERSON",
+            "Text": "@hashtagGAMER18",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9062038660049438,
+            "Type": "QUANTITY",
+            "Text": "twice",
+            "BeginOffset": 62,
+            "EndOffset": 67
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6525742411613464,
+            "Type": "PERSON",
+            "Text": "@WGinetta",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9288214445114136,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 14,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9998310804367065,
+            "Type": "OTHER",
+            "Text": "https://t.co/SQl0ZmvSj1",
+            "BeginOffset": 31,
+            "EndOffset": 54
+        }
+    ]
+}

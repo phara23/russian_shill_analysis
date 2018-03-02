@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9335060715675354,
+            "Type": "QUANTITY",
+            "Text": "five minutes",
+            "BeginOffset": 58,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.929914116859436,
+            "Type": "PERSON",
+            "Text": "Ralph Waldo Emerson",
+            "BeginOffset": 82,
+            "EndOffset": 101
+        }
+    ]
+}

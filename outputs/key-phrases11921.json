@@ -1,0 +1,40 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9313003420829773,
+            "Text": "RT @BigEnuff",
+            "BeginOffset": 0,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9274585247039795,
+            "Text": "#TheFirst100DaysToDoList\nTweet\nPoop\nTweet",
+            "BeginOffset": 14,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.7229882478713989,
+            "Text": "Tweet",
+            "BeginOffset": 70,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.8383191823959351,
+            "Text": "Poop",
+            "BeginOffset": 90,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.6027037501335144,
+            "Text": "tweet",
+            "BeginOffset": 110,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.8049111366271973,
+            "Text": "the word poop\npoop",
+            "BeginOffset": 116,
+            "EndOffset": 134
+        }
+    ]
+}

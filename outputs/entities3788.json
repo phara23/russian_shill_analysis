@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8610832095146179,
+            "Type": "PERSON",
+            "Text": "@LouDobbs",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9678316712379456,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 27,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.29586172103881836,
+            "Type": "ORGANIZATION",
+            "Text": "#MAGA",
+            "BeginOffset": 95,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.8597155213356018,
+            "Type": "OTHER",
+            "Text": "https://t.co",
+            "BeginOffset": 127,
+            "EndOffset": 139
+        }
+    ]
+}

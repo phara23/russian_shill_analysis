@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9110743999481201,
+            "Type": "PERSON",
+            "Text": "@andersonDrLJA",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.773127555847168,
+            "Type": "PERSON",
+            "Text": "HILLARY HERSELF",
+            "BeginOffset": 28,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9586119651794434,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 135,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8539678454399109,
+            "Type": "PERSON",
+            "Text": "@angelneptustar",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9898568391799927,
+            "Type": "OTHER",
+            "Text": "https://t.co/AEZ6JaJjm2",
+            "BeginOffset": 20,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9995601177215576,
+            "Type": "PERSON",
+            "Text": "Sarah Olney",
+            "BeginOffset": 45,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.8136364817619324,
+            "Type": "PERSON",
+            "Text": "@bo",
+            "BeginOffset": 136,
+            "EndOffset": 139
+        }
+    ]
+}

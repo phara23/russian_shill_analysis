@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7348062992095947,
+            "Type": "PERSON",
+            "Text": "@ThisSideOp",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9951254725456238,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 51,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9978742599487305,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 80,
+            "EndOffset": 87
+        }
+    ]
+}

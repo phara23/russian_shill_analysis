@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9197289347648621,
+            "Type": "PERSON",
+            "Text": "@Obambulator",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9387350678443909,
+            "Type": "QUANTITY",
+            "Text": "2523.607856 ml",
+            "BeginOffset": 17,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.6623066067695618,
+            "Type": "PERSON",
+            "Text": "@WorldOfHashtags",
+            "BeginOffset": 58,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9997038245201111,
+            "Type": "OTHER",
+            "Text": "https://t.co/fPDgqM5lwD",
+            "BeginOffset": 75,
+            "EndOffset": 98
+        }
+    ]
+}

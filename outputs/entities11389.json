@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8456431031227112,
+            "Type": "PERSON",
+            "Text": "@guardian",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8428418040275574,
+            "Type": "QUANTITY",
+            "Text": "10 denies",
+            "BeginOffset": 17,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.7515221834182739,
+            "Type": "ORGANIZATION",
+            "Text": "EU",
+            "BeginOffset": 75,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9997956156730652,
+            "Type": "OTHER",
+            "Text": "http://t.co/VuNhUu9IGR",
+            "BeginOffset": 83,
+            "EndOffset": 105
+        }
+    ]
+}

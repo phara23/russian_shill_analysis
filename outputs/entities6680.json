@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8398795127868652,
+            "Type": "PERSON",
+            "Text": "@WorldTruthTV",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9454540014266968,
+            "Type": "QUANTITY",
+            "Text": "10 Ways",
+            "BeginOffset": 18,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.8926205635070801,
+            "Type": "OTHER",
+            "Text": "https://t.co/telXZBWPRi",
+            "BeginOffset": 67,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9999897480010986,
+            "Type": "OTHER",
+            "Text": "https://t.co/tr0u0UQQ4w",
+            "BeginOffset": 91,
+            "EndOffset": 114
+        }
+    ]
+}

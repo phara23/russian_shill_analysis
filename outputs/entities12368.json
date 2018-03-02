@@ -1,0 +1,81 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8805618286132812,
+            "Type": "PERSON",
+            "Text": "@DMashak",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.7648401260375977,
+            "Type": "PERSON",
+            "Text": "Crosby",
+            "BeginOffset": 13,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.820507824420929,
+            "Type": "PERSON",
+            "Text": "Stills",
+            "BeginOffset": 21,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.8257653713226318,
+            "Type": "PERSON",
+            "Text": "Nash",
+            "BeginOffset": 34,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9799689650535583,
+            "Type": "OTHER",
+            "Text": "https://t.co/fzHvFkVHCe",
+            "BeginOffset": 56,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.8390515446662903,
+            "Type": "ORGANIZATION",
+            "Text": "@YouTube",
+            "BeginOffset": 80,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.7931186556816101,
+            "Type": "ORGANIZATION",
+            "Text": "@Wikileaks",
+            "BeginOffset": 89,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.932463526725769,
+            "Type": "PERSON",
+            "Text": "@Snowden",
+            "BeginOffset": 100,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.7088183760643005,
+            "Type": "PERSON",
+            "Text": "@TPPatriots",
+            "BeginOffset": 109,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.8402078747749329,
+            "Type": "PERSON",
+            "Text": "@TEAPArtyOrg",
+            "BeginOffset": 121,
+            "EndOffset": 133
+        },
+        {
+            "Score": 0.8997620940208435,
+            "Type": "PERSON",
+            "Text": "@PJStrike",
+            "BeginOffset": 134,
+            "EndOffset": 143
+        }
+    ]
+}

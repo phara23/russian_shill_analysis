@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7392404079437256,
+            "Type": "PERSON",
+            "Text": "@business",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8328593969345093,
+            "Type": "PERSON",
+            "Text": "Crane",
+            "BeginOffset": 14,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8539615273475647,
+            "Type": "LOCATION",
+            "Text": "Tappan Zee Bridge",
+            "BeginOffset": 42,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.5347312688827515,
+            "Type": "OTHER",
+            "Text": "https://t.co/3FjhYpQrnT",
+            "BeginOffset": 60,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.9999938011169434,
+            "Type": "OTHER",
+            "Text": "https://t.co/LbuL2i3jNM",
+            "BeginOffset": 84,
+            "EndOffset": 107
+        }
+    ]
+}

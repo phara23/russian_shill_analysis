@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.811947762966156,
+            "Type": "PERSON",
+            "Text": "@ThomasGS",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9978426694869995,
+            "Type": "PERSON",
+            "Text": "Thomas Edison",
+            "BeginOffset": 72,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.9741692543029785,
+            "Type": "PERSON",
+            "Text": "Tennessee Williams",
+            "BeginOffset": 89,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.5447050929069519,
+            "Type": "TITLE",
+            "Text": "The Telegraph",
+            "BeginOffset": 110,
+            "EndOffset": 123
+        },
+        {
+            "Score": 0.9038544297218323,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

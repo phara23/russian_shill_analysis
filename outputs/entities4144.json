@@ -1,0 +1,81 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8866344690322876,
+            "Type": "PERSON",
+            "Text": "@ItsJustJill",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9921172857284546,
+            "Type": "PERSON",
+            "Text": "@lr3031",
+            "BeginOffset": 21,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9612674117088318,
+            "Type": "PERSON",
+            "Text": "@rightLainey",
+            "BeginOffset": 29,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.8567218780517578,
+            "Type": "PERSON",
+            "Text": "@1SupremeGoddess",
+            "BeginOffset": 42,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9266003966331482,
+            "Type": "PERSON",
+            "Text": "@OfficialSGP",
+            "BeginOffset": 59,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9591405987739563,
+            "Type": "PERSON",
+            "Text": "@eavesdropann",
+            "BeginOffset": 72,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.8445215821266174,
+            "Type": "PERSON",
+            "Text": "@cgpb",
+            "BeginOffset": 86,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.9773595333099365,
+            "Type": "PERSON",
+            "Text": "@NYPalin16",
+            "BeginOffset": 92,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.9586142301559448,
+            "Type": "PERSON",
+            "Text": "@JewhadiTM",
+            "BeginOffset": 103,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.9954710006713867,
+            "Type": "PERSON",
+            "Text": "@JohnHeide2",
+            "BeginOffset": 114,
+            "EndOffset": 125
+        },
+        {
+            "Score": 0.9398515224456787,
+            "Type": "PERSON",
+            "Text": "@gerfingerpok",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

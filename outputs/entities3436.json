@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8881155848503113,
+            "Type": "PERSON",
+            "Text": "@DineshDSouza",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9729549884796143,
+            "Type": "ORGANIZATION",
+            "Text": "Democrats",
+            "BeginOffset": 18,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.6149205565452576,
+            "Type": "ORGANIZATION",
+            "Text": "KKK",
+            "BeginOffset": 56,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.8557241559028625,
+            "Type": "ORGANIZATION",
+            "Text": "Wikileaks",
+            "BeginOffset": 61,
+            "EndOffset": 70
+        }
+    ]
+}

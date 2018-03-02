@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9068691730499268,
+            "Type": "PERSON",
+            "Text": "@ParamjitGarewal",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9502192735671997,
+            "Type": "PERSON",
+            "Text": "@wjmcgurn",
+            "BeginOffset": 22,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9975972175598145,
+            "Type": "PERSON",
+            "Text": "Bill Clinton",
+            "BeginOffset": 54,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9695171117782593,
+            "Type": "OTHER",
+            "Text": "https://t.co/mhk7y85meJ",
+            "BeginOffset": 67,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9363819360733032,
+            "Type": "ORGANIZATION",
+            "Text": "@WSJ",
+            "BeginOffset": 95,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.7344731688499451,
+            "Type": "LOCATION",
+            "Text": "AMERICA",
+            "BeginOffset": 103,
+            "EndOffset": 110
+        }
+    ]
+}

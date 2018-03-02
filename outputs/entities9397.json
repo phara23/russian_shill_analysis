@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.900188148021698,
+            "Type": "PERSON",
+            "Text": "@RapJuggernaut",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8286905884742737,
+            "Type": "PERSON",
+            "Text": "@thebiggdm x",
+            "BeginOffset": 32,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9287621378898621,
+            "Type": "PERSON",
+            "Text": "@iamdjace x",
+            "BeginOffset": 45,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.7297766208648682,
+            "Type": "PERSON",
+            "Text": "@djsns",
+            "BeginOffset": 57,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.7570613622665405,
+            "Type": "PERSON",
+            "Text": "@ Bourbon",
+            "BeginOffset": 95,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.9999724626541138,
+            "Type": "OTHER",
+            "Text": "https://t.co/ZCCXK3dtLn",
+            "BeginOffset": 112,
+            "EndOffset": 135
+        }
+    ]
+}

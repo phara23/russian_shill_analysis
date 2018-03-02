@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9447141885757446,
+            "Type": "PERSON",
+            "Text": "@JackCarrWasHere",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9999133348464966,
+            "Type": "OTHER",
+            "Text": "https://t.co/2CZvyAryRg",
+            "BeginOffset": 58,
+            "EndOffset": 81
+        }
+    ]
+}

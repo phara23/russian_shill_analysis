@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9250798225402832,
+            "Type": "PERSON",
+            "Text": "@IanKarmel",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9989612102508545,
+            "Type": "PERSON",
+            "Text": "Eric Trump",
+            "BeginOffset": 15,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9946838021278381,
+            "Type": "LOCATION",
+            "Text": "Prague",
+            "BeginOffset": 87,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.8161423206329346,
+            "Type": "TITLE",
+            "Text": "Blade",
+            "BeginOffset": 117,
+            "EndOffset": 122
+        },
+        {
+            "Score": 0.47425761818885803,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 130,
+            "EndOffset": 139
+        }
+    ]
+}

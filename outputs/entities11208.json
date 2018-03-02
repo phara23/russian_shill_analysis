@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.880113422870636,
+            "Type": "PERSON",
+            "Text": "@r98121261",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8960525393486023,
+            "Type": "PERSON",
+            "Text": "@DMashak",
+            "BeginOffset": 15,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9475870132446289,
+            "Type": "PERSON",
+            "Text": "@tvogvo",
+            "BeginOffset": 24,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9893487095832825,
+            "Type": "PERSON",
+            "Text": "@MLauer",
+            "BeginOffset": 32,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.951387345790863,
+            "Type": "PERSON",
+            "Text": "@andersoncooper",
+            "BeginOffset": 40,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9018195271492004,
+            "Type": "PERSON",
+            "Text": "@CRNC",
+            "BeginOffset": 56,
+            "EndOffset": 61
+        }
+    ]
+}

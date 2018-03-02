@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7966839671134949,
+            "Type": "PERSON",
+            "Text": "@LibertyBundle",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6950948238372803,
+            "Type": "ORGANIZATION",
+            "Text": "MMA Fighters",
+            "BeginOffset": 73,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.8572953343391418,
+            "Type": "OTHER",
+            "Text": "https://t.co/wpHxd9FuKg",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.41613656282424927,
+            "Type": "PERSON",
+            "Text": "MKEBeerMan",
+            "BeginOffset": 114,
+            "EndOffset": 124
+        }
+    ]
+}

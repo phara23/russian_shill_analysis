@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7332768440246582,
+            "Type": "PERSON",
+            "Text": "@SocialStatenIsl",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9926014542579651,
+            "Type": "PERSON",
+            "Text": "Aaliyah Lewis",
+            "BeginOffset": 21,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.8206255435943604,
+            "Type": "PERSON",
+            "Text": "St. John",
+            "BeginOffset": 36,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.4157416820526123,
+            "Type": "ORGANIZATION",
+            "Text": "Georgetown",
+            "BeginOffset": 56,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9652398228645325,
+            "Type": "QUANTITY",
+            "Text": "65",
+            "BeginOffset": 71,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.7796866297721863,
+            "Type": "QUANTITY",
+            "Text": "54",
+            "BeginOffset": 74,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.8583347797393799,
+            "Type": "OTHER",
+            "Text": "https://t.co/SRGZdIoJ5Y",
+            "BeginOffset": 85,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.9999547004699707,
+            "Type": "OTHER",
+            "Text": "https://t.co/YATGfFxPjg",
+            "BeginOffset": 109,
+            "EndOffset": 132
+        }
+    ]
+}

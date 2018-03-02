@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8965153098106384,
+            "Type": "PERSON",
+            "Text": "@WoodCarma",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.2617708742618561,
+            "Type": "QUANTITY",
+            "Text": "000",
+            "BeginOffset": 15,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9998331069946289,
+            "Type": "OTHER",
+            "Text": "https://t.co/TfMp8gchGR",
+            "BeginOffset": 89,
+            "EndOffset": 112
+        }
+    ]
+}

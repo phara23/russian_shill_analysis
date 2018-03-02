@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9620883464813232,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 4,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.4394918978214264,
+            "Type": "ORGANIZATION",
+            "Text": "Hydra",
+            "BeginOffset": 20,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9999843835830688,
+            "Type": "OTHER",
+            "Text": "https://t.co/EyZChYb4d8",
+            "BeginOffset": 63,
+            "EndOffset": 86
+        }
+    ]
+}

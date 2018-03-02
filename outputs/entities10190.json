@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7185469269752502,
+            "Type": "PERSON",
+            "Text": "@authenticpaint",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.5541610717773438,
+            "Type": "DATE",
+            "Text": "#2016",
+            "BeginOffset": 20,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.6833875775337219,
+            "Type": "QUANTITY",
+            "Text": "3Words",
+            "BeginOffset": 35,
+            "EndOffset": 41
+        }
+    ]
+}

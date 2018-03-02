@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.790069043636322,
+            "Type": "PERSON",
+            "Text": "@StandWithUs",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7524117827415466,
+            "Type": "OTHER",
+            "Text": "Palestinian",
+            "BeginOffset": 56,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9999899864196777,
+            "Type": "OTHER",
+            "Text": "https://t.co/e1P4sWe21V",
+            "BeginOffset": 78,
+            "EndOffset": 101
+        }
+    ]
+}

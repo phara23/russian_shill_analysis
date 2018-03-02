@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8258585333824158,
+            "Type": "PERSON",
+            "Text": "@slone",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9451866149902344,
+            "Type": "PERSON",
+            "Text": "TRUMP",
+            "BeginOffset": 11,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9914886951446533,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 115,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.9813135862350464,
+            "Type": "LOCATION",
+            "Text": "USA",
+            "BeginOffset": 129,
+            "EndOffset": 132
+        }
+    ]
+}

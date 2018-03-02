@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9378412961959839,
+            "Type": "PERSON",
+            "Text": "@bill_lee1234",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7747726440429688,
+            "Type": "DATE",
+            "Text": "#2017",
+            "BeginOffset": 36,
+            "EndOffset": 41
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8165524005889893,
+            "Type": "PERSON",
+            "Text": "@AllenWestRepub",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.6414688229560852,
+            "Type": "OTHER",
+            "Text": "Russians",
+            "BeginOffset": 29,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9787902235984802,
+            "Type": "ORGANIZATION",
+            "Text": "Politico",
+            "BeginOffset": 53,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9440263509750366,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 111,
+            "EndOffset": 118
+        },
+        {
+            "Score": 0.7956389784812927,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 129,
+            "EndOffset": 138
+        }
+    ]
+}

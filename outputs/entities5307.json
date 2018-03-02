@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6861706972122192,
+            "Type": "PERSON",
+            "Text": "@IWashington",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8555275201797485,
+            "Type": "PERSON",
+            "Text": "@CJEssex",
+            "BeginOffset": 17,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.8943714499473572,
+            "Type": "PERSON",
+            "Text": "@POTUS",
+            "BeginOffset": 26,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9789513945579529,
+            "Type": "PERSON",
+            "Text": "@_missing24",
+            "BeginOffset": 33,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.959812343120575,
+            "Type": "PERSON",
+            "Text": "@es_snipes",
+            "BeginOffset": 45,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9999416470527649,
+            "Type": "PERSON",
+            "Text": "Eric Garner",
+            "BeginOffset": 56,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9999399781227112,
+            "Type": "PERSON",
+            "Text": "Eric Garner",
+            "BeginOffset": 98,
+            "EndOffset": 109
+        }
+    ]
+}

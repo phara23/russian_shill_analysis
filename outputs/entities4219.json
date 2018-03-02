@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6656208038330078,
+            "Type": "ORGANIZATION",
+            "Text": "@4MySquad",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9952203631401062,
+            "Type": "ORGANIZATION",
+            "Text": "facebook",
+            "BeginOffset": 47,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9998924732208252,
+            "Type": "OTHER",
+            "Text": "https://t.co/YUD8BtuLJn",
+            "BeginOffset": 100,
+            "EndOffset": 123
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.641192615032196,
+            "Type": "ORGANIZATION",
+            "Text": "@Impolitics",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.6879424452781677,
+            "Type": "ORGANIZATION",
+            "Text": "KKK",
+            "BeginOffset": 89,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.9519234895706177,
+            "Type": "ORGANIZATION",
+            "Text": "KGB",
+            "BeginOffset": 98,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.9983343482017517,
+            "Type": "ORGANIZATION",
+            "Text": "FBI",
+            "BeginOffset": 110,
+            "EndOffset": 113
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8992927670478821,
+            "Type": "PERSON",
+            "Text": "@Sic_of_Libtards",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8706616163253784,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 37,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9946066737174988,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 60,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.992897629737854,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 133,
+            "EndOffset": 140
+        }
+    ]
+}

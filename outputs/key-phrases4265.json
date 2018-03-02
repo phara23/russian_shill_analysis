@@ -1,0 +1,40 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9322198033332825,
+            "Text": "RT @MalteJordan",
+            "BeginOffset": 0,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.5253775119781494,
+            "Text": "Clinton",
+            "BeginOffset": 17,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.7829782366752625,
+            "Text": "Trump",
+            "BeginOffset": 26,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.7649720907211304,
+            "Text": "Brexit",
+            "BeginOffset": 33,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.7718293070793152,
+            "Text": "Terror",
+            "BeginOffset": 41,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.7710006833076477,
+            "Text": "#2016",
+            "BeginOffset": 48,
+            "EndOffset": 53
+        }
+    ]
+}

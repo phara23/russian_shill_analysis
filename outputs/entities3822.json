@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8861444592475891,
+            "Type": "PERSON",
+            "Text": "@MarkAlmost",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.6821142435073853,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 16,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9599651098251343,
+            "Type": "PERSON",
+            "Text": "@Lacy0902",
+            "BeginOffset": 19,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9137619733810425,
+            "Type": "OTHER",
+            "Text": "https://t.co/t0TvGPBR3Q",
+            "BeginOffset": 110,
+            "EndOffset": 133
+        }
+    ]
+}

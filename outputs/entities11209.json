@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9532572031021118,
+            "Type": "PERSON",
+            "Text": "@Jarmadillos",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.930903971195221,
+            "Type": "PERSON",
+            "Text": "Gilbert Grape",
+            "BeginOffset": 31,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9999160766601562,
+            "Type": "OTHER",
+            "Text": "https://t.co/XbgCuv1W7d",
+            "BeginOffset": 65,
+            "EndOffset": 88
+        }
+    ]
+}

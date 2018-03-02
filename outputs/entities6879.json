@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9914658069610596,
+            "Type": "PERSON",
+            "Text": "Jack Abramoff",
+            "BeginOffset": 0,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.39172667264938354,
+            "Type": "ORGANIZATION",
+            "Text": "#HillaryClinton",
+            "BeginOffset": 48,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9999064207077026,
+            "Type": "OTHER",
+            "Text": "https://t.co/5aykfqn8tq",
+            "BeginOffset": 73,
+            "EndOffset": 96
+        }
+    ]
+}

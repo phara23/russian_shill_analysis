@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.828349232673645,
+            "Type": "PERSON",
+            "Text": "@ChgocadChic",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.4308876097202301,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 17,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.7799539566040039,
+            "Type": "ORGANIZATION",
+            "Text": "@COSProject",
+            "BeginOffset": 20,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9796871542930603,
+            "Type": "QUANTITY",
+            "Text": "two months",
+            "BeginOffset": 53,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9999089241027832,
+            "Type": "OTHER",
+            "Text": "https://t.co/7sS4aG2FVV",
+            "BeginOffset": 87,
+            "EndOffset": 110
+        }
+    ]
+}

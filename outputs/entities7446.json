@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.702387273311615,
+            "Type": "PERSON",
+            "Text": "@preciousliberty",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9728732109069824,
+            "Type": "PERSON",
+            "Text": "Austyn Crites",
+            "BeginOffset": 21,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.4854184091091156,
+            "Type": "PERSON",
+            "Text": "#Trump",
+            "BeginOffset": 67,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.966177225112915,
+            "Type": "QUANTITY",
+            "Text": "7 times",
+            "BeginOffset": 108,
+            "EndOffset": 115
+        }
+    ]
+}

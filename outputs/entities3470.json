@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9319376945495605,
+            "Type": "PERSON",
+            "Text": "@matthewjdowd",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.6215486526489258,
+            "Type": "ORGANIZATION",
+            "Text": "Quinnipiac",
+            "BeginOffset": 25,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9797255396842957,
+            "Type": "PERSON",
+            "Text": "Rubio",
+            "BeginOffset": 95,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.9995469450950623,
+            "Type": "PERSON",
+            "Text": "Sanders",
+            "BeginOffset": 105,
+            "EndOffset": 112
+        }
+    ]
+}

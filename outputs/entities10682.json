@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9813464283943176,
+            "Type": "ORGANIZATION",
+            "Text": "ISIS",
+            "BeginOffset": 4,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.9999871253967285,
+            "Type": "OTHER",
+            "Text": "https://t.co/EpDsMzW3J5",
+            "BeginOffset": 34,
+            "EndOffset": 57
+        }
+    ]
+}

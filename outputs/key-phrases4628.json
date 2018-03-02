@@ -1,0 +1,34 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.824711799621582,
+            "Text": "RT @888Scott",
+            "BeginOffset": 0,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.44351232051849365,
+            "Text": "Hey",
+            "BeginOffset": 14,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8664261698722839,
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 19,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9702624678611755,
+            "Text": "Hillary",
+            "BeginOffset": 48,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.8059139251708984,
+            "Text": "#Trump #Trump2016 @DonaldJTrumpJr @mike_pence",
+            "BeginOffset": 81,
+            "EndOffset": 126
+        }
+    ]
+}

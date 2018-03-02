@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.47296786308288574,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8930804133415222,
+            "Type": "ORGANIZATION",
+            "Text": "@Daily_Star",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9986047744750977,
+            "Type": "PERSON",
+            "Text": "Alexis Sanchez",
+            "BeginOffset": 30,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.959553599357605,
+            "Type": "ORGANIZATION",
+            "Text": "Bayern Munich",
+            "BeginOffset": 65,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.8507457971572876,
+            "Type": "ORGANIZATION",
+            "Text": "Arsenal",
+            "BeginOffset": 89,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.9265946745872498,
+            "Type": "OTHER",
+            "Text": "https://t.co/2rTdnbKA5s",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        },
+        {
+            "Score": 0.9772196412086487,
+            "Type": "OTHER",
+            "Text": "https://t.co",
+            "BeginOffset": 127,
+            "EndOffset": 139
+        }
+    ]
+}

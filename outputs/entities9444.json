@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8999153971672058,
+            "Type": "PERSON",
+            "Text": "@LyndaG1963",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9962254166603088,
+            "Type": "QUANTITY",
+            "Text": "2 days",
+            "BeginOffset": 42,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.8697585463523865,
+            "Type": "PERSON",
+            "Text": "@FayeRamona",
+            "BeginOffset": 117,
+            "EndOffset": 128
+        },
+        {
+            "Score": 0.7688288688659668,
+            "Type": "PERSON",
+            "Text": "@APLMom",
+            "BeginOffset": 129,
+            "EndOffset": 136
+        },
+        {
+            "Score": 0.7662776708602905,
+            "Type": "PERSON",
+            "Text": "@A",
+            "BeginOffset": 137,
+            "EndOffset": 139
+        }
+    ]
+}

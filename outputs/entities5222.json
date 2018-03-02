@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8183846473693848,
+            "Type": "PERSON",
+            "Text": "@LJSpagnoli",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.48423683643341064,
+            "Type": "ORGANIZATION",
+            "Text": "VA",
+            "BeginOffset": 33,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.8656233549118042,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 83,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9999579191207886,
+            "Type": "OTHER",
+            "Text": "https://t.co/Y5o6vevHQV",
+            "BeginOffset": 93,
+            "EndOffset": 116
+        }
+    ]
+}

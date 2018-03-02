@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9565605521202087,
+            "Type": "PERSON",
+            "Text": "@luchadora41",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7503445148468018,
+            "Type": "ORGANIZATION",
+            "Text": "Obama Administration",
+            "BeginOffset": 64,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9122661352157593,
+            "Type": "OTHER",
+            "Text": "https://t.co/s2gopFFSGO",
+            "BeginOffset": 85,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.8166050314903259,
+            "Type": "ORGANIZATION",
+            "Text": "@rightsidenews",
+            "BeginOffset": 113,
+            "EndOffset": 127
+        }
+    ]
+}

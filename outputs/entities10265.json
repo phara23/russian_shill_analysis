@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8559768199920654,
+            "Type": "PERSON",
+            "Text": "@amborin",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.935736358165741,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 13,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9943181872367859,
+            "Type": "PERSON",
+            "Text": "Robert",
+            "BeginOffset": 42,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9936584830284119,
+            "Type": "PERSON",
+            "Text": "Rebekah Mercer",
+            "BeginOffset": 53,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.47591111063957214,
+            "Type": "QUANTITY",
+            "Text": "Millions",
+            "BeginOffset": 80,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9771788120269775,
+            "Type": "OTHER",
+            "Text": "https://t.co/q9zuGJdH",
+            "BeginOffset": 118,
+            "EndOffset": 139
+        }
+    ]
+}

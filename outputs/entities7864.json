@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8663507699966431,
+            "Type": "PERSON",
+            "Text": "@VivaDanceCLE",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7195324897766113,
+            "Type": "PERSON",
+            "Text": "Milonga Nueva",
+            "BeginOffset": 18,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.979374885559082,
+            "Type": "QUANTITY",
+            "Text": "1st",
+            "BeginOffset": 43,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.7554508447647095,
+            "Type": "QUANTITY",
+            "Text": "3rd",
+            "BeginOffset": 51,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.5118521451950073,
+            "Type": "DATE",
+            "Text": "Friday",
+            "BeginOffset": 55,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9997628331184387,
+            "Type": "OTHER",
+            "Text": "https://t.co/u52sdZcqfv",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        }
+    ]
+}

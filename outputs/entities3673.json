@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8257889151573181,
+            "Type": "PERSON",
+            "Text": "@thehill",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9996343851089478,
+            "Type": "PERSON",
+            "Text": "Bubba Watson",
+            "BeginOffset": 20,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9066454172134399,
+            "Type": "PERSON",
+            "Text": "Lee",
+            "BeginOffset": 91,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.8872187733650208,
+            "Type": "OTHER",
+            "Text": "http://t.co/efLtXNN8JJ",
+            "BeginOffset": 96,
+            "EndOffset": 118
+        },
+        {
+            "Score": 0.988677442073822,
+            "Type": "OTHER",
+            "Text": "http://t.co/Q7spoXCt",
+            "BeginOffset": 119,
+            "EndOffset": 139
+        }
+    ]
+}

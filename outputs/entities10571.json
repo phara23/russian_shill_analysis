@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8708903193473816,
+            "Type": "PERSON",
+            "Text": "@it_is_me_2014",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.964372456073761,
+            "Type": "PERSON",
+            "Text": "@MarkDice - Obama",
+            "BeginOffset": 19,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9652494192123413,
+            "Type": "QUANTITY",
+            "Text": "8 year",
+            "BeginOffset": 44,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9488730430603027,
+            "Type": "PERSON",
+            "Text": "President Trump",
+            "BeginOffset": 79,
+            "EndOffset": 94
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8112545609474182,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 42,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.5728912949562073,
+            "Type": "OTHER",
+            "Text": "Haitian",
+            "BeginOffset": 86,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.9999961853027344,
+            "Type": "OTHER",
+            "Text": "https://t.co/D0IfZLp31M",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

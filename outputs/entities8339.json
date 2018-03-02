@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7707720398902893,
+            "Type": "EVENT",
+            "Text": "DNC Day 2",
+            "BeginOffset": 0,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9902861714363098,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 11,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9374865293502808,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 40,
+            "EndOffset": 47
+        }
+    ]
+}

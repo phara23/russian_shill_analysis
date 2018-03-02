@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8357343673706055,
+            "Type": "PERSON",
+            "Text": "@gilesfgb",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.7279327511787415,
+            "Type": "DATE",
+            "Text": "this day",
+            "BeginOffset": 51,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.7741918563842773,
+            "Type": "OTHER",
+            "Text": "Latin",
+            "BeginOffset": 112,
+            "EndOffset": 117
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9637060165405273,
+            "Type": "PERSON",
+            "Text": "@Chris_Kokoski",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9784514904022217,
+            "Type": "ORGANIZATION",
+            "Text": "Twitter",
+            "BeginOffset": 47,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.8670861124992371,
+            "Type": "PERSON",
+            "Text": "@BeckyKilled",
+            "BeginOffset": 77,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.933868944644928,
+            "Type": "PERSON",
+            "Text": "@mleln",
+            "BeginOffset": 90,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.9507439732551575,
+            "Type": "PERSON",
+            "Text": "@cakikeith",
+            "BeginOffset": 97,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.9537932276725769,
+            "Type": "PERSON",
+            "Text": "@woah_alyharms",
+            "BeginOffset": 108,
+            "EndOffset": 122
+        },
+        {
+            "Score": 0.7980188131332397,
+            "Type": "PERSON",
+            "Text": "@rockchalkmer",
+            "BeginOffset": 123,
+            "EndOffset": 136
+        }
+    ]
+}

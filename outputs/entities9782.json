@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7593104243278503,
+            "Type": "PERSON",
+            "Text": "@pingrava",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8796127438545227,
+            "Type": "PERSON",
+            "Text": "@DesireeAaron",
+            "BeginOffset": 14,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.915289580821991,
+            "Type": "PERSON",
+            "Text": "@hottiesfortrump",
+            "BeginOffset": 28,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9521969556808472,
+            "Type": "PERSON",
+            "Text": "@CoryBooker",
+            "BeginOffset": 45,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9729296565055847,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 115,
+            "EndOffset": 120
+        }
+    ]
+}

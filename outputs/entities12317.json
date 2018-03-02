@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8534027338027954,
+            "Type": "PERSON",
+            "Text": "@TeamMarco",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9479361176490784,
+            "Type": "ORGANIZATION",
+            "Text": "@YouTube",
+            "BeginOffset": 42,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9999279975891113,
+            "Type": "OTHER",
+            "Text": "http://t.co/kQ2pNMOnke",
+            "BeginOffset": 65,
+            "EndOffset": 87
+        }
+    ]
+}

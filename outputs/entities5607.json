@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8438290357589722,
+            "Type": "PERSON",
+            "Text": "@technowizardry",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7940783500671387,
+            "Type": "PERSON",
+            "Text": "@tracypickerill",
+            "BeginOffset": 20,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.8265204429626465,
+            "Type": "ORGANIZATION",
+            "Text": "@NBCNews",
+            "BeginOffset": 36,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9955747127532959,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 88,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.9974306225776672,
+            "Type": "ORGANIZATION",
+            "Text": "Twitter",
+            "BeginOffset": 97,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.9941169619560242,
+            "Type": "QUANTITY",
+            "Text": "20 years",
+            "BeginOffset": 115,
+            "EndOffset": 123
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9313115477561951,
+            "Type": "PERSON",
+            "Text": "@BOBBY_J_SHANE",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9976056814193726,
+            "Type": "ORGANIZATION",
+            "Text": "Twitter",
+            "BeginOffset": 54,
+            "EndOffset": 61
+        }
+    ]
+}

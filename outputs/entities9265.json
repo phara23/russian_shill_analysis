@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8694809675216675,
+            "Type": "PERSON",
+            "Text": "@SebGorka",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9939104318618774,
+            "Type": "QUANTITY",
+            "Text": "28 years",
+            "BeginOffset": 58,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9992727637290955,
+            "Type": "PERSON",
+            "Text": "Mike Flynn",
+            "BeginOffset": 117,
+            "EndOffset": 127
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.677732527256012,
+            "Type": "PERSON",
+            "Text": "@TheLibRepublic",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8508597016334534,
+            "Type": "QUANTITY",
+            "Text": "7-Year",
+            "BeginOffset": 37,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.6736998558044434,
+            "Type": "QUANTITY",
+            "Text": "8 Lives",
+            "BeginOffset": 58,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9518029689788818,
+            "Type": "OTHER",
+            "Text": "https://t.co/eZmqaCtWEu",
+            "BeginOffset": 66,
+            "EndOffset": 89
+        }
+    ]
+}

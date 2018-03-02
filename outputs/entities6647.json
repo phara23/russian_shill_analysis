@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9209911227226257,
+            "Type": "PERSON",
+            "Text": "@TGJones_62",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8703300952911377,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 85,
+            "EndOffset": 92
+        }
+    ]
+}

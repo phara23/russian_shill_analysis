@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9144206047058105,
+            "Type": "PERSON",
+            "Text": "@BoSnerdley",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7136593461036682,
+            "Type": "LOCATION",
+            "Text": "Saudi",
+            "BeginOffset": 16,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.6350088119506836,
+            "Type": "LOCATION",
+            "Text": "Guantanamo",
+            "BeginOffset": 43,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.5318192839622498,
+            "Type": "LOCATION",
+            "Text": "Pentagon",
+            "BeginOffset": 62,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9769640564918518,
+            "Type": "OTHER",
+            "Text": "https://t.co/1qSJ3gfGwh",
+            "BeginOffset": 71,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.9888683557510376,
+            "Type": "ORGANIZATION",
+            "Text": "@Reuters",
+            "BeginOffset": 99,
+            "EndOffset": 107
+        }
+    ]
+}

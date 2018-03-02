@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.887553870677948,
+            "Type": "PERSON",
+            "Text": "@aliakberhabib",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6465098857879639,
+            "Type": "DATE",
+            "Text": "#2017",
+            "BeginOffset": 19,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9940522313117981,
+            "Type": "ORGANIZATION",
+            "Text": "Facebook",
+            "BeginOffset": 42,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9812527298927307,
+            "Type": "ORGANIZATION",
+            "Text": "Twitter",
+            "BeginOffset": 57,
+            "EndOffset": 64
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8040114641189575,
+            "Type": "PERSON",
+            "Text": "@stopbeingfamous",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9969833493232727,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 21,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9992559552192688,
+            "Type": "PERSON",
+            "Text": "Leonard Cohen",
+            "BeginOffset": 41,
+            "EndOffset": 54
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5181049704551697,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.875420331954956,
+            "Type": "ORGANIZATION",
+            "Text": "@DJ_KOOL_ANT",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9841086268424988,
+            "Type": "OTHER",
+            "Text": "https://t.co/Um7Ia3R83W",
+            "BeginOffset": 23,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.728486180305481,
+            "Type": "ORGANIZATION",
+            "Text": "@MorganMimosa",
+            "BeginOffset": 47,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.5782403349876404,
+            "Type": "ORGANIZATION",
+            "Text": "#MorganMimosa",
+            "BeginOffset": 61,
+            "EndOffset": 74
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7134886384010315,
+            "Type": "PERSON",
+            "Text": "@wvpublic",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.6308693289756775,
+            "Type": "ORGANIZATION",
+            "Text": "WVPB",
+            "BeginOffset": 29,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9964703321456909,
+            "Type": "ORGANIZATION",
+            "Text": "Facebook",
+            "BeginOffset": 53,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.7901497483253479,
+            "Type": "ORGANIZATION",
+            "Text": "WVPB",
+            "BeginOffset": 73,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.965906023979187,
+            "Type": "OTHER",
+            "Text": "https://t.co/mBeZ",
+            "BeginOffset": 126,
+            "EndOffset": 143
+        }
+    ]
+}

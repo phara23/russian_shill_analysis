@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6933894157409668,
+            "Type": "PERSON",
+            "Text": "@PURLYWYTE",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9085882306098938,
+            "Type": "OTHER",
+            "Text": "https://t.co/SJ5VSGspHu",
+            "BeginOffset": 60,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.8523615002632141,
+            "Type": "PERSON",
+            "Text": "@SnoopDogg",
+            "BeginOffset": 97,
+            "EndOffset": 107
+        }
+    ]
+}

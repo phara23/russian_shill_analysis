@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7920538187026978,
+            "Type": "PERSON",
+            "Text": "@WashDCOnline",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7332335114479065,
+            "Type": "LOCATION",
+            "Text": "D.C.",
+            "BeginOffset": 31,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9478051066398621,
+            "Type": "QUANTITY",
+            "Text": "4 dead",
+            "BeginOffset": 88,
+            "EndOffset": 94
+        }
+    ]
+}

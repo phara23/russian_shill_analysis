@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9273629188537598,
+            "Type": "PERSON",
+            "Text": "@Chris_arnade",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.5086427330970764,
+            "Type": "QUANTITY",
+            "Text": "25",
+            "BeginOffset": 18,
+            "EndOffset": 20
+        }
+    ]
+}

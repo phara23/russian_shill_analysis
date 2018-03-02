@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8200974464416504,
+            "Type": "ORGANIZATION",
+            "Text": "@Conservative_VW",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8321102261543274,
+            "Type": "QUANTITY",
+            "Text": "both sides",
+            "BeginOffset": 52,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9946592450141907,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 102,
+            "EndOffset": 107
+        }
+    ]
+}

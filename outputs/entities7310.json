@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6901835799217224,
+            "Type": "PERSON",
+            "Text": "@BmoreFab",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9974151849746704,
+            "Type": "ORGANIZATION",
+            "Text": "FBI",
+            "BeginOffset": 14,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9792857766151428,
+            "Type": "QUANTITY",
+            "Text": "82 children",
+            "BeginOffset": 26,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.7964617609977722,
+            "Type": "QUANTITY",
+            "Text": "15 arrested",
+            "BeginOffset": 64,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.597244918346405,
+            "Type": "LOCATION",
+            "Text": "Philly",
+            "BeginOffset": 79,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.9976181387901306,
+            "Type": "OTHER",
+            "Text": "https://t.co/kpZ9gtFtLP",
+            "BeginOffset": 91,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.9124345779418945,
+            "Type": "ORGANIZATION",
+            "Text": "@thephillyvoice",
+            "BeginOffset": 119,
+            "EndOffset": 134
+        }
+    ]
+}

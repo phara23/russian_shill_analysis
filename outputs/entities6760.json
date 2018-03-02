@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8745917677879333,
+            "Type": "PERSON",
+            "Text": "@Mikey_Donovan_",
+            "BeginOffset": 0,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9745000004768372,
+            "Type": "DATE",
+            "Text": "today",
+            "BeginOffset": 42,
+            "EndOffset": 47
+        }
+    ]
+}

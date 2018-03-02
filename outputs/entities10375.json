@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8986074924468994,
+            "Type": "PERSON",
+            "Text": "@RealAlexJones",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.796493411064148,
+            "Type": "ORGANIZATION",
+            "Text": "Senate",
+            "BeginOffset": 19,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.7943183779716492,
+            "Type": "OTHER",
+            "Text": "Russian",
+            "BeginOffset": 37,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.6176679730415344,
+            "Type": "ORGANIZATION",
+            "Text": "U.S.",
+            "BeginOffset": 60,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.8174408078193665,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 130,
+            "EndOffset": 139
+        }
+    ]
+}

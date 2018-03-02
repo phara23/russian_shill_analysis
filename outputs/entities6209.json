@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9261100888252258,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 23,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.998988926410675,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 35,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9999713897705078,
+            "Type": "OTHER",
+            "Text": "https://t.co/1ApHFXgozD",
+            "BeginOffset": 53,
+            "EndOffset": 76
+        }
+    ]
+}

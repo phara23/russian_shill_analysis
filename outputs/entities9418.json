@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.51059490442276,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.748985230922699,
+            "Type": "PERSON",
+            "Text": "@Rumi_",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.39302000403404236,
+            "Type": "PERSON",
+            "Text": "Gamble",
+            "BeginOffset": 16,
+            "EndOffset": 22
+        }
+    ]
+}

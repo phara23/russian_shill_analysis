@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8273072838783264,
+            "Type": "PERSON",
+            "Text": "@ZaibatsuNews",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9793591499328613,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 18,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.7661813497543335,
+            "Type": "LOCATION",
+            "Text": "U.S.",
+            "BeginOffset": 30,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.3424481451511383,
+            "Type": "LOCATION",
+            "Text": "Guantanamo",
+            "BeginOffset": 69,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.7918119430541992,
+            "Type": "OTHER",
+            "Text": "https://t.co/6sIk1y9ASH",
+            "BeginOffset": 91,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.8136852979660034,
+            "Type": "ORGANIZATION",
+            "Text": "#p2 #ctl",
+            "BeginOffset": 115,
+            "EndOffset": 123
+        },
+        {
+            "Score": 0.9595499038696289,
+            "Type": "OTHER",
+            "Text": "https://t.co/V0",
+            "BeginOffset": 124,
+            "EndOffset": 139
+        }
+    ]
+}

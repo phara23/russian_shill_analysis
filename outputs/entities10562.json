@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8283010125160217,
+            "Type": "PERSON",
+            "Text": "@ronstew",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9885885715484619,
+            "Type": "LOCATION",
+            "Text": "Europe",
+            "BeginOffset": 37,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.5241689682006836,
+            "Type": "QUANTITY",
+            "Text": "2M",
+            "BeginOffset": 47,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9998421669006348,
+            "Type": "OTHER",
+            "Text": "https://t.co/ow36lpdtHx",
+            "BeginOffset": 74,
+            "EndOffset": 97
+        }
+    ]
+}

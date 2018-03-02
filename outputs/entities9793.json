@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8773057460784912,
+            "Type": "PERSON",
+            "Text": "@ScottBaio",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8288907408714294,
+            "Type": "ORGANIZATION",
+            "Text": "@CNN",
+            "BeginOffset": 81,
+            "EndOffset": 85
+        }
+    ]
+}

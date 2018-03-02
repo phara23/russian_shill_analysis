@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.910025954246521,
+            "Type": "PERSON",
+            "Text": "@AbbyMartin",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.563044548034668,
+            "Type": "ORGANIZATION",
+            "Text": "Blackwater",
+            "BeginOffset": 25,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9998068809509277,
+            "Type": "PERSON",
+            "Text": "Erik Prince",
+            "BeginOffset": 56,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.7105196714401245,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 80,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.9364420771598816,
+            "Type": "ORGANIZATION",
+            "Text": "Islam",
+            "BeginOffset": 113,
+            "EndOffset": 118
+        },
+        {
+            "Score": 0.749767541885376,
+            "Type": "PERSON",
+            "Text": "BETSY DEVOS",
+            "BeginOffset": 120,
+            "EndOffset": 131
+        }
+    ]
+}

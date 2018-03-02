@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6656560897827148,
+            "Type": "ORGANIZATION",
+            "Text": "@IMPL0",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.6618434190750122,
+            "Type": "LOCATION",
+            "Text": "Americans",
+            "BeginOffset": 21,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.7845243811607361,
+            "Type": "OTHER",
+            "Text": "Russian",
+            "BeginOffset": 81,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9921253323554993,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 109,
+            "EndOffset": 114
+        }
+    ]
+}

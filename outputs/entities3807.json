@@ -1,0 +1,81 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7940444350242615,
+            "Type": "PERSON",
+            "Text": "@RiG8r",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9451369047164917,
+            "Type": "PERSON",
+            "Text": "@BradThor",
+            "BeginOffset": 12,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9839165210723877,
+            "Type": "PERSON",
+            "Text": "@ChrisLoesch",
+            "BeginOffset": 22,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9664144515991211,
+            "Type": "PERSON",
+            "Text": "@BettinaVLA",
+            "BeginOffset": 35,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9536325931549072,
+            "Type": "PERSON",
+            "Text": "@HawkinsUSA",
+            "BeginOffset": 48,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.947252094745636,
+            "Type": "PERSON",
+            "Text": "@VTwinCrucible",
+            "BeginOffset": 60,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9895346760749817,
+            "Type": "PERSON",
+            "Text": "@CaliGirl1909",
+            "BeginOffset": 75,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.986257791519165,
+            "Type": "PERSON",
+            "Text": "@LizMair",
+            "BeginOffset": 89,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.9960221648216248,
+            "Type": "PERSON",
+            "Text": "@BennyJohnson",
+            "BeginOffset": 98,
+            "EndOffset": 111
+        },
+        {
+            "Score": 0.9595717787742615,
+            "Type": "PERSON",
+            "Text": "@NiniGirl84",
+            "BeginOffset": 112,
+            "EndOffset": 123
+        },
+        {
+            "Score": 0.9791983366012573,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

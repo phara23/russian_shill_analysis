@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8656989336013794,
+            "Type": "PERSON",
+            "Text": "@MissLizzyNJ",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9990096092224121,
+            "Type": "PERSON",
+            "Text": "Tom Brady",
+            "BeginOffset": 110,
+            "EndOffset": 119
+        }
+    ]
+}

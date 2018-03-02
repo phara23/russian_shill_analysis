@@ -1,0 +1,34 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9972281455993652,
+            "Text": "Trump",
+            "BeginOffset": 21,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9977496862411499,
+            "Text": "his promises",
+            "BeginOffset": 39,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9977374076843262,
+            "Text": "the people",
+            "BeginOffset": 55,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9909635186195374,
+            "Text": "your President",
+            "BeginOffset": 84,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.9957823753356934,
+            "Text": "next 8 years",
+            "BeginOffset": 103,
+            "EndOffset": 115
+        }
+    ]
+}

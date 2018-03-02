@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8193556666374207,
+            "Type": "PERSON",
+            "Text": "@peteygalindo",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8080741763114929,
+            "Type": "PERSON",
+            "Text": "@TheJusticeDept",
+            "BeginOffset": 18,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9987383484840393,
+            "Type": "OTHER",
+            "Text": "https://t.co/L0hiiMrIaU",
+            "BeginOffset": 100,
+            "EndOffset": 123
+        }
+    ]
+}

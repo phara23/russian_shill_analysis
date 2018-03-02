@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9209173917770386,
+            "Type": "PERSON",
+            "Text": "@ReneePrasek",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.5852949023246765,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 17,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.7470628023147583,
+            "Type": "PERSON",
+            "Text": "@JosephEach",
+            "BeginOffset": 20,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9178605675697327,
+            "Type": "PERSON",
+            "Text": "@tedcruz",
+            "BeginOffset": 33,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9345913529396057,
+            "Type": "OTHER",
+            "Text": "https://t.co/Lq7nf7r9vD",
+            "BeginOffset": 111,
+            "EndOffset": 134
+        },
+        {
+            "Score": 0.3427550494670868,
+            "Type": "PERSON",
+            "Text": "#Cru",
+            "BeginOffset": 135,
+            "EndOffset": 139
+        }
+    ]
+}

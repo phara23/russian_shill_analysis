@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7940835356712341,
+            "Type": "PERSON",
+            "Text": "@opedanderson",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9746806025505066,
+            "Type": "PERSON",
+            "Text": "@kevkid79",
+            "BeginOffset": 18,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9127956032752991,
+            "Type": "PERSON",
+            "Text": "@worldnetdaily",
+            "BeginOffset": 28,
+            "EndOffset": 42
+        }
+    ]
+}

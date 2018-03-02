@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6844918131828308,
+            "Type": "PERSON",
+            "Text": "@RedNationRising",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.997815728187561,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 21,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.7249768972396851,
+            "Type": "PERSON",
+            "Text": "Law Obama",
+            "BeginOffset": 53,
+            "EndOffset": 62
+        }
+    ]
+}

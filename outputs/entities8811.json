@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8096027374267578,
+            "Type": "PERSON",
+            "Text": "@CleavageCrumbs",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9811747074127197,
+            "Type": "DATE",
+            "Text": "2017",
+            "BeginOffset": 23,
+            "EndOffset": 27
+        }
+    ]
+}

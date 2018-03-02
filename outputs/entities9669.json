@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7377917766571045,
+            "Type": "PERSON",
+            "Text": "@DetroitPost",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9849672913551331,
+            "Type": "PERSON",
+            "Text": "Holmes",
+            "BeginOffset": 31,
+            "EndOffset": 37
+        }
+    ]
+}

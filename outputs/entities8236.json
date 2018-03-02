@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8995551466941833,
+            "Type": "PERSON",
+            "Text": "@ImAngelaBassett",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9221086502075195,
+            "Type": "LOCATION",
+            "Text": "Fayetteville, NC",
+            "BeginOffset": 21,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9934059381484985,
+            "Type": "OTHER",
+            "Text": "https://t.co/TLEEqEfje0",
+            "BeginOffset": 115,
+            "EndOffset": 138
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8880681395530701,
+            "Type": "PERSON",
+            "Text": "@TheReal_DjAce",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.786840558052063,
+            "Type": "DATE",
+            "Text": "Friday",
+            "BeginOffset": 27,
+            "EndOffset": 33
+        }
+    ]
+}

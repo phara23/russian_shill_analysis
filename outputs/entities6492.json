@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9555274248123169,
+            "Type": "PERSON",
+            "Text": "@seejavaciawrite",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.7526393532752991,
+            "Type": "ORGANIZATION",
+            "Text": "@kingbeybible",
+            "BeginOffset": 52,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9997833371162415,
+            "Type": "OTHER",
+            "Text": "https://t.co/KtU6cc9njD",
+            "BeginOffset": 111,
+            "EndOffset": 134
+        }
+    ]
+}

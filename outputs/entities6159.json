@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9241060018539429,
+            "Type": "PERSON",
+            "Text": "@andrejpwalker",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8835736513137817,
+            "Type": "QUANTITY",
+            "Text": "One thing",
+            "BeginOffset": 19,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.8125772476196289,
+            "Type": "ORGANIZATION",
+            "Text": "#Trump White House",
+            "BeginOffset": 46,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.999474287033081,
+            "Type": "PERSON",
+            "Text": "Andrew Breitbart",
+            "BeginOffset": 84,
+            "EndOffset": 100
+        }
+    ]
+}

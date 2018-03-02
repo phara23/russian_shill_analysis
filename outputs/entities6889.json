@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7416150569915771,
+            "Type": "PERSON",
+            "Text": "@Arlozt",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.8328908681869507,
+            "Type": "PERSON",
+            "Text": "@curseandpreach",
+            "BeginOffset": 12,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.8595604300498962,
+            "Type": "PERSON",
+            "Text": "@TGSNTtv",
+            "BeginOffset": 28,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9491667151451111,
+            "Type": "PERSON",
+            "Text": "@ProphetPX",
+            "BeginOffset": 37,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9462869167327881,
+            "Type": "PERSON",
+            "Text": "@TwheWare",
+            "BeginOffset": 48,
+            "EndOffset": 57
+        }
+    ]
+}

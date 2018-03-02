@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7031654715538025,
+            "Type": "PERSON",
+            "Text": "@TRUMPMOVEMENTUS",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9963427186012268,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 21,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9963525533676147,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 116,
+            "EndOffset": 123
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7043612003326416,
+            "Type": "PERSON",
+            "Text": "@LifeNewsHQ",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9988595247268677,
+            "Type": "PERSON",
+            "Text": "Mike Pence",
+            "BeginOffset": 40,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9455282092094421,
+            "Type": "DATE",
+            "Text": "March",
+            "BeginOffset": 65,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9662771224975586,
+            "Type": "DATE",
+            "Text": "Today",
+            "BeginOffset": 80,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.9122731685638428,
+            "Type": "OTHER",
+            "Text": "https://t.co/UBfPNqILsN",
+            "BeginOffset": 87,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.6649178266525269,
+            "Type": "ORGANIZATION",
+            "Text": "#MarchForLife",
+            "BeginOffset": 111,
+            "EndOffset": 124
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8320821523666382,
+            "Type": "PERSON",
+            "Text": "@RawStory",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9999865293502808,
+            "Type": "OTHER",
+            "Text": "https://t.co/2ug6oHv9pP",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        }
+    ]
+}

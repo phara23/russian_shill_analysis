@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8897097110748291,
+            "Type": "PERSON",
+            "Text": "@Solely_Toya",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9981897473335266,
+            "Type": "ORGANIZATION",
+            "Text": "Netflix",
+            "BeginOffset": 53,
+            "EndOffset": 60
+        }
+    ]
+}

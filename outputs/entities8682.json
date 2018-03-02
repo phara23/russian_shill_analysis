@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8661717176437378,
+            "Type": "ORGANIZATION",
+            "Text": "@Hockey_Pro_Guru",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.7280775904655457,
+            "Type": "PERSON",
+            "Text": "@mattlockeshow",
+            "BeginOffset": 21,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.7074345946311951,
+            "Type": "LOCATION",
+            "Text": "Saudi",
+            "BeginOffset": 60,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.603262722492218,
+            "Type": "PERSON",
+            "Text": "#Trump",
+            "BeginOffset": 131,
+            "EndOffset": 137
+        }
+    ]
+}

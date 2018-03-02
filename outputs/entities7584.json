@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6544404029846191,
+            "Type": "ORGANIZATION",
+            "Text": "@MistaMazeMusic",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8483006358146667,
+            "Type": "PERSON",
+            "Text": "@amjoyshow",
+            "BeginOffset": 20,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9512548446655273,
+            "Type": "PERSON",
+            "Text": "@JoyAnnReid",
+            "BeginOffset": 32,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9531510472297668,
+            "Type": "PERSON",
+            "Text": "TRUMP",
+            "BeginOffset": 51,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9250281453132629,
+            "Type": "PERSON",
+            "Text": "@RevJJackson",
+            "BeginOffset": 80,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.9481149315834045,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 116,
+            "EndOffset": 132
+        }
+    ]
+}

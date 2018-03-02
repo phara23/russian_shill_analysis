@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8198232650756836,
+            "Type": "ORGANIZATION",
+            "Text": "North Korea",
+            "BeginOffset": 0,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9809803366661072,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 17,
+            "EndOffset": 22
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9510675072669983,
+            "Text": "RT @Inc",
+            "BeginOffset": 0,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.9965580105781555,
+            "Text": "Amazon",
+            "BeginOffset": 9,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9984996318817139,
+            "Text": "a bookstore",
+            "BeginOffset": 28,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9885339140892029,
+            "Text": "NYC",
+            "BeginOffset": 43,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.8589102029800415,
+            "Text": "your average cozy book nook",
+            "BeginOffset": 74,
+            "EndOffset": 101
+        }
+    ]
+}

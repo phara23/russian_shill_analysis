@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7899032235145569,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9854450821876526,
+            "Type": "ORGANIZATION",
+            "Text": "NNPC",
+            "BeginOffset": 13,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.978031575679779,
+            "Type": "OTHER",
+            "Text": "https://t.co/wRhArVc9PF",
+            "BeginOffset": 45,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.7136736512184143,
+            "Type": "ORGANIZATION",
+            "Text": "@ShipsandPorts",
+            "BeginOffset": 69,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.9998770952224731,
+            "Type": "OTHER",
+            "Text": "https://t.co/OuOlY1xVG6",
+            "BeginOffset": 84,
+            "EndOffset": 107
+        }
+    ]
+}

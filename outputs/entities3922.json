@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5026194453239441,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.868118166923523,
+            "Type": "PERSON",
+            "Text": "@Vapo_Rob",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.6187065839767456,
+            "Type": "QUANTITY",
+            "Text": "69ing",
+            "BeginOffset": 14,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8212143778800964,
+            "Type": "QUANTITY",
+            "Text": "3Words",
+            "BeginOffset": 50,
+            "EndOffset": 56
+        }
+    ]
+}

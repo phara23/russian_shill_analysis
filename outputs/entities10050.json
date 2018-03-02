@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9108049273490906,
+            "Type": "PERSON",
+            "Text": "@LightAlexander",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.19599305093288422,
+            "Type": "PERSON",
+            "Text": "Dogon",
+            "BeginOffset": 20,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.999521017074585,
+            "Type": "OTHER",
+            "Text": "https://t.co/kngNkSj3hU",
+            "BeginOffset": 61,
+            "EndOffset": 84
+        }
+    ]
+}

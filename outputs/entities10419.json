@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9615125060081482,
+            "Type": "PERSON",
+            "Text": "@JohnFromCranber",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.4419654309749603,
+            "Type": "LOCATION",
+            "Text": "Benghazi",
+            "BeginOffset": 66,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9974201917648315,
+            "Type": "OTHER",
+            "Text": "https://t.co/gP17vPHLpI",
+            "BeginOffset": 83,
+            "EndOffset": 106
+        }
+    ]
+}

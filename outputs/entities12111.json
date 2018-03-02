@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8473080992698669,
+            "Type": "PERSON",
+            "Text": "@ArtbyAWOHS",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8234736323356628,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 21,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9996559619903564,
+            "Type": "OTHER",
+            "Text": "https://t.co/7zbzHdnTze",
+            "BeginOffset": 37,
+            "EndOffset": 60
+        }
+    ]
+}

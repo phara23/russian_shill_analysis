@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8878389596939087,
+            "Type": "PERSON",
+            "Text": "@DavidPorkchop",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6318444609642029,
+            "Type": "QUANTITY",
+            "Text": "100DaysToDoList\n\nMilk\nEggs",
+            "BeginOffset": 28,
+            "EndOffset": 54
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8961405754089355,
+            "Type": "PERSON",
+            "Text": "@RobHoey",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9947798252105713,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 30,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9821704626083374,
+            "Type": "ORGANIZATION",
+            "Text": "Al Qaeda",
+            "BeginOffset": 54,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9965392351150513,
+            "Type": "OTHER",
+            "Text": "https://t.co/vX9EHqYBrE",
+            "BeginOffset": 70,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.8992434144020081,
+            "Type": "ORGANIZATION",
+            "Text": "@RobHoey",
+            "BeginOffset": 98,
+            "EndOffset": 106
+        }
+    ]
+}

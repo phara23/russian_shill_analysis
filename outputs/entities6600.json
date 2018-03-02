@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9250139594078064,
+            "Type": "PERSON",
+            "Text": "@AngryCBrown",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7865109443664551,
+            "Type": "ORGANIZATION",
+            "Text": "FACEBOOK",
+            "BeginOffset": 85,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.6717802286148071,
+            "Type": "OTHER",
+            "Text": "https://t.co/LjsncmquLS",
+            "BeginOffset": 121,
+            "EndOffset": 144
+        },
+        {
+            "Score": 0.8452100157737732,
+            "Type": "OTHER",
+            "Text": "http:/…",
+            "BeginOffset": 145,
+            "EndOffset": 152
+        }
+    ]
+}

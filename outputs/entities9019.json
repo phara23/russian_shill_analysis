@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8133581876754761,
+            "Type": "PERSON",
+            "Text": "@allhiphopcom",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.826388955116272,
+            "Type": "QUANTITY",
+            "Text": "40 Drops",
+            "BeginOffset": 20,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9366859197616577,
+            "Type": "QUANTITY",
+            "Text": "Five Figures",
+            "BeginOffset": 29,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9402632117271423,
+            "Type": "OTHER",
+            "Text": "https://t.co/kYJ2GXtHl4",
+            "BeginOffset": 71,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.9998769760131836,
+            "Type": "OTHER",
+            "Text": "https://t.co/9DSIkKlIUP",
+            "BeginOffset": 95,
+            "EndOffset": 118
+        }
+    ]
+}

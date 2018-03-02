@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9990817904472351,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 0,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9948399066925049,
+            "Type": "QUANTITY",
+            "Text": "00,000",
+            "BeginOffset": 21,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9909325838088989,
+            "Type": "ORGANIZATION",
+            "Text": "ISIS",
+            "BeginOffset": 48,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9999616146087646,
+            "Type": "OTHER",
+            "Text": "https://t.co/roEqTd6RZN",
+            "BeginOffset": 100,
+            "EndOffset": 123
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7351081967353821,
+            "Type": "PERSON",
+            "Text": "@mailabull",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9966223239898682,
+            "Type": "PERSON",
+            "Text": "Heather MacDonald",
+            "BeginOffset": 15,
+            "EndOffset": 32
+        }
+    ]
+}

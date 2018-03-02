@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.90822434425354,
+            "Type": "ORGANIZATION",
+            "Text": "DOJ",
+            "BeginOffset": 0,
+            "EndOffset": 3
+        },
+        {
+            "Score": 0.9985547661781311,
+            "Type": "ORGANIZATION",
+            "Text": "FBI",
+            "BeginOffset": 31,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9976971745491028,
+            "Type": "PERSON",
+            "Text": "Eric Garner",
+            "BeginOffset": 54,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9999822378158569,
+            "Type": "OTHER",
+            "Text": "https://t.co/JrXkRi8VDE",
+            "BeginOffset": 86,
+            "EndOffset": 109
+        }
+    ]
+}

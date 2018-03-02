@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.841171383857727,
+            "Type": "PERSON",
+            "Text": "@CharlieSigs",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7279930114746094,
+            "Type": "PERSON",
+            "Text": "@MotherJones",
+            "BeginOffset": 80,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.940425455570221,
+            "Type": "PERSON",
+            "Text": "@KurtSchlichter",
+            "BeginOffset": 93,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.9999891519546509,
+            "Type": "OTHER",
+            "Text": "https://t.co/IwX9gLX4Q0",
+            "BeginOffset": 109,
+            "EndOffset": 132
+        }
+    ]
+}

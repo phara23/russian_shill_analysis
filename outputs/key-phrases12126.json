@@ -1,0 +1,40 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9986399412155151,
+            "Text": "jail",
+            "BeginOffset": 23,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9958917498588562,
+            "Text": "an orange jumpsuit",
+            "BeginOffset": 32,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9936942458152771,
+            "Text": "life",
+            "BeginOffset": 56,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.664243221282959,
+            "Text": "Washington",
+            "BeginOffset": 62,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.9851323962211609,
+            "Text": "Hillary",
+            "BeginOffset": 81,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9370001554489136,
+            "Text": "the ‘email hook",
+            "BeginOffset": 98,
+            "EndOffset": 113
+        }
+    ]
+}

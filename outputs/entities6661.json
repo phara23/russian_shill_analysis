@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8233242630958557,
+            "Type": "PERSON",
+            "Text": "@hdtorch",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9915215969085693,
+            "Type": "DATE",
+            "Text": "2017",
+            "BeginOffset": 26,
+            "EndOffset": 30
+        }
+    ]
+}

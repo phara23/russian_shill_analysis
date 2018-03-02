@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8430127501487732,
+            "Type": "ORGANIZATION",
+            "Text": "@MLP_officiel",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8958014249801636,
+            "Type": "ORGANIZATION",
+            "Text": "@C8TV",
+            "BeginOffset": 65,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9000577330589294,
+            "Type": "OTHER",
+            "Text": "https://t.co/c9tdybpZWa",
+            "BeginOffset": 73,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.6686978340148926,
+            "Type": "ORGANIZATION",
+            "Text": "#AuNomDuPeuple",
+            "BeginOffset": 97,
+            "EndOffset": 111
+        },
+        {
+            "Score": 0.5894896388053894,
+            "Type": "DATE",
+            "Text": "#Marine2017",
+            "BeginOffset": 112,
+            "EndOffset": 123
+        },
+        {
+            "Score": 0.9156504273414612,
+            "Type": "OTHER",
+            "Text": "https://t.co/GU",
+            "BeginOffset": 124,
+            "EndOffset": 139
+        }
+    ]
+}

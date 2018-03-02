@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8469424247741699,
+            "Type": "PERSON",
+            "Text": "@MrNegroMilitant",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9973580241203308,
+            "Type": "PERSON",
+            "Text": "Shaun King",
+            "BeginOffset": 21,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.6836269497871399,
+            "Type": "PERSON",
+            "Text": "Ft. Worth",
+            "BeginOffset": 66,
+            "EndOffset": 75
+        }
+    ]
+}

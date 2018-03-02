@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8072707653045654,
+            "Type": "PERSON",
+            "Text": "@RNRTexas",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9860405325889587,
+            "Type": "PERSON",
+            "Text": "Lindsey Graham",
+            "BeginOffset": 14,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9768914580345154,
+            "Type": "OTHER",
+            "Text": "https://t.co/ZlU1ETkmfE",
+            "BeginOffset": 80,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.835929811000824,
+            "Type": "ORGANIZATION",
+            "Text": "@theblaze",
+            "BeginOffset": 108,
+            "EndOffset": 117
+        }
+    ]
+}

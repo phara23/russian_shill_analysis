@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8191696405410767,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.6552110910415649,
+            "Type": "PERSON",
+            "Text": "Ice Cube",
+            "BeginOffset": 13,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9561929106712341,
+            "Type": "ORGANIZATION",
+            "Text": "20th Century Fox TV",
+            "BeginOffset": 43,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.8838589787483215,
+            "Type": "ORGANIZATION",
+            "Text": "Fox 21",
+            "BeginOffset": 67,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.9915761351585388,
+            "Type": "OTHER",
+            "Text": "https://t.co/9av1Ch69SD",
+            "BeginOffset": 74,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.7613585591316223,
+            "Type": "PERSON",
+            "Text": "@AllBlackMedia",
+            "BeginOffset": 98,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.9999841451644897,
+            "Type": "OTHER",
+            "Text": "https://t.co/cO9O1ICKVG",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        }
+    ]
+}

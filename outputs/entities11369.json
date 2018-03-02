@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8755372762680054,
+            "Type": "PERSON",
+            "Text": "@garyvfoss",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9687557220458984,
+            "Type": "PERSON",
+            "Text": "Santa",
+            "BeginOffset": 37,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9997218251228333,
+            "Type": "OTHER",
+            "Text": "https://t.co/lMc4h1ut3y",
+            "BeginOffset": 89,
+            "EndOffset": 112
+        }
+    ]
+}

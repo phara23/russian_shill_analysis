@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9608831405639648,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 0,
+            "EndOffset": 3
+        },
+        {
+            "Score": 0.8970786929130554,
+            "Type": "TITLE",
+            "Text": "Obamacare",
+            "BeginOffset": 25,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.5770922899246216,
+            "Type": "OTHER",
+            "Text": "https://t.co/fxWVUoURC1",
+            "BeginOffset": 51,
+            "EndOffset": 74
+        }
+    ]
+}

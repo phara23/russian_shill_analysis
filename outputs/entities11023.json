@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9120724201202393,
+            "Type": "PERSON",
+            "Text": "@HalleyBorderCol",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9949236512184143,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 41,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9973827004432678,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 54,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9998916387557983,
+            "Type": "OTHER",
+            "Text": "https://t.co/iFhQpimuxm",
+            "BeginOffset": 94,
+            "EndOffset": 117
+        }
+    ]
+}

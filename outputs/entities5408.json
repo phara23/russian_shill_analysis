@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8585942983627319,
+            "Type": "PERSON",
+            "Text": "@Allin4OleMiss",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9572777152061462,
+            "Type": "PERSON",
+            "Text": "@yellabud",
+            "BeginOffset": 20,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9037245512008667,
+            "Type": "OTHER",
+            "Text": "https://t.co/b",
+            "BeginOffset": 125,
+            "EndOffset": 139
+        }
+    ]
+}

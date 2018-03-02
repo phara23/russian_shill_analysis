@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7688577771186829,
+            "Type": "PERSON",
+            "Text": "@PatrioticTexas",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.916520893573761,
+            "Type": "PERSON",
+            "Text": "Allen West",
+            "BeginOffset": 20,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9908283948898315,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 38,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9879724979400635,
+            "Type": "QUANTITY",
+            "Text": "6 million",
+            "BeginOffset": 54,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9999427795410156,
+            "Type": "OTHER",
+            "Text": "https://t.co/wes7HpHoaX",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        }
+    ]
+}

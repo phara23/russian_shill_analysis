@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9082620739936829,
+            "Type": "PERSON",
+            "Text": "@PamelaGeller",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.40674272179603577,
+            "Type": "PERSON",
+            "Text": "Christian",
+            "BeginOffset": 33,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9937451481819153,
+            "Type": "ORGANIZATION",
+            "Text": "ISIS",
+            "BeginOffset": 45,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9321715235710144,
+            "Type": "ORGANIZATION",
+            "Text": "Muslims",
+            "BeginOffset": 65,
+            "EndOffset": 72
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8278065323829651,
+            "Type": "PERSON",
+            "Text": "@_Proud_American",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9970018863677979,
+            "Type": "PERSON",
+            "Text": "Laura Ingraham",
+            "BeginOffset": 21,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9651627540588379,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 59,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.5999998450279236,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 92,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.9450426697731018,
+            "Type": "QUANTITY",
+            "Text": "First",
+            "BeginOffset": 100,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.9996315240859985,
+            "Type": "OTHER",
+            "Text": "https://t.co/jAY8lN5Gpk",
+            "BeginOffset": 106,
+            "EndOffset": 129
+        }
+    ]
+}

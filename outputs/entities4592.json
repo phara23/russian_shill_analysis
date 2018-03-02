@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7006953358650208,
+            "Type": "ORGANIZATION",
+            "Text": "@NewRepublic",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9964503645896912,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 25,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.8401225805282593,
+            "Type": "OTHER",
+            "Text": "https://t.co/JzUv8GrGCL",
+            "BeginOffset": 63,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9999547004699707,
+            "Type": "OTHER",
+            "Text": "https://t.co/PnSrhFSj3R",
+            "BeginOffset": 87,
+            "EndOffset": 110
+        }
+    ]
+}

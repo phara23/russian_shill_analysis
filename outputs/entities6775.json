@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8880428671836853,
+            "Type": "PERSON",
+            "Text": "@CaeljinX",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.7826492786407471,
+            "Type": "PERSON",
+            "Text": "@HereticOfEthics",
+            "BeginOffset": 14,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9531275033950806,
+            "Type": "PERSON",
+            "Text": "@SilverScarCat",
+            "BeginOffset": 31,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.982791543006897,
+            "Type": "PERSON",
+            "Text": "@PaveDarker",
+            "BeginOffset": 46,
+            "EndOffset": 57
+        }
+    ]
+}

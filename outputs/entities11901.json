@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8776075839996338,
+            "Type": "PERSON",
+            "Text": "@PrisonPlanet",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.6105092167854309,
+            "Type": "ORGANIZATION",
+            "Text": "Russia",
+            "BeginOffset": 18,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.7405102252960205,
+            "Type": "ORGANIZATION",
+            "Text": "Saudi Arabia",
+            "BeginOffset": 87,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.9933924078941345,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 120,
+            "EndOffset": 127
+        }
+    ]
+}

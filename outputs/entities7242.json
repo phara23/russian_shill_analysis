@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.982866108417511,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.8388552665710449,
+            "Type": "QUANTITY",
+            "Text": "111 federal inmates",
+            "BeginOffset": 34,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.8162636756896973,
+            "Type": "OTHER",
+            "Text": "https://t.co/RzKPT0uMQu",
+            "BeginOffset": 54,
+            "EndOffset": 77
+        }
+    ]
+}

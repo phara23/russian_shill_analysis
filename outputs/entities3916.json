@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8298506140708923,
+            "Type": "PERSON",
+            "Text": "@usacsmret",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9973879456520081,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 26,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9999275207519531,
+            "Type": "OTHER",
+            "Text": "https://t.co/OeK9l3AnJE",
+            "BeginOffset": 94,
+            "EndOffset": 117
+        }
+    ]
+}

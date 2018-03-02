@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.37690269947052,
+            "Type": "PERSON",
+            "Text": "#LatinosForTrump",
+            "BeginOffset": 5,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9808459281921387,
+            "Type": "QUANTITY",
+            "Text": "100%",
+            "BeginOffset": 33,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.8545060157775879,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 45,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9998031258583069,
+            "Type": "OTHER",
+            "Text": "https://t.co/IzTitOcv2N",
+            "BeginOffset": 92,
+            "EndOffset": 115
+        }
+    ]
+}

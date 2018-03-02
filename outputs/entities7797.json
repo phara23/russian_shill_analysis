@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9298145771026611,
+            "Type": "PERSON",
+            "Text": "@TalibKweli",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.6271830201148987,
+            "Type": "ORGANIZATION",
+            "Text": "democrats",
+            "BeginOffset": 38,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.8222829699516296,
+            "Type": "PERSON",
+            "Text": "trump",
+            "BeginOffset": 78,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.9990870952606201,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 124,
+            "EndOffset": 131
+        }
+    ]
+}

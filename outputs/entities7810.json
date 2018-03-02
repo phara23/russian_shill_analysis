@@ -1,0 +1,67 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8225892782211304,
+            "Type": "PERSON",
+            "Text": "@kevinaladeen",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9107072353363037,
+            "Type": "PERSON",
+            "Text": "@downbyseashore",
+            "BeginOffset": 18,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.966230571269989,
+            "Type": "PERSON",
+            "Text": "@Pennysplace",
+            "BeginOffset": 34,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9754223823547363,
+            "Type": "PERSON",
+            "Text": "@RCook2011",
+            "BeginOffset": 47,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9974570274353027,
+            "Type": "PERSON",
+            "Text": "@usmarine67",
+            "BeginOffset": 58,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9704872965812683,
+            "Type": "PERSON",
+            "Text": "@JohnWUSMC",
+            "BeginOffset": 70,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.9833950996398926,
+            "Type": "PERSON",
+            "Text": "@KimmiOsborne",
+            "BeginOffset": 81,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.9951037764549255,
+            "Type": "PERSON",
+            "Text": "@RonR55128000",
+            "BeginOffset": 95,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.9665716886520386,
+            "Type": "PERSON",
+            "Text": "@TerranceCreamer",
+            "BeginOffset": 109,
+            "EndOffset": 125
+        }
+    ]
+}

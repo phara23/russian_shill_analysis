@@ -1,0 +1,74 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8900421261787415,
+            "Type": "PERSON",
+            "Text": "@BikinInMaine",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.521385908126831,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 18,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.9646519422531128,
+            "Type": "PERSON",
+            "Text": "@Saint_Obama",
+            "BeginOffset": 21,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9955779910087585,
+            "Type": "PERSON",
+            "Text": "Ted Cruz",
+            "BeginOffset": 35,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.5525925755500793,
+            "Type": "ORGANIZATION",
+            "Text": "MSM DNC",
+            "BeginOffset": 63,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9404042363166809,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 77,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.8393159508705139,
+            "Type": "PERSON",
+            "Text": "Ted",
+            "BeginOffset": 82,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.9063966870307922,
+            "Type": "OTHER",
+            "Text": "https://t.co/zJofDoOgmB",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        },
+        {
+            "Score": 0.4097083806991577,
+            "Type": "PERSON",
+            "Text": "#CruzCrew",
+            "BeginOffset": 120,
+            "EndOffset": 129
+        },
+        {
+            "Score": 0.3793603181838989,
+            "Type": "ORGANIZATION",
+            "Text": "#PJNET",
+            "BeginOffset": 130,
+            "EndOffset": 136
+        }
+    ]
+}

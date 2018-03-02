@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7200175523757935,
+            "Type": "PERSON",
+            "Text": "@FoxNewsInsider",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9812250137329102,
+            "Type": "PERSON",
+            "Text": "@Nigel_Farage",
+            "BeginOffset": 20,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.66798996925354,
+            "Type": "ORGANIZATION",
+            "Text": "@wikileaks",
+            "BeginOffset": 89,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.9966393709182739,
+            "Type": "PERSON",
+            "Text": "Julian Assange",
+            "BeginOffset": 108,
+            "EndOffset": 122
+        },
+        {
+            "Score": 0.9490417838096619,
+            "Type": "OTHER",
+            "Text": "https://t.co/PF4",
+            "BeginOffset": 123,
+            "EndOffset": 139
+        }
+    ]
+}

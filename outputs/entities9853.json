@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8215211033821106,
+            "Type": "PERSON",
+            "Text": "@PoliticsPeach",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9913771152496338,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 56,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9985679984092712,
+            "Type": "PERSON",
+            "Text": "Lynn Rothschild",
+            "BeginOffset": 89,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.963158369064331,
+            "Type": "QUANTITY",
+            "Text": "7yrs",
+            "BeginOffset": 120,
+            "EndOffset": 124
+        },
+        {
+            "Score": 0.9128090143203735,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 134,
+            "EndOffset": 139
+        }
+    ]
+}

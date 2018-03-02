@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8050639033317566,
+            "Type": "PERSON",
+            "Text": "@ync1994",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9884470701217651,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 13,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.7734259963035583,
+            "Type": "LOCATION",
+            "Text": "Pennsylvania",
+            "BeginOffset": 61,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.9898366332054138,
+            "Type": "OTHER",
+            "Text": "https://t.co/MaqTgpJML9",
+            "BeginOffset": 83,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.892378568649292,
+            "Type": "ORGANIZATION",
+            "Text": "@thelastrefuge2",
+            "BeginOffset": 111,
+            "EndOffset": 126
+        }
+    ]
+}

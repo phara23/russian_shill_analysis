@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7880147695541382,
+            "Type": "PERSON",
+            "Text": "@KIRO7",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9351832866668701,
+            "Type": "LOCATION",
+            "Text": "Seattle",
+            "BeginOffset": 9,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9081502556800842,
+            "Type": "ORGANIZATION",
+            "Text": "@SeattlePacific",
+            "BeginOffset": 74,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.9529720544815063,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 132,
+            "EndOffset": 145
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8881020545959473,
+            "Type": "PERSON",
+            "Text": "@TosaCatholic",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9843937158584595,
+            "Type": "DATE",
+            "Text": "Saturday, November 5",
+            "BeginOffset": 57,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.8361504077911377,
+            "Type": "ORGANIZATION",
+            "Text": "St. Pius X",
+            "BeginOffset": 81,
+            "EndOffset": 91
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8559200167655945,
+            "Type": "PERSON",
+            "Text": "@PhillyOnAirNow",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8521831631660461,
+            "Type": "ORGANIZATION",
+            "Text": "NFL",
+            "BeginOffset": 53,
+            "EndOffset": 56
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.90406334400177,
+            "Type": "PERSON",
+            "Text": "@willziz",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9420527815818787,
+            "Type": "PERSON",
+            "Text": "Austyn Crites",
+            "BeginOffset": 13,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9999241232872009,
+            "Type": "OTHER",
+            "Text": "(775) 746-8897",
+            "BeginOffset": 41,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.7920610904693604,
+            "Type": "PERSON",
+            "Text": "@diamondandsilk",
+            "BeginOffset": 111,
+            "EndOffset": 126
+        }
+    ]
+}

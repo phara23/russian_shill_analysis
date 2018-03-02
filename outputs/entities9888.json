@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.873369038105011,
+            "Type": "PERSON",
+            "Text": "@OnionAdCzar",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7332696914672852,
+            "Type": "ORGANIZATION",
+            "Text": "@Heineken_US",
+            "BeginOffset": 27,
+            "EndOffset": 39
+        }
+    ]
+}

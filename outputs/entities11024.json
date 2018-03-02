@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8797421455383301,
+            "Type": "PERSON",
+            "Text": "@ericuman",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9977385997772217,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 17,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.837140679359436,
+            "Type": "PERSON",
+            "Text": "@frankgaffney",
+            "BeginOffset": 35,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9870888590812683,
+            "Type": "PERSON",
+            "Text": "Gaffney",
+            "BeginOffset": 97,
+            "EndOffset": 104
+        }
+    ]
+}

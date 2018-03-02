@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7975413799285889,
+            "Type": "PERSON",
+            "Text": "@isoodlee",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.6090773940086365,
+            "Type": "DATE",
+            "Text": "#2016",
+            "BeginOffset": 14,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9921754002571106,
+            "Type": "QUANTITY",
+            "Text": "4words",
+            "BeginOffset": 21,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9988107681274414,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 34,
+            "EndOffset": 46
+        }
+    ]
+}

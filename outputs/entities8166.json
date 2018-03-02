@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6563869714736938,
+            "Type": "PERSON",
+            "Text": "@TIME",
+            "BeginOffset": 3,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.985230028629303,
+            "Type": "ORGANIZATION",
+            "Text": "FDA",
+            "BeginOffset": 52,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9998241066932678,
+            "Type": "OTHER",
+            "Text": "http://t.co/mQFMeOHTHc",
+            "BeginOffset": 66,
+            "EndOffset": 88
+        }
+    ]
+}

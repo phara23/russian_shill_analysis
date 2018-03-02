@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9375376105308533,
+            "Type": "PERSON",
+            "Text": "@Stevenwhirsch99",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8126299977302551,
+            "Type": "PERSON",
+            "Text": "#Trump",
+            "BeginOffset": 63,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.4649544656276703,
+            "Type": "PERSON",
+            "Text": "#Hillary",
+            "BeginOffset": 81,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.8009896278381348,
+            "Type": "OTHER",
+            "Text": "American",
+            "BeginOffset": 98,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.4123232364654541,
+            "Type": "PERSON",
+            "Text": "#VoteTrump",
+            "BeginOffset": 108,
+            "EndOffset": 118
+        },
+        {
+            "Score": 0.3676868677139282,
+            "Type": "ORGANIZATION",
+            "Text": "#MAGA",
+            "BeginOffset": 119,
+            "EndOffset": 124
+        },
+        {
+            "Score": 0.9742090106010437,
+            "Type": "OTHER",
+            "Text": "https://t.co/J",
+            "BeginOffset": 125,
+            "EndOffset": 139
+        }
+    ]
+}

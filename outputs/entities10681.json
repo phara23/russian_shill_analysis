@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9560863375663757,
+            "Type": "PERSON",
+            "Text": "@MIH_Dee",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8737558722496033,
+            "Type": "PERSON",
+            "Text": "@IanDickson",
+            "BeginOffset": 33,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.876343846321106,
+            "Type": "TITLE",
+            "Text": "The MMIH Show",
+            "BeginOffset": 48,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9845932126045227,
+            "Type": "OTHER",
+            "Text": "https://t.co/zWZ9PWaPvP",
+            "BeginOffset": 95,
+            "EndOffset": 118
+        }
+    ]
+}

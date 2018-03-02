@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9700791835784912,
+            "Type": "PERSON",
+            "Text": "@zvjezdanpatz",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9870073199272156,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 79,
+            "EndOffset": 83
+        }
+    ]
+}

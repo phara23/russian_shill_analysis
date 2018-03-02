@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8695751428604126,
+            "Type": "PERSON",
+            "Text": "Christie",
+            "BeginOffset": 5,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.4492811858654022,
+            "Type": "PERSON",
+            "Text": "Bridgegate",
+            "BeginOffset": 33,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9922457337379456,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 52,
+            "EndOffset": 57
+        }
+    ]
+}

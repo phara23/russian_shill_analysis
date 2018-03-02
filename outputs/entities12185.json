@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6953357458114624,
+            "Type": "PERSON",
+            "Text": "@petefrt",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9918656945228577,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 24,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9329725503921509,
+            "Type": "OTHER",
+            "Text": "https://t.co/CSdBFYhgGP",
+            "BeginOffset": 75,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.634143590927124,
+            "Type": "PERSON",
+            "Text": "#p2",
+            "BeginOffset": 112,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.9999791383743286,
+            "Type": "OTHER",
+            "Text": "https://t.co/3wwEZ45W3m",
+            "BeginOffset": 116,
+            "EndOffset": 139
+        }
+    ]
+}

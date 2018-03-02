@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8893753886222839,
+            "Type": "PERSON",
+            "Text": "@bangolure",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9797319769859314,
+            "Type": "PERSON",
+            "Text": "Alec",
+            "BeginOffset": 32,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.4544699490070343,
+            "Type": "QUANTITY",
+            "Text": "one",
+            "BeginOffset": 64,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9999798536300659,
+            "Type": "OTHER",
+            "Text": "https://t.co/5rLrmP0YAF",
+            "BeginOffset": 102,
+            "EndOffset": 125
+        }
+    ]
+}

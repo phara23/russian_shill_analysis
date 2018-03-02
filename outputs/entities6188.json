@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8281849026679993,
+            "Type": "PERSON",
+            "Text": "@ChgocadChic",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.6853818893432617,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 17,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.637848436832428,
+            "Type": "ORGANIZATION",
+            "Text": "@TermLimits4",
+            "BeginOffset": 20,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.850813627243042,
+            "Type": "ORGANIZATION",
+            "Text": "USC",
+            "BeginOffset": 32,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.48653626441955566,
+            "Type": "ORGANIZATION",
+            "Text": "#TermLimits",
+            "BeginOffset": 79,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9583450555801392,
+            "Type": "OTHER",
+            "Text": "https://t.co/sOFehQNv9y",
+            "BeginOffset": 92,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.47918134927749634,
+            "Type": "ORGANIZATION",
+            "Text": "#COSProject",
+            "BeginOffset": 116,
+            "EndOffset": 127
+        },
+        {
+            "Score": 0.4801466166973114,
+            "Type": "ORGANIZATION",
+            "Text": "#PJNET",
+            "BeginOffset": 128,
+            "EndOffset": 134
+        }
+    ]
+}

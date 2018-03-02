@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7973418235778809,
+            "Type": "PERSON",
+            "Text": "@FairfaxGOP",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8148664236068726,
+            "Type": "PERSON",
+            "Text": "@BarbaraComstock",
+            "BeginOffset": 17,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9402449727058411,
+            "Type": "PERSON",
+            "Text": "@LuAnnBennett",
+            "BeginOffset": 50,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.7013024091720581,
+            "Type": "LOCATION",
+            "Text": "DC",
+            "BeginOffset": 73,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.3599807620048523,
+            "Type": "ORGANIZATION",
+            "Text": "#VA10",
+            "BeginOffset": 121,
+            "EndOffset": 126
+        },
+        {
+            "Score": 0.42374521493911743,
+            "Type": "ORGANIZATION",
+            "Text": "#VA10",
+            "BeginOffset": 128,
+            "EndOffset": 133
+        }
+    ]
+}

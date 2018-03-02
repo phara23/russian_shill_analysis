@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9997609257698059,
+            "Type": "PERSON",
+            "Text": "Gary Johnson",
+            "BeginOffset": 0,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9868724346160889,
+            "Type": "LOCATION",
+            "Text": "Aleppo",
+            "BeginOffset": 34,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9992945194244385,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 42,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.999895453453064,
+            "Type": "OTHER",
+            "Text": "https://t.co/KUK1XgOScA",
+            "BeginOffset": 110,
+            "EndOffset": 133
+        }
+    ]
+}

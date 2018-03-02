@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9632512331008911,
+            "Type": "ORGANIZATION",
+            "Text": "Muslims",
+            "BeginOffset": 0,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.999862790107727,
+            "Type": "OTHER",
+            "Text": "https://t.co/8E6AURNyU2",
+            "BeginOffset": 42,
+            "EndOffset": 65
+        }
+    ]
+}

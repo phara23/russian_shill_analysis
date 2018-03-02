@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8494848608970642,
+            "Type": "PERSON",
+            "Text": "@theinquisitr",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.5002562403678894,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 39,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.8119579553604126,
+            "Type": "LOCATION",
+            "Text": "Russia",
+            "BeginOffset": 70,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.999920129776001,
+            "Type": "OTHER",
+            "Text": "https://t.co/MRjblslKEv",
+            "BeginOffset": 78,
+            "EndOffset": 101
+        }
+    ]
+}

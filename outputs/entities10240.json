@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9233809113502502,
+            "Type": "PERSON",
+            "Text": "@sow_with_vision",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.4721105098724365,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 21,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.787460207939148,
+            "Type": "ORGANIZATION",
+            "Text": "@DrMartyFox",
+            "BeginOffset": 24,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.3313407897949219,
+            "Type": "PERSON",
+            "Text": "#Obama",
+            "BeginOffset": 53,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.7612070441246033,
+            "Type": "ORGANIZATION",
+            "Text": "Homeland Security",
+            "BeginOffset": 108,
+            "EndOffset": 125
+        },
+        {
+            "Score": 0.8453758358955383,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

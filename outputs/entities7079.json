@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9262179136276245,
+            "Type": "PERSON",
+            "Text": "@TheArmyKernel",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.5335919260978699,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 19,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9855440258979797,
+            "Type": "QUANTITY",
+            "Text": "£2.4m",
+            "BeginOffset": 42,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9968670010566711,
+            "Type": "OTHER",
+            "Text": "https://t.co/nhPXbcuPQi",
+            "BeginOffset": 73,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.9798919558525085,
+            "Type": "OTHER",
+            "Text": "https://t.co/kX8",
+            "BeginOffset": 123,
+            "EndOffset": 139
+        }
+    ]
+}

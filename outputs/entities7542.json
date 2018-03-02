@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.93733149766922,
+            "Type": "PERSON",
+            "Text": "@DanaGeezus",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8915615081787109,
+            "Type": "ORGANIZATION",
+            "Text": "Disney",
+            "BeginOffset": 73,
+            "EndOffset": 79
+        }
+    ]
+}

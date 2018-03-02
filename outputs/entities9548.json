@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9986254572868347,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 0,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8412125110626221,
+            "Type": "PERSON",
+            "Text": "President of Libya",
+            "BeginOffset": 20,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9997517466545105,
+            "Type": "OTHER",
+            "Text": "https://t.co/vRpvNabEaa",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        }
+    ]
+}

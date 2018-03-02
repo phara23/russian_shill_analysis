@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9588906168937683,
+            "Type": "DATE",
+            "Text": "Today",
+            "BeginOffset": 10,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7929555177688599,
+            "Type": "PERSON",
+            "Text": "Slain Grad",
+            "BeginOffset": 17,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9964721202850342,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 29,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.5591245293617249,
+            "Type": "PERSON",
+            "Text": "Volkswagen",
+            "BeginOffset": 36,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.8877629637718201,
+            "Type": "PERSON",
+            "Text": "Cookie Dunk",
+            "BeginOffset": 48,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.9256443977355957,
+            "Type": "OTHER",
+            "Text": "https://t.co/HJXokXKFeX",
+            "BeginOffset": 60,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.9999922513961792,
+            "Type": "OTHER",
+            "Text": "https://t.co/pANMEuvFAC",
+            "BeginOffset": 84,
+            "EndOffset": 107
+        }
+    ]
+}

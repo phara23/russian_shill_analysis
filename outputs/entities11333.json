@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4225100874900818,
+            "Type": "PERSON",
+            "Text": "Gescheiterte Ausreise",
+            "BeginOffset": 0,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.5774399638175964,
+            "Type": "PERSON",
+            "Text": "Grund",
+            "BeginOffset": 26,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9999270439147949,
+            "Type": "OTHER",
+            "Text": "https://t.co/MSdqlNAFBV",
+            "BeginOffset": 45,
+            "EndOffset": 68
+        }
+    ]
+}

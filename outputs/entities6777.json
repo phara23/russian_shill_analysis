@@ -1,0 +1,81 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9167212843894958,
+            "Type": "PERSON",
+            "Text": "@CarmineZozzora",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.6908923983573914,
+            "Type": "QUANTITY",
+            "Text": "First",
+            "BeginOffset": 20,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9669176340103149,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 26,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9866503477096558,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 35,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9995537400245667,
+            "Type": "DATE",
+            "Text": "September 26, 2016",
+            "BeginOffset": 53,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9298902750015259,
+            "Type": "PERSON",
+            "Text": "@DanScavino",
+            "BeginOffset": 74,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.9800128936767578,
+            "Type": "PERSON",
+            "Text": "@KellyannePolls",
+            "BeginOffset": 86,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.9749675393104553,
+            "Type": "PERSON",
+            "Text": "@TrumpPence16",
+            "BeginOffset": 102,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.39020299911499023,
+            "Type": "ORGANIZATION",
+            "Text": "#MAGA",
+            "BeginOffset": 116,
+            "EndOffset": 121
+        },
+        {
+            "Score": 0.9367824792861938,
+            "Type": "ORGANIZATION",
+            "Text": "@FoxNews",
+            "BeginOffset": 122,
+            "EndOffset": 130
+        },
+        {
+            "Score": 0.9427715539932251,
+            "Type": "ORGANIZATION",
+            "Text": "@CNN",
+            "BeginOffset": 131,
+            "EndOffset": 135
+        }
+    ]
+}

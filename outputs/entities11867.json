@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9711520075798035,
+            "Type": "LOCATION",
+            "Text": "Mississippi",
+            "BeginOffset": 7,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9996090531349182,
+            "Type": "OTHER",
+            "Text": "https://t.co/JGLhYgZkcT",
+            "BeginOffset": 115,
+            "EndOffset": 138
+        }
+    ]
+}

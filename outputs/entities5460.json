@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9664458632469177,
+            "Type": "PERSON",
+            "Text": "@kittykrumley",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7021245956420898,
+            "Type": "QUANTITY",
+            "Text": "thousand enemies",
+            "BeginOffset": 58,
+            "EndOffset": 74
+        }
+    ]
+}

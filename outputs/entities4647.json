@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8677099943161011,
+            "Type": "PERSON",
+            "Text": "@bluewings442",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.4843527376651764,
+            "Type": "ORGANIZATION",
+            "Text": "HRC",
+            "BeginOffset": 128,
+            "EndOffset": 131
+        }
+    ]
+}

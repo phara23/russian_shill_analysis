@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.812459409236908,
+            "Type": "PERSON",
+            "Text": "@iDavidPro",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8666263222694397,
+            "Type": "PERSON",
+            "Text": "@KattFunny",
+            "BeginOffset": 93,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.9385230541229248,
+            "Type": "QUANTITY",
+            "Text": "1",
+            "BeginOffset": 118,
+            "EndOffset": 119
+        }
+    ]
+}

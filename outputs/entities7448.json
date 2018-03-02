@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7500396370887756,
+            "Type": "PERSON",
+            "Text": "@mashable",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9049550890922546,
+            "Type": "OTHER",
+            "Text": "http://t.co/kjOGSOXeiQ",
+            "BeginOffset": 67,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.9996281862258911,
+            "Type": "OTHER",
+            "Text": "http://t.co/GwWSRyWgZz",
+            "BeginOffset": 90,
+            "EndOffset": 112
+        }
+    ]
+}

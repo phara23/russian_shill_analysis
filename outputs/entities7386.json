@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8386726975440979,
+            "Type": "PERSON",
+            "Text": "@KamVTV",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9578278064727783,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 24,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.8798707127571106,
+            "Type": "PERSON",
+            "Text": "Kaine",
+            "BeginOffset": 73,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.9594300985336304,
+            "Type": "DATE",
+            "Text": "last night",
+            "BeginOffset": 79,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.315001904964447,
+            "Type": "PERSON",
+            "Text": "#AlGore",
+            "BeginOffset": 111,
+            "EndOffset": 118
+        },
+        {
+            "Score": 0.9715196490287781,
+            "Type": "OTHER",
+            "Text": "https://t.c",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

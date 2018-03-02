@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.966106653213501,
+            "Type": "PERSON",
+            "Text": "@horowitz39",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7542009949684143,
+            "Type": "OTHER",
+            "Text": "Palestinian",
+            "BeginOffset": 16,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9996920824050903,
+            "Type": "OTHER",
+            "Text": "https://t.co/ilYYeVEABY",
+            "BeginOffset": 64,
+            "EndOffset": 87
+        }
+    ]
+}

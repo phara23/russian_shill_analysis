@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7630029916763306,
+            "Type": "PERSON",
+            "Text": "@OPSEUSisters",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9563919901847839,
+            "Type": "PERSON",
+            "Text": "@VanJones68",
+            "BeginOffset": 55,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.5334773659706116,
+            "Type": "ORGANIZATION",
+            "Text": "#ProgressGala",
+            "BeginOffset": 70,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.9999594688415527,
+            "Type": "OTHER",
+            "Text": "https://t.co/ns7f14hTVj",
+            "BeginOffset": 84,
+            "EndOffset": 107
+        }
+    ]
+}

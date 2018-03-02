@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7042391896247864,
+            "Type": "PERSON",
+            "Text": "@FiveRights",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8266908526420593,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 35,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.5771990418434143,
+            "Type": "LOCATION",
+            "Text": "Russia",
+            "BeginOffset": 45,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.49292781949043274,
+            "Type": "ORGANIZATION",
+            "Text": "Soros bc",
+            "BeginOffset": 59,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9344943165779114,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 122,
+            "EndOffset": 129
+        }
+    ]
+}

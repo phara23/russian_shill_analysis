@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8757426738739014,
+            "Type": "PERSON",
+            "Text": "@CharisseMSRD",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9350137114524841,
+            "Type": "DATE",
+            "Text": "#September11",
+            "BeginOffset": 100,
+            "EndOffset": 112
+        }
+    ]
+}

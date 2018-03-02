@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9157769680023193,
+            "Type": "PERSON",
+            "Text": "@FrankLuntz",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9995638132095337,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 72,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.9423189759254456,
+            "Type": "LOCATION",
+            "Text": "United States",
+            "BeginOffset": 122,
+            "EndOffset": 135
+        }
+    ]
+}

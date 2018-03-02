@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8387618064880371,
+            "Type": "PERSON",
+            "Text": "@grantstern",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9688565135002136,
+            "Type": "PERSON",
+            "Text": "@Lawrence",
+            "BeginOffset": 17,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.995248019695282,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 46,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9977675676345825,
+            "Type": "QUANTITY",
+            "Text": "58,000",
+            "BeginOffset": 116,
+            "EndOffset": 122
+        }
+    ]
+}

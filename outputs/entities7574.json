@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8171351552009583,
+            "Type": "PERSON",
+            "Text": "@Fahrtnacht",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8767203092575073,
+            "Type": "PERSON",
+            "Text": "@ChelseaClinton",
+            "BeginOffset": 16,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9208006262779236,
+            "Type": "PERSON",
+            "Text": "@devex",
+            "BeginOffset": 32,
+            "EndOffset": 38
+        }
+    ]
+}

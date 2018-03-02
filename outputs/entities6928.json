@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5206499099731445,
+            "Type": "ORGANIZATION",
+            "Text": "democrats",
+            "BeginOffset": 4,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9480991959571838,
+            "Type": "ORGANIZATION",
+            "Text": "republicans",
+            "BeginOffset": 46,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.999976396560669,
+            "Type": "OTHER",
+            "Text": "https://t.co/4pqBIbyox3",
+            "BeginOffset": 81,
+            "EndOffset": 104
+        }
+    ]
+}

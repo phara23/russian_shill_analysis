@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9996766448020935,
+            "Type": "PERSON",
+            "Text": "Bernie Sanders",
+            "BeginOffset": 0,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9969755411148071,
+            "Type": "PERSON",
+            "Text": "Bernie",
+            "BeginOffset": 32,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9715041518211365,
+            "Type": "PERSON",
+            "Text": "Kaine",
+            "BeginOffset": 69,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9896681308746338,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 79,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.40910574793815613,
+            "Type": "PERSON",
+            "Text": "#FeelTheBern",
+            "BeginOffset": 87,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.9998453855514526,
+            "Type": "OTHER",
+            "Text": "https://t.co/6DpvpUs9De",
+            "BeginOffset": 111,
+            "EndOffset": 134
+        }
+    ]
+}

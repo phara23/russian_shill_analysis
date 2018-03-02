@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7772505283355713,
+            "Type": "PERSON",
+            "Text": "@LarcherThanLife",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.4996524453163147,
+            "Type": "ORGANIZATION",
+            "Text": "#WWE",
+            "BeginOffset": 23,
+            "EndOffset": 27
+        }
+    ]
+}

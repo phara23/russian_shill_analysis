@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8051630258560181,
+            "Type": "PERSON",
+            "Text": "@nationallampoon",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9891214966773987,
+            "Type": "DATE",
+            "Text": "Last week",
+            "BeginOffset": 21,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9960490465164185,
+            "Type": "DATE",
+            "Text": "11 am EST",
+            "BeginOffset": 74,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.9412946105003357,
+            "Type": "DATE",
+            "Text": "last week",
+            "BeginOffset": 114,
+            "EndOffset": 123
+        },
+        {
+            "Score": 0.9599777460098267,
+            "Type": "OTHER",
+            "Text": "https://t.co/yD",
+            "BeginOffset": 124,
+            "EndOffset": 139
+        }
+    ]
+}

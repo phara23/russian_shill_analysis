@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8050143718719482,
+            "Type": "PERSON",
+            "Text": "@AntonioFrench",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9550580978393555,
+            "Type": "ORGANIZATION",
+            "Text": "Fox News",
+            "BeginOffset": 19,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9934684038162231,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 66,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.9999862909317017,
+            "Type": "OTHER",
+            "Text": "https://t.co/t5A6zJmxDL",
+            "BeginOffset": 91,
+            "EndOffset": 114
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8892177939414978,
+            "Type": "PERSON",
+            "Text": "@GaltsGirl",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9664562344551086,
+            "Type": "PERSON",
+            "Text": "Alannah Myles",
+            "BeginOffset": 27,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.999922513961792,
+            "Type": "OTHER",
+            "Text": "https://t.co/ho2OgexMi0",
+            "BeginOffset": 58,
+            "EndOffset": 81
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8640897274017334,
+            "Type": "PERSON",
+            "Text": "@BrettFishA",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7739971280097961,
+            "Type": "QUANTITY",
+            "Text": "Seven Brides",
+            "BeginOffset": 16,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.5671681761741638,
+            "Type": "QUANTITY",
+            "Text": "Seven Samurai",
+            "BeginOffset": 33,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.7011668682098389,
+            "Type": "PERSON",
+            "Text": "@midnight",
+            "BeginOffset": 68,
+            "EndOffset": 77
+        }
+    ]
+}

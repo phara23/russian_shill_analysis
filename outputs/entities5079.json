@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5329878330230713,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8571065068244934,
+            "Type": "ORGANIZATION",
+            "Text": "@ABC7",
+            "BeginOffset": 3,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.8592532873153687,
+            "Type": "LOCATION",
+            "Text": "NY",
+            "BeginOffset": 8,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9999000430107117,
+            "Type": "PERSON",
+            "Text": "Ben Affleck",
+            "BeginOffset": 12,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9995137453079224,
+            "Type": "PERSON",
+            "Text": "Jennifer Garner",
+            "BeginOffset": 28,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.7711663842201233,
+            "Type": "DATE",
+            "Text": "after 10 years",
+            "BeginOffset": 50,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.8353464007377625,
+            "Type": "OTHER",
+            "Text": "http://t.co/b1XSCRoLsY",
+            "BeginOffset": 78,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.9999642372131348,
+            "Type": "OTHER",
+            "Text": "http://t.co/3LymKH8wrW",
+            "BeginOffset": 101,
+            "EndOffset": 123
+        }
+    ]
+}

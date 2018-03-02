@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7346292734146118,
+            "Type": "PERSON",
+            "Text": "@ACLJ",
+            "BeginOffset": 3,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.8637451529502869,
+            "Type": "ORGANIZATION",
+            "Text": "Christians",
+            "BeginOffset": 10,
+            "EndOffset": 20
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8580426573753357,
+            "Type": "PERSON",
+            "Text": "@thebluemaverick",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8654384016990662,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 100,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.9709942936897278,
+            "Type": "PERSON",
+            "Text": "Trum",
+            "BeginOffset": 132,
+            "EndOffset": 136
+        }
+    ]
+}

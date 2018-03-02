@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5075703859329224,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.6882970333099365,
+            "Type": "PERSON",
+            "Text": "@PoundSignGames",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.2969605326652527,
+            "Type": "ORGANIZATION",
+            "Text": "#GameAlert",
+            "BeginOffset": 20,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.7236153483390808,
+            "Type": "EVENT",
+            "Text": "#MeanGirls Day",
+            "BeginOffset": 37,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.7894704937934875,
+            "Type": "PERSON",
+            "Text": "@GiselleE",
+            "BeginOffset": 130,
+            "EndOffset": 139
+        }
+    ]
+}

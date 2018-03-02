@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.899844229221344,
+            "Type": "ORGANIZATION",
+            "Text": "Chicago Barebacks",
+            "BeginOffset": 0,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7592559456825256,
+            "Type": "PERSON",
+            "Text": "@midnight",
+            "BeginOffset": 30,
+            "EndOffset": 39
+        }
+    ]
+}

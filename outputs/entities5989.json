@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9133941531181335,
+            "Type": "PERSON",
+            "Text": "@JohnTiegen",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9254830479621887,
+            "Type": "PERSON",
+            "Text": "@andrewstxfan",
+            "BeginOffset": 16,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.5473467707633972,
+            "Type": "ORGANIZATION",
+            "Text": "AHS",
+            "BeginOffset": 42,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9842970371246338,
+            "Type": "DATE",
+            "Text": "this morning",
+            "BeginOffset": 46,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.833500325679779,
+            "Type": "PERSON",
+            "Text": "James Roberts",
+            "BeginOffset": 63,
+            "EndOffset": 76
+        }
+    ]
+}

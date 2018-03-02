@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9973782300949097,
+            "Type": "ORGANIZATION",
+            "Text": "CNN",
+            "BeginOffset": 45,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9940206408500671,
+            "Type": "ORGANIZATION",
+            "Text": "BBC",
+            "BeginOffset": 52,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.99967360496521,
+            "Type": "OTHER",
+            "Text": "https://t.co/enu9ANbSSA",
+            "BeginOffset": 104,
+            "EndOffset": 127
+        }
+    ]
+}

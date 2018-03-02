@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7368570566177368,
+            "Type": "PERSON",
+            "Text": "@Sober",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.7441131472587585,
+            "Type": "QUANTITY",
+            "Text": "297: 30",
+            "BeginOffset": 9,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9472355246543884,
+            "Type": "ORGANIZATION",
+            "Text": "Democrats",
+            "BeginOffset": 17,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.7614393830299377,
+            "Type": "OTHER",
+            "Text": "Russian",
+            "BeginOffset": 51,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9787367582321167,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 82,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.5132512450218201,
+            "Type": "ORGANIZATION",
+            "Text": "Liberals",
+            "BeginOffset": 89,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.999900221824646,
+            "Type": "OTHER",
+            "Text": "https://t.co/3uIBo9wmSr",
+            "BeginOffset": 115,
+            "EndOffset": 138
+        }
+    ]
+}

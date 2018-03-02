@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8568632006645203,
+            "Type": "ORGANIZATION",
+            "Text": "@AP",
+            "BeginOffset": 3,
+            "EndOffset": 6
+        },
+        {
+            "Score": 0.5604681372642517,
+            "Type": "ORGANIZATION",
+            "Text": "Iran",
+            "BeginOffset": 18,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.7641766667366028,
+            "Type": "LOCATION",
+            "Text": "U.S.",
+            "BeginOffset": 81,
+            "EndOffset": 85
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8939423561096191,
+            "Type": "PERSON",
+            "Text": "@weknowwhatsbest",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9692234992980957,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 34,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9383446574211121,
+            "Type": "QUANTITY",
+            "Text": "6 bil",
+            "BeginOffset": 52,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.8955233693122864,
+            "Type": "QUANTITY",
+            "Text": "225 mil",
+            "BeginOffset": 81,
+            "EndOffset": 88
+        }
+    ]
+}

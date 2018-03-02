@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8760731816291809,
+            "Type": "PERSON",
+            "Text": "@AmyMek",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.5009328126907349,
+            "Type": "OTHER",
+            "Text": "Syrian",
+            "BeginOffset": 54,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9303410053253174,
+            "Type": "DATE",
+            "Text": "last night",
+            "BeginOffset": 81,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.8972110152244568,
+            "Type": "LOCATION",
+            "Text": "Chicago",
+            "BeginOffset": 92,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.7729417085647583,
+            "Type": "LOCATION",
+            "Text": "O'Hare Airport",
+            "BeginOffset": 102,
+            "EndOffset": 116
+        }
+    ]
+}

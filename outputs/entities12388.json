@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.37731558084487915,
+            "Type": "PERSON",
+            "Text": "#SanBernardino",
+            "BeginOffset": 0,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9414868950843811,
+            "Type": "LOCATION",
+            "Text": "California",
+            "BeginOffset": 42,
+            "EndOffset": 52
+        }
+    ]
+}

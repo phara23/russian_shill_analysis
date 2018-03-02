@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.48872849345207214,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.646379828453064,
+            "Type": "ORGANIZATION",
+            "Text": "@IntheNow_",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9946191310882568,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 40,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9998620748519897,
+            "Type": "OTHER",
+            "Text": "https://t.co/ZkZ1hpNotG",
+            "BeginOffset": 92,
+            "EndOffset": 115
+        }
+    ]
+}

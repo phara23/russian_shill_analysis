@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7918628454208374,
+            "Type": "PERSON",
+            "Text": "@mombot",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.6506235599517822,
+            "Type": "TITLE",
+            "Text": "Mechwarrior",
+            "BeginOffset": 45,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9202985763549805,
+            "Type": "TITLE",
+            "Text": "Mechwarrior",
+            "BeginOffset": 101,
+            "EndOffset": 112
+        }
+    ]
+}

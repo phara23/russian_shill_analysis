@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9331671595573425,
+            "Type": "PERSON",
+            "Text": "@LeahR77",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.39138084650039673,
+            "Type": "QUANTITY",
+            "Text": "Millions",
+            "BeginOffset": 85,
+            "EndOffset": 93
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9396100044250488,
+            "Type": "PERSON",
+            "Text": "@drscott_atlanta",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.6136017441749573,
+            "Type": "PERSON",
+            "Text": "#Hillary",
+            "BeginOffset": 57,
+            "EndOffset": 65
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7786227464675903,
+            "Type": "PERSON",
+            "Text": "@DogsOfSample",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.6758696436882019,
+            "Type": "DATE",
+            "Text": "#2017",
+            "BeginOffset": 18,
+            "EndOffset": 23
+        }
+    ]
+}

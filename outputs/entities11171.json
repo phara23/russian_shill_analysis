@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9261635541915894,
+            "Type": "PERSON",
+            "Text": "@ezraklein",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9772146344184875,
+            "Type": "PERSON",
+            "Text": "Streep",
+            "BeginOffset": 30,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9795474410057068,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 60,
+            "EndOffset": 65
+        }
+    ]
+}

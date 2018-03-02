@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7933372855186462,
+            "Type": "PERSON",
+            "Text": "@MedianPolitics",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9386135935783386,
+            "Type": "PERSON",
+            "Text": "@tedcruz",
+            "BeginOffset": 21,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9316257834434509,
+            "Type": "PERSON",
+            "Text": "@MariviGarces",
+            "BeginOffset": 30,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.8643258213996887,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 44,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9999141693115234,
+            "Type": "OTHER",
+            "Text": "https://t.co/MkgD8RfQH8",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        }
+    ]
+}

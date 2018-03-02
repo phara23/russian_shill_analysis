@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8362932801246643,
+            "Type": "PERSON",
+            "Text": "@TrumpSpeaks4",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.751720666885376,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 16,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9819958209991455,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 24,
+            "EndOffset": 31
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9824325442314148,
+            "Type": "PERSON",
+            "Text": "@RobertJohnDavi",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9756218194961548,
+            "Type": "DATE",
+            "Text": "1978",
+            "BeginOffset": 30,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.999843955039978,
+            "Type": "OTHER",
+            "Text": "https://t.co/rvIpECIzFs",
+            "BeginOffset": 37,
+            "EndOffset": 60
+        }
+    ]
+}

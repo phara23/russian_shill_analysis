@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.948570191860199,
+            "Type": "PERSON",
+            "Text": "@TallahForTrump",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9999772310256958,
+            "Type": "OTHER",
+            "Text": "https://t.co/h6xXLFMNvM",
+            "BeginOffset": 61,
+            "EndOffset": 84
+        }
+    ]
+}

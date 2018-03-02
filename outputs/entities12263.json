@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7824066281318665,
+            "Type": "PERSON",
+            "Text": "@unKleBING",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9699591994285583,
+            "Type": "DATE",
+            "Text": "2017",
+            "BeginOffset": 18,
+            "EndOffset": 22
+        }
+    ]
+}

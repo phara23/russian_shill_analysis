@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8400766253471375,
+            "Type": "PERSON",
+            "Text": "@jacecaudwell",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7481889128684998,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 18,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9500781893730164,
+            "Type": "QUANTITY",
+            "Text": "67%",
+            "BeginOffset": 34,
+            "EndOffset": 37
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8173031210899353,
+            "Type": "PERSON",
+            "Text": "@BAMAPERRY",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9980305433273315,
+            "Type": "PERSON",
+            "Text": "George Soros",
+            "BeginOffset": 35,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.830194890499115,
+            "Type": "QUANTITY",
+            "Text": "Over 50 Times",
+            "BeginOffset": 58,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.5369530320167542,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 82,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.9998975992202759,
+            "Type": "OTHER",
+            "Text": "https://t.co/arWnu7vXVY",
+            "BeginOffset": 107,
+            "EndOffset": 130
+        }
+    ]
+}

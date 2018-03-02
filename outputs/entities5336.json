@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9065766930580139,
+            "Type": "PERSON",
+            "Text": "@chatwithjill",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9389477372169495,
+            "Type": "OTHER",
+            "Text": "http://t.co/XCVQ0Y3AZZ",
+            "BeginOffset": 83,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.9999767541885376,
+            "Type": "OTHER",
+            "Text": "http://t.co/6T1y5NqAq9",
+            "BeginOffset": 106,
+            "EndOffset": 128
+        }
+    ]
+}

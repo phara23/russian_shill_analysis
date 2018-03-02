@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5045955777168274,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.9637534618377686,
+            "Type": "PERSON",
+            "Text": "@Rob_Flaherty",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9526479244232178,
+            "Type": "ORGANIZATION",
+            "Text": "twitter",
+            "BeginOffset": 24,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9999562501907349,
+            "Type": "OTHER",
+            "Text": "https://t.co/124iG1Hhru",
+            "BeginOffset": 107,
+            "EndOffset": 130
+        }
+    ]
+}

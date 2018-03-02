@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9359853863716125,
+            "Type": "PERSON",
+            "Text": "@dmb1031",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9933606386184692,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 24,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9999420642852783,
+            "Type": "OTHER",
+            "Text": "https://t.co/Qmog6EIpAo",
+            "BeginOffset": 108,
+            "EndOffset": 131
+        }
+    ]
+}

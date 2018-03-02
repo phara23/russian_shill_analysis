@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.999862015247345,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 0,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9990569949150085,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 20,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9943662881851196,
+            "Type": "LOCATION",
+            "Text": "Ohio",
+            "BeginOffset": 60,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9546045064926147,
+            "Type": "QUANTITY",
+            "Text": "6 takeaways",
+            "BeginOffset": 66,
+            "EndOffset": 77
+        }
+    ]
+}

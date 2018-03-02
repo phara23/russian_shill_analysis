@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8371890187263489,
+            "Type": "ORGANIZATION",
+            "Text": "@B4",
+            "BeginOffset": 4,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.8427756428718567,
+            "Type": "OTHER",
+            "Text": "https://t.co/0vIPVBr8DE",
+            "BeginOffset": 82,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.4321017861366272,
+            "Type": "ORGANIZATION",
+            "Text": "#tcot",
+            "BeginOffset": 106,
+            "EndOffset": 111
+        }
+    ]
+}

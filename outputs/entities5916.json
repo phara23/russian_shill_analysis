@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9200339913368225,
+            "Type": "PERSON",
+            "Text": "@ErikHandy",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8757449388504028,
+            "Type": "DATE",
+            "Text": "Friday The 13th",
+            "BeginOffset": 15,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9942893981933594,
+            "Type": "PERSON",
+            "Text": "Jason",
+            "BeginOffset": 44,
+            "EndOffset": 49
+        }
+    ]
+}

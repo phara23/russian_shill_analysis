@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9320486783981323,
+            "Type": "PERSON",
+            "Text": "@TrumpPence45",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9999291896820068,
+            "Type": "OTHER",
+            "Text": "https://t.co/Hu5HkYC8FK",
+            "BeginOffset": 40,
+            "EndOffset": 63
+        }
+    ]
+}

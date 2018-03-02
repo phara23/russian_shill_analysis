@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9979370832443237,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9651215672492981,
+            "Type": "QUANTITY",
+            "Text": "88 generals",
+            "BeginOffset": 91,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.9999480247497559,
+            "Type": "OTHER",
+            "Text": "https://t.co/WP9wehoxbP",
+            "BeginOffset": 114,
+            "EndOffset": 137
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8851083517074585,
+            "Type": "PERSON",
+            "Text": "@schotziejlk",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.4139355719089508,
+            "Type": "QUANTITY",
+            "Text": "4",
+            "BeginOffset": 27,
+            "EndOffset": 28
+        }
+    ]
+}

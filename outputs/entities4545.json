@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.91375732421875,
+            "Type": "PERSON",
+            "Text": "Bin Laden",
+            "BeginOffset": 19,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9880593419075012,
+            "Type": "OTHER",
+            "Text": "https://t.co/IS5F0kxLRD",
+            "BeginOffset": 70,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.9999511241912842,
+            "Type": "OTHER",
+            "Text": "https://t.co/hZ1R2aL54V",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9551032781600952,
+            "Type": "PERSON",
+            "Text": "@Anna_ohlala",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9316368103027344,
+            "Type": "ORGANIZATION",
+            "Text": "Delta",
+            "BeginOffset": 17,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9927862286567688,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 32,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9772273898124695,
+            "Type": "OTHER",
+            "Text": "https://t.co/Zt85Sl9nFz",
+            "BeginOffset": 64,
+            "EndOffset": 87
+        }
+    ]
+}

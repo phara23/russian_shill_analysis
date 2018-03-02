@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8015255331993103,
+            "Type": "PERSON",
+            "Text": "@Taxpayers1234",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8867911100387573,
+            "Type": "PERSON",
+            "Text": "@Olivianuzzi",
+            "BeginOffset": 19,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9646392464637756,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 32,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.6761037707328796,
+            "Type": "OTHER",
+            "Text": "Americans",
+            "BeginOffset": 45,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9040044546127319,
+            "Type": "LOCATION",
+            "Text": "#Benghazi",
+            "BeginOffset": 81,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9478437304496765,
+            "Type": "PERSON",
+            "Text": "@ajenable",
+            "BeginOffset": 92,
+            "EndOffset": 101
+        }
+    ]
+}

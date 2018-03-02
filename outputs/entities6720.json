@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8601085543632507,
+            "Type": "PERSON",
+            "Text": "@mc_morn",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9902840256690979,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 13,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.7329079508781433,
+            "Type": "DATE",
+            "Text": "This Week",
+            "BeginOffset": 68,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.8054342269897461,
+            "Type": "OTHER",
+            "Text": "https://t.co/CelbOyXgXV",
+            "BeginOffset": 78,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.9999873638153076,
+            "Type": "OTHER",
+            "Text": "https://t.co/bq02HpW7ec",
+            "BeginOffset": 102,
+            "EndOffset": 125
+        }
+    ]
+}

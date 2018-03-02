@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.752040445804596,
+            "Type": "PERSON",
+            "Text": "#TopVideo Obama",
+            "BeginOffset": 0,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7564425468444824,
+            "Type": "LOCATION",
+            "Text": "China",
+            "BeginOffset": 27,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9999700784683228,
+            "Type": "OTHER",
+            "Text": "https://t.co/fYti68f6s3",
+            "BeginOffset": 45,
+            "EndOffset": 68
+        }
+    ]
+}

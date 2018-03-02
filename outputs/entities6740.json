@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8020256161689758,
+            "Type": "PERSON",
+            "Text": "@stillgray",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.7134810090065002,
+            "Type": "PERSON",
+            "Text": "@heatstreet",
+            "BeginOffset": 18,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.827599823474884,
+            "Type": "ORGANIZATION",
+            "Text": "RPS",
+            "BeginOffset": 31,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9984824657440186,
+            "Type": "PERSON",
+            "Text": "John Walker",
+            "BeginOffset": 37,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.8638089895248413,
+            "Type": "TITLE",
+            "Text": "Mafia II",
+            "BeginOffset": 56,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9972071051597595,
+            "Type": "TITLE",
+            "Text": "Mafia III",
+            "BeginOffset": 69,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.9760826826095581,
+            "Type": "OTHER",
+            "Text": "https://t.co/7hxAP",
+            "BeginOffset": 121,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8610959649085999,
+            "Type": "PERSON",
+            "Text": "@DMashak",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.7975442409515381,
+            "Type": "ORGANIZATION",
+            "Text": "@wikileaks",
+            "BeginOffset": 27,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.7018751502037048,
+            "Type": "ORGANIZATION",
+            "Text": "@TheView",
+            "BeginOffset": 38,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.8935158848762512,
+            "Type": "ORGANIZATION",
+            "Text": "@debates",
+            "BeginOffset": 47,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.938369870185852,
+            "Type": "ORGANIZATION",
+            "Text": "@CRNC",
+            "BeginOffset": 56,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9101053476333618,
+            "Type": "ORGANIZATION",
+            "Text": "@CollegeDems",
+            "BeginOffset": 62,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.874066174030304,
+            "Type": "ORGANIZATION",
+            "Text": "@PJStrikeForce",
+            "BeginOffset": 75,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.788216769695282,
+            "Type": "ORGANIZATION",
+            "Text": "@PrisonPlanet",
+            "BeginOffset": 90,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.7343013286590576,
+            "Type": "ORGANIZATION",
+            "Text": "@LindaSuhler",
+            "BeginOffset": 104,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.7518872618675232,
+            "Type": "ORGANIZATION",
+            "Text": "@JaredWyand",
+            "BeginOffset": 117,
+            "EndOffset": 128
+        },
+        {
+            "Score": 0.866553544998169,
+            "Type": "ORGANIZATION",
+            "Text": "@ThePoliti",
+            "BeginOffset": 129,
+            "EndOffset": 139
+        }
+    ]
+}

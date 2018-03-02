@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9437756538391113,
+            "Type": "PERSON",
+            "Text": "@MissAngelaDavis",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.7490094900131226,
+            "Type": "ORGANIZATION",
+            "Text": "IG",
+            "BeginOffset": 33,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9994340538978577,
+            "Type": "OTHER",
+            "Text": "https://t.co/lByoHambvS",
+            "BeginOffset": 59,
+            "EndOffset": 82
+        }
+    ]
+}

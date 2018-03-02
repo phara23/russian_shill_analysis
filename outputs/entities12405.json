@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8161506056785583,
+            "Type": "PERSON",
+            "Text": "@abusedtaxpayer",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.4405707120895386,
+            "Type": "PERSON",
+            "Text": "Barrys",
+            "BeginOffset": 31,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9958750605583191,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 59,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.7803752422332764,
+            "Type": "QUANTITY",
+            "Text": "4 peaceful transfer",
+            "BeginOffset": 73,
+            "EndOffset": 92
+        }
+    ]
+}

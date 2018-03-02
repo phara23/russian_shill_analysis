@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.792887270450592,
+            "Type": "PERSON",
+            "Text": "@cjtweetstation",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9946303367614746,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 20,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9985525012016296,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 29,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.6459763050079346,
+            "Type": "QUANTITY",
+            "Text": "both",
+            "BeginOffset": 38,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.7733818292617798,
+            "Type": "OTHER",
+            "Text": "Egyptian",
+            "BeginOffset": 53,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.7713117003440857,
+            "Type": "ORGANIZATION",
+            "Text": "U.N.",
+            "BeginOffset": 75,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.9781776666641235,
+            "Type": "OTHER",
+            "Text": "https://t.co/pQygAwTKSx",
+            "BeginOffset": 82,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.679205060005188,
+            "Type": "ORGANIZATION",
+            "Text": "#PolicticalNews",
+            "BeginOffset": 106,
+            "EndOffset": 121
+        }
+    ]
+}

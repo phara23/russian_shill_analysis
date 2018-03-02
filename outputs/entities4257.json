@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.859362006187439,
+            "Type": "PERSON",
+            "Text": "@Patriotancestry",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8205864429473877,
+            "Type": "ORGANIZATION",
+            "Text": "Muslim",
+            "BeginOffset": 81,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.9938480257987976,
+            "Type": "OTHER",
+            "Text": "https://t.co/tA5gDKdQGT",
+            "BeginOffset": 88,
+            "EndOffset": 111
+        },
+        {
+            "Score": 0.9109148979187012,
+            "Type": "ORGANIZATION",
+            "Text": "@MailOnline",
+            "BeginOffset": 116,
+            "EndOffset": 127
+        }
+    ]
+}

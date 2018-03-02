@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7996006011962891,
+            "Type": "ORGANIZATION",
+            "Text": "@Tea_Party",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9671611189842224,
+            "Type": "PERSON",
+            "Text": "Chris",
+            "BeginOffset": 14,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9999793767929077,
+            "Type": "OTHER",
+            "Text": "https://t.co/l1I0r2yjko",
+            "BeginOffset": 83,
+            "EndOffset": 106
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.924543559551239,
+            "Type": "PERSON",
+            "Text": "@dmcgowen1776",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8251241445541382,
+            "Type": "ORGANIZATION",
+            "Text": "Wikileaks",
+            "BeginOffset": 34,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.8248777985572815,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 68,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.924665629863739,
+            "Type": "OTHER",
+            "Text": "https://t.co/3TggTSpbjU",
+            "BeginOffset": 85,
+            "EndOffset": 108
+        }
+    ]
+}

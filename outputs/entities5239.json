@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9116292595863342,
+            "Type": "PERSON",
+            "Text": "@TeamTrump",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9347522258758545,
+            "Type": "QUANTITY",
+            "Text": "164 military leaders",
+            "BeginOffset": 32,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9669411778450012,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 66,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.9946774244308472,
+            "Type": "OTHER",
+            "Text": "https://t.co/4ARFA5R9",
+            "BeginOffset": 118,
+            "EndOffset": 139
+        }
+    ]
+}

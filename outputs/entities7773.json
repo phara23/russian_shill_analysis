@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8703828454017639,
+            "Type": "PERSON",
+            "Text": "@chuckwoolery",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9837474226951599,
+            "Type": "DATE",
+            "Text": "This week",
+            "BeginOffset": 18,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9940923452377319,
+            "Type": "QUANTITY",
+            "Text": "5-min",
+            "BeginOffset": 35,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9765610694885254,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 79,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.8904476165771484,
+            "Type": "OTHER",
+            "Text": "Filipino",
+            "BeginOffset": 93,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.9930644631385803,
+            "Type": "OTHER",
+            "Text": "https://t.co/Rs7GTF",
+            "BeginOffset": 124,
+            "EndOffset": 143
+        }
+    ]
+}

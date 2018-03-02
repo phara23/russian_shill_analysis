@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9944444298744202,
+            "Type": "PERSON",
+            "Text": "Sanders",
+            "BeginOffset": 0,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.9977056384086609,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 9,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9995529651641846,
+            "Type": "PERSON",
+            "Text": "Bernie Sanders",
+            "BeginOffset": 48,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.923266589641571,
+            "Type": "LOCATION",
+            "Text": "Michigan",
+            "BeginOffset": 72,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.8541198968887329,
+            "Type": "OTHER",
+            "Text": "https://t.co/i37GqhGsKP",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        }
+    ]
+}

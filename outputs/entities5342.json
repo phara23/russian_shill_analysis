@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8947874307632446,
+            "Type": "PERSON",
+            "Text": "@AaronBlake",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9434152245521545,
+            "Type": "QUANTITY",
+            "Text": "20%",
+            "BeginOffset": 16,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9787492156028748,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 23,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9930765628814697,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 80,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.9844600558280945,
+            "Type": "QUANTITY",
+            "Text": "24%",
+            "BeginOffset": 89,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.9999450445175171,
+            "Type": "OTHER",
+            "Text": "https://t.co/9sktqDhHvl",
+            "BeginOffset": 95,
+            "EndOffset": 118
+        }
+    ]
+}

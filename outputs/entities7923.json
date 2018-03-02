@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8503124117851257,
+            "Type": "PERSON",
+            "Text": "@vivelafra",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9989968538284302,
+            "Type": "PERSON",
+            "Text": "Ronald Reagan",
+            "BeginOffset": 15,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.7213895320892334,
+            "Type": "OTHER",
+            "Text": "American",
+            "BeginOffset": 31,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.4505077302455902,
+            "Type": "QUANTITY",
+            "Text": "one",
+            "BeginOffset": 49,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9505208730697632,
+            "Type": "ORGANIZATION",
+            "Text": "Democrats",
+            "BeginOffset": 112,
+            "EndOffset": 121
+        },
+        {
+            "Score": 0.7519155144691467,
+            "Type": "PERSON",
+            "Text": "#Trump",
+            "BeginOffset": 124,
+            "EndOffset": 130
+        }
+    ]
+}

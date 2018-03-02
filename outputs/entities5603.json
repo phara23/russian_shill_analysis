@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8581116795539856,
+            "Type": "PERSON",
+            "Text": "@IngrahamAngle",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.775297999382019,
+            "Type": "ORGANIZATION",
+            "Text": "@WSJopinion",
+            "BeginOffset": 52,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.6229949593544006,
+            "Type": "ORGANIZATION",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 83,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.9998302459716797,
+            "Type": "OTHER",
+            "Text": "https://t.co/L5GuiTGb6K",
+            "BeginOffset": 116,
+            "EndOffset": 139
+        }
+    ]
+}

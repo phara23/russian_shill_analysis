@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8165825605392456,
+            "Type": "PERSON",
+            "Text": "@chuckwoolery",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9606150984764099,
+            "Type": "ORGANIZATION",
+            "Text": "Congress",
+            "BeginOffset": 18,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.944070041179657,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 41,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.463505357503891,
+            "Type": "LOCATION",
+            "Text": "Israeli",
+            "BeginOffset": 79,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9999428987503052,
+            "Type": "OTHER",
+            "Text": "https://t.co/NWCF5mm7P0",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        }
+    ]
+}

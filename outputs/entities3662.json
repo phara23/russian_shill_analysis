@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.973324179649353,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.632530927658081,
+            "Type": "PERSON",
+            "Text": "@foxandfriends",
+            "BeginOffset": 46,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9263154864311218,
+            "Type": "DATE",
+            "Text": "7:00 A.M.",
+            "BeginOffset": 64,
+            "EndOffset": 73
+        }
+    ]
+}

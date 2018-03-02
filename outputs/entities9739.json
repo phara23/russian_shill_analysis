@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.999442458152771,
+            "Type": "PERSON",
+            "Text": "Tim Kaine",
+            "BeginOffset": 0,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9996870756149292,
+            "Type": "OTHER",
+            "Text": "https://t.co/KE7e6oIHK2",
+            "BeginOffset": 59,
+            "EndOffset": 82
+        }
+    ]
+}

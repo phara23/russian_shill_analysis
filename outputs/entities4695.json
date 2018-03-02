@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.919864296913147,
+            "Type": "PERSON",
+            "Text": "@TeamTrump",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9940478801727295,
+            "Type": "ORGANIZATION",
+            "Text": "FBI",
+            "BeginOffset": 35,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9930626749992371,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 59,
+            "EndOffset": 66
+        }
+    ]
+}

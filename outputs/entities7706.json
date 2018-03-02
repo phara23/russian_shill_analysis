@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7448564171791077,
+            "Type": "ORGANIZATION",
+            "Text": "White House",
+            "BeginOffset": 32,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.7533900141716003,
+            "Type": "LOCATION",
+            "Text": "Seychelles",
+            "BeginOffset": 83,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.9999346733093262,
+            "Type": "OTHER",
+            "Text": "https://t.co/JzOFDw9unc",
+            "BeginOffset": 94,
+            "EndOffset": 117
+        }
+    ]
+}

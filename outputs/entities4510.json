@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9401511549949646,
+            "Type": "PERSON",
+            "Text": "@wjhenn",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.41672369837760925,
+            "Type": "LOCATION",
+            "Text": "#Baltimore",
+            "BeginOffset": 35,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9769794344902039,
+            "Type": "LOCATION",
+            "Text": "Pennsylvania",
+            "BeginOffset": 102,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.9999791383743286,
+            "Type": "OTHER",
+            "Text": "https://t.co/bHH8XIQ2bq",
+            "BeginOffset": 116,
+            "EndOffset": 139
+        }
+    ]
+}

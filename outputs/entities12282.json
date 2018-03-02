@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.853444516658783,
+            "Type": "PERSON",
+            "Text": "@NOrleansDaily",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8173351287841797,
+            "Type": "ORGANIZATION",
+            "Text": "Jacksonville Jaguars",
+            "BeginOffset": 19,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.710783839225769,
+            "Type": "EVENT",
+            "Text": "NFL Draft",
+            "BeginOffset": 53,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.415140300989151,
+            "Type": "EVENT",
+            "Text": "ACL",
+            "BeginOffset": 85,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9102998375892639,
+            "Type": "QUANTITY",
+            "Text": "first practice",
+            "BeginOffset": 99,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.37431883811950684,
+            "Type": "ORGANIZATION",
+            "Text": "#news",
+            "BeginOffset": 128,
+            "EndOffset": 133
+        }
+    ]
+}

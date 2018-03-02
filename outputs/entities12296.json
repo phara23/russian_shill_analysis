@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8458743095397949,
+            "Type": "PERSON",
+            "Text": "@osPatriot",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9011140465736389,
+            "Type": "PERSON",
+            "Text": "@megynkelly",
+            "BeginOffset": 26,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.8186700940132141,
+            "Type": "PERSON",
+            "Text": "#KellyFile",
+            "BeginOffset": 38,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.972594141960144,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 74,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.558170735836029,
+            "Type": "PERSON",
+            "Text": "Glee",
+            "BeginOffset": 105,
+            "EndOffset": 109
+        }
+    ]
+}

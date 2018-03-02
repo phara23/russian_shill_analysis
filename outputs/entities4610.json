@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9476979374885559,
+            "Type": "PERSON",
+            "Text": "Giuliani",
+            "BeginOffset": 0,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.9974881410598755,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 17,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.759990394115448,
+            "Type": "PERSON",
+            "Text": "Blasio",
+            "BeginOffset": 34,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9260011315345764,
+            "Type": "LOCATION",
+            "Text": "NYC",
+            "BeginOffset": 44,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9996826648712158,
+            "Type": "OTHER",
+            "Text": "https://t.co/ZqfOVJfcgy",
+            "BeginOffset": 76,
+            "EndOffset": 99
+        }
+    ]
+}

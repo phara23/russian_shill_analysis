@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5092905163764954,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.7889150977134705,
+            "Type": "ORGANIZATION",
+            "Text": "@Independent",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9320266246795654,
+            "Type": "ORGANIZATION",
+            "Text": "Muslim",
+            "BeginOffset": 17,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9993368983268738,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 55,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.999885082244873,
+            "Type": "OTHER",
+            "Text": "https://t.co/NMKBMkSmvP",
+            "BeginOffset": 114,
+            "EndOffset": 137
+        }
+    ]
+}

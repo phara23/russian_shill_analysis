@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9334462881088257,
+            "Type": "PERSON",
+            "Text": "@DrEstella",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8772130608558655,
+            "Type": "QUANTITY",
+            "Text": "2the people",
+            "BeginOffset": 66,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.971885621547699,
+            "Type": "LOCATION",
+            "Text": "Florida",
+            "BeginOffset": 81,
+            "EndOffset": 88
+        }
+    ]
+}

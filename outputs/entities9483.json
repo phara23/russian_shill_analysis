@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9933119416236877,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 0,
+            "EndOffset": 3
+        },
+        {
+            "Score": 0.7759793996810913,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 9,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.6667916178703308,
+            "Type": "ORGANIZATION",
+            "Text": "Islamic State",
+            "BeginOffset": 32,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9999239444732666,
+            "Type": "OTHER",
+            "Text": "https://t.co/cRSTuSiLSy",
+            "BeginOffset": 60,
+            "EndOffset": 83
+        }
+    ]
+}

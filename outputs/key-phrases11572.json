@@ -1,0 +1,34 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9292277693748474,
+            "Text": "RT @lifehaspurpose",
+            "BeginOffset": 0,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9870232343673706,
+            "Text": "an example",
+            "BeginOffset": 27,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9788776636123657,
+            "Text": "#prolife #hatespeech",
+            "BeginOffset": 41,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.7451894879341125,
+            "Text": "racist",
+            "BeginOffset": 74,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.6874716281890869,
+            "Text": "#blacklivesmatter",
+            "BeginOffset": 100,
+            "EndOffset": 117
+        }
+    ]
+}

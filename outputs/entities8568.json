@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9616957306861877,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9431694746017456,
+            "Type": "QUANTITY",
+            "Text": "first month",
+            "BeginOffset": 77,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.8322088718414307,
+            "Type": "QUANTITY",
+            "Text": "2 billion",
+            "BeginOffset": 102,
+            "EndOffset": 111
+        },
+        {
+            "Score": 0.8518781661987305,
+            "Type": "QUANTITY",
+            "Text": "00 billion",
+            "BeginOffset": 117,
+            "EndOffset": 127
+        }
+    ]
+}

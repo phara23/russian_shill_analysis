@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8103722333908081,
+            "Type": "PERSON",
+            "Text": "@IlikeBIGbuttand",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9930345416069031,
+            "Type": "QUANTITY",
+            "Text": "100 people",
+            "BeginOffset": 60,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9997887015342712,
+            "Type": "OTHER",
+            "Text": "https://t.co/CKrglQbnxv",
+            "BeginOffset": 114,
+            "EndOffset": 137
+        }
+    ]
+}

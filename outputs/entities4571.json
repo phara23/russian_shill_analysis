@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9382451772689819,
+            "Type": "DATE",
+            "Text": "today",
+            "BeginOffset": 23,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.8706754446029663,
+            "Type": "QUANTITY",
+            "Text": "First",
+            "BeginOffset": 30,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9965524077415466,
+            "Type": "PERSON",
+            "Text": "Malia Obama",
+            "BeginOffset": 36,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.7167305946350098,
+            "Type": "LOCATION",
+            "Text": "Trump Tower",
+            "BeginOffset": 53,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9997722506523132,
+            "Type": "OTHER",
+            "Text": "https://t.co/jWLfDmeW7Q",
+            "BeginOffset": 75,
+            "EndOffset": 98
+        }
+    ]
+}

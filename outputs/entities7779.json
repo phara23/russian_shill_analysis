@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7467553019523621,
+            "Type": "PERSON",
+            "Text": "@IndieRadioPlay",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7932883501052856,
+            "Type": "PERSON",
+            "Text": "Casey Veggies",
+            "BeginOffset": 66,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.9999836683273315,
+            "Type": "OTHER",
+            "Text": "https://t.co/eMX9JgTv3v",
+            "BeginOffset": 86,
+            "EndOffset": 109
+        }
+    ]
+}

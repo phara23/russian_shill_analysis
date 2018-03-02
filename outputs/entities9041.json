@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9788128137588501,
+            "Type": "PERSON",
+            "Text": "@Kim13283440",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8128233551979065,
+            "Type": "LOCATION",
+            "Text": "PA",
+            "BeginOffset": 75,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9999605417251587,
+            "Type": "OTHER",
+            "Text": "https://t.co/1SsgKHWZ0y",
+            "BeginOffset": 79,
+            "EndOffset": 102
+        }
+    ]
+}

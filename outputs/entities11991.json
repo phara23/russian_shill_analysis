@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8248500227928162,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.7290349006652832,
+            "Type": "PERSON",
+            "Text": "@IBW21st",
+            "BeginOffset": 14,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9758679866790771,
+            "Type": "LOCATION",
+            "Text": "Africa",
+            "BeginOffset": 79,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.999288022518158,
+            "Type": "OTHER",
+            "Text": "https://t.co/fNCAgIOIgL",
+            "BeginOffset": 86,
+            "EndOffset": 109
+        }
+    ]
+}

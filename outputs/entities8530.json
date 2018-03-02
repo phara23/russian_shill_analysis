@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9744130969047546,
+            "Type": "PERSON",
+            "Text": "@Montel_Williams",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9930046200752258,
+            "Type": "PERSON",
+            "Text": "Ann Coulter",
+            "BeginOffset": 37,
+            "EndOffset": 48
+        }
+    ]
+}

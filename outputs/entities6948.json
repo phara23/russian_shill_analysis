@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9725993275642395,
+            "Type": "LOCATION",
+            "Text": "Munich",
+            "BeginOffset": 33,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9811495542526245,
+            "Type": "QUANTITY",
+            "Text": "9 people",
+            "BeginOffset": 51,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.921035885810852,
+            "Type": "LOCATION",
+            "Text": "Germany",
+            "BeginOffset": 89,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.9997492432594299,
+            "Type": "OTHER",
+            "Text": "https://t.co/jxEFyrxueD",
+            "BeginOffset": 112,
+            "EndOffset": 135
+        }
+    ]
+}

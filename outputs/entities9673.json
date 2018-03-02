@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4653598964214325,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8670052289962769,
+            "Type": "ORGANIZATION",
+            "Text": "@FL4",
+            "BeginOffset": 3,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.8871979117393494,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 30,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.7281893491744995,
+            "Type": "PERSON",
+            "Text": "@Bohoover",
+            "BeginOffset": 86,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.9609424471855164,
+            "Type": "PERSON",
+            "Text": "@djreiner",
+            "BeginOffset": 96,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.8567449450492859,
+            "Type": "PERSON",
+            "Text": "@conservinews",
+            "BeginOffset": 106,
+            "EndOffset": 119
+        },
+        {
+            "Score": 0.8887965679168701,
+            "Type": "PERSON",
+            "Text": "@StrengthenTheUS",
+            "BeginOffset": 120,
+            "EndOffset": 136
+        }
+    ]
+}

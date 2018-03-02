@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9372469782829285,
+            "Type": "PERSON",
+            "Text": "@HalawaMark",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.805422842502594,
+            "Type": "LOCATION",
+            "Text": "Saudi",
+            "BeginOffset": 33,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.7190457582473755,
+            "Type": "LOCATION",
+            "Text": "Middle East",
+            "BeginOffset": 101,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.9999374151229858,
+            "Type": "OTHER",
+            "Text": "https://t.co/0pQIB02qAJ",
+            "BeginOffset": 114,
+            "EndOffset": 137
+        }
+    ]
+}

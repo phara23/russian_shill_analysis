@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8221303224563599,
+            "Type": "PERSON",
+            "Text": "@endrapeoncampus",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8298895359039307,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 48,
+            "EndOffset": 53
+        }
+    ]
+}

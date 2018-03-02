@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4875510334968567,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.824833869934082,
+            "Type": "ORGANIZATION",
+            "Text": "@SoNortori_us",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.5948194861412048,
+            "Type": "QUANTITY",
+            "Text": "100DaysToDoList",
+            "BeginOffset": 27,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.5270313024520874,
+            "Type": "OTHER",
+            "Text": "russian",
+            "BeginOffset": 96,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.9677056670188904,
+            "Type": "PERSON",
+            "Text": "putin",
+            "BeginOffset": 110,
+            "EndOffset": 115
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9236034154891968,
+            "Type": "PERSON",
+            "Text": "@NorseShadowRunr",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.42689523100852966,
+            "Type": "QUANTITY",
+            "Text": "one",
+            "BeginOffset": 34,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9672462940216064,
+            "Type": "LOCATION",
+            "Text": "Texas",
+            "BeginOffset": 96,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.7805936932563782,
+            "Type": "PERSON",
+            "Text": "@TheBookNymph",
+            "BeginOffset": 117,
+            "EndOffset": 130
+        }
+    ]
+}

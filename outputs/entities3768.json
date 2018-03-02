@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9022009968757629,
+            "Type": "PERSON",
+            "Text": "@AreYouAfro",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.6635674238204956,
+            "Type": "LOCATION",
+            "Text": "earth",
+            "BeginOffset": 61,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9187121391296387,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 72,
+            "EndOffset": 88
+        }
+    ]
+}

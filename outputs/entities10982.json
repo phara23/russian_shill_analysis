@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9066479206085205,
+            "Type": "PERSON",
+            "Text": "@SeeDaneRun",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9877724051475525,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 66,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9537290930747986,
+            "Type": "QUANTITY",
+            "Text": "three seconds",
+            "BeginOffset": 106,
+            "EndOffset": 119
+        },
+        {
+            "Score": 0.8441658020019531,
+            "Type": "PERSON",
+            "Text": "@nationallampoon",
+            "BeginOffset": 122,
+            "EndOffset": 138
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8106548190116882,
+            "Type": "PERSON",
+            "Text": "@OnlineHouston",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.48335808515548706,
+            "Type": "OTHER",
+            "Text": "0618",
+            "BeginOffset": 34,
+            "EndOffset": 38
+        }
+    ]
+}

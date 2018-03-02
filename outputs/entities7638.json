@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6153680086135864,
+            "Type": "ORGANIZATION",
+            "Text": "@StopEatingBees",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9999821186065674,
+            "Type": "OTHER",
+            "Text": "https://t.co/UP6h59HLQ1",
+            "BeginOffset": 75,
+            "EndOffset": 98
+        }
+    ]
+}

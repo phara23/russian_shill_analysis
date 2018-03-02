@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8401362895965576,
+            "Type": "PERSON",
+            "Text": "@SandraTXAS",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.43909308314323425,
+            "Type": "ORGANIZATION",
+            "Text": "France",
+            "BeginOffset": 16,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.7179364562034607,
+            "Type": "PERSON",
+            "Text": "Marine Le Pen",
+            "BeginOffset": 75,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.5443207621574402,
+            "Type": "LOCATION",
+            "Text": "France",
+            "BeginOffset": 95,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.6720713376998901,
+            "Type": "DATE",
+            "Text": "#Marine2017",
+            "BeginOffset": 114,
+            "EndOffset": 125
+        }
+    ]
+}

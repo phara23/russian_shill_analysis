@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8473556041717529,
+            "Type": "PERSON",
+            "Text": "@Bipartisanism",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.985778272151947,
+            "Type": "PERSON",
+            "Text": "Anderson Cooper",
+            "BeginOffset": 19,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9787167310714722,
+            "Type": "QUANTITY",
+            "Text": "30 Minutes",
+            "BeginOffset": 42,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9805192351341248,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 66,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.7652321457862854,
+            "Type": "LOCATION",
+            "Text": "Russia",
+            "BeginOffset": 72,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.9583480358123779,
+            "Type": "OTHER",
+            "Text": "https://t.co/Lo1StQoTyU",
+            "BeginOffset": 87,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.999954104423523,
+            "Type": "OTHER",
+            "Text": "https://t.co/qh3EJHJtmp",
+            "BeginOffset": 111,
+            "EndOffset": 134
+        }
+    ]
+}

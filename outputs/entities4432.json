@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9246375560760498,
+            "Type": "PERSON",
+            "Text": "@yaboymiko",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9799240231513977,
+            "Type": "TITLE",
+            "Text": "iTunes",
+            "BeginOffset": 41,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9711636304855347,
+            "Type": "TITLE",
+            "Text": "Google Play",
+            "BeginOffset": 52,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.8510046601295471,
+            "Type": "OTHER",
+            "Text": "https://t.co/Xk0c0yI2nK",
+            "BeginOffset": 87,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.9999656677246094,
+            "Type": "OTHER",
+            "Text": "https://t.co/1Uq62y9fAF",
+            "BeginOffset": 111,
+            "EndOffset": 134
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.822215735912323,
+            "Type": "QUANTITY",
+            "Text": "Second amendement",
+            "BeginOffset": 25,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9094070792198181,
+            "Type": "LOCATION",
+            "Text": "NY",
+            "BeginOffset": 119,
+            "EndOffset": 121
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7986621260643005,
+            "Type": "ORGANIZATION",
+            "Text": "@WSJ",
+            "BeginOffset": 3,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.9998712539672852,
+            "Type": "OTHER",
+            "Text": "http://t.co/pHTXKxsQtc",
+            "BeginOffset": 45,
+            "EndOffset": 67
+        }
+    ]
+}

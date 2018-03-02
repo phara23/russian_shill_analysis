@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9483171701431274,
+            "Type": "PERSON",
+            "Text": "@Christian_Buss",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7563827037811279,
+            "Type": "PERSON",
+            "Text": "Berl",
+            "BeginOffset": 48,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.8655206561088562,
+            "Type": "QUANTITY",
+            "Text": "55 Min",
+            "BeginOffset": 54,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.5119485259056091,
+            "Type": "PERSON",
+            "Text": "Gleis",
+            "BeginOffset": 91,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.8923404216766357,
+            "Type": "PERSON",
+            "Text": "Linksradikale Kühe",
+            "BeginOffset": 98,
+            "EndOffset": 116
+        }
+    ]
+}

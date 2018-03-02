@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9196898341178894,
+            "Type": "PERSON",
+            "Text": "@Elkie6",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.5316685438156128,
+            "Type": "DATE",
+            "Text": "#2017",
+            "BeginOffset": 43,
+            "EndOffset": 48
+        }
+    ]
+}

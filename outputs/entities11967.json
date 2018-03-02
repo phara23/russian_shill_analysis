@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9200916290283203,
+            "Type": "PERSON",
+            "Text": "@reevox_85",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.6054275035858154,
+            "Type": "ORGANIZATION",
+            "Text": "BMW",
+            "BeginOffset": 36,
+            "EndOffset": 39
+        }
+    ]
+}

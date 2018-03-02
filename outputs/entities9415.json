@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9130103588104248,
+            "Type": "PERSON",
+            "Text": "@DLasater_99362",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.6638525128364563,
+            "Type": "ORGANIZATION",
+            "Text": "Clinton Foundation",
+            "BeginOffset": 28,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.6745049953460693,
+            "Type": "LOCATION",
+            "Text": "Haiti",
+            "BeginOffset": 86,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.9933508038520813,
+            "Type": "OTHER",
+            "Text": "https://t.co/wU8kYm8Pw9",
+            "BeginOffset": 92,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.9462245106697083,
+            "Type": "ORGANIZATION",
+            "Text": "@BreitbartNews",
+            "BeginOffset": 120,
+            "EndOffset": 134
+        }
+    ]
+}

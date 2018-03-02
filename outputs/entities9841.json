@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8414876461029053,
+            "Type": "PERSON",
+            "Text": "@HomerWhite",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9733113050460815,
+            "Type": "PERSON",
+            "Text": "Schumer",
+            "BeginOffset": 16,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9583852291107178,
+            "Type": "PERSON",
+            "Text": "Pelosi",
+            "BeginOffset": 56,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9981781244277954,
+            "Type": "PERSON",
+            "Text": "Schumer",
+            "BeginOffset": 92,
+            "EndOffset": 99
+        }
+    ]
+}

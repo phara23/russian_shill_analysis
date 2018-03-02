@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8665726184844971,
+            "Type": "PERSON",
+            "Text": "@charley_ck14",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.977972149848938,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 18,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.7365827560424805,
+            "Type": "QUANTITY",
+            "Text": "5Words",
+            "BeginOffset": 59,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9978659749031067,
+            "Type": "OTHER",
+            "Text": "https://t.co/PJMlOYDMzd",
+            "BeginOffset": 79,
+            "EndOffset": 102
+        }
+    ]
+}

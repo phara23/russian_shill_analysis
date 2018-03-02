@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.969967782497406,
+            "Type": "PERSON",
+            "Text": "@mike_pence",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.6705291867256165,
+            "Type": "ORGANIZATION",
+            "Text": "The Villages",
+            "BeginOffset": 52,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9690542817115784,
+            "Type": "DATE",
+            "Text": "tomorrow afternoon",
+            "BeginOffset": 65,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.42774105072021484,
+            "Type": "ORGANIZATION",
+            "Text": "#MAGA",
+            "BeginOffset": 104,
+            "EndOffset": 109
+        },
+        {
+            "Score": 0.9998539686203003,
+            "Type": "OTHER",
+            "Text": "https://t.co/D3aNtEuc4a",
+            "BeginOffset": 110,
+            "EndOffset": 133
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8874188661575317,
+            "Type": "PERSON",
+            "Text": "@bassackwardsbo",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7267195582389832,
+            "Type": "ORGANIZATION",
+            "Text": "@CNN",
+            "BeginOffset": 27,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9997841715812683,
+            "Type": "OTHER",
+            "Text": "https://t.co/mEljiXFLF1",
+            "BeginOffset": 32,
+            "EndOffset": 55
+        }
+    ]
+}

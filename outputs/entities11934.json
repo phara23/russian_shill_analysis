@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8091962933540344,
+            "Type": "PERSON",
+            "Text": "@tctagc",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.997848629951477,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 49,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9998272061347961,
+            "Type": "OTHER",
+            "Text": "https://t.co/Iqzrl1MtHr",
+            "BeginOffset": 116,
+            "EndOffset": 139
+        }
+    ]
+}

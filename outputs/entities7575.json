@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.692568302154541,
+            "Type": "ORGANIZATION",
+            "Text": "@ABC7",
+            "BeginOffset": 3,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.9906167387962341,
+            "Type": "PERSON",
+            "Text": "Marc",
+            "BeginOffset": 8,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.5128352046012878,
+            "Type": "ORGANIZATION",
+            "Text": "Ducks",
+            "BeginOffset": 35,
+            "EndOffset": 40
+        }
+    ]
+}

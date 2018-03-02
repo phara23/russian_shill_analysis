@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8127501010894775,
+            "Type": "PERSON",
+            "Text": "@beforeitsnews",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8103320002555847,
+            "Type": "QUANTITY",
+            "Text": "3 Police States",
+            "BeginOffset": 56,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9960483908653259,
+            "Type": "OTHER",
+            "Text": "https://t.co/lTIWRUjYUm",
+            "BeginOffset": 107,
+            "EndOffset": 130
+        }
+    ]
+}

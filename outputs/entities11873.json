@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8486304879188538,
+            "Type": "PERSON",
+            "Text": "@workersworld",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9618790745735168,
+            "Type": "OTHER",
+            "Text": "https://t.co/5fcZt28Eqh",
+            "BeginOffset": 43,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9999797344207764,
+            "Type": "OTHER",
+            "Text": "https://t.co/3K4UbowG0x",
+            "BeginOffset": 67,
+            "EndOffset": 90
+        }
+    ]
+}

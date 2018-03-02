@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8653597235679626,
+            "Type": "PERSON",
+            "Text": "@GiselleEvns",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9910038709640503,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 36,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9999700784683228,
+            "Type": "OTHER",
+            "Text": "https://t.co/dye4zjJ3aP",
+            "BeginOffset": 69,
+            "EndOffset": 92
+        }
+    ]
+}

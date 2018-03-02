@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6655874252319336,
+            "Type": "PERSON",
+            "Text": "@petefrt",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.7622519135475159,
+            "Type": "ORGANIZATION",
+            "Text": "DC",
+            "BeginOffset": 13,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9989842772483826,
+            "Type": "ORGANIZATION",
+            "Text": "FBI",
+            "BeginOffset": 26,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.7727081179618835,
+            "Type": "ORGANIZATION",
+            "Text": "DoJ",
+            "BeginOffset": 48,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9431365728378296,
+            "Type": "ORGANIZATION",
+            "Text": "Clinton Foundation",
+            "BeginOffset": 79,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.7536633014678955,
+            "Type": "LOCATION",
+            "Text": "New York",
+            "BeginOffset": 102,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.9885640144348145,
+            "Type": "OTHER",
+            "Text": "https://t.co/wnsMK",
+            "BeginOffset": 121,
+            "EndOffset": 139
+        }
+    ]
+}

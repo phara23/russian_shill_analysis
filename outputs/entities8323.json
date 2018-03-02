@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9190448522567749,
+            "Type": "QUANTITY",
+            "Text": "1 Like",
+            "BeginOffset": 0,
+            "EndOffset": 6
+        },
+        {
+            "Score": 0.9321835041046143,
+            "Type": "QUANTITY",
+            "Text": "1 Prayer",
+            "BeginOffset": 7,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9472334980964661,
+            "Type": "PERSON",
+            "Text": "Allen Iverson",
+            "BeginOffset": 20,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.999991774559021,
+            "Type": "OTHER",
+            "Text": "https://t.co/FLGXA751GF",
+            "BeginOffset": 44,
+            "EndOffset": 67
+        }
+    ]
+}

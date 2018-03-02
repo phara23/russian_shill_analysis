@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7624127864837646,
+            "Type": "PERSON",
+            "Text": "@ModNotGod",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9990615844726562,
+            "Type": "DATE",
+            "Text": "Jan. 20, 2017",
+            "BeginOffset": 15,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9815588593482971,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 51,
+            "EndOffset": 56
+        }
+    ]
+}

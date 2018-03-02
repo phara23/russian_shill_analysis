@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.48872849345207214,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.6091687083244324,
+            "Type": "ORGANIZATION",
+            "Text": "@IntheNow_",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9996340274810791,
+            "Type": "ORGANIZATION",
+            "Text": "FBI",
+            "BeginOffset": 27,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9997263550758362,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 44,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.728763997554779,
+            "Type": "ORGANIZATION",
+            "Text": "State Dept",
+            "BeginOffset": 66,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.9999449253082275,
+            "Type": "OTHER",
+            "Text": "https://t.co/Mi1et75Re7",
+            "BeginOffset": 116,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6972035765647888,
+            "Type": "ORGANIZATION",
+            "Text": "@wikileaks",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.7305140495300293,
+            "Type": "ORGANIZATION",
+            "Text": "MI6",
+            "BeginOffset": 22,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9985482096672058,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 41,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9755657315254211,
+            "Type": "ORGANIZATION",
+            "Text": "CNN",
+            "BeginOffset": 81,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9999377727508545,
+            "Type": "OTHER",
+            "Text": "https://t.co/kLQVJZMaGa",
+            "BeginOffset": 85,
+            "EndOffset": 108
+        }
+    ]
+}

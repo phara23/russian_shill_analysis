@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8265664577484131,
+            "Type": "PERSON",
+            "Text": "@creativalliance",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8670921325683594,
+            "Type": "PERSON",
+            "Text": "@JudahWorldChamp",
+            "BeginOffset": 25,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.8185774087905884,
+            "Type": "LOCATION",
+            "Text": "Baltimore",
+            "BeginOffset": 54,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.4387474060058594,
+            "Type": "QUANTITY",
+            "Text": "6",
+            "BeginOffset": 64,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9566258192062378,
+            "Type": "QUANTITY",
+            "Text": "10",
+            "BeginOffset": 66,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9991071820259094,
+            "Type": "OTHER",
+            "Text": "https://t.co/GtrHuR2SSm",
+            "BeginOffset": 84,
+            "EndOffset": 107
+        }
+    ]
+}

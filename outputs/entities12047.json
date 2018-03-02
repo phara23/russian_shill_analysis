@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8742474913597107,
+            "Type": "PERSON",
+            "Text": "@BigAlDell",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9905847907066345,
+            "Type": "ORGANIZATION",
+            "Text": "Twitter",
+            "BeginOffset": 65,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.9751974940299988,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 119,
+            "EndOffset": 124
+        }
+    ]
+}

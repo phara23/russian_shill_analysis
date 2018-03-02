@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.907566249370575,
+            "Type": "PERSON",
+            "Text": "@Freeyourmindkid",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9838250875473022,
+            "Type": "LOCATION",
+            "Text": "Africa",
+            "BeginOffset": 77,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.6720451712608337,
+            "Type": "OTHER",
+            "Text": "Chinese",
+            "BeginOffset": 94,
+            "EndOffset": 101
+        }
+    ]
+}

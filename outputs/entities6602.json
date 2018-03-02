@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8025928139686584,
+            "Type": "ORGANIZATION",
+            "Text": "@N4BWR",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.808262050151825,
+            "Type": "PERSON",
+            "Text": "Hannibal Lecter",
+            "BeginOffset": 42,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.8000708222389221,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 66,
+            "EndOffset": 71
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9956313371658325,
+            "Type": "DATE",
+            "Text": "May 8th",
+            "BeginOffset": 31,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9129303097724915,
+            "Type": "PERSON",
+            "Text": "Harry Truman",
+            "BeginOffset": 40,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9712424278259277,
+            "Type": "EVENT",
+            "Text": "WWII",
+            "BeginOffset": 81,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.9958782196044922,
+            "Type": "LOCATION",
+            "Text": "Europe",
+            "BeginOffset": 89,
+            "EndOffset": 95
+        }
+    ]
+}

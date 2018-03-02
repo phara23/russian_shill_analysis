@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8438061475753784,
+            "Type": "PERSON",
+            "Text": "@s_m_i",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.355440616607666,
+            "Type": "QUANTITY",
+            "Text": "4",
+            "BeginOffset": 69,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9572476148605347,
+            "Type": "PERSON",
+            "Text": "Chan",
+            "BeginOffset": 70,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9574505090713501,
+            "Type": "DATE",
+            "Text": "tomorrow",
+            "BeginOffset": 119,
+            "EndOffset": 127
+        },
+        {
+            "Score": 0.9469878673553467,
+            "Type": "OTHER",
+            "Text": "https://t.c",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

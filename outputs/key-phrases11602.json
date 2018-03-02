@@ -1,0 +1,28 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.4784921705722809,
+            "Text": "Guys",
+            "BeginOffset": 0,
+            "EndOffset": 4
+        },
+        {
+            "Score": 0.9685174226760864,
+            "Text": "a picture",
+            "BeginOffset": 19,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9849652051925659,
+            "Text": "@HillaryClinton",
+            "BeginOffset": 32,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9848352670669556,
+            "Text": "Wall Street bankers",
+            "BeginOffset": 60,
+            "EndOffset": 79
+        }
+    ]
+}

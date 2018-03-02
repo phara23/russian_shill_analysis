@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9326390027999878,
+            "Type": "PERSON",
+            "Text": "@SwimmerJlo",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.6341789364814758,
+            "Type": "ORGANIZATION",
+            "Text": "Toronto Blue",
+            "BeginOffset": 16,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.952360212802887,
+            "Type": "PERSON",
+            "Text": "Jay-z",
+            "BeginOffset": 29,
+            "EndOffset": 34
+        }
+    ]
+}

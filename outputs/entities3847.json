@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8372355699539185,
+            "Type": "PERSON",
+            "Text": "@veteranstoday",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9711917638778687,
+            "Type": "PERSON",
+            "Text": "Regis Tremblay",
+            "BeginOffset": 49,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.8896310925483704,
+            "Type": "OTHER",
+            "Text": "https://t.co/PIjeVQVn0a",
+            "BeginOffset": 67,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.999990701675415,
+            "Type": "OTHER",
+            "Text": "https://t.co/9fnGvo55bj",
+            "BeginOffset": 91,
+            "EndOffset": 114
+        }
+    ]
+}

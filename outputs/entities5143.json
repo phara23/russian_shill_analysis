@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8330666422843933,
+            "Type": "PERSON",
+            "Text": "@RundownLive",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7975428104400635,
+            "Type": "QUANTITY",
+            "Text": "Top 10",
+            "BeginOffset": 17,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9911994338035583,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 46,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9999581575393677,
+            "Type": "OTHER",
+            "Text": "https://t.co/8710kPOfGg",
+            "BeginOffset": 51,
+            "EndOffset": 74
+        }
+    ]
+}

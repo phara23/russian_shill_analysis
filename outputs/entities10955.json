@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.777576208114624,
+            "Type": "PERSON",
+            "Text": "@PJNET_",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.6467362642288208,
+            "Type": "ORGANIZATION",
+            "Text": "GOP House",
+            "BeginOffset": 55,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.8831561207771301,
+            "Type": "ORGANIZATION",
+            "Text": "Senate",
+            "BeginOffset": 65,
+            "EndOffset": 71
+        }
+    ]
+}

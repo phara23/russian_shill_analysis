@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5719056129455566,
+            "Type": "PERSON",
+            "Text": "@WomenWorldNews",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.6095016598701477,
+            "Type": "QUANTITY",
+            "Text": "1",
+            "BeginOffset": 18,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8032402396202087,
+            "Type": "QUANTITY",
+            "Text": "More than 55 UK females",
+            "BeginOffset": 40,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9668930172920227,
+            "Type": "LOCATION",
+            "Text": "Syria",
+            "BeginOffset": 72,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9995019435882568,
+            "Type": "DATE",
+            "Text": "2015",
+            "BeginOffset": 81,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.9182479381561279,
+            "Type": "QUANTITY",
+            "Text": "Fifty-six w",
+            "BeginOffset": 99,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.9211477637290955,
+            "Type": "OTHER",
+            "Text": "https://t.co/Dm1vJF47qg",
+            "BeginOffset": 114,
+            "EndOffset": 137
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9165447354316711,
+            "Type": "PERSON",
+            "Text": "@MikePenceVP",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9888343214988708,
+            "Type": "ORGANIZATION",
+            "Text": "CNN",
+            "BeginOffset": 27,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9966872334480286,
+            "Type": "LOCATION",
+            "Text": "Syria",
+            "BeginOffset": 53,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9892669916152954,
+            "Type": "LOCATION",
+            "Text": "NYC",
+            "BeginOffset": 84,
+            "EndOffset": 87
+        }
+    ]
+}

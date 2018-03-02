@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8257449865341187,
+            "Type": "PERSON",
+            "Text": "@KLSouth",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.7804544568061829,
+            "Type": "PERSON",
+            "Text": "@JudgeNap",
+            "BeginOffset": 14,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9941771030426025,
+            "Type": "ORGANIZATION",
+            "Text": "FBI",
+            "BeginOffset": 29,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.5359843373298645,
+            "Type": "ORGANIZATION",
+            "Text": "#HillaryClinton",
+            "BeginOffset": 70,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.9785494208335876,
+            "Type": "OTHER",
+            "Text": "https://t.co/EdWPCwkzhr",
+            "BeginOffset": 98,
+            "EndOffset": 121
+        },
+        {
+            "Score": 0.30618494749069214,
+            "Type": "ORGANIZATION",
+            "Text": "#debate",
+            "BeginOffset": 122,
+            "EndOffset": 129
+        },
+        {
+            "Score": 0.5646442770957947,
+            "Type": "ORGANIZATION",
+            "Text": "#debateNi",
+            "BeginOffset": 130,
+            "EndOffset": 139
+        }
+    ]
+}

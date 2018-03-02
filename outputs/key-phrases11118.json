@@ -1,0 +1,28 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9888277053833008,
+            "Text": "Trump",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9972527623176575,
+            "Text": "New Hampshire",
+            "BeginOffset": 11,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9740886092185974,
+            "Text": "First swing state",
+            "BeginOffset": 26,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9857801198959351,
+            "Text": "TRUMP",
+            "BeginOffset": 49,
+            "EndOffset": 54
+        }
+    ]
+}

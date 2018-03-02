@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8675845861434937,
+            "Type": "PERSON",
+            "Text": "@DesignerDeb3",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9495289921760559,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 18,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.7756636142730713,
+            "Type": "PERSON",
+            "Text": "@TimTebow",
+            "BeginOffset": 53,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.8304498791694641,
+            "Type": "PERSON",
+            "Text": "@Patriotic_Me",
+            "BeginOffset": 109,
+            "EndOffset": 122
+        },
+        {
+            "Score": 0.9359152317047119,
+            "Type": "PERSON",
+            "Text": "@DanScavino",
+            "BeginOffset": 123,
+            "EndOffset": 134
+        }
+    ]
+}

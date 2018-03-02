@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9706838130950928,
+            "Type": "ORGANIZATION",
+            "Text": "Democrats",
+            "BeginOffset": 0,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9972128868103027,
+            "Type": "PERSON",
+            "Text": "Joe Arpaio",
+            "BeginOffset": 11,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9141890406608582,
+            "Type": "OTHER",
+            "Text": "https://t.co/B8voamYq0H",
+            "BeginOffset": 57,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.9999566078186035,
+            "Type": "OTHER",
+            "Text": "https://t.co/vZyd5IepYg",
+            "BeginOffset": 81,
+            "EndOffset": 104
+        }
+    ]
+}

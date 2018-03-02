@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8536866903305054,
+            "Type": "PERSON",
+            "Text": "@baalter",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8261353969573975,
+            "Type": "LOCATION",
+            "Text": "Chicago",
+            "BeginOffset": 50,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9548971652984619,
+            "Type": "QUANTITY",
+            "Text": "730 Homicides",
+            "BeginOffset": 68,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.9951325058937073,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 86,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9998838901519775,
+            "Type": "OTHER",
+            "Text": "https://t.co/VvnDPNdl4R",
+            "BeginOffset": 93,
+            "EndOffset": 116
+        }
+    ]
+}

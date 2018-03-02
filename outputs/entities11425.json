@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9286769032478333,
+            "Type": "PERSON",
+            "Text": "@davidfrum",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.853215217590332,
+            "Type": "OTHER",
+            "Text": "Chinese",
+            "BeginOffset": 15,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.7144346833229065,
+            "Type": "QUANTITY",
+            "Text": "4/5",
+            "BeginOffset": 43,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.7800065875053406,
+            "Type": "PERSON",
+            "Text": "Kushner",
+            "BeginOffset": 50,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9793969392776489,
+            "Type": "LOCATION",
+            "Text": "666 Fifth Avenue",
+            "BeginOffset": 73,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.9984751343727112,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 118,
+            "EndOffset": 123
+        },
+        {
+            "Score": 0.7769359946250916,
+            "Type": "PERSON",
+            "Text": "Xi thi",
+            "BeginOffset": 133,
+            "EndOffset": 139
+        }
+    ]
+}

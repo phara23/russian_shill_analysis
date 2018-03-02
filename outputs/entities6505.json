@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8503334522247314,
+            "Type": "PERSON",
+            "Text": "@Shadreth",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9743544459342957,
+            "Type": "PERSON",
+            "Text": "@DeanMiller1978",
+            "BeginOffset": 14,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9385557770729065,
+            "Type": "PERSON",
+            "Text": "@TheHemperor",
+            "BeginOffset": 30,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.8241791725158691,
+            "Type": "PERSON",
+            "Text": "@wikileaks",
+            "BeginOffset": 43,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9924701452255249,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 54,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.681020200252533,
+            "Type": "QUANTITY",
+            "Text": "one single phone",
+            "BeginOffset": 80,
+            "EndOffset": 96
+        }
+    ]
+}

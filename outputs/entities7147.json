@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7197036147117615,
+            "Type": "PERSON",
+            "Text": "@MedianPolitics",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9723290205001831,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 90,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.9931775331497192,
+            "Type": "OTHER",
+            "Text": "https://t.co/3Uc24EqkDM",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        },
+        {
+            "Score": 0.71370929479599,
+            "Type": "PERSON",
+            "Text": "@realalexjones",
+            "BeginOffset": 124,
+            "EndOffset": 138
+        }
+    ]
+}

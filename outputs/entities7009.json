@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9901750087738037,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9994091987609863,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 23,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.49873843789100647,
+            "Type": "LOCATION",
+            "Text": "American",
+            "BeginOffset": 95,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.9999252557754517,
+            "Type": "OTHER",
+            "Text": "https://t.co/TzmtZzOXlN",
+            "BeginOffset": 112,
+            "EndOffset": 135
+        }
+    ]
+}

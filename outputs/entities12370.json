@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8738429546356201,
+            "Type": "PERSON",
+            "Text": "@hipEchik",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9477056264877319,
+            "Type": "LOCATION",
+            "Text": "AZ",
+            "BeginOffset": 95,
+            "EndOffset": 97
+        }
+    ]
+}

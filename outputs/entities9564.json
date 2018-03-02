@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7720561623573303,
+            "Type": "PERSON",
+            "Text": "@HashtagJones1",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8490263223648071,
+            "Type": "DATE",
+            "Text": "Next at 9am EST",
+            "BeginOffset": 19,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.8194966912269592,
+            "Type": "PERSON",
+            "Text": "@RoesRage",
+            "BeginOffset": 41,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.8893865346908569,
+            "Type": "PERSON",
+            "Text": "@HashtagJones1",
+            "BeginOffset": 56,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9035022854804993,
+            "Type": "PERSON",
+            "Text": "@BenHooperWrites",
+            "BeginOffset": 76,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.9341232180595398,
+            "Type": "PERSON",
+            "Text": "@SadlyCatless",
+            "BeginOffset": 93,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.7680805921554565,
+            "Type": "ORGANIZATION",
+            "Text": "@HashtagRoundup",
+            "BeginOffset": 110,
+            "EndOffset": 125
+        },
+        {
+            "Score": 0.9628791809082031,
+            "Type": "OTHER",
+            "Text": "https://t.co",
+            "BeginOffset": 127,
+            "EndOffset": 139
+        }
+    ]
+}

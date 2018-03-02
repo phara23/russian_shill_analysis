@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.786469578742981,
+            "Type": "PERSON",
+            "Text": "@riteprices",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.41509881615638733,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 48,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.433359831571579,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 69,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.5378507375717163,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 92,
+            "EndOffset": 97
+        }
+    ]
+}

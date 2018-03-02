@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8678001165390015,
+            "Type": "PERSON",
+            "Text": "@DaHitMakers",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9210617542266846,
+            "Type": "QUANTITY",
+            "Text": "3 Beats",
+            "BeginOffset": 25,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.5990226864814758,
+            "Type": "QUANTITY",
+            "Text": "1",
+            "BeginOffset": 50,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9120270609855652,
+            "Type": "OTHER",
+            "Text": "https://t.co/ANBPitLE0U",
+            "BeginOffset": 52,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.9998751878738403,
+            "Type": "PERSON",
+            "Text": "Rick Ross",
+            "BeginOffset": 86,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.9997516870498657,
+            "Type": "PERSON",
+            "Text": "Sean Kingston",
+            "BeginOffset": 97,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.9477754235267639,
+            "Type": "PERSON",
+            "Text": "Slim Thug",
+            "BeginOffset": 112,
+            "EndOffset": 121
+        }
+    ]
+}

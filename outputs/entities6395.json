@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8782044649124146,
+            "Type": "PERSON",
+            "Text": "@dataeditor",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9738449454307556,
+            "Type": "ORGANIZATION",
+            "Text": "Office of Congressional Ethics",
+            "BeginOffset": 68,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.9999748468399048,
+            "Type": "OTHER",
+            "Text": "https://t.co/T1bDc7RmrE",
+            "BeginOffset": 100,
+            "EndOffset": 123
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8592499494552612,
+            "Type": "PERSON",
+            "Text": "@Ricky_Vaughn99",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9610576629638672,
+            "Type": "QUANTITY",
+            "Text": "ten days",
+            "BeginOffset": 23,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.8844666481018066,
+            "Type": "QUANTITY",
+            "Text": "ten-point",
+            "BeginOffset": 49,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.995664656162262,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 73,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.9344120025634766,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 101,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.9495575428009033,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 111,
+            "EndOffset": 118
+        },
+        {
+            "Score": 0.7288854122161865,
+            "Type": "ORGANIZATION",
+            "Text": "USC",
+            "BeginOffset": 126,
+            "EndOffset": 129
+        },
+        {
+            "Score": 0.6615344882011414,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 130,
+            "EndOffset": 139
+        }
+    ]
+}

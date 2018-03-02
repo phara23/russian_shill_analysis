@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8219363689422607,
+            "Type": "PERSON",
+            "Text": "@Tuniekc",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9385491609573364,
+            "Type": "PERSON",
+            "Text": "@mrcharleyr",
+            "BeginOffset": 13,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9746490716934204,
+            "Type": "PERSON",
+            "Text": "@ILoveMyWife0007",
+            "BeginOffset": 25,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.99590665102005,
+            "Type": "PERSON",
+            "Text": "@lenaporter23",
+            "BeginOffset": 42,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9833194613456726,
+            "Type": "PERSON",
+            "Text": "@blackflag_2012",
+            "BeginOffset": 56,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.8903744220733643,
+            "Type": "PERSON",
+            "Text": "@mlgebhard0",
+            "BeginOffset": 72,
+            "EndOffset": 83
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8786066174507141,
+            "Type": "PERSON",
+            "Text": "@BlakeDontCrack",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9410855770111084,
+            "Type": "PERSON",
+            "Text": "Mistah Fab",
+            "BeginOffset": 20,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.892500638961792,
+            "Type": "ORGANIZATION",
+            "Text": "Oakland Police",
+            "BeginOffset": 47,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.8819403052330017,
+            "Type": "DATE",
+            "Text": "A couple weeks later",
+            "BeginOffset": 90,
+            "EndOffset": 110
+        }
+    ]
+}

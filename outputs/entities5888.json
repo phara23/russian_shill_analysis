@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9144047498703003,
+            "Type": "PERSON",
+            "Text": "@ByronYork",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9972097277641296,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 34,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.7751298546791077,
+            "Type": "QUANTITY",
+            "Text": "first debate",
+            "BeginOffset": 88,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.976836085319519,
+            "Type": "OTHER",
+            "Text": "https://t.co/rah30jY",
+            "BeginOffset": 119,
+            "EndOffset": 139
+        }
+    ]
+}

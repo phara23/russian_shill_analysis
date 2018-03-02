@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.953374981880188,
+            "Type": "PERSON",
+            "Text": "@beauty_jackson",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9980031847953796,
+            "Type": "DATE",
+            "Text": "2017",
+            "BeginOffset": 48,
+            "EndOffset": 52
+        }
+    ]
+}

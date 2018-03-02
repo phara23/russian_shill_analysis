@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7432369589805603,
+            "Type": "PERSON",
+            "Text": "@politico",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.4356623589992523,
+            "Type": "LOCATION",
+            "Text": "Iowa",
+            "BeginOffset": 24,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.8837714195251465,
+            "Type": "LOCATION",
+            "Text": "New Hampshire",
+            "BeginOffset": 56,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9799867272377014,
+            "Type": "OTHER",
+            "Text": "https://t.co/yxqx8OwzZ4",
+            "BeginOffset": 70,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.898705244064331,
+            "Type": "ORGANIZATION",
+            "Text": "AP",
+            "BeginOffset": 96,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.9998840093612671,
+            "Type": "OTHER",
+            "Text": "https://t.co/SGJazTGwGp",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        }
+    ]
+}

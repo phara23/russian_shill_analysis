@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7985203862190247,
+            "Type": "PERSON",
+            "Text": "@SweepsFox",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9937742352485657,
+            "Type": "PERSON",
+            "Text": "Herman Cain",
+            "BeginOffset": 25,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.692518413066864,
+            "Type": "PERSON",
+            "Text": "CRUZ CONTROL",
+            "BeginOffset": 43,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.6531453132629395,
+            "Type": "PERSON",
+            "Text": "@ 'Top",
+            "BeginOffset": 57,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.8720688819885254,
+            "Type": "QUANTITY",
+            "Text": "2 agree",
+            "BeginOffset": 98,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.9729956388473511,
+            "Type": "PERSON",
+            "Text": "Cain",
+            "BeginOffset": 116,
+            "EndOffset": 120
+        }
+    ]
+}

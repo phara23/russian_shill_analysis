@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8941478133201599,
+            "Type": "PERSON",
+            "Text": "@batshake1",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8010722994804382,
+            "Type": "QUANTITY",
+            "Text": "5Words",
+            "BeginOffset": 28,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.8279844522476196,
+            "Type": "QUANTITY",
+            "Text": "four legs",
+            "BeginOffset": 50,
+            "EndOffset": 59
+        }
+    ]
+}

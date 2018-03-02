@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8302833437919617,
+            "Type": "PERSON",
+            "Text": "@Chairmnoomowmow",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.6816695332527161,
+            "Type": "OTHER",
+            "Text": "American",
+            "BeginOffset": 21,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9542070627212524,
+            "Type": "PERSON",
+            "Text": "Jimmi",
+            "BeginOffset": 58,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9974913597106934,
+            "Type": "PERSON",
+            "Text": "Oprah",
+            "BeginOffset": 72,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9964720010757446,
+            "Type": "PERSON",
+            "Text": "Mike",
+            "BeginOffset": 111,
+            "EndOffset": 115
+        }
+    ]
+}

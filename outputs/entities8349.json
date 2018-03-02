@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.647638738155365,
+            "Type": "ORGANIZATION",
+            "Text": "@7xCimarronx",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9252627491950989,
+            "Type": "ORGANIZATION",
+            "Text": "@3rdEyePlug",
+            "BeginOffset": 18,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.7901360988616943,
+            "Type": "ORGANIZATION",
+            "Text": "@50nsexy",
+            "BeginOffset": 30,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9939028024673462,
+            "Type": "DATE",
+            "Text": "2014",
+            "BeginOffset": 38,
+            "EndOffset": 42
+        }
+    ]
+}

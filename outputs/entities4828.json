@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7781732678413391,
+            "Type": "PERSON",
+            "Text": "@BoyceCollege",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9795246720314026,
+            "Type": "QUANTITY",
+            "Text": "3 reasons",
+            "BeginOffset": 49,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9948436617851257,
+            "Type": "PERSON",
+            "Text": "@samueld_james",
+            "BeginOffset": 87,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.9999748468399048,
+            "Type": "OTHER",
+            "Text": "https://t.co/HSJrS674GI",
+            "BeginOffset": 110,
+            "EndOffset": 133
+        }
+    ]
+}

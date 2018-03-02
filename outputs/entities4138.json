@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8681475520133972,
+            "Type": "PERSON",
+            "Text": "@HealthRanger",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.5307624936103821,
+            "Type": "ORGANIZATION",
+            "Text": "Mexico",
+            "BeginOffset": 18,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.7414191365242004,
+            "Type": "ORGANIZATION",
+            "Text": "Monsanto",
+            "BeginOffset": 45,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9758651256561279,
+            "Type": "OTHER",
+            "Text": "https://t.co/RatxbBDyZN",
+            "BeginOffset": 65,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.3234173655509949,
+            "Type": "ORGANIZATION",
+            "Text": "#Monsanto",
+            "BeginOffset": 89,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.5316678881645203,
+            "Type": "ORGANIZATION",
+            "Text": "#GMO",
+            "BeginOffset": 99,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.5357576608657837,
+            "Type": "LOCATION",
+            "Text": "#Mexico",
+            "BeginOffset": 104,
+            "EndOffset": 111
+        },
+        {
+            "Score": 0.9773042798042297,
+            "Type": "OTHER",
+            "Text": "https://t.co/MO8rd",
+            "BeginOffset": 121,
+            "EndOffset": 139
+        }
+    ]
+}

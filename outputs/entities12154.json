@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8629374504089355,
+            "Type": "PERSON",
+            "Text": "@CulturedRuffian",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9926086068153381,
+            "Type": "ORGANIZATION",
+            "Text": "Twitter",
+            "BeginOffset": 59,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9998377561569214,
+            "Type": "OTHER",
+            "Text": "https://t.co/abmjQVGoBC",
+            "BeginOffset": 76,
+            "EndOffset": 99
+        }
+    ]
+}

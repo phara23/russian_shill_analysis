@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8203529119491577,
+            "Type": "PERSON",
+            "Text": "@DJAYTIGER",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9439821243286133,
+            "Type": "OTHER",
+            "Text": "#FullblastRadio.com",
+            "BeginOffset": 90,
+            "EndOffset": 109
+        },
+        {
+            "Score": 0.8791400194168091,
+            "Type": "OTHER",
+            "Text": "https://t.co/zboJ2wOofT",
+            "BeginOffset": 115,
+            "EndOffset": 138
+        }
+    ]
+}

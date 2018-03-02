@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8683007955551147,
+            "Type": "PERSON",
+            "Text": "@JSOC_DF",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.5619921088218689,
+            "Type": "ORGANIZATION",
+            "Text": "HRC",
+            "BeginOffset": 31,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9208796620368958,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 44,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.9295083284378052,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 62,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.44448500871658325,
+            "Type": "LOCATION",
+            "Text": "Pennsylvania",
+            "BeginOffset": 98,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.9585750102996826,
+            "Type": "OTHER",
+            "Text": "https://t.co/nyHr",
+            "BeginOffset": 122,
+            "EndOffset": 139
+        }
+    ]
+}

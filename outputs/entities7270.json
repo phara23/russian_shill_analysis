@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9661639928817749,
+            "Type": "LOCATION",
+            "Text": "New York",
+            "BeginOffset": 10,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9981956481933594,
+            "Type": "PERSON",
+            "Text": "Eric Garner",
+            "BeginOffset": 55,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9999505281448364,
+            "Type": "OTHER",
+            "Text": "http://t.co/lM1OYz2E0G",
+            "BeginOffset": 67,
+            "EndOffset": 89
+        }
+    ]
+}

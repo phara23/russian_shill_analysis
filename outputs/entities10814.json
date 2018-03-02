@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.802618682384491,
+            "Type": "PERSON",
+            "Text": "@stevewightman1",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9217658042907715,
+            "Type": "PERSON",
+            "Text": "Maj Megan M McClung",
+            "BeginOffset": 35,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9986610412597656,
+            "Type": "DATE",
+            "Text": "12/6/2006",
+            "BeginOffset": 61,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9881468415260315,
+            "Type": "LOCATION",
+            "Text": "Iraq",
+            "BeginOffset": 74,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.9999648332595825,
+            "Type": "OTHER",
+            "Text": "https://t.co/FtnWYq6lX1",
+            "BeginOffset": 115,
+            "EndOffset": 138
+        }
+    ]
+}

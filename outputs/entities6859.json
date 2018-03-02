@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8827787637710571,
+            "Type": "PERSON",
+            "Text": "@SugarGretel",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9920927882194519,
+            "Type": "PERSON",
+            "Text": "Bernie",
+            "BeginOffset": 17,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9950822591781616,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 46,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.8024101853370667,
+            "Type": "QUANTITY",
+            "Text": "5Words",
+            "BeginOffset": 67,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.9999734163284302,
+            "Type": "OTHER",
+            "Text": "https://t.co/WxNy9bH6e3",
+            "BeginOffset": 74,
+            "EndOffset": 97
+        }
+    ]
+}

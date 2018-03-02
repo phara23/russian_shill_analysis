@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9669812917709351,
+            "Type": "PERSON",
+            "Text": "@bob_owens",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9289881587028503,
+            "Type": "LOCATION",
+            "Text": "Louisiana",
+            "BeginOffset": 49,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9989938139915466,
+            "Type": "OTHER",
+            "Text": "https://t.co/iwYIW6r9Jo",
+            "BeginOffset": 62,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.5594532489776611,
+            "Type": "PERSON",
+            "Text": "#JoeMcKnight",
+            "BeginOffset": 102,
+            "EndOffset": 114
+        }
+    ]
+}

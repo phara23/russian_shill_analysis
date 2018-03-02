@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.97514808177948,
+            "Type": "PERSON",
+            "Text": "@aunt_deen",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8238728046417236,
+            "Type": "PERSON",
+            "Text": "@frodofied",
+            "BeginOffset": 15,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.7314926385879517,
+            "Type": "ORGANIZATION",
+            "Text": "@AP",
+            "BeginOffset": 26,
+            "EndOffset": 29
+        }
+    ]
+}

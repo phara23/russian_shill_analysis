@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8677969574928284,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9980154037475586,
+            "Type": "PERSON",
+            "Text": "Nigel Farage",
+            "BeginOffset": 14,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9958089590072632,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 39,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.938156008720398,
+            "Type": "OTHER",
+            "Text": "https://t.co/EAIMKNNeBo",
+            "BeginOffset": 58,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.7807055115699768,
+            "Type": "ORGANIZATION",
+            "Text": "@BBC5Live",
+            "BeginOffset": 82,
+            "EndOffset": 91
+        }
+    ]
+}

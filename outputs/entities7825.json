@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7597402930259705,
+            "Type": "PERSON",
+            "Text": "@RepublicanChick",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9614351987838745,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 52,
+            "EndOffset": 68
+        }
+    ]
+}

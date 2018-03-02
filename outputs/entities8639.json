@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9011183977127075,
+            "Type": "PERSON",
+            "Text": "@askboomer1949",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.4987921118736267,
+            "Type": "PERSON",
+            "Text": "#TrumpReich",
+            "BeginOffset": 55,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.5680161714553833,
+            "Type": "ORGANIZATION",
+            "Text": "#FADA",
+            "BeginOffset": 89,
+            "EndOffset": 94
+        }
+    ]
+}

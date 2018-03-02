@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8516684174537659,
+            "Type": "PERSON",
+            "Text": "@RVAwonk",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9962192177772522,
+            "Type": "PERSON",
+            "Text": "Putin",
+            "BeginOffset": 13,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.835625946521759,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 47,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9968108534812927,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 77,
+            "EndOffset": 82
+        }
+    ]
+}

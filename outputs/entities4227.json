@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7499973177909851,
+            "Type": "PERSON",
+            "Text": "@YahooNews",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.914016842842102,
+            "Type": "PERSON",
+            "Text": "@ChelseaClinton",
+            "BeginOffset": 16,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.7380169034004211,
+            "Type": "EVENT",
+            "Text": "#Hillary2016",
+            "BeginOffset": 71,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.8230347633361816,
+            "Type": "ORGANIZATION",
+            "Text": "White House",
+            "BeginOffset": 110,
+            "EndOffset": 121
+        },
+        {
+            "Score": 0.7668485641479492,
+            "Type": "OTHER",
+            "Text": "http://t",
+            "BeginOffset": 131,
+            "EndOffset": 139
+        }
+    ]
+}

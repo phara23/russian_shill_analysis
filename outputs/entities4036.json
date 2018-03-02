@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8961405754089355,
+            "Type": "PERSON",
+            "Text": "@RobHoey",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.7593966722488403,
+            "Type": "LOCATION",
+            "Text": "Pakistan",
+            "BeginOffset": 42,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.580237627029419,
+            "Type": "ORGANIZATION",
+            "Text": "Chipotle",
+            "BeginOffset": 61,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9912942051887512,
+            "Type": "OTHER",
+            "Text": "https://t.co/IXpw5OcoL3",
+            "BeginOffset": 71,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.9315217733383179,
+            "Type": "ORGANIZATION",
+            "Text": "@RobHoey",
+            "BeginOffset": 99,
+            "EndOffset": 107
+        }
+    ]
+}

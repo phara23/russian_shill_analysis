@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6760780215263367,
+            "Type": "PERSON",
+            "Text": "@Nuface",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.8535946607589722,
+            "Type": "PERSON",
+            "Text": "@ElliottWilson",
+            "BeginOffset": 122,
+            "EndOffset": 136
+        }
+    ]
+}

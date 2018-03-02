@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.33687299489974976,
+            "Type": "LOCATION",
+            "Text": "#NY",
+            "BeginOffset": 0,
+            "EndOffset": 3
+        },
+        {
+            "Score": 0.4964938461780548,
+            "Type": "PERSON",
+            "Text": "#DeanSkelos",
+            "BeginOffset": 25,
+            "EndOffset": 36
+        }
+    ]
+}

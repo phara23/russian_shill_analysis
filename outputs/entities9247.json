@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7984397411346436,
+            "Type": "PERSON",
+            "Text": "@TheVoiceOfPaulR",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8906522989273071,
+            "Type": "PERSON",
+            "Text": "@LToddWood",
+            "BeginOffset": 46,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.628378689289093,
+            "Type": "PERSON",
+            "Text": "Alma",
+            "BeginOffset": 68,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.9599965214729309,
+            "Type": "ORGANIZATION",
+            "Text": "Naval Academy",
+            "BeginOffset": 80,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.9992170333862305,
+            "Type": "OTHER",
+            "Text": "https://t.co/kYoehszlEt",
+            "BeginOffset": 116,
+            "EndOffset": 139
+        }
+    ]
+}

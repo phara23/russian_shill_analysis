@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8807756900787354,
+            "Type": "PERSON",
+            "Text": "@policalnews_usa",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9723597764968872,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 66,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9923843741416931,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 69,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.8432050943374634,
+            "Type": "OTHER",
+            "Text": "https://t.co/S3pM9JR196",
+            "BeginOffset": 89,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.9999899864196777,
+            "Type": "OTHER",
+            "Text": "https://t.co/6JM8EZI38M",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        }
+    ]
+}

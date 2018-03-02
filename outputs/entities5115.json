@@ -1,0 +1,74 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8688101172447205,
+            "Type": "PERSON",
+            "Text": "@lupash7",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8896365165710449,
+            "Type": "PERSON",
+            "Text": "@KCarslin",
+            "BeginOffset": 13,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.6003184914588928,
+            "Type": "QUANTITY",
+            "Text": "one smh",
+            "BeginOffset": 23,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9750759601593018,
+            "Type": "PERSON",
+            "Text": "@JHWalz32",
+            "BeginOffset": 48,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9501322507858276,
+            "Type": "PERSON",
+            "Text": "@jwsnyder00_john",
+            "BeginOffset": 58,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9901606440544128,
+            "Type": "PERSON",
+            "Text": "@GeraldYak420",
+            "BeginOffset": 75,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.969626784324646,
+            "Type": "PERSON",
+            "Text": "@mikerzer",
+            "BeginOffset": 89,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.9730255603790283,
+            "Type": "PERSON",
+            "Text": "@SarCatStyX",
+            "BeginOffset": 99,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.9592437148094177,
+            "Type": "PERSON",
+            "Text": "@JadedByPolitics",
+            "BeginOffset": 111,
+            "EndOffset": 127
+        },
+        {
+            "Score": 0.9638748168945312,
+            "Type": "PERSON",
+            "Text": "@AcidBrainW",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

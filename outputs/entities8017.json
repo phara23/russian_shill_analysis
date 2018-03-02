@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9181321263313293,
+            "Type": "PERSON",
+            "Text": "@glee59",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.8914644122123718,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 12,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9999419450759888,
+            "Type": "OTHER",
+            "Text": "https://t.co/ntVxgoMM7C",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9970651268959045,
+            "Type": "PERSON",
+            "Text": "Kellyanne Conway",
+            "BeginOffset": 0,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9849371314048767,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 43,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.8985551595687866,
+            "Type": "QUANTITY",
+            "Text": "1 Sentence",
+            "BeginOffset": 63,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.9999898672103882,
+            "Type": "OTHER",
+            "Text": "https://t.co/XWR32q7IIu",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        }
+    ]
+}

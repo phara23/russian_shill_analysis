@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.643376886844635,
+            "Type": "ORGANIZATION",
+            "Text": "@wikileaks",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.6463128328323364,
+            "Type": "LOCATION",
+            "Text": "Ecuador",
+            "BeginOffset": 30,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.41526636481285095,
+            "Type": "ORGANIZATION",
+            "Text": "Assange",
+            "BeginOffset": 46,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9688777327537537,
+            "Type": "DATE",
+            "Text": "Saturday, 5pm GMT",
+            "BeginOffset": 72,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.8568313121795654,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 120,
+            "EndOffset": 127
+        },
+        {
+            "Score": 0.78664231300354,
+            "Type": "ORGANIZATION",
+            "Text": "Goldman S",
+            "BeginOffset": 130,
+            "EndOffset": 139
+        }
+    ]
+}

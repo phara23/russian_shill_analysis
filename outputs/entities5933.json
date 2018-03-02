@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7841174006462097,
+            "Type": "PERSON",
+            "Text": "@DarkStream",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9034514427185059,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 33,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9996758699417114,
+            "Type": "OTHER",
+            "Text": "https://t.co/VpfppO6E8f",
+            "BeginOffset": 48,
+            "EndOffset": 71
+        }
+    ]
+}

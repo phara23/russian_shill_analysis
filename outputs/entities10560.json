@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9365304112434387,
+            "Type": "PERSON",
+            "Text": "@floyd_patrick",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6357356309890747,
+            "Type": "ORGANIZATION",
+            "Text": "Muslim",
+            "BeginOffset": 41,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.4945107400417328,
+            "Type": "QUANTITY",
+            "Text": "Thousands",
+            "BeginOffset": 84,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.9192546606063843,
+            "Type": "ORGANIZATION",
+            "Text": "Muslims",
+            "BeginOffset": 97,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.932060956954956,
+            "Type": "OTHER",
+            "Text": "https://t.co/fwZH9NVIjg",
+            "BeginOffset": 106,
+            "EndOffset": 129
+        },
+        {
+            "Score": 0.8178244829177856,
+            "Type": "ORGANIZATION",
+            "Text": "@100p",
+            "BeginOffset": 134,
+            "EndOffset": 139
+        }
+    ]
+}

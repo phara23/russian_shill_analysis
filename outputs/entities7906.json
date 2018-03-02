@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8420317769050598,
+            "Type": "PERSON",
+            "Text": "@MrNegroMilitant",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8532714247703552,
+            "Type": "LOCATION",
+            "Text": "USA",
+            "BeginOffset": 35,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.8716838359832764,
+            "Type": "LOCATION",
+            "Text": "North Korea",
+            "BeginOffset": 72,
+            "EndOffset": 83
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8737390637397766,
+            "Type": "PERSON",
+            "Text": "@davidsirota",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8921255469322205,
+            "Type": "PERSON",
+            "Text": "@ggreenwald",
+            "BeginOffset": 17,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9423653483390808,
+            "Type": "PERSON",
+            "Text": "@mattyglesias",
+            "BeginOffset": 29,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.8601574897766113,
+            "Type": "PERSON",
+            "Text": "@bwreed Clinton",
+            "BeginOffset": 43,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9676225185394287,
+            "Type": "OTHER",
+            "Text": "https://t.c",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

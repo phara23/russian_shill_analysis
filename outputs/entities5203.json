@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8743565678596497,
+            "Type": "PERSON",
+            "Text": "@samueloakford",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.985080897808075,
+            "Type": "QUANTITY",
+            "Text": "19.4 million",
+            "BeginOffset": 46,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.982266902923584,
+            "Type": "QUANTITY",
+            "Text": "14.1 million",
+            "BeginOffset": 113,
+            "EndOffset": 125
+        }
+    ]
+}

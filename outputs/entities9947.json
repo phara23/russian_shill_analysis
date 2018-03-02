@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7997957468032837,
+            "Type": "PERSON",
+            "Text": "@AbnInfVet",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9585298895835876,
+            "Type": "OTHER",
+            "Text": "https://t.co/rRZgBcU8tm",
+            "BeginOffset": 94,
+            "EndOffset": 117
+        },
+        {
+            "Score": 0.7297373414039612,
+            "Type": "DATE",
+            "Text": "March",
+            "BeginOffset": 119,
+            "EndOffset": 124
+        }
+    ]
+}

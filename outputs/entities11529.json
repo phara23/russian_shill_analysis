@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9048202037811279,
+            "Type": "PERSON",
+            "Text": "@yebalnik",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9719510674476624,
+            "Type": "PERSON",
+            "Text": "@sand3633",
+            "BeginOffset": 14,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9009557366371155,
+            "Type": "PERSON",
+            "Text": "@banditville2014",
+            "BeginOffset": 24,
+            "EndOffset": 40
+        }
+    ]
+}

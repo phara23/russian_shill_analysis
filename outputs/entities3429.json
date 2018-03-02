@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9350959062576294,
+            "Type": "PERSON",
+            "Text": "@jojokejohn",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.6762552857398987,
+            "Type": "ORGANIZATION",
+            "Text": "WARNER BROS STUDIO",
+            "BeginOffset": 81,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.6935024261474609,
+            "Type": "DATE",
+            "Text": "1998",
+            "BeginOffset": 127,
+            "EndOffset": 131
+        }
+    ]
+}

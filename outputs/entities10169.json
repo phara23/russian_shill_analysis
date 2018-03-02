@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4814368784427643,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8302581310272217,
+            "Type": "PERSON",
+            "Text": "@Miami4Trump",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.5388208031654358,
+            "Type": "ORGANIZATION",
+            "Text": "Globalist Soros",
+            "BeginOffset": 35,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.48310795426368713,
+            "Type": "PERSON",
+            "Text": "Merkel",
+            "BeginOffset": 58,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.837077260017395,
+            "Type": "QUANTITY",
+            "Text": "100,000",
+            "BeginOffset": 82,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.8995795249938965,
+            "Type": "ORGANIZATION",
+            "Text": "Muslim",
+            "BeginOffset": 97,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.49168750643730164,
+            "Type": "ORGANIZATION",
+            "Text": "#MAGA",
+            "BeginOffset": 125,
+            "EndOffset": 130
+        }
+    ]
+}

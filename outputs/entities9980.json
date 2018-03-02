@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.93308025598526,
+            "Type": "PERSON",
+            "Text": "@BJTitzenbier",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8831123113632202,
+            "Type": "PERSON",
+            "Text": "Manda",
+            "BeginOffset": 48,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9999896287918091,
+            "Type": "OTHER",
+            "Text": "https://t.co/i6xt5f9qx0",
+            "BeginOffset": 55,
+            "EndOffset": 78
+        }
+    ]
+}

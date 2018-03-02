@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7159799337387085,
+            "Type": "PERSON",
+            "Text": "@BleacherReport",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9997689127922058,
+            "Type": "OTHER",
+            "Text": "https://t.co/f0juKg9COz",
+            "BeginOffset": 63,
+            "EndOffset": 86
+        }
+    ]
+}

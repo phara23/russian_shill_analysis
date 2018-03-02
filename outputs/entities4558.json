@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7039894461631775,
+            "Type": "PERSON",
+            "Text": "@ReutersPolitics",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.824676513671875,
+            "Type": "LOCATION",
+            "Text": "Mexico",
+            "BeginOffset": 21,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9850597381591797,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 44,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.868018388748169,
+            "Type": "OTHER",
+            "Text": "https://t.co/NZT6NVNZoy",
+            "BeginOffset": 114,
+            "EndOffset": 137
+        }
+    ]
+}

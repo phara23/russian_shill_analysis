@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9185565114021301,
+            "Type": "PERSON",
+            "Text": "@promisedamutant",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9998173117637634,
+            "Type": "PERSON",
+            "Text": "Mike Pence",
+            "BeginOffset": 28,
+            "EndOffset": 38
+        }
+    ]
+}

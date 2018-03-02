@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8250312209129333,
+            "Type": "PERSON",
+            "Text": "@xtophercook",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9521371126174927,
+            "Type": "PERSON",
+            "Text": "@DavidDavisMP",
+            "BeginOffset": 18,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9998953342437744,
+            "Type": "OTHER",
+            "Text": "https://t.co/jrmGaKX11y",
+            "BeginOffset": 33,
+            "EndOffset": 56
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9616370797157288,
+            "Type": "PERSON",
+            "Text": "@JohnSmith112221",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9160903692245483,
+            "Type": "PERSON",
+            "Text": "@HouseCracka",
+            "BeginOffset": 22,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9985697269439697,
+            "Type": "DATE",
+            "Text": "1979",
+            "BeginOffset": 38,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.99896639585495,
+            "Type": "PERSON",
+            "Text": "George Will",
+            "BeginOffset": 51,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.946953535079956,
+            "Type": "PERSON",
+            "Text": "Reagan",
+            "BeginOffset": 75,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.899933934211731,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 114,
+            "EndOffset": 117
+        },
+        {
+            "Score": 0.9984725117683411,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 119,
+            "EndOffset": 124
+        }
+    ]
+}

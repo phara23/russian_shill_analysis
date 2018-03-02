@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9982960820198059,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9910127520561218,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 12,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8376568555831909,
+            "Type": "PERSON",
+            "Text": "Blunt-Kander",
+            "BeginOffset": 21,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9881623387336731,
+            "Type": "LOCATION",
+            "Text": "Missouri",
+            "BeginOffset": 51,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.9998730421066284,
+            "Type": "OTHER",
+            "Text": "https://t.co/3ERcpyAeB2",
+            "BeginOffset": 60,
+            "EndOffset": 83
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.873758852481842,
+            "Type": "PERSON",
+            "Text": "@AnnoGalactic",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9703951478004456,
+            "Type": "PERSON",
+            "Text": "Billy",
+            "BeginOffset": 20,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.6703500747680664,
+            "Type": "PERSON",
+            "Text": "HahaaaaaaAAAAAAAAAAAAAAAAAA",
+            "BeginOffset": 48,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.9963403940200806,
+            "Type": "PERSON",
+            "Text": "Donald",
+            "BeginOffset": 90,
+            "EndOffset": 96
+        }
+    ]
+}

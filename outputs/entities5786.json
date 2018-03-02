@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8451393246650696,
+            "Type": "PERSON",
+            "Text": "@bocavista2016",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9953527450561523,
+            "Type": "PERSON",
+            "Text": "Linda Bean",
+            "BeginOffset": 47,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.8090816736221313,
+            "Type": "PERSON",
+            "Text": "LL Bean",
+            "BeginOffset": 61,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.94666588306427,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 86,
+            "EndOffset": 102
+        }
+    ]
+}

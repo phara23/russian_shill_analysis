@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8077723979949951,
+            "Type": "PERSON",
+            "Text": "@VedoTheSinger",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9901249408721924,
+            "Type": "QUANTITY",
+            "Text": "5 days",
+            "BeginOffset": 48,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9153437614440918,
+            "Type": "EVENT",
+            "Text": "New Year",
+            "BeginOffset": 64,
+            "EndOffset": 72
+        }
+    ]
+}

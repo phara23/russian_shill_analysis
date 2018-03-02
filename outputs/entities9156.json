@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7979111075401306,
+            "Type": "PERSON",
+            "Text": "@mashable",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9996165633201599,
+            "Type": "PERSON",
+            "Text": "Kylie Jenner",
+            "BeginOffset": 18,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9999572038650513,
+            "Type": "OTHER",
+            "Text": "http://t.co/4yK9jBNjsz",
+            "BeginOffset": 94,
+            "EndOffset": 116
+        }
+    ]
+}

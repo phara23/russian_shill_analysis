@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7772670388221741,
+            "Type": "PERSON",
+            "Text": "@TheYoungTurks",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9303584098815918,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 20,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9999376535415649,
+            "Type": "OTHER",
+            "Text": "https://t.co/a3WTZ0fIXz",
+            "BeginOffset": 87,
+            "EndOffset": 110
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8535458445549011,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8931718468666077,
+            "Type": "PERSON",
+            "Text": "Bernie Mac",
+            "BeginOffset": 91,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.9549890160560608,
+            "Type": "OTHER",
+            "Text": "https://t.co/6wLq",
+            "BeginOffset": 122,
+            "EndOffset": 139
+        }
+    ]
+}

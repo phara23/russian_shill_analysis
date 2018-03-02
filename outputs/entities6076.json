@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8445173501968384,
+            "Type": "PERSON",
+            "Text": "@WVON1690",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8632262349128723,
+            "Type": "DATE",
+            "Text": "TONIGHT",
+            "BeginOffset": 14,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9611704349517822,
+            "Type": "DATE",
+            "Text": "Wednesday night",
+            "BeginOffset": 57,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.579493522644043,
+            "Type": "TITLE",
+            "Text": "Real Talk",
+            "BeginOffset": 84,
+            "EndOffset": 93
+        }
+    ]
+}

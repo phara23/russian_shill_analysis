@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8871981501579285,
+            "Type": "PERSON",
+            "Text": "@chuckwoolery",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7520648241043091,
+            "Type": "ORGANIZATION",
+            "Text": "UN",
+            "BeginOffset": 56,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.8397753238677979,
+            "Type": "ORGANIZATION",
+            "Text": "UN",
+            "BeginOffset": 80,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.5573089122772217,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 88,
+            "EndOffset": 95
+        }
+    ]
+}

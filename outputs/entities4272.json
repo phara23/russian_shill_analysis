@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7448774576187134,
+            "Type": "PERSON",
+            "Text": "@benmaller",
+            "BeginOffset": 1,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9988689422607422,
+            "Type": "PERSON",
+            "Text": "Ben Maller",
+            "BeginOffset": 45,
+            "EndOffset": 55
+        }
+    ]
+}

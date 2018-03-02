@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7716431617736816,
+            "Type": "PERSON",
+            "Text": "@FKATWlNK",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8473278284072876,
+            "Type": "QUANTITY",
+            "Text": "fifth harmony",
+            "BeginOffset": 14,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9372240304946899,
+            "Type": "PERSON",
+            "Text": "rihanna",
+            "BeginOffset": 54,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9998891353607178,
+            "Type": "OTHER",
+            "Text": "https://t.co/tlRlb0Rygl",
+            "BeginOffset": 62,
+            "EndOffset": 85
+        }
+    ]
+}

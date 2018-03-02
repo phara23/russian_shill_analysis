@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5142120718955994,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8178034424781799,
+            "Type": "ORGANIZATION",
+            "Text": "@AG_Conservative",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.5129300951957703,
+            "Type": "LOCATION",
+            "Text": "Russia",
+            "BeginOffset": 84,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9358978867530823,
+            "Type": "OTHER",
+            "Text": "https://t.co/jrJGMDfhqt",
+            "BeginOffset": 92,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.7287895679473877,
+            "Type": "ORGANIZATION",
+            "Text": "@ChasFlemming",
+            "BeginOffset": 116,
+            "EndOffset": 129
+        }
+    ]
+}

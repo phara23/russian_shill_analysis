@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.81255042552948,
+            "Type": "PERSON",
+            "Text": "@tasteofaz",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9451900720596313,
+            "Type": "OTHER",
+            "Text": "https://t.co/PdiUhT03LD",
+            "BeginOffset": 54,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.6334869861602783,
+            "Type": "QUANTITY",
+            "Text": "16 VOTE",
+            "BeginOffset": 89,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.7982121109962463,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 101,
+            "EndOffset": 104
+        }
+    ]
+}

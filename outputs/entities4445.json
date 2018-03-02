@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5811253786087036,
+            "Type": "QUANTITY",
+            "Text": "#13",
+            "BeginOffset": 0,
+            "EndOffset": 3
+        },
+        {
+            "Score": 0.9567790031433105,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 36,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9023927450180054,
+            "Type": "OTHER",
+            "Text": "https://t.co/hExZ6Bml53",
+            "BeginOffset": 56,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.520734429359436,
+            "Type": "OTHER",
+            "Text": "American",
+            "BeginOffset": 82,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.811490535736084,
+            "Type": "OTHER",
+            "Text": "https://t.co/oGgBgi9cS1",
+            "BeginOffset": 108,
+            "EndOffset": 131
+        },
+        {
+            "Score": 0.5152289271354675,
+            "Type": "OTHER",
+            "Text": "123",
+            "BeginOffset": 132,
+            "EndOffset": 135
+        }
+    ]
+}

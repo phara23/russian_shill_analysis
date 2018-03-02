@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8248551487922668,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8829526305198669,
+            "Type": "PERSON",
+            "Text": "@YNaija",
+            "BeginOffset": 14,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.7596699595451355,
+            "Type": "ORGANIZATION",
+            "Text": "Church Blog",
+            "BeginOffset": 28,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9286133050918579,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 64,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9997085928916931,
+            "Type": "OTHER",
+            "Text": "https://t.co/fLHaROqvZq",
+            "BeginOffset": 79,
+            "EndOffset": 102
+        }
+    ]
+}

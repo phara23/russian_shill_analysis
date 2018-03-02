@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8348050713539124,
+            "Type": "PERSON",
+            "Text": "@Nottinghams1",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9752206802368164,
+            "Type": "QUANTITY",
+            "Text": "12 hour",
+            "BeginOffset": 39,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9560295939445496,
+            "Type": "ORGANIZATION",
+            "Text": "#Twitter",
+            "BeginOffset": 60,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.8996527791023254,
+            "Type": "ORGANIZATION",
+            "Text": "Muslim",
+            "BeginOffset": 99,
+            "EndOffset": 105
+        }
+    ]
+}

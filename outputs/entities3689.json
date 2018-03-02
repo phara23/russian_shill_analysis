@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9883636236190796,
+            "Type": "DATE",
+            "Text": "Saturday",
+            "BeginOffset": 12,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.8888682723045349,
+            "Type": "OTHER",
+            "Text": "https://t.co/6oAQlUj8KK",
+            "BeginOffset": 45,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9998636245727539,
+            "Type": "OTHER",
+            "Text": "https://t.co/k0nElyiMUH",
+            "BeginOffset": 69,
+            "EndOffset": 92
+        }
+    ]
+}

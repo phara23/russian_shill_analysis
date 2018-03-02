@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9349386692047119,
+            "Type": "PERSON",
+            "Text": "@ErinLichnovsky",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.5062528848648071,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 20,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.8536733984947205,
+            "Type": "PERSON",
+            "Text": "@JosephEach",
+            "BeginOffset": 23,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.8675647377967834,
+            "Type": "QUANTITY",
+            "Text": "one day",
+            "BeginOffset": 43,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.8922256231307983,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 87,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.8186026215553284,
+            "Type": "PERSON",
+            "Text": "@tedcruz",
+            "BeginOffset": 100,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.9817472100257874,
+            "Type": "OTHER",
+            "Text": "https://t.co/S1hKqwE",
+            "BeginOffset": 119,
+            "EndOffset": 139
+        }
+    ]
+}

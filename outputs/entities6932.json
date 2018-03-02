@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8208858966827393,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9993565082550049,
+            "Type": "PERSON",
+            "Text": "Colin Kaepernick",
+            "BeginOffset": 13,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9274977445602417,
+            "Type": "OTHER",
+            "Text": "https://t.co/OmmcTQG5CA",
+            "BeginOffset": 54,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.7155704498291016,
+            "Type": "PERSON",
+            "Text": "@NewsOne",
+            "BeginOffset": 78,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9999265670776367,
+            "Type": "OTHER",
+            "Text": "https://t.co/HxwO5MQObb",
+            "BeginOffset": 87,
+            "EndOffset": 110
+        }
+    ]
+}

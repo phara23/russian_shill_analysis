@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6908087134361267,
+            "Type": "ORGANIZATION",
+            "Text": "@Slate",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9997640252113342,
+            "Type": "PERSON",
+            "Text": "David Letterman",
+            "BeginOffset": 11,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9985581040382385,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 61,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.9026080369949341,
+            "Type": "OTHER",
+            "Text": "http://t.co/6HGJdIWfUT",
+            "BeginOffset": 75,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.9999275207519531,
+            "Type": "OTHER",
+            "Text": "http://t.co/IHHidtZ6zj",
+            "BeginOffset": 98,
+            "EndOffset": 120
+        }
+    ]
+}

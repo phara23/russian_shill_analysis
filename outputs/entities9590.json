@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8997885584831238,
+            "Type": "PERSON",
+            "Text": "Iron Man",
+            "BeginOffset": 0,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.8036901354789734,
+            "Type": "DATE",
+            "Text": "1:44",
+            "BeginOffset": 46,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9996777772903442,
+            "Type": "OTHER",
+            "Text": "http://t.co/BlXc7moXzw",
+            "BeginOffset": 51,
+            "EndOffset": 73
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9558916091918945,
+            "Type": "PERSON",
+            "Text": "@JulianRoepcke",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8937100172042847,
+            "Type": "OTHER",
+            "Text": "Russian",
+            "BeginOffset": 25,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9998862743377686,
+            "Type": "PERSON",
+            "Text": "Alexei Kungurov",
+            "BeginOffset": 41,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9820137023925781,
+            "Type": "QUANTITY",
+            "Text": "2 years",
+            "BeginOffset": 74,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.9502193927764893,
+            "Type": "OTHER",
+            "Text": "paragraph 205",
+            "BeginOffset": 88,
+            "EndOffset": 101
+        }
+    ]
+}

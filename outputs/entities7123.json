@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6370459198951721,
+            "Type": "ORGANIZATION",
+            "Text": "#PJNET",
+            "BeginOffset": 13,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.4292089343070984,
+            "Type": "ORGANIZATION",
+            "Text": "#CruzCrew",
+            "BeginOffset": 27,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.8047143816947937,
+            "Type": "DATE",
+            "Text": "Monday",
+            "BeginOffset": 52,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9731765389442444,
+            "Type": "DATE",
+            "Text": "8pm ET",
+            "BeginOffset": 61,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.8579325675964355,
+            "Type": "PERSON",
+            "Text": "Cruz",
+            "BeginOffset": 80,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9999535083770752,
+            "Type": "OTHER",
+            "Text": "https://t.co/JEEdBO8hJa",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        }
+    ]
+}

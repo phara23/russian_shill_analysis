@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9085739850997925,
+            "Type": "PERSON",
+            "Text": "@likemyposts23",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7708407640457153,
+            "Type": "TITLE",
+            "Text": "Sponge Bob",
+            "BeginOffset": 47,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.6824629902839661,
+            "Type": "ORGANIZATION",
+            "Text": "Cartoon Geek",
+            "BeginOffset": 79,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.9999819993972778,
+            "Type": "OTHER",
+            "Text": "https://t.co/fUS7XzshoG",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        }
+    ]
+}

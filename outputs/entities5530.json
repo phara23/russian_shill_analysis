@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9903345704078674,
+            "Type": "OTHER",
+            "Text": "http://t.co/BNWkN44o7V",
+            "BeginOffset": 0,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9988362193107605,
+            "Type": "PERSON",
+            "Text": "Kim Kardashian",
+            "BeginOffset": 23,
+            "EndOffset": 37
+        }
+    ]
+}

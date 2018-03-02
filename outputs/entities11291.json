@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8573410511016846,
+            "Type": "PERSON",
+            "Text": "@EasyEarl",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8071252703666687,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 28,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.8419426679611206,
+            "Type": "ORGANIZATION",
+            "Text": "Muslim",
+            "BeginOffset": 40,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.5202592611312866,
+            "Type": "LOCATION",
+            "Text": "Texas",
+            "BeginOffset": 63,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.999596893787384,
+            "Type": "OTHER",
+            "Text": "https://t.co/rr503b8127",
+            "BeginOffset": 77,
+            "EndOffset": 100
+        }
+    ]
+}

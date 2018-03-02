@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7626492977142334,
+            "Type": "PERSON",
+            "Text": "@kimoco",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9068842530250549,
+            "Type": "PERSON",
+            "Text": "@baltimoresun",
+            "BeginOffset": 12,
+            "EndOffset": 25
+        }
+    ]
+}

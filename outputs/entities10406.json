@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8255079984664917,
+            "Type": "PERSON",
+            "Text": "@osPatriot",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9882723689079285,
+            "Type": "PERSON",
+            "Text": "@MichelleObama",
+            "BeginOffset": 47,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9106087684631348,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 89,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.9459931254386902,
+            "Type": "OTHER",
+            "Text": "https://t.co",
+            "BeginOffset": 127,
+            "EndOffset": 139
+        }
+    ]
+}

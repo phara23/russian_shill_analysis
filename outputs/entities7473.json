@@ -1,0 +1,74 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7586865425109863,
+            "Type": "PERSON",
+            "Text": "@LadyLiberTea",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.4740438461303711,
+            "Type": "PERSON",
+            "Text": "#StillBernie",
+            "BeginOffset": 18,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.4222356975078583,
+            "Type": "PERSON",
+            "Text": "#JillNotHill",
+            "BeginOffset": 31,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.4756019413471222,
+            "Type": "PERSON",
+            "Text": "#NeverHillary",
+            "BeginOffset": 44,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9644391536712646,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 67,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.40916717052459717,
+            "Type": "ORGANIZATION",
+            "Text": "#MAGA",
+            "BeginOffset": 72,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.5209115743637085,
+            "Type": "PERSON",
+            "Text": "#Trump",
+            "BeginOffset": 78,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.45290467143058777,
+            "Type": "PERSON",
+            "Text": "#TrumpPence",
+            "BeginOffset": 85,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.9947078227996826,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 96,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.9998916387557983,
+            "Type": "OTHER",
+            "Text": "https://t.co/dcgTLDCvSb",
+            "BeginOffset": 101,
+            "EndOffset": 124
+        }
+    ]
+}

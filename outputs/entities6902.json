@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9341807961463928,
+            "Type": "PERSON",
+            "Text": "@JthanPrime",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.6039684414863586,
+            "Type": "PERSON",
+            "Text": "Miley",
+            "BeginOffset": 26,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9995759129524231,
+            "Type": "OTHER",
+            "Text": "https://t.co/cSmNAQdugE",
+            "BeginOffset": 47,
+            "EndOffset": 70
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7769442796707153,
+            "Type": "PERSON",
+            "Text": "@NoobamaC",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8923999071121216,
+            "Type": "PERSON",
+            "Text": "@karensvest",
+            "BeginOffset": 53,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9970201253890991,
+            "Type": "PERSON",
+            "Text": "@rescuetracker81",
+            "BeginOffset": 65,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.9927173256874084,
+            "Type": "PERSON",
+            "Text": "@reg1776",
+            "BeginOffset": 82,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.995064377784729,
+            "Type": "PERSON",
+            "Text": "@johnand2015",
+            "BeginOffset": 91,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.9943215250968933,
+            "Type": "PERSON",
+            "Text": "@gdshaver16",
+            "BeginOffset": 104,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.9505213499069214,
+            "Type": "PERSON",
+            "Text": "@tweets1959",
+            "BeginOffset": 116,
+            "EndOffset": 127
+        }
+    ]
+}

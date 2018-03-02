@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9058629274368286,
+            "Type": "PERSON",
+            "Text": "@thePatriciaRae",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.6483030319213867,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 20,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9547091126441956,
+            "Type": "LOCATION",
+            "Text": "Canada",
+            "BeginOffset": 49,
+            "EndOffset": 55
+        }
+    ]
+}

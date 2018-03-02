@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.939566433429718,
+            "Type": "PERSON",
+            "Text": "@king_sparc",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8474921584129333,
+            "Type": "EVENT",
+            "Text": "Christmas",
+            "BeginOffset": 22,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9393627643585205,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 105,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.9999868869781494,
+            "Type": "OTHER",
+            "Text": "https://t.co/M4JA9o4d9h",
+            "BeginOffset": 114,
+            "EndOffset": 137
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.99867844581604,
+            "Text": "a question",
+            "BeginOffset": 7,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9745275974273682,
+            "Text": "all the Trump supporters",
+            "BeginOffset": 21,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9983283281326294,
+            "Text": "your mind",
+            "BeginOffset": 73,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.7859326004981995,
+            "Text": "voting",
+            "BeginOffset": 86,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.9997287392616272,
+            "Text": "a woman",
+            "BeginOffset": 115,
+            "EndOffset": 122
+        },
+        {
+            "Score": 0.9958629012107849,
+            "Text": "air",
+            "BeginOffset": 126,
+            "EndOffset": 129
+        }
+    ]
+}

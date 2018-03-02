@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6793062686920166,
+            "Type": "PERSON",
+            "Text": "@LibertyNews",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9483168721199036,
+            "Type": "DATE",
+            "Text": "1776",
+            "BeginOffset": 15,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9997887015342712,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 21,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.813247561454773,
+            "Type": "QUANTITY",
+            "Text": "hundreds",
+            "BeginOffset": 45,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9997719526290894,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 58,
+            "EndOffset": 70
+        }
+    ]
+}

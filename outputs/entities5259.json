@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9174371361732483,
+            "Type": "PERSON",
+            "Text": "@Jesus_isPeace",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.743605375289917,
+            "Type": "ORGANIZATION",
+            "Text": "@POTUS",
+            "BeginOffset": 101,
+            "EndOffset": 107
+        }
+    ]
+}

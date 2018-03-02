@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6429464817047119,
+            "Type": "PERSON",
+            "Text": "@PolarMovement_",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9391375780105591,
+            "Type": "PERSON",
+            "Text": "Martin",
+            "BeginOffset": 20,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9988318085670471,
+            "Type": "OTHER",
+            "Text": "https://t.co/6BgZ0VeCsM",
+            "BeginOffset": 56,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.979630708694458,
+            "Type": "DATE",
+            "Text": "today",
+            "BeginOffset": 90,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.9434812664985657,
+            "Type": "OTHER",
+            "Text": "https://t.co/rEzL",
+            "BeginOffset": 122,
+            "EndOffset": 139
+        }
+    ]
+}

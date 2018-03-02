@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8289830684661865,
+            "Type": "PERSON",
+            "Text": "@RundownLive",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9856911897659302,
+            "Type": "PERSON",
+            "Text": "Gavin Mcinnes",
+            "BeginOffset": 17,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9999325275421143,
+            "Type": "OTHER",
+            "Text": "https://t.co/ReLDUmY73x",
+            "BeginOffset": 71,
+            "EndOffset": 94
+        }
+    ]
+}

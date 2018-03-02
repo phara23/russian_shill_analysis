@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8897396326065063,
+            "Type": "PERSON",
+            "Text": "@_YvonneBurton",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9496704936027527,
+            "Type": "PERSON",
+            "Text": "@mitchellvii",
+            "BeginOffset": 19,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.6586704850196838,
+            "Type": "LOCATION",
+            "Text": "earth",
+            "BeginOffset": 54,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.41442611813545227,
+            "Type": "LOCATION",
+            "Text": "AZ",
+            "BeginOffset": 101,
+            "EndOffset": 103
+        }
+    ]
+}

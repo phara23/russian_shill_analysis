@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.813629150390625,
+            "Type": "PERSON",
+            "Text": "@realGeorgeTorr",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8880155682563782,
+            "Type": "PERSON",
+            "Text": "@ananavarro",
+            "BeginOffset": 20,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.8403916358947754,
+            "Type": "PERSON",
+            "Text": "@donlemon",
+            "BeginOffset": 67,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.8448206782341003,
+            "Type": "ORGANIZATION",
+            "Text": "@CNN",
+            "BeginOffset": 77,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.9875775575637817,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 102,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.9999947547912598,
+            "Type": "OTHER",
+            "Text": "https://t.co/9zX85LAnCT",
+            "BeginOffset": 107,
+            "EndOffset": 130
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8768879771232605,
+            "Type": "PERSON",
+            "Text": "@SocialinAlex",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.6058436036109924,
+            "Type": "ORGANIZATION",
+            "Text": "Metro DC",
+            "BeginOffset": 18,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9918594360351562,
+            "Type": "ORGANIZATION",
+            "Text": "Northern Virginia Business Network",
+            "BeginOffset": 31,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9974013566970825,
+            "Type": "ORGANIZATION",
+            "Text": "LinkedIn",
+            "BeginOffset": 69,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9120510816574097,
+            "Type": "OTHER",
+            "Text": "https://t.co/XUW5o3GlND",
+            "BeginOffset": 91,
+            "EndOffset": 114
+        }
+    ]
+}

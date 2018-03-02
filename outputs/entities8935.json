@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7608574032783508,
+            "Type": "PERSON",
+            "Text": "@BizLifePHL",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9085639715194702,
+            "Type": "PERSON",
+            "Text": "@SSC00K",
+            "BeginOffset": 77,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.8804014325141907,
+            "Type": "PERSON",
+            "Text": "@adjunctprofessr",
+            "BeginOffset": 85,
+            "EndOffset": 101
+        }
+    ]
+}

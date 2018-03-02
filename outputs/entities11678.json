@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9412122368812561,
+            "Type": "PERSON",
+            "Text": "@el_budget",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9998196959495544,
+            "Type": "OTHER",
+            "Text": "https://t.co/o5y9tBYmse",
+            "BeginOffset": 89,
+            "EndOffset": 112
+        }
+    ]
+}

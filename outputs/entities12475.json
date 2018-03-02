@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7778436541557312,
+            "Type": "PERSON",
+            "Text": "Baloo",
+            "BeginOffset": 76,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.7366082668304443,
+            "Type": "TITLE",
+            "Text": "Jungle Book",
+            "BeginOffset": 83,
+            "EndOffset": 94
+        }
+    ]
+}

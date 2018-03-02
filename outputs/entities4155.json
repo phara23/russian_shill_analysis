@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7195602655410767,
+            "Type": "PERSON",
+            "Text": "@petefrt",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9863488674163818,
+            "Type": "OTHER",
+            "Text": "https://t.co/dHRZqqd5nX",
+            "BeginOffset": 74,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.5198525786399841,
+            "Type": "QUANTITY",
+            "Text": "#p2",
+            "BeginOffset": 111,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.9989544153213501,
+            "Type": "OTHER",
+            "Text": "https://t.co/KhhA4gEA7S",
+            "BeginOffset": 115,
+            "EndOffset": 138
+        }
+    ]
+}

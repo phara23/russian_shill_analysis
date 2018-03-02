@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9555929899215698,
+            "Type": "PERSON",
+            "Text": "@nmsaints87124",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.854637086391449,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 69,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.5750073790550232,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 90,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.7615170478820801,
+            "Type": "PERSON",
+            "Text": "Soros",
+            "BeginOffset": 98,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.9999386072158813,
+            "Type": "OTHER",
+            "Text": "https://t.co/U9JLHZGQEk",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        }
+    ]
+}

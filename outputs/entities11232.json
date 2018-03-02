@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8540756106376648,
+            "Type": "PERSON",
+            "Text": "Will Wheaton",
+            "BeginOffset": 29,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9719225168228149,
+            "Type": "PERSON",
+            "Text": "Rodger Waters",
+            "BeginOffset": 55,
+            "EndOffset": 68
+        }
+    ]
+}

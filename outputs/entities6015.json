@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7419081330299377,
+            "Type": "QUANTITY",
+            "Text": "2 Chainz",
+            "BeginOffset": 0,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.9939941167831421,
+            "Type": "QUANTITY",
+            "Text": "47 gears",
+            "BeginOffset": 10,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7298765778541565,
+            "Type": "PERSON",
+            "Text": "@midnight",
+            "BeginOffset": 44,
+            "EndOffset": 53
+        }
+    ]
+}

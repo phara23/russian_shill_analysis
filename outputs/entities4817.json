@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8910155892372131,
+            "Type": "PERSON",
+            "Text": "@DMashak",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9847849607467651,
+            "Type": "OTHER",
+            "Text": "https://t.co/C2FB92LYbb",
+            "BeginOffset": 70,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.9026687145233154,
+            "Type": "ORGANIZATION",
+            "Text": "@GOP",
+            "BeginOffset": 94,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.7222487926483154,
+            "Type": "ORGANIZATION",
+            "Text": "@TheDemocrats",
+            "BeginOffset": 99,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.9080349206924438,
+            "Type": "ORGANIZATION",
+            "Text": "@CRNC",
+            "BeginOffset": 113,
+            "EndOffset": 118
+        },
+        {
+            "Score": 0.8811317086219788,
+            "Type": "ORGANIZATION",
+            "Text": "@CollegeDems",
+            "BeginOffset": 119,
+            "EndOffset": 131
+        },
+        {
+            "Score": 0.8594915866851807,
+            "Type": "ORGANIZATION",
+            "Text": "@youngD",
+            "BeginOffset": 132,
+            "EndOffset": 139
+        }
+    ]
+}

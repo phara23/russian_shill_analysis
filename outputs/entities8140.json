@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7200734615325928,
+            "Type": "PERSON",
+            "Text": "@NrouteHQ",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.921491265296936,
+            "Type": "ORGANIZATION",
+            "Text": "Detroit Vapers",
+            "BeginOffset": 18,
+            "EndOffset": 32
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9059685468673706,
+            "Type": "PERSON",
+            "Text": "@chanesteiner",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8795000314712524,
+            "Type": "ORGANIZATION",
+            "Text": "@CNN",
+            "BeginOffset": 28,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9995548129081726,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 43,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9286890029907227,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 136,
+            "EndOffset": 139
+        }
+    ]
+}

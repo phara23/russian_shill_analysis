@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9077057838439941,
+            "Type": "PERSON",
+            "Text": "@tonyschwartz",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7966827154159546,
+            "Type": "PERSON",
+            "Text": "@GOPCatLady",
+            "BeginOffset": 18,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.99552983045578,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 43,
+            "EndOffset": 48
+        }
+    ]
+}

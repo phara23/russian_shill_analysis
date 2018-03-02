@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8892972469329834,
+            "Type": "PERSON",
+            "Text": "@GordonRamsay",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9997237324714661,
+            "Type": "OTHER",
+            "Text": "https://t.co/qDTxfuiOlG",
+            "BeginOffset": 33,
+            "EndOffset": 56
+        }
+    ]
+}

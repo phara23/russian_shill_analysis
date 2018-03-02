@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.47790586948394775,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8186575770378113,
+            "Type": "PERSON",
+            "Text": "@DeVon_FNMfan2K8",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9131799936294556,
+            "Type": "PERSON",
+            "Text": "@GiselleEvns",
+            "BeginOffset": 21,
+            "EndOffset": 33
+        }
+    ]
+}

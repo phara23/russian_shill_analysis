@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9665964245796204,
+            "Type": "PERSON",
+            "Text": "@Jsano97",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9997422099113464,
+            "Type": "PERSON",
+            "Text": "Mike Pence",
+            "BeginOffset": 13,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9998669028282166,
+            "Type": "PERSON",
+            "Text": "Tim Kaine",
+            "BeginOffset": 111,
+            "EndOffset": 120
+        }
+    ]
+}

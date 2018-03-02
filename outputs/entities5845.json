@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8978800177574158,
+            "Type": "PERSON",
+            "Text": "@BobTolin",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9904106855392456,
+            "Type": "DATE",
+            "Text": "yesterday",
+            "BeginOffset": 24,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9794554710388184,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 121,
+            "EndOffset": 126
+        }
+    ]
+}

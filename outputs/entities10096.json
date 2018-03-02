@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6407482624053955,
+            "Type": "PERSON",
+            "Text": "@305",
+            "BeginOffset": 3,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.8267599940299988,
+            "Type": "DATE",
+            "Text": "past two years",
+            "BeginOffset": 38,
+            "EndOffset": 52
+        }
+    ]
+}

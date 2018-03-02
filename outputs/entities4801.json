@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9959489107131958,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 0,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.9652529358863831,
+            "Type": "OTHER",
+            "Text": "https://t.co/8HB3ZO4JEp",
+            "BeginOffset": 27,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.3990187644958496,
+            "Type": "ORGANIZATION",
+            "Text": "#WakeUpAmerica",
+            "BeginOffset": 52,
+            "EndOffset": 66
+        }
+    ]
+}

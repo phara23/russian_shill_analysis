@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8586187362670898,
+            "Type": "PERSON",
+            "Text": "@MichaelTCoffee",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9998822212219238,
+            "Type": "OTHER",
+            "Text": "https://t.co/HkKutBSVp8",
+            "BeginOffset": 57,
+            "EndOffset": 80
+        }
+    ]
+}

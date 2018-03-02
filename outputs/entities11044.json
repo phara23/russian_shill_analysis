@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8796852231025696,
+            "Type": "PERSON",
+            "Text": "@sumbodysbabygrl",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.6064440608024597,
+            "Type": "OTHER",
+            "Text": "Russian",
+            "BeginOffset": 36,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9947598576545715,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 74,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.7613752484321594,
+            "Type": "QUANTITY",
+            "Text": "Number One",
+            "BeginOffset": 90,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.86313396692276,
+            "Type": "QUANTITY",
+            "Text": "second",
+            "BeginOffset": 131,
+            "EndOffset": 137
+        }
+    ]
+}

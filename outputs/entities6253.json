@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7561454772949219,
+            "Type": "PERSON",
+            "Text": "@TwitchyTeam",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7678281664848328,
+            "Type": "ORGANIZATION",
+            "Text": "ThinkProgress",
+            "BeginOffset": 17,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9997304677963257,
+            "Type": "PERSON",
+            "Text": "Zack Ford",
+            "BeginOffset": 43,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9999747276306152,
+            "Type": "OTHER",
+            "Text": "https://t.co/jBVoQ16n2u",
+            "BeginOffset": 100,
+            "EndOffset": 123
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8047642111778259,
+            "Type": "PERSON",
+            "Text": "@mcspocky",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9896171689033508,
+            "Type": "PERSON",
+            "Text": "Robert Redford",
+            "BeginOffset": 24,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9267210364341736,
+            "Type": "QUANTITY",
+            "Text": "45 years",
+            "BeginOffset": 40,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.5640572905540466,
+            "Type": "PERSON",
+            "Text": "Watergate",
+            "BeginOffset": 55,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.7731055617332458,
+            "Type": "OTHER",
+            "Text": "https://t.co/ff6epELfar",
+            "BeginOffset": 95,
+            "EndOffset": 118
+        },
+        {
+            "Score": 0.9921901822090149,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 119,
+            "EndOffset": 124
+        },
+        {
+            "Score": 0.867927610874176,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 137,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7886852025985718,
+            "Type": "PERSON",
+            "Text": "@ChrisCoon4",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7619054913520813,
+            "Type": "PERSON",
+            "Text": "@DrMartyFox",
+            "BeginOffset": 19,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9245511889457703,
+            "Type": "QUANTITY",
+            "Text": "97%",
+            "BeginOffset": 32,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9409796595573425,
+            "Type": "OTHER",
+            "Text": "http://t.co/LuH7L6JYtQ",
+            "BeginOffset": 95,
+            "EndOffset": 117
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7861847877502441,
+            "Type": "PERSON",
+            "Text": "@DiscloseTV",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9846687912940979,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 41,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9998927116394043,
+            "Type": "OTHER",
+            "Text": "https://t.co/YlQpf7dvg1",
+            "BeginOffset": 67,
+            "EndOffset": 90
+        }
+    ]
+}

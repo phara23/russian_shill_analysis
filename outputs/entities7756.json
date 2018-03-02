@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9359423518180847,
+            "Type": "PERSON",
+            "Text": "@heyheyhailey",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9944416880607605,
+            "Type": "PERSON",
+            "Text": "Putin",
+            "BeginOffset": 18,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9913500547409058,
+            "Type": "PERSON",
+            "Text": "Thatcher",
+            "BeginOffset": 27,
+            "EndOffset": 35
+        }
+    ]
+}

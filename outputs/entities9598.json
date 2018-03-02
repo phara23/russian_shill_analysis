@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8264243602752686,
+            "Type": "PERSON",
+            "Text": "@KCityDaily",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9711766242980957,
+            "Type": "LOCATION",
+            "Text": "Kansas",
+            "BeginOffset": 39,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.8344596028327942,
+            "Type": "ORGANIZATION",
+            "Text": "FEMA",
+            "BeginOffset": 56,
+            "EndOffset": 60
+        }
+    ]
+}

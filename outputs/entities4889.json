@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9988515377044678,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 0,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.3912148177623749,
+            "Type": "PERSON",
+            "Text": "#StephenBannon",
+            "BeginOffset": 22,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9997524619102478,
+            "Type": "OTHER",
+            "Text": "https://t.co/68pHxnu8Dd",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        }
+    ]
+}

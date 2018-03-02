@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8530924916267395,
+            "Type": "PERSON",
+            "Text": "@gerfingerpoken",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9975477457046509,
+            "Type": "PERSON",
+            "Text": "Valerie Jarrett",
+            "BeginOffset": 20,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9832859039306641,
+            "Type": "PERSON",
+            "Text": "@vj44",
+            "BeginOffset": 36,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.7572172284126282,
+            "Type": "QUANTITY",
+            "Text": "First Female President",
+            "BeginOffset": 50,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.5696790814399719,
+            "Type": "OTHER",
+            "Text": "American",
+            "BeginOffset": 75,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.9761084914207458,
+            "Type": "OTHER",
+            "Text": "https://t.co/8431wTpFtP",
+            "BeginOffset": 108,
+            "EndOffset": 131
+        }
+    ]
+}

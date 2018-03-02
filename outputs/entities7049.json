@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8743138909339905,
+            "Type": "PERSON",
+            "Text": "@BobG231",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.994939923286438,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 16,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9454113245010376,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 56,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.999932050704956,
+            "Type": "OTHER",
+            "Text": "https://t.co/ta5wJlEaUh",
+            "BeginOffset": 89,
+            "EndOffset": 112
+        }
+    ]
+}

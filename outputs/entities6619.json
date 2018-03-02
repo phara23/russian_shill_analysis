@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9976518750190735,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.8998861312866211,
+            "Type": "PERSON",
+            "Text": "Garcetti",
+            "BeginOffset": 26,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.599980890750885,
+            "Type": "LOCATION",
+            "Text": "LA",
+            "BeginOffset": 77,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.9163283109664917,
+            "Type": "OTHER",
+            "Text": "https://t.co/OPwkZFQ4VL",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.9999836683273315,
+            "Type": "OTHER",
+            "Text": "https://t.co/KYj3GLPCZG",
+            "BeginOffset": 114,
+            "EndOffset": 137
+        }
+    ]
+}

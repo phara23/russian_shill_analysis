@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8814850449562073,
+            "Type": "PERSON",
+            "Text": "@tcottruth",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8511968851089478,
+            "Type": "OTHER",
+            "Text": "https://t.co/OAiRpG7Ltr",
+            "BeginOffset": 61,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9999701976776123,
+            "Type": "OTHER",
+            "Text": "https://t.co/QJ4ZIA2Ylq",
+            "BeginOffset": 85,
+            "EndOffset": 108
+        }
+    ]
+}

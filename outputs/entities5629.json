@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7305521368980408,
+            "Type": "PERSON",
+            "Text": "@yesmagazine",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9801721572875977,
+            "Type": "QUANTITY",
+            "Text": "2 days",
+            "BeginOffset": 17,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9991133809089661,
+            "Type": "OTHER",
+            "Text": "https://t.co/jsliflgfAw",
+            "BeginOffset": 71,
+            "EndOffset": 94
+        }
+    ]
+}

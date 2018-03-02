@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8950083255767822,
+            "Type": "PERSON",
+            "Text": "@JackBPR",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9948713779449463,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 81,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.8947264552116394,
+            "Type": "OTHER",
+            "Text": "https://t.co/9tvzI1nEuY",
+            "BeginOffset": 102,
+            "EndOffset": 125
+        },
+        {
+            "Score": 0.9569314122200012,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

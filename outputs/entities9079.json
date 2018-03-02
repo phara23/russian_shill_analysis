@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.717919111251831,
+            "Type": "ORGANIZATION",
+            "Text": "@NARAL",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.999407172203064,
+            "Type": "PERSON",
+            "Text": "Mike Pence",
+            "BeginOffset": 11,
+            "EndOffset": 21
+        }
+    ]
+}

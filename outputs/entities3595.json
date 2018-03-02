@@ -1,0 +1,74 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9310437440872192,
+            "Type": "PERSON",
+            "Text": "@JETBaby56",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9856815338134766,
+            "Type": "PERSON",
+            "Text": "@workbench59",
+            "BeginOffset": 15,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9359925389289856,
+            "Type": "PERSON",
+            "Text": "@DHecei",
+            "BeginOffset": 28,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9698594808578491,
+            "Type": "PERSON",
+            "Text": "@HorseShort",
+            "BeginOffset": 36,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.993849515914917,
+            "Type": "PERSON",
+            "Text": "@unarosabianca13",
+            "BeginOffset": 48,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9793373942375183,
+            "Type": "PERSON",
+            "Text": "@mama_sees",
+            "BeginOffset": 65,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.9580421447753906,
+            "Type": "PERSON",
+            "Text": "@BillPeriman",
+            "BeginOffset": 76,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9424747824668884,
+            "Type": "PERSON",
+            "Text": "@agent_it",
+            "BeginOffset": 89,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.8749478459358215,
+            "Type": "PERSON",
+            "Text": "@CaliGirl4Trump",
+            "BeginOffset": 99,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.999916672706604,
+            "Type": "OTHER",
+            "Text": "https://t.co/jCn5Mvzd1w",
+            "BeginOffset": 115,
+            "EndOffset": 138
+        }
+    ]
+}

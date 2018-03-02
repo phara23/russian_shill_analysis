@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6724737286567688,
+            "Type": "OTHER",
+            "Text": "Israeli",
+            "BeginOffset": 0,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.9943385720252991,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 50,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.8604952692985535,
+            "Type": "OTHER",
+            "Text": "https://t.co/dlrCRVtMNw",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8532543182373047,
+            "Type": "PERSON",
+            "Text": "@KamVTV",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.3929744064807892,
+            "Type": "ORGANIZATION",
+            "Text": "SoCal",
+            "BeginOffset": 12,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.3393803834915161,
+            "Type": "ORGANIZATION",
+            "Text": "#MAGA",
+            "BeginOffset": 18,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.6245213150978088,
+            "Type": "QUANTITY",
+            "Text": "3",
+            "BeginOffset": 23,
+            "EndOffset": 24
+        }
+    ]
+}

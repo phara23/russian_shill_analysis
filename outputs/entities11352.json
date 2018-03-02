@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8133168816566467,
+            "Type": "PERSON",
+            "Text": "@ZaibatsuNews",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9922775030136108,
+            "Type": "PERSON",
+            "Text": "Bill O’Reilly",
+            "BeginOffset": 18,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.999750018119812,
+            "Type": "PERSON",
+            "Text": "Jared Kushner",
+            "BeginOffset": 39,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.5585584044456482,
+            "Type": "ORGANIZATION",
+            "Text": "Russia",
+            "BeginOffset": 90,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.9628203511238098,
+            "Type": "OTHER",
+            "Text": "https://t.co/l4Q",
+            "BeginOffset": 123,
+            "EndOffset": 139
+        }
+    ]
+}

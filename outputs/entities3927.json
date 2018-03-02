@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9118918180465698,
+            "Type": "PERSON",
+            "Text": "@SamsBaked420",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9650558233261108,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 18,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.7901059985160828,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 54,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9997428059577942,
+            "Type": "OTHER",
+            "Text": "https://t.co/vMwtNwjddC",
+            "BeginOffset": 104,
+            "EndOffset": 127
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8037809133529663,
+            "Type": "PERSON",
+            "Text": "@camboviet",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.7018262147903442,
+            "Type": "LOCATION",
+            "Text": "UK",
+            "BeginOffset": 15,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.937761127948761,
+            "Type": "LOCATION",
+            "Text": "Hertfordshire",
+            "BeginOffset": 29,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9503469467163086,
+            "Type": "LOCATION",
+            "Text": "Iraq",
+            "BeginOffset": 67,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9999746084213257,
+            "Type": "OTHER",
+            "Text": "https://t.co/3GeHzfN1KX",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        }
+    ]
+}

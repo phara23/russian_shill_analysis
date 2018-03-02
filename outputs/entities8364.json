@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9703322649002075,
+            "Type": "PERSON",
+            "Text": "Rob",
+            "BeginOffset": 0,
+            "EndOffset": 3
+        },
+        {
+            "Score": 0.9997736811637878,
+            "Type": "OTHER",
+            "Text": "https://t.co/2sXfNWlzHD",
+            "BeginOffset": 44,
+            "EndOffset": 67
+        }
+    ]
+}

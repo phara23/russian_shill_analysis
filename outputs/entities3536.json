@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8981380462646484,
+            "Type": "PERSON",
+            "Text": "@princss6",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.777800977230072,
+            "Type": "QUANTITY",
+            "Text": "50 Baby Boy roles",
+            "BeginOffset": 71,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.99983811378479,
+            "Type": "OTHER",
+            "Text": "https://t.co/qEKyWEEXAv",
+            "BeginOffset": 112,
+            "EndOffset": 135
+        }
+    ]
+}

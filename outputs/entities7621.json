@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8947166800498962,
+            "Type": "PERSON",
+            "Text": "@lewrockwell",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9385659694671631,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 30,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.999818742275238,
+            "Type": "OTHER",
+            "Text": "https://t.co/EUncOQmN9h",
+            "BeginOffset": 48,
+            "EndOffset": 71
+        }
+    ]
+}

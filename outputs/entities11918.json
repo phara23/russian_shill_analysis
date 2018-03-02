@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8300560712814331,
+            "Type": "PERSON",
+            "Text": "@Watchman4",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8056999444961548,
+            "Type": "QUANTITY",
+            "Text": "Ten Dumbest Common Core Math Problems",
+            "BeginOffset": 23,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9800467491149902,
+            "Type": "OTHER",
+            "Text": "http://t.co/XuNEgyp9XU",
+            "BeginOffset": 61,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.6751292943954468,
+            "Type": "OTHER",
+            "Text": "B4 U",
+            "BeginOffset": 118,
+            "EndOffset": 122
+        },
+        {
+            "Score": 0.8290996551513672,
+            "Type": "OTHER",
+            "Text": "#R",
+            "BeginOffset": 137,
+            "EndOffset": 139
+        }
+    ]
+}

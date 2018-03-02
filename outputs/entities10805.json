@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9059725999832153,
+            "Type": "PERSON",
+            "Text": "@jimasher",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9825214743614197,
+            "Type": "PERSON",
+            "Text": "@Jack2John",
+            "BeginOffset": 14,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9847320318222046,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 25,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9919506907463074,
+            "Type": "PERSON",
+            "Text": "@Pastafarian1964",
+            "BeginOffset": 42,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9664674997329712,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 59,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9797636866569519,
+            "Type": "PERSON",
+            "Text": "@KeithOlbermann",
+            "BeginOffset": 75,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.5553637742996216,
+            "Type": "PERSON",
+            "Text": "#Sid",
+            "BeginOffset": 115,
+            "EndOffset": 119
+        }
+    ]
+}

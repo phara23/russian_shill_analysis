@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9307268857955933,
+            "Type": "PERSON",
+            "Text": "@khalifallah",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.99032062292099,
+            "Type": "PERSON",
+            "Text": "@Joy_Villa",
+            "BeginOffset": 87,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.999894380569458,
+            "Type": "OTHER",
+            "Text": "https://t.co/11kWPNKPdg",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

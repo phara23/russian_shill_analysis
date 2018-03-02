@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8169297575950623,
+            "Type": "PERSON",
+            "Text": "@silenceconsent",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7510741949081421,
+            "Type": "ORGANIZATION",
+            "Text": "Chelsea",
+            "BeginOffset": 20,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.7200807332992554,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 54,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9895217418670654,
+            "Type": "OTHER",
+            "Text": "https://t.co/bWzKE3sw",
+            "BeginOffset": 118,
+            "EndOffset": 139
+        }
+    ]
+}

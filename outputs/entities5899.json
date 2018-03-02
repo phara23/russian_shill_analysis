@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.907468318939209,
+            "Type": "PERSON",
+            "Text": "@herself311",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7919130921363831,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 69,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.9757235050201416,
+            "Type": "OTHER",
+            "Text": "https://t.co/rpj7eG1Er2",
+            "BeginOffset": 111,
+            "EndOffset": 134
+        }
+    ]
+}

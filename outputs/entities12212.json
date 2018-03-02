@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9524130821228027,
+            "Type": "PERSON",
+            "Text": "@belle819819",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9029747247695923,
+            "Type": "ORGANIZATION",
+            "Text": "@FBI",
+            "BeginOffset": 42,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.8223077058792114,
+            "Type": "PERSON",
+            "Text": "@hillaryclinton",
+            "BeginOffset": 56,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9999759197235107,
+            "Type": "OTHER",
+            "Text": "https://t.co/DR8IDi2anf",
+            "BeginOffset": 108,
+            "EndOffset": 131
+        }
+    ]
+}

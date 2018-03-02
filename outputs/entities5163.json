@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7953083515167236,
+            "Type": "PERSON",
+            "Text": "@DrMartyFox",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9605483412742615,
+            "Type": "OTHER",
+            "Text": "http://t.co/idw",
+            "BeginOffset": 120,
+            "EndOffset": 135
+        }
+    ]
+}

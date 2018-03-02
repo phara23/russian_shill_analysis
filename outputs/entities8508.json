@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8841373324394226,
+            "Type": "ORGANIZATION",
+            "Text": "@CBSNews",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9992677569389343,
+            "Type": "DATE",
+            "Text": "Nov. 2016",
+            "BeginOffset": 21,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.6722907423973083,
+            "Type": "ORGANIZATION",
+            "Text": "FLL",
+            "BeginOffset": 32,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9848570823669434,
+            "Type": "ORGANIZATION",
+            "Text": "FBI",
+            "BeginOffset": 56,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.9974269270896912,
+            "Type": "LOCATION",
+            "Text": "Anchorage",
+            "BeginOffset": 70,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.9973291158676147,
+            "Type": "ORGANIZATION",
+            "Text": "ISIS",
+            "BeginOffset": 123,
+            "EndOffset": 127
+        }
+    ]
+}

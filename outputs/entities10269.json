@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9224908947944641,
+            "Type": "PERSON",
+            "Text": "@shipman96",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9200102686882019,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 16,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.7260645627975464,
+            "Type": "QUANTITY",
+            "Text": "50PointsAhead",
+            "BeginOffset": 44,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.5818072557449341,
+            "Type": "OTHER",
+            "Text": "Americans",
+            "BeginOffset": 66,
+            "EndOffset": 75
+        }
+    ]
+}

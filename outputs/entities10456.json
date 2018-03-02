@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8282166719436646,
+            "Type": "PERSON",
+            "Text": "@ronstew",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.6938373446464539,
+            "Type": "ORGANIZATION",
+            "Text": "Nintendo",
+            "BeginOffset": 27,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.4841172695159912,
+            "Type": "QUANTITY",
+            "Text": "50",
+            "BeginOffset": 42,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9114441275596619,
+            "Type": "COMMERCIAL_ITEM",
+            "Text": "2DS XL",
+            "BeginOffset": 45,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9932677149772644,
+            "Type": "DATE",
+            "Text": "July 28",
+            "BeginOffset": 71,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.9998548030853271,
+            "Type": "OTHER",
+            "Text": "https://t.co/lhE19UuNi9",
+            "BeginOffset": 79,
+            "EndOffset": 102
+        }
+    ]
+}

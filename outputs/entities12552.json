@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8553884029388428,
+            "Type": "PERSON",
+            "Text": "@MeetThePress",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7467304468154907,
+            "Type": "LOCATION",
+            "Text": "South Bend",
+            "BeginOffset": 41,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9240406155586243,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 67,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.8254675269126892,
+            "Type": "PERSON",
+            "Text": "@PeteButtigieg",
+            "BeginOffset": 87,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.8902629613876343,
+            "Type": "OTHER",
+            "Text": "https://t.co/hk402GWsBH",
+            "BeginOffset": 102,
+            "EndOffset": 125
+        },
+        {
+            "Score": 0.9145881533622742,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

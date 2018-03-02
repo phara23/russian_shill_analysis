@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8691303730010986,
+            "Type": "PERSON",
+            "Text": "@TalkNerdyToMe72",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9916528463363647,
+            "Type": "ORGANIZATION",
+            "Text": "UN Human Rights Council",
+            "BeginOffset": 82,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.9999556541442871,
+            "Type": "OTHER",
+            "Text": "https://t.co/4dsIM90ShB",
+            "BeginOffset": 107,
+            "EndOffset": 130
+        }
+    ]
+}

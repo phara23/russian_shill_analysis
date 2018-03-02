@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6368586421012878,
+            "Type": "ORGANIZATION",
+            "Text": "@UnPoliticalPrty",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.4209851622581482,
+            "Type": "PERSON",
+            "Text": "#ClintonCash",
+            "BeginOffset": 72,
+            "EndOffset": 84
+        }
+    ]
+}

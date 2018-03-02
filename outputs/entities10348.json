@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7090890407562256,
+            "Type": "PERSON",
+            "Text": "@rolling_2",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9433441162109375,
+            "Type": "DATE",
+            "Text": "2 days ago",
+            "BeginOffset": 15,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9929295182228088,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 56,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.998555600643158,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 82,
+            "EndOffset": 87
+        }
+    ]
+}

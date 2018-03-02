@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7705187797546387,
+            "Type": "PERSON",
+            "Text": "@readwriteblue",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8461101055145264,
+            "Type": "ORGANIZATION",
+            "Text": "IRS",
+            "BeginOffset": 40,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.6932851076126099,
+            "Type": "QUANTITY",
+            "Text": "Day 1306",
+            "BeginOffset": 53,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.8799104690551758,
+            "Type": "OTHER",
+            "Text": "https://t.co/TWz6MxJiXe",
+            "BeginOffset": 64,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.7563806772232056,
+            "Type": "ORGANIZATION",
+            "Text": "#Instapundit",
+            "BeginOffset": 88,
+            "EndOffset": 100
+        }
+    ]
+}

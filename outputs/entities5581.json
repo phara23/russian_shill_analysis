@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9365711212158203,
+            "Type": "PERSON",
+            "Text": "@kevkid79",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.985466480255127,
+            "Type": "ORGANIZATION",
+            "Text": "NSA",
+            "BeginOffset": 14,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9894998073577881,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 50,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9852668046951294,
+            "Type": "OTHER",
+            "Text": "https://t.co/ZUcIc4U30O",
+            "BeginOffset": 80,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.6914751529693604,
+            "Type": "PERSON",
+            "Text": "@realalexjones",
+            "BeginOffset": 108,
+            "EndOffset": 122
+        }
+    ]
+}

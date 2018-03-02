@@ -1,0 +1,40 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9323745965957642,
+            "Text": "RT @piersmorgan",
+            "BeginOffset": 0,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9984622597694397,
+            "Text": "My article",
+            "BeginOffset": 17,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9270714521408081,
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 35,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9782834053039551,
+            "Text": "the new Hitler",
+            "BeginOffset": 58,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.875451385974884,
+            "Text": "a tough business guy",
+            "BeginOffset": 77,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.8541331887245178,
+            "Text": "America",
+            "BeginOffset": 119,
+            "EndOffset": 126
+        }
+    ]
+}

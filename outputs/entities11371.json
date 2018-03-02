@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9514862298965454,
+            "Type": "PERSON",
+            "Text": "@zachhaller",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8416824340820312,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 38,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.8498438000679016,
+            "Type": "QUANTITY",
+            "Text": "55,000",
+            "BeginOffset": 75,
+            "EndOffset": 81
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9660739302635193,
+            "Type": "PERSON",
+            "Text": "@JAmy208",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.7528412342071533,
+            "Type": "ORGANIZATION",
+            "Text": "White House Checkpoint",
+            "BeginOffset": 54,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.9989768266677856,
+            "Type": "OTHER",
+            "Text": "https://t.co/uVwUrTlEng",
+            "BeginOffset": 104,
+            "EndOffset": 127
+        }
+    ]
+}

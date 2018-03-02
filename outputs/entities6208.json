@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9285708665847778,
+            "Type": "PERSON",
+            "Text": "@MattMurph24",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9597097635269165,
+            "Type": "ORGANIZATION",
+            "Text": "Broncos",
+            "BeginOffset": 25,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9446661472320557,
+            "Type": "PERSON",
+            "Text": "Kubiak",
+            "BeginOffset": 34,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9771863222122192,
+            "Type": "OTHER",
+            "Text": "https://t.co/1Bc2Y8ExDG",
+            "BeginOffset": 84,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.9988597631454468,
+            "Type": "OTHER",
+            "Text": "https://t.co/7olK9quphv",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        }
+    ]
+}

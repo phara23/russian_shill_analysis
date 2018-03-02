@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8668580651283264,
+            "Type": "PERSON",
+            "Text": "@kingushbal",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9809947609901428,
+            "Type": "ORGANIZATION",
+            "Text": "twitter",
+            "BeginOffset": 21,
+            "EndOffset": 28
+        }
+    ]
+}

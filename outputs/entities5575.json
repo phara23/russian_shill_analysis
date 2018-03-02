@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4834909737110138,
+            "Type": "OTHER",
+            "Text": "Syrian",
+            "BeginOffset": 16,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.8493382930755615,
+            "Type": "LOCATION",
+            "Text": "South Park",
+            "BeginOffset": 48,
+            "EndOffset": 58
+        }
+    ]
+}

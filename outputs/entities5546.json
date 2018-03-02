@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9257517457008362,
+            "Type": "PERSON",
+            "Text": "@SamThiessen",
+            "BeginOffset": 0,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9749054312705994,
+            "Type": "PERSON",
+            "Text": "@bob_grandpa",
+            "BeginOffset": 13,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.8810462951660156,
+            "Type": "PERSON",
+            "Text": "@bstevewhite",
+            "BeginOffset": 26,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.6288502216339111,
+            "Type": "ORGANIZATION",
+            "Text": "Mormonism",
+            "BeginOffset": 70,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.9822920560836792,
+            "Type": "ORGANIZATION",
+            "Text": "Islam",
+            "BeginOffset": 84,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.81421959400177,
+            "Type": "QUANTITY",
+            "Text": "1st one",
+            "BeginOffset": 91,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.6979216933250427,
+            "Type": "QUANTITY",
+            "Text": "2nd",
+            "BeginOffset": 108,
+            "EndOffset": 111
+        }
+    ]
+}

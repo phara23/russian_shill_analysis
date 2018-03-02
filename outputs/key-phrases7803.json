@@ -1,0 +1,28 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9442664980888367,
+            "Text": "RT @Writeintrump",
+            "BeginOffset": 0,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.822353184223175,
+            "Text": "my #TrumpPressConference today",
+            "BeginOffset": 24,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9985703825950623,
+            "Text": "CNN",
+            "BeginOffset": 89,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.9904285073280334,
+            "Text": "press credentials",
+            "BeginOffset": 95,
+            "EndOffset": 112
+        }
+    ]
+}

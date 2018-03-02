@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9956486821174622,
+            "Type": "PERSON",
+            "Text": "Barbara Bush",
+            "BeginOffset": 14,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.7666703462600708,
+            "Type": "QUANTITY",
+            "Text": "5Words",
+            "BeginOffset": 45,
+            "EndOffset": 51
+        }
+    ]
+}

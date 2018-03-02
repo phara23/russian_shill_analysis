@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8895004987716675,
+            "Type": "PERSON",
+            "Text": "@TulsiGabbard",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9933221340179443,
+            "Type": "DATE",
+            "Text": "Last week",
+            "BeginOffset": 18,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.8913789391517639,
+            "Type": "PERSON",
+            "Text": "President Obama",
+            "BeginOffset": 40,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9465432167053223,
+            "Type": "LOCATION",
+            "Text": "Dakota Access Pipeline",
+            "BeginOffset": 88,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.9482021927833557,
+            "Type": "OTHER",
+            "Text": "https://t.co/Zrk2lZ",
+            "BeginOffset": 120,
+            "EndOffset": 139
+        }
+    ]
+}

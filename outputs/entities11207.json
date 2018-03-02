@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7825004458427429,
+            "Type": "PERSON",
+            "Text": "@republicanbob",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8773366808891296,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 61,
+            "EndOffset": 76
+        }
+    ]
+}

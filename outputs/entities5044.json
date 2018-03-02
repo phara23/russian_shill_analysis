@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9615679383277893,
+            "Type": "PERSON",
+            "Text": "@JordanChariton",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.938984751701355,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 29,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9191310405731201,
+            "Type": "PERSON",
+            "Text": "@barackobama",
+            "BeginOffset": 58,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.8201829195022583,
+            "Type": "ORGANIZATION",
+            "Text": "HRC",
+            "BeginOffset": 94,
+            "EndOffset": 97
+        }
+    ]
+}

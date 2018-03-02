@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7633066177368164,
+            "Type": "PERSON",
+            "Text": "@rapstationradio",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8336558938026428,
+            "Type": "PERSON",
+            "Text": "Diamond D",
+            "BeginOffset": 34,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.7002574801445007,
+            "Type": "ORGANIZATION",
+            "Text": "@RAPStationRadio",
+            "BeginOffset": 64,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.9999630451202393,
+            "Type": "OTHER",
+            "Text": "https://t.co/pG8jF46UUv",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        }
+    ]
+}

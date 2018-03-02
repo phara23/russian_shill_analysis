@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8958143591880798,
+            "Type": "PERSON",
+            "Text": "@mefbama",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.425456166267395,
+            "Type": "QUANTITY",
+            "Text": "Dozens",
+            "BeginOffset": 13,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9589381814002991,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 23,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.991570234298706,
+            "Type": "OTHER",
+            "Text": "http://t.co/aaCJhYw75c",
+            "BeginOffset": 68,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9596973657608032,
+            "Type": "ORGANIZATION",
+            "Text": "@YahooNews",
+            "BeginOffset": 95,
+            "EndOffset": 105
+        }
+    ]
+}

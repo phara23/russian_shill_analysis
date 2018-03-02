@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7204210162162781,
+            "Type": "PERSON",
+            "Text": "@NoThiefs",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9147797226905823,
+            "Type": "PERSON",
+            "Text": "Priebus",
+            "BeginOffset": 14,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9842485785484314,
+            "Type": "QUANTITY",
+            "Text": "80 percent",
+            "BeginOffset": 27,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.5359886884689331,
+            "Type": "OTHER",
+            "Text": "Americans",
+            "BeginOffset": 41,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9953761100769043,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 59,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9511595368385315,
+            "Type": "OTHER",
+            "Text": "https://t.co/BAf2UxSFtK",
+            "BeginOffset": 95,
+            "EndOffset": 118
+        },
+        {
+            "Score": 0.9893149137496948,
+            "Type": "OTHER",
+            "Text": "https://t.co/vhv7HS",
+            "BeginOffset": 120,
+            "EndOffset": 139
+        }
+    ]
+}

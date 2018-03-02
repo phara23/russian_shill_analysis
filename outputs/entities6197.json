@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9238520264625549,
+            "Type": "PERSON",
+            "Text": "@CheriJacobus",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8684262633323669,
+            "Type": "PERSON",
+            "Text": "Scaramucci",
+            "BeginOffset": 18,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.782706618309021,
+            "Type": "LOCATION",
+            "Text": "Russia",
+            "BeginOffset": 40,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9921348094940186,
+            "Type": "OTHER",
+            "Text": "https://t.co/SFjIEFRDNU",
+            "BeginOffset": 66,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.9287149906158447,
+            "Type": "ORGANIZATION",
+            "Text": "@MotherJones",
+            "BeginOffset": 94,
+            "EndOffset": 106
+        }
+    ]
+}

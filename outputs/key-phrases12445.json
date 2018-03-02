@@ -1,0 +1,28 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9962205290794373,
+            "Text": "Clinton",
+            "BeginOffset": 0,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.7713565826416016,
+            "Text": "big",
+            "BeginOffset": 15,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9991923570632935,
+            "Text": "Olympic ads",
+            "BeginOffset": 22,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9955675005912781,
+            "Text": "Trump",
+            "BeginOffset": 40,
+            "EndOffset": 45
+        }
+    ]
+}

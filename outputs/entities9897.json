@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8896529674530029,
+            "Type": "PERSON",
+            "Text": "@TodayMemphis",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9214189052581787,
+            "Type": "PERSON",
+            "Text": "Cameron",
+            "BeginOffset": 24,
+            "EndOffset": 31
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9108653664588928,
+            "Type": "PERSON",
+            "Text": "@Gamiliell",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.7640661597251892,
+            "Type": "LOCATION",
+            "Text": "georgia",
+            "BeginOffset": 55,
+            "EndOffset": 62
+        }
+    ]
+}

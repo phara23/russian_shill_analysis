@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8548333644866943,
+            "Type": "PERSON",
+            "Text": "@grantstern",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.599970817565918,
+            "Type": "ORGANIZATION",
+            "Text": "Biscayne Boulevard",
+            "BeginOffset": 46,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9996967315673828,
+            "Type": "OTHER",
+            "Text": "https://t.co/FC9Ppr5vUj",
+            "BeginOffset": 79,
+            "EndOffset": 102
+        }
+    ]
+}

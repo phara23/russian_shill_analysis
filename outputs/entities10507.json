@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8766511678695679,
+            "Type": "PERSON",
+            "Text": "@InkOfSquid",
+            "BeginOffset": 0,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.939354658126831,
+            "Type": "PERSON",
+            "Text": "@RupertStiglitz",
+            "BeginOffset": 12,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9227864742279053,
+            "Type": "PERSON",
+            "Text": "@Yankeesman1",
+            "BeginOffset": 28,
+            "EndOffset": 40
+        }
+    ]
+}

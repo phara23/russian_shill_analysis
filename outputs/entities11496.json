@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9051723480224609,
+            "Type": "PERSON",
+            "Text": "@irshroz",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9990586042404175,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 36,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9997944235801697,
+            "Type": "OTHER",
+            "Text": "https://t.co/J1uMJan0Ve",
+            "BeginOffset": 81,
+            "EndOffset": 104
+        }
+    ]
+}

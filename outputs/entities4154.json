@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.910310685634613,
+            "Type": "PERSON",
+            "Text": "@MaydnUSA",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9966938495635986,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 14,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9984332919120789,
+            "Type": "LOCATION",
+            "Text": "Kenya",
+            "BeginOffset": 71,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.9987323880195618,
+            "Type": "OTHER",
+            "Text": "https://t.co/wXFldGwEfE",
+            "BeginOffset": 111,
+            "EndOffset": 134
+        }
+    ]
+}

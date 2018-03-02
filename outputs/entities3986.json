@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9621654748916626,
+            "Type": "PERSON",
+            "Text": "@lavkush49",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.7722042798995972,
+            "Type": "PERSON",
+            "Text": "@theclobra",
+            "BeginOffset": 15,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.8864272832870483,
+            "Type": "PERSON",
+            "Text": "Shakira",
+            "BeginOffset": 26,
+            "EndOffset": 33
+        }
+    ]
+}

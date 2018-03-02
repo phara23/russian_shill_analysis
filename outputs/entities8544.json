@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5555317997932434,
+            "Type": "PERSON",
+            "Text": "@1",
+            "BeginOffset": 3,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9999102354049683,
+            "Type": "OTHER",
+            "Text": "https://t.co/bnbQmouxBA",
+            "BeginOffset": 116,
+            "EndOffset": 139
+        }
+    ]
+}

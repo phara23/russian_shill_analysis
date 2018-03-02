@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8467686176300049,
+            "Type": "PERSON",
+            "Text": "@TheIJR",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9782682657241821,
+            "Type": "ORGANIZATION",
+            "Text": "Fox News",
+            "BeginOffset": 12,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.7993903160095215,
+            "Type": "PERSON",
+            "Text": "Hannity",
+            "BeginOffset": 22,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.6299722194671631,
+            "Type": "PERSON",
+            "Text": "Carlson Draw",
+            "BeginOffset": 34,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.8564272522926331,
+            "Type": "ORGANIZATION",
+            "Text": "NBC",
+            "BeginOffset": 65,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9832163453102112,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 102,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.9999828338623047,
+            "Type": "OTHER",
+            "Text": "https://t.co/X3d0PwgvUE",
+            "BeginOffset": 108,
+            "EndOffset": 131
+        }
+    ]
+}

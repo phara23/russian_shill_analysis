@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8802770376205444,
+            "Type": "PERSON",
+            "Text": "@Thomas1774",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.6371011137962341,
+            "Type": "PERSON",
+            "Text": "Paine",
+            "BeginOffset": 14,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9921501874923706,
+            "Type": "PERSON",
+            "Text": "Rex #Tillerson",
+            "BeginOffset": 45,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.7741958498954773,
+            "Type": "ORGANIZATION",
+            "Text": "Senate",
+            "BeginOffset": 62,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.411680668592453,
+            "Type": "PERSON",
+            "Text": "#Rubio",
+            "BeginOffset": 132,
+            "EndOffset": 138
+        }
+    ]
+}

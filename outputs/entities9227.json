@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8013763427734375,
+            "Type": "PERSON",
+            "Text": "@plasmalight1",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9680108428001404,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 18,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.8557101488113403,
+            "Type": "PERSON",
+            "Text": "@PAMsLOvE",
+            "BeginOffset": 35,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.7377724051475525,
+            "Type": "PERSON",
+            "Text": "@nytimes",
+            "BeginOffset": 45,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.6704949736595154,
+            "Type": "EVENT",
+            "Text": "Brexit",
+            "BeginOffset": 66,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.8448407649993896,
+            "Type": "ORGANIZATION",
+            "Text": "US Election",
+            "BeginOffset": 79,
+            "EndOffset": 90
+        }
+    ]
+}

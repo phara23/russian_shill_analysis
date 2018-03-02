@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9934760928153992,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.8963772058486938,
+            "Type": "EVENT",
+            "Text": "Brexit",
+            "BeginOffset": 9,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9646229147911072,
+            "Type": "OTHER",
+            "Text": "https://t.co/nr40ReyOoV",
+            "BeginOffset": 16,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9999985694885254,
+            "Type": "OTHER",
+            "Text": "https://t.co/6BDKPT0mZn",
+            "BeginOffset": 40,
+            "EndOffset": 63
+        }
+    ]
+}

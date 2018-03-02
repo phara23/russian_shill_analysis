@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8017289042472839,
+            "Type": "PERSON",
+            "Text": "@immigrant4trump",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9960410594940186,
+            "Type": "PERSON",
+            "Text": "Bill Clinton",
+            "BeginOffset": 28,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.942279040813446,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 60,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9881085753440857,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 83,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.43361473083496094,
+            "Type": "ORGANIZATION",
+            "Text": "#HillaryClinton",
+            "BeginOffset": 88,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.9998778104782104,
+            "Type": "OTHER",
+            "Text": "https://t.co/jRFCy6zZAg",
+            "BeginOffset": 104,
+            "EndOffset": 127
+        }
+    ]
+}

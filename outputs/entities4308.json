@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9034790992736816,
+            "Type": "PERSON",
+            "Text": "@scylurus",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.3638496696949005,
+            "Type": "ORGANIZATION",
+            "Text": "SJWs",
+            "BeginOffset": 19,
+            "EndOffset": 23
+        }
+    ]
+}

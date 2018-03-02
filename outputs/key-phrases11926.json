@@ -1,0 +1,34 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9953437447547913,
+            "Text": "Clinton",
+            "BeginOffset": 0,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.9976747632026672,
+            "Text": "Americans",
+            "BeginOffset": 13,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9954162240028381,
+            "Text": "Trump",
+            "BeginOffset": 31,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.998465895652771,
+            "Text": "an open mind",
+            "BeginOffset": 37,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.7302855849266052,
+            "Text": "chance",
+            "BeginOffset": 51,
+            "EndOffset": 57
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8622717261314392,
+            "Type": "PERSON",
+            "Text": "@realkingrobbo",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9970505237579346,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 55,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.6891366839408875,
+            "Type": "ORGANIZATION",
+            "Text": "Cincinnati Rally",
+            "BeginOffset": 70,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9846727252006531,
+            "Type": "DATE",
+            "Text": "Yesterday",
+            "BeginOffset": 87,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.888325035572052,
+            "Type": "LOCATION",
+            "Text": "NYC",
+            "BeginOffset": 109,
+            "EndOffset": 112
+        }
+    ]
+}

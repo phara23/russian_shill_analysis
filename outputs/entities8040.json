@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9375712871551514,
+            "Type": "PERSON",
+            "Text": "@GenFlynn",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9740889668464661,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 19,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9872016310691833,
+            "Type": "PERSON",
+            "Text": "@mike_pence",
+            "BeginOffset": 36,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.8057194948196411,
+            "Type": "PERSON",
+            "Text": "@MikeforWI",
+            "BeginOffset": 48,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.808066189289093,
+            "Type": "PERSON",
+            "Text": "@FieldofFight",
+            "BeginOffset": 64,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.8230652213096619,
+            "Type": "PERSON",
+            "Text": "@ACTforAmerica",
+            "BeginOffset": 86,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.9348809123039246,
+            "Type": "OTHER",
+            "Text": "https://t.co/8",
+            "BeginOffset": 133,
+            "EndOffset": 147
+        }
+    ]
+}

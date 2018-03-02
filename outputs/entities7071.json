@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9204162955284119,
+            "Type": "PERSON",
+            "Text": "@BrandonRittiman",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8896694779396057,
+            "Type": "PERSON",
+            "Text": "@GovernorPerry",
+            "BeginOffset": 31,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.6363644599914551,
+            "Type": "EVENT",
+            "Text": "#WCS15",
+            "BeginOffset": 49,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.58655846118927,
+            "Type": "QUANTITY",
+            "Text": "#9",
+            "BeginOffset": 69,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9999750852584839,
+            "Type": "OTHER",
+            "Text": "http://t.co/TVUZHLGVXW",
+            "BeginOffset": 76,
+            "EndOffset": 98
+        }
+    ]
+}

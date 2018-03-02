@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4962187111377716,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.7584205865859985,
+            "Type": "PERSON",
+            "Text": "@cutupx2",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.904410719871521,
+            "Type": "PERSON",
+            "Text": "Ty Tom",
+            "BeginOffset": 13,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.999881386756897,
+            "Type": "OTHER",
+            "Text": "https://t.co/TFUfHbM0sb",
+            "BeginOffset": 22,
+            "EndOffset": 45
+        }
+    ]
+}

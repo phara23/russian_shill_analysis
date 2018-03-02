@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.874054491519928,
+            "Type": "PERSON",
+            "Text": "@SebGorka",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9434764385223389,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 44,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.8198657631874084,
+            "Type": "QUANTITY",
+            "Text": "45th President",
+            "BeginOffset": 65,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.962917685508728,
+            "Type": "LOCATION",
+            "Text": "United States of America",
+            "BeginOffset": 87,
+            "EndOffset": 111
+        },
+        {
+            "Score": 0.9999442100524902,
+            "Type": "OTHER",
+            "Text": "https://t.co/KkVHTbzaUa",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        }
+    ]
+}

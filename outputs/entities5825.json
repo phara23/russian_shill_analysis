@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7511711716651917,
+            "Type": "ORGANIZATION",
+            "Text": "@Fox4",
+            "BeginOffset": 3,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.9896329641342163,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 21,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9334673881530762,
+            "Type": "LOCATION",
+            "Text": "Germain Arena",
+            "BeginOffset": 51,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9773310422897339,
+            "Type": "LOCATION",
+            "Text": "Fort Myers",
+            "BeginOffset": 68,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.994245707988739,
+            "Type": "OTHER",
+            "Text": "https://t.co/K61Z3VqzOh",
+            "BeginOffset": 79,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.789983332157135,
+            "Type": "ORGANIZATION",
+            "Text": "@sharethis",
+            "BeginOffset": 107,
+            "EndOffset": 117
+        },
+        {
+            "Score": 0.991094172000885,
+            "Type": "OTHER",
+            "Text": "https://t.co/E78uP7yN",
+            "BeginOffset": 118,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4651004374027252,
+            "Type": "ORGANIZATION",
+            "Text": "@10",
+            "BeginOffset": 3,
+            "EndOffset": 6
+        },
+        {
+            "Score": 0.8919886350631714,
+            "Type": "QUANTITY",
+            "Text": "5 Ways",
+            "BeginOffset": 19,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.7664347887039185,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 52,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9723142385482788,
+            "Type": "OTHER",
+            "Text": "https://t.co/7WfCJWrqaM",
+            "BeginOffset": 64,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.4254749119281769,
+            "Type": "ORGANIZATION",
+            "Text": "#tcot",
+            "BeginOffset": 88,
+            "EndOffset": 93
+        }
+    ]
+}

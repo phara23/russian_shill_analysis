@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4814368784427643,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8595069050788879,
+            "Type": "PERSON",
+            "Text": "@Miami4Trump",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.872624933719635,
+            "Type": "DATE",
+            "Text": "8 Years Ago",
+            "BeginOffset": 17,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.7845492959022522,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 30,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.6937832236289978,
+            "Type": "QUANTITY",
+            "Text": "1st",
+            "BeginOffset": 50,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9875316023826599,
+            "Type": "DATE",
+            "Text": "Today",
+            "BeginOffset": 67,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.775332510471344,
+            "Type": "ORGANIZATION",
+            "Text": "The Insane Left",
+            "BeginOffset": 74,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.7228316068649292,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 111,
+            "EndOffset": 118
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8170583248138428,
+            "Type": "PERSON",
+            "Text": "@soniafarace",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8011696338653564,
+            "Type": "PERSON",
+            "Text": "@ltlcns",
+            "BeginOffset": 17,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9928205609321594,
+            "Type": "OTHER",
+            "Text": "https://t.co/xSbLg0m1Zy",
+            "BeginOffset": 38,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9725698232650757,
+            "Type": "PERSON",
+            "Text": "@roycan79",
+            "BeginOffset": 79,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9777539968490601,
+            "Type": "DATE",
+            "Text": "Nov 8",
+            "BeginOffset": 112,
+            "EndOffset": 117
+        }
+    ]
+}

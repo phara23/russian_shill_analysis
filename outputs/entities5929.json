@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9203623533248901,
+            "Type": "PERSON",
+            "Text": "@phxazgrl",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8856973052024841,
+            "Type": "PERSON",
+            "Text": "@nbcwashington",
+            "BeginOffset": 26,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.5956059098243713,
+            "Type": "ORGANIZATION",
+            "Text": "#NBC4DC",
+            "BeginOffset": 94,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.9998123049736023,
+            "Type": "OTHER",
+            "Text": "https://t.co/qnSUeWA9E8",
+            "BeginOffset": 102,
+            "EndOffset": 125
+        }
+    ]
+}

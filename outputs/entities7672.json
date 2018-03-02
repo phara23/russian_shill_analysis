@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8320354223251343,
+            "Type": "PERSON",
+            "Text": "@ronstew",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.7079160809516907,
+            "Type": "ORGANIZATION",
+            "Text": "TSA",
+            "BeginOffset": 65,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9999822378158569,
+            "Type": "OTHER",
+            "Text": "https://t.co/9NELbl43z2",
+            "BeginOffset": 83,
+            "EndOffset": 106
+        }
+    ]
+}

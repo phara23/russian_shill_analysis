@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9649631977081299,
+            "Type": "PERSON",
+            "Text": "@JaySekulow",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9924309849739075,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 26,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.8672193884849548,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 42,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9999924898147583,
+            "Type": "OTHER",
+            "Text": "https://t.co/raeMRc9P2e",
+            "BeginOffset": 54,
+            "EndOffset": 77
+        }
+    ]
+}

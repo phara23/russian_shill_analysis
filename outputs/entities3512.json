@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9992260336875916,
+            "Type": "PERSON",
+            "Text": "Tim Kaine",
+            "BeginOffset": 0,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9994988441467285,
+            "Type": "LOCATION",
+            "Text": "New Orleans",
+            "BeginOffset": 13,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9999462366104126,
+            "Type": "OTHER",
+            "Text": "https://t.co/PHcPb51PhC",
+            "BeginOffset": 56,
+            "EndOffset": 79
+        }
+    ]
+}

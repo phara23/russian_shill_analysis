@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7678205370903015,
+            "Type": "PERSON",
+            "Text": "@DailyCopWatch",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9545941948890686,
+            "Type": "ORGANIZATION",
+            "Text": "Facebook",
+            "BeginOffset": 42,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.999790370464325,
+            "Type": "OTHER",
+            "Text": "https://t.co/Gq1nLYiQlk",
+            "BeginOffset": 110,
+            "EndOffset": 133
+        }
+    ]
+}

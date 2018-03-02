@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7062450647354126,
+            "Type": "PERSON",
+            "Text": "@corrcomm",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9645400643348694,
+            "Type": "ORGANIZATION",
+            "Text": "Republicans",
+            "BeginOffset": 14,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9192367196083069,
+            "Type": "LOCATION",
+            "Text": "NY",
+            "BeginOffset": 55,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9308392405509949,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 114,
+            "EndOffset": 117
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9266902208328247,
+            "Type": "PERSON",
+            "Text": "@AngelOfAnarchy7",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.33254823088645935,
+            "Type": "PERSON",
+            "Text": "Spork",
+            "BeginOffset": 36,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.887315034866333,
+            "Type": "PERSON",
+            "Text": "Doc",
+            "BeginOffset": 84,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.9619959592819214,
+            "Type": "DATE",
+            "Text": "next week",
+            "BeginOffset": 121,
+            "EndOffset": 130
+        }
+    ]
+}

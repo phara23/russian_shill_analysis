@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8203344345092773,
+            "Type": "PERSON",
+            "Text": "@deoncole",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.7270013689994812,
+            "Type": "PERSON",
+            "Text": "@tyrese",
+            "BeginOffset": 96,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.9999558925628662,
+            "Type": "OTHER",
+            "Text": "https://t.co/FAazhm5H1I",
+            "BeginOffset": 104,
+            "EndOffset": 127
+        }
+    ]
+}

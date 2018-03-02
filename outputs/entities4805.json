@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9284709692001343,
+            "Type": "PERSON",
+            "Text": "@les_pendleton",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7434648871421814,
+            "Type": "ORGANIZATION",
+            "Text": "Justice Department",
+            "BeginOffset": 46,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.994168758392334,
+            "Type": "ORGANIZATION",
+            "Text": "FBI",
+            "BeginOffset": 69,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.9787391424179077,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 119,
+            "EndOffset": 126
+        }
+    ]
+}

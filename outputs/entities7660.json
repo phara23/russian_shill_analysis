@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7256823182106018,
+            "Type": "PERSON",
+            "Text": "@AsteadWH",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9970197081565857,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 14,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9978358149528503,
+            "Type": "PERSON",
+            "Text": "Kanye",
+            "BeginOffset": 36,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9988590478897095,
+            "Type": "PERSON",
+            "Text": "Kellyanne Conway",
+            "BeginOffset": 93,
+            "EndOffset": 109
+        },
+        {
+            "Score": 0.466516375541687,
+            "Type": "TITLE",
+            "Text": "Black",
+            "BeginOffset": 134,
+            "EndOffset": 139
+        }
+    ]
+}

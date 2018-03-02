@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7568972110748291,
+            "Type": "PERSON",
+            "Text": "@TheHashtagGame",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.65997314453125,
+            "Type": "QUANTITY",
+            "Text": "#4",
+            "BeginOffset": 20,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.6231116056442261,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 23,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.8831653594970703,
+            "Type": "QUANTITY",
+            "Text": "9:59",
+            "BeginOffset": 47,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.6962316632270813,
+            "Type": "PERSON",
+            "Text": "@TLCPrincess",
+            "BeginOffset": 84,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.9718207120895386,
+            "Type": "PERSON",
+            "Text": "@TheRealJmar",
+            "BeginOffset": 97,
+            "EndOffset": 109
+        },
+        {
+            "Score": 0.9367721080780029,
+            "Type": "PERSON",
+            "Text": "@iCanHash",
+            "BeginOffset": 110,
+            "EndOffset": 119
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.998853862285614,
+            "Type": "PERSON",
+            "Text": "Colin Powell",
+            "BeginOffset": 16,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9997203946113586,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 38,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9997581839561462,
+            "Type": "OTHER",
+            "Text": "https://t.co/H19Rstwa10",
+            "BeginOffset": 84,
+            "EndOffset": 107
+        }
+    ]
+}

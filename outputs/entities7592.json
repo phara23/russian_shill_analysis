@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9225003719329834,
+            "Type": "PERSON",
+            "Text": "@DebndanfarrDeb",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7031480669975281,
+            "Type": "ORGANIZATION",
+            "Text": "CONGRESS",
+            "BeginOffset": 44,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.6370902061462402,
+            "Type": "OTHER",
+            "Text": "Americans",
+            "BeginOffset": 53,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9311601519584656,
+            "Type": "QUANTITY",
+            "Text": "79%",
+            "BeginOffset": 76,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.8595404624938965,
+            "Type": "QUANTITY",
+            "Text": "34 States",
+            "BeginOffset": 80,
+            "EndOffset": 89
+        }
+    ]
+}

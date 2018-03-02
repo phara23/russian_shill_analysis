@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6920662522315979,
+            "Type": "PERSON",
+            "Text": "@3lectric5",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9381375908851624,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 19,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9857138991355896,
+            "Type": "PERSON",
+            "Text": "Huma Abedin",
+            "BeginOffset": 32,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.6767078042030334,
+            "Type": "QUANTITY",
+            "Text": "109 Form Live",
+            "BeginOffset": 48,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9869177937507629,
+            "Type": "ORGANIZATION",
+            "Text": "CNN",
+            "BeginOffset": 65,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.8352408409118652,
+            "Type": "ORGANIZATION",
+            "Text": "United States Federal Law",
+            "BeginOffset": 91,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.9997772574424744,
+            "Type": "OTHER",
+            "Text": "https://t.co/cQZovn281C",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.919671356678009,
+            "Type": "PERSON",
+            "Text": "@GraveyardSister",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.6996144652366638,
+            "Type": "PERSON",
+            "Text": "Miracle Austin",
+            "BeginOffset": 64,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.814825713634491,
+            "Type": "OTHER",
+            "Text": "https://t.co/saNkUyyCIQ",
+            "BeginOffset": 79,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.9998776912689209,
+            "Type": "OTHER",
+            "Text": "https://t.co/oTnEJAwoFb",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        }
+    ]
+}

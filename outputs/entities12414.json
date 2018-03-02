@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8671597242355347,
+            "Type": "PERSON",
+            "Text": "@acidrebel",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9399548172950745,
+            "Type": "LOCATION",
+            "Text": "Houston",
+            "BeginOffset": 52,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.9912623167037964,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 93,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.9628667831420898,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 112,
+            "EndOffset": 128
+        },
+        {
+            "Score": 0.4848308265209198,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 129,
+            "EndOffset": 138
+        }
+    ]
+}

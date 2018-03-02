@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8691282868385315,
+            "Type": "PERSON",
+            "Text": "@adu1tg33k1",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.35138583183288574,
+            "Type": "PERSON",
+            "Text": "Wiz",
+            "BeginOffset": 16,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.36332035064697266,
+            "Type": "ORGANIZATION",
+            "Text": "khalFIFA",
+            "BeginOffset": 20,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9997839331626892,
+            "Type": "OTHER",
+            "Text": "https://t.co/GjAaX1PduE",
+            "BeginOffset": 46,
+            "EndOffset": 69
+        }
+    ]
+}

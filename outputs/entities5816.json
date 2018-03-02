@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8781784176826477,
+            "Type": "PERSON",
+            "Text": "@MuseeLouvre",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9311067461967468,
+            "Type": "PERSON",
+            "Text": "@britishmuseum",
+            "BeginOffset": 18,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.6850288510322571,
+            "Type": "PERSON",
+            "Text": "@quaibranly",
+            "BeginOffset": 75,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9999114274978638,
+            "Type": "OTHER",
+            "Text": "http://t.co/N7ehC7XuwU",
+            "BeginOffset": 87,
+            "EndOffset": 109
+        }
+    ]
+}

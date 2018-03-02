@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5459657907485962,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.9706642031669617,
+            "Type": "PERSON",
+            "Text": "@Mike_Stelzner",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9496665596961975,
+            "Type": "ORGANIZATION",
+            "Text": "Facebook",
+            "BeginOffset": 30,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9729289412498474,
+            "Type": "OTHER",
+            "Text": "https://t.co/8YmwjaajCF",
+            "BeginOffset": 76,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.9021398425102234,
+            "Type": "ORGANIZATION",
+            "Text": "@msocialbusiness",
+            "BeginOffset": 104,
+            "EndOffset": 120
+        }
+    ]
+}

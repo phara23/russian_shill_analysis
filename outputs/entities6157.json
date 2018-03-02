@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.863548219203949,
+            "Type": "PERSON",
+            "Text": "@TodayPittsburgh",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8443756699562073,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 21,
+            "EndOffset": 24
+        }
+    ]
+}

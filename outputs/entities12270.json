@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8134783506393433,
+            "Type": "PERSON",
+            "Text": "@TheTruth24",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.6581085920333862,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 14,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8684746623039246,
+            "Type": "TITLE",
+            "Text": "Follies of Denial: Women and the Islamic State",
+            "BeginOffset": 18,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9987447261810303,
+            "Type": "OTHER",
+            "Text": "http://t.co/P65oGNOgoz",
+            "BeginOffset": 65,
+            "EndOffset": 87
+        }
+    ]
+}

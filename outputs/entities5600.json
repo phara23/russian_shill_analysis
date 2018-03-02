@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.899776816368103,
+            "Type": "PERSON",
+            "Text": "@HisGraceArron",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8766952753067017,
+            "Type": "LOCATION",
+            "Text": "Canada",
+            "BeginOffset": 28,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.7663383483886719,
+            "Type": "QUANTITY",
+            "Text": "100",
+            "BeginOffset": 64,
+            "EndOffset": 67
+        }
+    ]
+}

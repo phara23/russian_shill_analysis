@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7250494956970215,
+            "Type": "PERSON",
+            "Text": "@abusedtaxpayer",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9950892329216003,
+            "Type": "DATE",
+            "Text": "10/3/16",
+            "BeginOffset": 20,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9387747645378113,
+            "Type": "PERSON",
+            "Text": "Killery",
+            "BeginOffset": 39,
+            "EndOffset": 46
+        }
+    ]
+}

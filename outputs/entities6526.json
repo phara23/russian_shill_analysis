@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8212573528289795,
+            "Type": "PERSON",
+            "Text": "@Minuteman04",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.995327353477478,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 23,
+            "EndOffset": 28
+        }
+    ]
+}

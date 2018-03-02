@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.963305652141571,
+            "Type": "PERSON",
+            "Text": "@ElianaBenador",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8956221342086792,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 57,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.9556154012680054,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 131,
+            "EndOffset": 135
+        }
+    ]
+}

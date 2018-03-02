@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.934943437576294,
+            "Type": "PERSON",
+            "Text": "@os4185",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.44976353645324707,
+            "Type": "PERSON",
+            "Text": "#McCain",
+            "BeginOffset": 12,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.6161441802978516,
+            "Type": "OTHER",
+            "Text": "Australians",
+            "BeginOffset": 70,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.9999761581420898,
+            "Type": "OTHER",
+            "Text": "https://t.co/mdEnxKAu56",
+            "BeginOffset": 83,
+            "EndOffset": 106
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9659662246704102,
+            "Type": "PERSON",
+            "Text": "@Gabriele_Corno",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9962774515151978,
+            "Type": "PERSON",
+            "Text": "Jenny Woodward",
+            "BeginOffset": 32,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9998555183410645,
+            "Type": "OTHER",
+            "Text": "http://t.co/74kckNW3Df",
+            "BeginOffset": 89,
+            "EndOffset": 111
+        }
+    ]
+}

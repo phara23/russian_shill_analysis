@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8452062606811523,
+            "Type": "PERSON",
+            "Text": "@SonofLiberty357",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9708877205848694,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 32,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9912180304527283,
+            "Type": "OTHER",
+            "Text": "https://t.co/AApux1L3gq",
+            "BeginOffset": 98,
+            "EndOffset": 121
+        },
+        {
+            "Score": 0.9286805987358093,
+            "Type": "ORGANIZATION",
+            "Text": "@gatewaypundit",
+            "BeginOffset": 126,
+            "EndOffset": 140
+        }
+    ]
+}

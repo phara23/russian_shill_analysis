@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5088922381401062,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.7162688374519348,
+            "Type": "ORGANIZATION",
+            "Text": "@NYC_Everyday",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8495138883590698,
+            "Type": "ORGANIZATION",
+            "Text": "New York Lawmakers",
+            "BeginOffset": 18,
+            "EndOffset": 36
+        }
+    ]
+}

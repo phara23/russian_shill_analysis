@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8960906863212585,
+            "Type": "PERSON",
+            "Text": "@massfubar",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9999872446060181,
+            "Type": "OTHER",
+            "Text": "https://t.co/dM8DX90R73",
+            "BeginOffset": 30,
+            "EndOffset": 53
+        }
+    ]
+}

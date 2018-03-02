@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7709201574325562,
+            "Type": "PERSON",
+            "Text": "@Callisto1947",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.999708354473114,
+            "Type": "PERSON",
+            "Text": "David Clarke",
+            "BeginOffset": 26,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.922861635684967,
+            "Type": "LOCATION",
+            "Text": "United States",
+            "BeginOffset": 100,
+            "EndOffset": 113
+        }
+    ]
+}

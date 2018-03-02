@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.86090487241745,
+            "Type": "PERSON",
+            "Text": "@AllenWest",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.6115784645080566,
+            "Type": "QUANTITY",
+            "Text": "three white",
+            "BeginOffset": 31,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9896444082260132,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 43,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.49955853819847107,
+            "Type": "QUANTITY",
+            "Text": "ONE",
+            "BeginOffset": 82,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.7486326098442078,
+            "Type": "OTHER",
+            "Text": "https://t.co/RzNET19rpA",
+            "BeginOffset": 95,
+            "EndOffset": 118
+        },
+        {
+            "Score": 0.9882673621177673,
+            "Type": "OTHER",
+            "Text": "https://t.co/M5LTU8r",
+            "BeginOffset": 119,
+            "EndOffset": 139
+        }
+    ]
+}

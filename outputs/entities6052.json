@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8672173023223877,
+            "Type": "PERSON",
+            "Text": "@SeldenGADawgs",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9280202984809875,
+            "Type": "QUANTITY",
+            "Text": "six innocent lives",
+            "BeginOffset": 33,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9284607172012329,
+            "Type": "LOCATION",
+            "Text": "Michigan",
+            "BeginOffset": 65,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.8738393783569336,
+            "Type": "ORGANIZATION",
+            "Text": "@NYPost",
+            "BeginOffset": 85,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.9998493194580078,
+            "Type": "OTHER",
+            "Text": "https://t.co/LUzTN7kpv8",
+            "BeginOffset": 95,
+            "EndOffset": 118
+        }
+    ]
+}

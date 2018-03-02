@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.847490131855011,
+            "Type": "PERSON",
+            "Text": "@AbnInfVet",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.5563645958900452,
+            "Type": "ORGANIZATION",
+            "Text": "USFA",
+            "BeginOffset": 83,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.9767814874649048,
+            "Type": "OTHER",
+            "Text": "https://t.co/rRZgBcU8tm",
+            "BeginOffset": 91,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.6943698525428772,
+            "Type": "ORGANIZATION",
+            "Text": "Patriots",
+            "BeginOffset": 116,
+            "EndOffset": 124
+        },
+        {
+            "Score": 0.9863809943199158,
+            "Type": "OTHER",
+            "Text": "https://t.co",
+            "BeginOffset": 131,
+            "EndOffset": 143
+        }
+    ]
+}

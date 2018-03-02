@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9033331274986267,
+            "Type": "PERSON",
+            "Text": "@WEKetchum",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9999299049377441,
+            "Type": "OTHER",
+            "Text": "https://t.co/mJhwlQVbLk",
+            "BeginOffset": 22,
+            "EndOffset": 45
+        }
+    ]
+}

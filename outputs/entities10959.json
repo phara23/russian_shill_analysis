@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7122798562049866,
+            "Type": "PERSON",
+            "Text": "@frodofied",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9987616539001465,
+            "Type": "PERSON",
+            "Text": "Tom Perez",
+            "BeginOffset": 15,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.8868224620819092,
+            "Type": "QUANTITY",
+            "Text": "1st",
+            "BeginOffset": 37,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.8940749168395996,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 41,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.461838960647583,
+            "Type": "ORGANIZATION",
+            "Text": "Dem",
+            "BeginOffset": 62,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9839383959770203,
+            "Type": "OTHER",
+            "Text": "https://t.co/sXTr6vQiNh",
+            "BeginOffset": 106,
+            "EndOffset": 129
+        },
+        {
+            "Score": 0.771948516368866,
+            "Type": "ORGANIZATION",
+            "Text": "@Huff",
+            "BeginOffset": 134,
+            "EndOffset": 139
+        }
+    ]
+}

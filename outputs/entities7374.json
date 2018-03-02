@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9134883284568787,
+            "Type": "PERSON",
+            "Text": "@msbizz73",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8401819467544556,
+            "Type": "PERSON",
+            "Text": "@Cosmopolitan",
+            "BeginOffset": 18,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.5323979258537292,
+            "Type": "ORGANIZATION",
+            "Text": "Chelsea",
+            "BeginOffset": 43,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.7148064970970154,
+            "Type": "ORGANIZATION",
+            "Text": "#BillClinton",
+            "BeginOffset": 54,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9999382495880127,
+            "Type": "OTHER",
+            "Text": "https://t.co/for03Jj7Dk",
+            "BeginOffset": 85,
+            "EndOffset": 108
+        }
+    ]
+}

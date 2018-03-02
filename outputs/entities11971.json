@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8967369198799133,
+            "Type": "PERSON",
+            "Text": "@ByronSwartz1",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9589934349060059,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 51,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9988231658935547,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 101,
+            "EndOffset": 116
+        }
+    ]
+}

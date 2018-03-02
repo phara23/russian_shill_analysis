@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8238531947135925,
+            "Type": "PERSON",
+            "Text": "@AtlantaBreaking",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9980441927909851,
+            "Type": "PERSON",
+            "Text": "Rick Santorum",
+            "BeginOffset": 33,
+            "EndOffset": 46
+        }
+    ]
+}

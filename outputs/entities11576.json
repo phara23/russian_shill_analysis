@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8919661045074463,
+            "Type": "PERSON",
+            "Text": "@RaphaelLove",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.993800699710846,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 45,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9335886836051941,
+            "Type": "OTHER",
+            "Text": "https://t.co/4H2VbjWcVs",
+            "BeginOffset": 67,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9999854564666748,
+            "Type": "OTHER",
+            "Text": "https://t.co/6QPKr8DgBf",
+            "BeginOffset": 91,
+            "EndOffset": 114
+        }
+    ]
+}

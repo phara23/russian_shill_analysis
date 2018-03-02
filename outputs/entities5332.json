@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8750447034835815,
+            "Type": "ORGANIZATION",
+            "Text": "@CNN",
+            "BeginOffset": 3,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.9996561408042908,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 35,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9412254691123962,
+            "Type": "OTHER",
+            "Text": "https://t.co/fa4u8wDtj8",
+            "BeginOffset": 67,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9999973773956299,
+            "Type": "OTHER",
+            "Text": "https://t.co/H0ii4MLXdb",
+            "BeginOffset": 91,
+            "EndOffset": 114
+        }
+    ]
+}

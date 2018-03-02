@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8409169316291809,
+            "Type": "PERSON",
+            "Text": "@PAGOP",
+            "BeginOffset": 0,
+            "EndOffset": 6
+        },
+        {
+            "Score": 0.9998553991317749,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 69,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9999357461929321,
+            "Type": "OTHER",
+            "Text": "https://t.co/SCJCztPcrB",
+            "BeginOffset": 110,
+            "EndOffset": 133
+        }
+    ]
+}

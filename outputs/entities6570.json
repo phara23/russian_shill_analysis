@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.771140456199646,
+            "Type": "EVENT",
+            "Text": "DNC Day 3",
+            "BeginOffset": 0,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9497462511062622,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 11,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.99470055103302,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 23,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.8412981629371643,
+            "Type": "PERSON",
+            "Text": "Knocks Trump",
+            "BeginOffset": 35,
+            "EndOffset": 47
+        }
+    ]
+}

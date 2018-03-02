@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8406323194503784,
+            "Type": "PERSON",
+            "Text": "@welt",
+            "BeginOffset": 3,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.9832274317741394,
+            "Type": "PERSON",
+            "Text": "Victor Orbán",
+            "BeginOffset": 42,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.8535571694374084,
+            "Type": "OTHER",
+            "Text": "https://t.co/z5XEbNCCDg",
+            "BeginOffset": 58,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.9999954700469971,
+            "Type": "OTHER",
+            "Text": "https://t.co/hz59bn3mVZ",
+            "BeginOffset": 82,
+            "EndOffset": 105
+        }
+    ]
+}

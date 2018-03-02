@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8340260982513428,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.7812379598617554,
+            "Type": "LOCATION",
+            "Text": "Pittsburgh",
+            "BeginOffset": 43,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9387989640235901,
+            "Type": "OTHER",
+            "Text": "https://t.co/1fp3Y3Etn3",
+            "BeginOffset": 110,
+            "EndOffset": 133
+        },
+        {
+            "Score": 0.709448516368866,
+            "Type": "PERSON",
+            "Text": "@NewP",
+            "BeginOffset": 134,
+            "EndOffset": 139
+        }
+    ]
+}

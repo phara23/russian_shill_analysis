@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8508598804473877,
+            "Type": "PERSON",
+            "Text": "@TennConserv",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.6531628966331482,
+            "Type": "PERSON",
+            "Text": "HILLARY",
+            "BeginOffset": 31,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.972285270690918,
+            "Type": "PERSON",
+            "Text": "TRUMP",
+            "BeginOffset": 44,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.8111228346824646,
+            "Type": "LOCATION",
+            "Text": "NYC",
+            "BeginOffset": 62,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9999527931213379,
+            "Type": "OTHER",
+            "Text": "https://t.co/jwDx3iC55N",
+            "BeginOffset": 112,
+            "EndOffset": 135
+        }
+    ]
+}

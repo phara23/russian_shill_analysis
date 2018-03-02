@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8718909621238708,
+            "Type": "PERSON",
+            "Text": "@patcondell",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7105286717414856,
+            "Type": "OTHER",
+            "Text": "American",
+            "BeginOffset": 24,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.7919930815696716,
+            "Type": "ORGANIZATION",
+            "Text": "Islam",
+            "BeginOffset": 46,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.995427131652832,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 62,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9992753267288208,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 110,
+            "EndOffset": 125
+        },
+        {
+            "Score": 0.9499678015708923,
+            "Type": "OTHER",
+            "Text": "https://t.c",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

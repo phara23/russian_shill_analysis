@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8652635812759399,
+            "Type": "PERSON",
+            "Text": "@AmyMek",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9952922463417053,
+            "Type": "PERSON",
+            "Text": "Eric Holder",
+            "BeginOffset": 12,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.3467696011066437,
+            "Type": "QUANTITY",
+            "Text": "2",
+            "BeginOffset": 29,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9306240677833557,
+            "Type": "ORGANIZATION",
+            "Text": "Congress",
+            "BeginOffset": 31,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.41309675574302673,
+            "Type": "PERSON",
+            "Text": "Obamas",
+            "BeginOffset": 46,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.7650148868560791,
+            "Type": "OTHER",
+            "Text": "American",
+            "BeginOffset": 86,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.9753104448318481,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 127,
+            "EndOffset": 132
+        }
+    ]
+}

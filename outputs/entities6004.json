@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9168667197227478,
+            "Type": "PERSON",
+            "Text": "@RitaMarinoni",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.791331946849823,
+            "Type": "DATE",
+            "Text": "next 3 days",
+            "BeginOffset": 68,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.999970555305481,
+            "Type": "OTHER",
+            "Text": "https://t.co/X6B6aGyVCC",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        }
+    ]
+}

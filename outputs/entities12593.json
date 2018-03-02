@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7961641550064087,
+            "Type": "PERSON",
+            "Text": "@DCClothesline",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.810272753238678,
+            "Type": "QUANTITY",
+            "Text": "86% Year",
+            "BeginOffset": 44,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.8969582319259644,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 71,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.838157594203949,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 91,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.8918015956878662,
+            "Type": "ORGANIZATION",
+            "Text": "Muslim",
+            "BeginOffset": 104,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.9462661743164062,
+            "Type": "OTHER",
+            "Text": "https://t.co/eP2oPNnGog",
+            "BeginOffset": 112,
+            "EndOffset": 135
+        }
+    ]
+}

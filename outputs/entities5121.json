@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8491732478141785,
+            "Type": "PERSON",
+            "Text": "@trscoop",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8406062126159668,
+            "Type": "EVENT",
+            "Text": "Thanksgiving",
+            "BeginOffset": 19,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.83185213804245,
+            "Type": "OTHER",
+            "Text": "https://t.co/USxyKHnc8Y",
+            "BeginOffset": 53,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.9999442100524902,
+            "Type": "OTHER",
+            "Text": "https://t.co/CiXzTrzFsn",
+            "BeginOffset": 77,
+            "EndOffset": 100
+        }
+    ]
+}

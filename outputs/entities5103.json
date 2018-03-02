@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7969012260437012,
+            "Type": "PERSON",
+            "Text": "@ChrisCoon4",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.923585832118988,
+            "Type": "ORGANIZATION",
+            "Text": "Muslim",
+            "BeginOffset": 16,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9999730587005615,
+            "Type": "OTHER",
+            "Text": "https://t.co/D9gRgtQjtv",
+            "BeginOffset": 74,
+            "EndOffset": 97
+        }
+    ]
+}

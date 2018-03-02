@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.912905752658844,
+            "Type": "PERSON",
+            "Text": "@mitchellvii",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9208918213844299,
+            "Type": "ORGANIZATION",
+            "Text": "IRS",
+            "BeginOffset": 26,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.8773566484451294,
+            "Type": "ORGANIZATION",
+            "Text": "Tea Party Organizations",
+            "BeginOffset": 49,
+            "EndOffset": 72
+        }
+    ]
+}

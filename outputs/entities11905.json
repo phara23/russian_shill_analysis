@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.866328775882721,
+            "Type": "ORGANIZATION",
+            "Text": "Georgia Democrats",
+            "BeginOffset": 0,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.99759840965271,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 48,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.8541191220283508,
+            "Type": "OTHER",
+            "Text": "https://t.co/Y0TcBK3os2",
+            "BeginOffset": 64,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.8417217135429382,
+            "Type": "OTHER",
+            "Text": "https://t.co/1KPXto2HfW",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.9999710321426392,
+            "Type": "OTHER",
+            "Text": "https://t.co/7iusOXAPpm",
+            "BeginOffset": 114,
+            "EndOffset": 137
+        }
+    ]
+}

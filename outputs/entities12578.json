@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5837041139602661,
+            "Type": "OTHER",
+            "Text": "Indians",
+            "BeginOffset": 14,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9848724603652954,
+            "Type": "DATE",
+            "Text": "tomorrow",
+            "BeginOffset": 41,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.3514173626899719,
+            "Type": "QUANTITY",
+            "Text": "16",
+            "BeginOffset": 63,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9997414946556091,
+            "Type": "OTHER",
+            "Text": "https://t.co/OmNZbnGR4i",
+            "BeginOffset": 85,
+            "EndOffset": 108
+        }
+    ]
+}

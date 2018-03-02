@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6700140237808228,
+            "Type": "ORGANIZATION",
+            "Text": "@BlastingNews",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8756062984466553,
+            "Type": "OTHER",
+            "Text": "https://t.co/6rntYoWlhd",
+            "BeginOffset": 75,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.9998846054077148,
+            "Type": "OTHER",
+            "Text": "https://t.co/rlnYLoI66t",
+            "BeginOffset": 99,
+            "EndOffset": 122
+        }
+    ]
+}

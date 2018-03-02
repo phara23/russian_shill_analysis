@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7411084175109863,
+            "Type": "PERSON",
+            "Text": "@gerfingerpoken2",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9966408014297485,
+            "Type": "PERSON",
+            "Text": "Jamiel Shaw",
+            "BeginOffset": 21,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.7065123915672302,
+            "Type": "OTHER",
+            "Text": "American",
+            "BeginOffset": 80,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.899095356464386,
+            "Type": "OTHER",
+            "Text": "https://t.co/qlEnqBmABs",
+            "BeginOffset": 98,
+            "EndOffset": 121
+        },
+        {
+            "Score": 0.9665115475654602,
+            "Type": "OTHER",
+            "Text": "https://t.co/OkF",
+            "BeginOffset": 123,
+            "EndOffset": 139
+        }
+    ]
+}

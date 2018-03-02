@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9217946529388428,
+            "Type": "PERSON",
+            "Text": "@March_for_Trump",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9903455376625061,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 21,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9641201496124268,
+            "Type": "LOCATION",
+            "Text": "NYC",
+            "BeginOffset": 41,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.8117300868034363,
+            "Type": "LOCATION",
+            "Text": "Empire City",
+            "BeginOffset": 74,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.9835608005523682,
+            "Type": "LOCATION",
+            "Text": "Trump Tower",
+            "BeginOffset": 105,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.9941254258155823,
+            "Type": "DATE",
+            "Text": "Nov 12",
+            "BeginOffset": 120,
+            "EndOffset": 126
+        }
+    ]
+}

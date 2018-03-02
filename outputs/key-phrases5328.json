@@ -1,0 +1,28 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9997387528419495,
+            "Text": "President #Obama",
+            "BeginOffset": 0,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9971287846565247,
+            "Text": "the #Pentagon",
+            "BeginOffset": 29,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9865638017654419,
+            "Text": "the leaders",
+            "BeginOffset": 60,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9982108473777771,
+            "Text": "an al-Qaeda-linked group",
+            "BeginOffset": 75,
+            "EndOffset": 99
+        }
+    ]
+}

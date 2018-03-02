@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9382711052894592,
+            "Type": "PERSON",
+            "Text": "@bartmckinley",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9997637867927551,
+            "Type": "PERSON",
+            "Text": "Michael Savage",
+            "BeginOffset": 21,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9987025260925293,
+            "Type": "PERSON",
+            "Text": "Paul Ryan",
+            "BeginOffset": 48,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9732556343078613,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 61,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.515424370765686,
+            "Type": "PERSON",
+            "Text": "Beard",
+            "BeginOffset": 70,
+            "EndOffset": 75
+        }
+    ]
+}

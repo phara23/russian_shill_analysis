@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.677074670791626,
+            "Type": "PERSON",
+            "Text": "@1611Paul",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9694430232048035,
+            "Type": "QUANTITY",
+            "Text": "four days",
+            "BeginOffset": 67,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.8376049399375916,
+            "Type": "EVENT",
+            "Text": "Election Day",
+            "BeginOffset": 83,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.459555059671402,
+            "Type": "EVENT",
+            "Text": "#TrumpPence16",
+            "BeginOffset": 99,
+            "EndOffset": 112
+        }
+    ]
+}

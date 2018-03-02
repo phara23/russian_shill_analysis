@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8941512107849121,
+            "Type": "PERSON",
+            "Text": "@ITShinobi",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8662430644035339,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 39,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9800293445587158,
+            "Type": "DATE",
+            "Text": "2015",
+            "BeginOffset": 74,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.9723065495491028,
+            "Type": "OTHER",
+            "Text": "https://t.co/ylQH0Ee5Zt",
+            "BeginOffset": 79,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.5363348722457886,
+            "Type": "ORGANIZATION",
+            "Text": "#WhyImNotVotingForHillary",
+            "BeginOffset": 103,
+            "EndOffset": 128
+        },
+        {
+            "Score": 0.4825109839439392,
+            "Type": "ORGANIZATION",
+            "Text": "#DemDebate",
+            "BeginOffset": 129,
+            "EndOffset": 139
+        }
+    ]
+}

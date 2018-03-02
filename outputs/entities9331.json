@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6632493734359741,
+            "Type": "EVENT",
+            "Text": "2016 DNC",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8466466665267944,
+            "Type": "LOCATION",
+            "Text": "Louisiana",
+            "BeginOffset": 13,
+            "EndOffset": 22
+        }
+    ]
+}

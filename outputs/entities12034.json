@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.916889488697052,
+            "Type": "PERSON",
+            "Text": "@SanJosePost",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.5840782523155212,
+            "Type": "PERSON",
+            "Text": "SJ Earthquakes",
+            "BeginOffset": 25,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9820690751075745,
+            "Type": "ORGANIZATION",
+            "Text": "Manchester United",
+            "BeginOffset": 44,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9420132637023926,
+            "Type": "LOCATION",
+            "Text": "Avaya Stadium",
+            "BeginOffset": 65,
+            "EndOffset": 78
+        }
+    ]
+}

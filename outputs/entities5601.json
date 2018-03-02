@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8624892830848694,
+            "Type": "PERSON",
+            "Text": "@NOrleansDaily",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.989967942237854,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 29,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.8932135105133057,
+            "Type": "QUANTITY",
+            "Text": "50th state",
+            "BeginOffset": 42,
+            "EndOffset": 52
+        }
+    ]
+}

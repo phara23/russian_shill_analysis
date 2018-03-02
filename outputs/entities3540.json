@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5216847062110901,
+            "Type": "ORGANIZATION",
+            "Text": "Dems",
+            "BeginOffset": 23,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9153903722763062,
+            "Type": "ORGANIZATION",
+            "Text": "Muslim",
+            "BeginOffset": 39,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9999904632568359,
+            "Type": "OTHER",
+            "Text": "https://t.co/XGsYpJi6j0",
+            "BeginOffset": 121,
+            "EndOffset": 144
+        }
+    ]
+}

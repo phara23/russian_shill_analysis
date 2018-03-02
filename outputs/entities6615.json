@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8898254036903381,
+            "Type": "PERSON",
+            "Text": "@ginger621853",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9682546257972717,
+            "Type": "PERSON",
+            "Text": "@TGJones_62",
+            "BeginOffset": 18,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9861135482788086,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 30,
+            "EndOffset": 46
+        }
+    ]
+}

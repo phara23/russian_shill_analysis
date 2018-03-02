@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8470733165740967,
+            "Type": "PERSON",
+            "Text": "King Kong",
+            "BeginOffset": 0,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.8340064883232117,
+            "Type": "PERSON",
+            "Text": "@midnight",
+            "BeginOffset": 50,
+            "EndOffset": 59
+        }
+    ]
+}

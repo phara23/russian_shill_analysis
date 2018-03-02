@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8361175656318665,
+            "Type": "PERSON",
+            "Text": "@YourQueenMakeda",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.6726935505867004,
+            "Type": "ORGANIZATION",
+            "Text": "@SoualiganAmazon",
+            "BeginOffset": 21,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.7909730672836304,
+            "Type": "QUANTITY",
+            "Text": "First Brexot",
+            "BeginOffset": 50,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9932729005813599,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 68,
+            "EndOffset": 73
+        }
+    ]
+}

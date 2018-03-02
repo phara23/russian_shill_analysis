@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8398813605308533,
+            "Type": "PERSON",
+            "Text": "@WorldTruthTV",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8852899670600891,
+            "Type": "ORGANIZATION",
+            "Text": "US Military Press",
+            "BeginOffset": 18,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.8608381748199463,
+            "Type": "EVENT",
+            "Text": "World War 3",
+            "BeginOffset": 50,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.8368499875068665,
+            "Type": "LOCATION",
+            "Text": "Russia",
+            "BeginOffset": 67,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.9996126294136047,
+            "Type": "OTHER",
+            "Text": "https://t.co/IunxAQNutX",
+            "BeginOffset": 75,
+            "EndOffset": 98
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5189739465713501,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.758355975151062,
+            "Type": "ORGANIZATION",
+            "Text": "@America_1st_",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9998795986175537,
+            "Type": "PERSON",
+            "Text": "Bill Clinton",
+            "BeginOffset": 42,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.8869828581809998,
+            "Type": "PERSON",
+            "Text": "Bimbo Dickins",
+            "BeginOffset": 56,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9417449235916138,
+            "Type": "PERSON",
+            "Text": "@DonaldJTrumpJr",
+            "BeginOffset": 86,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.9999332427978516,
+            "Type": "OTHER",
+            "Text": "https://t.co/dovhIRwwpF",
+            "BeginOffset": 102,
+            "EndOffset": 125
+        }
+    ]
+}

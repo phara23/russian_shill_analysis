@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.768223226070404,
+            "Type": "PERSON",
+            "Text": "@redflagnews",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7637962102890015,
+            "Type": "QUANTITY",
+            "Text": "At least 18 MORE Guantanamo detainees",
+            "BeginOffset": 17,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.991669774055481,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 82,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.9707265496253967,
+            "Type": "OTHER",
+            "Text": "https://t.co/ta09",
+            "BeginOffset": 122,
+            "EndOffset": 139
+        }
+    ]
+}

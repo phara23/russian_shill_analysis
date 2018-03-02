@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8178998827934265,
+            "Type": "PERSON",
+            "Text": "@osPatriot",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9817744493484497,
+            "Type": "OTHER",
+            "Text": "https://t.co/9g7SRq8hXe",
+            "BeginOffset": 49,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.9960939884185791,
+            "Type": "PERSON",
+            "Text": "Billy Bush",
+            "BeginOffset": 110,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.9915663599967957,
+            "Type": "OTHER",
+            "Text": "https://t.co/Q16s",
+            "BeginOffset": 122,
+            "EndOffset": 139
+        }
+    ]
+}

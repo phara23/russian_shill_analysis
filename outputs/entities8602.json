@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7687724232673645,
+            "Type": "PERSON",
+            "Text": "@NolteNC",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.996289849281311,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 111,
+            "EndOffset": 118
+        }
+    ]
+}

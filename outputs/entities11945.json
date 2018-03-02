@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7940338850021362,
+            "Type": "PERSON",
+            "Text": "@stokenewington",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9551097750663757,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 20,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9964911341667175,
+            "Type": "ORGANIZATION",
+            "Text": "Twitter",
+            "BeginOffset": 79,
+            "EndOffset": 86
+        }
+    ]
+}

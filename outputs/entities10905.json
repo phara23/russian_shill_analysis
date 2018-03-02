@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9382146000862122,
+            "Type": "PERSON",
+            "Text": "@TerryBe71381008",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8964669704437256,
+            "Type": "PERSON",
+            "Text": "@keywestcliff2",
+            "BeginOffset": 21,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.5457775592803955,
+            "Type": "LOCATION",
+            "Text": "American",
+            "BeginOffset": 47,
+            "EndOffset": 55
+        }
+    ]
+}

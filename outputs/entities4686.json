@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8490414023399353,
+            "Type": "PERSON",
+            "Text": "@Yvonne2016",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.998368501663208,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 20,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9113892316818237,
+            "Type": "OTHER",
+            "Text": "https://t.co/MQQrwTWVAZ",
+            "BeginOffset": 77,
+            "EndOffset": 100
+        }
+    ]
+}

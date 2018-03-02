@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.49047043919563293,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.9564211368560791,
+            "Type": "PERSON",
+            "Text": "@Gabby_Hoffman",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8405064344406128,
+            "Type": "QUANTITY",
+            "Text": ".00/gallon",
+            "BeginOffset": 41,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.931135892868042,
+            "Type": "QUANTITY",
+            "Text": "70F",
+            "BeginOffset": 76,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.9451340436935425,
+            "Type": "DATE",
+            "Text": "this weekend",
+            "BeginOffset": 80,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.6609010696411133,
+            "Type": "ORGANIZATION",
+            "Text": "Northern Virgin",
+            "BeginOffset": 122,
+            "EndOffset": 137
+        }
+    ]
+}

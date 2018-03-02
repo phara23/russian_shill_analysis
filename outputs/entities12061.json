@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7936002016067505,
+            "Type": "PERSON",
+            "Text": "@Winning_Dems",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9748408794403076,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 26,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9757828116416931,
+            "Type": "QUANTITY",
+            "Text": "25 Countries",
+            "BeginOffset": 75,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.7244372367858887,
+            "Type": "OTHER",
+            "Text": "https://t.co/m4dU33VdRw",
+            "BeginOffset": 88,
+            "EndOffset": 111
+        },
+        {
+            "Score": 0.9999538660049438,
+            "Type": "OTHER",
+            "Text": "https://t.co/RdYXLBLbIF",
+            "BeginOffset": 112,
+            "EndOffset": 135
+        }
+    ]
+}

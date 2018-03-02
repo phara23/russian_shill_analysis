@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8387327194213867,
+            "Type": "PERSON",
+            "Text": "@AntiRacismTv",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.5880704522132874,
+            "Type": "PERSON",
+            "Text": "Roosevelt",
+            "BeginOffset": 97,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.8887026906013489,
+            "Type": "OTHER",
+            "Text": "https://t.c",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

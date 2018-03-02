@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9358558654785156,
+            "Type": "PERSON",
+            "Text": "@MattMurph24",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9989554286003113,
+            "Type": "PERSON",
+            "Text": "Bobby Knight",
+            "BeginOffset": 17,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9986281991004944,
+            "Type": "PERSON",
+            "Text": "Jerry Sandusky",
+            "BeginOffset": 54,
+            "EndOffset": 68
+        }
+    ]
+}

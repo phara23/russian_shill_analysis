@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9457429051399231,
+            "Type": "PERSON",
+            "Text": "Snyder",
+            "BeginOffset": 0,
+            "EndOffset": 6
+        },
+        {
+            "Score": 0.9369402527809143,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 14,
+            "EndOffset": 17
+        }
+    ]
+}

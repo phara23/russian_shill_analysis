@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.950533926486969,
+            "Type": "PERSON",
+            "Text": "@LindaSuhler",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.6072856783866882,
+            "Type": "QUANTITY",
+            "Text": "16🇺",
+            "BeginOffset": 118,
+            "EndOffset": 121
+        }
+    ]
+}

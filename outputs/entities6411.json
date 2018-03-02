@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8723848462104797,
+            "Type": "PERSON",
+            "Text": "@ibadanian",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.5166482329368591,
+            "Type": "LOCATION",
+            "Text": "African",
+            "BeginOffset": 21,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.8431028127670288,
+            "Type": "QUANTITY",
+            "Text": "one person",
+            "BeginOffset": 45,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9998519420623779,
+            "Type": "OTHER",
+            "Text": "https://t.co/MsS81OUPn3",
+            "BeginOffset": 110,
+            "EndOffset": 133
+        }
+    ]
+}

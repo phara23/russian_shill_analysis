@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7263316512107849,
+            "Type": "PERSON",
+            "Text": "@thedailybeast",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9556077122688293,
+            "Type": "PERSON",
+            "Text": "Sandy Hook",
+            "BeginOffset": 19,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9986191987991333,
+            "Type": "PERSON",
+            "Text": "Mark Barden",
+            "BeginOffset": 34,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9984448552131653,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 63,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9844201803207397,
+            "Type": "PERSON",
+            "Text": "Sandy Hook",
+            "BeginOffset": 89,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.9986907839775085,
+            "Type": "PERSON",
+            "Text": "Alex Jones",
+            "BeginOffset": 108,
+            "EndOffset": 118
+        }
+    ]
+}

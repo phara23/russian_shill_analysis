@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.700579822063446,
+            "Type": "ORGANIZATION",
+            "Text": "@AppSame",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.5946255922317505,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 24,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.890504002571106,
+            "Type": "PERSON",
+            "Text": "@megynkelly",
+            "BeginOffset": 57,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9998643398284912,
+            "Type": "OTHER",
+            "Text": "https://t.co/G8GPyURmVE",
+            "BeginOffset": 69,
+            "EndOffset": 92
+        }
+    ]
+}

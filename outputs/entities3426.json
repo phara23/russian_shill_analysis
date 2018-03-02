@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9061605930328369,
+            "Type": "PERSON",
+            "Text": "@ScreamyMonkey",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6291589736938477,
+            "Type": "ORGANIZATION",
+            "Text": "Pentagon",
+            "BeginOffset": 19,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9999880790710449,
+            "Type": "OTHER",
+            "Text": "http://t.co/Nz9T9zj8io",
+            "BeginOffset": 80,
+            "EndOffset": 102
+        }
+    ]
+}

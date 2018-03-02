@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7769784331321716,
+            "Type": "PERSON",
+            "Text": "@frodofied",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9848389625549316,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 28,
+            "EndOffset": 33
+        }
+    ]
+}

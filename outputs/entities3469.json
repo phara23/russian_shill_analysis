@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5411344766616821,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8624855279922485,
+            "Type": "ORGANIZATION",
+            "Text": "@Hutch_USA",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8679535388946533,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 15,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7103367447853088,
+            "Type": "ORGANIZATION",
+            "Text": "@Evadam7",
+            "BeginOffset": 18,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.8842605948448181,
+            "Type": "OTHER",
+            "Text": "http://t.co/Vw111fcMuE",
+            "BeginOffset": 69,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.7301445603370667,
+            "Type": "ORGANIZATION",
+            "Text": "@angelemichelle",
+            "BeginOffset": 108,
+            "EndOffset": 123
+        }
+    ]
+}

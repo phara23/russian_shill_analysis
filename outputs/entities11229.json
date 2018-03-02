@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8992475867271423,
+            "Type": "PERSON",
+            "Text": "@Writeintrump",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9914633631706238,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 18,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9788966178894043,
+            "Type": "PERSON",
+            "Text": "Kanye West",
+            "BeginOffset": 60,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.7828841805458069,
+            "Type": "ORGANIZATION",
+            "Text": "Oval Office",
+            "BeginOffset": 97,
+            "EndOffset": 108
+        }
+    ]
+}

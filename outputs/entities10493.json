@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9062256813049316,
+            "Type": "PERSON",
+            "Text": "@BenWilhelm1230",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8786501884460449,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 48,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9998098015785217,
+            "Type": "OTHER",
+            "Text": "https://t.co/DvnTMVQaBa",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        }
+    ]
+}

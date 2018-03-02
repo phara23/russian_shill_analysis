@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7731449604034424,
+            "Type": "PERSON",
+            "Text": "@NrouteHQ",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.819556713104248,
+            "Type": "LOCATION",
+            "Text": "Bora Bora",
+            "BeginOffset": 47,
+            "EndOffset": 56
+        }
+    ]
+}

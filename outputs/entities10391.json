@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9358059167861938,
+            "Type": "PERSON",
+            "Text": "@count_01",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9819933772087097,
+            "Type": "PERSON",
+            "Text": "@mrtom2380",
+            "BeginOffset": 14,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9369871020317078,
+            "Type": "PERSON",
+            "Text": "@BeautyBind",
+            "BeginOffset": 25,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.920409619808197,
+            "Type": "PERSON",
+            "Text": "@P0TUS",
+            "BeginOffset": 37,
+            "EndOffset": 43
+        }
+    ]
+}

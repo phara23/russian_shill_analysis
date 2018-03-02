@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9273087978363037,
+            "Type": "PERSON",
+            "Text": "@CurtCBryant",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.5627418756484985,
+            "Type": "LOCATION",
+            "Text": "Eastern European",
+            "BeginOffset": 23,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9922387003898621,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 53,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9990045428276062,
+            "Type": "OTHER",
+            "Text": "https://t.co/AMYQQMKpUv",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        }
+    ]
+}

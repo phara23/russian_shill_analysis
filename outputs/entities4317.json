@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9938985109329224,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 12,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7712110877037048,
+            "Type": "OTHER",
+            "Text": "Mexican",
+            "BeginOffset": 27,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.936808168888092,
+            "Type": "PERSON",
+            "Text": "President Enrique Pena Nieto",
+            "BeginOffset": 35,
+            "EndOffset": 63
+        }
+    ]
+}

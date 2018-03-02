@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8234257102012634,
+            "Type": "PERSON",
+            "Text": "@KCityDaily",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8588311672210693,
+            "Type": "LOCATION",
+            "Text": "Oklahoma City",
+            "BeginOffset": 51,
+            "EndOffset": 64
+        }
+    ]
+}

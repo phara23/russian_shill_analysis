@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8676297068595886,
+            "Type": "PERSON",
+            "Text": "@xz089",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9133445620536804,
+            "Type": "PERSON",
+            "Text": "@mizzmarymary",
+            "BeginOffset": 12,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9670820236206055,
+            "Type": "PERSON",
+            "Text": "@NaYaKnoMi",
+            "BeginOffset": 26,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.8702356815338135,
+            "Type": "PERSON",
+            "Text": "@POTUS",
+            "BeginOffset": 37,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.7608540058135986,
+            "Type": "PERSON",
+            "Text": "USSR - Putin",
+            "BeginOffset": 100,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.9800099730491638,
+            "Type": "ORGANIZATION",
+            "Text": "FBI",
+            "BeginOffset": 114,
+            "EndOffset": 117
+        }
+    ]
+}

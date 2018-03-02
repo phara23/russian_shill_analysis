@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8451854586601257,
+            "Type": "PERSON",
+            "Text": "@sichoazdwn",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9257394671440125,
+            "Type": "PERSON",
+            "Text": "@BtSquared2",
+            "BeginOffset": 16,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9525989890098572,
+            "Type": "PERSON",
+            "Text": "@ReaganGomez",
+            "BeginOffset": 28,
+            "EndOffset": 40
+        }
+    ]
+}

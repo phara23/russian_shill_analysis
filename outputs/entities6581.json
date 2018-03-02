@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.942507266998291,
+            "Type": "PERSON",
+            "Text": "Christie",
+            "BeginOffset": 9,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9968156218528748,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 31,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9432719349861145,
+            "Type": "LOCATION",
+            "Text": "Syria",
+            "BeginOffset": 46,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9852885603904724,
+            "Type": "PERSON",
+            "Text": "Assad",
+            "BeginOffset": 54,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.9753032922744751,
+            "Type": "OTHER",
+            "Text": "https://t.co/V2jF4xy5uk",
+            "BeginOffset": 63,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.8283951282501221,
+            "Type": "OTHER",
+            "Text": "https://t.co/yX3iMOFIOR",
+            "BeginOffset": 89,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.999976396560669,
+            "Type": "OTHER",
+            "Text": "https://t.co/7ppvQEvxON",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9339777231216431,
+            "Type": "PERSON",
+            "Text": "@Davewellwisher",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.5665858387947083,
+            "Type": "QUANTITY",
+            "Text": "64",
+            "BeginOffset": 31,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9998728036880493,
+            "Type": "OTHER",
+            "Text": "https://t.co/Zw4e87yYrG",
+            "BeginOffset": 70,
+            "EndOffset": 93
+        }
+    ]
+}

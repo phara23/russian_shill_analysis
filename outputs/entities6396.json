@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8974953889846802,
+            "Type": "PERSON",
+            "Text": "@TheAmishDude",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9975438714027405,
+            "Type": "PERSON",
+            "Text": "Pence",
+            "BeginOffset": 37,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9999276399612427,
+            "Type": "OTHER",
+            "Text": "https://t.co/4PthCKlUID",
+            "BeginOffset": 116,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8784812688827515,
+            "Type": "PERSON",
+            "Text": "Kardashian",
+            "BeginOffset": 64,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9999419450759888,
+            "Type": "OTHER",
+            "Text": "https://t.co/U1iElmB2Qa",
+            "BeginOffset": 81,
+            "EndOffset": 104
+        }
+    ]
+}

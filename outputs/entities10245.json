@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8650810718536377,
+            "Type": "PERSON",
+            "Text": "@ramonawildeman",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7791088819503784,
+            "Type": "PERSON",
+            "Text": "@ava",
+            "BeginOffset": 20,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9387688040733337,
+            "Type": "PERSON",
+            "Text": "@WrinkleInTime",
+            "BeginOffset": 25,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9341483116149902,
+            "Type": "PERSON",
+            "Text": "@ava",
+            "BeginOffset": 40,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.7526000738143921,
+            "Type": "ORGANIZATION",
+            "Text": "@WrinkleInTime",
+            "BeginOffset": 79,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.999790608882904,
+            "Type": "OTHER",
+            "Text": "https://t.co/FmZFMduDKA",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        }
+    ]
+}

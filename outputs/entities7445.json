@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8759723901748657,
+            "Type": "PERSON",
+            "Text": "@NabilShokri2011",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.48981162905693054,
+            "Type": "OTHER",
+            "Text": "Islamic",
+            "BeginOffset": 101,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.9914920926094055,
+            "Type": "OTHER",
+            "Text": "https://t.co/0WlPWcV6VM",
+            "BeginOffset": 112,
+            "EndOffset": 135
+        }
+    ]
+}

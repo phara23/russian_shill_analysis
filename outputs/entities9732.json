@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7439549565315247,
+            "Type": "PERSON",
+            "Text": "@wethepplsdnews",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.4118410050868988,
+            "Type": "QUANTITY",
+            "Text": "Thousands",
+            "BeginOffset": 64,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.44445112347602844,
+            "Type": "LOCATION",
+            "Text": "Americans",
+            "BeginOffset": 90,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.8452280759811401,
+            "Type": "OTHER",
+            "Text": "https://t.co/al67kUqzgp",
+            "BeginOffset": 100,
+            "EndOffset": 123
+        },
+        {
+            "Score": 0.9785975813865662,
+            "Type": "OTHER",
+            "Text": "https://t.co/Rg",
+            "BeginOffset": 124,
+            "EndOffset": 139
+        }
+    ]
+}

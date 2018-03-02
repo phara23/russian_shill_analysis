@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9002159833908081,
+            "Type": "PERSON",
+            "Text": "@djtrans",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.6220798492431641,
+            "Type": "PERSON",
+            "Text": "@DJHIVOLUME",
+            "BeginOffset": 28,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9887899160385132,
+            "Type": "OTHER",
+            "Text": "https://t.co/niKL8SJIEh",
+            "BeginOffset": 55,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.624226987361908,
+            "Type": "OTHER",
+            "Text": "https://t.co/6pj1juAfKw",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        },
+        {
+            "Score": 0.6803495287895203,
+            "Type": "QUANTITY",
+            "Text": "1KN",
+            "BeginOffset": 123,
+            "EndOffset": 126
+        },
+        {
+            "Score": 0.9292490482330322,
+            "Type": "OTHER",
+            "Text": "https://t.co",
+            "BeginOffset": 127,
+            "EndOffset": 139
+        }
+    ]
+}

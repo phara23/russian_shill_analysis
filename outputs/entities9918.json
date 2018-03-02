@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8068026900291443,
+            "Type": "PERSON",
+            "Text": "@TomRosenblum",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8739888668060303,
+            "Type": "PERSON",
+            "Text": "@LeahR77",
+            "BeginOffset": 18,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9753956198692322,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 67,
+            "EndOffset": 74
+        }
+    ]
+}

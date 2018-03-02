@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8775162100791931,
+            "Type": "PERSON",
+            "Text": "@RtOnPrinciple",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9692726731300354,
+            "Type": "PERSON",
+            "Text": "@jaynordlinger",
+            "BeginOffset": 29,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.999579668045044,
+            "Type": "PERSON",
+            "Text": "Ted Cruz",
+            "BeginOffset": 54,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9963687658309937,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 89,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.9785507917404175,
+            "Type": "OTHER",
+            "Text": "https://t.co/R1S",
+            "BeginOffset": 123,
+            "EndOffset": 139
+        }
+    ]
+}

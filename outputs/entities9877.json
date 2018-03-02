@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8634719252586365,
+            "Type": "PERSON",
+            "Text": "@TinaDupuy",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9974651336669922,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 15,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.7899191975593567,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 85,
+            "EndOffset": 88
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9748586416244507,
+            "Type": "PERSON",
+            "Text": "@Avraham5772",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7132561206817627,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 94,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.9999223947525024,
+            "Type": "OTHER",
+            "Text": "https://t.co/9FrifgdVmx",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        }
+    ]
+}

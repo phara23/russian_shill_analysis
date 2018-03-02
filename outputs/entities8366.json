@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9146876931190491,
+            "Type": "PERSON",
+            "Text": "@MatthewACherry",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9659167528152466,
+            "Type": "QUANTITY",
+            "Text": "96%",
+            "BeginOffset": 24,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9937707781791687,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 46,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9935590624809265,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 74,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.6589113473892212,
+            "Type": "PERSON",
+            "Text": "Merica",
+            "BeginOffset": 89,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.9990943670272827,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 120,
+            "EndOffset": 125
+        }
+    ]
+}

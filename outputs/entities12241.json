@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7116255760192871,
+            "Type": "PERSON",
+            "Text": "@TheFoundingSon",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8976269960403442,
+            "Type": "QUANTITY",
+            "Text": "10K",
+            "BeginOffset": 60,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.848244845867157,
+            "Type": "OTHER",
+            "Text": "Syrian",
+            "BeginOffset": 64,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.8376704454421997,
+            "Type": "QUANTITY",
+            "Text": "50K",
+            "BeginOffset": 104,
+            "EndOffset": 107
+        }
+    ]
+}

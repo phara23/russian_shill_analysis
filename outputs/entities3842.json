@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9496862292289734,
+            "Type": "PERSON",
+            "Text": "@shlomikliab",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.6384372115135193,
+            "Type": "OTHER",
+            "Text": "Palestinian",
+            "BeginOffset": 61,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.9999808073043823,
+            "Type": "OTHER",
+            "Text": "https://t.co/jkHVQm2bdj",
+            "BeginOffset": 94,
+            "EndOffset": 117
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8887402415275574,
+            "Type": "PERSON",
+            "Text": "@MisterBroRo",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9950908422470093,
+            "Type": "PERSON",
+            "Text": "Lady Gaga",
+            "BeginOffset": 27,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9966889023780823,
+            "Type": "TITLE",
+            "Text": "#JOANNE",
+            "BeginOffset": 49,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.46911707520484924,
+            "Type": "TITLE",
+            "Text": "#PerfectIllusion",
+            "BeginOffset": 75,
+            "EndOffset": 91
+        }
+    ]
+}

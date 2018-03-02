@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7727312445640564,
+            "Type": "PERSON",
+            "Text": "@bloginthewheel",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9082970023155212,
+            "Type": "PERSON",
+            "Text": "@mkhammer",
+            "BeginOffset": 20,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.7855589389801025,
+            "Type": "PERSON",
+            "Text": "@FDRLST",
+            "BeginOffset": 30,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.7926103472709656,
+            "Type": "PERSON",
+            "Text": "God",
+            "BeginOffset": 90,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.8427184224128723,
+            "Type": "PERSON",
+            "Text": "Faith",
+            "BeginOffset": 123,
+            "EndOffset": 128
+        }
+    ]
+}

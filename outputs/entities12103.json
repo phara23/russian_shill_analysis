@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.998626172542572,
+            "Type": "PERSON",
+            "Text": "Laura Ingraham",
+            "BeginOffset": 0,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.999847412109375,
+            "Type": "OTHER",
+            "Text": "https://t.co/amCjIsADR0",
+            "BeginOffset": 57,
+            "EndOffset": 80
+        }
+    ]
+}

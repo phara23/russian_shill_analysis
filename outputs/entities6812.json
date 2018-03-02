@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8027051091194153,
+            "Type": "QUANTITY",
+            "Text": "34 dead",
+            "BeginOffset": 0,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.8733367323875427,
+            "Type": "LOCATION",
+            "Text": "#Brussels",
+            "BeginOffset": 57,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.999841570854187,
+            "Type": "OTHER",
+            "Text": "https://t.co/pUSIUOX3mt",
+            "BeginOffset": 111,
+            "EndOffset": 134
+        }
+    ]
+}

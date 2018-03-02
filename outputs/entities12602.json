@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8991934657096863,
+            "Type": "PERSON",
+            "Text": "@tonyzump",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9644226431846619,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 24,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9997664093971252,
+            "Type": "OTHER",
+            "Text": "https://t.co/eqwKUQoSxu",
+            "BeginOffset": 80,
+            "EndOffset": 103
+        }
+    ]
+}

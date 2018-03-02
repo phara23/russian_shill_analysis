@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6499634385108948,
+            "Type": "PERSON",
+            "Text": "@Mediaite",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.7785468697547913,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 14,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9926430583000183,
+            "Type": "OTHER",
+            "Text": "https://t.co/MGl7BBecPV",
+            "BeginOffset": 82,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.8782362937927246,
+            "Type": "PERSON",
+            "Text": "@law_newz",
+            "BeginOffset": 111,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.9846404790878296,
+            "Type": "OTHER",
+            "Text": "https://t.co/qGj13",
+            "BeginOffset": 121,
+            "EndOffset": 139
+        }
+    ]
+}

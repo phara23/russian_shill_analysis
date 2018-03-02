@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9316969513893127,
+            "Type": "PERSON",
+            "Text": "@MasterJediMara",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7778062224388123,
+            "Type": "PERSON",
+            "Text": "R2-D2",
+            "BeginOffset": 48,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.5456183552742004,
+            "Type": "PERSON",
+            "Text": "droid",
+            "BeginOffset": 118,
+            "EndOffset": 123
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.48183372616767883,
+            "Type": "ORGANIZATION",
+            "Text": "@4",
+            "BeginOffset": 3,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.6612716913223267,
+            "Type": "QUANTITY",
+            "Text": "2700 #Executions Rouhani",
+            "BeginOffset": 20,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9656990170478821,
+            "Type": "QUANTITY",
+            "Text": "3-year",
+            "BeginOffset": 61,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.48381099104881287,
+            "Type": "PERSON",
+            "Text": "Rouhani",
+            "BeginOffset": 86,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.9604448676109314,
+            "Type": "OTHER",
+            "Text": "https://t.co",
+            "BeginOffset": 127,
+            "EndOffset": 139
+        }
+    ]
+}

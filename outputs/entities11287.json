@@ -1,0 +1,130 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9547123312950134,
+            "Type": "PERSON",
+            "Text": "@adrian_gray",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8026334047317505,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 17,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.610383152961731,
+            "Type": "ORGANIZATION",
+            "Text": "White College",
+            "BeginOffset": 26,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.5755805373191833,
+            "Type": "QUANTITY",
+            "Text": "60",
+            "BeginOffset": 48,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.7207459211349487,
+            "Type": "QUANTITY",
+            "Text": "45\n'68",
+            "BeginOffset": 52,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.8427837491035461,
+            "Type": "QUANTITY",
+            "Text": "17\n'76",
+            "BeginOffset": 60,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.8188505172729492,
+            "Type": "QUANTITY",
+            "Text": "22 \n'80",
+            "BeginOffset": 68,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.9207636117935181,
+            "Type": "QUANTITY",
+            "Text": "9\n'88",
+            "BeginOffset": 77,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.8672921657562256,
+            "Type": "QUANTITY",
+            "Text": "6 \n'92",
+            "BeginOffset": 84,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.8277130722999573,
+            "Type": "QUANTITY",
+            "Text": "0 \n'96",
+            "BeginOffset": 92,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.9195216298103333,
+            "Type": "QUANTITY",
+            "Text": "4\n'00",
+            "BeginOffset": 100,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.9482449293136597,
+            "Type": "QUANTITY",
+            "Text": "5 \n'04",
+            "BeginOffset": 107,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.9334021210670471,
+            "Type": "QUANTITY",
+            "Text": "1 \n'08",
+            "BeginOffset": 115,
+            "EndOffset": 121
+        },
+        {
+            "Score": 0.7507495284080505,
+            "Type": "QUANTITY",
+            "Text": "7 \n'",
+            "BeginOffset": 123,
+            "EndOffset": 127
+        },
+        {
+            "Score": 0.5812332630157471,
+            "Type": "QUANTITY",
+            "Text": "12",
+            "BeginOffset": 127,
+            "EndOffset": 129
+        },
+        {
+            "Score": 0.8352639079093933,
+            "Type": "QUANTITY",
+            "Text": "6\n'",
+            "BeginOffset": 131,
+            "EndOffset": 134
+        },
+        {
+            "Score": 0.7932279109954834,
+            "Type": "QUANTITY",
+            "Text": "16",
+            "BeginOffset": 134,
+            "EndOffset": 136
+        },
+        {
+            "Score": 0.9945858716964722,
+            "Type": "QUANTITY",
+            "Text": "2",
+            "BeginOffset": 138,
+            "EndOffset": 139
+        }
+    ]
+}

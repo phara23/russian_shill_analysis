@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9700167179107666,
+            "Type": "PERSON",
+            "Text": "@JamilSmith",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9693598747253418,
+            "Type": "PERSON",
+            "Text": "@jelani9",
+            "BeginOffset": 21,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9990242719650269,
+            "Type": "PERSON",
+            "Text": "Rudy Giuliani",
+            "BeginOffset": 33,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9789395928382874,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 91,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.9999769926071167,
+            "Type": "OTHER",
+            "Text": "https://t.co/48p9d31pgi",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        }
+    ]
+}

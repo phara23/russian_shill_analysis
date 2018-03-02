@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8620535731315613,
+            "Type": "PERSON",
+            "Text": "@chiefplan1",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9640914797782898,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 42,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9475709199905396,
+            "Type": "ORGANIZATION",
+            "Text": "New York Times",
+            "BeginOffset": 79,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.6625939011573792,
+            "Type": "DATE",
+            "Text": "19",
+            "BeginOffset": 137,
+            "EndOffset": 139
+        }
+    ]
+}

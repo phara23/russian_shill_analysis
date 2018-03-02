@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7525717616081238,
+            "Type": "PERSON",
+            "Text": "@NRO",
+            "BeginOffset": 3,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.7866644263267517,
+            "Type": "PERSON",
+            "Text": "@ToddYoungIN",
+            "BeginOffset": 14,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9511612057685852,
+            "Type": "PERSON",
+            "Text": "@EvanBayh",
+            "BeginOffset": 33,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9119731187820435,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 58,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9805226922035217,
+            "Type": "DATE",
+            "Text": "last night",
+            "BeginOffset": 103,
+            "EndOffset": 113
+        }
+    ]
+}

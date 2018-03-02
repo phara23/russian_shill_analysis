@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8367921113967896,
+            "Type": "PERSON",
+            "Text": "@KCityDaily",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8261188864707947,
+            "Type": "PERSON",
+            "Text": "Westbrook",
+            "BeginOffset": 24,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.8912605047225952,
+            "Type": "QUANTITY",
+            "Text": "41",
+            "BeginOffset": 41,
+            "EndOffset": 43
+        }
+    ]
+}

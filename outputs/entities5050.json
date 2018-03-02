@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9104161262512207,
+            "Type": "PERSON",
+            "Text": "@NaughtyBeyotch",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9907761216163635,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 20,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9860862493515015,
+            "Type": "ORGANIZATION",
+            "Text": "ISIS",
+            "BeginOffset": 38,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9998921155929565,
+            "Type": "OTHER",
+            "Text": "https://t.co/dqeQ40ONpE",
+            "BeginOffset": 43,
+            "EndOffset": 66
+        }
+    ]
+}

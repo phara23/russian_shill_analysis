@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9007302522659302,
+            "Type": "PERSON",
+            "Text": "@NerveDJsMixtape",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9144768714904785,
+            "Type": "ORGANIZATION",
+            "Text": "TSC",
+            "BeginOffset": 39,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.69554203748703,
+            "Type": "PERSON",
+            "Text": "@officaltsc",
+            "BeginOffset": 47,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.3821386396884918,
+            "Type": "ORGANIZATION",
+            "Text": "#NerveDJsXclusive",
+            "BeginOffset": 62,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.9665462970733643,
+            "Type": "PERSON",
+            "Text": "@DJJohnnyO",
+            "BeginOffset": 98,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.9552363753318787,
+            "Type": "OTHER",
+            "Text": "https://t.co/TjrZMDjbVk",
+            "BeginOffset": 112,
+            "EndOffset": 135
+        }
+    ]
+}

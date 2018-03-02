@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8747069239616394,
+            "Type": "QUANTITY",
+            "Text": "12-step",
+            "BeginOffset": 0,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.7269018292427063,
+            "Type": "OTHER",
+            "Text": "https://t.co/jr0OiwF9lM",
+            "BeginOffset": 64,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.9998899698257446,
+            "Type": "OTHER",
+            "Text": "https://t.co/bjJmKusVaQ",
+            "BeginOffset": 88,
+            "EndOffset": 111
+        }
+    ]
+}

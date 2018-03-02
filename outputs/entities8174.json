@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.956810712814331,
+            "Type": "PERSON",
+            "Text": "@RobShelburne",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.4371891915798187,
+            "Type": "PERSON",
+            "Text": "#HillaryClinton",
+            "BeginOffset": 27,
+            "EndOffset": 42
+        }
+    ]
+}

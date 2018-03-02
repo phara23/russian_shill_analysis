@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9136778712272644,
+            "Type": "PERSON",
+            "Text": "@shadowandact",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.5684927105903625,
+            "Type": "QUANTITY",
+            "Text": "2",
+            "BeginOffset": 28,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.6807253956794739,
+            "Type": "LOCATION",
+            "Text": "Flint",
+            "BeginOffset": 30,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9943577647209167,
+            "Type": "OTHER",
+            "Text": "https://t.co/yRa31RvH6y",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        }
+    ]
+}

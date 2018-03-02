@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.921520471572876,
+            "Type": "PERSON",
+            "Text": "@perry1949",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.6972575783729553,
+            "Type": "ORGANIZATION",
+            "Text": "Electoral College",
+            "BeginOffset": 33,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9998518228530884,
+            "Type": "OTHER",
+            "Text": "https://t.co/72W4jYFKmw",
+            "BeginOffset": 77,
+            "EndOffset": 100
+        }
+    ]
+}

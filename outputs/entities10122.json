@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8568082451820374,
+            "Type": "PERSON",
+            "Text": "@AnnCoulter",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7456954717636108,
+            "Type": "LOCATION",
+            "Text": "CANADA",
+            "BeginOffset": 38,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.727791428565979,
+            "Type": "LOCATION",
+            "Text": "U.S.",
+            "BeginOffset": 62,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9371019601821899,
+            "Type": "OTHER",
+            "Text": "https://t.co/uJxpb",
+            "BeginOffset": 121,
+            "EndOffset": 139
+        }
+    ]
+}

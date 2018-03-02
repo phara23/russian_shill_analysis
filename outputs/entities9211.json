@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9659233093261719,
+            "Type": "PERSON",
+            "Text": "@nikkyrn09",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.7101880311965942,
+            "Type": "PERSON",
+            "Text": "@rosaclemente",
+            "BeginOffset": 49,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9241080284118652,
+            "Type": "ORGANIZATION",
+            "Text": "Green Party",
+            "BeginOffset": 83,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.6946939826011658,
+            "Type": "TITLE",
+            "Text": "#HipHop",
+            "BeginOffset": 105,
+            "EndOffset": 112
+        }
+    ]
+}

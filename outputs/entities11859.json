@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8798568844795227,
+            "Type": "PERSON",
+            "Text": "@ThePatriot143",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7857335805892944,
+            "Type": "LOCATION",
+            "Text": "AMERICA",
+            "BeginOffset": 37,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.43485027551651,
+            "Type": "PERSON",
+            "Text": "OBAMA",
+            "BeginOffset": 48,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9992625117301941,
+            "Type": "OTHER",
+            "Text": "https://t.co/8tJvEgzeNH",
+            "BeginOffset": 74,
+            "EndOffset": 97
+        }
+    ]
+}

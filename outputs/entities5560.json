@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.848232626914978,
+            "Type": "PERSON",
+            "Text": "@GigiTracyXO",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9911025762557983,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 72,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.5102145075798035,
+            "Type": "PERSON",
+            "Text": "N.J.",
+            "BeginOffset": 86,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.5305749773979187,
+            "Type": "PERSON",
+            "Text": "#Elizabeth",
+            "BeginOffset": 92,
+            "EndOffset": 102
+        }
+    ]
+}

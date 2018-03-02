@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9640201330184937,
+            "Type": "ORGANIZATION",
+            "Text": "Democrats",
+            "BeginOffset": 5,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.3308253586292267,
+            "Type": "ORGANIZATION",
+            "Text": "#TrumpTrain",
+            "BeginOffset": 23,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9818273186683655,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 43,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.999994158744812,
+            "Type": "OTHER",
+            "Text": "https://t.co/9Cj6ugbRMV",
+            "BeginOffset": 48,
+            "EndOffset": 71
+        }
+    ]
+}

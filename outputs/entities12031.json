@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8699514865875244,
+            "Type": "PERSON",
+            "Text": "@PeterSweden7",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8523247838020325,
+            "Type": "LOCATION",
+            "Text": "Stockholm",
+            "BeginOffset": 77,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9998888969421387,
+            "Type": "OTHER",
+            "Text": "https://t.co/2RtyTMX5rE",
+            "BeginOffset": 88,
+            "EndOffset": 111
+        }
+    ]
+}

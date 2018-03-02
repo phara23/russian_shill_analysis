@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8682259321212769,
+            "Type": "PERSON",
+            "Text": "@dvpensenti",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.999868631362915,
+            "Type": "OTHER",
+            "Text": "http://t.co/NsSuMU4y0u",
+            "BeginOffset": 16,
+            "EndOffset": 38
+        }
+    ]
+}

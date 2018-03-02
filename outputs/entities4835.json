@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8699855804443359,
+            "Type": "PERSON",
+            "Text": "@SuperGeekGirls",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.5340127944946289,
+            "Type": "QUANTITY",
+            "Text": "One",
+            "BeginOffset": 20,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.7875628471374512,
+            "Type": "PERSON",
+            "Text": "@lilshootie",
+            "BeginOffset": 56,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.7142149209976196,
+            "Type": "PERSON",
+            "Text": "Poison Ivy",
+            "BeginOffset": 71,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.46478700637817383,
+            "Type": "PERSON",
+            "Text": "#batman",
+            "BeginOffset": 85,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.8896833062171936,
+            "Type": "PERSON",
+            "Text": "@poisonivy",
+            "BeginOffset": 93,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.9311224818229675,
+            "Type": "OTHER",
+            "Text": "https://t.co/m",
+            "BeginOffset": 125,
+            "EndOffset": 139
+        }
+    ]
+}

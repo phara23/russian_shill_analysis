@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7276049256324768,
+            "Type": "PERSON",
+            "Text": "@MissConception0",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9786917567253113,
+            "Type": "PERSON",
+            "Text": "TRUMP",
+            "BeginOffset": 33,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9099799394607544,
+            "Type": "ORGANIZATION",
+            "Text": "Breitbart",
+            "BeginOffset": 50,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.37384456396102905,
+            "Type": "PERSON",
+            "Text": "KKK",
+            "BeginOffset": 96,
+            "EndOffset": 99
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8155882954597473,
+            "Type": "PERSON",
+            "Text": "@dnrevel",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8447129726409912,
+            "Type": "QUANTITY",
+            "Text": "70 year old",
+            "BeginOffset": 22,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.7135159969329834,
+            "Type": "QUANTITY",
+            "Text": "first female",
+            "BeginOffset": 70,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.9616888761520386,
+            "Type": "LOCATION",
+            "Text": "USA",
+            "BeginOffset": 107,
+            "EndOffset": 110
+        }
+    ]
+}

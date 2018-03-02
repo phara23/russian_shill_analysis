@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9566929340362549,
+            "Type": "PERSON",
+            "Text": "@ryanra",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9850128889083862,
+            "Type": "QUANTITY",
+            "Text": "9mm",
+            "BeginOffset": 31,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9818592667579651,
+            "Type": "DATE",
+            "Text": "1911",
+            "BeginOffset": 40,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9933261871337891,
+            "Type": "OTHER",
+            "Text": "https://t.co/mQgNFThhVl",
+            "BeginOffset": 58,
+            "EndOffset": 81
+        }
+    ]
+}

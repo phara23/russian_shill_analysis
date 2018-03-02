@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9538774490356445,
+            "Type": "OTHER",
+            "Text": "https://t.co/AkWeNdVAui",
+            "BeginOffset": 72,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.751476526260376,
+            "Type": "ORGANIZATION",
+            "Text": "@3tags_org",
+            "BeginOffset": 101,
+            "EndOffset": 111
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8812199831008911,
+            "Type": "QUANTITY",
+            "Text": "twice",
+            "BeginOffset": 25,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.8740251660346985,
+            "Type": "OTHER",
+            "Text": "https://t.co/22VyPp0Cjr",
+            "BeginOffset": 55,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.9467459321022034,
+            "Type": "OTHER",
+            "Text": "https://t.co/aXQaNDGlF7",
+            "BeginOffset": 91,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.9998544454574585,
+            "Type": "OTHER",
+            "Text": "https://t.co/5ThwjLcrBG",
+            "BeginOffset": 115,
+            "EndOffset": 138
+        }
+    ]
+}

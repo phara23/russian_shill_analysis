@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8568640351295471,
+            "Type": "ORGANIZATION",
+            "Text": "@AP",
+            "BeginOffset": 3,
+            "EndOffset": 6
+        },
+        {
+            "Score": 0.5890077948570251,
+            "Type": "ORGANIZATION",
+            "Text": "AP",
+            "BeginOffset": 18,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.6514473557472229,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 29,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.8284465074539185,
+            "Type": "LOCATION",
+            "Text": "Cuba",
+            "BeginOffset": 33,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9992608428001404,
+            "Type": "DATE",
+            "Text": "Wednesday",
+            "BeginOffset": 74,
+            "EndOffset": 83
+        }
+    ]
+}

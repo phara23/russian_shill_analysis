@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8809562921524048,
+            "Type": "PERSON",
+            "Text": "@WorldTruthTV",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9729701280593872,
+            "Type": "LOCATION",
+            "Text": "Peru",
+            "BeginOffset": 84,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.931006908416748,
+            "Type": "OTHER",
+            "Text": "https://t.co/telXZBWPRi",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.9860728979110718,
+            "Type": "OTHER",
+            "Text": "https://t.co/0ee8A",
+            "BeginOffset": 121,
+            "EndOffset": 139
+        }
+    ]
+}

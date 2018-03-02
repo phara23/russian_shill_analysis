@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9339374303817749,
+            "Type": "PERSON",
+            "Text": "@adriangreetham",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.969245970249176,
+            "Type": "PERSON",
+            "Text": "Buck Rogers",
+            "BeginOffset": 20,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9998599290847778,
+            "Type": "OTHER",
+            "Text": "https://t.co/Uaelnhx17J",
+            "BeginOffset": 68,
+            "EndOffset": 91
+        }
+    ]
+}

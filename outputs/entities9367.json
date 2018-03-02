@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8264297246932983,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9477510452270508,
+            "Type": "PERSON",
+            "Text": "@Thought_Crimez",
+            "BeginOffset": 14,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9992412328720093,
+            "Type": "OTHER",
+            "Text": "https://t.co/rZCzrqOBSu",
+            "BeginOffset": 88,
+            "EndOffset": 111
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8499565720558167,
+            "Type": "PERSON",
+            "Text": "@warriors_mom",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8794639706611633,
+            "Type": "QUANTITY",
+            "Text": "10 most important things",
+            "BeginOffset": 18,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.994709312915802,
+            "Type": "DATE",
+            "Text": "December 22",
+            "BeginOffset": 53,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9054303169250488,
+            "Type": "PERSON",
+            "Text": "@warriors_mom",
+            "BeginOffset": 65,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.9999655485153198,
+            "Type": "OTHER",
+            "Text": "https://t.co/roJdIL935c",
+            "BeginOffset": 80,
+            "EndOffset": 103
+        }
+    ]
+}

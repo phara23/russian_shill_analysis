@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9213179349899292,
+            "Type": "PERSON",
+            "Text": "@mitchellvii",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9952806830406189,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 17,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.5078753232955933,
+            "Type": "QUANTITY",
+            "Text": "one",
+            "BeginOffset": 24,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9658241271972656,
+            "Type": "QUANTITY",
+            "Text": "3 decades",
+            "BeginOffset": 81,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.8844196796417236,
+            "Type": "QUANTITY",
+            "Text": "3 weeks",
+            "BeginOffset": 119,
+            "EndOffset": 126
+        }
+    ]
+}

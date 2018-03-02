@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9299594163894653,
+            "Type": "PERSON",
+            "Text": "@fraggle94",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.7633629441261292,
+            "Type": "ORGANIZATION",
+            "Text": "@APTPaction",
+            "BeginOffset": 116,
+            "EndOffset": 127
+        },
+        {
+            "Score": 0.8582327961921692,
+            "Type": "ORGANIZATION",
+            "Text": "@CRCPOCC",
+            "BeginOffset": 128,
+            "EndOffset": 136
+        }
+    ]
+}

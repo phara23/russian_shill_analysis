@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9311496615409851,
+            "Type": "PERSON",
+            "Text": "@Susan2412",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9782955050468445,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 75,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.9999456405639648,
+            "Type": "OTHER",
+            "Text": "https://t.co/bmCHq5sOh4",
+            "BeginOffset": 81,
+            "EndOffset": 104
+        }
+    ]
+}

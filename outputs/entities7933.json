@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7599030137062073,
+            "Type": "PERSON",
+            "Text": "@stainlessnail",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7324960231781006,
+            "Type": "PERSON",
+            "Text": "Jiminy Cricket",
+            "BeginOffset": 34,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.999935507774353,
+            "Type": "OTHER",
+            "Text": "https://t.co/lZbQTXyhW1",
+            "BeginOffset": 116,
+            "EndOffset": 139
+        }
+    ]
+}

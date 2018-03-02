@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9006208181381226,
+            "Type": "PERSON",
+            "Text": "@nine_oh",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.32964780926704407,
+            "Type": "PERSON",
+            "Text": "FrenchMontana",
+            "BeginOffset": 14,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9840816259384155,
+            "Type": "LOCATION",
+            "Text": "Uganda",
+            "BeginOffset": 63,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.6245204210281372,
+            "Type": "OTHER",
+            "Text": "African",
+            "BeginOffset": 75,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.9840314984321594,
+            "Type": "ORGANIZATION",
+            "Text": "Twitter",
+            "BeginOffset": 97,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.8169963359832764,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 129,
+            "EndOffset": 138
+        }
+    ]
+}

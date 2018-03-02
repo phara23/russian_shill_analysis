@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8280763626098633,
+            "Type": "PERSON",
+            "Text": "@redrivergrl",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9646475315093994,
+            "Type": "PERSON",
+            "Text": "@tedcruz",
+            "BeginOffset": 35,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.999812662601471,
+            "Type": "OTHER",
+            "Text": "https://t.co/k1Y3TZlO4G",
+            "BeginOffset": 72,
+            "EndOffset": 95
+        }
+    ]
+}

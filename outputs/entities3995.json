@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.49188709259033203,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8329281806945801,
+            "Type": "PERSON",
+            "Text": "@leftyguitar1",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.5108977556228638,
+            "Type": "ORGANIZATION",
+            "Text": "#RealLifeMagicSpells",
+            "BeginOffset": 18,
+            "EndOffset": 38
+        }
+    ]
+}

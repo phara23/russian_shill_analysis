@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7312090396881104,
+            "Type": "PERSON",
+            "Text": "@FedPorn",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.85709148645401,
+            "Type": "PERSON",
+            "Text": "@DrugChannels",
+            "BeginOffset": 13,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.7024054527282715,
+            "Type": "PERSON",
+            "Text": "@nytimes",
+            "BeginOffset": 27,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.982367753982544,
+            "Type": "PERSON",
+            "Text": "@katie_thomas",
+            "BeginOffset": 36,
+            "EndOffset": 49
+        }
+    ]
+}

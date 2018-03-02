@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.726230263710022,
+            "Type": "QUANTITY",
+            "Text": "4",
+            "BeginOffset": 4,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9730658531188965,
+            "Type": "LOCATION",
+            "Text": "USA",
+            "BeginOffset": 30,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.7372365593910217,
+            "Type": "QUANTITY",
+            "Text": "4 rolling",
+            "BeginOffset": 39,
+            "EndOffset": 48
+        }
+    ]
+}

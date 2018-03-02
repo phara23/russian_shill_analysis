@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9928867220878601,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 0,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.9410651922225952,
+            "Type": "EVENT",
+            "Text": "Olympic",
+            "BeginOffset": 22,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9960657954216003,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 40,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9701149463653564,
+            "Type": "OTHER",
+            "Text": "https://t.co/YkHjaptSeY",
+            "BeginOffset": 59,
+            "EndOffset": 82
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8577181696891785,
+            "Type": "PERSON",
+            "Text": "@ChrisWalsh5",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.920656681060791,
+            "Type": "PERSON",
+            "Text": "@OralRobertsU",
+            "BeginOffset": 23,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.8076332807540894,
+            "Type": "LOCATION",
+            "Text": "Israel",
+            "BeginOffset": 50,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9998819828033447,
+            "Type": "OTHER",
+            "Text": "https://t.co/hXsGhTar4a",
+            "BeginOffset": 57,
+            "EndOffset": 80
+        }
+    ]
+}

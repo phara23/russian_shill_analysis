@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8272597789764404,
+            "Type": "PERSON",
+            "Text": "@USFreedomArmy",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9416226148605347,
+            "Type": "OTHER",
+            "Text": "http://t.co/oSPeY48VDP",
+            "BeginOffset": 100,
+            "EndOffset": 122
+        },
+        {
+            "Score": 0.9926042556762695,
+            "Type": "OTHER",
+            "Text": "http://t.co/XKF",
+            "BeginOffset": 124,
+            "EndOffset": 139
+        }
+    ]
+}

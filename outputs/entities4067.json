@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8189142346382141,
+            "Type": "PERSON",
+            "Text": "@wickwife",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.6424639821052551,
+            "Type": "PERSON",
+            "Text": "God",
+            "BeginOffset": 14,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9972407817840576,
+            "Type": "PERSON",
+            "Text": "George",
+            "BeginOffset": 35,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9999752044677734,
+            "Type": "OTHER",
+            "Text": "https://t.co/N3tISDd6qA",
+            "BeginOffset": 44,
+            "EndOffset": 67
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8523484468460083,
+            "Type": "PERSON",
+            "Text": "@ihatethemedia",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9793892502784729,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 19,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9999241828918457,
+            "Type": "OTHER",
+            "Text": "https://t.co/RLcHMwV2Qn",
+            "BeginOffset": 68,
+            "EndOffset": 91
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8757491707801819,
+            "Type": "PERSON",
+            "Text": "@calebmaupin",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8432122468948364,
+            "Type": "EVENT",
+            "Text": "#IWD2017",
+            "BeginOffset": 60,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9999359846115112,
+            "Type": "OTHER",
+            "Text": "https://t.co/quenh9YpcJ",
+            "BeginOffset": 83,
+            "EndOffset": 106
+        }
+    ]
+}

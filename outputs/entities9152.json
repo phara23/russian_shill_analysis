@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.742676317691803,
+            "Type": "QUANTITY",
+            "Text": "One way",
+            "BeginOffset": 6,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9930562973022461,
+            "Type": "PERSON",
+            "Text": "Ronald Reagan",
+            "BeginOffset": 87,
+            "EndOffset": 100
+        }
+    ]
+}

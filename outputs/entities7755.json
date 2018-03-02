@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8988766074180603,
+            "Type": "PERSON",
+            "Text": "@HowardKoch_UK",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9977415800094604,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 26,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9963967204093933,
+            "Type": "LOCATION",
+            "Text": "UK",
+            "BeginOffset": 88,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9969251751899719,
+            "Type": "LOCATION",
+            "Text": "Europe",
+            "BeginOffset": 95,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.9999715089797974,
+            "Type": "OTHER",
+            "Text": "https://t.co/qNyRZ9KF6f",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        }
+    ]
+}

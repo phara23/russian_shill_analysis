@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6943580508232117,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.776555061340332,
+            "Type": "PERSON",
+            "Text": "@searchwithGod",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9350066184997559,
+            "Type": "PERSON",
+            "Text": "Phil",
+            "BeginOffset": 19,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9107621312141418,
+            "Type": "QUANTITY",
+            "Text": "2:10",
+            "BeginOffset": 24,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.547120213508606,
+            "Type": "PERSON",
+            "Text": "#Jesus",
+            "BeginOffset": 52,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9382858872413635,
+            "Type": "OTHER",
+            "Text": "https://t.co/EoxgOLEbFF",
+            "BeginOffset": 84,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.33291488885879517,
+            "Type": "LOCATION",
+            "Text": "#RenewUS",
+            "BeginOffset": 108,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.4995306432247162,
+            "Type": "LOCATION",
+            "Text": "#PJNET",
+            "BeginOffset": 117,
+            "EndOffset": 123
+        }
+    ]
+}

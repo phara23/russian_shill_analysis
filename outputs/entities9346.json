@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8352636694908142,
+            "Type": "PERSON",
+            "Text": "@StandUpAnne",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9581136703491211,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 39,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9933225512504578,
+            "Type": "PERSON",
+            "Text": "Bill Clinton",
+            "BeginOffset": 83,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.5332106351852417,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 111,
+            "EndOffset": 118
+        }
+    ]
+}

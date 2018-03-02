@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8663095235824585,
+            "Type": "PERSON",
+            "Text": "@GopAaron",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9977286458015442,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 14,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9970592260360718,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 113,
+            "EndOffset": 118
+        }
+    ]
+}

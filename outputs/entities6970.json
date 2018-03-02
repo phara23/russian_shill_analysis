@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8135167956352234,
+            "Type": "PERSON",
+            "Text": "@cnni",
+            "BeginOffset": 3,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.8276068568229675,
+            "Type": "OTHER",
+            "Text": "https://t.co/zWwuO5Vntm",
+            "BeginOffset": 68,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.9999781847000122,
+            "Type": "OTHER",
+            "Text": "https://t.co/G9OKzJ8hSG",
+            "BeginOffset": 92,
+            "EndOffset": 115
+        }
+    ]
+}

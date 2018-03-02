@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8644405007362366,
+            "Type": "PERSON",
+            "Text": "@TheRealBewgie",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.49492591619491577,
+            "Type": "ORGANIZATION",
+            "Text": "Barca",
+            "BeginOffset": 19,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.994703471660614,
+            "Type": "DATE",
+            "Text": "yesterday",
+            "BeginOffset": 37,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9314083456993103,
+            "Type": "PERSON",
+            "Text": "Neymar",
+            "BeginOffset": 54,
+            "EndOffset": 60
+        }
+    ]
+}

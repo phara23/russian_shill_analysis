@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8329895734786987,
+            "Type": "PERSON",
+            "Text": "@AllenWestRepub",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9197607636451721,
+            "Type": "OTHER",
+            "Text": "Latino",
+            "BeginOffset": 65,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9996035099029541,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 89,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.9999179840087891,
+            "Type": "OTHER",
+            "Text": "https://t.co/oHlpFcS5LQ",
+            "BeginOffset": 116,
+            "EndOffset": 139
+        }
+    ]
+}

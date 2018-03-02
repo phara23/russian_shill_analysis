@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6954630017280579,
+            "Type": "PERSON",
+            "Text": "@afpfr",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9816252589225769,
+            "Type": "OTHER",
+            "Text": "https://t.co/kABXgxCXbk",
+            "BeginOffset": 76,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.7771079540252686,
+            "Type": "PERSON",
+            "Text": "@Jessloesc",
+            "BeginOffset": 104,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.9573534727096558,
+            "Type": "OTHER",
+            "Text": "https://t.co/Ak6iW2",
+            "BeginOffset": 120,
+            "EndOffset": 139
+        }
+    ]
+}

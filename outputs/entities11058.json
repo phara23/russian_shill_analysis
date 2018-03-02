@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9175385236740112,
+            "Type": "PERSON",
+            "Text": "@im_srishabh21",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.90513676404953,
+            "Type": "QUANTITY",
+            "Text": "One Time",
+            "BeginOffset": 52,
+            "EndOffset": 60
+        }
+    ]
+}

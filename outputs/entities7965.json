@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7733019590377808,
+            "Type": "PERSON",
+            "Text": "@_InnocentAsh",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9923722743988037,
+            "Type": "PERSON",
+            "Text": "Jenner",
+            "BeginOffset": 18,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9999372959136963,
+            "Type": "OTHER",
+            "Text": "https://t.co/npurI9ZKXE",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        }
+    ]
+}

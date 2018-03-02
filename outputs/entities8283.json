@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4042896628379822,
+            "Type": "OTHER",
+            "Text": "1063",
+            "BeginOffset": 4,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.5541602373123169,
+            "Type": "LOCATION",
+            "Text": "atl",
+            "BeginOffset": 8,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.7109606266021729,
+            "Type": "QUANTITY",
+            "Text": "10 Most Requested List",
+            "BeginOffset": 45,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9999080896377563,
+            "Type": "OTHER",
+            "Text": "https://t.co/RAfMatpqSk",
+            "BeginOffset": 82,
+            "EndOffset": 105
+        }
+    ]
+}

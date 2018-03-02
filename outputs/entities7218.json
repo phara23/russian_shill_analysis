@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8625609278678894,
+            "Type": "PERSON",
+            "Text": "@cmdorsey",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8013185262680054,
+            "Type": "PERSON",
+            "Text": "@TheDemocrats",
+            "BeginOffset": 25,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9311578869819641,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 39,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.5954923033714294,
+            "Type": "PERSON",
+            "Text": "ELECTIONS\n\nCHEATERS",
+            "BeginOffset": 60,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.9998852014541626,
+            "Type": "OTHER",
+            "Text": "https://t.co/tDv1JS0vxi",
+            "BeginOffset": 102,
+            "EndOffset": 125
+        }
+    ]
+}

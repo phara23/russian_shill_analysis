@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.850917637348175,
+            "Type": "PERSON",
+            "Text": "@lesstaxingcpa",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8991000652313232,
+            "Type": "PERSON",
+            "Text": "@FrankLuntz",
+            "BeginOffset": 20,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9973115921020508,
+            "Type": "PERSON",
+            "Text": "George W. Bush",
+            "BeginOffset": 33,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9573439359664917,
+            "Type": "QUANTITY",
+            "Text": "90%",
+            "BeginOffset": 54,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.8424343466758728,
+            "Type": "DATE",
+            "Text": "9/11",
+            "BeginOffset": 79,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.9799569845199585,
+            "Type": "OTHER",
+            "Text": "https://t.co/jHW9FoVkiV",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        }
+    ]
+}

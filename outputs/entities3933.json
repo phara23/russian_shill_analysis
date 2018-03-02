@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8831591606140137,
+            "Type": "ORGANIZATION",
+            "Text": "Cowboys",
+            "BeginOffset": 0,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.5910196900367737,
+            "Type": "ORGANIZATION",
+            "Text": "Hello Dolly",
+            "BeginOffset": 13,
+            "EndOffset": 24
+        }
+    ]
+}

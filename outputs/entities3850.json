@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8938107490539551,
+            "Type": "PERSON",
+            "Text": "@jayceodpromoter",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9961127042770386,
+            "Type": "QUANTITY",
+            "Text": "2 days",
+            "BeginOffset": 67,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.7527132630348206,
+            "Type": "QUANTITY",
+            "Text": "10k",
+            "BeginOffset": 96,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.9638586044311523,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 124,
+            "EndOffset": 137
+        }
+    ]
+}

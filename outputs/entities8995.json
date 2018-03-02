@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8625350594520569,
+            "Type": "PERSON",
+            "Text": "@Anewhomestar",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9828105568885803,
+            "Type": "PERSON",
+            "Text": "George Michael",
+            "BeginOffset": 30,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.999846339225769,
+            "Type": "OTHER",
+            "Text": "https://t.co/tkkrD0nKxE",
+            "BeginOffset": 73,
+            "EndOffset": 96
+        }
+    ]
+}

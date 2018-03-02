@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5070266127586365,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8534020185470581,
+            "Type": "PERSON",
+            "Text": "@DJ_LEGION_ONE",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8718196153640747,
+            "Type": "PERSON",
+            "Text": "@donlemon",
+            "BeginOffset": 19,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.8680969476699829,
+            "Type": "PERSON",
+            "Text": "@CNNTonight",
+            "BeginOffset": 29,
+            "EndOffset": 40
+        }
+    ]
+}

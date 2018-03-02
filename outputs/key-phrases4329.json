@@ -1,0 +1,34 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.6838750243186951,
+            "Text": "#local #news",
+            "BeginOffset": 0,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9868175983428955,
+            "Text": "Sen. John McCain",
+            "BeginOffset": 13,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9990449547767639,
+            "Text": "Donald Trump",
+            "BeginOffset": 35,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9971999526023865,
+            "Text": "attack",
+            "BeginOffset": 52,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9941686391830444,
+            "Text": "Muslim soldier",
+            "BeginOffset": 62,
+            "EndOffset": 76
+        }
+    ]
+}

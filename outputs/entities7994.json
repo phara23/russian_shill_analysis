@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9262456297874451,
+            "Type": "PERSON",
+            "Text": "@yojudenz",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.757189929485321,
+            "Type": "PERSON",
+            "Text": "Pelosi",
+            "BeginOffset": 14,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.8436102271080017,
+            "Type": "PERSON",
+            "Text": "Mohammad",
+            "BeginOffset": 28,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.6774149537086487,
+            "Type": "ORGANIZATION",
+            "Text": "National Prayer Breakfast",
+            "BeginOffset": 40,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9999698400497437,
+            "Type": "OTHER",
+            "Text": "https://t.co/7uo04IL0Xy",
+            "BeginOffset": 74,
+            "EndOffset": 97
+        }
+    ]
+}

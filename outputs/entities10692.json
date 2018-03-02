@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9049659371376038,
+            "Type": "PERSON",
+            "Text": "@torij126",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9323275685310364,
+            "Type": "PERSON",
+            "Text": "@Flawsey",
+            "BeginOffset": 14,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9996286630630493,
+            "Type": "OTHER",
+            "Text": "https://t.co/zr1HHoTzlX",
+            "BeginOffset": 57,
+            "EndOffset": 80
+        }
+    ]
+}

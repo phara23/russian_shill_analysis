@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8114634156227112,
+            "Type": "PERSON",
+            "Text": "@LostIslamicHist",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9475746750831604,
+            "Type": "DATE",
+            "Text": "1910s",
+            "BeginOffset": 45,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9592795372009277,
+            "Type": "OTHER",
+            "Text": "Russian",
+            "BeginOffset": 67,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9863836169242859,
+            "Type": "PERSON",
+            "Text": "Sergey Prokudin-Gorsky",
+            "BeginOffset": 88,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.9999573230743408,
+            "Type": "OTHER",
+            "Text": "http://t.co/x8kI5ncfap",
+            "BeginOffset": 112,
+            "EndOffset": 134
+        }
+    ]
+}

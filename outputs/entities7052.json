@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9141055345535278,
+            "Type": "PERSON",
+            "Text": "@Lavernecox",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.79909747838974,
+            "Type": "PERSON",
+            "Text": "@mxjustinVbond",
+            "BeginOffset": 43,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.674455463886261,
+            "Type": "PERSON",
+            "Text": "@HMwebseries",
+            "BeginOffset": 81,
+            "EndOffset": 93
+        }
+    ]
+}

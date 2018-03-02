@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8653056025505066,
+            "Type": "PERSON",
+            "Text": "@GreenPartyUS",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.6441845893859863,
+            "Type": "LOCATION",
+            "Text": "earth",
+            "BeginOffset": 25,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.8923549652099609,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 83,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.8533380627632141,
+            "Type": "ORGANIZATION",
+            "Text": "@POTUS",
+            "BeginOffset": 127,
+            "EndOffset": 133
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9997988343238831,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 0,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.5986245274543762,
+            "Type": "LOCATION",
+            "Text": "Cleveland",
+            "BeginOffset": 21,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.879397988319397,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 44,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9668715000152588,
+            "Type": "LOCATION",
+            "Text": "Ohio",
+            "BeginOffset": 56,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9389254450798035,
+            "Type": "LOCATION",
+            "Text": "Pa",
+            "BeginOffset": 65,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9993566870689392,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 70,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.9873794317245483,
+            "Type": "LOCATION",
+            "Text": "Cleveland",
+            "BeginOffset": 102,
+            "EndOffset": 111
+        }
+    ]
+}

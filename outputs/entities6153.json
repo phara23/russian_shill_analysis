@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9190251231193542,
+            "Type": "PERSON",
+            "Text": "@ZDFheute",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8239873051643372,
+            "Type": "LOCATION",
+            "Text": "Berlin",
+            "BeginOffset": 38,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.6768691539764404,
+            "Type": "PERSON",
+            "Text": "Auftritt von #Erdogan",
+            "BeginOffset": 55,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.505873441696167,
+            "Type": "ORGANIZATION",
+            "Text": "Deutschland",
+            "BeginOffset": 80,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.9999730587005615,
+            "Type": "OTHER",
+            "Text": "https://t.co/7Sbs3hKZ9J",
+            "BeginOffset": 94,
+            "EndOffset": 117
+        }
+    ]
+}

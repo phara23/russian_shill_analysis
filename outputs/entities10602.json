@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8697939515113831,
+            "Type": "PERSON",
+            "Text": "@AnnCoulter",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9804099202156067,
+            "Type": "PERSON",
+            "Text": "Spencer",
+            "BeginOffset": 16,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9178951978683472,
+            "Type": "QUANTITY",
+            "Text": "about two dozen people",
+            "BeginOffset": 41,
+            "EndOffset": 63
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8435399532318115,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9895434379577637,
+            "Type": "OTHER",
+            "Text": "https://t.co/H4IcwsL2a4",
+            "BeginOffset": 44,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9040085077285767,
+            "Type": "PERSON",
+            "Text": "@EdValenzMEd",
+            "BeginOffset": 78,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9944655895233154,
+            "Type": "PERSON",
+            "Text": "@jorgesette7",
+            "BeginOffset": 91,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.9401305913925171,
+            "Type": "PERSON",
+            "Text": "@amoobrasil",
+            "BeginOffset": 104,
+            "EndOffset": 115
+        }
+    ]
+}

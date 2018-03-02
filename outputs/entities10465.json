@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8702875971794128,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9995290040969849,
+            "Type": "PERSON",
+            "Text": "Brendan Dassey",
+            "BeginOffset": 42,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9283226728439331,
+            "Type": "OTHER",
+            "Text": "https://t.co/Mp2bgCneEI",
+            "BeginOffset": 74,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.7154951691627502,
+            "Type": "ORGANIZATION",
+            "Text": "@ABC7",
+            "BeginOffset": 98,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.7377369999885559,
+            "Type": "LOCATION",
+            "Text": "NY",
+            "BeginOffset": 103,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.9999511241912842,
+            "Type": "OTHER",
+            "Text": "https://t.co/ApeeB8YWgH",
+            "BeginOffset": 106,
+            "EndOffset": 129
+        }
+    ]
+}

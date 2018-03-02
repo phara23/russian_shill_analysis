@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8625932931900024,
+            "Type": "PERSON",
+            "Text": "@MPHaus",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9998277425765991,
+            "Type": "OTHER",
+            "Text": "https://t.co/xyCmaWGlrG",
+            "BeginOffset": 40,
+            "EndOffset": 63
+        }
+    ]
+}

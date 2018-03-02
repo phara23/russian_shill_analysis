@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9585568904876709,
+            "Type": "PERSON",
+            "Text": "Nathan Deal",
+            "BeginOffset": 0,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.892822265625,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 60,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.959035336971283,
+            "Type": "OTHER",
+            "Text": "https://t.co/aO1lBSeBZn",
+            "BeginOffset": 67,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9032838344573975,
+            "Type": "OTHER",
+            "Text": "https://t.co/1KPXto2HfW",
+            "BeginOffset": 93,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.9999834299087524,
+            "Type": "OTHER",
+            "Text": "https://t.co/ntG5qq8wB9",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

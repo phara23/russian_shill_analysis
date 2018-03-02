@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8900362253189087,
+            "Type": "PERSON",
+            "Text": "@PrisonPlanet",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9970865249633789,
+            "Type": "PERSON",
+            "Text": "Jake Tapper",
+            "BeginOffset": 25,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.8814652562141418,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 53,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9248605370521545,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 103,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.9999634027481079,
+            "Type": "OTHER",
+            "Text": "https://t.co/ALWvqJm6xi",
+            "BeginOffset": 116,
+            "EndOffset": 139
+        }
+    ]
+}

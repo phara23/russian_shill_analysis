@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9343211650848389,
+            "Type": "PERSON",
+            "Text": "@sallykohn",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9648067951202393,
+            "Type": "LOCATION",
+            "Text": "St. Louis",
+            "BeginOffset": 51,
+            "EndOffset": 60
+        }
+    ]
+}

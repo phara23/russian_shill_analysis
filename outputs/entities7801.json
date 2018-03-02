@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8223810195922852,
+            "Type": "PERSON",
+            "Text": "@Dab7",
+            "BeginOffset": 3,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.7377868890762329,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 13,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.9320002794265747,
+            "Type": "QUANTITY",
+            "Text": "11 Things",
+            "BeginOffset": 42,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.999902606010437,
+            "Type": "OTHER",
+            "Text": "https://t.co/py4bFfInI4",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        }
+    ]
+}

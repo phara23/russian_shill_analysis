@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8392084240913391,
+            "Type": "PERSON",
+            "Text": "@JustMy_NameHere",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.6529867649078369,
+            "Type": "QUANTITY",
+            "Text": "2 #Oscars",
+            "BeginOffset": 36,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.7562560439109802,
+            "Type": "ORGANIZATION",
+            "Text": "#Hollywood",
+            "BeginOffset": 53,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.6042605042457581,
+            "Type": "QUANTITY",
+            "Text": "2 ENJOY",
+            "BeginOffset": 111,
+            "EndOffset": 118
+        }
+    ]
+}

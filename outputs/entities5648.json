@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9500648379325867,
+            "Type": "PERSON",
+            "Text": "@bcwilliams92",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9957081079483032,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 39,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.5776670575141907,
+            "Type": "ORGANIZATION",
+            "Text": "#NAFTA",
+            "BeginOffset": 61,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9859862327575684,
+            "Type": "OTHER",
+            "Text": "https://t.co/AoWClFTDuo",
+            "BeginOffset": 69,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.4769878089427948,
+            "Type": "ORGANIZATION",
+            "Text": "#maga",
+            "BeginOffset": 93,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.9997711777687073,
+            "Type": "OTHER",
+            "Text": "https://t.co/r7f6hAhymX",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        }
+    ]
+}

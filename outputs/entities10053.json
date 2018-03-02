@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5661923289299011,
+            "Type": "PERSON",
+            "Text": "@members",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8088408708572388,
+            "Type": "PERSON",
+            "Text": "bij Fenix",
+            "BeginOffset": 47,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.946893572807312,
+            "Type": "OTHER",
+            "Text": "https://t.co/NfUn2R1eFz",
+            "BeginOffset": 61,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.7901223301887512,
+            "Type": "PERSON",
+            "Text": "@pizzabe",
+            "BeginOffset": 85,
+            "EndOffset": 93
+        }
+    ]
+}

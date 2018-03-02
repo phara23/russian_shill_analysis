@@ -1,0 +1,40 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9895369410514832,
+            "Text": "Obama",
+            "BeginOffset": 6,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9957382082939148,
+            "Text": "aliens",
+            "BeginOffset": 22,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9989417791366577,
+            "Text": "the US",
+            "BeginOffset": 32,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9996728301048279,
+            "Text": "the expense",
+            "BeginOffset": 42,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.884527862071991,
+            "Text": "taxpayers American veterans",
+            "BeginOffset": 57,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.8633711338043213,
+            "Text": "no one car",
+            "BeginOffset": 105,
+            "EndOffset": 115
+        }
+    ]
+}

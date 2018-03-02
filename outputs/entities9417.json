@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8630018830299377,
+            "Type": "PERSON",
+            "Text": "@lovusa4",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.974173367023468,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 13,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.988255500793457,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 48,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.5584330558776855,
+            "Type": "QUANTITY",
+            "Text": "4",
+            "BeginOffset": 67,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.38654282689094543,
+            "Type": "QUANTITY",
+            "Text": "ZERO",
+            "BeginOffset": 73,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.6773850321769714,
+            "Type": "LOCATION",
+            "Text": "Benghazi",
+            "BeginOffset": 114,
+            "EndOffset": 122
+        }
+    ]
+}

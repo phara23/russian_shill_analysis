@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8299986720085144,
+            "Type": "PERSON",
+            "Text": "@RMConservative",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9881508350372314,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 38,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9677730202674866,
+            "Type": "QUANTITY",
+            "Text": "200 years",
+            "BeginOffset": 82,
+            "EndOffset": 91
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9455499649047852,
+            "Type": "PERSON",
+            "Text": "@DanScavino",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9619029760360718,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 63,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.969404399394989,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 99,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.9684417843818665,
+            "Type": "OTHER",
+            "Text": "https://t.co/9yv7Wrk",
+            "BeginOffset": 119,
+            "EndOffset": 139
+        }
+    ]
+}

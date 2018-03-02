@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7132657766342163,
+            "Type": "ORGANIZATION",
+            "Text": "@Only4RM",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.7338258624076843,
+            "Type": "PERSON",
+            "Text": "@JebBush",
+            "BeginOffset": 24,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.969563901424408,
+            "Type": "PERSON",
+            "Text": "Cousin Billy",
+            "BeginOffset": 55,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.7777438759803772,
+            "Type": "PERSON",
+            "Text": "#Trump",
+            "BeginOffset": 85,
+            "EndOffset": 91
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8576443791389465,
+            "Type": "PERSON",
+            "Text": "@TrumpIsTheTrue",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8430823087692261,
+            "Type": "ORGANIZATION",
+            "Text": "Bloomberg",
+            "BeginOffset": 27,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9791051745414734,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 72,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.4876299798488617,
+            "Type": "ORGANIZATION",
+            "Text": "Russia",
+            "BeginOffset": 82,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.8414070010185242,
+            "Type": "OTHER",
+            "Text": "https://t.co/G9SzKIyXrt",
+            "BeginOffset": 108,
+            "EndOffset": 131
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7628737092018127,
+            "Type": "PERSON",
+            "Text": "@DetroitPost",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9368172287940979,
+            "Type": "PERSON",
+            "Text": "Soria",
+            "BeginOffset": 27,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9711573719978333,
+            "Type": "PERSON",
+            "Text": "Nathan",
+            "BeginOffset": 59,
+            "EndOffset": 65
+        }
+    ]
+}

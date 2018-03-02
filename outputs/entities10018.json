@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8937336802482605,
+            "Type": "PERSON",
+            "Text": "@lucasmanicotti",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.6960184574127197,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 20,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.7483547329902649,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 47,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.6482152342796326,
+            "Type": "QUANTITY",
+            "Text": "5Words",
+            "BeginOffset": 69,
+            "EndOffset": 75
+        }
+    ]
+}

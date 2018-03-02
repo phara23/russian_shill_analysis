@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6297687292098999,
+            "Type": "ORGANIZATION",
+            "Text": "@ConservVoice",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7862849831581116,
+            "Type": "PERSON",
+            "Text": "@robportman",
+            "BeginOffset": 18,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9707489609718323,
+            "Type": "PERSON",
+            "Text": "@JohnMcCain",
+            "BeginOffset": 30,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.964305579662323,
+            "Type": "PERSON",
+            "Text": "@JeffFlake",
+            "BeginOffset": 42,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.6106258630752563,
+            "Type": "PERSON",
+            "Text": "OrinHatch",
+            "BeginOffset": 57,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9923772215843201,
+            "Type": "PERSON",
+            "Text": "@ronfair43",
+            "BeginOffset": 97,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.9998311996459961,
+            "Type": "OTHER",
+            "Text": "https://t.co/sx08eqbNMW",
+            "BeginOffset": 108,
+            "EndOffset": 131
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8298352360725403,
+            "Type": "PERSON",
+            "Text": "@TheTruth24",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8159041404724121,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 14,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9536397457122803,
+            "Type": "LOCATION",
+            "Text": "Oregon",
+            "BeginOffset": 43,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9996737241744995,
+            "Type": "OTHER",
+            "Text": "http://t.co/kTMFeVTZWp",
+            "BeginOffset": 101,
+            "EndOffset": 123
+        }
+    ]
+}

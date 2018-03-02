@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7780092358589172,
+            "Type": "PERSON",
+            "Text": "@allhiphopcom",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9704543352127075,
+            "Type": "PERSON",
+            "Text": "Kanye",
+            "BeginOffset": 22,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9737223386764526,
+            "Type": "PERSON",
+            "Text": "Kim",
+            "BeginOffset": 32,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9620085954666138,
+            "Type": "OTHER",
+            "Text": "https://t.co/XHJYPC05X2",
+            "BeginOffset": 84,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.999941349029541,
+            "Type": "OTHER",
+            "Text": "https://t.co/qm9MywWfbU",
+            "BeginOffset": 108,
+            "EndOffset": 131
+        }
+    ]
+}

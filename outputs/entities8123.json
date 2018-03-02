@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8559665083885193,
+            "Type": "PERSON",
+            "Text": "@UTHornsRawk",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.34532833099365234,
+            "Type": "ORGANIZATION",
+            "Text": "#McKinney",
+            "BeginOffset": 17,
+            "EndOffset": 26
+        }
+    ]
+}

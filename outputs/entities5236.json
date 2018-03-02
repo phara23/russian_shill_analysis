@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8526869416236877,
+            "Type": "PERSON",
+            "Text": "@AmericnElephant",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9107701778411865,
+            "Type": "OTHER",
+            "Text": "https://t.co/we2J7RJ4AK",
+            "BeginOffset": 72,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.9999368190765381,
+            "Type": "OTHER",
+            "Text": "https://t.co/rs5buDTTsE",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9323687553405762,
+            "Type": "PERSON",
+            "Text": "@JanJohnsonFL",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8124801516532898,
+            "Type": "ORGANIZATION",
+            "Text": "@USATODAY",
+            "BeginOffset": 61,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.5201983451843262,
+            "Type": "QUANTITY",
+            "Text": "16",
+            "BeginOffset": 83,
+            "EndOffset": 85
+        }
+    ]
+}

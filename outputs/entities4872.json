@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9209344387054443,
+            "Type": "PERSON",
+            "Text": "@ReneePrasek",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.5219340920448303,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 17,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.7327011823654175,
+            "Type": "PERSON",
+            "Text": "@bodybynance",
+            "BeginOffset": 20,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.8453132510185242,
+            "Type": "ORGANIZATION",
+            "Text": "Amnesty",
+            "BeginOffset": 73,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.8826488256454468,
+            "Type": "TITLE",
+            "Text": "Obamacare",
+            "BeginOffset": 85,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.32729893922805786,
+            "Type": "ORGANIZATION",
+            "Text": "#TedCruz",
+            "BeginOffset": 96,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.8894122242927551,
+            "Type": "OTHER",
+            "Text": "https://t.co/3CUHJ4mEnv",
+            "BeginOffset": 114,
+            "EndOffset": 137
+        }
+    ]
+}

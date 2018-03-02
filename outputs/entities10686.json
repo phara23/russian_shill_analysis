@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8675566911697388,
+            "Type": "PERSON",
+            "Text": "@willbfree1",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.5142962336540222,
+            "Type": "OTHER",
+            "Text": "Canadians",
+            "BeginOffset": 35,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9594675898551941,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 67,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9012820720672607,
+            "Type": "OTHER",
+            "Text": "https://t.co/BnA9OLYGUk",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        }
+    ]
+}

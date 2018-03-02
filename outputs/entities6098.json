@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8614888787269592,
+            "Type": "PERSON",
+            "Text": "@DJAYTIGER",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9247974157333374,
+            "Type": "OTHER",
+            "Text": "https://t.co/OkdWgYU0s7",
+            "BeginOffset": 83,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.9998670816421509,
+            "Type": "OTHER",
+            "Text": "https://t.co/HLsqYfq2uM",
+            "BeginOffset": 107,
+            "EndOffset": 130
+        }
+    ]
+}

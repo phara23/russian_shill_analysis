@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9712117314338684,
+            "Type": "PERSON",
+            "Text": "@jhawkins826",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.995558500289917,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 35,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9995095133781433,
+            "Type": "PERSON",
+            "Text": "Jim Brown",
+            "BeginOffset": 42,
+            "EndOffset": 51
+        }
+    ]
+}

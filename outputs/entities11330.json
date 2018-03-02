@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8683667778968811,
+            "Type": "PERSON",
+            "Text": "@EllenTrailerDog",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.988631546497345,
+            "Type": "DATE",
+            "Text": "2017",
+            "BeginOffset": 60,
+            "EndOffset": 64
+        }
+    ]
+}

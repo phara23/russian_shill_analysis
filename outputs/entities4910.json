@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.49278342723846436,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.850290834903717,
+            "Type": "PERSON",
+            "Text": "@fmason3",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9725857973098755,
+            "Type": "DATE",
+            "Text": "Sunday afternoon",
+            "BeginOffset": 25,
+            "EndOffset": 41
+        }
+    ]
+}

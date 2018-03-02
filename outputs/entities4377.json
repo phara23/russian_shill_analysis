@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.77711421251297,
+            "Type": "PERSON",
+            "Text": "@JudicialWatch",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9426255822181702,
+            "Type": "PERSON",
+            "Text": "Koskinen",
+            "BeginOffset": 19,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.6565344929695129,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 54,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.9244900345802307,
+            "Type": "OTHER",
+            "Text": "https://t.co/q",
+            "BeginOffset": 125,
+            "EndOffset": 139
+        }
+    ]
+}

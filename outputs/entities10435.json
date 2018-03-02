@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.620037317276001,
+            "Type": "PERSON",
+            "Text": "@2DopeBoyz",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.4350443184375763,
+            "Type": "PERSON",
+            "Text": "Dreamville",
+            "BeginOffset": 15,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9204620718955994,
+            "Type": "PERSON",
+            "Text": "@JIDsv",
+            "BeginOffset": 28,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9113724231719971,
+            "Type": "TITLE",
+            "Text": "#TheNeverStory",
+            "BeginOffset": 69,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.8202856183052063,
+            "Type": "PERSON",
+            "Text": "@EarthGang",
+            "BeginOffset": 88,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.9602213501930237,
+            "Type": "PERSON",
+            "Text": "@JColeNC",
+            "BeginOffset": 100,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.7882972955703735,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 130,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8736135363578796,
+            "Type": "PERSON",
+            "Text": "@dcexaminer",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.999229907989502,
+            "Type": "PERSON",
+            "Text": "John Podesta",
+            "BeginOffset": 24,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9193224906921387,
+            "Type": "OTHER",
+            "Text": "https://t.co/Yo9f1jVV71",
+            "BeginOffset": 72,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.9999485015869141,
+            "Type": "OTHER",
+            "Text": "https://t.co/8FLyw1HcLb",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        }
+    ]
+}

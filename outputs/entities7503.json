@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9196928143501282,
+            "Type": "PERSON",
+            "Text": "@GraveyardSister",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.5383034348487854,
+            "Type": "TITLE",
+            "Text": "Afterbirth",
+            "BeginOffset": 44,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9936262369155884,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 56,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9973596334457397,
+            "Type": "PERSON",
+            "Text": "Eboni Boykin",
+            "BeginOffset": 101,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.9505524039268494,
+            "Type": "OTHER",
+            "Text": "https://t.co/51qY2n42GK",
+            "BeginOffset": 114,
+            "EndOffset": 137
+        }
+    ]
+}

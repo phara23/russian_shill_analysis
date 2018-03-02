@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7973183393478394,
+            "Type": "ORGANIZATION",
+            "Text": "@OHIO_BSU",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9996694326400757,
+            "Type": "OTHER",
+            "Text": "https://t.co/7QmTEQNBEj",
+            "BeginOffset": 92,
+            "EndOffset": 115
+        }
+    ]
+}

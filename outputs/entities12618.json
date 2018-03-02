@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9087256789207458,
+            "Type": "PERSON",
+            "Text": "@TheTrumpLady",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9839023947715759,
+            "Type": "DATE",
+            "Text": "Nov 8",
+            "BeginOffset": 92,
+            "EndOffset": 97
+        }
+    ]
+}

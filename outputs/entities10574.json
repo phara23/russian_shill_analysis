@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.788619339466095,
+            "Type": "PERSON",
+            "Text": "@CannibalAUX",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9952878952026367,
+            "Type": "ORGANIZATION",
+            "Text": "Twitter",
+            "BeginOffset": 42,
+            "EndOffset": 49
+        }
+    ]
+}

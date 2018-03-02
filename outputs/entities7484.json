@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8542687296867371,
+            "Type": "PERSON",
+            "Text": "@realkingrobbo",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9969292283058167,
+            "Type": "PERSON",
+            "Text": "Charles Barkley",
+            "BeginOffset": 19,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9511290192604065,
+            "Type": "OTHER",
+            "Text": "https://t.co/rJEhz8JdZA",
+            "BeginOffset": 98,
+            "EndOffset": 121
+        },
+        {
+            "Score": 0.8584111928939819,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 128,
+            "EndOffset": 132
+        }
+    ]
+}

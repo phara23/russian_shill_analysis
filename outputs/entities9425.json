@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9423601627349854,
+            "Type": "PERSON",
+            "Text": "@SharonMcCutchan",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.793704628944397,
+            "Type": "ORGANIZATION",
+            "Text": "Clinton Foundation",
+            "BeginOffset": 21,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.999944806098938,
+            "Type": "OTHER",
+            "Text": "https://t.co/IzZJHN6WcT",
+            "BeginOffset": 60,
+            "EndOffset": 83
+        }
+    ]
+}

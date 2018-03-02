@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9514724016189575,
+            "Type": "PERSON",
+            "Text": "@RichelleCarey",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9690454006195068,
+            "Type": "PERSON",
+            "Text": "Ghazala Khan",
+            "BeginOffset": 41,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9942644238471985,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 55,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9849222898483276,
+            "Type": "OTHER",
+            "Text": "https://t.co/ZdD",
+            "BeginOffset": 123,
+            "EndOffset": 139
+        }
+    ]
+}

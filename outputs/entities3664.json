@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8174972534179688,
+            "Type": "PERSON",
+            "Text": "@SanDiegoPost",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9928904175758362,
+            "Type": "QUANTITY",
+            "Text": "30 minutes",
+            "BeginOffset": 39,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9934179782867432,
+            "Type": "ORGANIZATION",
+            "Text": "Amazon",
+            "BeginOffset": 51,
+            "EndOffset": 57
+        }
+    ]
+}

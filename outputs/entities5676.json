@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6782779693603516,
+            "Type": "PERSON",
+            "Text": "@chicago",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9622534513473511,
+            "Type": "DATE",
+            "Text": "Monday",
+            "BeginOffset": 24,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9999920129776001,
+            "Type": "OTHER",
+            "Text": "https://t.co/9MW3vUS0XM",
+            "BeginOffset": 45,
+            "EndOffset": 68
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9274662137031555,
+            "Type": "PERSON",
+            "Text": "@hanifbali",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8521564602851868,
+            "Type": "OTHER",
+            "Text": "Btw @strandhall så var det en man som intervjuades - inte en kvinna",
+            "BeginOffset": 15,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.8292894959449768,
+            "Type": "PERSON",
+            "Text": "@SVTHolmbe",
+            "BeginOffset": 129,
+            "EndOffset": 139
+        }
+    ]
+}

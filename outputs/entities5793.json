@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8138957023620605,
+            "Type": "PERSON",
+            "Text": "@CarolHello1",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9974550604820251,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 20,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.8905864953994751,
+            "Type": "QUANTITY",
+            "Text": "66%",
+            "BeginOffset": 33,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9788781404495239,
+            "Type": "PERSON",
+            "Text": "Marco Rubio",
+            "BeginOffset": 85,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.9730947017669678,
+            "Type": "QUANTITY",
+            "Text": "12%",
+            "BeginOffset": 97,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.9792879819869995,
+            "Type": "PERSON",
+            "Text": "Ted Cruz",
+            "BeginOffset": 101,
+            "EndOffset": 109
+        },
+        {
+            "Score": 0.967354416847229,
+            "Type": "QUANTITY",
+            "Text": "17%",
+            "BeginOffset": 110,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.9839414954185486,
+            "Type": "PERSON",
+            "Text": "Hugh Hewitt",
+            "BeginOffset": 122,
+            "EndOffset": 133
+        }
+    ]
+}

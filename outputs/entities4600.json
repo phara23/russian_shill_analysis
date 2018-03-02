@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8382876515388489,
+            "Type": "PERSON",
+            "Text": "@YoungDems4Trump",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8037616014480591,
+            "Type": "ORGANIZATION",
+            "Text": "@wikileaks",
+            "BeginOffset": 25,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9897708892822266,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 55,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9947313070297241,
+            "Type": "PERSON",
+            "Text": "Sanders",
+            "BeginOffset": 109,
+            "EndOffset": 116
+        }
+    ]
+}

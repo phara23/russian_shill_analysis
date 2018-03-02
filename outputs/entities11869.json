@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8716697692871094,
+            "Type": "PERSON",
+            "Text": "@TroyCoby",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8321669697761536,
+            "Type": "QUANTITY",
+            "Text": "EIGHT YEARS",
+            "BeginOffset": 20,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.6934036016464233,
+            "Type": "ORGANIZATION",
+            "Text": "White House",
+            "BeginOffset": 61,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.9997966885566711,
+            "Type": "OTHER",
+            "Text": "https://t.co/UMzSDKZ2RP",
+            "BeginOffset": 76,
+            "EndOffset": 99
+        }
+    ]
+}

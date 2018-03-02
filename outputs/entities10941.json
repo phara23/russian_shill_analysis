@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8779398798942566,
+            "Type": "PERSON",
+            "Text": "@PrisonPlanet",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9754382371902466,
+            "Type": "ORGANIZATION",
+            "Text": "CBS",
+            "BeginOffset": 18,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.8956965208053589,
+            "Type": "PERSON",
+            "Text": "Saddam",
+            "BeginOffset": 75,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.4594937562942505,
+            "Type": "ORGANIZATION",
+            "Text": "Infowars",
+            "BeginOffset": 107,
+            "EndOffset": 115
+        }
+    ]
+}

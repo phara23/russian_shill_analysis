@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7543820142745972,
+            "Type": "PERSON",
+            "Text": "@Catalinapby1",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9910144209861755,
+            "Type": "PERSON",
+            "Text": "Cruz",
+            "BeginOffset": 18,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.973848819732666,
+            "Type": "QUANTITY",
+            "Text": "five years",
+            "BeginOffset": 76,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9998964071273804,
+            "Type": "OTHER",
+            "Text": "https://t.co/v3Jzux7W99",
+            "BeginOffset": 87,
+            "EndOffset": 110
+        }
+    ]
+}

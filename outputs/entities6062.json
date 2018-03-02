@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8913605213165283,
+            "Type": "PERSON",
+            "Text": "@LiamMattinson1",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9391667246818542,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 39,
+            "EndOffset": 43
+        }
+    ]
+}

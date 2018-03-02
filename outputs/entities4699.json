@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7612816691398621,
+            "Type": "PERSON",
+            "Text": "@BuckInEars",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9977421164512634,
+            "Type": "QUANTITY",
+            "Text": "11 inches",
+            "BeginOffset": 54,
+            "EndOffset": 63
+        }
+    ]
+}

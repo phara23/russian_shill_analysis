@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9980394840240479,
+            "Type": "PERSON",
+            "Text": "Mike Pence",
+            "BeginOffset": 10,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.9786000847816467,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 44,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.8988938927650452,
+            "Type": "OTHER",
+            "Text": "https://t.co/2o4TPKRvJx",
+            "BeginOffset": 89,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.9999924898147583,
+            "Type": "OTHER",
+            "Text": "https://t.co/1sbSswMVH8",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        }
+    ]
+}

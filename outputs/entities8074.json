@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9176933169364929,
+            "Type": "PERSON",
+            "Text": "@adamjohnsonNYC",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9971289038658142,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 42,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.5763536691665649,
+            "Type": "QUANTITY",
+            "Text": "one long love letter",
+            "BeginOffset": 117,
+            "EndOffset": 137
+        }
+    ]
+}

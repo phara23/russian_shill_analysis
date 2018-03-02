@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7416492700576782,
+            "Type": "PERSON",
+            "Text": "@HipHopToGo",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8467783331871033,
+            "Type": "ORGANIZATION",
+            "Text": "Supreme Court",
+            "BeginOffset": 55,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.99991774559021,
+            "Type": "OTHER",
+            "Text": "https://t.co/Heg3j2TeNB",
+            "BeginOffset": 74,
+            "EndOffset": 97
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8857588171958923,
+            "Type": "PERSON",
+            "Text": "@ChrixMorgan",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9977455139160156,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 52,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9999282360076904,
+            "Type": "OTHER",
+            "Text": "https://t.co/8Y6kpbFe4Q",
+            "BeginOffset": 68,
+            "EndOffset": 91
+        }
+    ]
+}

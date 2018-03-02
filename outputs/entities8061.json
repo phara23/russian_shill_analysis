@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8820697665214539,
+            "Type": "DATE",
+            "Text": "August",
+            "BeginOffset": 0,
+            "EndOffset": 6
+        },
+        {
+            "Score": 0.998837411403656,
+            "Type": "LOCATION",
+            "Text": "Chicago",
+            "BeginOffset": 29,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.8296272158622742,
+            "Type": "QUANTITY",
+            "Text": "nearly 20 years",
+            "BeginOffset": 40,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9998434782028198,
+            "Type": "OTHER",
+            "Text": "https://t.co/aCzYmRTcR2",
+            "BeginOffset": 115,
+            "EndOffset": 138
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8892785310745239,
+            "Type": "PERSON",
+            "Text": "@debsellsslc",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9795016646385193,
+            "Type": "ORGANIZATION",
+            "Text": "Twitter",
+            "BeginOffset": 113,
+            "EndOffset": 120
+        }
+    ]
+}

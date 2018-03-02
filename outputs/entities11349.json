@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9794377684593201,
+            "Type": "PERSON",
+            "Text": "Kim SeokJin",
+            "BeginOffset": 11,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.2364453226327896,
+            "Type": "QUANTITY",
+            "Text": "4",
+            "BeginOffset": 48,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9999451637268066,
+            "Type": "OTHER",
+            "Text": "https://t.co/DdLr9LQADq",
+            "BeginOffset": 55,
+            "EndOffset": 78
+        }
+    ]
+}

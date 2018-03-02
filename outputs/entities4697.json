@@ -1,0 +1,88 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6850876808166504,
+            "Type": "PERSON",
+            "Text": "@StatesPoll",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7846208810806274,
+            "Type": "LOCATION",
+            "Text": "Florida",
+            "BeginOffset": 16,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9804471731185913,
+            "Type": "PERSON",
+            "Text": "TRUMP",
+            "BeginOffset": 25,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9977350234985352,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 34,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.8894661664962769,
+            "Type": "PERSON",
+            "Text": "GJ",
+            "BeginOffset": 45,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9795300960540771,
+            "Type": "PERSON",
+            "Text": "JS\nYouGov",
+            "BeginOffset": 51,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.8405101299285889,
+            "Type": "DATE",
+            "Text": "9/7",
+            "BeginOffset": 62,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9549663662910461,
+            "Type": "DATE",
+            "Text": "9/9",
+            "BeginOffset": 66,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9874992966651917,
+            "Type": "OTHER",
+            "Text": "https://t.co/kxizGxXE6o",
+            "BeginOffset": 88,
+            "EndOffset": 111
+        },
+        {
+            "Score": 0.8765836954116821,
+            "Type": "PERSON",
+            "Text": "TRUMP",
+            "BeginOffset": 122,
+            "EndOffset": 127
+        },
+        {
+            "Score": 0.9678147435188293,
+            "Type": "QUANTITY",
+            "Text": "4.52%",
+            "BeginOffset": 129,
+            "EndOffset": 134
+        },
+        {
+            "Score": 0.7047589421272278,
+            "Type": "PERSON",
+            "Text": "#Tru",
+            "BeginOffset": 135,
+            "EndOffset": 139
+        }
+    ]
+}

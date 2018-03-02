@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9005535840988159,
+            "Type": "PERSON",
+            "Text": "@DingDonParker",
+            "BeginOffset": 0,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9066029787063599,
+            "Type": "LOCATION",
+            "Text": "California",
+            "BeginOffset": 32,
+            "EndOffset": 42
+        }
+    ]
+}

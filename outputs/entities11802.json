@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8110504150390625,
+            "Type": "PERSON",
+            "Text": "@WorldTruthTV",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9672437310218811,
+            "Type": "ORGANIZATION",
+            "Text": "NASA",
+            "BeginOffset": 18,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.8766298890113831,
+            "Type": "OTHER",
+            "Text": "https://t.co/telXZBWPRi",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.9939802885055542,
+            "Type": "OTHER",
+            "Text": "https://t.co/96Wz6",
+            "BeginOffset": 121,
+            "EndOffset": 139
+        }
+    ]
+}

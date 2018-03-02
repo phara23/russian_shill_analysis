@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8079836964607239,
+            "Type": "PERSON",
+            "Text": "@ZaibatsuNews",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9018343687057495,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 39,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.8939715623855591,
+            "Type": "OTHER",
+            "Text": "https://t.co/tWUzMck6Va",
+            "BeginOffset": 85,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.8787863254547119,
+            "Type": "ORGANIZATION",
+            "Text": "#p2 #ctl",
+            "BeginOffset": 109,
+            "EndOffset": 117
+        },
+        {
+            "Score": 0.9954168796539307,
+            "Type": "OTHER",
+            "Text": "https://t.co/9AeiMXhX",
+            "BeginOffset": 118,
+            "EndOffset": 139
+        }
+    ]
+}

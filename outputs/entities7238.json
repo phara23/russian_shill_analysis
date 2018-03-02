@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8205175399780273,
+            "Type": "PERSON",
+            "Text": "Philly",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9970930814743042,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 19,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9999785423278809,
+            "Type": "OTHER",
+            "Text": "https://t.co/avo4ZQRCDw",
+            "BeginOffset": 55,
+            "EndOffset": 78
+        }
+    ]
+}

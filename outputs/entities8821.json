@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8321244120597839,
+            "Type": "PERSON",
+            "Text": "@StrikeForceTech",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9512539505958557,
+            "Type": "OTHER",
+            "Text": "https://t.co/bb0daDkvi8",
+            "BeginOffset": 73,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.9990116357803345,
+            "Type": "OTHER",
+            "Text": "https://t.co/8DZmwyOfvH",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9781518578529358,
+            "Type": "PERSON",
+            "Text": "McCain",
+            "BeginOffset": 0,
+            "EndOffset": 6
+        },
+        {
+            "Score": 0.9978703260421753,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 12,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8832671642303467,
+            "Type": "ORGANIZATION",
+            "Text": "Muslim",
+            "BeginOffset": 32,
+            "EndOffset": 38
+        }
+    ]
+}

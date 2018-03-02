@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6788186430931091,
+            "Type": "PERSON",
+            "Text": "@ALIPAC",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.5832425355911255,
+            "Type": "OTHER",
+            "Text": "American",
+            "BeginOffset": 48,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9051072001457214,
+            "Type": "OTHER",
+            "Text": "https://t.co/JSnsGjRfHw",
+            "BeginOffset": 66,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.9999947547912598,
+            "Type": "OTHER",
+            "Text": "https://t.co/RnHdrpq8mT",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        }
+    ]
+}

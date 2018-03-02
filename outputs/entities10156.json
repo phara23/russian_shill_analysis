@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7679330706596375,
+            "Type": "PERSON",
+            "Text": "@ZaibatsuNews",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9988067150115967,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 18,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.8041761517524719,
+            "Type": "ORGANIZATION",
+            "Text": "White House",
+            "BeginOffset": 36,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.8665960431098938,
+            "Type": "OTHER",
+            "Text": "https://t.co/wl9BEzMJt2",
+            "BeginOffset": 99,
+            "EndOffset": 122
+        },
+        {
+            "Score": 0.9855661392211914,
+            "Type": "OTHER",
+            "Text": "https://t.co/WAq",
+            "BeginOffset": 123,
+            "EndOffset": 139
+        }
+    ]
+}

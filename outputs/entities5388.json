@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8593737483024597,
+            "Type": "PERSON",
+            "Text": "@torontoreggae",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.4825211763381958,
+            "Type": "LOCATION",
+            "Text": "Toronto",
+            "BeginOffset": 19,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9927354454994202,
+            "Type": "PERSON",
+            "Text": "Nadine Sutherland",
+            "BeginOffset": 36,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.972242534160614,
+            "Type": "DATE",
+            "Text": "Sun May 21",
+            "BeginOffset": 54,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.8990691900253296,
+            "Type": "PERSON",
+            "Text": "@JCA_Ontario",
+            "BeginOffset": 65,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9280315041542053,
+            "Type": "PERSON",
+            "Text": "@meldubemusic",
+            "BeginOffset": 78,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.982925534248352,
+            "Type": "PERSON",
+            "Text": "@jahdaley",
+            "BeginOffset": 92,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.9836041927337646,
+            "Type": "PERSON",
+            "Text": "@EmpressDivine24",
+            "BeginOffset": 102,
+            "EndOffset": 118
+        }
+    ]
+}

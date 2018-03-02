@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.903205394744873,
+            "Type": "PERSON",
+            "Text": "@ParamjitGarewal",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.6604676246643066,
+            "Type": "OTHER",
+            "Text": "German",
+            "BeginOffset": 21,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9144732356071472,
+            "Type": "QUANTITY",
+            "Text": "FOUR YEARS",
+            "BeginOffset": 47,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.894405722618103,
+            "Type": "OTHER",
+            "Text": "Italian",
+            "BeginOffset": 61,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9777212738990784,
+            "Type": "OTHER",
+            "Text": "https://t.co/l8S9Kfkbz2",
+            "BeginOffset": 91,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.7022950053215027,
+            "Type": "ORGANIZATION",
+            "Text": "@MailOnline",
+            "BeginOffset": 119,
+            "EndOffset": 130
+        },
+        {
+            "Score": 0.7919942736625671,
+            "Type": "QUANTITY",
+            "Text": "ONE THA",
+            "BeginOffset": 132,
+            "EndOffset": 139
+        }
+    ]
+}

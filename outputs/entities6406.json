@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9793899655342102,
+            "Type": "PERSON",
+            "Text": "Pence",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9703764915466309,
+            "Type": "OTHER",
+            "Text": "https://t.co/992iqgAQ4Z",
+            "BeginOffset": 54,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9401360154151917,
+            "Type": "OTHER",
+            "Text": "https://t.co/aXQaNDGlF7",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.9999390840530396,
+            "Type": "OTHER",
+            "Text": "https://t.co/kDG4iqOrSs",
+            "BeginOffset": 114,
+            "EndOffset": 137
+        }
+    ]
+}

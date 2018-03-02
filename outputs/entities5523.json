@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.49672451615333557,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.9007057547569275,
+            "Type": "PERSON",
+            "Text": "@ORIG_Ben_Feller",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.7142531871795654,
+            "Type": "PERSON",
+            "Text": "@DocThompsonShow",
+            "BeginOffset": 21,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9997310042381287,
+            "Type": "PERSON",
+            "Text": "Steve Harvey",
+            "BeginOffset": 57,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.6774963736534119,
+            "Type": "OTHER",
+            "Text": "Russians",
+            "BeginOffset": 86,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.9522088766098022,
+            "Type": "EVENT",
+            "Text": "Oscars",
+            "BeginOffset": 107,
+            "EndOffset": 113
+        }
+    ]
+}

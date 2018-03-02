@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9942702651023865,
+            "Type": "OTHER",
+            "Text": "888 486 8102",
+            "BeginOffset": 51,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9370088577270508,
+            "Type": "OTHER",
+            "Text": "855 976 1200",
+            "BeginOffset": 93,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.7077183127403259,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 107,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.981238067150116,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 136,
+            "EndOffset": 140
+        }
+    ]
+}

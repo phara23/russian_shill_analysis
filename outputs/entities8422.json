@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8530528545379639,
+            "Type": "PERSON",
+            "Text": "@redrivergrl",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.6310443878173828,
+            "Type": "PERSON",
+            "Text": "Hannity",
+            "BeginOffset": 17,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9987130165100098,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 41,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9513763785362244,
+            "Type": "OTHER",
+            "Text": "https://t.co/ONcIIC6JRE",
+            "BeginOffset": 71,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.8217869400978088,
+            "Type": "ORGANIZATION",
+            "Text": "@mediaite",
+            "BeginOffset": 99,
+            "EndOffset": 108
+        }
+    ]
+}

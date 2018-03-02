@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.95444655418396,
+            "Type": "PERSON",
+            "Text": "@jakkoerner",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7153661847114563,
+            "Type": "OTHER",
+            "Text": "Swedish",
+            "BeginOffset": 17,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9999752044677734,
+            "Type": "OTHER",
+            "Text": "https://t.co/65RooWJa69",
+            "BeginOffset": 99,
+            "EndOffset": 122
+        }
+    ]
+}

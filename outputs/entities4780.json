@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8852832913398743,
+            "Type": "PERSON",
+            "Text": "@davekoffer",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9934865236282349,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 44,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9784270524978638,
+            "Type": "OTHER",
+            "Text": "https://t.co/Yd42tocZ6v",
+            "BeginOffset": 63,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9229300618171692,
+            "Type": "ORGANIZATION",
+            "Text": "@ReadTheHornNews",
+            "BeginOffset": 91,
+            "EndOffset": 107
+        }
+    ]
+}

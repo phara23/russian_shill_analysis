@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9510078430175781,
+            "Type": "PERSON",
+            "Text": "Buffett",
+            "BeginOffset": 0,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.9713086485862732,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 52,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.878650963306427,
+            "Type": "OTHER",
+            "Text": "https://t.co/QTbvDeVliT",
+            "BeginOffset": 63,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9466854333877563,
+            "Type": "OTHER",
+            "Text": "https://t.co/cdnQqWB38H",
+            "BeginOffset": 89,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.9998376369476318,
+            "Type": "OTHER",
+            "Text": "https://t.co/UsLLWvgAF5",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        }
+    ]
+}

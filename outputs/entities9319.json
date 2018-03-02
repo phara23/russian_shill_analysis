@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.437326043844223,
+            "Type": "LOCATION",
+            "Text": "Hawaii",
+            "BeginOffset": 0,
+            "EndOffset": 6
+        },
+        {
+            "Score": 0.8779364824295044,
+            "Type": "QUANTITY",
+            "Text": "Five-Oarfish",
+            "BeginOffset": 7,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.6153427362442017,
+            "Type": "ORGANIZATION",
+            "Text": "@midnight",
+            "BeginOffset": 28,
+            "EndOffset": 37
+        }
+    ]
+}

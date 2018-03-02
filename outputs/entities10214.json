@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8623769879341125,
+            "Type": "PERSON",
+            "Text": "@liamstack",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9636391997337341,
+            "Type": "QUANTITY",
+            "Text": "15 women",
+            "BeginOffset": 15,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9931749701499939,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 37,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9999673366546631,
+            "Type": "OTHER",
+            "Text": "https://t.co/pc6xGm5szB",
+            "BeginOffset": 61,
+            "EndOffset": 84
+        }
+    ]
+}

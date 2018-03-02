@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9228875637054443,
+            "Type": "PERSON",
+            "Text": "@Baddiel",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8704964518547058,
+            "Type": "PERSON",
+            "Text": "@RealJamesWoods",
+            "BeginOffset": 18,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9875450730323792,
+            "Type": "PERSON",
+            "Text": "Beyonce",
+            "BeginOffset": 35,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9979390501976013,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 80,
+            "EndOffset": 85
+        }
+    ]
+}

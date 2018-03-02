@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9559943079948425,
+            "Type": "PERSON",
+            "Text": "@WesleyRickard",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.905940592288971,
+            "Type": "QUANTITY",
+            "Text": "6 year old",
+            "BeginOffset": 21,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9993833899497986,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 65,
+            "EndOffset": 80
+        }
+    ]
+}

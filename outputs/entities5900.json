@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7357083559036255,
+            "Type": "PERSON",
+            "Text": "@NewCenturyTimes",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9940361976623535,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 21,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.5623229146003723,
+            "Type": "OTHER",
+            "Text": "Russian",
+            "BeginOffset": 49,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.3953500986099243,
+            "Type": "PERSON",
+            "Text": "Ally",
+            "BeginOffset": 57,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.45602545142173767,
+            "Type": "ORGANIZATION",
+            "Text": "#CIA",
+            "BeginOffset": 86,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.4379478096961975,
+            "Type": "LOCATION",
+            "Text": "#Russia",
+            "BeginOffset": 101,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.9445104598999023,
+            "Type": "OTHER",
+            "Text": "https://t.co/halfxuNW7O",
+            "BeginOffset": 110,
+            "EndOffset": 133
+        }
+    ]
+}

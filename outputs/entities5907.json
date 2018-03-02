@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8090476989746094,
+            "Type": "PERSON",
+            "Text": "@LDay101",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.45518988370895386,
+            "Type": "ORGANIZATION",
+            "Text": "CPAC",
+            "BeginOffset": 25,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9676011800765991,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 30,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.8346818089485168,
+            "Type": "QUANTITY",
+            "Text": "91 Days",
+            "BeginOffset": 37,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.8342315554618835,
+            "Type": "ORGANIZATION",
+            "Text": "CPAC",
+            "BeginOffset": 48,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9498170018196106,
+            "Type": "OTHER",
+            "Text": "https://t.co/E0",
+            "BeginOffset": 124,
+            "EndOffset": 139
+        }
+    ]
+}

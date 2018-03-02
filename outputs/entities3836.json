@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7891587018966675,
+            "Type": "PERSON",
+            "Text": "@ReaganBattalion",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9855592250823975,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 38,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.8560131192207336,
+            "Type": "PERSON",
+            "Text": "@mboyle1",
+            "BeginOffset": 67,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.9088646769523621,
+            "Type": "PERSON",
+            "Text": "@BreitbartNews",
+            "BeginOffset": 77,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.6858195662498474,
+            "Type": "PERSON",
+            "Text": "@DRUDGE",
+            "BeginOffset": 93,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.7252214550971985,
+            "Type": "PERSON",
+            "Text": "@marcorubio",
+            "BeginOffset": 104,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.6840091347694397,
+            "Type": "PERSON",
+            "Text": "Tillers",
+            "BeginOffset": 132,
+            "EndOffset": 139
+        }
+    ]
+}

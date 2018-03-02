@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8839168548583984,
+            "Type": "PERSON",
+            "Text": "@JAMSRIDE",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9832085371017456,
+            "Type": "QUANTITY",
+            "Text": "1 month",
+            "BeginOffset": 14,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9831138849258423,
+            "Type": "DATE",
+            "Text": "today",
+            "BeginOffset": 27,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.8239831328392029,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 33,
+            "EndOffset": 40
+        }
+    ]
+}

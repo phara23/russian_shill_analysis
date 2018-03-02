@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8087897896766663,
+            "Type": "PERSON",
+            "Text": "@MEPFuller",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9921879768371582,
+            "Type": "PERSON",
+            "Text": "Jim",
+            "BeginOffset": 75,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.9585397839546204,
+            "Type": "OTHER",
+            "Text": "https://t.co/C",
+            "BeginOffset": 125,
+            "EndOffset": 139
+        }
+    ]
+}

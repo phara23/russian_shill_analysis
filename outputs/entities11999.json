@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8439805507659912,
+            "Type": "PERSON",
+            "Text": "@ArtbyAWOHS",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7870458960533142,
+            "Type": "PERSON",
+            "Text": "trump",
+            "BeginOffset": 62,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.999944806098938,
+            "Type": "OTHER",
+            "Text": "https://t.co/Ll5Izj9UFJ",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        }
+    ]
+}

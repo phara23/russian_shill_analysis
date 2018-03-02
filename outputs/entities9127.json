@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9099321961402893,
+            "Type": "PERSON",
+            "Text": "@KatrinaPierson",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9352505207061768,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 44,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.5198513865470886,
+            "Type": "LOCATION",
+            "Text": "Americans",
+            "BeginOffset": 92,
+            "EndOffset": 101
+        }
+    ]
+}

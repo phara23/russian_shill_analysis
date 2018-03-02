@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7524258494377136,
+            "Type": "PERSON",
+            "Text": "@LelandGraves_",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7971386313438416,
+            "Type": "LOCATION",
+            "Text": "NY",
+            "BeginOffset": 112,
+            "EndOffset": 114
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7986674904823303,
+            "Type": "PERSON",
+            "Text": "@ForecasterEnten",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9098823070526123,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 21,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.6372644901275635,
+            "Type": "QUANTITY",
+            "Text": "46",
+            "BeginOffset": 27,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9522952437400818,
+            "Type": "PERSON",
+            "Text": "Cruz",
+            "BeginOffset": 31,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9448283910751343,
+            "Type": "QUANTITY",
+            "Text": "31",
+            "BeginOffset": 36,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9875596165657043,
+            "Type": "PERSON",
+            "Text": "Rubio",
+            "BeginOffset": 40,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9248137474060059,
+            "Type": "QUANTITY",
+            "Text": "12",
+            "BeginOffset": 46,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9888039231300354,
+            "Type": "PERSON",
+            "Text": "Kasich",
+            "BeginOffset": 50,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.982020914554596,
+            "Type": "QUANTITY",
+            "Text": "10",
+            "BeginOffset": 57,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.9579545855522156,
+            "Type": "QUANTITY",
+            "Text": "33%",
+            "BeginOffset": 65,
+            "EndOffset": 68
+        }
+    ]
+}

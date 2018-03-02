@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9227893948554993,
+            "Type": "PERSON",
+            "Text": "@Chris_1791",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.6928737163543701,
+            "Type": "QUANTITY",
+            "Text": "3",
+            "BeginOffset": 62,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9870213270187378,
+            "Type": "QUANTITY",
+            "Text": "5 Years",
+            "BeginOffset": 64,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9997463822364807,
+            "Type": "OTHER",
+            "Text": "http://t.co/eDiPe0sZKi",
+            "BeginOffset": 72,
+            "EndOffset": 94
+        }
+    ]
+}

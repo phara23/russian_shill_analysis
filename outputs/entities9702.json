@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8062335252761841,
+            "Type": "ORGANIZATION",
+            "Text": "@IMDb",
+            "BeginOffset": 3,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.9933394193649292,
+            "Type": "DATE",
+            "Text": "June 9",
+            "BeginOffset": 13,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8979867696762085,
+            "Type": "OTHER",
+            "Text": "https://t.co/Zf4go88n8s",
+            "BeginOffset": 47,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9999817609786987,
+            "Type": "OTHER",
+            "Text": "https://t.co/r410tBUG9L",
+            "BeginOffset": 71,
+            "EndOffset": 94
+        }
+    ]
+}

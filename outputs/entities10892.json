@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9343777894973755,
+            "Type": "PERSON",
+            "Text": "@djchophead",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9976757764816284,
+            "Type": "DATE",
+            "Text": "March 4th",
+            "BeginOffset": 58,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.8060774207115173,
+            "Type": "PERSON",
+            "Text": "@AndrewMeoray",
+            "BeginOffset": 68,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.8543960452079773,
+            "Type": "ORGANIZATION",
+            "Text": "@pnbrock",
+            "BeginOffset": 104,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.9815860390663147,
+            "Type": "OTHER",
+            "Text": "https://t.co/6FmsY",
+            "BeginOffset": 121,
+            "EndOffset": 139
+        }
+    ]
+}

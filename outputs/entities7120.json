@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8161961436271667,
+            "Type": "PERSON",
+            "Text": "@TheTruth24",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8898897767066956,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 14,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9303445219993591,
+            "Type": "ORGANIZATION",
+            "Text": "Oklahoma Bureau of Investigation",
+            "BeginOffset": 18,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.999790608882904,
+            "Type": "OTHER",
+            "Text": "http://t.co/JBvR73XPcj",
+            "BeginOffset": 87,
+            "EndOffset": 109
+        }
+    ]
+}

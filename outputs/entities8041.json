@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8554050922393799,
+            "Type": "PERSON",
+            "Text": "@trscoop",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9792583584785461,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 58,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.8539257645606995,
+            "Type": "OTHER",
+            "Text": "https://t.co/Xwg2wzjcAt",
+            "BeginOffset": 99,
+            "EndOffset": 122
+        },
+        {
+            "Score": 0.9879846572875977,
+            "Type": "OTHER",
+            "Text": "https://t.co/Vd3",
+            "BeginOffset": 123,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9400001764297485,
+            "Type": "PERSON",
+            "Text": "@JohnRiversToo",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.909477710723877,
+            "Type": "PERSON",
+            "Text": "@LucidHurricane_",
+            "BeginOffset": 20,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.6874907612800598,
+            "Type": "PERSON",
+            "Text": "@TheLastRefuge2",
+            "BeginOffset": 37,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9844159483909607,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 81,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9999656677246094,
+            "Type": "OTHER",
+            "Text": "https://t.co/y0Im0lrCBe",
+            "BeginOffset": 88,
+            "EndOffset": 111
+        }
+    ]
+}

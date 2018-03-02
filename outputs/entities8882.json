@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9026389122009277,
+            "Type": "PERSON",
+            "Text": "@DailySanAntonio",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9973499178886414,
+            "Type": "PERSON",
+            "Text": "Eva Longoria",
+            "BeginOffset": 45,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9015169739723206,
+            "Type": "DATE",
+            "Text": "2015",
+            "BeginOffset": 65,
+            "EndOffset": 69
+        }
+    ]
+}

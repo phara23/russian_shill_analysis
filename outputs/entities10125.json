@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6436616778373718,
+            "Type": "PERSON",
+            "Text": "@ancientgame",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8079431653022766,
+            "Type": "PERSON",
+            "Text": "@gntlman",
+            "BeginOffset": 17,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9807544350624084,
+            "Type": "PERSON",
+            "Text": "@Al_Gorelioni",
+            "BeginOffset": 26,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.8971652388572693,
+            "Type": "PERSON",
+            "Text": "U R. Madam President Clinton",
+            "BeginOffset": 104,
+            "EndOffset": 132
+        }
+    ]
+}

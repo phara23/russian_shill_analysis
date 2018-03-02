@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9079020619392395,
+            "Type": "PERSON",
+            "Text": "@EricWolfson",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.998540461063385,
+            "Type": "PERSON",
+            "Text": "Michelle Obama",
+            "BeginOffset": 17,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9945552349090576,
+            "Type": "PERSON",
+            "Text": "Melania",
+            "BeginOffset": 89,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.5061228275299072,
+            "Type": "DATE",
+            "Text": "2020",
+            "BeginOffset": 114,
+            "EndOffset": 118
+        },
+        {
+            "Score": 0.9108185768127441,
+            "Type": "ORGANIZATION",
+            "Text": "RNC",
+            "BeginOffset": 119,
+            "EndOffset": 122
+        }
+    ]
+}

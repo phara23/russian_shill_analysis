@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8622036576271057,
+            "Type": "PERSON",
+            "Text": "@shinemperor",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9976919889450073,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 46,
+            "EndOffset": 51
+        }
+    ]
+}

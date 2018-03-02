@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8175790309906006,
+            "Type": "PERSON",
+            "Text": "@PhoenixNewsAZ",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8154797554016113,
+            "Type": "QUANTITY",
+            "Text": "10 reopens",
+            "BeginOffset": 43,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.8936216831207275,
+            "Type": "LOCATION",
+            "Text": "Quartzsite",
+            "BeginOffset": 77,
+            "EndOffset": 87
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7370933294296265,
+            "Type": "PERSON",
+            "Text": "@TwitchyTeam",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9302984476089478,
+            "Type": "LOCATION",
+            "Text": "Trump Tower",
+            "BeginOffset": 80,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.9710769057273865,
+            "Type": "OTHER",
+            "Text": "https://t.co/YpxLeu0",
+            "BeginOffset": 119,
+            "EndOffset": 139
+        }
+    ]
+}

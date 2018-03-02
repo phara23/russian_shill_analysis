@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.922658383846283,
+            "Type": "PERSON",
+            "Text": "@StefanMolyneux",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9995619058609009,
+            "Type": "PERSON",
+            "Text": "Colin Kaepernick",
+            "BeginOffset": 29,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9995368123054504,
+            "Type": "PERSON",
+            "Text": "Fidel Castro",
+            "BeginOffset": 108,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.8479368090629578,
+            "Type": "PERSON",
+            "Text": "Malcolm X",
+            "BeginOffset": 125,
+            "EndOffset": 134
+        }
+    ]
+}

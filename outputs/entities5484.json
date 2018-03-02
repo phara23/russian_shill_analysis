@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8273675441741943,
+            "Type": "PERSON",
+            "Text": "@jstines3",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.99324631690979,
+            "Type": "PERSON",
+            "Text": "Chuck Woolery",
+            "BeginOffset": 14,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.8538354635238647,
+            "Type": "PERSON",
+            "Text": "TED CRUZ",
+            "BeginOffset": 29,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9705554842948914,
+            "Type": "PERSON",
+            "Text": "Reagan",
+            "BeginOffset": 51,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.6273720860481262,
+            "Type": "PERSON",
+            "Text": "#CruzCrew",
+            "BeginOffset": 85,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.9840519428253174,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 119,
+            "EndOffset": 123
+        },
+        {
+            "Score": 0.9844772815704346,
+            "Type": "OTHER",
+            "Text": "https://t.co/Vi",
+            "BeginOffset": 124,
+            "EndOffset": 139
+        }
+    ]
+}

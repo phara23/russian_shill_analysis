@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8827052712440491,
+            "Type": "PERSON",
+            "Text": "@jonvoight",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.947973370552063,
+            "Type": "ORGANIZATION",
+            "Text": "Republican",
+            "BeginOffset": 22,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9989995956420898,
+            "Type": "PERSON",
+            "Text": "Robert DeNiro",
+            "BeginOffset": 49,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9998409152030945,
+            "Type": "PERSON",
+            "Text": "Hilary Clinton",
+            "BeginOffset": 78,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.9991157054901123,
+            "Type": "PERSON",
+            "Text": "Barack Obama",
+            "BeginOffset": 96,
+            "EndOffset": 108
+        }
+    ]
+}

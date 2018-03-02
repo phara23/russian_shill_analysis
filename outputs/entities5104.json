@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5245571136474609,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8399684429168701,
+            "Type": "PERSON",
+            "Text": "@Pen_Air",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9961225390434265,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 13,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.9288418292999268,
+            "Type": "QUANTITY",
+            "Text": "5 000 000+ dollars",
+            "BeginOffset": 26,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.3700956702232361,
+            "Type": "PERSON",
+            "Text": "Saudis",
+            "BeginOffset": 50,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9994845390319824,
+            "Type": "OTHER",
+            "Text": "https://t.co/KoQnalhDfj",
+            "BeginOffset": 104,
+            "EndOffset": 127
+        }
+    ]
+}

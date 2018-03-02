@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8624266982078552,
+            "Type": "PERSON",
+            "Text": "@MrNegroMilitant",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.896156370639801,
+            "Type": "ORGANIZATION",
+            "Text": "Muslims",
+            "BeginOffset": 21,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.7777345180511475,
+            "Type": "ORGANIZATION",
+            "Text": "White House",
+            "BeginOffset": 38,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9997581839561462,
+            "Type": "OTHER",
+            "Text": "https://t.co/2pIMo601wD",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        }
+    ]
+}

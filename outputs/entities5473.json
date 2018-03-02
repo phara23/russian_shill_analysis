@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.863187313079834,
+            "Type": "PERSON",
+            "Text": "@Big6domino",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9283941984176636,
+            "Type": "PERSON",
+            "Text": "@LimeypamPamela",
+            "BeginOffset": 16,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9595774412155151,
+            "Type": "PERSON",
+            "Text": "@handsup_LA",
+            "BeginOffset": 32,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9169951677322388,
+            "Type": "PERSON",
+            "Text": "@OnlyTruthReign",
+            "BeginOffset": 44,
+            "EndOffset": 59
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "Entities": [
+        {
+            "Score": 0.851545512676239,
+            "Type": "PERSON",
+            "Text": "@dijoni",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9220133423805237,
+            "Type": "PERSON",
+            "Text": "@Fresh_Flames1",
+            "BeginOffset": 12,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9905153512954712,
+            "Type": "PERSON",
+            "Text": "@Heathen57",
+            "BeginOffset": 27,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.997918426990509,
+            "Type": "PERSON",
+            "Text": "@genedavis47",
+            "BeginOffset": 38,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9381890892982483,
+            "Type": "PERSON",
+            "Text": "@SpeaksAbigail",
+            "BeginOffset": 51,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9631639719009399,
+            "Type": "PERSON",
+            "Text": "@MzNatTurner",
+            "BeginOffset": 66,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.9909062385559082,
+            "Type": "PERSON",
+            "Text": "@Ricco_suave300",
+            "BeginOffset": 79,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.9936120510101318,
+            "Type": "PERSON",
+            "Text": "@awsomesauce2342",
+            "BeginOffset": 95,
+            "EndOffset": 111
+        },
+        {
+            "Score": 0.9653177857398987,
+            "Type": "PERSON",
+            "Text": "@SusieNattibree",
+            "BeginOffset": 112,
+            "EndOffset": 127
+        },
+        {
+            "Score": 0.9092392921447754,
+            "Type": "PERSON",
+            "Text": "@MsKTweetsT",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

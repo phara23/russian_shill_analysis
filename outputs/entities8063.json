@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9733934998512268,
+            "Type": "PERSON",
+            "Text": "@JournoJoshua",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9990536570549011,
+            "Type": "PERSON",
+            "Text": "John Stewart",
+            "BeginOffset": 48,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9997534155845642,
+            "Type": "OTHER",
+            "Text": "https://t.co/ztvphhhvzh",
+            "BeginOffset": 83,
+            "EndOffset": 106
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9033385515213013,
+            "Type": "PERSON",
+            "Text": "@autodog5150",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9484920501708984,
+            "Type": "PERSON",
+            "Text": "Bristol Palin",
+            "BeginOffset": 17,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9992455840110779,
+            "Type": "PERSON",
+            "Text": "Kathy Griffin",
+            "BeginOffset": 73,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9912729859352112,
+            "Type": "PERSON",
+            "Text": "Megyn Kelly",
+            "BeginOffset": 114,
+            "EndOffset": 125
+        },
+        {
+            "Score": 0.8636422157287598,
+            "Type": "OTHER",
+            "Text": "https://t.co",
+            "BeginOffset": 127,
+            "EndOffset": 139
+        }
+    ]
+}

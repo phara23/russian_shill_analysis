@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8043458461761475,
+            "Type": "PERSON",
+            "Text": "@chadsdaddy",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9137822985649109,
+            "Type": "PERSON",
+            "Text": "@SonofLiberty357",
+            "BeginOffset": 16,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9874721169471741,
+            "Type": "PERSON",
+            "Text": "@DMull71421",
+            "BeginOffset": 33,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.6764830350875854,
+            "Type": "ORGANIZATION",
+            "Text": "KKK Democrats",
+            "BeginOffset": 64,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9848641753196716,
+            "Type": "ORGANIZATION",
+            "Text": "Republicans",
+            "BeginOffset": 79,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.8122580647468567,
+            "Type": "OTHER",
+            "Text": "https://t.co/SX0uwmFu28",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        },
+        {
+            "Score": 0.6688485741615295,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 127,
+            "EndOffset": 136
+        }
+    ]
+}

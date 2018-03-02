@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9704398512840271,
+            "Type": "PERSON",
+            "Text": "@_kim37",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.8980744481086731,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 40,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9999644756317139,
+            "Type": "OTHER",
+            "Text": "https://t.co/66vJLl0Tti",
+            "BeginOffset": 72,
+            "EndOffset": 95
+        }
+    ]
+}

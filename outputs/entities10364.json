@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7307214140892029,
+            "Type": "PERSON",
+            "Text": "@GreatAmericaPAC",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9359524846076965,
+            "Type": "PERSON",
+            "Text": "Rudy",
+            "BeginOffset": 21,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9994940757751465,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 53,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.46027234196662903,
+            "Type": "ORGANIZATION",
+            "Text": "Islamic",
+            "BeginOffset": 103,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.9964750409126282,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 125,
+            "EndOffset": 130
+        }
+    ]
+}

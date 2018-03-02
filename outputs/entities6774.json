@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.827785074710846,
+            "Type": "PERSON",
+            "Text": "@immigrant4trump",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9942291975021362,
+            "Type": "PERSON",
+            "Text": "Tom Brady",
+            "BeginOffset": 43,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.977944552898407,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 71,
+            "EndOffset": 76
+        }
+    ]
+}

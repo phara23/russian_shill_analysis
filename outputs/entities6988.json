@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9698827266693115,
+            "Type": "PERSON",
+            "Text": "@mike_pence",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.6807404160499573,
+            "Type": "ORGANIZATION",
+            "Text": "GOP HQ",
+            "BeginOffset": 58,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9701031446456909,
+            "Type": "LOCATION",
+            "Text": "NC",
+            "BeginOffset": 68,
+            "EndOffset": 70
+        }
+    ]
+}

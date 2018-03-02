@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8175494074821472,
+            "Type": "PERSON",
+            "Text": "@adept2u",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9994685649871826,
+            "Type": "PERSON",
+            "Text": "Michelle Obama",
+            "BeginOffset": 13,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.7602980732917786,
+            "Type": "PERSON",
+            "Text": "President 2020",
+            "BeginOffset": 32,
+            "EndOffset": 46
+        }
+    ]
+}

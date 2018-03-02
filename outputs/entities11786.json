@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9986543655395508,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 33,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.38465240597724915,
+            "Type": "PERSON",
+            "Text": "#Trump",
+            "BeginOffset": 71,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9845202565193176,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 77,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.4363286793231964,
+            "Type": "PERSON",
+            "Text": "#ObamaOut",
+            "BeginOffset": 82,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.9522561430931091,
+            "Type": "OTHER",
+            "Text": "https://t.co/z8V6dlBdnS",
+            "BeginOffset": 92,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.9999735355377197,
+            "Type": "OTHER",
+            "Text": "https://t.co/THzlZ6uEFb",
+            "BeginOffset": 116,
+            "EndOffset": 139
+        }
+    ]
+}

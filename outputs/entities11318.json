@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8965135812759399,
+            "Type": "PERSON",
+            "Text": "@tabishch",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.6774431467056274,
+            "Type": "EVENT",
+            "Text": "WWE Fastlane 2017",
+            "BeginOffset": 14,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9345823526382446,
+            "Type": "PERSON",
+            "Text": "Roman Reigns",
+            "BeginOffset": 53,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.8360875844955444,
+            "Type": "ORGANIZATION",
+            "Text": "WWE",
+            "BeginOffset": 94,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.8894914388656616,
+            "Type": "OTHER",
+            "Text": "#Tashify.com",
+            "BeginOffset": 108,
+            "EndOffset": 120
+        }
+    ]
+}

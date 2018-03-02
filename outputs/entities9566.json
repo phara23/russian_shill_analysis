@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8740847110748291,
+            "Type": "PERSON",
+            "Text": "@zerohedge",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9560295343399048,
+            "Type": "ORGANIZATION",
+            "Text": "Bank of Italy",
+            "BeginOffset": 15,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.7683734893798828,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 62,
+            "EndOffset": 67
+        }
+    ]
+}

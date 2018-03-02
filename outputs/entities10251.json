@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9017540812492371,
+            "Type": "PERSON",
+            "Text": "@hughhewitt",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8692489862442017,
+            "Type": "PERSON",
+            "Text": "@seanspicer",
+            "BeginOffset": 39,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9448288083076477,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 86,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.9970101118087769,
+            "Type": "OTHER",
+            "Text": "https://t.co/RjTCAKeJ0e",
+            "BeginOffset": 104,
+            "EndOffset": 127
+        }
+    ]
+}

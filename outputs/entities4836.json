@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7180855870246887,
+            "Type": "PERSON",
+            "Text": "@truthglow",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.979000985622406,
+            "Type": "PERSON",
+            "Text": "@Paulhaider74",
+            "BeginOffset": 15,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9880597591400146,
+            "Type": "PERSON",
+            "Text": "@rosevine3",
+            "BeginOffset": 29,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.7070126533508301,
+            "Type": "PERSON",
+            "Text": "@VP",
+            "BeginOffset": 40,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9061703085899353,
+            "Type": "PERSON",
+            "Text": "@TheDemocrats",
+            "BeginOffset": 44,
+            "EndOffset": 57
+        }
+    ]
+}

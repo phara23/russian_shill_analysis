@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7376007437705994,
+            "Type": "ORGANIZATION",
+            "Text": "@twitter",
+            "BeginOffset": 23,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9198237061500549,
+            "Type": "PERSON",
+            "Text": "Hillary Rotten Clinton",
+            "BeginOffset": 40,
+            "EndOffset": 62
+        }
+    ]
+}

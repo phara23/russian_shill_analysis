@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8529227375984192,
+            "Type": "PERSON",
+            "Text": "@chiefplan1",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.967814564704895,
+            "Type": "PERSON",
+            "Text": "Donnie",
+            "BeginOffset": 57,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.957579493522644,
+            "Type": "PERSON",
+            "Text": "Darth",
+            "BeginOffset": 86,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.9597861766815186,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 112,
+            "EndOffset": 128
+        }
+    ]
+}

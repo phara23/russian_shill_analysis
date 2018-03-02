@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8640881180763245,
+            "Type": "PERSON",
+            "Text": "@FreeBeacon",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8758599162101746,
+            "Type": "PERSON",
+            "Text": "@RandPaul",
+            "BeginOffset": 24,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.3836606442928314,
+            "Type": "ORGANIZATION",
+            "Text": "#NSA",
+            "BeginOffset": 63,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9741083383560181,
+            "Type": "OTHER",
+            "Text": "http://t.co/oFreQ3dPsv",
+            "BeginOffset": 68,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.726660430431366,
+            "Type": "ORGANIZATION",
+            "Text": "@alanagoodman",
+            "BeginOffset": 95,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.9998481273651123,
+            "Type": "OTHER",
+            "Text": "http://t.co/OrtIxWSvb6",
+            "BeginOffset": 109,
+            "EndOffset": 131
+        }
+    ]
+}

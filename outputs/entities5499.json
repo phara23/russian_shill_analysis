@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8247683644294739,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9771810173988342,
+            "Type": "PERSON",
+            "Text": "@Crystal1Johnson",
+            "BeginOffset": 14,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.8167620897293091,
+            "Type": "QUANTITY",
+            "Text": "2/2",
+            "BeginOffset": 60,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.8742574453353882,
+            "Type": "OTHER",
+            "Text": "https://t.co/Ywvug7KZaA",
+            "BeginOffset": 64,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.9999939203262329,
+            "Type": "OTHER",
+            "Text": "https://t.co/KOO66XChcU",
+            "BeginOffset": 88,
+            "EndOffset": 111
+        }
+    ]
+}

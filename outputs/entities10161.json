@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.981667697429657,
+            "Type": "PERSON",
+            "Text": "@jason_howerton",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9986168146133423,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 40,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.7461687922477722,
+            "Type": "PERSON",
+            "Text": "@ border",
+            "BeginOffset": 70,
+            "EndOffset": 78
+        }
+    ]
+}

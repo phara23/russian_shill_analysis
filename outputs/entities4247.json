@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8012071251869202,
+            "Type": "PERSON",
+            "Text": "@SnowfallFX",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.999620258808136,
+            "Type": "PERSON",
+            "Text": "John Singleton",
+            "BeginOffset": 62,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.6011114120483398,
+            "Type": "ORGANIZATION",
+            "Text": "#SnowfallFX",
+            "BeginOffset": 78,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.8026553392410278,
+            "Type": "DATE",
+            "Text": "WEDNESDAY at 10p.",
+            "BeginOffset": 100,
+            "EndOffset": 117
+        },
+        {
+            "Score": 0.9568545818328857,
+            "Type": "OTHER",
+            "Text": "https://t.co/NA6MnB",
+            "BeginOffset": 118,
+            "EndOffset": 137
+        }
+    ]
+}

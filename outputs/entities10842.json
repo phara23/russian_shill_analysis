@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5378553867340088,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.9409977197647095,
+            "Type": "PERSON",
+            "Text": "@Smith_Bill",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        }
+    ]
+}

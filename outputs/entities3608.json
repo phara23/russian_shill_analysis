@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8133844137191772,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.7072721123695374,
+            "Type": "PERSON",
+            "Text": "Neely Fuller",
+            "BeginOffset": 13,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9485294818878174,
+            "Type": "OTHER",
+            "Text": "https://t.co/WaqxO5aPJK",
+            "BeginOffset": 62,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.7623369097709656,
+            "Type": "PERSON",
+            "Text": "@VictorOfRWS",
+            "BeginOffset": 86,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.9998264908790588,
+            "Type": "OTHER",
+            "Text": "https://t.co/JmDcwqdkv4",
+            "BeginOffset": 99,
+            "EndOffset": 122
+        }
+    ]
+}

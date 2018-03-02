@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8703150749206543,
+            "Type": "PERSON",
+            "Text": "@truthdetector15",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9929948449134827,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 21,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9874633550643921,
+            "Type": "LOCATION",
+            "Text": "Greece",
+            "BeginOffset": 54,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9713919758796692,
+            "Type": "OTHER",
+            "Text": "https://t.co/QCZw6YXzal",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        }
+    ]
+}

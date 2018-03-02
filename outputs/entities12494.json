@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7799909114837646,
+            "Type": "PERSON",
+            "Text": "@Pulpiteer",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.5503383874893188,
+            "Type": "QUANTITY",
+            "Text": "100",
+            "BeginOffset": 24,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.7417746782302856,
+            "Type": "ORGANIZATION",
+            "Text": "Russia",
+            "BeginOffset": 121,
+            "EndOffset": 127
+        }
+    ]
+}

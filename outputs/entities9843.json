@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7537901401519775,
+            "Type": "PERSON",
+            "Text": "@msjbe20",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9766172170639038,
+            "Type": "PERSON",
+            "Text": "Comrade Chaffetz",
+            "BeginOffset": 14,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9834677577018738,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 74,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.6892358660697937,
+            "Type": "LOCATION",
+            "Text": "Russia",
+            "BeginOffset": 82,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9849545955657959,
+            "Type": "OTHER",
+            "Text": "https://t.co/9FDFU3h54o",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.39972054958343506,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 130,
+            "EndOffset": 133
+        }
+    ]
+}

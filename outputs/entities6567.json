@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8326601386070251,
+            "Type": "PERSON",
+            "Text": "@KCityDaily",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.5676141381263733,
+            "Type": "ORGANIZATION",
+            "Text": "MLB",
+            "BeginOffset": 24,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9685986042022705,
+            "Type": "QUANTITY",
+            "Text": "7 players",
+            "BeginOffset": 40,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9373742341995239,
+            "Type": "ORGANIZATION",
+            "Text": "Royals",
+            "BeginOffset": 56,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9875140190124512,
+            "Type": "ORGANIZATION",
+            "Text": "White Sox",
+            "BeginOffset": 64,
+            "EndOffset": 73
+        }
+    ]
+}

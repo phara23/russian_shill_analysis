@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.91684889793396,
+            "Type": "PERSON",
+            "Text": "@marklevinshow",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6721700429916382,
+            "Type": "PERSON",
+            "Text": "Corker",
+            "BeginOffset": 19,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9999737739562988,
+            "Type": "OTHER",
+            "Text": "https://t.co/iFITOr2BYP",
+            "BeginOffset": 40,
+            "EndOffset": 63
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9001196622848511,
+            "Type": "PERSON",
+            "Text": "@aduanebrown",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9996345639228821,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 17,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9920329451560974,
+            "Type": "TITLE",
+            "Text": "Obamacare",
+            "BeginOffset": 46,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.8811962604522705,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 77,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.9989271759986877,
+            "Type": "TITLE",
+            "Text": "Obamacare",
+            "BeginOffset": 118,
+            "EndOffset": 127
+        }
+    ]
+}

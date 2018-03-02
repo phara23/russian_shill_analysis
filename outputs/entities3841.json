@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9273635149002075,
+            "Type": "PERSON",
+            "Text": "@courtneyharrell",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.6530247926712036,
+            "Type": "OTHER",
+            "Text": "#15",
+            "BeginOffset": 29,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.8943483233451843,
+            "Type": "TITLE",
+            "Text": "iTunes",
+            "BeginOffset": 36,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9697861075401306,
+            "Type": "OTHER",
+            "Text": "https://t.co/hdhS81Mt2l",
+            "BeginOffset": 68,
+            "EndOffset": 91
+        }
+    ]
+}

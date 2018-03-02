@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.824820339679718,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.6994649171829224,
+            "Type": "PERSON",
+            "Text": "@DailyGist_",
+            "BeginOffset": 14,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9295166730880737,
+            "Type": "PERSON",
+            "Text": "President Buhari",
+            "BeginOffset": 53,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9999524354934692,
+            "Type": "OTHER",
+            "Text": "https://t.co/sJvI6LsDV8",
+            "BeginOffset": 110,
+            "EndOffset": 133
+        }
+    ]
+}

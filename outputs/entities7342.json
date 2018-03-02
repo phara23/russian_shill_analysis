@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.851040780544281,
+            "Type": "PERSON",
+            "Text": "@angelicabastien",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.7575955986976624,
+            "Type": "TITLE",
+            "Text": "Wonder Woman",
+            "BeginOffset": 62,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.8842385411262512,
+            "Type": "PERSON",
+            "Text": "@SonofBaldwin",
+            "BeginOffset": 108,
+            "EndOffset": 121
+        },
+        {
+            "Score": 0.986382246017456,
+            "Type": "PERSON",
+            "Text": "@alexdecampi",
+            "BeginOffset": 126,
+            "EndOffset": 138
+        }
+    ]
+}

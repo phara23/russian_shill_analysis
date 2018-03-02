@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.76820307970047,
+            "Type": "PERSON",
+            "Text": "@TheEconomist",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8104723691940308,
+            "Type": "LOCATION",
+            "Text": "Poland",
+            "BeginOffset": 18,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.680637538433075,
+            "Type": "ORGANIZATION",
+            "Text": "EU",
+            "BeginOffset": 48,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.7768968939781189,
+            "Type": "OTHER",
+            "Text": "https://t.co/ZL0ydReu2k",
+            "BeginOffset": 101,
+            "EndOffset": 124
+        },
+        {
+            "Score": 0.9404692053794861,
+            "Type": "OTHER",
+            "Text": "https://t.co/i",
+            "BeginOffset": 125,
+            "EndOffset": 139
+        }
+    ]
+}

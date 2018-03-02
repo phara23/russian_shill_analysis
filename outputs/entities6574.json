@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8362911939620972,
+            "Type": "PERSON",
+            "Text": "@Roses_4_Thorns",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.91365647315979,
+            "Type": "LOCATION",
+            "Text": "Westminster",
+            "BeginOffset": 54,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.7317501306533813,
+            "Type": "PERSON",
+            "Text": "Khalid Masood #terrorism",
+            "BeginOffset": 82,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.9889339208602905,
+            "Type": "OTHER",
+            "Text": "https://t.co/iAxq2POWKw",
+            "BeginOffset": 109,
+            "EndOffset": 132
+        },
+        {
+            "Score": 0.937528669834137,
+            "Type": "PERSON",
+            "Text": "Zer",
+            "BeginOffset": 136,
+            "EndOffset": 139
+        }
+    ]
+}

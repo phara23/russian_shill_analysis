@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9628821611404419,
+            "Type": "PERSON",
+            "Text": "Heinlein",
+            "BeginOffset": 39,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9980459213256836,
+            "Type": "PERSON",
+            "Text": "Clarke",
+            "BeginOffset": 51,
+            "EndOffset": 57
+        }
+    ]
+}

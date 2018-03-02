@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9784770607948303,
+            "Type": "DATE",
+            "Text": "today",
+            "BeginOffset": 63,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.8293121457099915,
+            "Type": "PERSON",
+            "Text": "Francis Of Assisi",
+            "BeginOffset": 72,
+            "EndOffset": 89
+        }
+    ]
+}

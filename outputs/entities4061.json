@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6642376780509949,
+            "Type": "ORGANIZATION",
+            "Text": "@PolincoNews",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9987202286720276,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 66,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.8299136757850647,
+            "Type": "ORGANIZATION",
+            "Text": "Fraternal Order of Police",
+            "BeginOffset": 98,
+            "EndOffset": 123
+        },
+        {
+            "Score": 0.6259121298789978,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 130,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6332626938819885,
+            "Type": "PERSON",
+            "Text": "@pmatas",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.8910267949104309,
+            "Type": "PERSON",
+            "Text": "Shia LaBeouf",
+            "BeginOffset": 12,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.8801619410514832,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 45,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9998712539672852,
+            "Type": "OTHER",
+            "Text": "https://t.co/AT826KEqr5",
+            "BeginOffset": 73,
+            "EndOffset": 96
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.588723361492157,
+            "Type": "ORGANIZATION",
+            "Text": "@100",
+            "BeginOffset": 3,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.8830455541610718,
+            "Type": "QUANTITY",
+            "Text": "6 SYRIAN",
+            "BeginOffset": 18,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.7054834365844727,
+            "Type": "QUANTITY",
+            "Text": "1 LIBYAN MIGRANT ARRESTED",
+            "BeginOffset": 28,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9997628331184387,
+            "Type": "OTHER",
+            "Text": "https://t.co/jfVEDoavX3",
+            "BeginOffset": 98,
+            "EndOffset": 121
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.996668815612793,
+            "Type": "PERSON",
+            "Text": "@Jenn_Abrams",
+            "BeginOffset": 0,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.6931862235069275,
+            "Type": "QUANTITY",
+            "Text": "15",
+            "BeginOffset": 33,
+            "EndOffset": 35
+        }
+    ]
+}

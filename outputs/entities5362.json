@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8227103352546692,
+            "Type": "PERSON",
+            "Text": "@futuremorrison",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8753620386123657,
+            "Type": "QUANTITY",
+            "Text": "3 day",
+            "BeginOffset": 20,
+            "EndOffset": 25
+        }
+    ]
+}

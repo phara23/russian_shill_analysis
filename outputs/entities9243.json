@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8036190867424011,
+            "Type": "PERSON",
+            "Text": "@TheNicoleComer",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.5819849371910095,
+            "Type": "PERSON",
+            "Text": "#JohnMcCain",
+            "BeginOffset": 34,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.6896955370903015,
+            "Type": "QUANTITY",
+            "Text": "2 press l",
+            "BeginOffset": 134,
+            "EndOffset": 143
+        }
+    ]
+}

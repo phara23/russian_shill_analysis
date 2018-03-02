@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9646689891815186,
+            "Type": "PERSON",
+            "Text": "@DanielQuantz",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7947003245353699,
+            "Type": "ORGANIZATION",
+            "Text": "Democratic",
+            "BeginOffset": 34,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9998670816421509,
+            "Type": "OTHER",
+            "Text": "https://t.co/I7FZfmNgCA",
+            "BeginOffset": 57,
+            "EndOffset": 80
+        }
+    ]
+}

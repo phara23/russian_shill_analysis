@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8946089148521423,
+            "Type": "PERSON",
+            "Text": "@KThomasDC",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9932584762573242,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 15,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9965338706970215,
+            "Type": "COMMERCIAL_ITEM",
+            "Text": "iPad",
+            "BeginOffset": 33,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.8662071824073792,
+            "Type": "PERSON",
+            "Text": "@jackgillum",
+            "BeginOffset": 81,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.9998002648353577,
+            "Type": "OTHER",
+            "Text": "http://t.co/ouwkGOSOvH",
+            "BeginOffset": 94,
+            "EndOffset": 116
+        }
+    ]
+}

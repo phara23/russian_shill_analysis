@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8989929556846619,
+            "Type": "PERSON",
+            "Text": "@skb_sara",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9996286630630493,
+            "Type": "OTHER",
+            "Text": "https://t.co/jPVxBFQx0F",
+            "BeginOffset": 14,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9798367619514465,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 66,
+            "EndOffset": 71
+        }
+    ]
+}

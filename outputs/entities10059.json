@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7986299395561218,
+            "Type": "PERSON",
+            "Text": "@TheTrueLoveIII",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9117266535758972,
+            "Type": "PERSON",
+            "Text": "@dixiefortrump",
+            "BeginOffset": 20,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.6067270636558533,
+            "Type": "QUANTITY",
+            "Text": "2 follow",
+            "BeginOffset": 132,
+            "EndOffset": 140
+        }
+    ]
+}

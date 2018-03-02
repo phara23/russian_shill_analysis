@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7675874829292297,
+            "Type": "PERSON",
+            "Text": "@gatewaypundit",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7749336957931519,
+            "Type": "ORGANIZATION",
+            "Text": "@FOXNews",
+            "BeginOffset": 38,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.868506669998169,
+            "Type": "PERSON",
+            "Text": "TRUMP",
+            "BeginOffset": 62,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9710656404495239,
+            "Type": "DATE",
+            "Text": "today",
+            "BeginOffset": 114,
+            "EndOffset": 119
+        }
+    ]
+}

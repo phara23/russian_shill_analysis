@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9308639764785767,
+            "Type": "PERSON",
+            "Text": "Martin Luther King",
+            "BeginOffset": 16,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9994255304336548,
+            "Type": "OTHER",
+            "Text": "https://t.co/hfEIZu7Ujr",
+            "BeginOffset": 89,
+            "EndOffset": 112
+        }
+    ]
+}

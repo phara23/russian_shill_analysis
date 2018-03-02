@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8056323528289795,
+            "Type": "PERSON",
+            "Text": "@LadyLiberTea",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.6668520569801331,
+            "Type": "ORGANIZATION",
+            "Text": "@POTUS",
+            "BeginOffset": 19,
+            "EndOffset": 25
+        }
+    ]
+}

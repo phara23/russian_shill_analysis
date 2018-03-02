@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.966654896736145,
+            "Type": "PERSON",
+            "Text": "@iamJahPrince",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8407573103904724,
+            "Type": "DATE",
+            "Text": "10:00",
+            "BeginOffset": 96,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.5586629509925842,
+            "Type": "DATE",
+            "Text": "midnight",
+            "BeginOffset": 104,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.9999196529388428,
+            "Type": "OTHER",
+            "Text": "https://t.co/wLIDVmW052",
+            "BeginOffset": 114,
+            "EndOffset": 137
+        }
+    ]
+}

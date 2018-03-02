@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7346707582473755,
+            "Type": "QUANTITY",
+            "Text": "Second Amendment",
+            "BeginOffset": 92,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.9480587840080261,
+            "Type": "LOCATION",
+            "Text": "California",
+            "BeginOffset": 120,
+            "EndOffset": 130
+        }
+    ]
+}

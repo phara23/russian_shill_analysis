@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7555950284004211,
+            "Type": "PERSON",
+            "Text": "@ShoutoutNetwork",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9495006203651428,
+            "Type": "QUANTITY",
+            "Text": "20 Huge Animals",
+            "BeginOffset": 21,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9997879862785339,
+            "Type": "OTHER",
+            "Text": "https://t.co/dljnhCKr2o",
+            "BeginOffset": 59,
+            "EndOffset": 82
+        }
+    ]
+}

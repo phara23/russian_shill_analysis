@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9577327966690063,
+            "Type": "PERSON",
+            "Text": "@josephlawler",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9092286229133606,
+            "Type": "ORGANIZATION",
+            "Text": "Harvard Kennedy School",
+            "BeginOffset": 58,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.9900686144828796,
+            "Type": "OTHER",
+            "Text": "http://t.co/3cx7zrmCMX",
+            "BeginOffset": 81,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.9330463409423828,
+            "Type": "ORGANIZATION",
+            "Text": "@DCExaminer",
+            "BeginOffset": 108,
+            "EndOffset": 119
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8241968154907227,
+            "Type": "PERSON",
+            "Text": "@DCClothesline",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7665408849716187,
+            "Type": "ORGANIZATION",
+            "Text": "Arab TV",
+            "BeginOffset": 40,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9576597213745117,
+            "Type": "QUANTITY",
+            "Text": "1,400",
+            "BeginOffset": 100,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.8919205069541931,
+            "Type": "OTHER",
+            "Text": "https://t.co/v9ZaCwmQ1H",
+            "BeginOffset": 107,
+            "EndOffset": 130
+        },
+        {
+            "Score": 0.8357662558555603,
+            "Type": "OTHER",
+            "Text": "https://…",
+            "BeginOffset": 131,
+            "EndOffset": 140
+        }
+    ]
+}

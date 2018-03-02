@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9202455282211304,
+            "Type": "PERSON",
+            "Text": "@true_pundit",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9926866292953491,
+            "Type": "ORGANIZATION",
+            "Text": "#Facebook",
+            "BeginOffset": 44,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9859170317649841,
+            "Type": "OTHER",
+            "Text": "https://t.co/xuC0vBs3vB",
+            "BeginOffset": 120,
+            "EndOffset": 143
+        }
+    ]
+}

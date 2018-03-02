@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9542146921157837,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 5,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.4120015501976013,
+            "Type": "ORGANIZATION",
+            "Text": "DC",
+            "BeginOffset": 33,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9043949842453003,
+            "Type": "OTHER",
+            "Text": "https://t.co/MHlYlSgqQs",
+            "BeginOffset": 46,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.999962568283081,
+            "Type": "OTHER",
+            "Text": "https://t.co/eNx5ztBBYr",
+            "BeginOffset": 70,
+            "EndOffset": 93
+        }
+    ]
+}

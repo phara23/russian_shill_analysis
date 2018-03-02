@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8004171252250671,
+            "Type": "PERSON",
+            "Text": "@ConcrndFthrPrep",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9167550206184387,
+            "Type": "PERSON",
+            "Text": "@ThePatriot143",
+            "BeginOffset": 21,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.8616748452186584,
+            "Type": "ORGANIZATION",
+            "Text": "@CNN",
+            "BeginOffset": 36,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9164063930511475,
+            "Type": "ORGANIZATION",
+            "Text": "@MSNBC",
+            "BeginOffset": 41,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.8495502471923828,
+            "Type": "ORGANIZATION",
+            "Text": "@col_nj",
+            "BeginOffset": 48,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.8057442307472229,
+            "Type": "PERSON",
+            "Text": "@NeilTurner_",
+            "BeginOffset": 56,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9610404968261719,
+            "Type": "PERSON",
+            "Text": "@immigrant4trump",
+            "BeginOffset": 69,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.8911414742469788,
+            "Type": "PERSON",
+            "Text": "@hrtablaze",
+            "BeginOffset": 86,
+            "EndOffset": 96
+        }
+    ]
+}

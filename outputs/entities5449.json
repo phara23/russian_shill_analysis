@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8849108219146729,
+            "Type": "PERSON",
+            "Text": "@AmericanMex067",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.5025314688682556,
+            "Type": "QUANTITY",
+            "Text": "16",
+            "BeginOffset": 135,
+            "EndOffset": 137
+        }
+    ]
+}

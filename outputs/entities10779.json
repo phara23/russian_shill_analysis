@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7920860648155212,
+            "Type": "PERSON",
+            "Text": "@SpecialAffair",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9528475999832153,
+            "Type": "PERSON",
+            "Text": "Buffett",
+            "BeginOffset": 29,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.6833884716033936,
+            "Type": "QUANTITY",
+            "Text": "50th annual",
+            "BeginOffset": 62,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.999765932559967,
+            "Type": "OTHER",
+            "Text": "http://t.co/Z9qCBWnToC",
+            "BeginOffset": 82,
+            "EndOffset": 104
+        }
+    ]
+}

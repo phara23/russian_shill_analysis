@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9020923972129822,
+            "Type": "PERSON",
+            "Text": "@abbydphillip",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9988237023353577,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 22,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.983867347240448,
+            "Type": "QUANTITY",
+            "Text": "1,000 jobs",
+            "BeginOffset": 50,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9950670003890991,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 66,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9930822849273682,
+            "Type": "QUANTITY",
+            "Text": "16 million",
+            "BeginOffset": 84,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.9999731779098511,
+            "Type": "OTHER",
+            "Text": "https://t.co/w8YEJz29hT",
+            "BeginOffset": 95,
+            "EndOffset": 118
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9096569418907166,
+            "Type": "PERSON",
+            "Text": "@MatthewACherry",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9963449835777283,
+            "Type": "PERSON",
+            "Text": "Nelsan Ellis",
+            "BeginOffset": 34,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9998539686203003,
+            "Type": "OTHER",
+            "Text": "https://t.co/MrPyr8LFmv",
+            "BeginOffset": 63,
+            "EndOffset": 86
+        }
+    ]
+}

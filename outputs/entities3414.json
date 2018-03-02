@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6545112133026123,
+            "Type": "PERSON",
+            "Text": "@UTVReview",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9200153946876526,
+            "Type": "QUANTITY",
+            "Text": "Six plants",
+            "BeginOffset": 15,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9445028901100159,
+            "Type": "OTHER",
+            "Text": "https://t.co/6eRip1M3Dv",
+            "BeginOffset": 80,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.5235119462013245,
+            "Type": "ORGANIZATION",
+            "Text": "#gruccifer2",
+            "BeginOffset": 106,
+            "EndOffset": 117
+        }
+    ]
+}

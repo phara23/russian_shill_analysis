@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8611581325531006,
+            "Type": "PERSON",
+            "Text": "@MiceeMouse",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7820098400115967,
+            "Type": "LOCATION",
+            "Text": "Mexico",
+            "BeginOffset": 20,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9041258692741394,
+            "Type": "PERSON",
+            "Text": "President Nieto",
+            "BeginOffset": 29,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9757319688796997,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 79,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9998341798782349,
+            "Type": "OTHER",
+            "Text": "https://t.co/pv2OGaauLB",
+            "BeginOffset": 94,
+            "EndOffset": 117
+        }
+    ]
+}

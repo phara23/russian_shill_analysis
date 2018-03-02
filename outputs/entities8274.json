@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9439836144447327,
+            "Type": "PERSON",
+            "Text": "@Darren32895836",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9970863461494446,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 23,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.8977790474891663,
+            "Type": "PERSON",
+            "Text": "@BernieSanders",
+            "BeginOffset": 72,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.8345065116882324,
+            "Type": "PERSON",
+            "Text": "Podesta",
+            "BeginOffset": 93,
+            "EndOffset": 100
+        }
+    ]
+}

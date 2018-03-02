@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8095572590827942,
+            "Type": "PERSON",
+            "Text": "@WorldTruthTV",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7516266703605652,
+            "Type": "QUANTITY",
+            "Text": "First Look",
+            "BeginOffset": 33,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.8334226608276367,
+            "Type": "OTHER",
+            "Text": "https://t.co/telXZBWPRi",
+            "BeginOffset": 86,
+            "EndOffset": 109
+        },
+        {
+            "Score": 0.9999880790710449,
+            "Type": "OTHER",
+            "Text": "https://t.co/M3a3Boi3V8",
+            "BeginOffset": 110,
+            "EndOffset": 133
+        }
+    ]
+}

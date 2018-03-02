@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8330551385879517,
+            "Type": "PERSON",
+            "Text": "@WorldTruthTV",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9350575804710388,
+            "Type": "LOCATION",
+            "Text": "Syria",
+            "BeginOffset": 43,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9999918937683105,
+            "Type": "OTHER",
+            "Text": "https://t.co/9XScn2U9pA",
+            "BeginOffset": 68,
+            "EndOffset": 91
+        }
+    ]
+}

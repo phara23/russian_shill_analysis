@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7552191615104675,
+            "Type": "PERSON",
+            "Text": "@Good2bqueen67",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9980199337005615,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 37,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.8206350803375244,
+            "Type": "LOCATION",
+            "Text": "Israel",
+            "BeginOffset": 63,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.5005735158920288,
+            "Type": "PERSON",
+            "Text": "Netanyahu",
+            "BeginOffset": 102,
+            "EndOffset": 111
+        },
+        {
+            "Score": 0.9160749912261963,
+            "Type": "QUANTITY",
+            "Text": "2 deny",
+            "BeginOffset": 122,
+            "EndOffset": 128
+        },
+        {
+            "Score": 0.9230058193206787,
+            "Type": "QUANTITY",
+            "Text": "2\n#Liars",
+            "BeginOffset": 130,
+            "EndOffset": 138
+        }
+    ]
+}

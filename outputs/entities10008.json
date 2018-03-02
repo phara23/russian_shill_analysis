@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7943943738937378,
+            "Type": "PERSON",
+            "Text": "@FFRNewsNet1",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9576613903045654,
+            "Type": "OTHER",
+            "Text": "https://t.co/m0tKU8dWsS",
+            "BeginOffset": 63,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.5882121920585632,
+            "Type": "PERSON",
+            "Text": "#trump",
+            "BeginOffset": 87,
+            "EndOffset": 93
+        }
+    ]
+}

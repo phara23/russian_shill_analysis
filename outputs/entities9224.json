@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9224010705947876,
+            "Type": "PERSON",
+            "Text": "@pharmasean",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9966477751731873,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 27,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9998749494552612,
+            "Type": "OTHER",
+            "Text": "https://t.co/EtotcoFEiO",
+            "BeginOffset": 95,
+            "EndOffset": 118
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.696774423122406,
+            "Type": "PERSON",
+            "Text": "@NeilTurner_",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9041077494621277,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 17,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9310796856880188,
+            "Type": "LOCATION",
+            "Text": "Europe",
+            "BeginOffset": 34,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9999363422393799,
+            "Type": "OTHER",
+            "Text": "https://t.co/BM3UxA7heR",
+            "BeginOffset": 110,
+            "EndOffset": 133
+        }
+    ]
+}

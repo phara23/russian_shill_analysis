@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7444823384284973,
+            "Type": "PERSON",
+            "Text": "@MeninistTweet",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9890936613082886,
+            "Type": "ORGANIZATION",
+            "Text": "Instagram",
+            "BeginOffset": 19,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9656614065170288,
+            "Type": "OTHER",
+            "Text": "https://t.co/D",
+            "BeginOffset": 125,
+            "EndOffset": 139
+        }
+    ]
+}

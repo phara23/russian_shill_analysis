@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9617172479629517,
+            "Type": "LOCATION",
+            "Text": "San Antonio",
+            "BeginOffset": 0,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.980509877204895,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 54,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.9999842643737793,
+            "Type": "OTHER",
+            "Text": "https://t.co/d3I7XUWjkr",
+            "BeginOffset": 60,
+            "EndOffset": 83
+        }
+    ]
+}

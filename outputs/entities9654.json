@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6556435227394104,
+            "Type": "PERSON",
+            "Text": "@Independent",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.993802547454834,
+            "Type": "PERSON",
+            "Text": "JK Rowling",
+            "BeginOffset": 17,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9242177605628967,
+            "Type": "OTHER",
+            "Text": "http://t.co/PDSh4qM9YY",
+            "BeginOffset": 83,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.999819815158844,
+            "Type": "OTHER",
+            "Text": "http://t.co/fHQk9SITHm",
+            "BeginOffset": 106,
+            "EndOffset": 128
+        }
+    ]
+}

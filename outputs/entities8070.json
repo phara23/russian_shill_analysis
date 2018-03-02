@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8624800443649292,
+            "Type": "PERSON",
+            "Text": "@DailyCaller",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.514868974685669,
+            "Type": "PERSON",
+            "Text": "Democratic Rep. Accused",
+            "BeginOffset": 17,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.839454710483551,
+            "Type": "OTHER",
+            "Text": "https://t.co/8vUB7vGj9t",
+            "BeginOffset": 92,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.9994062185287476,
+            "Type": "OTHER",
+            "Text": "https://t.co/gxUTCtYhOa",
+            "BeginOffset": 116,
+            "EndOffset": 139
+        }
+    ]
+}

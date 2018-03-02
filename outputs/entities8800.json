@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9132834076881409,
+            "Type": "PERSON",
+            "Text": "@DrEstella",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9773170351982117,
+            "Type": "ORGANIZATION",
+            "Text": "Congress",
+            "BeginOffset": 54,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.3929125666618347,
+            "Type": "PERSON",
+            "Text": "#HillaryClinton",
+            "BeginOffset": 74,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.9998983144760132,
+            "Type": "OTHER",
+            "Text": "https://t.co/jxcBAI2Kpx",
+            "BeginOffset": 109,
+            "EndOffset": 132
+        }
+    ]
+}

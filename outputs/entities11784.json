@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7160071730613708,
+            "Type": "PERSON",
+            "Text": "@ABCPolitics",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9959248304367065,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 17,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9963296055793762,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 62,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.8831902146339417,
+            "Type": "OTHER",
+            "Text": "https://t.co/7tHgXbLYFc",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        },
+        {
+            "Score": 0.8373818397521973,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 127,
+            "EndOffset": 136
+        }
+    ]
+}

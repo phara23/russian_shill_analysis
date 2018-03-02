@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8444197177886963,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.47170624136924744,
+            "Type": "LOCATION",
+            "Text": "Kenya",
+            "BeginOffset": 13,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.6616528630256653,
+            "Type": "LOCATION",
+            "Text": "Sudan",
+            "BeginOffset": 20,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9419311285018921,
+            "Type": "OTHER",
+            "Text": "https://t.co/3iWcYDjxhj",
+            "BeginOffset": 72,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.876041829586029,
+            "Type": "PERSON",
+            "Text": "@CCTVNewsAfrica",
+            "BeginOffset": 96,
+            "EndOffset": 111
+        },
+        {
+            "Score": 0.9999942779541016,
+            "Type": "OTHER",
+            "Text": "https://t.co/z5XM6jjk3M",
+            "BeginOffset": 112,
+            "EndOffset": 135
+        }
+    ]
+}

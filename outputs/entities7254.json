@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8550652265548706,
+            "Type": "PERSON",
+            "Text": "@d_fucile",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9032101035118103,
+            "Type": "PERSON",
+            "Text": "HILLARY",
+            "BeginOffset": 57,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9998838901519775,
+            "Type": "OTHER",
+            "Text": "https://t.co/K2faqtYoHD",
+            "BeginOffset": 106,
+            "EndOffset": 129
+        }
+    ]
+}

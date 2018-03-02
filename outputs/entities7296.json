@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8324465751647949,
+            "Type": "PERSON",
+            "Text": "@VeryWhiteGuy",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9979144930839539,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 82,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.9510223865509033,
+            "Type": "PERSON",
+            "Text": "@DirtyDeeds08",
+            "BeginOffset": 100,
+            "EndOffset": 113
+        }
+    ]
+}

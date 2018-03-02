@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.820130467414856,
+            "Type": "PERSON",
+            "Text": "@MattKellerABC7",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7024808526039124,
+            "Type": "LOCATION",
+            "Text": "Chynoweth Ave",
+            "BeginOffset": 52,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9826304912567139,
+            "Type": "LOCATION",
+            "Text": "South #SanJose",
+            "BeginOffset": 70,
+            "EndOffset": 84
+        }
+    ]
+}

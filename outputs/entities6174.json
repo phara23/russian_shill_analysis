@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9092229008674622,
+            "Type": "PERSON",
+            "Text": "@mitchellvii",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9988446235656738,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 35,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9948129653930664,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 110,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.9999617338180542,
+            "Type": "OTHER",
+            "Text": "https://t.co/85DroIyGJF",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

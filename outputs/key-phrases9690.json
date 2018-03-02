@@ -1,0 +1,34 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9961184859275818,
+            "Text": "Two new polls",
+            "BeginOffset": 0,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9984718561172485,
+            "Text": "tight race",
+            "BeginOffset": 31,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9977349042892456,
+            "Text": "Ohio",
+            "BeginOffset": 45,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9145575165748596,
+            "Text": "Donald Trump",
+            "BeginOffset": 58,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.6494186520576477,
+            "Text": "Hillary Clinton",
+            "BeginOffset": 75,
+            "EndOffset": 90
+        }
+    ]
+}

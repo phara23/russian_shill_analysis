@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7592387795448303,
+            "Type": "PERSON",
+            "Text": "@HBODocs",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.5912800431251526,
+            "Type": "ORGANIZATION",
+            "Text": "@THR",
+            "BeginOffset": 31,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9468053579330444,
+            "Type": "PERSON",
+            "Text": "@evgeny_director",
+            "BeginOffset": 59,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.8312126994132996,
+            "Type": "DATE",
+            "Text": "tonight",
+            "BeginOffset": 82,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.8968622088432312,
+            "Type": "DATE",
+            "Text": "10",
+            "BeginOffset": 93,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.9604811668395996,
+            "Type": "ORGANIZATION",
+            "Text": "@HBO",
+            "BeginOffset": 99,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.9997929930686951,
+            "Type": "OTHER",
+            "Text": "https://t.co/5BSAe0loZ3",
+            "BeginOffset": 104,
+            "EndOffset": 127
+        }
+    ]
+}

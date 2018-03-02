@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.79874187707901,
+            "Type": "PERSON",
+            "Text": "@theipaper",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8474711775779724,
+            "Type": "EVENT",
+            "Text": "International Men’s Day",
+            "BeginOffset": 15,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9797042608261108,
+            "Type": "DATE",
+            "Text": "1992",
+            "BeginOffset": 58,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9676238894462585,
+            "Type": "OTHER",
+            "Text": "https://t.co/RD5NueBPuH",
+            "BeginOffset": 63,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9999891519546509,
+            "Type": "OTHER",
+            "Text": "https://t.co/bifLZJ8A2a",
+            "BeginOffset": 87,
+            "EndOffset": 110
+        }
+    ]
+}

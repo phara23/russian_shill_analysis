@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9178301095962524,
+            "Type": "PERSON",
+            "Text": "@WayneDupreeShow",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.6336681842803955,
+            "Type": "PERSON",
+            "Text": "Clintons",
+            "BeginOffset": 31,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9556255340576172,
+            "Type": "OTHER",
+            "Text": "https://t.co/GPNyJpQrT0",
+            "BeginOffset": 108,
+            "EndOffset": 131
+        }
+    ]
+}

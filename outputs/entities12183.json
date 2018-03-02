@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8757187724113464,
+            "Type": "PERSON",
+            "Text": "@Reagantonian",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.4966907203197479,
+            "Type": "QUANTITY",
+            "Text": "2 Chronicles",
+            "BeginOffset": 18,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9953275918960571,
+            "Type": "QUANTITY",
+            "Text": "7:14",
+            "BeginOffset": 31,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9506085515022278,
+            "Type": "OTHER",
+            "Text": "https://t.co/rKJmzedJfF",
+            "BeginOffset": 36,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.9371744394302368,
+            "Type": "PERSON",
+            "Text": "@RealDonaldTrump",
+            "BeginOffset": 88,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.9164164066314697,
+            "Type": "PERSON",
+            "Text": "@LfhillM",
+            "BeginOffset": 105,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.986060619354248,
+            "Type": "PERSON",
+            "Text": "@ChuckNellis",
+            "BeginOffset": 114,
+            "EndOffset": 126
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8432869911193848,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.990196943283081,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 13,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9660841226577759,
+            "Type": "OTHER",
+            "Text": "https://t.co/09jAO1USIY",
+            "BeginOffset": 67,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.7405593991279602,
+            "Type": "PERSON",
+            "Text": "@AfroNews",
+            "BeginOffset": 91,
+            "EndOffset": 100
+        }
+    ]
+}

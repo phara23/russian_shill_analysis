@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8634182214736938,
+            "Type": "PERSON",
+            "Text": "@LiberalPhenom",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9441954493522644,
+            "Type": "PERSON",
+            "Text": "President Obama",
+            "BeginOffset": 82,
+            "EndOffset": 97
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.941767156124115,
+            "Type": "PERSON",
+            "Text": "@BrendanNyhan",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.957676112651825,
+            "Type": "PERSON",
+            "Text": "@davidfrum",
+            "BeginOffset": 32,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9981526732444763,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 58,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9998550415039062,
+            "Type": "OTHER",
+            "Text": "https://t.co/5kAsvSZzEK",
+            "BeginOffset": 114,
+            "EndOffset": 137
+        }
+    ]
+}

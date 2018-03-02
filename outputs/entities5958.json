@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8947983384132385,
+            "Type": "PERSON",
+            "Text": "@KZastrau",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.6808765530586243,
+            "Type": "DATE",
+            "Text": "#2017",
+            "BeginOffset": 14,
+            "EndOffset": 19
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9164344072341919,
+            "Type": "PERSON",
+            "Text": "@JoshuaJustice21",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9068527221679688,
+            "Type": "PERSON",
+            "Text": "@KattFunny",
+            "BeginOffset": 21,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9275360703468323,
+            "Type": "QUANTITY",
+            "Text": "more than 2",
+            "BeginOffset": 65,
+            "EndOffset": 76
+        }
+    ]
+}

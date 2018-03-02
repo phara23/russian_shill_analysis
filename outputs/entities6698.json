@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6494495868682861,
+            "Type": "ORGANIZATION",
+            "Text": "@1857Penguin",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8474093079566956,
+            "Type": "PERSON",
+            "Text": "@pbhushan1",
+            "BeginOffset": 17,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.8466278910636902,
+            "Type": "ORGANIZATION",
+            "Text": "@YouTube",
+            "BeginOffset": 28,
+            "EndOffset": 36
+        }
+    ]
+}

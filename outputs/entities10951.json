@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9873901009559631,
+            "Type": "PERSON",
+            "Text": "@jamielynn8282",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7556949257850647,
+            "Type": "QUANTITY",
+            "Text": "both",
+            "BeginOffset": 108,
+            "EndOffset": 112
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9254002571105957,
+            "Type": "ORGANIZATION",
+            "Text": "FBI",
+            "BeginOffset": 9,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8622729182243347,
+            "Type": "QUANTITY",
+            "Text": "14,900",
+            "BeginOffset": 19,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9242873191833496,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 31,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.7812836170196533,
+            "Type": "OTHER",
+            "Text": "https://t.co/S30WAVLtHQ",
+            "BeginOffset": 79,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.9999537467956543,
+            "Type": "OTHER",
+            "Text": "https://t.co/oWCF8B0nGG",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        }
+    ]
+}

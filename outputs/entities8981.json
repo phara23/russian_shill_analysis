@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8694372177124023,
+            "Type": "ORGANIZATION",
+            "Text": "@RT_com",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.34794455766677856,
+            "Type": "ORGANIZATION",
+            "Text": "#Clinton",
+            "BeginOffset": 12,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.7039973735809326,
+            "Type": "ORGANIZATION",
+            "Text": "#WikiLeaks",
+            "BeginOffset": 45,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.3496532440185547,
+            "Type": "ORGANIZATION",
+            "Text": "#Putin",
+            "BeginOffset": 79,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.8877105116844177,
+            "Type": "OTHER",
+            "Text": "https://t.co/cAtrQqpl05",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        },
+        {
+            "Score": 0.9791392683982849,
+            "Type": "OTHER",
+            "Text": "https://t.co",
+            "BeginOffset": 127,
+            "EndOffset": 139
+        }
+    ]
+}

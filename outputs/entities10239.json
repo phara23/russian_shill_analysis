@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9190634489059448,
+            "Type": "PERSON",
+            "Text": "@roycan79",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8586903214454651,
+            "Type": "PERSON",
+            "Text": "@banzaiblog",
+            "BeginOffset": 22,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9772043824195862,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 34,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9897572994232178,
+            "Type": "PERSON",
+            "Text": "@wardamneagle82",
+            "BeginOffset": 72,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.9080645442008972,
+            "Type": "PERSON",
+            "Text": "@Tessryes",
+            "BeginOffset": 88,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.9882305860519409,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 98,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.9593591690063477,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 113,
+            "EndOffset": 120
+        }
+    ]
+}

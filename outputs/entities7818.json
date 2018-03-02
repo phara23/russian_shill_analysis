@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8483293056488037,
+            "Type": "PERSON",
+            "Text": "@SteveWorks4",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7072776556015015,
+            "Type": "ORGANIZATION",
+            "Text": "VA",
+            "BeginOffset": 29,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9999873638153076,
+            "Type": "OTHER",
+            "Text": "https://t.co/PGj73nOscJ",
+            "BeginOffset": 68,
+            "EndOffset": 91
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9018740057945251,
+            "Type": "PERSON",
+            "Text": "@mitchellvii",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9984362721443176,
+            "Type": "PERSON",
+            "Text": "John McCain",
+            "BeginOffset": 17,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9987819790840149,
+            "Type": "PERSON",
+            "Text": "Chuck Schumer",
+            "BeginOffset": 53,
+            "EndOffset": 66
+        }
+    ]
+}

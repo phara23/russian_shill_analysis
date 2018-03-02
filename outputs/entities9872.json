@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7824578285217285,
+            "Type": "PERSON",
+            "Text": "@Meeeedge",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.998030960559845,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 31,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.6112882494926453,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 130,
+            "EndOffset": 139
+        }
+    ]
+}

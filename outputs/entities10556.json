@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8076581954956055,
+            "Type": "PERSON",
+            "Text": "@petulad",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.5679295659065247,
+            "Type": "ORGANIZATION",
+            "Text": "Baltimore",
+            "BeginOffset": 13,
+            "EndOffset": 22
+        }
+    ]
+}

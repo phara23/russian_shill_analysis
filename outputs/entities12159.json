@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8987568020820618,
+            "Type": "PERSON",
+            "Text": "@nine_oh",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9252254366874695,
+            "Type": "OTHER",
+            "Text": "https://t.co/iChLzWqg0Y",
+            "BeginOffset": 29,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.519368588924408,
+            "Type": "ORGANIZATION",
+            "Text": "BDS",
+            "BeginOffset": 53,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.6497879028320312,
+            "Type": "ORGANIZATION",
+            "Text": "DIGITAL TRACKER",
+            "BeginOffset": 58,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.9856300950050354,
+            "Type": "ORGANIZATION",
+            "Text": "ASCAP",
+            "BeginOffset": 76,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.8612388968467712,
+            "Type": "ORGANIZATION",
+            "Text": "BMI",
+            "BeginOffset": 84,
+            "EndOffset": 87
+        }
+    ]
+}

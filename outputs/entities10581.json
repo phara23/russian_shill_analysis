@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8586568832397461,
+            "Type": "PERSON",
+            "Text": "@HawkinsUSA",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9946350455284119,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 26,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.8001452684402466,
+            "Type": "QUANTITY",
+            "Text": "first pitch",
+            "BeginOffset": 51,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9459794163703918,
+            "Type": "EVENT",
+            "Text": "World Series",
+            "BeginOffset": 74,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9999501705169678,
+            "Type": "OTHER",
+            "Text": "https://t.co/nSHD73xzAM",
+            "BeginOffset": 114,
+            "EndOffset": 137
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6692931652069092,
+            "Type": "PERSON",
+            "Text": "@bpolitics",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9993889927864075,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 15,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9659169912338257,
+            "Type": "PERSON",
+            "Text": "President Obama",
+            "BeginOffset": 63,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.8355293869972229,
+            "Type": "OTHER",
+            "Text": "https://t.co/O5yUrRWcah",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        },
+        {
+            "Score": 0.990374743938446,
+            "Type": "OTHER",
+            "Text": "https://t.co/w9NJxd",
+            "BeginOffset": 120,
+            "EndOffset": 139
+        }
+    ]
+}

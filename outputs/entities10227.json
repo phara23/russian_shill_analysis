@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5810604095458984,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8162006139755249,
+            "Type": "PERSON",
+            "Text": "@kingegbert1",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.5897737741470337,
+            "Type": "PERSON",
+            "Text": "God",
+            "BeginOffset": 35,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.8385211229324341,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 45,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9998050332069397,
+            "Type": "OTHER",
+            "Text": "https://t.co/Zi5zeFqgiV",
+            "BeginOffset": 108,
+            "EndOffset": 131
+        }
+    ]
+}

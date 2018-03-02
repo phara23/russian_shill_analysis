@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8311565518379211,
+            "Type": "PERSON",
+            "Text": "@Adelirose",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8998498916625977,
+            "Type": "PERSON",
+            "Text": "@Hoshle",
+            "BeginOffset": 15,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9637730121612549,
+            "Type": "PERSON",
+            "Text": "@JCAinfo",
+            "BeginOffset": 23,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9781046509742737,
+            "Type": "PERSON",
+            "Text": "@LizatalbelJones",
+            "BeginOffset": 32,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.952289342880249,
+            "Type": "PERSON",
+            "Text": "@PiccoloDaimaoJr",
+            "BeginOffset": 49,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9927420616149902,
+            "Type": "PERSON",
+            "Text": "@DianaMeijer1",
+            "BeginOffset": 66,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.9885360598564148,
+            "Type": "PERSON",
+            "Text": "@Da3wa1412",
+            "BeginOffset": 80,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9474378228187561,
+            "Type": "PERSON",
+            "Text": "@John_Stargazer",
+            "BeginOffset": 91,
+            "EndOffset": 106
+        }
+    ]
+}

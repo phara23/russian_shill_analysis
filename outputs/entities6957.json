@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7124812602996826,
+            "Type": "PERSON",
+            "Text": "@Republikim1",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9880990386009216,
+            "Type": "LOCATION",
+            "Text": "#California",
+            "BeginOffset": 17,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.41630321741104126,
+            "Type": "LOCATION",
+            "Text": "#LosAngeles",
+            "BeginOffset": 29,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.6569638848304749,
+            "Type": "LOCATION",
+            "Text": "#SanFrancisco",
+            "BeginOffset": 41,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.7873613238334656,
+            "Type": "ORGANIZATION",
+            "Text": "@TheDemocrats",
+            "BeginOffset": 60,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.9800294041633606,
+            "Type": "LOCATION",
+            "Text": "Cali",
+            "BeginOffset": 135,
+            "EndOffset": 139
+        }
+    ]
+}

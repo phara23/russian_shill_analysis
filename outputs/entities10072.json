@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.38961583375930786,
+            "Type": "PERSON",
+            "Text": "Ebony",
+            "BeginOffset": 23,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9159536957740784,
+            "Type": "PERSON",
+            "Text": "God",
+            "BeginOffset": 42,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.999950647354126,
+            "Type": "OTHER",
+            "Text": "https://t.co/LnJYFW7H2C",
+            "BeginOffset": 72,
+            "EndOffset": 95
+        }
+    ]
+}

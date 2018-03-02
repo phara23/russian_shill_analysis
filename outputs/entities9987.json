@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.810613751411438,
+            "Type": "PERSON",
+            "Text": "@ActforIdaho",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8377637267112732,
+            "Type": "ORGANIZATION",
+            "Text": "Islam",
+            "BeginOffset": 48,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.986280083656311,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 87,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.9236671328544617,
+            "Type": "OTHER",
+            "Text": "https://t.co/U",
+            "BeginOffset": 125,
+            "EndOffset": 139
+        }
+    ]
+}

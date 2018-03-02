@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9098434448242188,
+            "Type": "PERSON",
+            "Text": "@foxfire2112",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.5098780393600464,
+            "Type": "PERSON",
+            "Text": "Berners",
+            "BeginOffset": 33,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.7942101955413818,
+            "Type": "PERSON",
+            "Text": "@TheDemocrats",
+            "BeginOffset": 45,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9999392032623291,
+            "Type": "OTHER",
+            "Text": "https://t.co/oBLND0p0xs",
+            "BeginOffset": 106,
+            "EndOffset": 129
+        }
+    ]
+}

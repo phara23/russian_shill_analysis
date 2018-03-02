@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8272945284843445,
+            "Type": "PERSON",
+            "Text": "@DAYDABASS",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.6741809248924255,
+            "Type": "ORGANIZATION",
+            "Text": "@DAYDABASS",
+            "BeginOffset": 25,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.7582366466522217,
+            "Type": "OTHER",
+            "Text": "https://t.co/4FXVDdw6XO",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        },
+        {
+            "Score": 0.8038076162338257,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 129,
+            "EndOffset": 138
+        }
+    ]
+}

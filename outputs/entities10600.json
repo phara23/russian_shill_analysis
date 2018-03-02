@@ -1,0 +1,95 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6794124841690063,
+            "Type": "PERSON",
+            "Text": "@PpollingNumbers",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.6701120734214783,
+            "Type": "PERSON",
+            "Text": "@Rasmussen",
+            "BeginOffset": 36,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.8939000964164734,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 54,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.8860856890678406,
+            "Type": "QUANTITY",
+            "Text": "42",
+            "BeginOffset": 62,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.7132489681243896,
+            "Type": "QUANTITY",
+            "Text": "1",
+            "BeginOffset": 67,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9883962869644165,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 70,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.4437348544597626,
+            "Type": "QUANTITY",
+            "Text": "41",
+            "BeginOffset": 76,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.9267614483833313,
+            "Type": "PERSON",
+            "Text": "Johnson",
+            "BeginOffset": 79,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.7306849956512451,
+            "Type": "QUANTITY",
+            "Text": "7",
+            "BeginOffset": 87,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.7224178314208984,
+            "Type": "PERSON",
+            "Text": "Stein",
+            "BeginOffset": 89,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.4436238706111908,
+            "Type": "QUANTITY",
+            "Text": "2",
+            "BeginOffset": 95,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.973873496055603,
+            "Type": "QUANTITY",
+            "Text": "6%",
+            "BeginOffset": 100,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.9849613904953003,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 116,
+            "EndOffset": 123
+        }
+    ]
+}

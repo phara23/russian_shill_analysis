@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8498489856719971,
+            "Type": "PERSON",
+            "Text": "@sideeyespecial",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.3663325309753418,
+            "Type": "PERSON",
+            "Text": "Venn",
+            "BeginOffset": 51,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9999792575836182,
+            "Type": "OTHER",
+            "Text": "https://t.co/WCSVgRLxT8",
+            "BeginOffset": 89,
+            "EndOffset": 112
+        }
+    ]
+}

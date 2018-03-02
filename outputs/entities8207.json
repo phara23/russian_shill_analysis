@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9384778141975403,
+            "Type": "PERSON",
+            "Text": "@marlenesloan12",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7238554954528809,
+            "Type": "PERSON",
+            "Text": "@DrottM",
+            "BeginOffset": 20,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.998185932636261,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 28,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9970833659172058,
+            "Type": "ORGANIZATION",
+            "Text": "FBI",
+            "BeginOffset": 85,
+            "EndOffset": 88
+        }
+    ]
+}

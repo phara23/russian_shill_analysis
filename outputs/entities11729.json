@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9283286333084106,
+            "Type": "PERSON",
+            "Text": "@JokeBlogger",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9930353760719299,
+            "Type": "OTHER",
+            "Text": "http://t.co/3zInSa3g2j",
+            "BeginOffset": 81,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.844073474407196,
+            "Type": "PERSON",
+            "Text": "@daplusk",
+            "BeginOffset": 107,
+            "EndOffset": 115
+        }
+    ]
+}

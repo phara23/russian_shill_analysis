@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8208433389663696,
+            "Type": "PERSON",
+            "Text": "@EconEconomics",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9323405623435974,
+            "Type": "DATE",
+            "Text": "1980s",
+            "BeginOffset": 29,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.988501787185669,
+            "Type": "LOCATION",
+            "Text": "California",
+            "BeginOffset": 52,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9113279581069946,
+            "Type": "QUANTITY",
+            "Text": "50 years",
+            "BeginOffset": 102,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.9999736547470093,
+            "Type": "OTHER",
+            "Text": "http://t.co/psb9i7xLqZ",
+            "BeginOffset": 118,
+            "EndOffset": 140
+        }
+    ]
+}

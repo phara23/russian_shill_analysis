@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8272776007652283,
+            "Type": "PERSON",
+            "Text": "@iowahawkblog",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.6305328011512756,
+            "Type": "OTHER",
+            "Text": "Iranian",
+            "BeginOffset": 61,
+            "EndOffset": 68
+        }
+    ]
+}

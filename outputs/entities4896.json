@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8911411166191101,
+            "Type": "PERSON",
+            "Text": "@PeterSweden7",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9989836812019348,
+            "Type": "LOCATION",
+            "Text": "Sweden",
+            "BeginOffset": 28,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9420599341392517,
+            "Type": "DATE",
+            "Text": "Friday 6pm",
+            "BeginOffset": 35,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9422215223312378,
+            "Type": "DATE",
+            "Text": "Saturday 5am",
+            "BeginOffset": 48,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9912034869194031,
+            "Type": "QUANTITY",
+            "Text": "5 cars",
+            "BeginOffset": 65,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9887655973434448,
+            "Type": "QUANTITY",
+            "Text": "5 containers",
+            "BeginOffset": 75,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.9114173650741577,
+            "Type": "QUANTITY",
+            "Text": "4 rubbish bins",
+            "BeginOffset": 91,
+            "EndOffset": 105
+        }
+    ]
+}

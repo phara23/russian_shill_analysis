@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8994498252868652,
+            "Type": "PERSON",
+            "Text": "@nine_oh",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.5434678196907043,
+            "Type": "PERSON",
+            "Text": "Chi Music",
+            "BeginOffset": 13,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9677379131317139,
+            "Type": "PERSON",
+            "Text": "King Bone",
+            "BeginOffset": 30,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9680982232093811,
+            "Type": "PERSON",
+            "Text": "@kingbone_",
+            "BeginOffset": 40,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.8738550543785095,
+            "Type": "PERSON",
+            "Text": "@bbeloudpackteam",
+            "BeginOffset": 51,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.6505995392799377,
+            "Type": "OTHER",
+            "Text": "issue 16",
+            "BeginOffset": 81,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.9401502013206482,
+            "Type": "OTHER",
+            "Text": "9.0",
+            "BeginOffset": 93,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.9805102348327637,
+            "Type": "OTHER",
+            "Text": "https://t.co/b7ZscVravA",
+            "BeginOffset": 106,
+            "EndOffset": 129
+        }
+    ]
+}

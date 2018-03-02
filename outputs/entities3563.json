@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9601737260818481,
+            "Type": "PERSON",
+            "Text": "@KellyannePolls",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8054161071777344,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 37,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.36350953578948975,
+            "Type": "ORGANIZATION",
+            "Text": "#AlSmithDinner",
+            "BeginOffset": 56,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9999221563339233,
+            "Type": "OTHER",
+            "Text": "https://t.co/DgHcT5kkFG",
+            "BeginOffset": 75,
+            "EndOffset": 98
+        }
+    ]
+}

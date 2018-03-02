@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8773811459541321,
+            "Type": "PERSON",
+            "Text": "@WSJbusiness",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9720891118049622,
+            "Type": "OTHER",
+            "Text": "http://t.co/wymjv7zPAy",
+            "BeginOffset": 62,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.974467396736145,
+            "Type": "ORGANIZATION",
+            "Text": "@WSJ",
+            "BeginOffset": 89,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.9993952512741089,
+            "Type": "OTHER",
+            "Text": "http://t.co/juztKcoBUL",
+            "BeginOffset": 94,
+            "EndOffset": 116
+        }
+    ]
+}

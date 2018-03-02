@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8225682377815247,
+            "Type": "PERSON",
+            "Text": "@SPIEGELONLINE",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7686815857887268,
+            "Type": "PERSON",
+            "Text": "@Lablass",
+            "BeginOffset": 89,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.9999822378158569,
+            "Type": "OTHER",
+            "Text": "https://t.co/XD67xNIXAW",
+            "BeginOffset": 99,
+            "EndOffset": 122
+        }
+    ]
+}

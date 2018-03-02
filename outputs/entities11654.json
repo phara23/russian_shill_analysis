@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7106924057006836,
+            "Type": "PERSON",
+            "Text": "@bmoreconnected",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.6899208426475525,
+            "Type": "ORGANIZATION",
+            "Text": "@baltimoregreens",
+            "BeginOffset": 24,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.8870850205421448,
+            "Type": "DATE",
+            "Text": "Midday today",
+            "BeginOffset": 71,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.5842305421829224,
+            "Type": "ORGANIZATION",
+            "Text": "Steiner",
+            "BeginOffset": 88,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.9910306930541992,
+            "Type": "DATE",
+            "Text": "tomorrow",
+            "BeginOffset": 96,
+            "EndOffset": 104
+        }
+    ]
+}

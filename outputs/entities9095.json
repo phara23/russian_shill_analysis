@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8171091675758362,
+            "Type": "PERSON",
+            "Text": "@guardian",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9760980606079102,
+            "Type": "ORGANIZATION",
+            "Text": "Google",
+            "BeginOffset": 14,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.969879150390625,
+            "Type": "QUANTITY",
+            "Text": "€3bn",
+            "BeginOffset": 27,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9999806880950928,
+            "Type": "OTHER",
+            "Text": "https://t.co/T3tEOQ7m7o",
+            "BeginOffset": 59,
+            "EndOffset": 82
+        }
+    ]
+}

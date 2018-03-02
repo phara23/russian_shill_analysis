@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7603440880775452,
+            "Type": "PERSON",
+            "Text": "@NewsBiscuit",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9735667109489441,
+            "Type": "ORGANIZATION",
+            "Text": "NSPCC",
+            "BeginOffset": 17,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.8536301851272583,
+            "Type": "TITLE",
+            "Text": "Charity Bin Bag of the Year",
+            "BeginOffset": 32,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.914212167263031,
+            "Type": "OTHER",
+            "Text": "https://t.co/zWCSFoLMRa",
+            "BeginOffset": 61,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9999315738677979,
+            "Type": "OTHER",
+            "Text": "https://t.co/HLfvWNl1BN",
+            "BeginOffset": 85,
+            "EndOffset": 108
+        }
+    ]
+}

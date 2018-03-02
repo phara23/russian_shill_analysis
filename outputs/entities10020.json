@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7866892218589783,
+            "Type": "PERSON",
+            "Text": "@HotepOsc",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.45124250650405884,
+            "Type": "PERSON",
+            "Text": "Amerikkka",
+            "BeginOffset": 14,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9984511137008667,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 95,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.9993759989738464,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 104,
+            "EndOffset": 109
+        },
+        {
+            "Score": 0.8775415420532227,
+            "Type": "PERSON",
+            "Text": "Isis",
+            "BeginOffset": 114,
+            "EndOffset": 118
+        },
+        {
+            "Score": 0.9859411120414734,
+            "Type": "OTHER",
+            "Text": "https://t.co/wDHAr",
+            "BeginOffset": 121,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8154253959655762,
+            "Type": "PERSON",
+            "Text": "@MisterMetokur",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9623252749443054,
+            "Type": "QUANTITY",
+            "Text": "20 protestors",
+            "BeginOffset": 28,
+            "EndOffset": 41
+        }
+    ]
+}

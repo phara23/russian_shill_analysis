@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6814771890640259,
+            "Type": "ORGANIZATION",
+            "Text": "@BlastingNews",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.99787437915802,
+            "Type": "PERSON",
+            "Text": "John Mayer",
+            "BeginOffset": 18,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9950898885726929,
+            "Type": "QUANTITY",
+            "Text": "4 tracks",
+            "BeginOffset": 38,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9625059366226196,
+            "Type": "TITLE",
+            "Text": "The Search for Everything",
+            "BeginOffset": 68,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.7120277881622314,
+            "Type": "OTHER",
+            "Text": "https://t.co/FBECA9xcAt",
+            "BeginOffset": 95,
+            "EndOffset": 118
+        },
+        {
+            "Score": 0.9718358516693115,
+            "Type": "OTHER",
+            "Text": "https://t.co/MebHGMT",
+            "BeginOffset": 119,
+            "EndOffset": 139
+        }
+    ]
+}

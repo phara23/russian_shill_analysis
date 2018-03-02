@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8653887510299683,
+            "Type": "PERSON",
+            "Text": "@Bipartisanism",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9855471253395081,
+            "Type": "PERSON",
+            "Text": "Rahm Emanuel",
+            "BeginOffset": 28,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.7636889815330505,
+            "Type": "DATE",
+            "Text": "2020",
+            "BeginOffset": 55,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.9701664447784424,
+            "Type": "OTHER",
+            "Text": "https://t.co/QT5otBaUBM",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.9804640412330627,
+            "Type": "OTHER",
+            "Text": "https://t.co/HfJCo",
+            "BeginOffset": 121,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9997571706771851,
+            "Text": "A girl",
+            "BeginOffset": 0,
+            "EndOffset": 6
+        },
+        {
+            "Score": 0.9986234903335571,
+            "Text": "A boy",
+            "BeginOffset": 28,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9379207491874695,
+            "Text": "–Owl",
+            "BeginOffset": 54,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9880734086036682,
+            "Text": "Book",
+            "BeginOffset": 60,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9996916651725769,
+            "Text": "Pooh",
+            "BeginOffset": 68,
+            "EndOffset": 72
+        }
+    ]
+}

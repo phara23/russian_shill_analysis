@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8380694389343262,
+            "Type": "PERSON",
+            "Text": "@NewssTrump",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.89691561460495,
+            "Type": "LOCATION",
+            "Text": "Florida",
+            "BeginOffset": 25,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9370126128196716,
+            "Type": "OTHER",
+            "Text": "https://t.co/GidmpiDuCb",
+            "BeginOffset": 51,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9999426603317261,
+            "Type": "OTHER",
+            "Text": "https://t.co/85qEtBfksD",
+            "BeginOffset": 75,
+            "EndOffset": 98
+        }
+    ]
+}

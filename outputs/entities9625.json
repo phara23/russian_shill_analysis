@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.693416178226471,
+            "Type": "PERSON",
+            "Text": "@pmatons",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9058408737182617,
+            "Type": "QUANTITY",
+            "Text": "9 new followers",
+            "BeginOffset": 45,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9560964107513428,
+            "Type": "QUANTITY",
+            "Text": "15 unfollowers",
+            "BeginOffset": 65,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.9486392140388489,
+            "Type": "OTHER",
+            "Text": "https://t.co/n2y2I4LDNi",
+            "BeginOffset": 84,
+            "EndOffset": 107
+        }
+    ]
+}

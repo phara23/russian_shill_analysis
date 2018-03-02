@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8730308413505554,
+            "Type": "PERSON",
+            "Text": "@sauro",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9999550580978394,
+            "Type": "OTHER",
+            "Text": "https://t.co/Kv1RPFQMPj",
+            "BeginOffset": 80,
+            "EndOffset": 103
+        }
+    ]
+}

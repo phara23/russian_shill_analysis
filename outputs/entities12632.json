@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8327486515045166,
+            "Type": "PERSON",
+            "Text": "@Vet4trump16",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9436110854148865,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 81,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.989856481552124,
+            "Type": "PERSON",
+            "Text": "Margaret Sanger",
+            "BeginOffset": 106,
+            "EndOffset": 121
+        },
+        {
+            "Score": 0.947947084903717,
+            "Type": "PERSON",
+            "Text": "Sen. Byrd",
+            "BeginOffset": 128,
+            "EndOffset": 137
+        }
+    ]
+}

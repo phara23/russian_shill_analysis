@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8902421593666077,
+            "Type": "PERSON",
+            "Text": "@PattiaGarder",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9440279603004456,
+            "Type": "QUANTITY",
+            "Text": "1%",
+            "BeginOffset": 52,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.8750995397567749,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 71,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.8469404578208923,
+            "Type": "EVENT",
+            "Text": "Civil War",
+            "BeginOffset": 85,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.8687199950218201,
+            "Type": "QUANTITY",
+            "Text": "2. 1960's",
+            "BeginOffset": 96,
+            "EndOffset": 105
+        }
+    ]
+}

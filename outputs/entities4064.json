@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8295846581459045,
+            "Type": "PERSON",
+            "Text": "@Bamagirlfriends",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8324131965637207,
+            "Type": "DATE",
+            "Text": "after two weeks",
+            "BeginOffset": 37,
+            "EndOffset": 52
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9832960963249207,
+            "Type": "PERSON",
+            "Text": "@Jenn_Abrams",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8105342388153076,
+            "Type": "LOCATION",
+            "Text": "Pluto",
+            "BeginOffset": 65,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9999490976333618,
+            "Type": "OTHER",
+            "Text": "http://t.co/K8hZ4tk9D1",
+            "BeginOffset": 83,
+            "EndOffset": 105
+        }
+    ]
+}

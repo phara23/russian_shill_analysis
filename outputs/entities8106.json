@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8158426284790039,
+            "Type": "PERSON",
+            "Text": "@DailyMailUK",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9743576645851135,
+            "Type": "PERSON",
+            "Text": "Prince Harry",
+            "BeginOffset": 28,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9996147751808167,
+            "Type": "PERSON",
+            "Text": "Meghan Markle",
+            "BeginOffset": 102,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.9998212456703186,
+            "Type": "OTHER",
+            "Text": "https://t.co/Y3VOd3esLh",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

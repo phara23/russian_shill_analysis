@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9311632513999939,
+            "Type": "PERSON",
+            "Text": "@anthony76730120",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.47299885749816895,
+            "Type": "PERSON",
+            "Text": "JOE",
+            "BeginOffset": 69,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.9366186857223511,
+            "Type": "QUANTITY",
+            "Text": "13 YR",
+            "BeginOffset": 124,
+            "EndOffset": 129
+        }
+    ]
+}

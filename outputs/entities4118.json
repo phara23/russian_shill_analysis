@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9193005561828613,
+            "Type": "PERSON",
+            "Text": "@Tony_Badguy",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9530262351036072,
+            "Type": "ORGANIZATION",
+            "Text": "@YouTube",
+            "BeginOffset": 27,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9343348741531372,
+            "Type": "OTHER",
+            "Text": "https://t.co/WOihc1heGJ",
+            "BeginOffset": 42,
+            "EndOffset": 65
+        }
+    ]
+}

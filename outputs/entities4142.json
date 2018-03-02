@@ -1,0 +1,67 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8664954304695129,
+            "Type": "PERSON",
+            "Text": "@DMashak",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9637336134910583,
+            "Type": "DATE",
+            "Text": "1987",
+            "BeginOffset": 13,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9958531260490417,
+            "Type": "PERSON",
+            "Text": "Gordon Gekko",
+            "BeginOffset": 18,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9241020083427429,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 45,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9913673400878906,
+            "Type": "PERSON",
+            "Text": "Don Mashak",
+            "BeginOffset": 50,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.8371934294700623,
+            "Type": "ORGANIZATION",
+            "Text": "@CRNC",
+            "BeginOffset": 90,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.7564489245414734,
+            "Type": "PERSON",
+            "Text": "@collegedems",
+            "BeginOffset": 96,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.9138723611831665,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 109,
+            "EndOffset": 124
+        },
+        {
+            "Score": 0.9569119811058044,
+            "Type": "PERSON",
+            "Text": "@realDonaldTru",
+            "BeginOffset": 125,
+            "EndOffset": 139
+        }
+    ]
+}

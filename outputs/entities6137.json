@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8730020523071289,
+            "Type": "PERSON",
+            "Text": "@CaptYonah",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9960569143295288,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 45,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.7492529153823853,
+            "Type": "PERSON",
+            "Text": "Trumpkins",
+            "BeginOffset": 87,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.9070488214492798,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 121,
+            "EndOffset": 128
+        }
+    ]
+}

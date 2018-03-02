@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7292362451553345,
+            "Type": "PERSON",
+            "Text": "@RedNationRising",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.5411317348480225,
+            "Type": "ORGANIZATION",
+            "Text": "YouTube",
+            "BeginOffset": 106,
+            "EndOffset": 113
+        }
+    ]
+}

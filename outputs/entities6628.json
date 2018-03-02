@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9256041646003723,
+            "Type": "PERSON",
+            "Text": "@antiamnesty",
+            "BeginOffset": 0,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9808685779571533,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 13,
+            "EndOffset": 29
+        }
+    ]
+}

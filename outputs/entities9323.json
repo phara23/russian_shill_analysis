@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8995633721351624,
+            "Type": "PERSON",
+            "Text": "@nine_oh",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.6888728141784668,
+            "Type": "PERSON",
+            "Text": "@pazziongirlz",
+            "BeginOffset": 27,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.7554351091384888,
+            "Type": "ORGANIZATION",
+            "Text": "@TIDALHiFi",
+            "BeginOffset": 106,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.9985798597335815,
+            "Type": "OTHER",
+            "Text": "https://t.co/wF0oDHdYNr",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

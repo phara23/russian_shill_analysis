@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9641845226287842,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.7789240479469299,
+            "Type": "PERSON",
+            "Text": "@AnnCoulter",
+            "BeginOffset": 31,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.7980184555053711,
+            "Type": "LOCATION",
+            "Text": "U.S.",
+            "BeginOffset": 68,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.5162758827209473,
+            "Type": "PERSON",
+            "Text": "Mak",
+            "BeginOffset": 136,
+            "EndOffset": 139
+        }
+    ]
+}

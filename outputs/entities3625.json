@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9907123446464539,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.5390744209289551,
+            "Type": "LOCATION",
+            "Text": "China",
+            "BeginOffset": 12,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8458600044250488,
+            "Type": "LOCATION",
+            "Text": "South China Sea",
+            "BeginOffset": 47,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.8450369238853455,
+            "Type": "ORGANIZATION",
+            "Text": "CNN",
+            "BeginOffset": 64,
+            "EndOffset": 67
+        }
+    ]
+}

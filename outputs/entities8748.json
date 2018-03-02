@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8734450340270996,
+            "Type": "PERSON",
+            "Text": "@zerohedge",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.5843005776405334,
+            "Type": "ORGANIZATION",
+            "Text": "Venezuela",
+            "BeginOffset": 15,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.7833128571510315,
+            "Type": "DATE",
+            "Text": "March",
+            "BeginOffset": 27,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9999774694442749,
+            "Type": "OTHER",
+            "Text": "https://t.co/16Lm4S6NqZ",
+            "BeginOffset": 48,
+            "EndOffset": 71
+        }
+    ]
+}

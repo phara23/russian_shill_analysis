@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8310215473175049,
+            "Type": "PERSON",
+            "Text": "@lisskron",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9581539034843445,
+            "Type": "PERSON",
+            "Text": "@Surreal_Cynic",
+            "BeginOffset": 14,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.8777306079864502,
+            "Type": "PERSON",
+            "Text": "@reidepstein",
+            "BeginOffset": 29,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9968125224113464,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 42,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9999643564224243,
+            "Type": "OTHER",
+            "Text": "https://t.co/6KzzvlEr5X",
+            "BeginOffset": 72,
+            "EndOffset": 95
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8530813455581665,
+            "Type": "PERSON",
+            "Text": "@DonScottUS",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9997974038124084,
+            "Type": "OTHER",
+            "Text": "https://t.co/ZRYLhFKwZX",
+            "BeginOffset": 25,
+            "EndOffset": 48
+        }
+    ]
+}

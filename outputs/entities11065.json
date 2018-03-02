@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7365094423294067,
+            "Type": "PERSON",
+            "Text": "@ChicagoILDaily",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8857221007347107,
+            "Type": "QUANTITY",
+            "Text": "Game 3",
+            "BeginOffset": 44,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.5807912349700928,
+            "Type": "ORGANIZATION",
+            "Text": "Bulls",
+            "BeginOffset": 55,
+            "EndOffset": 60
+        }
+    ]
+}

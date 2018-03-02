@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.748039960861206,
+            "Type": "PERSON",
+            "Text": "@EmmaleaT",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.7762736678123474,
+            "Type": "QUANTITY",
+            "Text": "3Words",
+            "BeginOffset": 30,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9999369382858276,
+            "Type": "OTHER",
+            "Text": "https://t.co/PL56hbjAID",
+            "BeginOffset": 57,
+            "EndOffset": 80
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7610962986946106,
+            "Type": "PERSON",
+            "Text": "@RivalThoughts",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8713037371635437,
+            "Type": "ORGANIZATION",
+            "Text": "@CNN",
+            "BeginOffset": 19,
+            "EndOffset": 23
+        }
+    ]
+}

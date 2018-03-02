@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4884982407093048,
+            "Type": "LOCATION",
+            "Text": "Quebec",
+            "BeginOffset": 0,
+            "EndOffset": 6
+        },
+        {
+            "Score": 0.6094536781311035,
+            "Type": "ORGANIZATION",
+            "Text": "@midnight",
+            "BeginOffset": 36,
+            "EndOffset": 45
+        }
+    ]
+}

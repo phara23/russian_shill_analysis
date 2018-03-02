@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9237651228904724,
+            "Type": "PERSON",
+            "Text": "@woodys3333",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9961062669754028,
+            "Type": "PERSON",
+            "Text": "George Soros",
+            "BeginOffset": 16,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.8589819073677063,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 75,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.9983126521110535,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 87,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.9998910427093506,
+            "Type": "OTHER",
+            "Text": "https://t.co/xTVbVGau5w",
+            "BeginOffset": 104,
+            "EndOffset": 127
+        }
+    ]
+}

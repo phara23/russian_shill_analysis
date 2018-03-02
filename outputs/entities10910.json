@@ -1,0 +1,67 @@
+{
+    "Entities": [
+        {
+            "Score": 0.898421049118042,
+            "Type": "PERSON",
+            "Text": "@ChristiChat",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.6529407501220703,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 17,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8137353658676147,
+            "Type": "PERSON",
+            "Text": "@ChrisCoon4",
+            "BeginOffset": 20,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9957020878791809,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 49,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9971000552177429,
+            "Type": "ORGANIZATION",
+            "Text": "ISIS",
+            "BeginOffset": 60,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.7631100416183472,
+            "Type": "QUANTITY",
+            "Text": "#1",
+            "BeginOffset": 76,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.918057918548584,
+            "Type": "OTHER",
+            "Text": "http://t.co/XYuCzQeb8Y",
+            "BeginOffset": 106,
+            "EndOffset": 128
+        },
+        {
+            "Score": 0.47197845578193665,
+            "Type": "ORGANIZATION",
+            "Text": "#PJNET",
+            "BeginOffset": 129,
+            "EndOffset": 135
+        },
+        {
+            "Score": 0.40519094467163086,
+            "Type": "ORGANIZATION",
+            "Text": "#Ju",
+            "BeginOffset": 136,
+            "EndOffset": 139
+        }
+    ]
+}

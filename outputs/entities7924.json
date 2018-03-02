@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9121166467666626,
+            "Type": "PERSON",
+            "Text": "@ed_hooley",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9952664375305176,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 66,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.8735218048095703,
+            "Type": "ORGANIZATION",
+            "Text": "Hollywood",
+            "BeginOffset": 74,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.998022198677063,
+            "Type": "OTHER",
+            "Text": "https://t.co/0NpfJYOydh",
+            "BeginOffset": 100,
+            "EndOffset": 123
+        }
+    ]
+}

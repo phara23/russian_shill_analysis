@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9121388792991638,
+            "Type": "PERSON",
+            "Text": "@DallasJohnston0",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8256542682647705,
+            "Type": "QUANTITY",
+            "Text": "one day",
+            "BeginOffset": 38,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9997677206993103,
+            "Type": "OTHER",
+            "Text": "https://t.co/bOVR7QV9Cz",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        }
+    ]
+}

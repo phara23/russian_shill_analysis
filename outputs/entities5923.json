@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8895752429962158,
+            "Type": "ORGANIZATION",
+            "Text": "Islam",
+            "BeginOffset": 19,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.917094349861145,
+            "Type": "ORGANIZATION",
+            "Text": "Islam",
+            "BeginOffset": 69,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9777178764343262,
+            "Type": "ORGANIZATION",
+            "Text": "Islam",
+            "BeginOffset": 76,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.9340780973434448,
+            "Type": "ORGANIZATION",
+            "Text": "Islam",
+            "BeginOffset": 85,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.7032930850982666,
+            "Type": "PERSON",
+            "Text": "Recep Erdogan",
+            "BeginOffset": 94,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.9999886751174927,
+            "Type": "OTHER",
+            "Text": "https://t.co/sIK49Nq1Cj",
+            "BeginOffset": 108,
+            "EndOffset": 131
+        }
+    ]
+}

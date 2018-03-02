@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7625378966331482,
+            "Type": "PERSON",
+            "Text": "@fedbizop",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8046157360076904,
+            "Type": "TITLE",
+            "Text": "It's Tricky",
+            "BeginOffset": 76,
+            "EndOffset": 87
+        }
+    ]
+}

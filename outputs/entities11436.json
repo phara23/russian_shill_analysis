@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7199714183807373,
+            "Type": "PERSON",
+            "Text": "@Maria4",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9194976091384888,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 10,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9676088094711304,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 19,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9921999573707581,
+            "Type": "LOCATION",
+            "Text": "Florida",
+            "BeginOffset": 48,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9718502163887024,
+            "Type": "DATE",
+            "Text": "today",
+            "BeginOffset": 115,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.8716352581977844,
+            "Type": "PERSON",
+            "Text": "@seanhannity",
+            "BeginOffset": 122,
+            "EndOffset": 134
+        }
+    ]
+}

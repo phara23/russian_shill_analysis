@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8266348242759705,
+            "Type": "PERSON",
+            "Text": "@NOrleansDaily",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9802534580230713,
+            "Type": "ORGANIZATION",
+            "Text": "Louisiana Supreme Court",
+            "BeginOffset": 19,
+            "EndOffset": 42
+        }
+    ]
+}

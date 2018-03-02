@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.869044303894043,
+            "Type": "PERSON",
+            "Text": "@WikiLeaksShop",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6915537714958191,
+            "Type": "ORGANIZATION",
+            "Text": "WikiLeaks",
+            "BeginOffset": 71,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.9333193302154541,
+            "Type": "OTHER",
+            "Text": "https://t.co/Ycl8hUHo67",
+            "BeginOffset": 86,
+            "EndOffset": 109
+        },
+        {
+            "Score": 0.5439140200614929,
+            "Type": "ORGANIZATION",
+            "Text": "#ImWithWL",
+            "BeginOffset": 110,
+            "EndOffset": 119
+        }
+    ]
+}

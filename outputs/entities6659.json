@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5016940832138062,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8524764180183411,
+            "Type": "ORGANIZATION",
+            "Text": "@Reality_1",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8228299617767334,
+            "Type": "PERSON",
+            "Text": "@cynthiamckinney",
+            "BeginOffset": 15,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9916656613349915,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 69,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.7231593132019043,
+            "Type": "QUANTITY",
+            "Text": "21st cen",
+            "BeginOffset": 135,
+            "EndOffset": 143
+        }
+    ]
+}

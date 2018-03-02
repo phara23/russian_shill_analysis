@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8241876363754272,
+            "Type": "PERSON",
+            "Text": "@realDailyWire",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9808928966522217,
+            "Type": "OTHER",
+            "Text": "https://t.co/O3Qx5bb9RM",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.8828367590904236,
+            "Type": "PERSON",
+            "Text": "@AmandaPresto",
+            "BeginOffset": 121,
+            "EndOffset": 134
+        }
+    ]
+}

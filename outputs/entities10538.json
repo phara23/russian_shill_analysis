@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7750450968742371,
+            "Type": "PERSON",
+            "Text": "@cspan",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.8555716276168823,
+            "Type": "DATE",
+            "Text": "2017",
+            "BeginOffset": 11,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8125100135803223,
+            "Type": "PERSON",
+            "Text": "@USCapitol",
+            "BeginOffset": 35,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9607612490653992,
+            "Type": "DATE",
+            "Text": "11:30am ET",
+            "BeginOffset": 56,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9282522201538086,
+            "Type": "OTHER",
+            "Text": "https://t.co/2E9HqsFIqw",
+            "BeginOffset": 77,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.9999381303787231,
+            "Type": "OTHER",
+            "Text": "https://t.co/B7HCGWnMBm",
+            "BeginOffset": 101,
+            "EndOffset": 124
+        }
+    ]
+}

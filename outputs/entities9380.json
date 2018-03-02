@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5402032732963562,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8190475106239319,
+            "Type": "PERSON",
+            "Text": "@TrumpGo_2016",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9984530806541443,
+            "Type": "PERSON",
+            "Text": "Mike Pence",
+            "BeginOffset": 18,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.38881054520606995,
+            "Type": "QUANTITY",
+            "Text": "First",
+            "BeginOffset": 29,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.8807430267333984,
+            "Type": "DATE",
+            "Text": "March",
+            "BeginOffset": 61,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.8115996718406677,
+            "Type": "OTHER",
+            "Text": "https://t.co/qsgwD3DTOI",
+            "BeginOffset": 76,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.9999803304672241,
+            "Type": "OTHER",
+            "Text": "https://t.co/UA65Rlc47R",
+            "BeginOffset": 109,
+            "EndOffset": 132
+        }
+    ]
+}

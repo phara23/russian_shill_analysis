@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7360011339187622,
+            "Type": "PERSON",
+            "Text": "@Politweecs",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8930051326751709,
+            "Type": "QUANTITY",
+            "Text": "first time",
+            "BeginOffset": 24,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9966892004013062,
+            "Type": "QUANTITY",
+            "Text": "14 years",
+            "BeginOffset": 38,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.7046446800231934,
+            "Type": "ORGANIZATION",
+            "Text": "#NSA",
+            "BeginOffset": 52,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9997801184654236,
+            "Type": "OTHER",
+            "Text": "http://t.co/vZVHwuhThG",
+            "BeginOffset": 104,
+            "EndOffset": 126
+        }
+    ]
+}

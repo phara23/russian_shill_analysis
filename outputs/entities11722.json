@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9019954204559326,
+            "Type": "PERSON",
+            "Text": "@ozsultan",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9627397060394287,
+            "Type": "OTHER",
+            "Text": "https://t.co/G1ge0TU66d",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        },
+        {
+            "Score": 0.37519657611846924,
+            "Type": "ORGANIZATION",
+            "Text": "#Chelsea",
+            "BeginOffset": 120,
+            "EndOffset": 128
+        },
+        {
+            "Score": 0.3302420377731323,
+            "Type": "ORGANIZATION",
+            "Text": "#ZombieHil",
+            "BeginOffset": 129,
+            "EndOffset": 139
+        }
+    ]
+}

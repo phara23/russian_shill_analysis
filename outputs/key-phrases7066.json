@@ -1,0 +1,22 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9829475283622742,
+            "Text": "Trump",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9943203926086426,
+            "Text": "Democrats",
+            "BeginOffset": 7,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7094858884811401,
+            "Text": "African-Americans",
+            "BeginOffset": 44,
+            "EndOffset": 61
+        }
+    ]
+}

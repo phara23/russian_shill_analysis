@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8175585269927979,
+            "Type": "PERSON",
+            "Text": "@PhoenixNewsAZ",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.5452292561531067,
+            "Type": "LOCATION",
+            "Text": "Phoenix",
+            "BeginOffset": 40,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9436408877372742,
+            "Type": "QUANTITY",
+            "Text": "6-year-old",
+            "BeginOffset": 59,
+            "EndOffset": 69
+        }
+    ]
+}

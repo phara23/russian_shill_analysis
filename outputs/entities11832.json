@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9896288514137268,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 9,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7616804242134094,
+            "Type": "ORGANIZATION",
+            "Text": "Senate",
+            "BeginOffset": 30,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9893583059310913,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 63,
+            "EndOffset": 70
+        }
+    ]
+}

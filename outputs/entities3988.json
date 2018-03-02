@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9560289978981018,
+            "Type": "PERSON",
+            "Text": "@JackAndJack",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8431433439254761,
+            "Type": "DATE",
+            "Text": "this sunday",
+            "BeginOffset": 77,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9999828338623047,
+            "Type": "OTHER",
+            "Text": "https://t.co/jDq97wJZM7",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        }
+    ]
+}

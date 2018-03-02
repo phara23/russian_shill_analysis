@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8468118906021118,
+            "Type": "PERSON",
+            "Text": "@GiselleEvns",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.580380916595459,
+            "Type": "QUANTITY",
+            "Text": "one bee",
+            "BeginOffset": 38,
+            "EndOffset": 45
+        }
+    ]
+}

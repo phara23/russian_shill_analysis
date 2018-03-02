@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5342186093330383,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.767874538898468,
+            "Type": "PERSON",
+            "Text": "@Italians4Trump",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9919759035110474,
+            "Type": "PERSON",
+            "Text": "Paul Ryan",
+            "BeginOffset": 20,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.951675534248352,
+            "Type": "ORGANIZATION",
+            "Text": "Democrats",
+            "BeginOffset": 51,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.990838348865509,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 72,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9998749494552612,
+            "Type": "OTHER",
+            "Text": "https://t.co/TRGDuUHOo6",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        }
+    ]
+}

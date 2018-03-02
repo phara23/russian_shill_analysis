@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6880739331245422,
+            "Type": "PERSON",
+            "Text": "@XLNB",
+            "BeginOffset": 3,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.9747622609138489,
+            "Type": "QUANTITY",
+            "Text": "Less than two hours",
+            "BeginOffset": 20,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.8531758189201355,
+            "Type": "OTHER",
+            "Text": "https://t.co/4v9W0uj0q5",
+            "BeginOffset": 107,
+            "EndOffset": 130
+        },
+        {
+            "Score": 0.8755850791931152,
+            "Type": "OTHER",
+            "Text": "https://…",
+            "BeginOffset": 131,
+            "EndOffset": 140
+        }
+    ]
+}

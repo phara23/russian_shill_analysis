@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.888656735420227,
+            "Type": "PERSON",
+            "Text": "@Peter_Theisen Sehr",
+            "BeginOffset": 0,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9491872191429138,
+            "Type": "PERSON",
+            "Text": "Theisen",
+            "BeginOffset": 29,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.7094245553016663,
+            "Type": "PERSON",
+            "Text": "würden Sie",
+            "BeginOffset": 38,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9674198031425476,
+            "Type": "PERSON",
+            "Text": "Mal wählen",
+            "BeginOffset": 66,
+            "EndOffset": 76
+        }
+    ]
+}

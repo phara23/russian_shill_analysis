@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9209186434745789,
+            "Type": "PERSON",
+            "Text": "@OneMoodyHuman",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.5733438730239868,
+            "Type": "PERSON",
+            "Text": "Jesus",
+            "BeginOffset": 34,
+            "EndOffset": 39
+        }
+    ]
+}

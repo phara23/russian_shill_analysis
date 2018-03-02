@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8310744762420654,
+            "Type": "OTHER",
+            "Text": "Hindu-American",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9965522289276123,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 25,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9106439352035522,
+            "Type": "LOCATION",
+            "Text": "India",
+            "BeginOffset": 39,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.8663713335990906,
+            "Type": "LOCATION",
+            "Text": "U.S.",
+            "BeginOffset": 49,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.7993717789649963,
+            "Type": "OTHER",
+            "Text": "https://t.co/Re99AXo1DX",
+            "BeginOffset": 72,
+            "EndOffset": 95
+        }
+    ]
+}

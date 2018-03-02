@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9221231341362,
+            "Type": "PERSON",
+            "Text": "@bertadesherlia",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7674635648727417,
+            "Type": "LOCATION",
+            "Text": "Britain",
+            "BeginOffset": 20,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9998016953468323,
+            "Type": "OTHER",
+            "Text": "https://t.co/WVDaArau0w",
+            "BeginOffset": 53,
+            "EndOffset": 76
+        }
+    ]
+}

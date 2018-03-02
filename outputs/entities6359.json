@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8536630272865295,
+            "Type": "PERSON",
+            "Text": "@XMorphPhoenix",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.5460752248764038,
+            "Type": "PERSON",
+            "Text": "#DonaldTrump",
+            "BeginOffset": 19,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.717369794845581,
+            "Type": "PERSON",
+            "Text": "#Trump",
+            "BeginOffset": 116,
+            "EndOffset": 122
+        }
+    ]
+}

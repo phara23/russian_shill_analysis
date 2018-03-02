@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9173955321311951,
+            "Type": "PERSON",
+            "Text": "@LaTaN1231",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.673437237739563,
+            "Type": "PERSON",
+            "Text": "#trump",
+            "BeginOffset": 15,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9983915686607361,
+            "Type": "OTHER",
+            "Text": "https://t.co/dfZFJEZSoy",
+            "BeginOffset": 79,
+            "EndOffset": 102
+        }
+    ]
+}

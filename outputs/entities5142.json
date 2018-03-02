@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6927515864372253,
+            "Type": "PERSON",
+            "Text": "@politico",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9985958337783813,
+            "Type": "PERSON",
+            "Text": "Rand Paul",
+            "BeginOffset": 14,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.566850483417511,
+            "Type": "QUANTITY",
+            "Text": "million",
+            "BeginOffset": 34,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9510682225227356,
+            "Type": "OTHER",
+            "Text": "http://t.co/sLFjAqKHiK",
+            "BeginOffset": 63,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.7296528816223145,
+            "Type": "ORGANIZATION",
+            "Text": "Getty",
+            "BeginOffset": 88,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.9999896287918091,
+            "Type": "OTHER",
+            "Text": "http://t.co/HXS6jbEw51",
+            "BeginOffset": 94,
+            "EndOffset": 116
+        }
+    ]
+}

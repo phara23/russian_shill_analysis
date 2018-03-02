@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.690613865852356,
+            "Type": "PERSON",
+            "Text": "@scottisbell_",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9649854898452759,
+            "Type": "PERSON",
+            "Text": "President Reagan",
+            "BeginOffset": 18,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9653558135032654,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 47,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9933770298957825,
+            "Type": "DATE",
+            "Text": "Tuesday",
+            "BeginOffset": 74,
+            "EndOffset": 81
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8664108514785767,
+            "Type": "PERSON",
+            "Text": "@GOUSAAmer114",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9370064735412598,
+            "Type": "PERSON",
+            "Text": "@trumpgasm",
+            "BeginOffset": 18,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9937217831611633,
+            "Type": "PERSON",
+            "Text": "@clanceman65",
+            "BeginOffset": 29,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.8622733354568481,
+            "Type": "ORGANIZATION",
+            "Text": "ISLAM",
+            "BeginOffset": 47,
+            "EndOffset": 52
+        }
+    ]
+}

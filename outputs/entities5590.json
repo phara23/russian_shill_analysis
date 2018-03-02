@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.45530813932418823,
+            "Type": "PERSON",
+            "Text": "#Clinton",
+            "BeginOffset": 0,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.8762080073356628,
+            "Type": "PERSON",
+            "Text": "#Trump",
+            "BeginOffset": 22,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.6573809385299683,
+            "Type": "QUANTITY",
+            "Text": "one",
+            "BeginOffset": 73,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.5661119818687439,
+            "Type": "LOCATION",
+            "Text": "Libya",
+            "BeginOffset": 80,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.9997938275337219,
+            "Type": "OTHER",
+            "Text": "https://t.co/nEbVHZy5KZ",
+            "BeginOffset": 86,
+            "EndOffset": 109
+        }
+    ]
+}

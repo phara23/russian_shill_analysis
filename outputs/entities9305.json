@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8399732112884521,
+            "Type": "PERSON",
+            "Text": "@TLTESQ37",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9645819067955017,
+            "Type": "PERSON",
+            "Text": "Oprah",
+            "BeginOffset": 14,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9956554174423218,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 31,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9865794777870178,
+            "Type": "OTHER",
+            "Text": "https://t.co/ZYVmYGaZTV",
+            "BeginOffset": 53,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.8764650225639343,
+            "Type": "ORGANIZATION",
+            "Text": "@HuffPostPol",
+            "BeginOffset": 81,
+            "EndOffset": 93
+        }
+    ]
+}

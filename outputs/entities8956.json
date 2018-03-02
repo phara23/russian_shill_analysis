@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8947499990463257,
+            "Type": "PERSON",
+            "Text": "@SemeiMuCasa",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9961709380149841,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 32,
+            "EndOffset": 37
+        }
+    ]
+}

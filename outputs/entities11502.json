@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9255145788192749,
+            "Type": "PERSON",
+            "Text": "@JKinneyBundy",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8557385802268982,
+            "Type": "PERSON",
+            "Text": "@mitchellvii",
+            "BeginOffset": 18,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.978206992149353,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 40,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.2460545003414154,
+            "Type": "ORGANIZATION",
+            "Text": "#BlackLivesMatter",
+            "BeginOffset": 45,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.309728741645813,
+            "Type": "ORGANIZATION",
+            "Text": "#GodBlessAmerica",
+            "BeginOffset": 63,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.9998373985290527,
+            "Type": "OTHER",
+            "Text": "https://t.co/LHYzeuzJqd",
+            "BeginOffset": 80,
+            "EndOffset": 103
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7121020555496216,
+            "Type": "PERSON",
+            "Text": "@BMantagas",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9937814474105835,
+            "Type": "PERSON",
+            "Text": "@Jody_Rossel",
+            "BeginOffset": 15,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.8073177933692932,
+            "Type": "QUANTITY",
+            "Text": "100K signatures",
+            "BeginOffset": 42,
+            "EndOffset": 57
+        }
+    ]
+}

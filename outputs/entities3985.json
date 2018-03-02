@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8986369371414185,
+            "Type": "PERSON",
+            "Text": "@ChrixMorgan",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.6336843371391296,
+            "Type": "TITLE",
+            "Text": "La Mexicano Rapesoda",
+            "BeginOffset": 31,
+            "EndOffset": 51
+        }
+    ]
+}

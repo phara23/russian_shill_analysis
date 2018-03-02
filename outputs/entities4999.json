@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8415622711181641,
+            "Type": "PERSON",
+            "Text": "@ElainesEco",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8501502275466919,
+            "Type": "QUANTITY",
+            "Text": "200,000 Jobs",
+            "BeginOffset": 94,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.9991154074668884,
+            "Type": "OTHER",
+            "Text": "https://t.co/lZiLaZKHRV",
+            "BeginOffset": 107,
+            "EndOffset": 130
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9424274563789368,
+            "Type": "PERSON",
+            "Text": "Scott Batman",
+            "BeginOffset": 0,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9096635580062866,
+            "Type": "TITLE",
+            "Text": "Superman: Dawn of Justice Pilgrim vs. the World",
+            "BeginOffset": 16,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.8244498372077942,
+            "Type": "PERSON",
+            "Text": "@midnight",
+            "BeginOffset": 85,
+            "EndOffset": 94
+        }
+    ]
+}

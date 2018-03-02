@@ -1,0 +1,95 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9279210567474365,
+            "Type": "PERSON",
+            "Text": "@jt92677",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8852822780609131,
+            "Type": "QUANTITY",
+            "Text": "100 MILLION",
+            "BeginOffset": 13,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.4069361686706543,
+            "Type": "LOCATION",
+            "Text": "AMERICA",
+            "BeginOffset": 35,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9640514254570007,
+            "Type": "ORGANIZATION",
+            "Text": "@cbs",
+            "BeginOffset": 43,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9899457693099976,
+            "Type": "ORGANIZATION",
+            "Text": "@ABC",
+            "BeginOffset": 48,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.96183842420578,
+            "Type": "ORGANIZATION",
+            "Text": "@nbc",
+            "BeginOffset": 53,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9798334240913391,
+            "Type": "ORGANIZATION",
+            "Text": "@CNN",
+            "BeginOffset": 58,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9428062438964844,
+            "Type": "ORGANIZATION",
+            "Text": "@FOX",
+            "BeginOffset": 63,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9405921101570129,
+            "Type": "ORGANIZATION",
+            "Text": "@MSNBC",
+            "BeginOffset": 68,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.8572547435760498,
+            "Type": "PERSON",
+            "Text": "@rushlimbaugh",
+            "BeginOffset": 75,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9196218848228455,
+            "Type": "PERSON",
+            "Text": "@marklevinshow",
+            "BeginOffset": 89,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.9099101424217224,
+            "Type": "ORGANIZATION",
+            "Text": "@gop",
+            "BeginOffset": 104,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.9072358012199402,
+            "Type": "PERSON",
+            "Text": "@SpeakerRyan",
+            "BeginOffset": 109,
+            "EndOffset": 121
+        }
+    ]
+}

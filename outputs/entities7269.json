@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.826104998588562,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9918088316917419,
+            "Type": "PERSON",
+            "Text": "Assata Shakur",
+            "BeginOffset": 35,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9869017004966736,
+            "Type": "OTHER",
+            "Text": "https://t.co/78rUJ0kCQI",
+            "BeginOffset": 50,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.7941585779190063,
+            "Type": "PERSON",
+            "Text": "@MoorBey",
+            "BeginOffset": 74,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.9998425245285034,
+            "Type": "OTHER",
+            "Text": "https://t.co/OXnSxKfYLq",
+            "BeginOffset": 83,
+            "EndOffset": 106
+        }
+    ]
+}

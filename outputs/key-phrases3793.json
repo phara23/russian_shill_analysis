@@ -1,0 +1,40 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9187426567077637,
+            "Text": "Clinton Has Edge",
+            "BeginOffset": 0,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.92662513256073,
+            "Text": "Trump",
+            "BeginOffset": 22,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9675940871238708,
+            "Text": "Mich.",
+            "BeginOffset": 31,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9659973382949829,
+            "Text": "Pa.",
+            "BeginOffset": 38,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.6031906604766846,
+            "Text": "Tied",
+            "BeginOffset": 43,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.998401403427124,
+            "Text": "Ohio",
+            "BeginOffset": 51,
+            "EndOffset": 55
+        }
+    ]
+}

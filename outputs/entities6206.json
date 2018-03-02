@@ -1,0 +1,95 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6520786285400391,
+            "Type": "PERSON",
+            "Text": "@PpollingNumbers",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8506028056144714,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 61,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.7605007290840149,
+            "Type": "QUANTITY",
+            "Text": "45",
+            "BeginOffset": 67,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.5148059725761414,
+            "Type": "QUANTITY",
+            "Text": "2",
+            "BeginOffset": 72,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.9627043604850769,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 75,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.8472276926040649,
+            "Type": "QUANTITY",
+            "Text": "43",
+            "BeginOffset": 83,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.4279414713382721,
+            "Type": "PERSON",
+            "Text": "#Michigan",
+            "BeginOffset": 87,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.9777858853340149,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 98,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.9043745994567871,
+            "Type": "QUANTITY",
+            "Text": "39",
+            "BeginOffset": 106,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.7047287821769714,
+            "Type": "PERSON",
+            "Text": "Tie",
+            "BeginOffset": 110,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.9699565172195435,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 115,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.8685950636863708,
+            "Type": "QUANTITY",
+            "Text": "39",
+            "BeginOffset": 121,
+            "EndOffset": 123
+        },
+        {
+            "Score": 0.6199464201927185,
+            "Type": "PERSON",
+            "Text": "Cli",
+            "BeginOffset": 136,
+            "EndOffset": 139
+        }
+    ]
+}

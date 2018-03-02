@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8566088676452637,
+            "Type": "PERSON",
+            "Text": "@DJPhyre1",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.7366697192192078,
+            "Type": "PERSON",
+            "Text": "Slim Thug",
+            "BeginOffset": 36,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9106766581535339,
+            "Type": "LOCATION",
+            "Text": "Houston",
+            "BeginOffset": 58,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9998451471328735,
+            "Type": "OTHER",
+            "Text": "https://t.co/w30CAHTIPs",
+            "BeginOffset": 79,
+            "EndOffset": 102
+        }
+    ]
+}

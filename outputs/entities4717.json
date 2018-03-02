@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5039776563644409,
+            "Type": "ORGANIZATION",
+            "Text": "@100",
+            "BeginOffset": 3,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.916018545627594,
+            "Type": "QUANTITY",
+            "Text": "5 YR",
+            "BeginOffset": 43,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.5929331183433533,
+            "Type": "PERSON",
+            "Text": "Santa",
+            "BeginOffset": 71,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.5987259149551392,
+            "Type": "PERSON",
+            "Text": "Santa",
+            "BeginOffset": 126,
+            "EndOffset": 131
+        }
+    ]
+}

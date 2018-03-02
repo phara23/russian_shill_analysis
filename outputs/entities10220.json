@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8094286322593689,
+            "Type": "PERSON",
+            "Text": "@DeepSouthProud",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8829076290130615,
+            "Type": "LOCATION",
+            "Text": "Oregon",
+            "BeginOffset": 28,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9783718585968018,
+            "Type": "DATE",
+            "Text": "30 years ago",
+            "BeginOffset": 53,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.7048364877700806,
+            "Type": "ORGANIZATION",
+            "Text": "democrats",
+            "BeginOffset": 67,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.8035880327224731,
+            "Type": "ORGANIZATION",
+            "Text": "liberals",
+            "BeginOffset": 81,
+            "EndOffset": 89
+        }
+    ]
+}

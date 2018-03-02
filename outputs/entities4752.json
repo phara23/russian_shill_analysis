@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8021975755691528,
+            "Type": "PERSON",
+            "Text": "@twiticulture",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9985232353210449,
+            "Type": "PERSON",
+            "Text": "Michelle Obama",
+            "BeginOffset": 66,
+            "EndOffset": 80
+        }
+    ]
+}

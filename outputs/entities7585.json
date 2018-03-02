@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8197020888328552,
+            "Type": "PERSON",
+            "Text": "@PatToomey",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9611279368400574,
+            "Type": "PERSON",
+            "Text": "@JohnKasich",
+            "BeginOffset": 46,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9464243054389954,
+            "Type": "DATE",
+            "Text": "tonight",
+            "BeginOffset": 77,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9999699592590332,
+            "Type": "OTHER",
+            "Text": "https://t.co/uhr7rf7A3V",
+            "BeginOffset": 99,
+            "EndOffset": 122
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7049528360366821,
+            "Type": "PERSON",
+            "Text": "@RONCOULTER",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8480898141860962,
+            "Type": "QUANTITY",
+            "Text": "3rd device",
+            "BeginOffset": 16,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.751960813999176,
+            "Type": "PERSON",
+            "Text": "#Trump",
+            "BeginOffset": 55,
+            "EndOffset": 61
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8189480900764465,
+            "Type": "PERSON",
+            "Text": "@AlliemalCNN",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9718602895736694,
+            "Type": "DATE",
+            "Text": "today",
+            "BeginOffset": 24,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.6720386147499084,
+            "Type": "PERSON",
+            "Text": "@PressSec",
+            "BeginOffset": 30,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9998471140861511,
+            "Type": "PERSON",
+            "Text": "Steve Bannon",
+            "BeginOffset": 40,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9920056462287903,
+            "Type": "PERSON",
+            "Text": "@KellyannePolls",
+            "BeginOffset": 54,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9890826940536499,
+            "Type": "PERSON",
+            "Text": "Hope Hicks",
+            "BeginOffset": 74,
+            "EndOffset": 84
+        }
+    ]
+}

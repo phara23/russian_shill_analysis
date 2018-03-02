@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9004833102226257,
+            "Type": "PERSON",
+            "Text": "@nine_oh",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9978082180023193,
+            "Type": "PERSON",
+            "Text": "Jack White",
+            "BeginOffset": 13,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9823620915412903,
+            "Type": "LOCATION",
+            "Text": "Detroit",
+            "BeginOffset": 54,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.4389626085758209,
+            "Type": "QUANTITY",
+            "Text": "Third Man",
+            "BeginOffset": 68,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9999663829803467,
+            "Type": "OTHER",
+            "Text": "https://t.co/Eejwp0y4qm",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        }
+    ]
+}

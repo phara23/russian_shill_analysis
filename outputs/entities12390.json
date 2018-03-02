@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8866015076637268,
+            "Type": "PERSON",
+            "Text": "@mcgilh",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.999199628829956,
+            "Type": "PERSON",
+            "Text": "John McCain",
+            "BeginOffset": 36,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9872925281524658,
+            "Type": "ORGANIZATION",
+            "Text": "FBI",
+            "BeginOffset": 63,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9799796342849731,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 71,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.47372207045555115,
+            "Type": "OTHER",
+            "Text": "Americans",
+            "BeginOffset": 98,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.9768068194389343,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

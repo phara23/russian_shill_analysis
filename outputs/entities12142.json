@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.489302396774292,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8383886218070984,
+            "Type": "PERSON",
+            "Text": "@NormEisen",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9659538865089417,
+            "Type": "PERSON",
+            "Text": "Rudi",
+            "BeginOffset": 22,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.902146577835083,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 48,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.6022845506668091,
+            "Type": "LOCATION",
+            "Text": "Russia",
+            "BeginOffset": 54,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.6948795914649963,
+            "Type": "PERSON",
+            "Text": "@mikeallen",
+            "BeginOffset": 61,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.6934562921524048,
+            "Type": "QUANTITY",
+            "Text": "28 cfr",
+            "BeginOffset": 78,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.8937232494354248,
+            "Type": "QUANTITY",
+            "Text": "45.2",
+            "BeginOffset": 85,
+            "EndOffset": 89
+        }
+    ]
+}

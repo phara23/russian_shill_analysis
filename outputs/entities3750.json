@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8520829081535339,
+            "Type": "PERSON",
+            "Text": "@swilkinsonbc",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7180620431900024,
+            "Type": "QUANTITY",
+            "Text": "4 right-wing extremist Israeli lawmakers",
+            "BeginOffset": 18,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.5105157494544983,
+            "Type": "LOCATION",
+            "Text": "Israel",
+            "BeginOffset": 64,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9164515733718872,
+            "Type": "ORGANIZATION",
+            "Text": "Supreme Court",
+            "BeginOffset": 73,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.4614441394805908,
+            "Type": "OTHER",
+            "Text": "Palestinians",
+            "BeginOffset": 119,
+            "EndOffset": 131
+        }
+    ]
+}

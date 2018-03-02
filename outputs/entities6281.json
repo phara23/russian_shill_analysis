@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9022088050842285,
+            "Type": "PERSON",
+            "Text": "@WayneDupreeShow",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.38594529032707214,
+            "Type": "ORGANIZATION",
+            "Text": "#HillaryClinton",
+            "BeginOffset": 21,
+            "EndOffset": 36
+        }
+    ]
+}

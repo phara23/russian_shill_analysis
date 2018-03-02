@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8451156616210938,
+            "Type": "PERSON",
+            "Text": "@WorldTruthTV",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9845411777496338,
+            "Type": "PERSON",
+            "Text": "George Soros",
+            "BeginOffset": 18,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9723580479621887,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 73,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.999982476234436,
+            "Type": "OTHER",
+            "Text": "https://t.co/ZG42O9o4LU",
+            "BeginOffset": 79,
+            "EndOffset": 102
+        }
+    ]
+}

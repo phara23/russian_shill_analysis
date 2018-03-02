@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8504744172096252,
+            "Type": "PERSON",
+            "Text": "@EnigmaNetxx",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8031634092330933,
+            "Type": "QUANTITY",
+            "Text": "180DegreeTurns",
+            "BeginOffset": 21,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.7294745445251465,
+            "Type": "QUANTITY",
+            "Text": "Each &amp",
+            "BeginOffset": 76,
+            "EndOffset": 85
+        }
+    ]
+}

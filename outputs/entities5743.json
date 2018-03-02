@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8858141303062439,
+            "Type": "PERSON",
+            "Text": "@dcexaminer",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.5215649008750916,
+            "Type": "ORGANIZATION",
+            "Text": "US",
+            "BeginOffset": 16,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.649995744228363,
+            "Type": "LOCATION",
+            "Text": "Australia",
+            "BeginOffset": 38,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9827480912208557,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 59,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.999927282333374,
+            "Type": "OTHER",
+            "Text": "https://t.co/TuBZZ80phQ",
+            "BeginOffset": 78,
+            "EndOffset": 101
+        }
+    ]
+}

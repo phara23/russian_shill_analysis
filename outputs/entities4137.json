@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7514004707336426,
+            "Type": "PERSON",
+            "Text": "@chatterboxCC",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9000514149665833,
+            "Type": "OTHER",
+            "Text": "https://t.co/ZKh0lTuqYZ",
+            "BeginOffset": 18,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9732392430305481,
+            "Type": "PERSON",
+            "Text": "Cruz",
+            "BeginOffset": 42,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.7976694107055664,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 59,
+            "EndOffset": 66
+        }
+    ]
+}

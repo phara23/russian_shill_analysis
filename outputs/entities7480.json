@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8478688597679138,
+            "Type": "PERSON",
+            "Text": "@gloed_up",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9895191192626953,
+            "Type": "PERSON",
+            "Text": "Malia Obama",
+            "BeginOffset": 14,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.6789439916610718,
+            "Type": "ORGANIZATION",
+            "Text": "HARVARD",
+            "BeginOffset": 58,
+            "EndOffset": 65
+        }
+    ]
+}

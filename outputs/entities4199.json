@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8178298473358154,
+            "Type": "PERSON",
+            "Text": "@NobleBlanctet",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8102285265922546,
+            "Type": "QUANTITY",
+            "Text": "85",
+            "BeginOffset": 44,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9403651356697083,
+            "Type": "QUANTITY",
+            "Text": "15",
+            "BeginOffset": 47,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.8418674468994141,
+            "Type": "PERSON",
+            "Text": "@mitchellvii",
+            "BeginOffset": 68,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.9771665930747986,
+            "Type": "PERSON",
+            "Text": "@PrisonPlanet",
+            "BeginOffset": 81,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.9635645747184753,
+            "Type": "PERSON",
+            "Text": "@StefanMolyneux",
+            "BeginOffset": 95,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.9381029605865479,
+            "Type": "PERSON",
+            "Text": "@StevePieczenick",
+            "BeginOffset": 111,
+            "EndOffset": 127
+        }
+    ]
+}

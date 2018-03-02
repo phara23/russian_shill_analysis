@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.920134961605072,
+            "Type": "PERSON",
+            "Text": "@Black_Quorum",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9887270927429199,
+            "Type": "ORGANIZATION",
+            "Text": "Congress",
+            "BeginOffset": 18,
+            "EndOffset": 26
+        }
+    ]
+}

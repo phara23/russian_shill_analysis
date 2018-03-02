@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9751406311988831,
+            "Type": "PERSON",
+            "Text": "@Johnsense38",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.6025606393814087,
+            "Type": "QUANTITY",
+            "Text": "11",
+            "BeginOffset": 42,
+            "EndOffset": 44
+        }
+    ]
+}

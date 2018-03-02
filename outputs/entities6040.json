@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6998651027679443,
+            "Type": "PERSON",
+            "Text": "@vivificat",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.938947856426239,
+            "Type": "OTHER",
+            "Text": "https://t.co/yBuYkWMr2S",
+            "BeginOffset": 53,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.894333004951477,
+            "Type": "PERSON",
+            "Text": "@TonyAgnesi",
+            "BeginOffset": 89,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.9190523624420166,
+            "Type": "PERSON",
+            "Text": "@PapistApologia",
+            "BeginOffset": 101,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.9795430898666382,
+            "Type": "PERSON",
+            "Text": "@JohnZwicker1",
+            "BeginOffset": 117,
+            "EndOffset": 130
+        }
+    ]
+}

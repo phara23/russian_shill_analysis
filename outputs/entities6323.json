@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6497887969017029,
+            "Type": "ORGANIZATION",
+            "Text": "@ComedyCentral",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9935059547424316,
+            "Type": "PERSON",
+            "Text": "Charlie Murphy",
+            "BeginOffset": 48,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9999380111694336,
+            "Type": "OTHER",
+            "Text": "https://t.co/zjPRpAWFb3",
+            "BeginOffset": 64,
+            "EndOffset": 87
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.965233564376831,
+            "Type": "PERSON",
+            "Text": "@StevenDavisJr",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9613394737243652,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 23,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.47786274552345276,
+            "Type": "ORGANIZATION",
+            "Text": "FOP",
+            "BeginOffset": 74,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9999420642852783,
+            "Type": "OTHER",
+            "Text": "https://t.co/5taNPOgRpC",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        }
+    ]
+}

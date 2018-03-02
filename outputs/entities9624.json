@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8980069756507874,
+            "Type": "PERSON",
+            "Text": "@DominicValent",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9988210201263428,
+            "Type": "PERSON",
+            "Text": "Bernie Sanders",
+            "BeginOffset": 25,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.8511208295822144,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 48,
+            "EndOffset": 63
+        }
+    ]
+}

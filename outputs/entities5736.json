@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9499067068099976,
+            "Type": "PERSON",
+            "Text": "@juanblanco76",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7887313365936279,
+            "Type": "PERSON",
+            "Text": "@cjfarber",
+            "BeginOffset": 102,
+            "EndOffset": 111
+        },
+        {
+            "Score": 0.8819847106933594,
+            "Type": "OTHER",
+            "Text": "https://t.co/hDloAyFfoG",
+            "BeginOffset": 112,
+            "EndOffset": 135
+        }
+    ]
+}

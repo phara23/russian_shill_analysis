@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9403460621833801,
+            "Type": "PERSON",
+            "Text": "@Jami_USA",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.7150718569755554,
+            "Type": "PERSON",
+            "Text": "Dem",
+            "BeginOffset": 27,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9741390943527222,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 109,
+            "EndOffset": 114
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9116798043251038,
+            "Type": "PERSON",
+            "Text": "@ShillForHillary",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9991447329521179,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 39,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9996463060379028,
+            "Type": "OTHER",
+            "Text": "https://t.co/nG2WKTVkEx",
+            "BeginOffset": 95,
+            "EndOffset": 118
+        }
+    ]
+}

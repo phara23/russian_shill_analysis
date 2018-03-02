@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9542496800422668,
+            "Type": "PERSON",
+            "Text": "@xohheykayla",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7497193813323975,
+            "Type": "QUANTITY",
+            "Text": "4Words",
+            "BeginOffset": 30,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9695160984992981,
+            "Type": "ORGANIZATION",
+            "Text": "Walmart",
+            "BeginOffset": 37,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9999730587005615,
+            "Type": "OTHER",
+            "Text": "https://t.co/8ZQOxDR275",
+            "BeginOffset": 61,
+            "EndOffset": 84
+        }
+    ]
+}

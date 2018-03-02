@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6701103448867798,
+            "Type": "ORGANIZATION",
+            "Text": "@ActivistPost",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.486554890871048,
+            "Type": "ORGANIZATION",
+            "Text": "GE",
+            "BeginOffset": 18,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.9794691801071167,
+            "Type": "LOCATION",
+            "Text": "Florida",
+            "BeginOffset": 56,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9999732971191406,
+            "Type": "OTHER",
+            "Text": "https://t.co/0iMAZCMDV6",
+            "BeginOffset": 74,
+            "EndOffset": 97
+        }
+    ]
+}

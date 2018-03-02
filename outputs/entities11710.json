@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.824812114238739,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.7696154713630676,
+            "Type": "PERSON",
+            "Text": "@EurWeb",
+            "BeginOffset": 14,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9993786811828613,
+            "Type": "OTHER",
+            "Text": "https://t.co/b41r3C0bVB",
+            "BeginOffset": 47,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9999393224716187,
+            "Type": "OTHER",
+            "Text": "https://t.co/TQZ7YPeJe9",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        }
+    ]
+}

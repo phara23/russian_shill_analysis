@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9650670289993286,
+            "Type": "LOCATION",
+            "Text": "Pennsylvania",
+            "BeginOffset": 9,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9765620827674866,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 59,
+            "EndOffset": 64
+        }
+    ]
+}

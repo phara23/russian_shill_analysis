@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8477838635444641,
+            "Type": "PERSON",
+            "Text": "@TheSynead",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8440330624580383,
+            "Type": "ORGANIZATION",
+            "Text": "IG",
+            "BeginOffset": 15,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9994231462478638,
+            "Type": "DATE",
+            "Text": "2011",
+            "BeginOffset": 39,
+            "EndOffset": 43
+        }
+    ]
+}

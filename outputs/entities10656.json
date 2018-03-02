@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5001274347305298,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8418479561805725,
+            "Type": "ORGANIZATION",
+            "Text": "@Ni_Marketing",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7357504367828369,
+            "Type": "ORGANIZATION",
+            "Text": "@TheRealMissNana",
+            "BeginOffset": 44,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9764088988304138,
+            "Type": "OTHER",
+            "Text": "https://t.co/u0GOGFPT",
+            "BeginOffset": 118,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9546038508415222,
+            "Type": "PERSON",
+            "Text": "@sandyaschneider",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9997917413711548,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 35,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.7745798826217651,
+            "Type": "OTHER",
+            "Text": "https://t.co/DpxEAdbO1d",
+            "BeginOffset": 86,
+            "EndOffset": 109
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9107580780982971,
+            "Type": "PERSON",
+            "Text": "@mikememphis112",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.6685424447059631,
+            "Type": "ORGANIZATION",
+            "Text": "#CNN",
+            "BeginOffset": 20,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9507178068161011,
+            "Type": "DATE",
+            "Text": "tonight",
+            "BeginOffset": 60,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.999902606010437,
+            "Type": "OTHER",
+            "Text": "https://t.co/W27cWN7tlu",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        }
+    ]
+}

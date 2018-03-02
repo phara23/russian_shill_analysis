@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7636182308197021,
+            "Type": "PERSON",
+            "Text": "@realDailyWire",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7409172058105469,
+            "Type": "ORGANIZATION",
+            "Text": "ATF",
+            "BeginOffset": 19,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9999580383300781,
+            "Type": "OTHER",
+            "Text": "https://t.co/idYbPxha8D",
+            "BeginOffset": 87,
+            "EndOffset": 110
+        }
+    ]
+}

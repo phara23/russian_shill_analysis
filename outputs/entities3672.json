@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9053529500961304,
+            "Type": "PERSON",
+            "Text": "@mc_derpin",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9880796074867249,
+            "Type": "ORGANIZATION",
+            "Text": "twitter",
+            "BeginOffset": 96,
+            "EndOffset": 103
+        }
+    ]
+}

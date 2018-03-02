@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.774047315120697,
+            "Type": "PERSON",
+            "Text": "@MyspaceMike_",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.772437334060669,
+            "Type": "PERSON",
+            "Text": "@NolteNC",
+            "BeginOffset": 18,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9727425575256348,
+            "Type": "LOCATION",
+            "Text": "Detroit",
+            "BeginOffset": 55,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.999874472618103,
+            "Type": "OTHER",
+            "Text": "https://t.co/yNahekrw8t",
+            "BeginOffset": 64,
+            "EndOffset": 87
+        }
+    ]
+}

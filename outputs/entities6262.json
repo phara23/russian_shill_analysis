@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9782423377037048,
+            "Type": "PERSON",
+            "Text": "Kerry",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.41601213812828064,
+            "Type": "OTHER",
+            "Text": "French",
+            "BeginOffset": 17,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9728406071662903,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 39,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9788179397583008,
+            "Type": "OTHER",
+            "Text": "https://t.co/YDpRrzS6oq",
+            "BeginOffset": 45,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9601511359214783,
+            "Type": "OTHER",
+            "Text": "https://t.co/3d02FUVg2D",
+            "BeginOffset": 77,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.9999814033508301,
+            "Type": "OTHER",
+            "Text": "https://t.co/lKcADeU3AR",
+            "BeginOffset": 101,
+            "EndOffset": 124
+        }
+    ]
+}

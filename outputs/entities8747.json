@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8597066402435303,
+            "Type": "PERSON",
+            "Text": "@TinaConsole",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.878261387348175,
+            "Type": "PERSON",
+            "Text": "@SenFranken",
+            "BeginOffset": 30,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9953853487968445,
+            "Type": "PERSON",
+            "Text": "Mattis",
+            "BeginOffset": 44,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.3646974563598633,
+            "Type": "ORGANIZATION",
+            "Text": "DT",
+            "BeginOffset": 104,
+            "EndOffset": 106
+        }
+    ]
+}

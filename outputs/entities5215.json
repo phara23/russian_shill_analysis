@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9248262047767639,
+            "Type": "PERSON",
+            "Text": "@Chris_1791",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9920153617858887,
+            "Type": "PERSON",
+            "Text": "Paul Ryan",
+            "BeginOffset": 16,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.956419050693512,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 27,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9354265928268433,
+            "Type": "TITLE",
+            "Text": "Obamacare",
+            "BeginOffset": 61,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.7554298043251038,
+            "Type": "OTHER",
+            "Text": "http://t.c",
+            "BeginOffset": 129,
+            "EndOffset": 139
+        }
+    ]
+}

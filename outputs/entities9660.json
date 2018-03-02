@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8947471380233765,
+            "Type": "PERSON",
+            "Text": "@carrieksada",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8252915143966675,
+            "Type": "PERSON",
+            "Text": "@LeahR77",
+            "BeginOffset": 17,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.727246105670929,
+            "Type": "EVENT",
+            "Text": "Christmas",
+            "BeginOffset": 32,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9731650948524475,
+            "Type": "PERSON",
+            "Text": "Carmine",
+            "BeginOffset": 58,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9973414540290833,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 84,
+            "EndOffset": 89
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9238699674606323,
+            "Type": "PERSON",
+            "Text": "@woodywood143",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8884556889533997,
+            "Type": "ORGANIZATION",
+            "Text": "Washington Post",
+            "BeginOffset": 30,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9997932314872742,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 56,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.858585774898529,
+            "Type": "ORGANIZATION",
+            "Text": "Breitbart",
+            "BeginOffset": 103,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.9579020738601685,
+            "Type": "OTHER",
+            "Text": "https://t.co/SwRzHoGQ7r",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        }
+    ]
+}

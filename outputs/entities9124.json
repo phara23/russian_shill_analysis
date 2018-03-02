@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9426704049110413,
+            "Type": "PERSON",
+            "Text": "@Christy111575",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9799646139144897,
+            "Type": "DATE",
+            "Text": "today",
+            "BeginOffset": 97,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.9996445178985596,
+            "Type": "OTHER",
+            "Text": "https://t.co/mDh8KrIbJy",
+            "BeginOffset": 104,
+            "EndOffset": 127
+        }
+    ]
+}

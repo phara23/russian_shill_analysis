@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8370540738105774,
+            "Type": "PERSON",
+            "Text": "@DarrenFreedom",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9778444766998291,
+            "Type": "PERSON",
+            "Text": "@docrocktex26",
+            "BeginOffset": 19,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9928293228149414,
+            "Type": "PERSON",
+            "Text": "@WrapNik75",
+            "BeginOffset": 33,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9583084583282471,
+            "Type": "PERSON",
+            "Text": "@Kalarigamerchic",
+            "BeginOffset": 44,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9963462948799133,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 90,
+            "EndOffset": 95
+        }
+    ]
+}

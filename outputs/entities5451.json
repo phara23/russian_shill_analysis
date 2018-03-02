@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6512072086334229,
+            "Type": "PERSON",
+            "Text": "@RenewUSTweets",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.4148287773132324,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 19,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.7634625434875488,
+            "Type": "ORGANIZATION",
+            "Text": "@SOMERSKYS",
+            "BeginOffset": 22,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9574436545372009,
+            "Type": "PERSON",
+            "Text": "Phil",
+            "BeginOffset": 98,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.9289742112159729,
+            "Type": "QUANTITY",
+            "Text": "4:13",
+            "BeginOffset": 102,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.9001297354698181,
+            "Type": "OTHER",
+            "Text": "https://t.co/psKpNIM2AW",
+            "BeginOffset": 107,
+            "EndOffset": 130
+        },
+        {
+            "Score": 0.4299260675907135,
+            "Type": "ORGANIZATION",
+            "Text": "#RenewUS",
+            "BeginOffset": 131,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9055280089378357,
+            "Type": "PERSON",
+            "Text": "Pence",
+            "BeginOffset": 36,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.607161819934845,
+            "Type": "OTHER",
+            "Text": "Syrian",
+            "BeginOffset": 45,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9999250173568726,
+            "Type": "OTHER",
+            "Text": "https://t.co/VtFVumUala",
+            "BeginOffset": 61,
+            "EndOffset": 84
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6945962905883789,
+            "Type": "PERSON",
+            "Text": "@politico",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9801135063171387,
+            "Type": "ORGANIZATION",
+            "Text": "Iraqi Army",
+            "BeginOffset": 18,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9858866930007935,
+            "Type": "OTHER",
+            "Text": "http://t.co/BRGQYCVtRS",
+            "BeginOffset": 55,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9653076529502869,
+            "Type": "ORGANIZATION",
+            "Text": "@POLITICOMag",
+            "BeginOffset": 82,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.5946801900863647,
+            "Type": "ORGANIZATION",
+            "Text": "Getty",
+            "BeginOffset": 97,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.9999802112579346,
+            "Type": "OTHER",
+            "Text": "http://t.co/9GJHGX5t02",
+            "BeginOffset": 103,
+            "EndOffset": 125
+        }
+    ]
+}

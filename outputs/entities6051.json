@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9352461695671082,
+            "Type": "PERSON",
+            "Text": "@DrJillStein",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9479855895042419,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 82,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9695349931716919,
+            "Type": "OTHER",
+            "Text": "https://t.co/W3QD0PjcoB",
+            "BeginOffset": 87,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.9499372243881226,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 121,
+            "EndOffset": 125
+        },
+        {
+            "Score": 0.9146038889884949,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

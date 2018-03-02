@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8199741840362549,
+            "Type": "PERSON",
+            "Text": "@TexanandBlessed",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.4383266568183899,
+            "Type": "QUANTITY",
+            "Text": "650000",
+            "BeginOffset": 37,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9088267087936401,
+            "Type": "ORGANIZATION",
+            "Text": "Muslim",
+            "BeginOffset": 44,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.7164022326469421,
+            "Type": "QUANTITY",
+            "Text": "1st",
+            "BeginOffset": 60,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.7852346301078796,
+            "Type": "QUANTITY",
+            "Text": "2nd",
+            "BeginOffset": 68,
+            "EndOffset": 71
+        }
+    ]
+}

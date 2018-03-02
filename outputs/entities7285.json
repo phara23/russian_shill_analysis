@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.907859206199646,
+            "Type": "PERSON",
+            "Text": "@CapehartJ",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.6729898452758789,
+            "Type": "QUANTITY",
+            "Text": "12YO",
+            "BeginOffset": 35,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.6562946438789368,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 129,
+            "EndOffset": 138
+        }
+    ]
+}

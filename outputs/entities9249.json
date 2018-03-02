@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9517064094543457,
+            "Type": "PERSON",
+            "Text": "@JOHNR1488",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9797898530960083,
+            "Type": "PERSON",
+            "Text": "Bill",
+            "BeginOffset": 15,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8804270029067993,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 107,
+            "EndOffset": 122
+        }
+    ]
+}

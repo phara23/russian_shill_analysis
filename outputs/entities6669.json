@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.933817982673645,
+            "Type": "PERSON",
+            "Text": "@MEMY5953",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.941959798336029,
+            "Type": "PERSON",
+            "Text": "@oreillyfactor",
+            "BeginOffset": 14,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9881628155708313,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 29,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9190737009048462,
+            "Type": "PERSON",
+            "Text": "@newtgingrich",
+            "BeginOffset": 46,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.8535190224647522,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 70,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9994229078292847,
+            "Type": "OTHER",
+            "Text": "https://t.co/fZRvbIzyLF",
+            "BeginOffset": 100,
+            "EndOffset": 123
+        }
+    ]
+}

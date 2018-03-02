@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8817670941352844,
+            "Type": "PERSON",
+            "Text": "@SPOOKYKEVlN",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9857962131500244,
+            "Type": "PERSON",
+            "Text": "Will Smith",
+            "BeginOffset": 32,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9999618530273438,
+            "Type": "OTHER",
+            "Text": "https://t.co/dKz0gdkPoa",
+            "BeginOffset": 81,
+            "EndOffset": 104
+        }
+    ]
+}

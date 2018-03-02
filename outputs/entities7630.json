@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8168660998344421,
+            "Type": "ORGANIZATION",
+            "Text": "@KNP2BP",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.7040478587150574,
+            "Type": "LOCATION",
+            "Text": "U.S.",
+            "BeginOffset": 17,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9143378138542175,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 130,
+            "EndOffset": 143
+        }
+    ]
+}

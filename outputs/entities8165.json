@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6025072336196899,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.9803236722946167,
+            "Type": "PERSON",
+            "Text": "Yoder",
+            "BeginOffset": 8,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.919820249080658,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 19,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9300056099891663,
+            "Type": "LOCATION",
+            "Text": "Kansas",
+            "BeginOffset": 34,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.8853254318237305,
+            "Type": "QUANTITY",
+            "Text": "3rd",
+            "BeginOffset": 42,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.8207330107688904,
+            "Type": "OTHER",
+            "Text": "https://t.co/vbmNgiwHCR",
+            "BeginOffset": 46,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.48566922545433044,
+            "Type": "ORGANIZATION",
+            "Text": "#news",
+            "BeginOffset": 70,
+            "EndOffset": 75
+        }
+    ]
+}

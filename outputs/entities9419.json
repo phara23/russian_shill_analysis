@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9954696893692017,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 36,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9088543653488159,
+            "Type": "QUANTITY",
+            "Text": "first three weeks",
+            "BeginOffset": 64,
+            "EndOffset": 81
+        }
+    ]
+}

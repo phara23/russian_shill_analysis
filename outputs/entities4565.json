@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8525912761688232,
+            "Type": "PERSON",
+            "Text": "@Manifest1776",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9560123682022095,
+            "Type": "ORGANIZATION",
+            "Text": "Democrats",
+            "BeginOffset": 32,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.8306969404220581,
+            "Type": "PERSON",
+            "Text": "Gorsuch",
+            "BeginOffset": 61,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9515371918678284,
+            "Type": "PERSON",
+            "Text": "@chuckschumer",
+            "BeginOffset": 70,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.9890344142913818,
+            "Type": "DATE",
+            "Text": "2006",
+            "BeginOffset": 123,
+            "EndOffset": 127
+        }
+    ]
+}

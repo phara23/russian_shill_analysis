@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9244585633277893,
+            "Type": "PERSON",
+            "Text": "@piersmorgan",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9935469031333923,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 60,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9098042249679565,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 73,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.9378504753112793,
+            "Type": "PERSON",
+            "Text": "@kur",
+            "BeginOffset": 139,
+            "EndOffset": 143
+        }
+    ]
+}

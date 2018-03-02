@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8248317837715149,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.677971363067627,
+            "Type": "PERSON",
+            "Text": "@GoodBlackNews",
+            "BeginOffset": 14,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.5090722441673279,
+            "Type": "ORGANIZATION",
+            "Text": "JP Morgan",
+            "BeginOffset": 30,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.4199948310852051,
+            "Type": "ORGANIZATION",
+            "Text": "Chase",
+            "BeginOffset": 40,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9912610650062561,
+            "Type": "QUANTITY",
+            "Text": "5 million",
+            "BeginOffset": 63,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.9998973608016968,
+            "Type": "OTHER",
+            "Text": "https://t.co/m6QGmAryUz",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        }
+    ]
+}

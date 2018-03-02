@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7772799730300903,
+            "Type": "PERSON",
+            "Text": "@virenemann",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.796802282333374,
+            "Type": "ORGANIZATION",
+            "Text": "@FoxNews",
+            "BeginOffset": 16,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.787388026714325,
+            "Type": "PERSON",
+            "Text": "@newtgingrich",
+            "BeginOffset": 25,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9999891519546509,
+            "Type": "OTHER",
+            "Text": "https://t.co/YB5xXnPhA8",
+            "BeginOffset": 55,
+            "EndOffset": 78
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7505839467048645,
+            "Type": "PERSON",
+            "Text": "@kentsomers",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9996370673179626,
+            "Type": "PERSON",
+            "Text": "Patrick Peterson",
+            "BeginOffset": 16,
+            "EndOffset": 32
+        }
+    ]
+}

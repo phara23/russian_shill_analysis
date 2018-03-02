@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8583444952964783,
+            "Type": "PERSON",
+            "Text": "Che Guevara",
+            "BeginOffset": 0,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9728274941444397,
+            "Type": "OTHER",
+            "Text": "https://t.co/L1ltLvVBIA",
+            "BeginOffset": 52,
+            "EndOffset": 75
+        }
+    ]
+}

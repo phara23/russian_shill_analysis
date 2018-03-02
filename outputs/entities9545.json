@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8491436243057251,
+            "Type": "PERSON",
+            "Text": "@WashGovernment",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.406724214553833,
+            "Type": "ORGANIZATION",
+            "Text": "#BillClinton",
+            "BeginOffset": 25,
+            "EndOffset": 37
+        }
+    ]
+}

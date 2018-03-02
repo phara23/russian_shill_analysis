@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7166367173194885,
+            "Type": "PERSON",
+            "Text": "@Deadspin",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.999711275100708,
+            "Type": "PERSON",
+            "Text": "Brian Kelly",
+            "BeginOffset": 14,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9168332815170288,
+            "Type": "ORGANIZATION",
+            "Text": "Notre Dame",
+            "BeginOffset": 37,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9267473220825195,
+            "Type": "OTHER",
+            "Text": "https://t.co/AboJRG7",
+            "BeginOffset": 119,
+            "EndOffset": 139
+        }
+    ]
+}

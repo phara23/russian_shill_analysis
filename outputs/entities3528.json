@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7732337713241577,
+            "Type": "ORGANIZATION",
+            "Text": "democrats",
+            "BeginOffset": 48,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.8902353048324585,
+            "Type": "ORGANIZATION",
+            "Text": "democrats",
+            "BeginOffset": 62,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9545314908027649,
+            "Type": "ORGANIZATION",
+            "Text": "Muslims",
+            "BeginOffset": 80,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.4939347803592682,
+            "Type": "ORGANIZATION",
+            "Text": "#BanIslam",
+            "BeginOffset": 89,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.9999088048934937,
+            "Type": "OTHER",
+            "Text": "https://t.co/B3G5uA1Wpp",
+            "BeginOffset": 99,
+            "EndOffset": 122
+        }
+    ]
+}

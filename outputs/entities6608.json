@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7512434124946594,
+            "Type": "PERSON",
+            "Text": "@NotoriousCartel",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.4519729018211365,
+            "Type": "QUANTITY",
+            "Text": "4",
+            "BeginOffset": 55,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.693818211555481,
+            "Type": "PERSON",
+            "Text": "@ https://t.co/LrJFmwpZG6",
+            "BeginOffset": 74,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.9999744892120361,
+            "Type": "OTHER",
+            "Text": "https://t.co/rQY2tCrbxZ",
+            "BeginOffset": 102,
+            "EndOffset": 125
+        }
+    ]
+}

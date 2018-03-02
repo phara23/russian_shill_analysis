@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.835001528263092,
+            "Type": "PERSON",
+            "Text": "@landofmind1",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.4875025451183319,
+            "Type": "ORGANIZATION",
+            "Text": "Florida Election",
+            "BeginOffset": 17,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9788029789924622,
+            "Type": "OTHER",
+            "Text": "https://t.co/IiLjk3TB8O",
+            "BeginOffset": 98,
+            "EndOffset": 121
+        },
+        {
+            "Score": 0.813818633556366,
+            "Type": "ORGANIZATION",
+            "Text": "@yesimright1",
+            "BeginOffset": 126,
+            "EndOffset": 138
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8204732537269592,
+            "Type": "PERSON",
+            "Text": "@USMCGeekInside",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9959473609924316,
+            "Type": "PERSON",
+            "Text": "John McCain",
+            "BeginOffset": 20,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9965693950653076,
+            "Type": "OTHER",
+            "Text": "https://t.co/sXcwlEi2jX",
+            "BeginOffset": 64,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.8944262266159058,
+            "Type": "DATE",
+            "Text": "2000",
+            "BeginOffset": 132,
+            "EndOffset": 136
+        }
+    ]
+}

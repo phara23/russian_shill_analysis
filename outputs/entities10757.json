@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8166999220848083,
+            "Type": "PERSON",
+            "Text": "@GasOperated300",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8734529614448547,
+            "Type": "PERSON",
+            "Text": "@camboviet",
+            "BeginOffset": 20,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9760520458221436,
+            "Type": "OTHER",
+            "Text": "https://t.co/htxzpKWnEK",
+            "BeginOffset": 93,
+            "EndOffset": 116
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8857017159461975,
+            "Type": "PERSON",
+            "Text": "@JackBPR",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8985022306442261,
+            "Type": "ORGANIZATION",
+            "Text": "Clinton Foundation",
+            "BeginOffset": 53,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.7531064748764038,
+            "Type": "OTHER",
+            "Text": "https://t.co/GyEmyMyyyW",
+            "BeginOffset": 85,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.9998787641525269,
+            "Type": "OTHER",
+            "Text": "https://t.co/LUeYKduwdf",
+            "BeginOffset": 109,
+            "EndOffset": 132
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9454824924468994,
+            "Type": "PERSON",
+            "Text": "@brianklaas",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9974877834320068,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 16,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.8809617757797241,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 52,
+            "EndOffset": 54
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9072654247283936,
+            "Type": "PERSON",
+            "Text": "@KIR_bigg50",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8863932490348816,
+            "Type": "PERSON",
+            "Text": "@larryelder",
+            "BeginOffset": 99,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.9958018064498901,
+            "Type": "PERSON",
+            "Text": "@Coondawg68",
+            "BeginOffset": 111,
+            "EndOffset": 122
+        },
+        {
+            "Score": 0.9698789119720459,
+            "Type": "PERSON",
+            "Text": "@FrantzRadio",
+            "BeginOffset": 123,
+            "EndOffset": 135
+        }
+    ]
+}

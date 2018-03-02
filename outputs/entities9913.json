@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8636260032653809,
+            "Type": "PERSON",
+            "Text": "@Cernovich",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9998401403427124,
+            "Type": "OTHER",
+            "Text": "https://t.co/ccRRpqWu6A",
+            "BeginOffset": 37,
+            "EndOffset": 60
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8488749861717224,
+            "Type": "PERSON",
+            "Text": "@TwiterHero",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9899770021438599,
+            "Type": "PERSON",
+            "Text": "hillary clinton",
+            "BeginOffset": 19,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.6665188074111938,
+            "Type": "ORGANIZATION",
+            "Text": "democrats",
+            "BeginOffset": 46,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.8388803601264954,
+            "Type": "OTHER",
+            "Text": "https://t.co/ms93EmlfPw",
+            "BeginOffset": 78,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.9997249245643616,
+            "Type": "OTHER",
+            "Text": "https://t.co/EvnTlbHApM",
+            "BeginOffset": 102,
+            "EndOffset": 125
+        }
+    ]
+}

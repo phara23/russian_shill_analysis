@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5038285851478577,
+            "Type": "PERSON",
+            "Text": "Roof",
+            "BeginOffset": 15,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8068169355392456,
+            "Type": "PERSON",
+            "Text": "@midnight",
+            "BeginOffset": 38,
+            "EndOffset": 47
+        }
+    ]
+}

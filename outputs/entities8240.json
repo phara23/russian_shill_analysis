@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8335074186325073,
+            "Type": "PERSON",
+            "Text": "@readwriteblue",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.3396797180175781,
+            "Type": "PERSON",
+            "Text": "COMEY",
+            "BeginOffset": 19,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9749854207038879,
+            "Type": "ORGANIZATION",
+            "Text": "FBI",
+            "BeginOffset": 27,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.7301561832427979,
+            "Type": "ORGANIZATION",
+            "Text": "NY Observer",
+            "BeginOffset": 94,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.9385923147201538,
+            "Type": "OTHER",
+            "Text": "https://t.co/crao7",
+            "BeginOffset": 121,
+            "EndOffset": 139
+        }
+    ]
+}

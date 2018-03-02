@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8997108340263367,
+            "Type": "PERSON",
+            "Text": "@Davewellwisher",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8741686344146729,
+            "Type": "QUANTITY",
+            "Text": "1ST",
+            "BeginOffset": 20,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9499582052230835,
+            "Type": "ORGANIZATION",
+            "Text": "FBI",
+            "BeginOffset": 37,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9203808903694153,
+            "Type": "PERSON",
+            "Text": "HILLARY",
+            "BeginOffset": 78,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.9754860997200012,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 130,
+            "EndOffset": 143
+        }
+    ]
+}

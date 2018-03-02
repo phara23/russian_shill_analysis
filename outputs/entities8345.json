@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9691042900085449,
+            "Type": "PERSON",
+            "Text": "@JamilSmith",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9990531802177429,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 37,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.8750444650650024,
+            "Type": "DATE",
+            "Text": "Monday night",
+            "BeginOffset": 85,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.9789191484451294,
+            "Type": "QUANTITY",
+            "Text": "18,500 people",
+            "BeginOffset": 99,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.6214419007301331,
+            "Type": "ORGANIZATION",
+            "Text": "Ohio State",
+            "BeginOffset": 116,
+            "EndOffset": 126
+        },
+        {
+            "Score": 0.9294584393501282,
+            "Type": "OTHER",
+            "Text": "https://t.c",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9123105406761169,
+            "Type": "PERSON",
+            "Text": "@Victori71012315",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9978610873222351,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 46,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9933238625526428,
+            "Type": "PERSON",
+            "Text": "Donald",
+            "BeginOffset": 91,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.9294462203979492,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 110,
+            "EndOffset": 117
+        },
+        {
+            "Score": 0.8655079007148743,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 121,
+            "EndOffset": 137
+        }
+    ]
+}

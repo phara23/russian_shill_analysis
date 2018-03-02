@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7335963845252991,
+            "Type": "PERSON",
+            "Text": "@vulture",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.6792760491371155,
+            "Type": "PERSON",
+            "Text": "@AVAETC",
+            "BeginOffset": 14,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.7969396114349365,
+            "Type": "PERSON",
+            "Text": "@rtraister",
+            "BeginOffset": 33,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9244540333747864,
+            "Type": "ORGANIZATION",
+            "Text": "Hollywood",
+            "BeginOffset": 50,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.9852572083473206,
+            "Type": "OTHER",
+            "Text": "https://t.co/8lsjM3",
+            "BeginOffset": 120,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6748596429824829,
+            "Type": "ORGANIZATION",
+            "Text": "@ConNewsNow",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9915376901626587,
+            "Type": "ORGANIZATION",
+            "Text": "CNN",
+            "BeginOffset": 24,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9341951608657837,
+            "Type": "ORGANIZATION",
+            "Text": "NBC",
+            "BeginOffset": 29,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9994737505912781,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 69,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9821597933769226,
+            "Type": "OTHER",
+            "Text": "https://t.co/XqVA4eMMZ7",
+            "BeginOffset": 102,
+            "EndOffset": 125
+        }
+    ]
+}

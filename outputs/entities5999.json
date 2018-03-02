@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8949814438819885,
+            "Type": "PERSON",
+            "Text": "@PrisonPlanet",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9819295406341553,
+            "Type": "PERSON",
+            "Text": "Tucker Carlson",
+            "BeginOffset": 101,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.9998632669448853,
+            "Type": "OTHER",
+            "Text": "https://t.co/eOklFlkiqy",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

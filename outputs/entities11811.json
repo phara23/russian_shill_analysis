@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9784335494041443,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 12,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.5847007632255554,
+            "Type": "QUANTITY",
+            "Text": "100",
+            "BeginOffset": 46,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9925597906112671,
+            "Type": "ORGANIZATION",
+            "Text": "Facebook",
+            "BeginOffset": 56,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9163128733634949,
+            "Type": "OTHER",
+            "Text": "https://t.co/cucoPKQn90",
+            "BeginOffset": 73,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.9999537467956543,
+            "Type": "OTHER",
+            "Text": "https://t.co/L0KyeX1BBm",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        }
+    ]
+}

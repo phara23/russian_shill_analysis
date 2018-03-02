@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8647615909576416,
+            "Type": "PERSON",
+            "Text": "@JuvenileCrime",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6448602080345154,
+            "Type": "QUANTITY",
+            "Text": "#1",
+            "BeginOffset": 39,
+            "EndOffset": 41
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7646254301071167,
+            "Type": "PERSON",
+            "Text": "@Reality_Alert",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6567508578300476,
+            "Type": "PERSON",
+            "Text": "Christ",
+            "BeginOffset": 80,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9617920517921448,
+            "Type": "OTHER",
+            "Text": "https://t.co/kl12DwP61w",
+            "BeginOffset": 87,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.9999775886535645,
+            "Type": "OTHER",
+            "Text": "https://t.co/tooxPP2jV2",
+            "BeginOffset": 111,
+            "EndOffset": 134
+        }
+    ]
+}

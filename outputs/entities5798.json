@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7568246722221375,
+            "Type": "PERSON",
+            "Text": "@ZaibatsuNews",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.748751699924469,
+            "Type": "ORGANIZATION",
+            "Text": "Fiat Chrysler",
+            "BeginOffset": 18,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.993699312210083,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 44,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9080362319946289,
+            "Type": "PERSON",
+            "Text": "President-elect",
+            "BeginOffset": 60,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.9749968647956848,
+            "Type": "OTHER",
+            "Text": "https://t.co/TMf3JeNDeD",
+            "BeginOffset": 115,
+            "EndOffset": 138
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5148561000823975,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.973555862903595,
+            "Type": "PERSON",
+            "Text": "@Nate_Cohn",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.831767737865448,
+            "Type": "QUANTITY",
+            "Text": "millions of illegal v",
+            "BeginOffset": 118,
+            "EndOffset": 139
+        }
+    ]
+}

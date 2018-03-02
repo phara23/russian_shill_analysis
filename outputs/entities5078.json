@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7319863438606262,
+            "Type": "PERSON",
+            "Text": "@TheRReport",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.5449811816215515,
+            "Type": "QUANTITY",
+            "Text": "one",
+            "BeginOffset": 21,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9984254837036133,
+            "Type": "PERSON",
+            "Text": "Charles Koch",
+            "BeginOffset": 55,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.999727189540863,
+            "Type": "OTHER",
+            "Text": "http://t.co/qvrmrkxkbg",
+            "BeginOffset": 108,
+            "EndOffset": 130
+        }
+    ]
+}

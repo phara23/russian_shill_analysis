@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8414369225502014,
+            "Type": "PERSON",
+            "Text": "@NOrleansDaily",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6429075598716736,
+            "Type": "PERSON",
+            "Text": "Lynch",
+            "BeginOffset": 42,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.8473513722419739,
+            "Type": "LOCATION",
+            "Text": "Baltimore",
+            "BeginOffset": 56,
+            "EndOffset": 65
+        }
+    ]
+}

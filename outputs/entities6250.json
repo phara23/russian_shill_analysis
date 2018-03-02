@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9020785689353943,
+            "Type": "PERSON",
+            "Text": "@PrisonPlanet",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9956086277961731,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 50,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9232802987098694,
+            "Type": "LOCATION",
+            "Text": "NYC",
+            "BeginOffset": 68,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9639934301376343,
+            "Type": "OTHER",
+            "Text": "https://t.co/gTqO7Aa",
+            "BeginOffset": 117,
+            "EndOffset": 137
+        }
+    ]
+}

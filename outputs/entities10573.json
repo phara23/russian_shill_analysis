@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8004911541938782,
+            "Type": "PERSON",
+            "Text": "@IsotopeRose",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7912653684616089,
+            "Type": "PERSON",
+            "Text": "Oprah",
+            "BeginOffset": 23,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9999834299087524,
+            "Type": "OTHER",
+            "Text": "https://t.co/1WxRAc69Mm",
+            "BeginOffset": 30,
+            "EndOffset": 53
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7705389261245728,
+            "Type": "PERSON",
+            "Text": "@inXwords",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.7339550852775574,
+            "Type": "DATE",
+            "Text": "#2016",
+            "BeginOffset": 14,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8188596963882446,
+            "Type": "QUANTITY",
+            "Text": "3Words",
+            "BeginOffset": 29,
+            "EndOffset": 35
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8354923129081726,
+            "Type": "PERSON",
+            "Text": "@NOrleansDaily",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8274983167648315,
+            "Type": "ORGANIZATION",
+            "Text": "CNN Money",
+            "BeginOffset": 60,
+            "EndOffset": 69
+        }
+    ]
+}

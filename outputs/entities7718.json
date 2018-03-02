@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.718422532081604,
+            "Type": "PERSON",
+            "Text": "@tymajestic",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8276076316833496,
+            "Type": "ORGANIZATION",
+            "Text": "@3rdEyePluG",
+            "BeginOffset": 16,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.7237654328346252,
+            "Type": "PERSON",
+            "Text": "@TurkeyNoPork",
+            "BeginOffset": 28,
+            "EndOffset": 41
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7999669313430786,
+            "Type": "PERSON",
+            "Text": "@GOPBriefingRoom",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.6259855031967163,
+            "Type": "ORGANIZATION",
+            "Text": "Pentagon",
+            "BeginOffset": 31,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9648838639259338,
+            "Type": "COMMERCIAL_ITEM",
+            "Text": "F-35",
+            "BeginOffset": 70,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.8679659366607666,
+            "Type": "ORGANIZATION",
+            "Text": "Pentagon",
+            "BeginOffset": 76,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.957441508769989,
+            "Type": "COMMERCIAL_ITEM",
+            "Text": "F-35    Le",
+            "BeginOffset": 115,
+            "EndOffset": 125
+        },
+        {
+            "Score": 0.5528267025947571,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 129,
+            "EndOffset": 138
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8677458763122559,
+            "Type": "PERSON",
+            "Text": "@TalkingWthTammy",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9701698422431946,
+            "Type": "DATE",
+            "Text": "622AD",
+            "BeginOffset": 115,
+            "EndOffset": 120
+        }
+    ]
+}

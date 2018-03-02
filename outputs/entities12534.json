@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9310622811317444,
+            "Type": "PERSON",
+            "Text": "@robertjeffress",
+            "BeginOffset": 1,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9065836668014526,
+            "Type": "ORGANIZATION",
+            "Text": "Christians",
+            "BeginOffset": 18,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9408962726593018,
+            "Type": "LOCATION",
+            "Text": "U.S.",
+            "BeginOffset": 76,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.9999485015869141,
+            "Type": "OTHER",
+            "Text": "https://t.co/dijPjz9gG2",
+            "BeginOffset": 104,
+            "EndOffset": 127
+        }
+    ]
+}

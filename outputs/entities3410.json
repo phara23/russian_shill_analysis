@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9507720470428467,
+            "Type": "PERSON",
+            "Text": "@PennyDreadful81",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.5130621790885925,
+            "Type": "ORGANIZATION",
+            "Text": "Wall St",
+            "BeginOffset": 81,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.8811162710189819,
+            "Type": "PERSON",
+            "Text": "@BarackObama",
+            "BeginOffset": 100,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.8232736587524414,
+            "Type": "PERSON",
+            "Text": "@TheDemocrats",
+            "BeginOffset": 113,
+            "EndOffset": 126
+        },
+        {
+            "Score": 0.8308254480361938,
+            "Type": "ORGANIZATION",
+            "Text": "@GOP",
+            "BeginOffset": 127,
+            "EndOffset": 131
+        }
+    ]
+}

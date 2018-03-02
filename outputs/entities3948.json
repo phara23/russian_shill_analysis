@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7837926745414734,
+            "Type": "PERSON",
+            "Text": "@LifeZette",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9798935651779175,
+            "Type": "QUANTITY",
+            "Text": "9 celebrities",
+            "BeginOffset": 15,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9399687051773071,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 58,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9998952150344849,
+            "Type": "OTHER",
+            "Text": "https://t.co/8pZOUiRQHa",
+            "BeginOffset": 75,
+            "EndOffset": 98
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8732454776763916,
+            "Type": "PERSON",
+            "Text": "@douglasernst",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.47011780738830566,
+            "Type": "PERSON",
+            "Text": "#HillaryClinton",
+            "BeginOffset": 47,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9997076392173767,
+            "Type": "OTHER",
+            "Text": "https://t.co/Z2uQPtGHug",
+            "BeginOffset": 73,
+            "EndOffset": 96
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9265508651733398,
+            "Type": "PERSON",
+            "Text": "@TheMarkRomano",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8929253816604614,
+            "Type": "PERSON",
+            "Text": "Colin",
+            "BeginOffset": 19,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.8536123037338257,
+            "Type": "PERSON",
+            "Text": "Powell",
+            "BeginOffset": 27,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9905022382736206,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 60,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.45885032415390015,
+            "Type": "PERSON",
+            "Text": "Black",
+            "BeginOffset": 81,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9833443760871887,
+            "Type": "OTHER",
+            "Text": "https://t.co/GL",
+            "BeginOffset": 124,
+            "EndOffset": 139
+        }
+    ]
+}

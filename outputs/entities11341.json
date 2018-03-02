@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5046509504318237,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.644940972328186,
+            "Type": "ORGANIZATION",
+            "Text": "@Fingersflying",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9592596888542175,
+            "Type": "ORGANIZATION",
+            "Text": "Al-Qaeda",
+            "BeginOffset": 25,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.8859200477600098,
+            "Type": "ORGANIZATION",
+            "Text": "#Twitter",
+            "BeginOffset": 52,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9864951372146606,
+            "Type": "OTHER",
+            "Text": "https://t.co/UIhU8HxZOz",
+            "BeginOffset": 78,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.5121560096740723,
+            "Type": "ORGANIZATION",
+            "Text": "#Republicans",
+            "BeginOffset": 127,
+            "EndOffset": 139
+        }
+    ]
+}

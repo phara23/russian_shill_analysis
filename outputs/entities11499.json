@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8824397325515747,
+            "Type": "PERSON",
+            "Text": "@zerohedge",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.999177873134613,
+            "Type": "DATE",
+            "Text": "2017",
+            "BeginOffset": 47,
+            "EndOffset": 51
+        }
+    ]
+}

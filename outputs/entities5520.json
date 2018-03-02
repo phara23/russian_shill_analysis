@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7807092070579529,
+            "Type": "PERSON",
+            "Text": "@ age 10",
+            "BeginOffset": 50,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9636121988296509,
+            "Type": "QUANTITY",
+            "Text": "Two times",
+            "BeginOffset": 60,
+            "EndOffset": 69
+        }
+    ]
+}

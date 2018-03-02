@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7875737547874451,
+            "Type": "PERSON",
+            "Text": "@DRUDGE_REPORT",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8675237894058228,
+            "Type": "QUANTITY",
+            "Text": "THREE-HOUR",
+            "BeginOffset": 19,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.7752972841262817,
+            "Type": "ORGANIZATION",
+            "Text": "FACEBOOK",
+            "BeginOffset": 47,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9999732971191406,
+            "Type": "OTHER",
+            "Text": "https://t.co/OhrW1oHAAu",
+            "BeginOffset": 61,
+            "EndOffset": 84
+        }
+    ]
+}

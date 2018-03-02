@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.790036678314209,
+            "Type": "PERSON",
+            "Text": "@govtslaves",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9234626293182373,
+            "Type": "OTHER",
+            "Text": "https://t.co/RgyZzvTuDq",
+            "BeginOffset": 69,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.9999611377716064,
+            "Type": "OTHER",
+            "Text": "https://t.co/VkzZIKeoxV",
+            "BeginOffset": 93,
+            "EndOffset": 116
+        }
+    ]
+}

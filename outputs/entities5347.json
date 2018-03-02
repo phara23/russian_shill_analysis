@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9369840621948242,
+            "Type": "PERSON",
+            "Text": "@Stevenwhirsch99",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8392363786697388,
+            "Type": "PERSON",
+            "Text": "@LorettaLynn",
+            "BeginOffset": 31,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9602967500686646,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 68,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9983994364738464,
+            "Type": "OTHER",
+            "Text": "https://t.co/agRWT0ygMq",
+            "BeginOffset": 110,
+            "EndOffset": 133
+        }
+    ]
+}

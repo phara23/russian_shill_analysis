@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8921263813972473,
+            "Type": "PERSON",
+            "Text": "@EinsLive1",
+            "BeginOffset": 0,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9540165066719055,
+            "Type": "PERSON",
+            "Text": "Frau Merkel",
+            "BeginOffset": 41,
+            "EndOffset": 52
+        }
+    ]
+}

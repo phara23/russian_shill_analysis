@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8985360860824585,
+            "Type": "PERSON",
+            "Text": "Calvin Coolidge",
+            "BeginOffset": 67,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.4142722487449646,
+            "Type": "ORGANIZATION",
+            "Text": "#RNCinCLE",
+            "BeginOffset": 84,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.9789141416549683,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 101,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.40343403816223145,
+            "Type": "LOCATION",
+            "Text": "#Benghazi",
+            "BeginOffset": 106,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.9999724626541138,
+            "Type": "OTHER",
+            "Text": "https://t.co/09AqP95cWm",
+            "BeginOffset": 116,
+            "EndOffset": 139
+        }
+    ]
+}

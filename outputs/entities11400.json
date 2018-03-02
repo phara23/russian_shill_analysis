@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8281652927398682,
+            "Type": "PERSON",
+            "Text": "@DominicValent",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.387635201215744,
+            "Type": "QUANTITY",
+            "Text": "15",
+            "BeginOffset": 35,
+            "EndOffset": 37
+        }
+    ]
+}

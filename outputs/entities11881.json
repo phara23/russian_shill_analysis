@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9264927506446838,
+            "Type": "PERSON",
+            "Text": "@jemelehill",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9985825419425964,
+            "Type": "PERSON",
+            "Text": "Vince Carter",
+            "BeginOffset": 16,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.7944364547729492,
+            "Type": "QUANTITY",
+            "Text": "78% percent",
+            "BeginOffset": 73,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.6279908418655396,
+            "Type": "ORGANIZATION",
+            "Text": "NBA",
+            "BeginOffset": 92,
+            "EndOffset": 95
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9603792428970337,
+            "Type": "PERSON",
+            "Text": "@mariclaire81",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9220656752586365,
+            "Type": "PERSON",
+            "Text": "Carlson",
+            "BeginOffset": 18,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9979748129844666,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 27,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9985048770904541,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 73,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.907473087310791,
+            "Type": "ORGANIZATION",
+            "Text": "Fox News",
+            "BeginOffset": 81,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.9999390840530396,
+            "Type": "OTHER",
+            "Text": "https://t.co/q32ADeJJhb",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        }
+    ]
+}

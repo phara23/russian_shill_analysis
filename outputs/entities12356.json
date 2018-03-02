@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8288916349411011,
+            "Type": "PERSON",
+            "Text": "@RVAwonk",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9726770520210266,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 37,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9937583208084106,
+            "Type": "LOCATION",
+            "Text": "South Korea",
+            "BeginOffset": 81,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.7222706079483032,
+            "Type": "ORGANIZATION",
+            "Text": "NK",
+            "BeginOffset": 107,
+            "EndOffset": 109
+        },
+        {
+            "Score": 0.9744610786437988,
+            "Type": "OTHER",
+            "Text": "https://t.co",
+            "BeginOffset": 130,
+            "EndOffset": 142
+        }
+    ]
+}

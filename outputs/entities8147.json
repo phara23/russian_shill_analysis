@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8469350934028625,
+            "Type": "PERSON",
+            "Text": "@SuperTeeWhy",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8413397073745728,
+            "Type": "PERSON",
+            "Text": "Jesus christ",
+            "BeginOffset": 17,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9999854564666748,
+            "Type": "OTHER",
+            "Text": "https://t.co/3XrAQRK6Fa",
+            "BeginOffset": 56,
+            "EndOffset": 79
+        }
+    ]
+}

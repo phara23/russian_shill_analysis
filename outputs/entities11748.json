@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7901517748832703,
+            "Type": "PERSON",
+            "Text": "@crashlily",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8447821140289307,
+            "Type": "PERSON",
+            "Text": "@CerromeRussell",
+            "BeginOffset": 15,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.5566064119338989,
+            "Type": "QUANTITY",
+            "Text": "one",
+            "BeginOffset": 41,
+            "EndOffset": 44
+        }
+    ]
+}

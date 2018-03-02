@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9635335803031921,
+            "Type": "PERSON",
+            "Text": "@MichaelSkolnik",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9968565702438354,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 51,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.4852946996688843,
+            "Type": "QUANTITY",
+            "Text": "first",
+            "BeginOffset": 89,
+            "EndOffset": 94
+        }
+    ]
+}

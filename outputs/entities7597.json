@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8662482500076294,
+            "Type": "PERSON",
+            "Text": "@parallel_series",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.42074939608573914,
+            "Type": "TITLE",
+            "Text": "#Thereismorethanone",
+            "BeginOffset": 21,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9114709496498108,
+            "Type": "PERSON",
+            "Text": "@parallel_series",
+            "BeginOffset": 69,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.9140584468841553,
+            "Type": "OTHER",
+            "Text": "https://t.co/HU2DP8fyuq",
+            "BeginOffset": 99,
+            "EndOffset": 122
+        },
+        {
+            "Score": 0.9855422973632812,
+            "Type": "OTHER",
+            "Text": "https://t.co/xmC",
+            "BeginOffset": 123,
+            "EndOffset": 139
+        }
+    ]
+}

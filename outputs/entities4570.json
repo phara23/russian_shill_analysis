@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9155891537666321,
+            "Type": "PERSON",
+            "Text": "@CannonballRoll",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7466444373130798,
+            "Type": "ORGANIZATION",
+            "Text": "Christian",
+            "BeginOffset": 57,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9228191375732422,
+            "Type": "ORGANIZATION",
+            "Text": "Muslim",
+            "BeginOffset": 85,
+            "EndOffset": 91
+        }
+    ]
+}

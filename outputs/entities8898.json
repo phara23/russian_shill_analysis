@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8746021389961243,
+            "Type": "PERSON",
+            "Text": "@dwaynefighter",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.762113094329834,
+            "Type": "PERSON",
+            "Text": "Xtina",
+            "BeginOffset": 19,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.8899126648902893,
+            "Type": "EVENT",
+            "Text": "xmas",
+            "BeginOffset": 60,
+            "EndOffset": 64
+        }
+    ]
+}

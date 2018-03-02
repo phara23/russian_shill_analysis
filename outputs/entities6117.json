@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7635273337364197,
+            "Type": "ORGANIZATION",
+            "Text": "@M0L0NL4BE",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9022818207740784,
+            "Type": "ORGANIZATION",
+            "Text": "@PPact",
+            "BeginOffset": 80,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.7860171794891357,
+            "Type": "ORGANIZATION",
+            "Text": "@PogoMalarkey",
+            "BeginOffset": 89,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.7915101647377014,
+            "Type": "ORGANIZATION",
+            "Text": "@KurtSchlichter",
+            "BeginOffset": 103,
+            "EndOffset": 118
+        },
+        {
+            "Score": 0.8928199410438538,
+            "Type": "ORGANIZATION",
+            "Text": "@BryanEffEm",
+            "BeginOffset": 119,
+            "EndOffset": 130
+        }
+    ]
+}

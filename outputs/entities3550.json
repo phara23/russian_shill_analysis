@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9124565124511719,
+            "Type": "PERSON",
+            "Text": "@slamman140",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7764025926589966,
+            "Type": "DATE",
+            "Text": "#2017",
+            "BeginOffset": 16,
+            "EndOffset": 21
+        }
+    ]
+}

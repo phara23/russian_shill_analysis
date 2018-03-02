@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7877729535102844,
+            "Type": "PERSON",
+            "Text": "@Trinity506595",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7224344611167908,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 39,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.7744281888008118,
+            "Type": "PERSON",
+            "Text": "HILLARY CLINTON",
+            "BeginOffset": 63,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.9758228063583374,
+            "Type": "OTHER",
+            "Text": "https://t.co/LXjsUAOrxM",
+            "BeginOffset": 79,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.9839757680892944,
+            "Type": "ORGANIZATION",
+            "Text": "@YouTube",
+            "BeginOffset": 107,
+            "EndOffset": 115
+        }
+    ]
+}

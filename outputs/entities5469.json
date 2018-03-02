@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9947206974029541,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.5802398324012756,
+            "Type": "EVENT",
+            "Text": "#Debates2016",
+            "BeginOffset": 28,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9833202958106995,
+            "Type": "DATE",
+            "Text": "tonight",
+            "BeginOffset": 41,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.999988317489624,
+            "Type": "OTHER",
+            "Text": "https://t.co/MK46RkLhT1",
+            "BeginOffset": 49,
+            "EndOffset": 72
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9662649631500244,
+            "Type": "PERSON",
+            "Text": "@justinbieber",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9527375102043152,
+            "Type": "DATE",
+            "Text": "tonight",
+            "BeginOffset": 48,
+            "EndOffset": 55
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7248304486274719,
+            "Type": "PERSON",
+            "Text": "@GodsOfColor",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7084197998046875,
+            "Type": "QUANTITY",
+            "Text": "day 3277",
+            "BeginOffset": 83,
+            "EndOffset": 91
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8325657844543457,
+            "Type": "PERSON",
+            "Text": "@PrdBlckRpblican",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.5139204859733582,
+            "Type": "LOCATION",
+            "Text": "SC",
+            "BeginOffset": 41,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9931067228317261,
+            "Type": "PERSON",
+            "Text": "Ted Cruz",
+            "BeginOffset": 104,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.9999210834503174,
+            "Type": "OTHER",
+            "Text": "https://t.co/kwXaXovCik",
+            "BeginOffset": 116,
+            "EndOffset": 139
+        }
+    ]
+}

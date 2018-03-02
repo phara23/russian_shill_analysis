@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7955906987190247,
+            "Type": "PERSON",
+            "Text": "@CodeAud",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.5822967886924744,
+            "Type": "LOCATION",
+            "Text": "Turkey",
+            "BeginOffset": 13,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.897881031036377,
+            "Type": "LOCATION",
+            "Text": "Middle East",
+            "BeginOffset": 86,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.9998898506164551,
+            "Type": "OTHER",
+            "Text": "https://t.co/7yjolh26ps",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

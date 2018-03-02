@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.795907735824585,
+            "Type": "PERSON",
+            "Text": "@I_AmAmerica",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8939501643180847,
+            "Type": "PERSON",
+            "Text": "DONALD J TRUMP",
+            "BeginOffset": 48,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9701938629150391,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 104,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.9072816371917725,
+            "Type": "OTHER",
+            "Text": "https://t.co/dT4Zx",
+            "BeginOffset": 121,
+            "EndOffset": 139
+        }
+    ]
+}

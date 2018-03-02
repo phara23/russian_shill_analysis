@@ -1,0 +1,40 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9364864230155945,
+            "Text": "RT @SputnikInt",
+            "BeginOffset": 0,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9592649340629578,
+            "Text": "URGENT",
+            "BeginOffset": 16,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.7692673206329346,
+            "Text": "@WikiLeaks",
+            "BeginOffset": 24,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9870373606681824,
+            "Text": "24th batch",
+            "BeginOffset": 44,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9893468022346497,
+            "Text": "@HillaryClinton campaign chair",
+            "BeginOffset": 58,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.7998062968254089,
+            "Text": "leaked emails",
+            "BeginOffset": 91,
+            "EndOffset": 104
+        }
+    ]
+}

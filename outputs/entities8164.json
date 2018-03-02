@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8929756879806519,
+            "Type": "PERSON",
+            "Text": "@chuckwoolery",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8757285475730896,
+            "Type": "QUANTITY",
+            "Text": "99%",
+            "BeginOffset": 32,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.6717758774757385,
+            "Type": "ORGANIZATION",
+            "Text": "Blunt Force Truth",
+            "BeginOffset": 90,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.95854252576828,
+            "Type": "OTHER",
+            "Text": "https://t.co/Z02TXkeHO",
+            "BeginOffset": 117,
+            "EndOffset": 139
+        }
+    ]
+}

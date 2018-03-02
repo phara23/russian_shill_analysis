@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7416452169418335,
+            "Type": "PERSON",
+            "Text": "D. Trump",
+            "BeginOffset": 89,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.4963235855102539,
+            "Type": "PERSON",
+            "Text": "#Trump",
+            "BeginOffset": 98,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.9920908212661743,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 104,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.9999927282333374,
+            "Type": "OTHER",
+            "Text": "https://t.co/3W3k2Wl85J",
+            "BeginOffset": 109,
+            "EndOffset": 132
+        }
+    ]
+}

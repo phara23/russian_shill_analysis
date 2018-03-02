@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9596052169799805,
+            "Type": "PERSON",
+            "Text": "@AJDelgado13",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7826610803604126,
+            "Type": "PERSON",
+            "Text": "Arm Jihadists",
+            "BeginOffset": 46,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.9624112248420715,
+            "Type": "LOCATION",
+            "Text": "Libya",
+            "BeginOffset": 79,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9958899617195129,
+            "Type": "LOCATION",
+            "Text": "Syria",
+            "BeginOffset": 89,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.999940037727356,
+            "Type": "OTHER",
+            "Text": "https://t.co/yGc0RfDDdQ",
+            "BeginOffset": 98,
+            "EndOffset": 121
+        }
+    ]
+}

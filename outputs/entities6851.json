@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5195384621620178,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8231300115585327,
+            "Type": "PERSON",
+            "Text": "@WashGovernment",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9884174466133118,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 71,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.934843122959137,
+            "Type": "PERSON",
+            "Text": "Feinstein",
+            "BeginOffset": 80,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.9998812675476074,
+            "Type": "OTHER",
+            "Text": "https://t.co/bgcciIj0eC",
+            "BeginOffset": 102,
+            "EndOffset": 125
+        }
+    ]
+}

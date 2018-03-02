@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9636064767837524,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8771683573722839,
+            "Type": "QUANTITY",
+            "Text": "four more years",
+            "BeginOffset": 46,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9951821565628052,
+            "Type": "PERSON",
+            "Text": "Barack Obama",
+            "BeginOffset": 65,
+            "EndOffset": 77
+        }
+    ]
+}

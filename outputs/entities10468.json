@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8999917507171631,
+            "Type": "PERSON",
+            "Text": "@ElaineSowersby",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9444987177848816,
+            "Type": "PERSON",
+            "Text": "Petraeus",
+            "BeginOffset": 20,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9998290538787842,
+            "Type": "OTHER",
+            "Text": "https://t.co/SzLY7StdYi",
+            "BeginOffset": 38,
+            "EndOffset": 61
+        }
+    ]
+}

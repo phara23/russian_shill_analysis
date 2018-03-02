@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8892296552658081,
+            "Type": "PERSON",
+            "Text": "@HaleyTessIsis",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.826246976852417,
+            "Type": "DATE",
+            "Text": "last 8 years",
+            "BeginOffset": 67,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.9869483709335327,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 86,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.9947589039802551,
+            "Type": "PERSON",
+            "Text": "Mitt\nBush",
+            "BeginOffset": 94,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.9828829169273376,
+            "Type": "PERSON",
+            "Text": "Ryan\nMitch\nCruz",
+            "BeginOffset": 108,
+            "EndOffset": 123
+        }
+    ]
+}

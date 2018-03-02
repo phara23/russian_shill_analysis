@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9093819260597229,
+            "Type": "ORGANIZATION",
+            "Text": "Islam",
+            "BeginOffset": 4,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9999823570251465,
+            "Type": "OTHER",
+            "Text": "https://t.co/R6OA4jrBoH",
+            "BeginOffset": 42,
+            "EndOffset": 65
+        }
+    ]
+}

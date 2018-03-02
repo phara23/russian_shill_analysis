@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8210769295692444,
+            "Type": "PERSON",
+            "Text": "@FCErzgebirgeAue",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.48638683557510376,
+            "Type": "ORGANIZATION",
+            "Text": "#AueU13",
+            "BeginOffset": 21,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9565622806549072,
+            "Type": "QUANTITY",
+            "Text": "3:1",
+            "BeginOffset": 68,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.5300628542900085,
+            "Type": "PERSON",
+            "Text": "Toren",
+            "BeginOffset": 72,
+            "EndOffset": 77
+        }
+    ]
+}

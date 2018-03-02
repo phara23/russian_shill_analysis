@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9892375469207764,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 0,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.9585488438606262,
+            "Type": "PERSON",
+            "Text": "Kayne",
+            "BeginOffset": 21,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9336401224136353,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 68,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.3522387444972992,
+            "Type": "PERSON",
+            "Text": "Wasserman",
+            "BeginOffset": 89,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.9803836941719055,
+            "Type": "PERSON",
+            "Text": "Schultz",
+            "BeginOffset": 99,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.9999908208847046,
+            "Type": "OTHER",
+            "Text": "https://t.co/bZSpGQ3ykk",
+            "BeginOffset": 108,
+            "EndOffset": 131
+        }
+    ]
+}

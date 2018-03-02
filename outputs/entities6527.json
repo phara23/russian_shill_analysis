@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6970375776290894,
+            "Type": "PERSON",
+            "Text": "@rlpNews",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.5896050930023193,
+            "Type": "PERSON",
+            "Text": "Morgen",
+            "BeginOffset": 13,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9677509069442749,
+            "Type": "PERSON",
+            "Text": "Allen Schülern",
+            "BeginOffset": 57,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9999213218688965,
+            "Type": "OTHER",
+            "Text": "https://t.co/X4pON84nal",
+            "BeginOffset": 91,
+            "EndOffset": 114
+        }
+    ]
+}

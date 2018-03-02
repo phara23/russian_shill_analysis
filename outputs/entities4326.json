@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8807375431060791,
+            "Type": "PERSON",
+            "Text": "@TeamTrumpAZ",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9759371280670166,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 26,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9740895628929138,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 87,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.9785329699516296,
+            "Type": "LOCATION",
+            "Text": "#USA",
+            "BeginOffset": 92,
+            "EndOffset": 96
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4886711537837982,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.6961389780044556,
+            "Type": "ORGANIZATION",
+            "Text": "@WSCP1",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.34754034876823425,
+            "Type": "PERSON",
+            "Text": "Obamas",
+            "BeginOffset": 11,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7000865340232849,
+            "Type": "ORGANIZATION",
+            "Text": "VA Changing Records",
+            "BeginOffset": 38,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9553371071815491,
+            "Type": "OTHER",
+            "Text": "https://t.co/ceYkGC4ueg",
+            "BeginOffset": 93,
+            "EndOffset": 116
+        }
+    ]
+}

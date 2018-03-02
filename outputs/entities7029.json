@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8103193044662476,
+            "Type": "PERSON",
+            "Text": "@ReignsFreedom",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.899680495262146,
+            "Type": "QUANTITY",
+            "Text": "40 mil",
+            "BeginOffset": 49,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.5876849293708801,
+            "Type": "QUANTITY",
+            "Text": "million",
+            "BeginOffset": 78,
+            "EndOffset": 85
+        }
+    ]
+}

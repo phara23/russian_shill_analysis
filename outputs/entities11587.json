@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8513232469558716,
+            "Type": "PERSON",
+            "Text": "@worldsbesthorse",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9888269901275635,
+            "Type": "PERSON",
+            "Text": "Maria",
+            "BeginOffset": 28,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.622043788433075,
+            "Type": "ORGANIZATION",
+            "Text": "@ChurchillDowns",
+            "BeginOffset": 83,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.9956521987915039,
+            "Type": "PERSON",
+            "Text": "Mathea Kelley",
+            "BeginOffset": 105,
+            "EndOffset": 118
+        },
+        {
+            "Score": 0.9932792782783508,
+            "Type": "OTHER",
+            "Text": "http://t.co/v6XoBGK",
+            "BeginOffset": 120,
+            "EndOffset": 139
+        }
+    ]
+}

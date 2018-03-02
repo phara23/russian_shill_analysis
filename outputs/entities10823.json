@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8608185648918152,
+            "Type": "PERSON",
+            "Text": "@warriors_mom",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9985939860343933,
+            "Type": "ORGANIZATION",
+            "Text": "Facebook",
+            "BeginOffset": 18,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9912437796592712,
+            "Type": "QUANTITY",
+            "Text": "27%",
+            "BeginOffset": 74,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.6634321212768555,
+            "Type": "ORGANIZATION",
+            "Text": "Reuters",
+            "BeginOffset": 79,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.8161407113075256,
+            "Type": "PERSON",
+            "Text": "@Varneyco",
+            "BeginOffset": 97,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.8496009707450867,
+            "Type": "PERSON",
+            "Text": "@zerohedge",
+            "BeginOffset": 108,
+            "EndOffset": 118
+        },
+        {
+            "Score": 0.9200736284255981,
+            "Type": "PERSON",
+            "Text": "@seanhannity",
+            "BeginOffset": 120,
+            "EndOffset": 132
+        }
+    ]
+}

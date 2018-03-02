@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.879625678062439,
+            "Type": "PERSON",
+            "Text": "@ddale8",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9949221014976501,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 12,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8101937770843506,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 31,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.6595948338508606,
+            "Type": "OTHER",
+            "Text": "Syrian",
+            "BeginOffset": 63,
+            "EndOffset": 69
+        }
+    ]
+}

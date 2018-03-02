@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8573533892631531,
+            "Type": "PERSON",
+            "Text": "@Hellish141",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8342478275299072,
+            "Type": "PERSON",
+            "Text": "@BebeRexha",
+            "BeginOffset": 40,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9998883008956909,
+            "Type": "OTHER",
+            "Text": "https://t.co/9YmfU3GJKk",
+            "BeginOffset": 51,
+            "EndOffset": 74
+        }
+    ]
+}

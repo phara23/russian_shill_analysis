@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.46383771300315857,
+            "Type": "PERSON",
+            "Text": "@4",
+            "BeginOffset": 3,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.8591522574424744,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 53,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9381345510482788,
+            "Type": "PERSON",
+            "Text": "TRUMP",
+            "BeginOffset": 81,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9651277661323547,
+            "Type": "OTHER",
+            "Text": "https://t.co/ZE2VOccUeE",
+            "BeginOffset": 111,
+            "EndOffset": 134
+        }
+    ]
+}

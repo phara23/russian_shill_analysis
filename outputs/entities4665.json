@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8937796354293823,
+            "Type": "PERSON",
+            "Text": "@KarenCivil",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9996777772903442,
+            "Type": "PERSON",
+            "Text": "Kanye West",
+            "BeginOffset": 16,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.708382248878479,
+            "Type": "ORGANIZATION",
+            "Text": "Trump Towers",
+            "BeginOffset": 50,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9998897314071655,
+            "Type": "OTHER",
+            "Text": "https://t.co/f7aZF9xIhG",
+            "BeginOffset": 63,
+            "EndOffset": 86
+        }
+    ]
+}

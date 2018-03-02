@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9038248062133789,
+            "Type": "PERSON",
+            "Text": "@Art_Vallejo",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9999326467514038,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 20,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.999100923538208,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 55,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9603391885757446,
+            "Type": "OTHER",
+            "Text": "https://t.co/VH",
+            "BeginOffset": 124,
+            "EndOffset": 139
+        }
+    ]
+}

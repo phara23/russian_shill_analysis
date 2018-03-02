@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7205101251602173,
+            "Type": "ORGANIZATION",
+            "Text": "@a3auntie",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.5131369233131409,
+            "Type": "PERSON",
+            "Text": "Obamas",
+            "BeginOffset": 18,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9999502897262573,
+            "Type": "OTHER",
+            "Text": "https://t.co/AeZUXHDehe",
+            "BeginOffset": 53,
+            "EndOffset": 76
+        }
+    ]
+}

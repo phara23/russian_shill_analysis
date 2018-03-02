@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.855194628238678,
+            "Type": "PERSON",
+            "Text": "@XanaduFitness",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9915570020675659,
+            "Type": "QUANTITY",
+            "Text": "64",
+            "BeginOffset": 66,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.8947156667709351,
+            "Type": "ORGANIZATION",
+            "Text": "Hollywood",
+            "BeginOffset": 75,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.6647780537605286,
+            "Type": "QUANTITY",
+            "Text": "47",
+            "BeginOffset": 89,
+            "EndOffset": 91
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8903674483299255,
+            "Type": "PERSON",
+            "Text": "@PamelaGeller",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.934698760509491,
+            "Type": "LOCATION",
+            "Text": "Berlin",
+            "BeginOffset": 18,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.8589277863502502,
+            "Type": "OTHER",
+            "Text": "https://t.co/6WSWDr41KB",
+            "BeginOffset": 85,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.9999532699584961,
+            "Type": "OTHER",
+            "Text": "https://t.co/PaNlaw6tkD",
+            "BeginOffset": 109,
+            "EndOffset": 132
+        }
+    ]
+}

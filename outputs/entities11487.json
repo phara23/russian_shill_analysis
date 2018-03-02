@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9754147529602051,
+            "Type": "PERSON",
+            "Text": "@craigmiller383",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.951187789440155,
+            "Type": "OTHER",
+            "Text": "https://t.co/eXCIlfCEht",
+            "BeginOffset": 73,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.7286708354949951,
+            "Type": "ORGANIZATION",
+            "Text": "@realalexjones",
+            "BeginOffset": 101,
+            "EndOffset": 115
+        }
+    ]
+}

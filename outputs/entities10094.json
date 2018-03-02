@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9157036542892456,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9723344445228577,
+            "Type": "LOCATION",
+            "Text": "North Dakota",
+            "BeginOffset": 28,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9998348951339722,
+            "Type": "OTHER",
+            "Text": "https://t.co/6NNqB3fARY",
+            "BeginOffset": 86,
+            "EndOffset": 109
+        }
+    ]
+}

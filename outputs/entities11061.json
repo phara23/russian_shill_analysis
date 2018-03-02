@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.49770626425743103,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.6133939027786255,
+            "Type": "PERSON",
+            "Text": "@AMTrump4",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8221042156219482,
+            "Type": "ORGANIZATION",
+            "Text": "SYRIAN MUSLIM REFUGEES",
+            "BeginOffset": 62,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9987842440605164,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 102,
+            "EndOffset": 109
+        }
+    ]
+}

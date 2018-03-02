@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8789188861846924,
+            "Type": "PERSON",
+            "Text": "@henrygpromo",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8846262097358704,
+            "Type": "PERSON",
+            "Text": "@JedYork",
+            "BeginOffset": 106,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.9076836705207825,
+            "Type": "ORGANIZATION",
+            "Text": "@49ers",
+            "BeginOffset": 125,
+            "EndOffset": 131
+        }
+    ]
+}

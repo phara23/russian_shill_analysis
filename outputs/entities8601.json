@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8106759786605835,
+            "Type": "PERSON",
+            "Text": "@ChrisCoon4",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8553898334503174,
+            "Type": "ORGANIZATION",
+            "Text": "Disney",
+            "BeginOffset": 20,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.7883419394493103,
+            "Type": "QUANTITY",
+            "Text": "100's of employees",
+            "BeginOffset": 37,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.847598671913147,
+            "Type": "OTHER",
+            "Text": "H-1B",
+            "BeginOffset": 61,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9496424794197083,
+            "Type": "QUANTITY",
+            "Text": "46mill",
+            "BeginOffset": 111,
+            "EndOffset": 117
+        },
+        {
+            "Score": 0.964428722858429,
+            "Type": "OTHER",
+            "Text": "http://t.co",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

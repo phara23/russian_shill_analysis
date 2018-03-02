@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7936313152313232,
+            "Type": "PERSON",
+            "Text": "@amnediel",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.892875611782074,
+            "Type": "QUANTITY",
+            "Text": "2 MILLION",
+            "BeginOffset": 91,
+            "EndOffset": 100
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.672948956489563,
+            "Type": "ORGANIZATION",
+            "Text": "#BC2DC16",
+            "BeginOffset": 0,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.8696932792663574,
+            "Type": "ORGANIZATION",
+            "Text": "@OneNation4Ben",
+            "BeginOffset": 9,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.7612070441246033,
+            "Type": "ORGANIZATION",
+            "Text": "@DraftRunBenRun",
+            "BeginOffset": 24,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.6887332201004028,
+            "Type": "ORGANIZATION",
+            "Text": "@JosephDiNardo",
+            "BeginOffset": 60,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.8532922267913818,
+            "Type": "ORGANIZATION",
+            "Text": "@DKhasMK",
+            "BeginOffset": 75,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.9998984336853027,
+            "Type": "OTHER",
+            "Text": "https://t.co/e5sbCzaH9t",
+            "BeginOffset": 114,
+            "EndOffset": 137
+        }
+    ]
+}

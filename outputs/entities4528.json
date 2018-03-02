@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8582931160926819,
+            "Type": "PERSON",
+            "Text": "@queenadalite",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9995653629302979,
+            "Type": "PERSON",
+            "Text": "Tom Perez",
+            "BeginOffset": 25,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9650155305862427,
+            "Type": "OTHER",
+            "Text": "https://t.co/tymjbB8j7X",
+            "BeginOffset": 106,
+            "EndOffset": 129
+        }
+    ]
+}

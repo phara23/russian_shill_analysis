@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.835631787776947,
+            "Type": "PERSON",
+            "Text": "@RocketmanBob",
+            "BeginOffset": 25,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9683272242546082,
+            "Type": "PERSON",
+            "Text": "@HLangendoen",
+            "BeginOffset": 39,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9957342147827148,
+            "Type": "PERSON",
+            "Text": "@amanda7743",
+            "BeginOffset": 52,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9638097882270813,
+            "Type": "PERSON",
+            "Text": "@trinitysfaith",
+            "BeginOffset": 64,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.9721396565437317,
+            "Type": "PERSON",
+            "Text": "@rockin4jc",
+            "BeginOffset": 79,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.8890079259872437,
+            "Type": "PERSON",
+            "Text": "@ledrew",
+            "BeginOffset": 90,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.9999070167541504,
+            "Type": "OTHER",
+            "Text": "https://t.co/O3Ku6zldCZ",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

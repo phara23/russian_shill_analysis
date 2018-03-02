@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9158006906509399,
+            "Type": "PERSON",
+            "Text": "@MusicJunkyPush",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.900057315826416,
+            "Type": "QUANTITY",
+            "Text": "6 Reasons",
+            "BeginOffset": 20,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.8153995275497437,
+            "Type": "OTHER",
+            "Text": "https://t.co/19Rvg2nVO1",
+            "BeginOffset": 49,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.9999442100524902,
+            "Type": "OTHER",
+            "Text": "https://t.co/qsYycYTQnK",
+            "BeginOffset": 73,
+            "EndOffset": 96
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8148935437202454,
+            "Type": "PERSON",
+            "Text": "@bbl58",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.895112931728363,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 11,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.6609600186347961,
+            "Type": "OTHER",
+            "Text": "Japanese",
+            "BeginOffset": 58,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.8095966577529907,
+            "Type": "LOCATION",
+            "Text": "Seattle",
+            "BeginOffset": 85,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.9999860525131226,
+            "Type": "OTHER",
+            "Text": "https://t.co/2PPKLo9cMY",
+            "BeginOffset": 99,
+            "EndOffset": 122
+        }
+    ]
+}

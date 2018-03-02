@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7289921045303345,
+            "Type": "PERSON",
+            "Text": "@petefrt",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.6380305290222168,
+            "Type": "PERSON",
+            "Text": "Kasich",
+            "BeginOffset": 13,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.993709921836853,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 73,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.7671133875846863,
+            "Type": "PERSON",
+            "Text": "#p2",
+            "BeginOffset": 92,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.9588343501091003,
+            "Type": "OTHER",
+            "Text": "https://t.co/yxB34g2VjH",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        },
+        {
+            "Score": 0.96890789270401,
+            "Type": "OTHER",
+            "Text": "https://t.co/blf0St",
+            "BeginOffset": 120,
+            "EndOffset": 139
+        }
+    ]
+}

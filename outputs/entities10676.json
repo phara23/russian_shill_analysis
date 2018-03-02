@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7927412986755371,
+            "Type": "PERSON",
+            "Text": "@EBONYMag",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9964051246643066,
+            "Type": "PERSON",
+            "Text": "Malia Obama",
+            "BeginOffset": 34,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.975757896900177,
+            "Type": "OTHER",
+            "Text": "https://t.co/srPRKmeyUg",
+            "BeginOffset": 74,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.8940895199775696,
+            "Type": "PERSON",
+            "Text": "@KrissiScribbles",
+            "BeginOffset": 110,
+            "EndOffset": 126
+        },
+        {
+            "Score": 0.9237599968910217,
+            "Type": "OTHER",
+            "Text": "https://t.c",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

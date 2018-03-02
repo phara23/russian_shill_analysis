@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9639549255371094,
+            "Type": "PERSON",
+            "Text": "@JoyAnnReid",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9939675331115723,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 77,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9998390674591064,
+            "Type": "OTHER",
+            "Text": "https://t.co/rJ10TUTLHo",
+            "BeginOffset": 93,
+            "EndOffset": 116
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.86150723695755,
+            "Type": "PERSON",
+            "Text": "@spikedonline",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9959002733230591,
+            "Type": "PERSON",
+            "Text": "Brendan O'Neill",
+            "BeginOffset": 18,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9156650304794312,
+            "Type": "PERSON",
+            "Text": "@BenPBradshaw",
+            "BeginOffset": 37,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.570356547832489,
+            "Type": "LOCATION",
+            "Text": "Russia",
+            "BeginOffset": 77,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.6167920827865601,
+            "Type": "ORGANIZATION",
+            "Text": "EU",
+            "BeginOffset": 96,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.9363323450088501,
+            "Type": "OTHER",
+            "Text": "https://t.co/yrqP5rSewY",
+            "BeginOffset": 110,
+            "EndOffset": 133
+        }
+    ]
+}

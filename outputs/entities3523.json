@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8656473159790039,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9942224621772766,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 19,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.8801299929618835,
+            "Type": "OTHER",
+            "Text": "https://t.co/uZrNl1kWyd",
+            "BeginOffset": 85,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.7904912829399109,
+            "Type": "PERSON",
+            "Text": "@UrbanIntellects",
+            "BeginOffset": 109,
+            "EndOffset": 125
+        },
+        {
+            "Score": 0.7210535407066345,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

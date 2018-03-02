@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9165025949478149,
+            "Type": "PERSON",
+            "Text": "@jessamazingg",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8723902702331543,
+            "Type": "OTHER",
+            "Text": "https://t.co/iuEwGpJiqo",
+            "BeginOffset": 58,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.9999196529388428,
+            "Type": "OTHER",
+            "Text": "https://t.co/LqcokDpD0C",
+            "BeginOffset": 86,
+            "EndOffset": 109
+        }
+    ]
+}

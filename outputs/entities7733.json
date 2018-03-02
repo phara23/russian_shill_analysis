@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8729236721992493,
+            "Type": "PERSON",
+            "Text": "@ToscaAusten",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9606598615646362,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 17,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9953118562698364,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 82,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.9996280670166016,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 106,
+            "EndOffset": 121
+        },
+        {
+            "Score": 0.569155752658844,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 129,
+            "EndOffset": 138
+        }
+    ]
+}

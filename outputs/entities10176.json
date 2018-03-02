@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8956391215324402,
+            "Type": "PERSON",
+            "Text": "@michelelfrost",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9954955577850342,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 27,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.8173171877861023,
+            "Type": "ORGANIZATION",
+            "Text": "Muslim",
+            "BeginOffset": 105,
+            "EndOffset": 111
+        },
+        {
+            "Score": 0.9959706664085388,
+            "Type": "OTHER",
+            "Text": "https://t.co/OB7SuHZP",
+            "BeginOffset": 118,
+            "EndOffset": 139
+        }
+    ]
+}

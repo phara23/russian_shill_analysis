@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8834222555160522,
+            "Type": "PERSON",
+            "Text": "@MidgardDragon",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8566769957542419,
+            "Type": "PERSON",
+            "Text": "Jimmy Fallon",
+            "BeginOffset": 33,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9971996545791626,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 59,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9922159314155579,
+            "Type": "ORGANIZATION",
+            "Text": "CNN",
+            "BeginOffset": 91,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.9980443716049194,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 110,
+            "EndOffset": 117
+        }
+    ]
+}

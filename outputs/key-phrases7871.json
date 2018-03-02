@@ -1,0 +1,34 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9879280924797058,
+            "Text": "Iowa",
+            "BeginOffset": 3,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.9987817406654358,
+            "Text": "Clinton",
+            "BeginOffset": 9,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.992355227470398,
+            "Text": "new FBI email probe",
+            "BeginOffset": 33,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9976617097854614,
+            "Text": "Trump",
+            "BeginOffset": 68,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.9996803998947144,
+            "Text": "’s treatment",
+            "BeginOffset": 73,
+            "EndOffset": 85
+        }
+    ]
+}

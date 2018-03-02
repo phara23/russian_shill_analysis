@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8402281999588013,
+            "Type": "PERSON",
+            "Text": "@DJTatiDotCom",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8749068379402161,
+            "Type": "PERSON",
+            "Text": "@djgoldmouf",
+            "BeginOffset": 61,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.9584963321685791,
+            "Type": "PERSON",
+            "Text": "@FullyLoadedDjs",
+            "BeginOffset": 73,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9279390573501587,
+            "Type": "PERSON",
+            "Text": "@Spinrilla",
+            "BeginOffset": 89,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.9999642372131348,
+            "Type": "OTHER",
+            "Text": "https://t.co/o7NK4xWkav",
+            "BeginOffset": 102,
+            "EndOffset": 125
+        }
+    ]
+}

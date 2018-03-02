@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9146605730056763,
+            "Type": "PERSON",
+            "Text": "@TGJones_62",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.988472044467926,
+            "Type": "PERSON",
+            "Text": "Jessica Rabbit",
+            "BeginOffset": 37,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9999227523803711,
+            "Type": "OTHER",
+            "Text": "https://t.co/WvJkuK6C5v",
+            "BeginOffset": 53,
+            "EndOffset": 76
+        }
+    ]
+}

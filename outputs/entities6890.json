@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8373502492904663,
+            "Type": "PERSON",
+            "Text": "@SingleVixxen",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9715525507926941,
+            "Type": "DATE",
+            "Text": "tonight",
+            "BeginOffset": 69,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.814706027507782,
+            "Type": "DATE",
+            "Text": "next day",
+            "BeginOffset": 107,
+            "EndOffset": 115
+        }
+    ]
+}

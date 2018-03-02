@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8263971209526062,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8076924085617065,
+            "Type": "PERSON",
+            "Text": "@AllAfrica",
+            "BeginOffset": 14,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.7543440461158752,
+            "Type": "LOCATION",
+            "Text": "Southern Africa",
+            "BeginOffset": 26,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.7300059199333191,
+            "Type": "TITLE",
+            "Text": "Matemba Wars",
+            "BeginOffset": 44,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.7200202941894531,
+            "Type": "PERSON",
+            "Text": "Sparks Zimbabwe",
+            "BeginOffset": 58,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.5947403907775879,
+            "Type": "PERSON",
+            "Text": "Zambia Diplomatic Row",
+            "BeginOffset": 74,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.9999570846557617,
+            "Type": "OTHER",
+            "Text": "https://t.co/uYPAI5H2rm",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        }
+    ]
+}

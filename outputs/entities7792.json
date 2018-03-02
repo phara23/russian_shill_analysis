@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9394713640213013,
+            "Type": "PERSON",
+            "Text": "@djblack",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9997615218162537,
+            "Type": "OTHER",
+            "Text": "https://t.co/lI2ICImUK0",
+            "BeginOffset": 52,
+            "EndOffset": 75
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8292711973190308,
+            "Type": "PERSON",
+            "Text": "@AgendaOfEvil",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.986578106880188,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 64,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9608285427093506,
+            "Type": "ORGANIZATION",
+            "Text": "SBS News",
+            "BeginOffset": 71,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.9997759461402893,
+            "Type": "OTHER",
+            "Text": "https://t.co/BmmRecy72y",
+            "BeginOffset": 80,
+            "EndOffset": 103
+        }
+    ]
+}

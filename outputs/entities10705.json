@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8517197966575623,
+            "Type": "ORGANIZATION",
+            "Text": "Wikileaks",
+            "BeginOffset": 0,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.8759100437164307,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 46,
+            "EndOffset": 49
+        }
+    ]
+}

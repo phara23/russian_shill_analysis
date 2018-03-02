@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8981042504310608,
+            "Type": "PERSON",
+            "Text": "@TerryLambert201",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.7080187201499939,
+            "Type": "LOCATION",
+            "Text": "DC",
+            "BeginOffset": 29,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9999724626541138,
+            "Type": "OTHER",
+            "Text": "https://t.co/eS30JIzpQV",
+            "BeginOffset": 114,
+            "EndOffset": 137
+        }
+    ]
+}

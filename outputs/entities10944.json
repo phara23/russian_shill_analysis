@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4814368784427643,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8548554182052612,
+            "Type": "PERSON",
+            "Text": "@Miami4Trump",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7890282273292542,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 17,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.6399707198143005,
+            "Type": "PERSON",
+            "Text": "Barry",
+            "BeginOffset": 93,
+            "EndOffset": 98
+        }
+    ]
+}

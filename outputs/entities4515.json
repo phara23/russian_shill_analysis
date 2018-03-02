@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7268165349960327,
+            "Type": "PERSON",
+            "Text": "@realityinACTION",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9499416351318359,
+            "Type": "OTHER",
+            "Text": "https://t.co/fLoReUa08N",
+            "BeginOffset": 71,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.7834922671318054,
+            "Type": "ORGANIZATION",
+            "Text": "@UN",
+            "BeginOffset": 96,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.7561242580413818,
+            "Type": "OTHER",
+            "Text": "Jews",
+            "BeginOffset": 106,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.5863603353500366,
+            "Type": "OTHER",
+            "Text": "ISLAMIC VALUES",
+            "BeginOffset": 112,
+            "EndOffset": 126
+        }
+    ]
+}

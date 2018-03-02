@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7223107218742371,
+            "Type": "ORGANIZATION",
+            "Text": "@PolitiFact",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9059292674064636,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 20,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9965975880622864,
+            "Type": "ORGANIZATION",
+            "Text": "ISIS",
+            "BeginOffset": 76,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.9981643557548523,
+            "Type": "LOCATION",
+            "Text": "NY",
+            "BeginOffset": 100,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.8574556708335876,
+            "Type": "TITLE",
+            "Text": "Pants on Fire",
+            "BeginOffset": 112,
+            "EndOffset": 125
+        },
+        {
+            "Score": 0.9712948203086853,
+            "Type": "OTHER",
+            "Text": "https://t.co",
+            "BeginOffset": 127,
+            "EndOffset": 139
+        }
+    ]
+}

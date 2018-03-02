@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.734169602394104,
+            "Type": "PERSON",
+            "Text": "@preciousliberty",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.6781688928604126,
+            "Type": "PERSON",
+            "Text": "#Obama",
+            "BeginOffset": 62,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.47467511892318726,
+            "Type": "PERSON",
+            "Text": "#Hillary",
+            "BeginOffset": 84,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.9898714423179626,
+            "Type": "OTHER",
+            "Text": "https://t.co/iIIDHVscD3",
+            "BeginOffset": 94,
+            "EndOffset": 117
+        }
+    ]
+}

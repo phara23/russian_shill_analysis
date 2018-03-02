@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9106192588806152,
+            "Type": "PERSON",
+            "Text": "@Skiperella",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8448344469070435,
+            "Type": "PERSON",
+            "Text": "@RedBeKnowing",
+            "BeginOffset": 55,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.6898816227912903,
+            "Type": "PERSON",
+            "Text": "Pinky",
+            "BeginOffset": 119,
+            "EndOffset": 124
+        }
+    ]
+}

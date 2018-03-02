@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4648246169090271,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.9581770300865173,
+            "Type": "PERSON",
+            "Text": "@Lis_Smith",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9419293403625488,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 38,
+            "EndOffset": 54
+        }
+    ]
+}

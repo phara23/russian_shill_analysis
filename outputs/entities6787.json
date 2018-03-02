@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8667444586753845,
+            "Type": "PERSON",
+            "Text": "@FreeBeacon",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7252662181854248,
+            "Type": "ORGANIZATION",
+            "Text": "NYPD",
+            "BeginOffset": 16,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.9761860966682434,
+            "Type": "ORGANIZATION",
+            "Text": "ISIS",
+            "BeginOffset": 45,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.8199208378791809,
+            "Type": "EVENT",
+            "Text": "Macy’s Thanksgiving Day",
+            "BeginOffset": 60,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.6645497679710388,
+            "Type": "EVENT",
+            "Text": "Parade",
+            "BeginOffset": 84,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.995877742767334,
+            "Type": "OTHER",
+            "Text": "https://t.co/ANbIu6YBos",
+            "BeginOffset": 91,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.7153285145759583,
+            "Type": "ORGANIZATION",
+            "Text": "@nataliejohnsonn",
+            "BeginOffset": 119,
+            "EndOffset": 135
+        }
+    ]
+}

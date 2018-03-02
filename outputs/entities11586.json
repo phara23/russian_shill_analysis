@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9077334403991699,
+            "Type": "PERSON",
+            "Text": "Newt Gingrich",
+            "BeginOffset": 0,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9998973608016968,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 15,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9549937844276428,
+            "Type": "OTHER",
+            "Text": "https://t.co/sbV0AaDLIs",
+            "BeginOffset": 66,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.9001273512840271,
+            "Type": "OTHER",
+            "Text": "https://t.co/1KPXto2HfW",
+            "BeginOffset": 92,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.9999926090240479,
+            "Type": "OTHER",
+            "Text": "https://t.co/7IVte5Hl47",
+            "BeginOffset": 116,
+            "EndOffset": 139
+        }
+    ]
+}

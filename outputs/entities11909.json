@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8296250700950623,
+            "Type": "PERSON",
+            "Text": "@Crossbearer1956",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.44602471590042114,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 21,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.765920877456665,
+            "Type": "PERSON",
+            "Text": "@ChristiChat",
+            "BeginOffset": 24,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9178106188774109,
+            "Type": "OTHER",
+            "Text": "http://t.co/Aw29g1CfKn",
+            "BeginOffset": 103,
+            "EndOffset": 125
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.824812114238739,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8017315864562988,
+            "Type": "PERSON",
+            "Text": "@EurWeb",
+            "BeginOffset": 14,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.8328979015350342,
+            "Type": "PERSON",
+            "Text": "Remy Ma",
+            "BeginOffset": 23,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9958058595657349,
+            "Type": "PERSON",
+            "Text": "Nicki Minaj",
+            "BeginOffset": 42,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.35604143142700195,
+            "Type": "PERSON",
+            "Text": "Nicki",
+            "BeginOffset": 79,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9990012049674988,
+            "Type": "OTHER",
+            "Text": "https://t.co/THaweoFvjZ",
+            "BeginOffset": 108,
+            "EndOffset": 131
+        }
+    ]
+}

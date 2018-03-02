@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9489402174949646,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 20,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.8675947785377502,
+            "Type": "QUANTITY",
+            "Text": "second amendment",
+            "BeginOffset": 64,
+            "EndOffset": 80
+        }
+    ]
+}

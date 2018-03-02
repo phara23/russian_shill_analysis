@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9170176982879639,
+            "Type": "PERSON",
+            "Text": "@itsgabrielleu",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9636059999465942,
+            "Type": "PERSON",
+            "Text": "Cruella D Wade",
+            "BeginOffset": 19,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9761686325073242,
+            "Type": "PERSON",
+            "Text": "@DwyaneWade",
+            "BeginOffset": 34,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.999728262424469,
+            "Type": "OTHER",
+            "Text": "https://t.co/TGgkHB80T9",
+            "BeginOffset": 55,
+            "EndOffset": 78
+        }
+    ]
+}

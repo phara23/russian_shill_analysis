@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9538499116897583,
+            "Type": "PERSON",
+            "Text": "@mrshobbs58",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.4275543987751007,
+            "Type": "ORGANIZATION",
+            "Text": "MI",
+            "BeginOffset": 34,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.3405497074127197,
+            "Type": "PERSON",
+            "Text": "#ChristiansForTrump",
+            "BeginOffset": 38,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.6451579928398132,
+            "Type": "PERSON",
+            "Text": "#Trump",
+            "BeginOffset": 58,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9920753240585327,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 64,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9999674558639526,
+            "Type": "OTHER",
+            "Text": "https://t.co/1c4zgOz3Og",
+            "BeginOffset": 70,
+            "EndOffset": 93
+        }
+    ]
+}

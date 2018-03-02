@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5039776563644409,
+            "Type": "ORGANIZATION",
+            "Text": "@100",
+            "BeginOffset": 3,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.71556556224823,
+            "Type": "PERSON",
+            "Text": "HILLARY",
+            "BeginOffset": 28,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.992629885673523,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 58,
+            "EndOffset": 65
+        }
+    ]
+}

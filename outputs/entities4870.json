@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9791857600212097,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 9,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9713920950889587,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 33,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9870125651359558,
+            "Type": "OTHER",
+            "Text": "https://t.co/gGgz23Za7L",
+            "BeginOffset": 44,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.7289901375770569,
+            "Type": "ORGANIZATION",
+            "Text": "@WildBillUSA",
+            "BeginOffset": 68,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.9998941421508789,
+            "Type": "OTHER",
+            "Text": "https://t.co/4Hgnq93PJ3",
+            "BeginOffset": 116,
+            "EndOffset": 139
+        }
+    ]
+}

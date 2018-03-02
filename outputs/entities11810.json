@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8683337569236755,
+            "Type": "PERSON",
+            "Text": "@FreeAmerican100",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9938786625862122,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 35,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.38769495487213135,
+            "Type": "PERSON",
+            "Text": "#Benghazi",
+            "BeginOffset": 60,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9781386256217957,
+            "Type": "ORGANIZATION",
+            "Text": "Twitter",
+            "BeginOffset": 84,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.9332921504974365,
+            "Type": "OTHER",
+            "Text": "https://t.co/wW7rIEOt8m",
+            "BeginOffset": 116,
+            "EndOffset": 139
+        }
+    ]
+}

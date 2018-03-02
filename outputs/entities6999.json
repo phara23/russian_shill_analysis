@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.983187198638916,
+            "Type": "PERSON",
+            "Text": "@Jenn_Abrams",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9947569370269775,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 17,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.8955886363983154,
+            "Type": "EVENT",
+            "Text": "Brexit",
+            "BeginOffset": 26,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9703596830368042,
+            "Type": "OTHER",
+            "Text": "https://t.co/nr40ReyOoV",
+            "BeginOffset": 33,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9999988079071045,
+            "Type": "OTHER",
+            "Text": "https://t.co/6BDKPT0mZn",
+            "BeginOffset": 57,
+            "EndOffset": 80
+        }
+    ]
+}

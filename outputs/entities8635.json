@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8439909219741821,
+            "Type": "PERSON",
+            "Text": "@theblaze",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9885807633399963,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 43,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.6406940817832947,
+            "Type": "LOCATION",
+            "Text": "Calif.",
+            "BeginOffset": 92,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.8510083556175232,
+            "Type": "OTHER",
+            "Text": "https://t.co/SBl4SajWqY",
+            "BeginOffset": 104,
+            "EndOffset": 127
+        },
+        {
+            "Score": 0.9722122550010681,
+            "Type": "OTHER",
+            "Text": "https://t.c",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

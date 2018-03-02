@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9392942786216736,
+            "Type": "PERSON",
+            "Text": "@Dawn_R_Morgan",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9999203681945801,
+            "Type": "PERSON",
+            "Text": "Gary Johnson",
+            "BeginOffset": 19,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9810335636138916,
+            "Type": "PERSON",
+            "Text": "Jill Stein",
+            "BeginOffset": 33,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.7875215411186218,
+            "Type": "QUANTITY",
+            "Text": "First Presidential Debate",
+            "BeginOffset": 64,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.9037755727767944,
+            "Type": "OTHER",
+            "Text": "https://t.co/dvoFj1WkVE",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.8722484111785889,
+            "Type": "ORGANIZATION",
+            "Text": "@ktla",
+            "BeginOffset": 118,
+            "EndOffset": 123
+        }
+    ]
+}

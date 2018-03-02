@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8824557662010193,
+            "Type": "PERSON",
+            "Text": "@TimBurt",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8361706733703613,
+            "Type": "PERSON",
+            "Text": "Budda",
+            "BeginOffset": 49,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.994865357875824,
+            "Type": "PERSON",
+            "Text": "Mohammed",
+            "BeginOffset": 58,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9732601642608643,
+            "Type": "PERSON",
+            "Text": "Allah",
+            "BeginOffset": 71,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.9968757629394531,
+            "Type": "PERSON",
+            "Text": "Vishnu",
+            "BeginOffset": 80,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9973204731941223,
+            "Type": "PERSON",
+            "Text": "Jesus",
+            "BeginOffset": 106,
+            "EndOffset": 111
+        }
+    ]
+}

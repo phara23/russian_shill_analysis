@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9372167587280273,
+            "Type": "PERSON",
+            "Text": "@johnchurilla1",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9973191022872925,
+            "Type": "PERSON",
+            "Text": "Jesse Jackson",
+            "BeginOffset": 25,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9985868334770203,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 46,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9884249567985535,
+            "Type": "QUANTITY",
+            "Text": "30 Years",
+            "BeginOffset": 63,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.4400901198387146,
+            "Type": "OTHER",
+            "Text": "African",
+            "BeginOffset": 83,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9987034797668457,
+            "Type": "OTHER",
+            "Text": "https://t.co/DhNpQ4s6yb",
+            "BeginOffset": 94,
+            "EndOffset": 117
+        },
+        {
+            "Score": 0.8985711932182312,
+            "Type": "PERSON",
+            "Text": "@DebAlwaystrump",
+            "BeginOffset": 121,
+            "EndOffset": 136
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5914484262466431,
+            "Type": "PERSON",
+            "Text": "@TrumpPenceUSA",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9736201167106628,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 21,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9780299663543701,
+            "Type": "OTHER",
+            "Text": "https://t.co/BnSZmyze",
+            "BeginOffset": 118,
+            "EndOffset": 139
+        }
+    ]
+}

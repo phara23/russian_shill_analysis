@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8293517231941223,
+            "Type": "PERSON",
+            "Text": "@BruceNV",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9292443990707397,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 21,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9999516010284424,
+            "Type": "OTHER",
+            "Text": "https://t.co/qiFR3R8JaT",
+            "BeginOffset": 102,
+            "EndOffset": 125
+        }
+    ]
+}

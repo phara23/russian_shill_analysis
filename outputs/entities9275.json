@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8952593207359314,
+            "Type": "PERSON",
+            "Text": "@aristotle52",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9941049218177795,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 42,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9999767541885376,
+            "Type": "OTHER",
+            "Text": "https://t.co/H0W4V1FuT2",
+            "BeginOffset": 112,
+            "EndOffset": 135
+        }
+    ]
+}

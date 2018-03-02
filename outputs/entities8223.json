@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8121318221092224,
+            "Type": "PERSON",
+            "Text": "@ZaibatsuNews",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9571545720100403,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 18,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9427502751350403,
+            "Type": "LOCATION",
+            "Text": "Ohio",
+            "BeginOffset": 43,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.6685231924057007,
+            "Type": "ORGANIZATION",
+            "Text": "Republican Party",
+            "BeginOffset": 74,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.5984205603599548,
+            "Type": "OTHER",
+            "Text": "https://t.co/lUTmvPhqVX",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.9593995809555054,
+            "Type": "OTHER",
+            "Text": "https://t.co/ApIVF",
+            "BeginOffset": 121,
+            "EndOffset": 139
+        }
+    ]
+}

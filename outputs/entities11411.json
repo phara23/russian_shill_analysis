@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9285570979118347,
+            "Type": "PERSON",
+            "Text": "@kevkid79",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9674107432365417,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 21,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9999630451202393,
+            "Type": "OTHER",
+            "Text": "https://t.co/1R3gSrotH8",
+            "BeginOffset": 106,
+            "EndOffset": 129
+        }
+    ]
+}

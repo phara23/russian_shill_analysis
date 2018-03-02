@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9322071075439453,
+            "Type": "PERSON",
+            "Text": "@JoaquinCastrotx",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.6066501140594482,
+            "Type": "ORGANIZATION",
+            "Text": "House Intel",
+            "BeginOffset": 29,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.8812494874000549,
+            "Type": "LOCATION",
+            "Text": "Mar-a-Lago",
+            "BeginOffset": 54,
+            "EndOffset": 64
+        }
+    ]
+}

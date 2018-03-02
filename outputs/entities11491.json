@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6217143535614014,
+            "Type": "PERSON",
+            "Text": "@Collitics",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.5619944334030151,
+            "Type": "OTHER",
+            "Text": "British",
+            "BeginOffset": 15,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.7317779660224915,
+            "Type": "LOCATION",
+            "Text": "Russia",
+            "BeginOffset": 50,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9843534827232361,
+            "Type": "LOCATION",
+            "Text": "China",
+            "BeginOffset": 61,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9135879278182983,
+            "Type": "PERSON",
+            "Text": "Snowden",
+            "BeginOffset": 75,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.9999788999557495,
+            "Type": "OTHER",
+            "Text": "http://t.co/2gPeVmH3bC",
+            "BeginOffset": 89,
+            "EndOffset": 111
+        }
+    ]
+}

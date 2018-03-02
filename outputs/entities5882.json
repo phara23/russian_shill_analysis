@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6774359345436096,
+            "Type": "ORGANIZATION",
+            "Text": "UK Parliament",
+            "BeginOffset": 0,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9999866485595703,
+            "Type": "OTHER",
+            "Text": "https://t.co/mNx5MEipXM",
+            "BeginOffset": 32,
+            "EndOffset": 55
+        }
+    ]
+}

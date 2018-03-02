@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9311805367469788,
+            "Type": "PERSON",
+            "Text": "@JimmyK_23",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9993664026260376,
+            "Type": "PERSON",
+            "Text": "Bill Clinton",
+            "BeginOffset": 15,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9948936700820923,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 77,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.9966689944267273,
+            "Type": "DATE",
+            "Text": "2005",
+            "BeginOffset": 86,
+            "EndOffset": 90
+        }
+    ]
+}

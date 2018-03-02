@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7455472946166992,
+            "Type": "PERSON",
+            "Text": "@cahitstorm",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8908355832099915,
+            "Type": "PERSON",
+            "Text": "@cahitstorm",
+            "BeginOffset": 16,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9992185831069946,
+            "Type": "DATE",
+            "Text": "2015",
+            "BeginOffset": 122,
+            "EndOffset": 126
+        }
+    ]
+}

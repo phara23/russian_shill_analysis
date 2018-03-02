@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7254385948181152,
+            "Type": "PERSON",
+            "Text": "@HotNewHipHop",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8542126417160034,
+            "Type": "PERSON",
+            "Text": "@fettywap",
+            "BeginOffset": 19,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9817366600036621,
+            "Type": "TITLE",
+            "Text": "Make You Feel Good",
+            "BeginOffset": 62,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.9168612360954285,
+            "Type": "OTHER",
+            "Text": "https://t.co/0N1RzZQS57",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.999976396560669,
+            "Type": "OTHER",
+            "Text": "https://t.co/gzudL2O7Kt",
+            "BeginOffset": 114,
+            "EndOffset": 137
+        }
+    ]
+}

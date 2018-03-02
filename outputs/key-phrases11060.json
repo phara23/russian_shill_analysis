@@ -1,0 +1,28 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9928212761878967,
+            "Text": "Trump",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.8076713681221008,
+            "Text": "Clinton",
+            "BeginOffset": 12,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8934940695762634,
+            "Text": "Blunt-Kander",
+            "BeginOffset": 21,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9967700242996216,
+            "Text": "a virtual tie",
+            "BeginOffset": 34,
+            "EndOffset": 47
+        }
+    ]
+}

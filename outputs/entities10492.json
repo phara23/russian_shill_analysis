@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9251872897148132,
+            "Type": "PERSON",
+            "Text": "@johnand2015",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9997730255126953,
+            "Type": "PERSON",
+            "Text": "Mike Flynn",
+            "BeginOffset": 22,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9974527955055237,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 38,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.41262030601501465,
+            "Type": "ORGANIZATION",
+            "Text": "Libya",
+            "BeginOffset": 58,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.8289572596549988,
+            "Type": "ORGANIZATION",
+            "Text": "@FoxNews",
+            "BeginOffset": 97,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.9633617401123047,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 118,
+            "EndOffset": 122
+        },
+        {
+            "Score": 0.9632279872894287,
+            "Type": "OTHER",
+            "Text": "https://t.co",
+            "BeginOffset": 127,
+            "EndOffset": 139
+        }
+    ]
+}

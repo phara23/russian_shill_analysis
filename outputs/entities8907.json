@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7641570568084717,
+            "Type": "ORGANIZATION",
+            "Text": "@CV_People",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.7553237676620483,
+            "Type": "ORGANIZATION",
+            "Text": "@megynkelIy",
+            "BeginOffset": 30,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.7396324872970581,
+            "Type": "ORGANIZATION",
+            "Text": "@seanhannity",
+            "BeginOffset": 60,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.9349378347396851,
+            "Type": "OTHER",
+            "Text": "https://t.co/bNsUfbWsyg",
+            "BeginOffset": 107,
+            "EndOffset": 130
+        }
+    ]
+}

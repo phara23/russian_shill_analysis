@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9651435017585754,
+            "Type": "PERSON",
+            "Text": "@Emmabel44506803",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9837213754653931,
+            "Type": "DATE",
+            "Text": "Last year",
+            "BeginOffset": 21,
+            "EndOffset": 30
+        }
+    ]
+}

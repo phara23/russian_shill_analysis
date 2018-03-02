@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7623347640037537,
+            "Type": "PERSON",
+            "Text": "@BigEnuff",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.6327629089355469,
+            "Type": "QUANTITY",
+            "Text": "100",
+            "BeginOffset": 23,
+            "EndOffset": 26
+        }
+    ]
+}

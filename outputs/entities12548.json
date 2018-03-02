@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8563446998596191,
+            "Type": "PERSON",
+            "Text": "@craigflynn",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.773300290107727,
+            "Type": "QUANTITY",
+            "Text": "1: 50",
+            "BeginOffset": 14,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.6903173923492432,
+            "Type": "QUANTITY",
+            "Text": "3Words",
+            "BeginOffset": 50,
+            "EndOffset": 56
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7503843307495117,
+            "Type": "ORGANIZATION",
+            "Text": "@CDU",
+            "BeginOffset": 3,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.9905846118927002,
+            "Type": "PERSON",
+            "Text": "Angela Merkel",
+            "BeginOffset": 9,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.989905059337616,
+            "Type": "OTHER",
+            "Text": "https://t.co/TKB8n52k7f",
+            "BeginOffset": 65,
+            "EndOffset": 88
+        }
+    ]
+}

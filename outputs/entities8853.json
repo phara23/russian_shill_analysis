@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8467240929603577,
+            "Type": "PERSON",
+            "Text": "@ScienceGiggles",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9923022389411926,
+            "Type": "DATE",
+            "Text": "January 1st",
+            "BeginOffset": 83,
+            "EndOffset": 94
+        }
+    ]
+}

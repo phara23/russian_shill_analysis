@@ -1,0 +1,67 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6940011382102966,
+            "Type": "PERSON",
+            "Text": "@CommissionerKY",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8144773244857788,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 20,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.491665780544281,
+            "Type": "ORGANIZATION",
+            "Text": "Kentucky",
+            "BeginOffset": 37,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.8195193409919739,
+            "Type": "QUANTITY",
+            "Text": "120M tons",
+            "BeginOffset": 52,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.998717188835144,
+            "Type": "DATE",
+            "Text": "2008",
+            "BeginOffset": 73,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9115509986877441,
+            "Type": "QUANTITY",
+            "Text": "19K",
+            "BeginOffset": 88,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.9687304496765137,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 93,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.9242757558822632,
+            "Type": "QUANTITY",
+            "Text": "44M tons",
+            "BeginOffset": 122,
+            "EndOffset": 130
+        },
+        {
+            "Score": 0.9832499623298645,
+            "Type": "QUANTITY",
+            "Text": "12K",
+            "BeginOffset": 136,
+            "EndOffset": 139
+        }
+    ]
+}

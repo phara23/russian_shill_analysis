@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9992520213127136,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 0,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8319836854934692,
+            "Type": "ORGANIZATION",
+            "Text": "Justice Department",
+            "BeginOffset": 37,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9058477878570557,
+            "Type": "LOCATION",
+            "Text": "Baltimore",
+            "BeginOffset": 75,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9516269564628601,
+            "Type": "OTHER",
+            "Text": "https://t.co/5ZFfr1HO5m",
+            "BeginOffset": 92,
+            "EndOffset": 115
+        }
+    ]
+}

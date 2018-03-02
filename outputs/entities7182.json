@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8906311988830566,
+            "Type": "PERSON",
+            "Text": "@EricWolfson",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9972202181816101,
+            "Type": "PERSON",
+            "Text": "Rick Santorum",
+            "BeginOffset": 17,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9997944235801697,
+            "Type": "OTHER",
+            "Text": "http://t.co/2NS6IVmobA",
+            "BeginOffset": 113,
+            "EndOffset": 135
+        }
+    ]
+}

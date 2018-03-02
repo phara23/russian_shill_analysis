@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8412191271781921,
+            "Type": "PERSON",
+            "Text": "@ConstanceQueen8",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9922066330909729,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 44,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.968868613243103,
+            "Type": "ORGANIZATION",
+            "Text": "Wal-Mart",
+            "BeginOffset": 51,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.9174911379814148,
+            "Type": "QUANTITY",
+            "Text": "10,000 Retail Jobs",
+            "BeginOffset": 70,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.8618323802947998,
+            "Type": "LOCATION",
+            "Text": "U.S.",
+            "BeginOffset": 96,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.9998476505279541,
+            "Type": "OTHER",
+            "Text": "https://t.co/gdwE5Xyp7f",
+            "BeginOffset": 101,
+            "EndOffset": 124
+        }
+    ]
+}

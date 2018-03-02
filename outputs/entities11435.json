@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8436768054962158,
+            "Type": "PERSON",
+            "Text": "@TheTodayShow",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9808717966079712,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 19,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9034653306007385,
+            "Type": "PERSON",
+            "Text": "@MELANIATRUMP",
+            "BeginOffset": 74,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.552301287651062,
+            "Type": "QUANTITY",
+            "Text": "#9",
+            "BeginOffset": 120,
+            "EndOffset": 122
+        },
+        {
+            "Score": 0.9693405032157898,
+            "Type": "DATE",
+            "Text": "Today",
+            "BeginOffset": 122,
+            "EndOffset": 127
+        },
+        {
+            "Score": 0.9347025752067566,
+            "Type": "OTHER",
+            "Text": "https://t.c",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

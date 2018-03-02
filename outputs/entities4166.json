@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8915655612945557,
+            "Type": "PERSON",
+            "Text": "@twright55",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.26976722478866577,
+            "Type": "PERSON",
+            "Text": "#HillaryClinton",
+            "BeginOffset": 15,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.6080755591392517,
+            "Type": "LOCATION",
+            "Text": "#Chicago",
+            "BeginOffset": 119,
+            "EndOffset": 127
+        },
+        {
+            "Score": 0.5933857560157776,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 129,
+            "EndOffset": 138
+        }
+    ]
+}

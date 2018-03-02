@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.49567538499832153,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.7972691059112549,
+            "Type": "PERSON",
+            "Text": "@MediaJuggernaut",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8384501934051514,
+            "Type": "ORGANIZATION",
+            "Text": "Democrats",
+            "BeginOffset": 85,
+            "EndOffset": 94
+        }
+    ]
+}

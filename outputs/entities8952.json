@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8923313617706299,
+            "Type": "PERSON",
+            "Text": "@PatriotBlake",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.5531980395317078,
+            "Type": "EVENT",
+            "Text": "Oscars",
+            "BeginOffset": 38,
+            "EndOffset": 44
+        }
+    ]
+}

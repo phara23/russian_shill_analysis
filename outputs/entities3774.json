@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9550981521606445,
+            "Type": "PERSON",
+            "Text": "@Tamaralynn212",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9200431108474731,
+            "Type": "PERSON",
+            "Text": "@hillaryclinton",
+            "BeginOffset": 22,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.6302739381790161,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 113,
+            "EndOffset": 115
+        }
+    ]
+}

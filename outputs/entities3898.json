@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9078524112701416,
+            "Type": "PERSON",
+            "Text": "@mitchellvii",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8443527221679688,
+            "Type": "QUANTITY",
+            "Text": "about 15 new polls",
+            "BeginOffset": 47,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.8069106936454773,
+            "Type": "DATE",
+            "Text": "last two days",
+            "BeginOffset": 75,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9954357743263245,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 94,
+            "EndOffset": 99
+        }
+    ]
+}

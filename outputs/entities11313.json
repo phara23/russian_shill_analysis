@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6771969199180603,
+            "Type": "PERSON",
+            "Text": "@MedianPolitics",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.912007212638855,
+            "Type": "PERSON",
+            "Text": "@benshapiro",
+            "BeginOffset": 20,
+            "EndOffset": 31
+        }
+    ]
+}

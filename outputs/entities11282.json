@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8158960938453674,
+            "Type": "PERSON",
+            "Text": "@suzost",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.8986111879348755,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 33,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.6001496315002441,
+            "Type": "LOCATION",
+            "Text": "Russia",
+            "BeginOffset": 100,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.9999104738235474,
+            "Type": "OTHER",
+            "Text": "https://t.co/GcaPyigr73",
+            "BeginOffset": 108,
+            "EndOffset": 131
+        }
+    ]
+}

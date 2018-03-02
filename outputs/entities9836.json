@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.792786180973053,
+            "Type": "PERSON",
+            "Text": "@ZaibatsuNews",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.999897301197052,
+            "Type": "PERSON",
+            "Text": "Elon Musk",
+            "BeginOffset": 18,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9572157263755798,
+            "Type": "DATE",
+            "Text": "tonight",
+            "BeginOffset": 63,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.8478150963783264,
+            "Type": "OTHER",
+            "Text": "https://t.co/StKFcmc1Dc",
+            "BeginOffset": 72,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.7124988436698914,
+            "Type": "ORGANIZATION",
+            "Text": "#p2 #ctl",
+            "BeginOffset": 96,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.9999622106552124,
+            "Type": "OTHER",
+            "Text": "https://t.co/tK6VUgxKK0",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6893726587295532,
+            "Type": "PERSON",
+            "Text": "@LifeNewsHQ",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9797292947769165,
+            "Type": "QUANTITY",
+            "Text": "8 Million",
+            "BeginOffset": 55,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9534151554107666,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 73,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.7610740661621094,
+            "Type": "ORGANIZATION",
+            "Text": "Democrats",
+            "BeginOffset": 98,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.9645359516143799,
+            "Type": "OTHER",
+            "Text": "https://t.co/8l9niiioA2",
+            "BeginOffset": 108,
+            "EndOffset": 131
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9420971274375916,
+            "Type": "PERSON",
+            "Text": "@GenFlynn",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9212281107902527,
+            "Type": "QUANTITY",
+            "Text": "7 min",
+            "BeginOffset": 25,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.930160641670227,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 50,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.985698401927948,
+            "Type": "PERSON",
+            "Text": "@mike_pence",
+            "BeginOffset": 73,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9809023141860962,
+            "Type": "OTHER",
+            "Text": "https://t.co/2yQ8a",
+            "BeginOffset": 125,
+            "EndOffset": 143
+        }
+    ]
+}

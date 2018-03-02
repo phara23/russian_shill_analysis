@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9391171932220459,
+            "Type": "PERSON",
+            "Text": "@KazmierskiR",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.4385097920894623,
+            "Type": "ORGANIZATION",
+            "Text": "#TedCruz",
+            "BeginOffset": 17,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.8715405464172363,
+            "Type": "OTHER",
+            "Text": "81124",
+            "BeginOffset": 66,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9793244004249573,
+            "Type": "OTHER",
+            "Text": "https://t.co/2jbThhRTkF",
+            "BeginOffset": 91,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.9118212461471558,
+            "Type": "PERSON",
+            "Text": "@SenTedCruz",
+            "BeginOffset": 117,
+            "EndOffset": 128
+        },
+        {
+            "Score": 0.9614773988723755,
+            "Type": "PERSON",
+            "Text": "@realDonaldT",
+            "BeginOffset": 130,
+            "EndOffset": 142
+        }
+    ]
+}

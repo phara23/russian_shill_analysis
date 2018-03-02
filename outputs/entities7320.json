@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9594511389732361,
+            "Type": "PERSON",
+            "Text": "@luchadora41",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.5182871222496033,
+            "Type": "ORGANIZATION",
+            "Text": "Fatah",
+            "BeginOffset": 17,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9375554919242859,
+            "Type": "ORGANIZATION",
+            "Text": "Hamas",
+            "BeginOffset": 27,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.7312506437301636,
+            "Type": "OTHER",
+            "Text": "Palestinian",
+            "BeginOffset": 54,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.873970627784729,
+            "Type": "OTHER",
+            "Text": "https://t.co/87eiMYNLgG",
+            "BeginOffset": 78,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.5674816966056824,
+            "Type": "OTHER",
+            "Text": "Psalm 83",
+            "BeginOffset": 102,
+            "EndOffset": 110
+        }
+    ]
+}

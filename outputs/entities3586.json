@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7595614790916443,
+            "Type": "PERSON",
+            "Text": "@astroterf",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8022894859313965,
+            "Type": "PERSON",
+            "Text": "President Hypocrisy",
+            "BeginOffset": 15,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9920828342437744,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 83,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.5346323251724243,
+            "Type": "LOCATION",
+            "Text": "Mexico",
+            "BeginOffset": 99,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.9433891177177429,
+            "Type": "QUANTITY",
+            "Text": "5 Million",
+            "BeginOffset": 106,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.9631086587905884,
+            "Type": "OTHER",
+            "Text": "https://t.co/MDeIilZy",
+            "BeginOffset": 116,
+            "EndOffset": 137
+        }
+    ]
+}

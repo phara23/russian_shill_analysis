@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.946941077709198,
+            "Type": "PERSON",
+            "Text": "@Thomas1774",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9942680597305298,
+            "Type": "PERSON",
+            "Text": "Tony Podesta",
+            "BeginOffset": 32,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.7867510318756104,
+            "Type": "QUANTITY",
+            "Text": "00K",
+            "BeginOffset": 50,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.8075897693634033,
+            "Type": "OTHER",
+            "Text": "Chinese",
+            "BeginOffset": 67,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.5611967444419861,
+            "Type": "LOCATION",
+            "Text": "Iran",
+            "BeginOffset": 110,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.9999873638153076,
+            "Type": "OTHER",
+            "Text": "https://t.co/KQV34Ol4bp",
+            "BeginOffset": 115,
+            "EndOffset": 138
+        }
+    ]
+}

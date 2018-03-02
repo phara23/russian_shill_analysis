@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8366438746452332,
+            "Type": "PERSON",
+            "Text": "@KansasCityDNews",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9308149218559265,
+            "Type": "QUANTITY",
+            "Text": "Four-year-old",
+            "BeginOffset": 27,
+            "EndOffset": 40
+        }
+    ]
+}

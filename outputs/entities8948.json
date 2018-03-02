@@ -1,0 +1,67 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8452658653259277,
+            "Type": "PERSON",
+            "Text": "@a219224",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8695773482322693,
+            "Type": "PERSON",
+            "Text": "@lukiOC",
+            "BeginOffset": 13,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.967133641242981,
+            "Type": "PERSON",
+            "Text": "@Doodisgirl",
+            "BeginOffset": 21,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9890979528427124,
+            "Type": "PERSON",
+            "Text": "@LyndaG1963",
+            "BeginOffset": 33,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9967195391654968,
+            "Type": "PERSON",
+            "Text": "@popstherock33",
+            "BeginOffset": 45,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.9485377669334412,
+            "Type": "PERSON",
+            "Text": "@sawmilltaters",
+            "BeginOffset": 61,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.9724944233894348,
+            "Type": "PERSON",
+            "Text": "@abitx2u",
+            "BeginOffset": 76,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.8502079844474792,
+            "Type": "PERSON",
+            "Text": "@GoalieBill328",
+            "BeginOffset": 85,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.9997472167015076,
+            "Type": "OTHER",
+            "Text": "https://t.co/Vas2sUZJgp",
+            "BeginOffset": 100,
+            "EndOffset": 123
+        }
+    ]
+}

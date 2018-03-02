@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.893039345741272,
+            "Type": "PERSON",
+            "Text": "@PolakPotrafi333",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8965761065483093,
+            "Type": "PERSON",
+            "Text": "@JenaC2",
+            "BeginOffset": 21,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9597358703613281,
+            "Type": "PERSON",
+            "Text": "Jena",
+            "BeginOffset": 42,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9994908571243286,
+            "Type": "OTHER",
+            "Text": "https://t.co/MpnqsnMwfl",
+            "BeginOffset": 47,
+            "EndOffset": 70
+        }
+    ]
+}

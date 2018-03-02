@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9254183173179626,
+            "Type": "PERSON",
+            "Text": "@mitchellvii",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.985355019569397,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 73,
+            "EndOffset": 78
+        }
+    ]
+}

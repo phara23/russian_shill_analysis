@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.959936797618866,
+            "Type": "PERSON",
+            "Text": "@iam_seanbond",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8343787789344788,
+            "Type": "PERSON",
+            "Text": "@MusicWench1",
+            "BeginOffset": 18,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9996693134307861,
+            "Type": "OTHER",
+            "Text": "https://t.co/mkQsw30Gal",
+            "BeginOffset": 38,
+            "EndOffset": 61
+        }
+    ]
+}

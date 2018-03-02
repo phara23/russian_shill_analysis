@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8109745979309082,
+            "Type": "PERSON",
+            "Text": "@OccupyDemocrats",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8260905146598816,
+            "Type": "QUANTITY",
+            "Text": "12 Year",
+            "BeginOffset": 39,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.8535370826721191,
+            "Type": "QUANTITY",
+            "Text": "13-Year",
+            "BeginOffset": 63,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9998922348022461,
+            "Type": "OTHER",
+            "Text": "https://t.co/zJaEDb4KFE",
+            "BeginOffset": 108,
+            "EndOffset": 131
+        }
+    ]
+}

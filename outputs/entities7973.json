@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.900227963924408,
+            "Type": "ORGANIZATION",
+            "Text": "@CNBC",
+            "BeginOffset": 3,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.7868000268936157,
+            "Type": "PERSON",
+            "Text": "Prince",
+            "BeginOffset": 10,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.923145055770874,
+            "Type": "QUANTITY",
+            "Text": "5M",
+            "BeginOffset": 41,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9203003644943237,
+            "Type": "QUANTITY",
+            "Text": "67 gold bars",
+            "BeginOffset": 78,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9999892711639404,
+            "Type": "OTHER",
+            "Text": "https://t.co/t0y18LT08o",
+            "BeginOffset": 99,
+            "EndOffset": 122
+        }
+    ]
+}

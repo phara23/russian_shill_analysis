@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.47296786308288574,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.892029345035553,
+            "Type": "ORGANIZATION",
+            "Text": "@Daily_Star",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8114608526229858,
+            "Type": "ORGANIZATION",
+            "Text": "Russia",
+            "BeginOffset": 16,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.46847134828567505,
+            "Type": "ORGANIZATION",
+            "Text": "SIZZLER",
+            "BeginOffset": 39,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.8374915719032288,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 70,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.8123422861099243,
+            "Type": "OTHER",
+            "Text": "https://t.co/YIqseUIyHq",
+            "BeginOffset": 88,
+            "EndOffset": 111
+        },
+        {
+            "Score": 0.9999675750732422,
+            "Type": "OTHER",
+            "Text": "https://t.co/gBabIzOmRh",
+            "BeginOffset": 112,
+            "EndOffset": 135
+        }
+    ]
+}

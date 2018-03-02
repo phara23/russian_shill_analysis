@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8607231974601746,
+            "Type": "PERSON",
+            "Text": "@rightnpr",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9201645255088806,
+            "Type": "OTHER",
+            "Text": "https://t.co/IYrxHSwKRw",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        },
+        {
+            "Score": 0.9825144410133362,
+            "Type": "OTHER",
+            "Text": "https://t.co",
+            "BeginOffset": 127,
+            "EndOffset": 139
+        }
+    ]
+}

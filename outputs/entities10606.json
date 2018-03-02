@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8139720559120178,
+            "Type": "PERSON",
+            "Text": "@DeplorableMery",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8344752788543701,
+            "Type": "QUANTITY",
+            "Text": "16-Year-Old",
+            "BeginOffset": 20,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.8721339702606201,
+            "Type": "QUANTITY",
+            "Text": "2 Counts",
+            "BeginOffset": 39,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9535550475120544,
+            "Type": "LOCATION",
+            "Text": "Nashville",
+            "BeginOffset": 99,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.9077736139297485,
+            "Type": "OTHER",
+            "Text": "https://t.co/XGFZ92MfzG",
+            "BeginOffset": 109,
+            "EndOffset": 132
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7970591187477112,
+            "Type": "PERSON",
+            "Text": "@BIZPACReview",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9762846231460571,
+            "Type": "EVENT",
+            "Text": "Super Bowl",
+            "BeginOffset": 65,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.8971004486083984,
+            "Type": "OTHER",
+            "Text": "https://t.co/ox1N2ooGqR",
+            "BeginOffset": 106,
+            "EndOffset": 129
+        },
+        {
+            "Score": 0.9605420827865601,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 130,
+            "EndOffset": 139
+        }
+    ]
+}

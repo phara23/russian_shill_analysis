@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8232568502426147,
+            "Type": "PERSON",
+            "Text": "@DeadBuffaloBlog",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9720643162727356,
+            "Type": "PERSON",
+            "Text": "Bill",
+            "BeginOffset": 54,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.5707367062568665,
+            "Type": "PERSON",
+            "Text": "#Trump",
+            "BeginOffset": 107,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.9053013920783997,
+            "Type": "OTHER",
+            "Text": "https://t.co/D",
+            "BeginOffset": 125,
+            "EndOffset": 139
+        }
+    ]
+}

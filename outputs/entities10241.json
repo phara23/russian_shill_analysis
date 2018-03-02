@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8320047855377197,
+            "Type": "PERSON",
+            "Text": "@amrightnow",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.5114588737487793,
+            "Type": "OTHER",
+            "Text": "American",
+            "BeginOffset": 23,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9866561889648438,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 55,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.7188078165054321,
+            "Type": "OTHER",
+            "Text": "American",
+            "BeginOffset": 67,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.8438238501548767,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 114,
+            "EndOffset": 121
+        },
+        {
+            "Score": 0.8027420043945312,
+            "Type": "QUANTITY",
+            "Text": "First",
+            "BeginOffset": 122,
+            "EndOffset": 127
+        },
+        {
+            "Score": 0.5792021751403809,
+            "Type": "QUANTITY",
+            "Text": "1",
+            "BeginOffset": 129,
+            "EndOffset": 130
+        }
+    ]
+}

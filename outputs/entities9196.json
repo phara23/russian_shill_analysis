@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7882259488105774,
+            "Type": "PERSON",
+            "Text": "@scottisbell_",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8446837663650513,
+            "Type": "QUANTITY",
+            "Text": "2 Norfolk Terriers",
+            "BeginOffset": 21,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.5240776538848877,
+            "Type": "EVENT",
+            "Text": "Christmas",
+            "BeginOffset": 62,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9529730081558228,
+            "Type": "PERSON",
+            "Text": "Mia",
+            "BeginOffset": 88,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.9970043301582336,
+            "Type": "PERSON",
+            "Text": "Nicky",
+            "BeginOffset": 126,
+            "EndOffset": 131
+        },
+        {
+            "Score": 0.9716885089874268,
+            "Type": "PERSON",
+            "Text": "@katie",
+            "BeginOffset": 133,
+            "EndOffset": 139
+        }
+    ]
+}

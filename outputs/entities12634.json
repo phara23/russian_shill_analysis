@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9290075898170471,
+            "Type": "PERSON",
+            "Text": "@BenjaminEnfield",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.5806528925895691,
+            "Type": "PERSON",
+            "Text": "21 Savage",
+            "BeginOffset": 21,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.4909829795360565,
+            "Type": "PERSON",
+            "Text": "Issa",
+            "BeginOffset": 32,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9863333106040955,
+            "Type": "PERSON",
+            "Text": "Drake",
+            "BeginOffset": 43,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9356386661529541,
+            "Type": "OTHER",
+            "Text": "https://t.co/Ctc8gUJoDb",
+            "BeginOffset": 100,
+            "EndOffset": 123
+        }
+    ]
+}

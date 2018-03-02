@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6936288475990295,
+            "Type": "ORGANIZATION",
+            "Text": "@3Quarters",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.7818813323974609,
+            "Type": "QUANTITY",
+            "Text": "2Day",
+            "BeginOffset": 13,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6352866888046265,
+            "Type": "ORGANIZATION",
+            "Text": "Fiverr",
+            "BeginOffset": 66,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.920989990234375,
+            "Type": "OTHER",
+            "Text": "https://t.c",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

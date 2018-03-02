@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9619188904762268,
+            "Type": "PERSON",
+            "Text": "@JoyAnnReid",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.774701714515686,
+            "Type": "PERSON",
+            "Text": "@thedailybeast",
+            "BeginOffset": 29,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9830741286277771,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 60,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9998613595962524,
+            "Type": "OTHER",
+            "Text": "https://t.co/TnTtdTGO3p",
+            "BeginOffset": 79,
+            "EndOffset": 102
+        }
+    ]
+}

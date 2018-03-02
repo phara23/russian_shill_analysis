@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7948813438415527,
+            "Type": "PERSON",
+            "Text": "@USNHistory",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9759246110916138,
+            "Type": "DATE",
+            "Text": "1775",
+            "BeginOffset": 24,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.8376911282539368,
+            "Type": "QUANTITY",
+            "Text": "1st time",
+            "BeginOffset": 30,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.8030014634132385,
+            "Type": "OTHER",
+            "Text": "American",
+            "BeginOffset": 39,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.46008408069610596,
+            "Type": "ORGANIZATION",
+            "Text": "#USNavy",
+            "BeginOffset": 68,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.8854565620422363,
+            "Type": "PERSON",
+            "Text": "Alfred",
+            "BeginOffset": 122,
+            "EndOffset": 128
+        },
+        {
+            "Score": 0.9272692799568176,
+            "Type": "PERSON",
+            "Text": "@amhistor",
+            "BeginOffset": 130,
+            "EndOffset": 139
+        }
+    ]
+}

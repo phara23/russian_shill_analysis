@@ -1,0 +1,81 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6983891725540161,
+            "Type": "PERSON",
+            "Text": "@illuminatiuae",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9409345388412476,
+            "Type": "PERSON",
+            "Text": "@islamlie2",
+            "BeginOffset": 19,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9413679838180542,
+            "Type": "PERSON",
+            "Text": "@gasparripdl",
+            "BeginOffset": 30,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9605846405029297,
+            "Type": "PERSON",
+            "Text": "@a_meluzzi",
+            "BeginOffset": 43,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9403170347213745,
+            "Type": "PERSON",
+            "Text": "@magdicristiano",
+            "BeginOffset": 54,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9704163074493408,
+            "Type": "PERSON",
+            "Text": "@LucioMalan",
+            "BeginOffset": 70,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.9862695932388306,
+            "Type": "PERSON",
+            "Text": "@franco_sala",
+            "BeginOffset": 82,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.9280053377151489,
+            "Type": "PERSON",
+            "Text": "@lucabattanta",
+            "BeginOffset": 95,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.9969027638435364,
+            "Type": "PERSON",
+            "Text": "@Elena07617349",
+            "BeginOffset": 109,
+            "EndOffset": 123
+        },
+        {
+            "Score": 0.9883502125740051,
+            "Type": "PERSON",
+            "Text": "@LisadaCa",
+            "BeginOffset": 124,
+            "EndOffset": 133
+        },
+        {
+            "Score": 0.9842995405197144,
+            "Type": "PERSON",
+            "Text": "@Simo",
+            "BeginOffset": 134,
+            "EndOffset": 139
+        }
+    ]
+}

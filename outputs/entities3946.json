@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9129200577735901,
+            "Type": "PERSON",
+            "Text": "@JOMainEvent",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9623903632164001,
+            "Type": "PERSON",
+            "Text": "@JermonMaxey",
+            "BeginOffset": 18,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9971471428871155,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 64,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9700136184692383,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 123,
+            "EndOffset": 128
+        }
+    ]
+}

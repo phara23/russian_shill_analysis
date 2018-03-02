@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8815020322799683,
+            "Type": "PERSON",
+            "Text": "@mrd125",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9440362453460693,
+            "Type": "PERSON",
+            "Text": "@smod2016",
+            "BeginOffset": 12,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.7024402618408203,
+            "Type": "DATE",
+            "Text": "#2016",
+            "BeginOffset": 35,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.8699130415916443,
+            "Type": "QUANTITY",
+            "Text": "4Words",
+            "BeginOffset": 42,
+            "EndOffset": 48
+        }
+    ]
+}

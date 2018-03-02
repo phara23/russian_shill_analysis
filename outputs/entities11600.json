@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4920765459537506,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8065276145935059,
+            "Type": "ORGANIZATION",
+            "Text": "@Independent",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7172291874885559,
+            "Type": "ORGANIZATION",
+            "Text": "Virgin",
+            "BeginOffset": 32,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9031459093093872,
+            "Type": "OTHER",
+            "Text": "http://t.co/RPDCt6b2mX",
+            "BeginOffset": 88,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.999975323677063,
+            "Type": "OTHER",
+            "Text": "http://t.co/SizSrD9MAS",
+            "BeginOffset": 111,
+            "EndOffset": 133
+        }
+    ]
+}

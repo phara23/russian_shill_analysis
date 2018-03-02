@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9341995716094971,
+            "Type": "PERSON",
+            "Text": "@ajenable",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9005202651023865,
+            "Type": "EVENT",
+            "Text": "Christmas Day",
+            "BeginOffset": 58,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.8884825110435486,
+            "Type": "EVENT",
+            "Text": "Christnas Eve",
+            "BeginOffset": 96,
+            "EndOffset": 109
+        }
+    ]
+}

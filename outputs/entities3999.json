@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8818299770355225,
+            "Type": "ORGANIZATION",
+            "Text": "Nazis",
+            "BeginOffset": 35,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.4770543575286865,
+            "Type": "ORGANIZATION",
+            "Text": "#BLM",
+            "BeginOffset": 42,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9997760653495789,
+            "Type": "OTHER",
+            "Text": "https://t.co/iadanTkug8",
+            "BeginOffset": 102,
+            "EndOffset": 125
+        }
+    ]
+}

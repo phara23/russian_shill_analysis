@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9920175075531006,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 0,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.6881324648857117,
+            "Type": "ORGANIZATION",
+            "Text": "Black Lives Matter",
+            "BeginOffset": 21,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9447408318519592,
+            "Type": "LOCATION",
+            "Text": "Cleveland",
+            "BeginOffset": 53,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.98446124792099,
+            "Type": "OTHER",
+            "Text": "https://t.co/ZGAJb9phP1",
+            "BeginOffset": 63,
+            "EndOffset": 86
+        }
+    ]
+}

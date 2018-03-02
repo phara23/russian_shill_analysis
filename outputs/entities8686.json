@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7382610440254211,
+            "Type": "PERSON",
+            "Text": "@OffGridInThePNW",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8448242545127869,
+            "Type": "ORGANIZATION",
+            "Text": "Democrats",
+            "BeginOffset": 21,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9894883036613464,
+            "Type": "TITLE",
+            "Text": "ObamaCare",
+            "BeginOffset": 31,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9986265301704407,
+            "Type": "PERSON",
+            "Text": "Bill Clinton",
+            "BeginOffset": 64,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.8582369685173035,
+            "Type": "OTHER",
+            "Text": "https://t.co/lEhdGL6Kso",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        },
+        {
+            "Score": 0.32245156168937683,
+            "Type": "ORGANIZATION",
+            "Text": "#Clinton",
+            "BeginOffset": 121,
+            "EndOffset": 129
+        },
+        {
+            "Score": 0.9861235618591309,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 129,
+            "EndOffset": 133
+        }
+    ]
+}

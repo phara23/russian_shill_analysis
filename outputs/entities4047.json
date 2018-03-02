@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7954930067062378,
+            "Type": "PERSON",
+            "Text": "@PzFeed",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.8664091229438782,
+            "Type": "ORGANIZATION",
+            "Text": "U.S army",
+            "BeginOffset": 48,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.8093034029006958,
+            "Type": "OTHER",
+            "Text": "http://t.co/tYR3nxHxyZ",
+            "BeginOffset": 79,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.9999607801437378,
+            "Type": "OTHER",
+            "Text": "http://t.co/7riZWhrzWg",
+            "BeginOffset": 102,
+            "EndOffset": 124
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7700208425521851,
+            "Type": "PERSON",
+            "Text": "@guntrust",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8416606783866882,
+            "Type": "LOCATION",
+            "Text": "Fort Lauderdale",
+            "BeginOffset": 14,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.948106586933136,
+            "Type": "OTHER",
+            "Text": "https://t.co/xwkU4NsE0T",
+            "BeginOffset": 85,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.674375593662262,
+            "Type": "QUANTITY",
+            "Text": "#2A",
+            "BeginOffset": 121,
+            "EndOffset": 124
+        },
+        {
+            "Score": 0.7094078063964844,
+            "Type": "ORGANIZATION",
+            "Text": "@guntrust",
+            "BeginOffset": 129,
+            "EndOffset": 138
+        }
+    ]
+}

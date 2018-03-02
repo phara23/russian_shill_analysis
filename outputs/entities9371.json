@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9172725677490234,
+            "Type": "PERSON",
+            "Text": "@cthagod",
+            "BeginOffset": 0,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.9556454420089722,
+            "Type": "ORGANIZATION",
+            "Text": "Broncos",
+            "BeginOffset": 54,
+            "EndOffset": 61
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9353877305984497,
+            "Type": "PERSON",
+            "Text": "@MattMurph24",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8364762663841248,
+            "Type": "ORGANIZATION",
+            "Text": "Republicans",
+            "BeginOffset": 41,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9998218417167664,
+            "Type": "OTHER",
+            "Text": "https://t.co/D22ZRS03PY",
+            "BeginOffset": 92,
+            "EndOffset": 115
+        }
+    ]
+}

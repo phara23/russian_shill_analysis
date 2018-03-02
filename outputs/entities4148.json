@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9573614001274109,
+            "Type": "PERSON",
+            "Text": "@KJakePatten",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.5936499834060669,
+            "Type": "DATE",
+            "Text": "#2016",
+            "BeginOffset": 35,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.6386446356773376,
+            "Type": "QUANTITY",
+            "Text": "3Words",
+            "BeginOffset": 50,
+            "EndOffset": 56
+        }
+    ]
+}

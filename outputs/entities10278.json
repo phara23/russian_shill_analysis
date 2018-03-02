@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8844095468521118,
+            "Type": "ORGANIZATION",
+            "Text": "@MSNBC",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9325989484786987,
+            "Type": "PERSON",
+            "Text": "President Donald Trump",
+            "BeginOffset": 11,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.8093673586845398,
+            "Type": "PERSON",
+            "Text": "First Lady Melania Trump",
+            "BeginOffset": 38,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.902927577495575,
+            "Type": "OTHER",
+            "Text": "https://t.co/eMbIpHhdPP",
+            "BeginOffset": 101,
+            "EndOffset": 124
+        },
+        {
+            "Score": 0.9020395874977112,
+            "Type": "OTHER",
+            "Text": "https://t.co/Q",
+            "BeginOffset": 125,
+            "EndOffset": 139
+        }
+    ]
+}

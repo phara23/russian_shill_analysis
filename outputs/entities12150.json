@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9315078854560852,
+            "Type": "PERSON",
+            "Text": "@keichri",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.847761332988739,
+            "Type": "PERSON",
+            "Text": "Joe",
+            "BeginOffset": 21,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9779301881790161,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 35,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9783238768577576,
+            "Type": "LOCATION",
+            "Text": "Florida",
+            "BeginOffset": 50,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9998070597648621,
+            "Type": "OTHER",
+            "Text": "https://t.co/Cgab0LBdMs",
+            "BeginOffset": 60,
+            "EndOffset": 83
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8035603165626526,
+            "Type": "ORGANIZATION",
+            "Text": "@P_Sweethearts",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.4734013080596924,
+            "Type": "PERSON",
+            "Text": "#Kanye",
+            "BeginOffset": 19,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9999886751174927,
+            "Type": "OTHER",
+            "Text": "https://t.co/SPxb7vfo6o",
+            "BeginOffset": 26,
+            "EndOffset": 49
+        }
+    ]
+}

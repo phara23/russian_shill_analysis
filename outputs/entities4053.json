@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7968370914459229,
+            "Type": "PERSON",
+            "Text": "@spcwriter",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8668478727340698,
+            "Type": "QUANTITY",
+            "Text": "first time",
+            "BeginOffset": 23,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9184411764144897,
+            "Type": "QUANTITY",
+            "Text": "2 winter blankets",
+            "BeginOffset": 54,
+            "EndOffset": 71
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8907326459884644,
+            "Type": "PERSON",
+            "Text": "@PaulMicRogers",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.4845215082168579,
+            "Type": "PERSON",
+            "Text": "#BillClinton",
+            "BeginOffset": 19,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.6436066031455994,
+            "Type": "ORGANIZATION",
+            "Text": "Clinton Foundation",
+            "BeginOffset": 53,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9832853674888611,
+            "Type": "OTHER",
+            "Text": "https://t.co/VDs1uvtsgJ",
+            "BeginOffset": 104,
+            "EndOffset": 127
+        },
+        {
+            "Score": 0.8835204243659973,
+            "Type": "ORGANIZATION",
+            "Text": "@Breitb",
+            "BeginOffset": 132,
+            "EndOffset": 139
+        }
+    ]
+}

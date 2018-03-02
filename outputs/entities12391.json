@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9973846077919006,
+            "Type": "PERSON",
+            "Text": "@mfore0142",
+            "BeginOffset": 0,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9268569946289062,
+            "Type": "PERSON",
+            "Text": "@JjMicka",
+            "BeginOffset": 11,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9932568073272705,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 32,
+            "EndOffset": 39
+        }
+    ]
+}

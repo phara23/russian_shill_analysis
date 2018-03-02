@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7527005076408386,
+            "Type": "PERSON",
+            "Text": "@FRICTION456",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9185253977775574,
+            "Type": "LOCATION",
+            "Text": "Trump Tower",
+            "BeginOffset": 53,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9752105474472046,
+            "Type": "LOCATION",
+            "Text": "Wall Street",
+            "BeginOffset": 68,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.9999898672103882,
+            "Type": "OTHER",
+            "Text": "https://t.co/zbv62QTAf9",
+            "BeginOffset": 83,
+            "EndOffset": 106
+        }
+    ]
+}

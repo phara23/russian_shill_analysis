@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6940593719482422,
+            "Type": "PERSON",
+            "Text": "@XLNB",
+            "BeginOffset": 3,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.9924962520599365,
+            "Type": "DATE",
+            "Text": "1776",
+            "BeginOffset": 66,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9883710741996765,
+            "Type": "PERSON",
+            "Text": "Bernie",
+            "BeginOffset": 72,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.9999850988388062,
+            "Type": "OTHER",
+            "Text": "https://t.co/LN8kLE7QTF",
+            "BeginOffset": 80,
+            "EndOffset": 103
+        }
+    ]
+}

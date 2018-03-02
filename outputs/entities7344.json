@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8799892663955688,
+            "Type": "PERSON",
+            "Text": "@ZantiMisft",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9935197234153748,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 16,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9999493360519409,
+            "Type": "OTHER",
+            "Text": "https://t.co/9nvcw4nxk1",
+            "BeginOffset": 112,
+            "EndOffset": 135
+        }
+    ]
+}

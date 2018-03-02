@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8331463932991028,
+            "Type": "PERSON",
+            "Text": "@SandraTXAS",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9972859621047974,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 52,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9975449442863464,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 87,
+            "EndOffset": 92
+        }
+    ]
+}

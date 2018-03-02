@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8087233304977417,
+            "Type": "TITLE",
+            "Text": "Hamilton",
+            "BeginOffset": 1,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9970688223838806,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 29,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.872707724571228,
+            "Type": "OTHER",
+            "Text": "https://t.co/4k9AFFBMhF",
+            "BeginOffset": 42,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9999731779098511,
+            "Type": "OTHER",
+            "Text": "https://t.co/bmqpRkhmd4",
+            "BeginOffset": 66,
+            "EndOffset": 89
+        }
+    ]
+}

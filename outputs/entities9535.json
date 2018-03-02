@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9050858020782471,
+            "Type": "PERSON",
+            "Text": "@AshAgony",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9955755472183228,
+            "Type": "LOCATION",
+            "Text": "NYC",
+            "BeginOffset": 29,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9999516010284424,
+            "Type": "OTHER",
+            "Text": "https://t.co/MOQO9nYZd5",
+            "BeginOffset": 84,
+            "EndOffset": 107
+        }
+    ]
+}

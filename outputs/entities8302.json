@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8156734704971313,
+            "Type": "ORGANIZATION",
+            "Text": "@h8mpy",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9233858585357666,
+            "Type": "LOCATION",
+            "Text": "Goa",
+            "BeginOffset": 42,
+            "EndOffset": 45
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5114042162895203,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.874331533908844,
+            "Type": "ORGANIZATION",
+            "Text": "@LA_Crystal",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8564367890357971,
+            "Type": "PERSON",
+            "Text": "@dalef3",
+            "BeginOffset": 16,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9348334074020386,
+            "Type": "PERSON",
+            "Text": "@dartezkathleen",
+            "BeginOffset": 24,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9426544904708862,
+            "Type": "DATE",
+            "Text": "this year",
+            "BeginOffset": 66,
+            "EndOffset": 75
+        }
+    ]
+}

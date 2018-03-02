@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7432277798652649,
+            "Type": "PERSON",
+            "Text": "@OnPirateSat",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8946643471717834,
+            "Type": "LOCATION",
+            "Text": "#USA",
+            "BeginOffset": 36,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.6673429012298584,
+            "Type": "QUANTITY",
+            "Text": "Part 10",
+            "BeginOffset": 72,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.9589483737945557,
+            "Type": "OTHER",
+            "Text": "https://t.co/LVpm7ekGfF",
+            "BeginOffset": 98,
+            "EndOffset": 121
+        },
+        {
+            "Score": 0.31861162185668945,
+            "Type": "ORGANIZATION",
+            "Text": "#SNRTG",
+            "BeginOffset": 123,
+            "EndOffset": 129
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9028177261352539,
+            "Type": "PERSON",
+            "Text": "@SouthernLady328",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9006479382514954,
+            "Type": "PERSON",
+            "Text": "@nedlow",
+            "BeginOffset": 22,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9893909692764282,
+            "Type": "PERSON",
+            "Text": "@ckore70",
+            "BeginOffset": 30,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.8634620308876038,
+            "Type": "PERSON",
+            "Text": "@POTUS",
+            "BeginOffset": 39,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9839828014373779,
+            "Type": "PERSON",
+            "Text": "@Oprah",
+            "BeginOffset": 46,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9861010313034058,
+            "Type": "PERSON",
+            "Text": "@Beyonce",
+            "BeginOffset": 53,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.7459775805473328,
+            "Type": "QUANTITY",
+            "Text": "both sets",
+            "BeginOffset": 76,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.6690454483032227,
+            "Type": "OTHER",
+            "Text": "African",
+            "BeginOffset": 114,
+            "EndOffset": 121
+        }
+    ]
+}

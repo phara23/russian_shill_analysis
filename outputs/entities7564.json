@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6958515644073486,
+            "Type": "PERSON",
+            "Text": "@YANKEEFANNO3",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.6781333088874817,
+            "Type": "PERSON",
+            "Text": "TRUMP",
+            "BeginOffset": 35,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.6798349022865295,
+            "Type": "PERSON",
+            "Text": "PENCE",
+            "BeginOffset": 41,
+            "EndOffset": 46
+        }
+    ]
+}

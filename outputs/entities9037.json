@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7882218956947327,
+            "Type": "PERSON",
+            "Text": "@ZaibatsuNews",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9992694854736328,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 43,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.6804399490356445,
+            "Type": "ORGANIZATION",
+            "Text": "Wikileaks",
+            "BeginOffset": 73,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.872591495513916,
+            "Type": "OTHER",
+            "Text": "https://t.co/ZhVPlMTXiw",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        },
+        {
+            "Score": 0.786824643611908,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 129,
+            "EndOffset": 138
+        }
+    ]
+}

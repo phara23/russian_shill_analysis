@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8782252669334412,
+            "Type": "PERSON",
+            "Text": "@CyberSecure_TW",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9797016382217407,
+            "Type": "ORGANIZATION",
+            "Text": "FBI",
+            "BeginOffset": 20,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9741727113723755,
+            "Type": "QUANTITY",
+            "Text": "8,000 Computers",
+            "BeginOffset": 37,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9894357919692993,
+            "Type": "QUANTITY",
+            "Text": "120 Countries",
+            "BeginOffset": 56,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9763705730438232,
+            "Type": "OTHER",
+            "Text": "https://t.co/HkB5r7JSu2",
+            "BeginOffset": 93,
+            "EndOffset": 116
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8193783760070801,
+            "Type": "PERSON",
+            "Text": "@ophidianpilot",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9950277209281921,
+            "Type": "ORGANIZATION",
+            "Text": "NSA",
+            "BeginOffset": 37,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9905446767807007,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 45,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9875681400299072,
+            "Type": "OTHER",
+            "Text": "https://t.co/wk5SDejLp5",
+            "BeginOffset": 93,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.9495513439178467,
+            "Type": "ORGANIZATION",
+            "Text": "@RightWingNews",
+            "BeginOffset": 121,
+            "EndOffset": 135
+        }
+    ]
+}

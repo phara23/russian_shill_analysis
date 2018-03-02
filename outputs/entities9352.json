@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8373898863792419,
+            "Type": "PERSON",
+            "Text": "@alwaystheself",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.944574773311615,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 85,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9499917030334473,
+            "Type": "PERSON",
+            "Text": "Barack",
+            "BeginOffset": 110,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.9731010794639587,
+            "Type": "ORGANIZATION",
+            "Text": "Democrats",
+            "BeginOffset": 122,
+            "EndOffset": 131
+        },
+        {
+            "Score": 0.510024905204773,
+            "Type": "ORGANIZATION",
+            "Text": "U.S",
+            "BeginOffset": 136,
+            "EndOffset": 139
+        }
+    ]
+}

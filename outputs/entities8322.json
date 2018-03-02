@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.94677734375,
+            "Type": "PERSON",
+            "Text": "@BettySwernofsky",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8898540735244751,
+            "Type": "ORGANIZATION",
+            "Text": "Muslim",
+            "BeginOffset": 56,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.999991774559021,
+            "Type": "OTHER",
+            "Text": "https://t.co/929OXiFKGW",
+            "BeginOffset": 64,
+            "EndOffset": 87
+        }
+    ]
+}

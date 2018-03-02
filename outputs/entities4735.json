@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9389336109161377,
+            "Type": "PERSON",
+            "Text": "@Obambulator",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9965440034866333,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 62,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9897365570068359,
+            "Type": "LOCATION",
+            "Text": "Wisconsin",
+            "BeginOffset": 94,
+            "EndOffset": 103
+        }
+    ]
+}

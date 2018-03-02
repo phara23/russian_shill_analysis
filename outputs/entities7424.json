@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.856226921081543,
+            "Type": "PERSON",
+            "Text": "@BrittPettibone",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9937288761138916,
+            "Type": "ORGANIZATION",
+            "Text": "Twitter",
+            "BeginOffset": 39,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9444783329963684,
+            "Type": "OTHER",
+            "Text": "https://t.co/AfjjlRKmy7",
+            "BeginOffset": 80,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.9977375268936157,
+            "Type": "ORGANIZATION",
+            "Text": "YouTube",
+            "BeginOffset": 105,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.9997835755348206,
+            "Type": "OTHER",
+            "Text": "https://t.co/tvavbooBf9",
+            "BeginOffset": 114,
+            "EndOffset": 137
+        }
+    ]
+}

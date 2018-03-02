@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8915517926216125,
+            "Type": "PERSON",
+            "Text": "@EdValenzMEd",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.6537914276123047,
+            "Type": "ORGANIZATION",
+            "Text": "#CNN",
+            "BeginOffset": 17,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9903191328048706,
+            "Type": "OTHER",
+            "Text": "https://t.co/ucY7NnIJLF",
+            "BeginOffset": 111,
+            "EndOffset": 134
+        }
+    ]
+}

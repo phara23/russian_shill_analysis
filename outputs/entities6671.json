@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8306474089622498,
+            "Type": "PERSON",
+            "Text": "@dontaxmedat",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.5879527926445007,
+            "Type": "ORGANIZATION",
+            "Text": "DC",
+            "BeginOffset": 69,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9999001026153564,
+            "Type": "OTHER",
+            "Text": "https://t.co/dF3BIPRmAi",
+            "BeginOffset": 89,
+            "EndOffset": 112
+        }
+    ]
+}

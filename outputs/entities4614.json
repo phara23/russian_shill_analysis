@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9558675289154053,
+            "Type": "PERSON",
+            "Text": "@SusanSarandon",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7317422032356262,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 54,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.5542523860931396,
+            "Type": "PERSON",
+            "Text": "Standing Rock",
+            "BeginOffset": 71,
+            "EndOffset": 84
+        }
+    ]
+}

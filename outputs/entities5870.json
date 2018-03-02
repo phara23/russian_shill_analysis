@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5784856677055359,
+            "Type": "LOCATION",
+            "Text": "Rome",
+            "BeginOffset": 0,
+            "EndOffset": 4
+        },
+        {
+            "Score": 0.9223863482475281,
+            "Type": "QUANTITY",
+            "Text": "one day",
+            "BeginOffset": 22,
+            "EndOffset": 29
+        }
+    ]
+}

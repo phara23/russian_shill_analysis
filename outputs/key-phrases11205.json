@@ -1,0 +1,46 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9187588095664978,
+            "Text": "RT @wikileaks",
+            "BeginOffset": 0,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9780034422874451,
+            "Text": "Clinton",
+            "BeginOffset": 32,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9962167739868164,
+            "Text": "cabinet",
+            "BeginOffset": 42,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9864626526832581,
+            "Text": "The DNC",
+            "BeginOffset": 51,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9553520679473877,
+            "Text": "Goldman Sachs",
+            "BeginOffset": 60,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.8591195940971375,
+            "Text": "Citibank",
+            "BeginOffset": 75,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.9589487910270691,
+            "Text": "#PodestaEmails",
+            "BeginOffset": 85,
+            "EndOffset": 99
+        }
+    ]
+}

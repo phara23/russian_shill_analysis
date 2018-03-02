@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9219859838485718,
+            "Type": "PERSON",
+            "Text": "@bfraser747",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7621743679046631,
+            "Type": "ORGANIZATION",
+            "Text": "Muslim Brotherhood",
+            "BeginOffset": 50,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.44963687658309937,
+            "Type": "ORGANIZATION",
+            "Text": "#HillaryClinton",
+            "BeginOffset": 86,
+            "EndOffset": 101
+        }
+    ]
+}

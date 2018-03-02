@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.912619948387146,
+            "Type": "PERSON",
+            "Text": "@Judeuhl",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9826566576957703,
+            "Type": "OTHER",
+            "Text": "https://t.co/c4pmxcjJIo",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.829479992389679,
+            "Type": "ORGANIZATION",
+            "Text": "@BarracudaMama",
+            "BeginOffset": 125,
+            "EndOffset": 139
+        }
+    ]
+}

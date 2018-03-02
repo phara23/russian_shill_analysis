@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.797858476638794,
+            "Type": "PERSON",
+            "Text": "@AkesterGeorge",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9008812308311462,
+            "Type": "PERSON",
+            "Text": "@SimonDanczuk",
+            "BeginOffset": 19,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.8705170154571533,
+            "Type": "PERSON",
+            "Text": "@BristolComSense",
+            "BeginOffset": 33,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.8923158049583435,
+            "Type": "ORGANIZATION",
+            "Text": "Islam",
+            "BeginOffset": 58,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.47677692770957947,
+            "Type": "OTHER",
+            "Text": "British",
+            "BeginOffset": 74,
+            "EndOffset": 81
+        }
+    ]
+}

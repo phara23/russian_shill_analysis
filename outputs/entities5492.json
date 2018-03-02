@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.907301127910614,
+            "Type": "PERSON",
+            "Text": "@semirose",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.4345722496509552,
+            "Type": "ORGANIZATION",
+            "Text": "Vox",
+            "BeginOffset": 74,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9738268852233887,
+            "Type": "TITLE",
+            "Text": "Star War",
+            "BeginOffset": 119,
+            "EndOffset": 127
+        }
+    ]
+}

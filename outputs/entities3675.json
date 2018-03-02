@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8257983922958374,
+            "Type": "PERSON",
+            "Text": "@LibAmericaOrg",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9551423192024231,
+            "Type": "OTHER",
+            "Text": "https://t.co/Oc1ndyUZ56",
+            "BeginOffset": 30,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9989683032035828,
+            "Type": "DATE",
+            "Text": "01/06/2017",
+            "BeginOffset": 58,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9999439716339111,
+            "Type": "OTHER",
+            "Text": "https://t.co/oDewUmApx4",
+            "BeginOffset": 71,
+            "EndOffset": 94
+        }
+    ]
+}

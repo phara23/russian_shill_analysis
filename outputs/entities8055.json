@@ -1,0 +1,67 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7906378507614136,
+            "Type": "PERSON",
+            "Text": "@Rtlhart",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.6690986752510071,
+            "Type": "PERSON",
+            "Text": "@BasimaFaysal",
+            "BeginOffset": 13,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9989371299743652,
+            "Type": "PERSON",
+            "Text": "Sahih Al-Bukhari",
+            "BeginOffset": 62,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.6539226174354553,
+            "Type": "OTHER",
+            "Text": "volume 9",
+            "BeginOffset": 80,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9772181510925293,
+            "Type": "OTHER",
+            "Text": "book 84",
+            "BeginOffset": 90,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.9593077301979065,
+            "Type": "OTHER",
+            "Text": "no. 57",
+            "BeginOffset": 99,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.8736607432365417,
+            "Type": "PERSON",
+            "Text": "@A_Zulvica",
+            "BeginOffset": 107,
+            "EndOffset": 117
+        },
+        {
+            "Score": 0.9603109359741211,
+            "Type": "PERSON",
+            "Text": "@NulliusnVerba",
+            "BeginOffset": 118,
+            "EndOffset": 132
+        },
+        {
+            "Score": 0.9057934284210205,
+            "Type": "PERSON",
+            "Text": "@XrkXes",
+            "BeginOffset": 133,
+            "EndOffset": 140
+        }
+    ]
+}

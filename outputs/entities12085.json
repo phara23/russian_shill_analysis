@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9453062415122986,
+            "Type": "PERSON",
+            "Text": "@AlexaKaySam",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.6208980083465576,
+            "Type": "DATE",
+            "Text": "#2016",
+            "BeginOffset": 34,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9309433698654175,
+            "Type": "QUANTITY",
+            "Text": "4Words",
+            "BeginOffset": 41,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9992281198501587,
+            "Type": "OTHER",
+            "Text": "https://t.co/ESUUSLtvGY",
+            "BeginOffset": 48,
+            "EndOffset": 71
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.712272047996521,
+            "Type": "PERSON",
+            "Text": "President #Obama",
+            "BeginOffset": 0,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9872373938560486,
+            "Type": "ORGANIZATION",
+            "Text": "al-Qaeda",
+            "BeginOffset": 78,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.8882363438606262,
+            "Type": "LOCATION",
+            "Text": "#Syria",
+            "BeginOffset": 103,
+            "EndOffset": 109
+        },
+        {
+            "Score": 0.9998524188995361,
+            "Type": "OTHER",
+            "Text": "https://t.co/TDJiTJ3qhH",
+            "BeginOffset": 110,
+            "EndOffset": 133
+        }
+    ]
+}

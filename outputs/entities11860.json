@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8208292126655579,
+            "Type": "PERSON",
+            "Text": "@chiefplan1",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9988596439361572,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 16,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.7708098888397217,
+            "Type": "PERSON",
+            "Text": "Delusional Donnie",
+            "BeginOffset": 75,
+            "EndOffset": 92
+        }
+    ]
+}

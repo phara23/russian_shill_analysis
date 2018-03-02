@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6765231490135193,
+            "Type": "ORGANIZATION",
+            "Text": "@AudioMusicalTM",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7998389601707458,
+            "Type": "QUANTITY",
+            "Text": "3Words",
+            "BeginOffset": 57,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.8857828378677368,
+            "Type": "OTHER",
+            "Text": "https://t.co/vMSXyz3Jvp",
+            "BeginOffset": 64,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.999975323677063,
+            "Type": "OTHER",
+            "Text": "https://t.co/G1NgcDl6l9",
+            "BeginOffset": 88,
+            "EndOffset": 111
+        }
+    ]
+}

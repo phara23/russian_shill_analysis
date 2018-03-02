@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9325287342071533,
+            "Type": "PERSON",
+            "Text": "@GenGod77",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.7659717798233032,
+            "Type": "PERSON",
+            "Text": "Jesus",
+            "BeginOffset": 14,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9998799562454224,
+            "Type": "OTHER",
+            "Text": "https://t.co/JJS4vE8GnN",
+            "BeginOffset": 71,
+            "EndOffset": 94
+        }
+    ]
+}

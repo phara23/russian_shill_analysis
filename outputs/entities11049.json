@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.796408474445343,
+            "Type": "PERSON",
+            "Text": "@DEF407",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.8591236472129822,
+            "Type": "PERSON",
+            "Text": "@TheDemocrats",
+            "BeginOffset": 12,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9385217428207397,
+            "Type": "ORGANIZATION",
+            "Text": "Democrats",
+            "BeginOffset": 61,
+            "EndOffset": 70
+        }
+    ]
+}

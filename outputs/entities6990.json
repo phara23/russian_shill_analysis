@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9293630123138428,
+            "Type": "PERSON",
+            "Text": "@LindaSuhler",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9882739186286926,
+            "Type": "DATE",
+            "Text": "1/20/17",
+            "BeginOffset": 72,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.9920786023139954,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 80,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.9726336002349854,
+            "Type": "QUANTITY",
+            "Text": "527p",
+            "BeginOffset": 112,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.961512565612793,
+            "Type": "QUANTITY",
+            "Text": "1 day",
+            "BeginOffset": 125,
+            "EndOffset": 130
+        }
+    ]
+}

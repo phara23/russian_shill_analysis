@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7559347152709961,
+            "Type": "PERSON",
+            "Text": "@frodofied",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.6399960517883301,
+            "Type": "ORGANIZATION",
+            "Text": "wikileaks",
+            "BeginOffset": 37,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9986616969108582,
+            "Type": "PERSON",
+            "Text": "Julian Assange",
+            "BeginOffset": 51,
+            "EndOffset": 65
+        }
+    ]
+}

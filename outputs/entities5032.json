@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7531200051307678,
+            "Type": "PERSON",
+            "Text": "@HuffingtonPost",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7806958556175232,
+            "Type": "ORGANIZATION",
+            "Text": "White House",
+            "BeginOffset": 68,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.889328122138977,
+            "Type": "OTHER",
+            "Text": "https://t.co/HdjaHTF3Y3",
+            "BeginOffset": 80,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.9999716281890869,
+            "Type": "OTHER",
+            "Text": "https://t.co/lCNwSiR2MA",
+            "BeginOffset": 104,
+            "EndOffset": 127
+        }
+    ]
+}

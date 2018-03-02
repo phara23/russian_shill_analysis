@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9988535642623901,
+            "Type": "PERSON",
+            "Text": "Tim Kaine",
+            "BeginOffset": 0,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9493480920791626,
+            "Type": "QUANTITY",
+            "Text": "60,000",
+            "BeginOffset": 15,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9987707138061523,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 72,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.909197211265564,
+            "Type": "OTHER",
+            "Text": "https://t.co/rQYqgpuhTB",
+            "BeginOffset": 91,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.9999732971191406,
+            "Type": "OTHER",
+            "Text": "https://t.co/WOo4RvwrdJ",
+            "BeginOffset": 115,
+            "EndOffset": 138
+        }
+    ]
+}

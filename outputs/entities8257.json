@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.731995701789856,
+            "Type": "QUANTITY",
+            "Text": "5Words",
+            "BeginOffset": 6,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8615239858627319,
+            "Type": "PERSON",
+            "Text": "Violet",
+            "BeginOffset": 34,
+            "EndOffset": 40
+        }
+    ]
+}

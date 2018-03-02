@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8507800102233887,
+            "Type": "PERSON",
+            "Text": "@happyhippyshack",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.6284633874893188,
+            "Type": "EVENT",
+            "Text": "Christmas",
+            "BeginOffset": 31,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9016566872596741,
+            "Type": "QUANTITY",
+            "Text": "9 Ft",
+            "BeginOffset": 71,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.7608455419540405,
+            "Type": "QUANTITY",
+            "Text": "3 Yard Roll",
+            "BeginOffset": 96,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.8791189193725586,
+            "Type": "OTHER",
+            "Text": "https://t.co/s3eaZpu9oj",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        }
+    ]
+}

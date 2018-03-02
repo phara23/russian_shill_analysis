@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8909661769866943,
+            "Type": "PERSON",
+            "Text": "President Obama",
+            "BeginOffset": 12,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9954431056976318,
+            "Type": "ORGANIZATION",
+            "Text": "Netflix",
+            "BeginOffset": 55,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9781694412231445,
+            "Type": "OTHER",
+            "Text": "https://t.co/BzNYWDME2V",
+            "BeginOffset": 63,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9999181032180786,
+            "Type": "OTHER",
+            "Text": "https://t.co/cdnQqWB38H",
+            "BeginOffset": 89,
+            "EndOffset": 112
+        }
+    ]
+}

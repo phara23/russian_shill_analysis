@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8948215842247009,
+            "Type": "PERSON",
+            "Text": "@westonowl_ang",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.993735134601593,
+            "Type": "DATE",
+            "Text": "2017",
+            "BeginOffset": 22,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.606880784034729,
+            "Type": "PERSON",
+            "Text": "Zumba",
+            "BeginOffset": 38,
+            "EndOffset": 43
+        }
+    ]
+}

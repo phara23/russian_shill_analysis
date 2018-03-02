@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9752151966094971,
+            "Type": "PERSON",
+            "Text": "Pence",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9608343839645386,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 48,
+            "EndOffset": 53
+        }
+    ]
+}

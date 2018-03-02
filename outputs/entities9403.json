@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5307989716529846,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.840200662612915,
+            "Type": "ORGANIZATION",
+            "Text": "@TEN_GOP",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9998179078102112,
+            "Type": "OTHER",
+            "Text": "https://t.co/0LL96msOaL",
+            "BeginOffset": 106,
+            "EndOffset": 129
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8148723840713501,
+            "Type": "PERSON",
+            "Text": "@gerfingerpoken",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7419045567512512,
+            "Type": "PERSON",
+            "Text": "Barack Hussein",
+            "BeginOffset": 39,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9533434510231018,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 54,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.9832014441490173,
+            "Type": "ORGANIZATION",
+            "Text": "ISIS",
+            "BeginOffset": 66,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.7989157438278198,
+            "Type": "ORGANIZATION",
+            "Text": "Christians",
+            "BeginOffset": 80,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.653028130531311,
+            "Type": "OTHER",
+            "Text": "https://t.co/hEwALiMiDE",
+            "BeginOffset": 92,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.4430496096611023,
+            "Type": "OTHER",
+            "Text": "#PJNET 999",
+            "BeginOffset": 116,
+            "EndOffset": 126
+        },
+        {
+            "Score": 0.8705233931541443,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 130,
+            "EndOffset": 139
+        }
+    ]
+}

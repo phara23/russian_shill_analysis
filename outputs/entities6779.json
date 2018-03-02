@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7739009857177734,
+            "Type": "PERSON",
+            "Text": "@Hot3Laps",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9936049580574036,
+            "Type": "PERSON",
+            "Text": "Ed Sheeran",
+            "BeginOffset": 14,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.993299126625061,
+            "Type": "OTHER",
+            "Text": "https://t.co/6KTU0HO1tp",
+            "BeginOffset": 63,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9879474639892578,
+            "Type": "ORGANIZATION",
+            "Text": "@YouTube",
+            "BeginOffset": 91,
+            "EndOffset": 99
+        }
+    ]
+}

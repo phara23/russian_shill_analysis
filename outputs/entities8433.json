@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8004041314125061,
+            "Type": "PERSON",
+            "Text": "@MegMegaBlocks",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6979781985282898,
+            "Type": "ORGANIZATION",
+            "Text": "republican",
+            "BeginOffset": 77,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.9990197420120239,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 93,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.998960018157959,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 103,
+            "EndOffset": 110
+        }
+    ]
+}

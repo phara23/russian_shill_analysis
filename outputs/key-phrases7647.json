@@ -1,0 +1,28 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.7600162029266357,
+            "Text": "a candidate",
+            "BeginOffset": 15,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9962329864501953,
+            "Text": "her way",
+            "BeginOffset": 38,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9993982315063477,
+            "Text": "the primaries",
+            "BeginOffset": 54,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9835633635520935,
+            "Text": "her party nominee",
+            "BeginOffset": 78,
+            "EndOffset": 95
+        }
+    ]
+}

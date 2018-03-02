@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.927798867225647,
+            "Type": "PERSON",
+            "Text": "@jupiter896",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9820910096168518,
+            "Type": "PERSON",
+            "Text": "President Obama",
+            "BeginOffset": 16,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9975776076316833,
+            "Type": "PERSON",
+            "Text": "Ray Charles",
+            "BeginOffset": 51,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9634139537811279,
+            "Type": "OTHER",
+            "Text": "https://t.co/ULNEqgD8Ln",
+            "BeginOffset": 79,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.573184609413147,
+            "Type": "ORGANIZATION",
+            "Text": "#UniteBlue",
+            "BeginOffset": 103,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.8857761025428772,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

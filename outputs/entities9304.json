@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8055185079574585,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.6712285280227661,
+            "Type": "QUANTITY",
+            "Text": "11th",
+            "BeginOffset": 15,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9972149729728699,
+            "Type": "DATE",
+            "Text": "July 2016",
+            "BeginOffset": 37,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9994891285896301,
+            "Type": "PERSON",
+            "Text": "Eric McDonough",
+            "BeginOffset": 48,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9558942914009094,
+            "Type": "OTHER",
+            "Text": "https://t.co/8BxeYr0Oyh",
+            "BeginOffset": 73,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.7330010533332825,
+            "Type": "PERSON",
+            "Text": "@PINACNews",
+            "BeginOffset": 97,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.9998225569725037,
+            "Type": "OTHER",
+            "Text": "https://t.co/zrHTXjmZDy",
+            "BeginOffset": 108,
+            "EndOffset": 131
+        }
+    ]
+}

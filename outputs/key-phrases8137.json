@@ -1,0 +1,40 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9753546118736267,
+            "Text": "a misspell",
+            "BeginOffset": 12,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9982348680496216,
+            "Text": "Hofstra University",
+            "BeginOffset": 26,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9872069954872131,
+            "Text": "debate tickets",
+            "BeginOffset": 47,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9946468472480774,
+            "Text": "the name",
+            "BeginOffset": 67,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.9996128678321838,
+            "Text": "Hillary",
+            "BeginOffset": 79,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.8395909070968628,
+            "Text": "body",
+            "BeginOffset": 89,
+            "EndOffset": 93
+        }
+    ]
+}

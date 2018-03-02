@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6992282271385193,
+            "Type": "PERSON",
+            "Text": "Trump Jr.",
+            "BeginOffset": 0,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9273721575737,
+            "Type": "OTHER",
+            "Text": "https://t.co/JgaAzWhZVR",
+            "BeginOffset": 49,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.9171400666236877,
+            "Type": "OTHER",
+            "Text": "https://t.co/4FYGAqL4oP",
+            "BeginOffset": 75,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.9998167157173157,
+            "Type": "OTHER",
+            "Text": "https://t.co/ZqyxTCOW5i",
+            "BeginOffset": 99,
+            "EndOffset": 122
+        }
+    ]
+}

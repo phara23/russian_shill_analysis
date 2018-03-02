@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7937129139900208,
+            "Type": "PERSON",
+            "Text": "@pkellyshock",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8308523893356323,
+            "Type": "PERSON",
+            "Text": "@mskristinawong",
+            "BeginOffset": 17,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.89546799659729,
+            "Type": "PERSON",
+            "Text": "@FLOTUS",
+            "BeginOffset": 33,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.850287139415741,
+            "Type": "PERSON",
+            "Text": "@POTUS",
+            "BeginOffset": 41,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.706748366355896,
+            "Type": "PERSON",
+            "Text": "@VP",
+            "BeginOffset": 48,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9430448412895203,
+            "Type": "PERSON",
+            "Text": "@SecondLady",
+            "BeginOffset": 52,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.992061972618103,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 88,
+            "EndOffset": 95
+        }
+    ]
+}

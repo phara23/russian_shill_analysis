@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7930576801300049,
+            "Type": "PERSON",
+            "Text": "@WendyPrince2",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9912221431732178,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 18,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.6298370957374573,
+            "Type": "LOCATION",
+            "Text": "Iowa",
+            "BeginOffset": 27,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9999252557754517,
+            "Type": "OTHER",
+            "Text": "https://t.co/89dYHrCaFG",
+            "BeginOffset": 85,
+            "EndOffset": 108
+        }
+    ]
+}

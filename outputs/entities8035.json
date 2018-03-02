@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9953285455703735,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.849404513835907,
+            "Type": "ORGANIZATION",
+            "Text": "Christians",
+            "BeginOffset": 30,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.915054440498352,
+            "Type": "QUANTITY",
+            "Text": "8 long years",
+            "BeginOffset": 45,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.42044636607170105,
+            "Type": "ORGANIZATION",
+            "Text": "#ThanksObama",
+            "BeginOffset": 58,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9994305968284607,
+            "Type": "OTHER",
+            "Text": "https://t.co/NkjuVPVEmq",
+            "BeginOffset": 71,
+            "EndOffset": 94
+        }
+    ]
+}

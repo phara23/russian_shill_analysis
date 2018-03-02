@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9238265156745911,
+            "Type": "PERSON",
+            "Text": "@Chris_1791",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9190921187400818,
+            "Type": "ORGANIZATION",
+            "Text": "Amazon",
+            "BeginOffset": 16,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9296132922172546,
+            "Type": "OTHER",
+            "Text": "http://t.co/dIudgjuMUq",
+            "BeginOffset": 79,
+            "EndOffset": 101
+        }
+    ]
+}

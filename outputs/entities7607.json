@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6968827247619629,
+            "Type": "ORGANIZATION",
+            "Text": "@ActivistPost",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9569142460823059,
+            "Type": "OTHER",
+            "Text": "https://t.co/kuC9Bc3mCl",
+            "BeginOffset": 79,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.7470650672912598,
+            "Type": "ORGANIZATION",
+            "Text": "@vinarmani",
+            "BeginOffset": 107,
+            "EndOffset": 117
+        }
+    ]
+}

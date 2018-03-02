@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.855549156665802,
+            "Type": "PERSON",
+            "Text": "@TeflonBili",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9913318753242493,
+            "Type": "TITLE",
+            "Text": "Star Wars",
+            "BeginOffset": 66,
+            "EndOffset": 75
+        }
+    ]
+}

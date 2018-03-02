@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6451256275177002,
+            "Type": "ORGANIZATION",
+            "Text": "@leftcoastbabe",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6428108811378479,
+            "Type": "PERSON",
+            "Text": "@frodofied",
+            "BeginOffset": 19,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9849923849105835,
+            "Type": "LOCATION",
+            "Text": "Minnesota",
+            "BeginOffset": 108,
+            "EndOffset": 117
+        }
+    ]
+}

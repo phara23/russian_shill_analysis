@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8454431891441345,
+            "Type": "ORGANIZATION",
+            "Text": "CNN",
+            "BeginOffset": 0,
+            "EndOffset": 3
+        },
+        {
+            "Score": 0.9334733486175537,
+            "Type": "ORGANIZATION",
+            "Text": "MSNBC",
+            "BeginOffset": 10,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9877632856369019,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 47,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.7349135279655457,
+            "Type": "QUANTITY",
+            "Text": "Part 6",
+            "BeginOffset": 63,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9999417066574097,
+            "Type": "OTHER",
+            "Text": "https://t.co/7WjsIPrcS0",
+            "BeginOffset": 70,
+            "EndOffset": 93
+        }
+    ]
+}

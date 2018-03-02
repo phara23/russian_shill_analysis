@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.859531044960022,
+            "Type": "PERSON",
+            "Text": "@BraveConWarrior",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.5226790904998779,
+            "Type": "QUANTITY",
+            "Text": "One AWESOME",
+            "BeginOffset": 81,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.9992477893829346,
+            "Type": "OTHER",
+            "Text": "http://t.co/fATFwyRcwo",
+            "BeginOffset": 106,
+            "EndOffset": 128
+        }
+    ]
+}

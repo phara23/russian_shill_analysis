@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7380025386810303,
+            "Type": "PERSON",
+            "Text": "@Info24",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.8767305612564087,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 10,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.47677284479141235,
+            "Type": "ORGANIZATION",
+            "Text": "US Stocks",
+            "BeginOffset": 14,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9998908042907715,
+            "Type": "OTHER",
+            "Text": "http://t.co/qzCqnkPywi",
+            "BeginOffset": 74,
+            "EndOffset": 96
+        }
+    ]
+}

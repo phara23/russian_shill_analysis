@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8500992655754089,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9885056018829346,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 58,
+            "EndOffset": 63
+        }
+    ]
+}

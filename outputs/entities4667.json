@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.701957106590271,
+            "Type": "PERSON",
+            "Text": "@AZUHL",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9651885628700256,
+            "Type": "PERSON",
+            "Text": "Barend Jacobus DuPlesis",
+            "BeginOffset": 99,
+            "EndOffset": 122
+        },
+        {
+            "Score": 0.9954631924629211,
+            "Type": "PERSON",
+            "Text": "Christian Stals",
+            "BeginOffset": 126,
+            "EndOffset": 141
+        }
+    ]
+}

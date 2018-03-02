@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8702542185783386,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9689586162567139,
+            "Type": "OTHER",
+            "Text": "https://t.co/iNk8A6KNEB",
+            "BeginOffset": 47,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.6926783919334412,
+            "Type": "ORGANIZATION",
+            "Text": "@WUSA9Mornings",
+            "BeginOffset": 71,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.9999339580535889,
+            "Type": "OTHER",
+            "Text": "https://t.co/LjtvF0gWxk",
+            "BeginOffset": 86,
+            "EndOffset": 109
+        }
+    ]
+}

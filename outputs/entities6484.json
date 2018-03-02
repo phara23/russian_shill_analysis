@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8419881463050842,
+            "Type": "PERSON",
+            "Text": "@bpclaimsatty",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.5478116869926453,
+            "Type": "ORGANIZATION",
+            "Text": "US Constitution",
+            "BeginOffset": 18,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.677891731262207,
+            "Type": "QUANTITY",
+            "Text": "Twelfth Amendment",
+            "BeginOffset": 36,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9066723585128784,
+            "Type": "OTHER",
+            "Text": "https://t.co/eafRukA6Il",
+            "BeginOffset": 114,
+            "EndOffset": 137
+        }
+    ]
+}

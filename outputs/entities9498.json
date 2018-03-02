@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9215805530548096,
+            "Type": "PERSON",
+            "Text": "@rumpfshaker",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8143240213394165,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 17,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.5504037737846375,
+            "Type": "QUANTITY",
+            "Text": "both",
+            "BeginOffset": 74,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.9843807816505432,
+            "Type": "PERSON",
+            "Text": "@Evan_McMullin",
+            "BeginOffset": 106,
+            "EndOffset": 120
+        }
+    ]
+}

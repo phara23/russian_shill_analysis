@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8282555341720581,
+            "Type": "PERSON",
+            "Text": "@RealEagleBites",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.993309736251831,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 39,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9916365742683411,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 49,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.7049192190170288,
+            "Type": "QUANTITY",
+            "Text": "Round 3",
+            "BeginOffset": 58,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9996663928031921,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 68,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.9988826513290405,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 85,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.625817596912384,
+            "Type": "QUANTITY",
+            "Text": "third an",
+            "BeginOffset": 121,
+            "EndOffset": 129
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.818425178527832,
+            "Type": "PERSON",
+            "Text": "@Bikers4Trump",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9493744373321533,
+            "Type": "OTHER",
+            "Text": "https://t.co/cGkVjf2Psh",
+            "BeginOffset": 86,
+            "EndOffset": 109
+        },
+        {
+            "Score": 0.4796024262905121,
+            "Type": "ORGANIZATION",
+            "Text": "#SCOTUS",
+            "BeginOffset": 110,
+            "EndOffset": 117
+        },
+        {
+            "Score": 0.9562615752220154,
+            "Type": "ORGANIZATION",
+            "Text": "@CNN",
+            "BeginOffset": 129,
+            "EndOffset": 133
+        },
+        {
+            "Score": 0.6749984622001648,
+            "Type": "PERSON",
+            "Text": "@ChrisSti",
+            "BeginOffset": 134,
+            "EndOffset": 143
+        }
+    ]
+}

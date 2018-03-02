@@ -1,0 +1,81 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9546779990196228,
+            "Type": "PERSON",
+            "Text": "@Trump5254",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9490782022476196,
+            "Type": "PERSON",
+            "Text": "@RapinBill",
+            "BeginOffset": 15,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9933186173439026,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 26,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9756006002426147,
+            "Type": "PERSON",
+            "Text": "@RealDJTrumpTeam",
+            "BeginOffset": 43,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.9455812573432922,
+            "Type": "PERSON",
+            "Text": "@TGowdySC",
+            "BeginOffset": 60,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9891854524612427,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 70,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.8181699514389038,
+            "Type": "LOCATION",
+            "Text": "#IA",
+            "BeginOffset": 119,
+            "EndOffset": 122
+        },
+        {
+            "Score": 0.5542654395103455,
+            "Type": "LOCATION",
+            "Text": "#Oh",
+            "BeginOffset": 123,
+            "EndOffset": 126
+        },
+        {
+            "Score": 0.6933795213699341,
+            "Type": "LOCATION",
+            "Text": "#MI",
+            "BeginOffset": 127,
+            "EndOffset": 130
+        },
+        {
+            "Score": 0.8928089737892151,
+            "Type": "LOCATION",
+            "Text": "#NY",
+            "BeginOffset": 131,
+            "EndOffset": 134
+        },
+        {
+            "Score": 0.8069685697555542,
+            "Type": "LOCATION",
+            "Text": "#TX",
+            "BeginOffset": 135,
+            "EndOffset": 138
+        }
+    ]
+}

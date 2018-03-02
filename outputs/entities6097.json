@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9573083519935608,
+            "Type": "PERSON",
+            "Text": "Humayun Khan",
+            "BeginOffset": 10,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9171717762947083,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 54,
+            "EndOffset": 57
+        }
+    ]
+}

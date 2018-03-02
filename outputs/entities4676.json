@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6914680600166321,
+            "Type": "PERSON",
+            "Text": "@AltRights",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.7307366728782654,
+            "Type": "PERSON",
+            "Text": "HILLARY",
+            "BeginOffset": 33,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9149771332740784,
+            "Type": "ORGANIZATION",
+            "Text": "ISIS",
+            "BeginOffset": 67,
+            "EndOffset": 71
+        }
+    ]
+}

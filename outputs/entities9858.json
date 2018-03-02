@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7646780014038086,
+            "Type": "ORGANIZATION",
+            "Text": "@KPCC",
+            "BeginOffset": 3,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.9380221962928772,
+            "Type": "LOCATION",
+            "Text": "California",
+            "BeginOffset": 10,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.9403184056282043,
+            "Type": "ORGANIZATION",
+            "Text": "Redskins",
+            "BeginOffset": 35,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.8767921328544617,
+            "Type": "OTHER",
+            "Text": "http://t.co/QSQyO5tk7q",
+            "BeginOffset": 67,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.9999657869338989,
+            "Type": "OTHER",
+            "Text": "http://t.co/xJqEAXnvXE",
+            "BeginOffset": 90,
+            "EndOffset": 112
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9704171419143677,
+            "Type": "TITLE",
+            "Text": "Ghostbusters",
+            "BeginOffset": 7,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9923198819160461,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 36,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9746550917625427,
+            "Type": "OTHER",
+            "Text": "https://t.co/0R50Is2u8Y",
+            "BeginOffset": 52,
+            "EndOffset": 75
+        }
+    ]
+}

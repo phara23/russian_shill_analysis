@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8750990033149719,
+            "Type": "PERSON",
+            "Text": "@BlackjediNow",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9823456406593323,
+            "Type": "QUANTITY",
+            "Text": "99%",
+            "BeginOffset": 29,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.8661702275276184,
+            "Type": "PERSON",
+            "Text": "@HoldIngGolden",
+            "BeginOffset": 40,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9506769776344299,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 55,
+            "EndOffset": 70
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8898260593414307,
+            "Type": "PERSON",
+            "Text": "@ashtonmorris1",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9918602705001831,
+            "Type": "PERSON",
+            "Text": "Michael B. Jordan",
+            "BeginOffset": 44,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9999845027923584,
+            "Type": "OTHER",
+            "Text": "https://t.co/zt20EFpXSX",
+            "BeginOffset": 92,
+            "EndOffset": 115
+        }
+    ]
+}

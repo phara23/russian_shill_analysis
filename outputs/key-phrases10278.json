@@ -1,0 +1,34 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9414680004119873,
+            "Text": "RT @MSNBC",
+            "BeginOffset": 0,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.8834510445594788,
+            "Text": "President Donald Trump",
+            "BeginOffset": 11,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.964053213596344,
+            "Text": "First Lady Melania Trump",
+            "BeginOffset": 38,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.7591921091079712,
+            "Text": "motorcade",
+            "BeginOffset": 70,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.8773396015167236,
+            "Text": "parade route",
+            "BeginOffset": 88,
+            "EndOffset": 100
+        }
+    ]
+}

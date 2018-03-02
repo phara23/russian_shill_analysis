@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8677201867103577,
+            "Type": "PERSON",
+            "Text": "@jayceodpromoter",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9491492509841919,
+            "Type": "QUANTITY",
+            "Text": "10,000 views",
+            "BeginOffset": 46,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9667083024978638,
+            "Type": "QUANTITY",
+            "Text": "3,000 streams",
+            "BeginOffset": 59,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.9037730097770691,
+            "Type": "QUANTITY",
+            "Text": "500 downloads",
+            "BeginOffset": 77,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.8642157912254333,
+            "Type": "QUANTITY",
+            "Text": "5",
+            "BeginOffset": 91,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.9891875386238098,
+            "Type": "QUANTITY",
+            "Text": "7 days",
+            "BeginOffset": 93,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.5321041345596313,
+            "Type": "QUANTITY",
+            "Text": "8",
+            "BeginOffset": 122,
+            "EndOffset": 123
+        },
+        {
+            "Score": 0.9500371813774109,
+            "Type": "OTHER",
+            "Text": "https://t.co/UN",
+            "BeginOffset": 124,
+            "EndOffset": 139
+        }
+    ]
+}

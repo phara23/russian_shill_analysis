@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8703019022941589,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9112929105758667,
+            "Type": "PERSON",
+            "Text": "Giuliani",
+            "BeginOffset": 25,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9977332353591919,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 35,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9979708790779114,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 42,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.4991236925125122,
+            "Type": "ORGANIZATION",
+            "Text": "DOJ",
+            "BeginOffset": 74,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9868698716163635,
+            "Type": "OTHER",
+            "Text": "https://t.co/G1VctAhNKG",
+            "BeginOffset": 78,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.8254370093345642,
+            "Type": "ORGANIZATION",
+            "Text": "@FoxNews",
+            "BeginOffset": 102,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.9999377727508545,
+            "Type": "OTHER",
+            "Text": "https://t.co/3v145Otf7N",
+            "BeginOffset": 111,
+            "EndOffset": 134
+        }
+    ]
+}

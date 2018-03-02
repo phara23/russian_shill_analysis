@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8552156090736389,
+            "Type": "PERSON",
+            "Text": "@BraveConWarrior",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9913132786750793,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 21,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.6371327638626099,
+            "Type": "LOCATION",
+            "Text": "Algerian Street Market",
+            "BeginOffset": 60,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.6902754306793213,
+            "Type": "ORGANIZATION",
+            "Text": "BB4SP",
+            "BeginOffset": 85,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9999808073043823,
+            "Type": "OTHER",
+            "Text": "http://t.co/w75UvR8RXr",
+            "BeginOffset": 91,
+            "EndOffset": 113
+        }
+    ]
+}

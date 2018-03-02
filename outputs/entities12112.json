@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8912385702133179,
+            "Type": "PERSON",
+            "Text": "@JamesOKeefeIII",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7028541564941406,
+            "Type": "PERSON",
+            "Text": "@FLOTUS",
+            "BeginOffset": 21,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.8343645930290222,
+            "Type": "PERSON",
+            "Text": "@POTUS",
+            "BeginOffset": 29,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9327564835548401,
+            "Type": "PERSON",
+            "Text": "@rbcreamer",
+            "BeginOffset": 71,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.9498980641365051,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 94,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.8100296258926392,
+            "Type": "ORGANIZATION",
+            "Text": "@Whit",
+            "BeginOffset": 134,
+            "EndOffset": 139
+        }
+    ]
+}

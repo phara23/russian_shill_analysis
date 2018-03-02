@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9435165524482727,
+            "Type": "PERSON",
+            "Text": "@Mr_Pinko",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9328038692474365,
+            "Type": "PERSON",
+            "Text": "@1sonny12",
+            "BeginOffset": 14,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9855663180351257,
+            "Type": "PERSON",
+            "Text": "@Lrihendry",
+            "BeginOffset": 24,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9829971790313721,
+            "Type": "PERSON",
+            "Text": "@mitchellvii",
+            "BeginOffset": 35,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9884797930717468,
+            "Type": "PERSON",
+            "Text": "@DanScavino",
+            "BeginOffset": 48,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.9038311839103699,
+            "Type": "PERSON",
+            "Text": "@loudobbsnews",
+            "BeginOffset": 60,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.8663414120674133,
+            "Type": "PERSON",
+            "Text": "@FoxBusiness",
+            "BeginOffset": 74,
+            "EndOffset": 86
+        }
+    ]
+}

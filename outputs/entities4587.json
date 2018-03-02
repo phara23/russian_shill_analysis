@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9308546781539917,
+            "Type": "PERSON",
+            "Text": "@GraveyardSister",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.4517974257469177,
+            "Type": "PERSON",
+            "Text": "Audre",
+            "BeginOffset": 21,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.7929945588111877,
+            "Type": "TITLE",
+            "Text": "Flesh",
+            "BeginOffset": 43,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.994990885257721,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 50,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9501484632492065,
+            "Type": "OTHER",
+            "Text": "https://t.co/ca42mgDMft",
+            "BeginOffset": 69,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.999649167060852,
+            "Type": "OTHER",
+            "Text": "https://t.co/vJfJbTAJUu",
+            "BeginOffset": 93,
+            "EndOffset": 116
+        }
+    ]
+}

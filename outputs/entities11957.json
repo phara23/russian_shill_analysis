@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9310974478721619,
+            "Type": "PERSON",
+            "Text": "@Gamiliell",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9969584941864014,
+            "Type": "QUANTITY",
+            "Text": "189 pounds",
+            "BeginOffset": 50,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9999384880065918,
+            "Type": "OTHER",
+            "Text": "https://t.co/bq9u4eGAqq",
+            "BeginOffset": 92,
+            "EndOffset": 115
+        }
+    ]
+}

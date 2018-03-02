@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7260831594467163,
+            "Type": "PERSON",
+            "Text": "@PascoRevolution",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9593206644058228,
+            "Type": "DATE",
+            "Text": "Yesterday",
+            "BeginOffset": 51,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.4698113799095154,
+            "Type": "ORGANIZATION",
+            "Text": "POTUS",
+            "BeginOffset": 61,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.631585419178009,
+            "Type": "OTHER",
+            "Text": "Filipino",
+            "BeginOffset": 107,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.9064288139343262,
+            "Type": "EVENT",
+            "Text": "WWII",
+            "BeginOffset": 116,
+            "EndOffset": 120
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8705059885978699,
+            "Type": "PERSON",
+            "Text": "@AmyMek",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.8889778256416321,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 28,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9881800413131714,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 44,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.31279754638671875,
+            "Type": "ORGANIZATION",
+            "Text": "#ChelseaNYC",
+            "BeginOffset": 50,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.7432771325111389,
+            "Type": "DATE",
+            "Text": "#SundayMorning",
+            "BeginOffset": 63,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9056710600852966,
+            "Type": "OTHER",
+            "Text": "https://t.co/lotyNoF1rt",
+            "BeginOffset": 79,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.9999415874481201,
+            "Type": "OTHER",
+            "Text": "https://t.co/sjdeNEXwnc",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        }
+    ]
+}

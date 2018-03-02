@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9997407793998718,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 38,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9972307085990906,
+            "Type": "PERSON",
+            "Text": "Bill",
+            "BeginOffset": 50,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9787222146987915,
+            "Type": "QUANTITY",
+            "Text": "6 billions dollars",
+            "BeginOffset": 61,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.6011065244674683,
+            "Type": "LOCATION",
+            "Text": "Haiti",
+            "BeginOffset": 106,
+            "EndOffset": 111
+        },
+        {
+            "Score": 0.9999915361404419,
+            "Type": "OTHER",
+            "Text": "https://t.co/m6VnFG4ZQq",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8835864067077637,
+            "Type": "PERSON",
+            "Text": "@RickRWells",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9985193014144897,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 59,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.7859148979187012,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 75,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.922554075717926,
+            "Type": "OTHER",
+            "Text": "https://t.co/7kLZMXxc3I",
+            "BeginOffset": 98,
+            "EndOffset": 121
+        },
+        {
+            "Score": 0.9901581406593323,
+            "Type": "OTHER",
+            "Text": "https://t.co/2kKX",
+            "BeginOffset": 122,
+            "EndOffset": 139
+        }
+    ]
+}

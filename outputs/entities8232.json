@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8672838807106018,
+            "Type": "PERSON",
+            "Text": "@tomperriello",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.41946521401405334,
+            "Type": "PERSON",
+            "Text": "Dem",
+            "BeginOffset": 47,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9602351784706116,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 61,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.8709266781806946,
+            "Type": "ORGANIZATION",
+            "Text": "Citizens United +",
+            "BeginOffset": 116,
+            "EndOffset": 133
+        }
+    ]
+}

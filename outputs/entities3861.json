@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.942978024482727,
+            "Type": "PERSON",
+            "Text": "@nelsonjgalan",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8141830563545227,
+            "Type": "ORGANIZATION",
+            "Text": "MN Star Tribune",
+            "BeginOffset": 22,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9994860887527466,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 47,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.9999157190322876,
+            "Type": "OTHER",
+            "Text": "https://t.co/B0QznnfoZD",
+            "BeginOffset": 74,
+            "EndOffset": 97
+        }
+    ]
+}

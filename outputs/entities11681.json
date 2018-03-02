@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7955933213233948,
+            "Type": "PERSON",
+            "Text": "@ZaibatsuNews",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.34432926774024963,
+            "Type": "OTHER",
+            "Text": "Islamic",
+            "BeginOffset": 25,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9107531905174255,
+            "Type": "OTHER",
+            "Text": "Iraqi",
+            "BeginOffset": 67,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.8969217538833618,
+            "Type": "LOCATION",
+            "Text": "Mosul",
+            "BeginOffset": 99,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.9577124118804932,
+            "Type": "OTHER",
+            "Text": "https://t.co/wRJ1p7UHuF",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        },
+        {
+            "Score": 0.8506771326065063,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 129,
+            "EndOffset": 138
+        }
+    ]
+}

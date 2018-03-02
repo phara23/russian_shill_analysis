@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9212963581085205,
+            "Type": "PERSON",
+            "Text": "@Cernovich",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9091415405273438,
+            "Type": "ORGANIZATION",
+            "Text": "FoxNews",
+            "BeginOffset": 38,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9294213056564331,
+            "Type": "ORGANIZATION",
+            "Text": "FNC",
+            "BeginOffset": 104,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.9916762113571167,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 114,
+            "EndOffset": 119
+        },
+        {
+            "Score": 0.9849815368652344,
+            "Type": "OTHER",
+            "Text": "https://t.co/e2nUX",
+            "BeginOffset": 121,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7593690156936646,
+            "Type": "PERSON",
+            "Text": "@ReverbOwl",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8759527802467346,
+            "Type": "PERSON",
+            "Text": "@715d1",
+            "BeginOffset": 15,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9695862531661987,
+            "Type": "PERSON",
+            "Text": "@Drybones5",
+            "BeginOffset": 22,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9166492223739624,
+            "Type": "PERSON",
+            "Text": "@ViewSonicGaming",
+            "BeginOffset": 33,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.7822334170341492,
+            "Type": "PERSON",
+            "Text": "Bliz",
+            "BeginOffset": 62,
+            "EndOffset": 66
+        }
+    ]
+}

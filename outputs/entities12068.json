@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6756738424301147,
+            "Type": "ORGANIZATION",
+            "Text": "@seattletimes",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8664011359214783,
+            "Type": "ORGANIZATION",
+            "Text": "@UW",
+            "BeginOffset": 19,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.8093156814575195,
+            "Type": "QUANTITY",
+            "Text": "eight",
+            "BeginOffset": 31,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.7211334109306335,
+            "Type": "QUANTITY",
+            "Text": "first crew",
+            "BeginOffset": 44,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.7656504511833191,
+            "Type": "QUANTITY",
+            "Text": "5 straight championships",
+            "BeginOffset": 73,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.7482476830482483,
+            "Type": "QUANTITY",
+            "Text": "7",
+            "BeginOffset": 99,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.6432304978370667,
+            "Type": "QUANTITY",
+            "Text": "9",
+            "BeginOffset": 109,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.932267963886261,
+            "Type": "OTHER",
+            "Text": "http://t.co/nhm7hyLNyn",
+            "BeginOffset": 113,
+            "EndOffset": 135
+        }
+    ]
+}

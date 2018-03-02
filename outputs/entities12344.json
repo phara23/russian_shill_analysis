@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.49114182591438293,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8011815547943115,
+            "Type": "ORGANIZATION",
+            "Text": "@TPNN_ThePoint",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9660215973854065,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 30,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9658785462379456,
+            "Type": "ORGANIZATION",
+            "Text": "WikiLeaks",
+            "BeginOffset": 50,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.8344302177429199,
+            "Type": "OTHER",
+            "Text": "https://t.co/qVvXCaLLmF",
+            "BeginOffset": 99,
+            "EndOffset": 122
+        },
+        {
+            "Score": 0.9875361323356628,
+            "Type": "OTHER",
+            "Text": "https://t.co/OQQ",
+            "BeginOffset": 123,
+            "EndOffset": 139
+        }
+    ]
+}

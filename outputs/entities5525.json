@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8928736448287964,
+            "Type": "PERSON",
+            "Text": "@ali",
+            "BeginOffset": 3,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.8134993314743042,
+            "Type": "QUANTITY",
+            "Text": "both",
+            "BeginOffset": 63,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9387300610542297,
+            "Type": "OTHER",
+            "Text": "https://t.co/z",
+            "BeginOffset": 125,
+            "EndOffset": 139
+        }
+    ]
+}

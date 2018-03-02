@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9072309732437134,
+            "Type": "PERSON",
+            "Text": "@nevertrump4prez",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.896388828754425,
+            "Type": "DATE",
+            "Text": "past 8 years",
+            "BeginOffset": 45,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.999969482421875,
+            "Type": "OTHER",
+            "Text": "https://t.co/gu5QQMrOS5",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        }
+    ]
+}

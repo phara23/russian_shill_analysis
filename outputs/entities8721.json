@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.859703004360199,
+            "Type": "PERSON",
+            "Text": "@NewBlackMan",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.4913997948169708,
+            "Type": "PERSON",
+            "Text": "North Carolinians",
+            "BeginOffset": 17,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9337127804756165,
+            "Type": "ORGANIZATION",
+            "Text": "Republicans",
+            "BeginOffset": 47,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9996833801269531,
+            "Type": "OTHER",
+            "Text": "https://t.co/6gpsKbbqtM",
+            "BeginOffset": 88,
+            "EndOffset": 111
+        }
+    ]
+}

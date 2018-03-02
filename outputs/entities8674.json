@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9360644817352295,
+            "Type": "PERSON",
+            "Text": "@saul42",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.986130952835083,
+            "Type": "OTHER",
+            "Text": "https://t.co/jQ1xGm2p4M",
+            "BeginOffset": 78,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.8448417782783508,
+            "Type": "ORGANIZATION",
+            "Text": "@saul42",
+            "BeginOffset": 106,
+            "EndOffset": 113
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7912750840187073,
+            "Type": "PERSON",
+            "Text": "@LeftSentThis",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9839659929275513,
+            "Type": "LOCATION",
+            "Text": "Oakland",
+            "BeginOffset": 26,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9999744892120361,
+            "Type": "OTHER",
+            "Text": "https://t.co/3N2HbZLGSQ",
+            "BeginOffset": 35,
+            "EndOffset": 58
+        }
+    ]
+}

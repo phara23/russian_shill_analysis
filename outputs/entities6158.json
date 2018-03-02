@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9129040837287903,
+            "Type": "PERSON",
+            "Text": "@BrotherJesse",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9985355138778687,
+            "Type": "PERSON",
+            "Text": "Bill Clinton",
+            "BeginOffset": 18,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9985979199409485,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 43,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9818384051322937,
+            "Type": "DATE",
+            "Text": "few years ago",
+            "BeginOffset": 53,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9233327507972717,
+            "Type": "OTHER",
+            "Text": "https://t.co/FD1f7umde0",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        }
+    ]
+}

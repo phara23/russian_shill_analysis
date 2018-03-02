@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9494324922561646,
+            "Type": "PERSON",
+            "Text": "@Lrihendry",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9930369257926941,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 15,
+            "EndOffset": 20
+        }
+    ]
+}

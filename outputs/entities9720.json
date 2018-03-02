@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9606404304504395,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9897321462631226,
+            "Type": "PERSON",
+            "Text": "Chelsea Manning",
+            "BeginOffset": 40,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.8684858083724976,
+            "Type": "PERSON",
+            "Text": "President Obama",
+            "BeginOffset": 121,
+            "EndOffset": 136
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8624396920204163,
+            "Type": "PERSON",
+            "Text": "@Aprophet5",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9443597197532654,
+            "Type": "PERSON",
+            "Text": "@RacySicilian",
+            "BeginOffset": 15,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9725344777107239,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 29,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.5551970601081848,
+            "Type": "QUANTITY",
+            "Text": "4",
+            "BeginOffset": 101,
+            "EndOffset": 102
+        }
+    ]
+}

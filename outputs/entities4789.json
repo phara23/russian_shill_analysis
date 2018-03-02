@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7093566656112671,
+            "Type": "PERSON",
+            "Text": "@XLNB",
+            "BeginOffset": 3,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.9998766183853149,
+            "Type": "OTHER",
+            "Text": "https://t.co/kpmNNyGTFc",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        }
+    ]
+}

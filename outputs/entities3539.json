@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9071050882339478,
+            "Type": "PERSON",
+            "Text": "@Bencjacobs",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9837411046028137,
+            "Type": "PERSON",
+            "Text": "@Evan_McMullin",
+            "BeginOffset": 35,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9999626874923706,
+            "Type": "OTHER",
+            "Text": "https://t.co/p2cS7Mxosk",
+            "BeginOffset": 50,
+            "EndOffset": 73
+        }
+    ]
+}

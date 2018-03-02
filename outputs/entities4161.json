@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7667236924171448,
+            "Type": "ORGANIZATION",
+            "Text": "@M0L0NL4BE",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9372710585594177,
+            "Type": "PERSON",
+            "Text": "Petraeus",
+            "BeginOffset": 27,
+            "EndOffset": 35
+        }
+    ]
+}

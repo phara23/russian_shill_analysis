@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8895132541656494,
+            "Type": "PERSON",
+            "Text": "@DMashak",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.841740608215332,
+            "Type": "PERSON",
+            "Text": "@JebBush",
+            "BeginOffset": 40,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.5637362599372864,
+            "Type": "QUANTITY",
+            "Text": "#2",
+            "BeginOffset": 51,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.8892227411270142,
+            "Type": "QUANTITY",
+            "Text": "2nd",
+            "BeginOffset": 55,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9656224846839905,
+            "Type": "OTHER",
+            "Text": "https://t.co/LbuCW8W8rL",
+            "BeginOffset": 74,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.8543697595596313,
+            "Type": "ORGANIZATION",
+            "Text": "@GOP",
+            "BeginOffset": 132,
+            "EndOffset": 136
+        },
+        {
+            "Score": 0.7296826243400574,
+            "Type": "ORGANIZATION",
+            "Text": "@M",
+            "BeginOffset": 137,
+            "EndOffset": 139
+        }
+    ]
+}

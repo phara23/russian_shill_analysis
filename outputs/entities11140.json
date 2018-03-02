@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8703478574752808,
+            "Type": "PERSON",
+            "Text": "@BobMacAZ",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8994752764701843,
+            "Type": "ORGANIZATION",
+            "Text": "Democrat",
+            "BeginOffset": 19,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.999821126461029,
+            "Type": "OTHER",
+            "Text": "https://t.co/CldSI1iBqJ",
+            "BeginOffset": 104,
+            "EndOffset": 127
+        }
+    ]
+}

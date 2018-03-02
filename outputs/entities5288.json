@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8578197956085205,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9716629385948181,
+            "Type": "OTHER",
+            "Text": "https://t.co/CQTD35OjRA",
+            "BeginOffset": 22,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.8432440757751465,
+            "Type": "PERSON",
+            "Text": "@Truthdig",
+            "BeginOffset": 46,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9999572038650513,
+            "Type": "OTHER",
+            "Text": "https://t.co/nAv77cwqCA",
+            "BeginOffset": 56,
+            "EndOffset": 79
+        }
+    ]
+}

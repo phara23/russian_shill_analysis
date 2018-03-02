@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8093864321708679,
+            "Type": "PERSON",
+            "Text": "@TheOtownClown",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9953497648239136,
+            "Type": "QUANTITY",
+            "Text": "18 years",
+            "BeginOffset": 94,
+            "EndOffset": 102
+        }
+    ]
+}

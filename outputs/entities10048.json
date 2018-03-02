@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.77813720703125,
+            "Type": "PERSON",
+            "Text": "@HipHopVibe1",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.5508027672767639,
+            "Type": "PERSON",
+            "Text": "Shaggy",
+            "BeginOffset": 17,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.5277786254882812,
+            "Type": "TITLE",
+            "Text": "That Love",
+            "BeginOffset": 27,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.7352725863456726,
+            "Type": "ORGANIZATION",
+            "Text": "Tropixx",
+            "BeginOffset": 38,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9997920393943787,
+            "Type": "OTHER",
+            "Text": "https://t.co/FlxTV4HdIf",
+            "BeginOffset": 54,
+            "EndOffset": 77
+        }
+    ]
+}

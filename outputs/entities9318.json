@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9707189798355103,
+            "Type": "LOCATION",
+            "Text": "Haiti",
+            "BeginOffset": 14,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9764887094497681,
+            "Type": "QUANTITY",
+            "Text": "264 people",
+            "BeginOffset": 33,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.965519368648529,
+            "Type": "QUANTITY",
+            "Text": "20K",
+            "BeginOffset": 55,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9809374213218689,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 84,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.9998687505722046,
+            "Type": "OTHER",
+            "Text": "https://t.co/6jmOe6ebLU",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

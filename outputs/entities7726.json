@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9091998934745789,
+            "Type": "PERSON",
+            "Text": "@HaroldWNelson",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9973775148391724,
+            "Type": "PERSON",
+            "Text": "Wendell",
+            "BeginOffset": 46,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.99994957447052,
+            "Type": "OTHER",
+            "Text": "https://t.co/N1b9mee8uo",
+            "BeginOffset": 55,
+            "EndOffset": 78
+        }
+    ]
+}

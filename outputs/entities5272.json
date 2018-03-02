@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.761216402053833,
+            "Type": "PERSON",
+            "Text": "@INTJutsu",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8918457627296448,
+            "Type": "ORGANIZATION",
+            "Text": "9th Circuit Court",
+            "BeginOffset": 18,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.8401622772216797,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 100,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.7088152170181274,
+            "Type": "ORGANIZATION",
+            "Text": "SJW",
+            "BeginOffset": 128,
+            "EndOffset": 131
+        }
+    ]
+}

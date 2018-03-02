@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9567657709121704,
+            "Type": "PERSON",
+            "Text": "@Paula_White",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.5287393927574158,
+            "Type": "PERSON",
+            "Text": "God",
+            "BeginOffset": 61,
+            "EndOffset": 64
+        }
+    ]
+}

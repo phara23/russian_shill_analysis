@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5070266127586365,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.822215735912323,
+            "Type": "PERSON",
+            "Text": "@DJ_LEGION_ONE",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.25692930817604065,
+            "Type": "OTHER",
+            "Text": "606",
+            "BeginOffset": 71,
+            "EndOffset": 74
+        }
+    ]
+}

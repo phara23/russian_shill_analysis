@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9391681551933289,
+            "Type": "PERSON",
+            "Text": "@MdlMurray",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9932906627655029,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 45,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.8195212483406067,
+            "Type": "ORGANIZATION",
+            "Text": "Fox News Insider",
+            "BeginOffset": 88,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.9996852874755859,
+            "Type": "OTHER",
+            "Text": "https://t.co/04UAKUsikN",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        }
+    ]
+}

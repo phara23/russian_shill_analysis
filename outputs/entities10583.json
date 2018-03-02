@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9217631816864014,
+            "Type": "PERSON",
+            "Text": "@TeresaEdelglass",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.535263180732727,
+            "Type": "ORGANIZATION",
+            "Text": "CAIR",
+            "BeginOffset": 21,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9901427030563354,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 29,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9804859161376953,
+            "Type": "PERSON",
+            "Text": "Franklin Graham",
+            "BeginOffset": 41,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9908345937728882,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 82,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.870737612247467,
+            "Type": "ORGANIZATION",
+            "Text": "CAIR",
+            "BeginOffset": 91,
+            "EndOffset": 95
+        }
+    ]
+}

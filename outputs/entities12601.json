@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7428597807884216,
+            "Type": "PERSON",
+            "Text": "@CtrlSec",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.4365100860595703,
+            "Type": "ORGANIZATION",
+            "Text": "#ISIS",
+            "BeginOffset": 22,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.966001033782959,
+            "Type": "OTHER",
+            "Text": "https://t.co/qDJAeyxeds",
+            "BeginOffset": 37,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9284467101097107,
+            "Type": "OTHER",
+            "Text": "https://t.co/8E4UogIrou",
+            "BeginOffset": 61,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9791010618209839,
+            "Type": "OTHER",
+            "Text": "https://t.co/f0WFpSwvx8",
+            "BeginOffset": 85,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.5589613318443298,
+            "Type": "ORGANIZATION",
+            "Text": "#targets",
+            "BeginOffset": 109,
+            "EndOffset": 117
+        },
+        {
+            "Score": 0.4019787609577179,
+            "Type": "ORGANIZATION",
+            "Text": "#iceisis",
+            "BeginOffset": 118,
+            "EndOffset": 126
+        }
+    ]
+}

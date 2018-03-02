@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8691543936729431,
+            "Type": "PERSON",
+            "Text": "@DonCheadle",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7404693961143494,
+            "Type": "ORGANIZATION",
+            "Text": "Illinois GOP",
+            "BeginOffset": 41,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9727425575256348,
+            "Type": "ORGANIZATION",
+            "Text": "Fox News",
+            "BeginOffset": 84,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.9997962117195129,
+            "Type": "OTHER",
+            "Text": "https://t.co/E9yqtcdspo",
+            "BeginOffset": 93,
+            "EndOffset": 116
+        }
+    ]
+}

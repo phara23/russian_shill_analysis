@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8469527363777161,
+            "Type": "PERSON",
+            "Text": "@Stonewall_77",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.6983320713043213,
+            "Type": "ORGANIZATION",
+            "Text": "NAZI",
+            "BeginOffset": 28,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.8512623310089111,
+            "Type": "LOCATION",
+            "Text": "Germany",
+            "BeginOffset": 33,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.998390793800354,
+            "Type": "OTHER",
+            "Text": "https://t.co/zGA3IxmW6V",
+            "BeginOffset": 41,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.33416154980659485,
+            "Type": "ORGANIZATION",
+            "Text": "#merkel",
+            "BeginOffset": 66,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.46253103017807007,
+            "Type": "ORGANIZATION",
+            "Text": "#WakeUpAmerica",
+            "BeginOffset": 104,
+            "EndOffset": 118
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9114668369293213,
+            "Type": "PERSON",
+            "Text": "@RobHoey",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9979243278503418,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 26,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9978132247924805,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 41,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9960797429084778,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 76,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.9170016050338745,
+            "Type": "ORGANIZATION",
+            "Text": "Democrats",
+            "BeginOffset": 108,
+            "EndOffset": 117
+        },
+        {
+            "Score": 0.9839110374450684,
+            "Type": "OTHER",
+            "Text": "https://t.co/zjsKQ7pt",
+            "BeginOffset": 118,
+            "EndOffset": 139
+        }
+    ]
+}

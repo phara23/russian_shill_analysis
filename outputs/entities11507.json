@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8007611632347107,
+            "Type": "PERSON",
+            "Text": "@govtslaves",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.5801997780799866,
+            "Type": "ORGANIZATION",
+            "Text": "OBAMA ADMINISTRATION",
+            "BeginOffset": 16,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.8010820746421814,
+            "Type": "QUANTITY",
+            "Text": "OVER 90 BILLION",
+            "BeginOffset": 44,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.8738368153572083,
+            "Type": "OTHER",
+            "Text": "https://t.co/OyaKh1toAl",
+            "BeginOffset": 75,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.9999690055847168,
+            "Type": "OTHER",
+            "Text": "https://t.co/MEITBd2Akq",
+            "BeginOffset": 99,
+            "EndOffset": 122
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.797485888004303,
+            "Type": "PERSON",
+            "Text": "@MixAffiliates",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8367459177970886,
+            "Type": "PERSON",
+            "Text": "Prince Shun Ft. T-Rell",
+            "BeginOffset": 30,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9532591700553894,
+            "Type": "OTHER",
+            "Text": "https://t.co/gEX0wRcbOc",
+            "BeginOffset": 80,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.7370532751083374,
+            "Type": "PERSON",
+            "Text": "@MixAffiliates",
+            "BeginOffset": 110,
+            "EndOffset": 124
+        },
+        {
+            "Score": 0.991151750087738,
+            "Type": "PERSON",
+            "Text": "@Prince_Shun",
+            "BeginOffset": 125,
+            "EndOffset": 137
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9108059406280518,
+            "Type": "PERSON",
+            "Text": "@PrisonPlanet",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.6827374696731567,
+            "Type": "DATE",
+            "Text": "May",
+            "BeginOffset": 68,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.891795814037323,
+            "Type": "ORGANIZATION",
+            "Text": "Muslims",
+            "BeginOffset": 120,
+            "EndOffset": 127
+        }
+    ]
+}

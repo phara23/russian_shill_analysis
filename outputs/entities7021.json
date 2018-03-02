@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7176360487937927,
+            "Type": "PERSON",
+            "Text": "@TheRealTeeWhy",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9881741404533386,
+            "Type": "DATE",
+            "Text": "Friday June 30th",
+            "BeginOffset": 72,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.6170505285263062,
+            "Type": "QUANTITY",
+            "Text": "1177 N",
+            "BeginOffset": 117,
+            "EndOffset": 123
+        },
+        {
+            "Score": 0.5130213499069214,
+            "Type": "PERSON",
+            "Text": "Elston",
+            "BeginOffset": 124,
+            "EndOffset": 130
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.46722161769866943,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.9780546426773071,
+            "Type": "PERSON",
+            "Text": "@Billy_Pentz",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9998950958251953,
+            "Type": "OTHER",
+            "Text": "https://t.co/WLrtkFygh6",
+            "BeginOffset": 107,
+            "EndOffset": 130
+        }
+    ]
+}

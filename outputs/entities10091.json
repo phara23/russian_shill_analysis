@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9180102348327637,
+            "Type": "PERSON",
+            "Text": "@mzee26",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9951514005661011,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 12,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7266007661819458,
+            "Type": "QUANTITY",
+            "Text": "One",
+            "BeginOffset": 41,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9803517460823059,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 48,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9999427795410156,
+            "Type": "OTHER",
+            "Text": "https://t.co/k89tUVoi5u",
+            "BeginOffset": 75,
+            "EndOffset": 98
+        }
+    ]
+}

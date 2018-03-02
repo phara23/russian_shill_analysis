@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8284651041030884,
+            "Type": "PERSON",
+            "Text": "@Blavity",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.7344194650650024,
+            "Type": "PERSON",
+            "Text": "Hamilton",
+            "BeginOffset": 13,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.6242403984069824,
+            "Type": "QUANTITY",
+            "Text": "16",
+            "BeginOffset": 41,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9652431607246399,
+            "Type": "TITLE",
+            "Text": "Tony Award",
+            "BeginOffset": 44,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.780259370803833,
+            "Type": "OTHER",
+            "Text": "https://t.co/XhTwDTzeF7",
+            "BeginOffset": 67,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9999786615371704,
+            "Type": "OTHER",
+            "Text": "https://t.co/4yJZliZLFJ",
+            "BeginOffset": 91,
+            "EndOffset": 114
+        }
+    ]
+}

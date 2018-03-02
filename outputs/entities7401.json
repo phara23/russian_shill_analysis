@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7850709557533264,
+            "Type": "PERSON",
+            "Text": "@FastPolicy",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7498366832733154,
+            "Type": "LOCATION",
+            "Text": "Russia",
+            "BeginOffset": 39,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.762793779373169,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 47,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.7793146967887878,
+            "Type": "OTHER",
+            "Text": "https://t.co/mwewQRzmpR",
+            "BeginOffset": 81,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.999963641166687,
+            "Type": "OTHER",
+            "Text": "https://t.co/Pj4UgDlGDO",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        }
+    ]
+}

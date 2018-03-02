@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8995089530944824,
+            "Type": "PERSON",
+            "Text": "@vibow54",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9996017217636108,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 13,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9893296360969543,
+            "Type": "QUANTITY",
+            "Text": "2 moles",
+            "BeginOffset": 33,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9908688068389893,
+            "Type": "PERSON",
+            "Text": "Elizabeth Warren",
+            "BeginOffset": 44,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9999481439590454,
+            "Type": "OTHER",
+            "Text": "https://t.co/rXxwY1BWKW",
+            "BeginOffset": 84,
+            "EndOffset": 107
+        }
+    ]
+}

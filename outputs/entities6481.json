@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8109152317047119,
+            "Type": "PERSON",
+            "Text": "@ARnews1936",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.6883833408355713,
+            "Type": "LOCATION",
+            "Text": "Germany",
+            "BeginOffset": 16,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.7362886071205139,
+            "Type": "PERSON",
+            "Text": "Allahu Akbar",
+            "BeginOffset": 51,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9999063014984131,
+            "Type": "OTHER",
+            "Text": "https://t.co/naQtJ2JpVR",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        }
+    ]
+}

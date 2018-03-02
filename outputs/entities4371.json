@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8421030640602112,
+            "Type": "PERSON",
+            "Text": "@xNICKTAYLORx",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9992281198501587,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 64,
+            "EndOffset": 79
+        }
+    ]
+}

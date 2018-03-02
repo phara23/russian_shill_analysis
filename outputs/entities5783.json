@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9391021728515625,
+            "Type": "PERSON",
+            "Text": "@jaybeware",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.6316905617713928,
+            "Type": "ORGANIZATION",
+            "Text": "Hampton Roads",
+            "BeginOffset": 15,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9844026565551758,
+            "Type": "DATE",
+            "Text": "Friday, May 5",
+            "BeginOffset": 84,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.9785634279251099,
+            "Type": "OTHER",
+            "Text": "https://t.co/3Hsi3S1y4D",
+            "BeginOffset": 98,
+            "EndOffset": 121
+        },
+        {
+            "Score": 0.8859317898750305,
+            "Type": "ORGANIZATION",
+            "Text": "@Spartan_Echo",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

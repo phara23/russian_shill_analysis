@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9038008451461792,
+            "Type": "PERSON",
+            "Text": "@ilpopulista_it",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.45589280128479004,
+            "Type": "PERSON",
+            "Text": "Vicenza",
+            "BeginOffset": 20,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9999579191207886,
+            "Type": "OTHER",
+            "Text": "https://t.co/frYyU3q4ia",
+            "BeginOffset": 86,
+            "EndOffset": 109
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9001239538192749,
+            "Type": "PERSON",
+            "Text": "@nine_oh",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.978463351726532,
+            "Type": "LOCATION",
+            "Text": "New York",
+            "BeginOffset": 15,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9473652243614197,
+            "Type": "DATE",
+            "Text": "this year",
+            "BeginOffset": 85,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.9999507665634155,
+            "Type": "OTHER",
+            "Text": "https://t.co/DgXwR3Kc1b",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7090994119644165,
+            "Type": "ORGANIZATION",
+            "Text": "@MApostaticus",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9983311891555786,
+            "Type": "PERSON",
+            "Text": "Mike Cernovich",
+            "BeginOffset": 18,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9423104524612427,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 74,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.9999687671661377,
+            "Type": "OTHER",
+            "Text": "https://t.co/cdQBZNBt54",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        }
+    ]
+}

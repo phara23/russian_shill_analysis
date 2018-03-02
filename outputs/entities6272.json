@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9163949489593506,
+            "Type": "PERSON",
+            "Text": "@FkingDaniel",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.6817228198051453,
+            "Type": "DATE",
+            "Text": "#2016",
+            "BeginOffset": 35,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.6460537314414978,
+            "Type": "QUANTITY",
+            "Text": "3Words",
+            "BeginOffset": 50,
+            "EndOffset": 56
+        }
+    ]
+}

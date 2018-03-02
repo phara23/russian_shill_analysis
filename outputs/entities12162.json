@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9660524129867554,
+            "Type": "PERSON",
+            "Text": "@JohnFromCranber",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9763721823692322,
+            "Type": "PERSON",
+            "Text": "Paul Ryan",
+            "BeginOffset": 21,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9955573678016663,
+            "Type": "OTHER",
+            "Text": "http://t.co/Ii9RV7X3d5",
+            "BeginOffset": 96,
+            "EndOffset": 118
+        }
+    ]
+}

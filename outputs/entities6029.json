@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7591079473495483,
+            "Type": "PERSON",
+            "Text": "@FreedomChild3",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9609612822532654,
+            "Type": "PERSON",
+            "Text": "Sheriff Clarke",
+            "BeginOffset": 19,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9891785383224487,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 37,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9969680905342102,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 55,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.8417350053787231,
+            "Type": "ORGANIZATION",
+            "Text": "Fox Business",
+            "BeginOffset": 87,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.9999781847000122,
+            "Type": "OTHER",
+            "Text": "https://t.co/2MxM8qWQp0",
+            "BeginOffset": 100,
+            "EndOffset": 123
+        }
+    ]
+}

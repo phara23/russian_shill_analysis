@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9518324732780457,
+            "Type": "PERSON",
+            "Text": "@shtwd13",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9380976557731628,
+            "Type": "DATE",
+            "Text": "last night",
+            "BeginOffset": 43,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.999961256980896,
+            "Type": "OTHER",
+            "Text": "https://t.co/YUgXj4punV",
+            "BeginOffset": 87,
+            "EndOffset": 110
+        }
+    ]
+}

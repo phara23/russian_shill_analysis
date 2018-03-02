@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9671222567558289,
+            "Type": "PERSON",
+            "Text": "@TrumpVsHilary",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9682227373123169,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 77,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.5855612754821777,
+            "Type": "ORGANIZATION",
+            "Text": "Islam",
+            "BeginOffset": 106,
+            "EndOffset": 111
+        },
+        {
+            "Score": 0.9296380877494812,
+            "Type": "ORGANIZATION",
+            "Text": "ICANN",
+            "BeginOffset": 112,
+            "EndOffset": 117
+        },
+        {
+            "Score": 0.8968967199325562,
+            "Type": "OTHER",
+            "Text": "https://www.https://t…",
+            "BeginOffset": 118,
+            "EndOffset": 140
+        }
+    ]
+}

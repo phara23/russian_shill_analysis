@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9441447854042053,
+            "Type": "PERSON",
+            "Text": "@Darren32895836",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.5396600365638733,
+            "Type": "OTHER",
+            "Text": "Iraqi",
+            "BeginOffset": 33,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.6627475023269653,
+            "Type": "ORGANIZATION",
+            "Text": "JFK Enthusiastically",
+            "BeginOffset": 42,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9965509176254272,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 92,
+            "EndOffset": 104
+        }
+    ]
+}

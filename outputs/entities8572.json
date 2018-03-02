@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9081083536148071,
+            "Type": "PERSON",
+            "Text": "@_mazak",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.7758832573890686,
+            "Type": "PERSON",
+            "Text": "Martin Luther King",
+            "BeginOffset": 33,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.7240307331085205,
+            "Type": "OTHER",
+            "Text": "https://t.co/Mdlt5Uo1LD",
+            "BeginOffset": 114,
+            "EndOffset": 137
+        }
+    ]
+}

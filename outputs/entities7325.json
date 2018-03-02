@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9517973065376282,
+            "Type": "PERSON",
+            "Text": "@nathanielbumpo",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9987286329269409,
+            "Type": "PERSON",
+            "Text": "David Brock",
+            "BeginOffset": 33,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9961801767349243,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 74,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9994039535522461,
+            "Type": "OTHER",
+            "Text": "https://t.co/Rhwsn6nQzn",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        }
+    ]
+}

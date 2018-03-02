@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8062919974327087,
+            "Type": "PERSON",
+            "Text": "@FreedomWorks",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9532678127288818,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 40,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9874841570854187,
+            "Type": "OTHER",
+            "Text": "https://t.co/FiWyLAQQDh",
+            "BeginOffset": 68,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.8943299651145935,
+            "Type": "ORGANIZATION",
+            "Text": "@JGWithrow",
+            "BeginOffset": 97,
+            "EndOffset": 107
+        }
+    ]
+}

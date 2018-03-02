@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7849223613739014,
+            "Type": "PERSON",
+            "Text": "@AnonOpsIT",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9940745234489441,
+            "Type": "OTHER",
+            "Text": "https://t.co/41qL1BtDBT",
+            "BeginOffset": 42,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9371200799942017,
+            "Type": "PERSON",
+            "Text": "@lightning_grl",
+            "BeginOffset": 76,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9527714252471924,
+            "Type": "PERSON",
+            "Text": "@VickyDurieux",
+            "BeginOffset": 91,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.9500544667243958,
+            "Type": "PERSON",
+            "Text": "@SegundoSanz",
+            "BeginOffset": 105,
+            "EndOffset": 117
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7410704493522644,
+            "Type": "PERSON",
+            "Text": "@TheEconomist",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9809003472328186,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 22,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.620514452457428,
+            "Type": "OTHER",
+            "Text": "German",
+            "BeginOffset": 51,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9524665474891663,
+            "Type": "OTHER",
+            "Text": "https://t.co/2KdjJvPY9i",
+            "BeginOffset": 104,
+            "EndOffset": 127
+        },
+        {
+            "Score": 0.9829455614089966,
+            "Type": "OTHER",
+            "Text": "https://t.c",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

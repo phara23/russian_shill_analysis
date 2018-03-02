@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4814368784427643,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8536418080329895,
+            "Type": "PERSON",
+            "Text": "@Miami4Trump",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9883772730827332,
+            "Type": "PERSON",
+            "Text": "Barry",
+            "BeginOffset": 90,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.48766690492630005,
+            "Type": "PERSON",
+            "Text": "#ObamaFarewell",
+            "BeginOffset": 120,
+            "EndOffset": 134
+        },
+        {
+            "Score": 0.4131902754306793,
+            "Type": "ORGANIZATION",
+            "Text": "#MAGA",
+            "BeginOffset": 135,
+            "EndOffset": 140
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8104807734489441,
+            "Type": "PERSON",
+            "Text": "DiCaprio",
+            "BeginOffset": 27,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9675539135932922,
+            "Type": "OTHER",
+            "Text": "https://t.co/Y0qN1LpoL0",
+            "BeginOffset": 70,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.8708295822143555,
+            "Type": "ORGANIZATION",
+            "Text": "@dnn_online",
+            "BeginOffset": 98,
+            "EndOffset": 109
+        }
+    ]
+}

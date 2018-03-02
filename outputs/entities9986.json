@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9374357461929321,
+            "Type": "PERSON",
+            "Text": "@TheObamanista",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.5388256907463074,
+            "Type": "QUANTITY",
+            "Text": "one",
+            "BeginOffset": 53,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9988277554512024,
+            "Type": "DATE",
+            "Text": "November 8th",
+            "BeginOffset": 60,
+            "EndOffset": 72
+        }
+    ]
+}

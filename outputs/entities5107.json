@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9913482069969177,
+            "Type": "PERSON",
+            "Text": "Jon Voight",
+            "BeginOffset": 0,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9970788359642029,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 16,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9999961853027344,
+            "Type": "OTHER",
+            "Text": "https://t.co/R9NA3pQVdX",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

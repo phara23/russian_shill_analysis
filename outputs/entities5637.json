@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8780810832977295,
+            "Type": "PERSON",
+            "Text": "@littlesatan1974",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.6349115371704102,
+            "Type": "DATE",
+            "Text": "#2016",
+            "BeginOffset": 21,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9434483647346497,
+            "Type": "QUANTITY",
+            "Text": "4Words",
+            "BeginOffset": 28,
+            "EndOffset": 34
+        }
+    ]
+}

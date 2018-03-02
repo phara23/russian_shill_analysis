@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8880583643913269,
+            "Type": "PERSON",
+            "Text": "@mlcalderone",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9996652007102966,
+            "Type": "PERSON",
+            "Text": "Jason Rezaian",
+            "BeginOffset": 32,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.5559560060501099,
+            "Type": "LOCATION",
+            "Text": "Iran",
+            "BeginOffset": 69,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.483490526676178,
+            "Type": "ORGANIZATION",
+            "Text": "WaPo",
+            "BeginOffset": 79,
+            "EndOffset": 83
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7824058532714844,
+            "Type": "PERSON",
+            "Text": "@BestOfBbalI",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9840905070304871,
+            "Type": "PERSON",
+            "Text": "Steph",
+            "BeginOffset": 17,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9999960660934448,
+            "Type": "OTHER",
+            "Text": "http://t.co/QANxR9wMxf",
+            "BeginOffset": 35,
+            "EndOffset": 57
+        }
+    ]
+}

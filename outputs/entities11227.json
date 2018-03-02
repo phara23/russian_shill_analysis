@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9532788991928101,
+            "Type": "PERSON",
+            "Text": "@MikeLeeforUtah",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8968515992164612,
+            "Type": "PERSON",
+            "Text": "@RandPaul",
+            "BeginOffset": 30,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9508172273635864,
+            "Type": "QUANTITY",
+            "Text": "5 billion dollars",
+            "BeginOffset": 91,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.724317193031311,
+            "Type": "ORGANIZATION",
+            "Text": "Saudi Ar",
+            "BeginOffset": 129,
+            "EndOffset": 137
+        }
+    ]
+}

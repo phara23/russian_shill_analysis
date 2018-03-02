@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9371692538261414,
+            "Type": "PERSON",
+            "Text": "@dawngpsalm63",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7707604765892029,
+            "Type": "ORGANIZATION",
+            "Text": "#CBC",
+            "BeginOffset": 18,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.4146544635295868,
+            "Type": "OTHER",
+            "Text": "#AfricanAmerican",
+            "BeginOffset": 68,
+            "EndOffset": 84
+        }
+    ]
+}

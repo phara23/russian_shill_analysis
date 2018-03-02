@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5117588639259338,
+            "Type": "ORGANIZATION",
+            "Text": "@1111",
+            "BeginOffset": 3,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.8781536817550659,
+            "Type": "PERSON",
+            "Text": "@screaminAsmith3",
+            "BeginOffset": 18,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9844369292259216,
+            "Type": "PERSON",
+            "Text": "@LyndaG1963",
+            "BeginOffset": 35,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9940078854560852,
+            "Type": "PERSON",
+            "Text": "@Mace804",
+            "BeginOffset": 47,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9360518455505371,
+            "Type": "PERSON",
+            "Text": "@sbsane",
+            "BeginOffset": 56,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.96209716796875,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 64,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.8714736104011536,
+            "Type": "PERSON",
+            "Text": "@FLOTUS",
+            "BeginOffset": 80,
+            "EndOffset": 87
+        }
+    ]
+}

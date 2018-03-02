@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9180876016616821,
+            "Type": "PERSON",
+            "Text": "@antoniosabatojr",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9827629327774048,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 35,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9813550710678101,
+            "Type": "DATE",
+            "Text": "nov 8th",
+            "BeginOffset": 87,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.9295693635940552,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 119,
+            "EndOffset": 135
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8429502248764038,
+            "Type": "PERSON",
+            "Text": "@songbirdcd",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9318689703941345,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 18,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9958218932151794,
+            "Type": "PERSON",
+            "Text": "John Podesta",
+            "BeginOffset": 73,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.999982476234436,
+            "Type": "OTHER",
+            "Text": "https://t.co/sK8iXmKbLG",
+            "BeginOffset": 104,
+            "EndOffset": 127
+        }
+    ]
+}

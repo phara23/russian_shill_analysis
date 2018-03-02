@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9739471077919006,
+            "Type": "PERSON",
+            "Text": "@AMike4761",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.6377468109130859,
+            "Type": "ORGANIZATION",
+            "Text": "Democrat",
+            "BeginOffset": 23,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.987007200717926,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 40,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9938802719116211,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 68,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.9914528131484985,
+            "Type": "DATE",
+            "Text": "2015",
+            "BeginOffset": 80,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9999294281005859,
+            "Type": "OTHER",
+            "Text": "https://t.co/oeHxoc9SLI",
+            "BeginOffset": 102,
+            "EndOffset": 125
+        }
+    ]
+}

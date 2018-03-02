@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9956753849983215,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 10,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9684908986091614,
+            "Type": "QUANTITY",
+            "Text": "50mil",
+            "BeginOffset": 23,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.7954813838005066,
+            "Type": "ORGANIZATION",
+            "Text": "Muslim States",
+            "BeginOffset": 34,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.4090595245361328,
+            "Type": "ORGANIZATION",
+            "Text": "#RNCinCLE",
+            "BeginOffset": 91,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.9810379147529602,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 108,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.9999812841415405,
+            "Type": "OTHER",
+            "Text": "https://t.co/3JrqpyqFaB",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        }
+    ]
+}

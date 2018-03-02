@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7529930472373962,
+            "Type": "ORGANIZATION",
+            "Text": "@EMA_radio",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.7475639581680298,
+            "Type": "PERSON",
+            "Text": "#Trump",
+            "BeginOffset": 30,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.7682361602783203,
+            "Type": "ORGANIZATION",
+            "Text": "EMA",
+            "BeginOffset": 38,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9999068975448608,
+            "Type": "OTHER",
+            "Text": "https://t.co/KHIoA4EUE5",
+            "BeginOffset": 54,
+            "EndOffset": 77
+        }
+    ]
+}

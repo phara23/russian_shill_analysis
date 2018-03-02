@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9452347755432129,
+            "Type": "PERSON",
+            "Text": "@bunnyhugger75",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6879630088806152,
+            "Type": "PERSON",
+            "Text": "#Trump",
+            "BeginOffset": 19,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9270534515380859,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 81,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.38719844818115234,
+            "Type": "PERSON",
+            "Text": "#Pence",
+            "BeginOffset": 90,
+            "EndOffset": 96
+        }
+    ]
+}

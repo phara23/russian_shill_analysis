@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9053336977958679,
+            "Type": "PERSON",
+            "Text": "@MalcolmLondon",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9652640223503113,
+            "Type": "QUANTITY",
+            "Text": "two sandwiches",
+            "BeginOffset": 89,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.8858906030654907,
+            "Type": "QUANTITY",
+            "Text": "two sl",
+            "BeginOffset": 133,
+            "EndOffset": 139
+        }
+    ]
+}

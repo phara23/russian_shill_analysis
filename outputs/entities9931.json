@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5232625007629395,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.9480383396148682,
+            "Type": "PERSON",
+            "Text": "@Tim_Canova",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9867542386054993,
+            "Type": "DATE",
+            "Text": "Last night",
+            "BeginOffset": 27,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9087623357772827,
+            "Type": "ORGANIZATION",
+            "Text": "Miami-Dade",
+            "BeginOffset": 39,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9993942975997925,
+            "Type": "OTHER",
+            "Text": "https://t.co/JpEEpL6QdH",
+            "BeginOffset": 112,
+            "EndOffset": 135
+        }
+    ]
+}

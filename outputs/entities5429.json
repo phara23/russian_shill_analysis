@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9414798021316528,
+            "Type": "PERSON",
+            "Text": "@marian_maio",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9864734411239624,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 17,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9931160807609558,
+            "Type": "LOCATION",
+            "Text": "Cuba",
+            "BeginOffset": 80,
+            "EndOffset": 84
+        }
+    ]
+}

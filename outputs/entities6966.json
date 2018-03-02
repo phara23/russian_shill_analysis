@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8991959691047668,
+            "Type": "PERSON",
+            "Text": "@aaronfleetdjs",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6265828013420105,
+            "Type": "PERSON",
+            "Text": "@miltickit",
+            "BeginOffset": 29,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.8677910566329956,
+            "Type": "PERSON",
+            "Text": "@DrummaBoyFRESH",
+            "BeginOffset": 43,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9999469518661499,
+            "Type": "OTHER",
+            "Text": "http://t.co/1MPwIRnQNV",
+            "BeginOffset": 77,
+            "EndOffset": 99
+        }
+    ]
+}

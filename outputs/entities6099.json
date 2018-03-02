@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8186637163162231,
+            "Type": "PERSON",
+            "Text": "@rrocksteady",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.38434845209121704,
+            "Type": "OTHER",
+            "Text": "2368",
+            "BeginOffset": 68,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.306432843208313,
+            "Type": "QUANTITY",
+            "Text": "12",
+            "BeginOffset": 90,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.6920313239097595,
+            "Type": "PERSON",
+            "Text": "@DemarcoDaDon",
+            "BeginOffset": 93,
+            "EndOffset": 106
+        }
+    ]
+}

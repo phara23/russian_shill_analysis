@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8958921432495117,
+            "Type": "PERSON",
+            "Text": "@shadowandact",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9247261881828308,
+            "Type": "QUANTITY",
+            "Text": "Season 2",
+            "BeginOffset": 36,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9906091690063477,
+            "Type": "PERSON",
+            "Text": "Michaela Coel",
+            "BeginOffset": 48,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.8461887836456299,
+            "Type": "DATE",
+            "Text": "January",
+            "BeginOffset": 117,
+            "EndOffset": 124
+        },
+        {
+            "Score": 0.7101183533668518,
+            "Type": "OTHER",
+            "Text": "https://t.co/r",
+            "BeginOffset": 125,
+            "EndOffset": 139
+        }
+    ]
+}

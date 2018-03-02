@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7401933670043945,
+            "Type": "PERSON",
+            "Text": "Reagan",
+            "BeginOffset": 0,
+            "EndOffset": 6
+        },
+        {
+            "Score": 0.9997848272323608,
+            "Type": "PERSON",
+            "Text": "Patti Davis",
+            "BeginOffset": 16,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9978345036506653,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 34,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.8105165362358093,
+            "Type": "OTHER",
+            "Text": "https://t.co/Y40GlnblkS",
+            "BeginOffset": 56,
+            "EndOffset": 79
+        }
+    ]
+}

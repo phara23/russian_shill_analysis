@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9712710380554199,
+            "Type": "PERSON",
+            "Text": "@JohnKStahlUSA",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8238346576690674,
+            "Type": "PERSON",
+            "Text": "Rex",
+            "BeginOffset": 19,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9877220988273621,
+            "Type": "PERSON",
+            "Text": "Barry",
+            "BeginOffset": 48,
+            "EndOffset": 53
+        }
+    ]
+}

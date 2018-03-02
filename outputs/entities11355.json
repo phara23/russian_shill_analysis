@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.3341270089149475,
+            "Type": "ORGANIZATION",
+            "Text": "#Iran",
+            "BeginOffset": 60,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.7530056238174438,
+            "Type": "PERSON",
+            "Text": "@KatiePavlich",
+            "BeginOffset": 74,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.999849796295166,
+            "Type": "OTHER",
+            "Text": "https://t.co/QBABnE4htV",
+            "BeginOffset": 88,
+            "EndOffset": 111
+        }
+    ]
+}

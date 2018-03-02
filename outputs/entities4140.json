@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6605103611946106,
+            "Type": "PERSON",
+            "Text": "@Independent",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9631773233413696,
+            "Type": "PERSON",
+            "Text": "Mo Farah",
+            "BeginOffset": 17,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9996851682662964,
+            "Type": "PERSON",
+            "Text": "Alberto Salazar",
+            "BeginOffset": 34,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9362167716026306,
+            "Type": "OTHER",
+            "Text": "http://t.co/IRfa4QNM6N",
+            "BeginOffset": 85,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.9999648332595825,
+            "Type": "OTHER",
+            "Text": "http://t.co/qDm0levuhi",
+            "BeginOffset": 108,
+            "EndOffset": 130
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.47007179260253906,
+            "Type": "EVENT",
+            "Text": "#2016",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.7319178581237793,
+            "Type": "QUANTITY",
+            "Text": "3Words",
+            "BeginOffset": 15,
+            "EndOffset": 21
+        }
+    ]
+}

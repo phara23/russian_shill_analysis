@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9341239333152771,
+            "Type": "PERSON",
+            "Text": "@jmhamiltonblog",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8185031414031982,
+            "Type": "QUANTITY",
+            "Text": "Ten Most Terrifying Words",
+            "BeginOffset": 46,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9997491240501404,
+            "Type": "OTHER",
+            "Text": "https://t.co/9mg1nCGmvy",
+            "BeginOffset": 75,
+            "EndOffset": 98
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8313884735107422,
+            "Type": "PERSON",
+            "Text": "@crockpics",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9989289045333862,
+            "Type": "PERSON",
+            "Text": "Paul McCartney",
+            "BeginOffset": 23,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9993314146995544,
+            "Type": "PERSON",
+            "Text": "George Harrison",
+            "BeginOffset": 41,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9992694854736328,
+            "Type": "PERSON",
+            "Text": "Patti Boyd",
+            "BeginOffset": 61,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9941381216049194,
+            "Type": "DATE",
+            "Text": "1966",
+            "BeginOffset": 83,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.999984622001648,
+            "Type": "OTHER",
+            "Text": "https://t.co/vFGPlAJmXy",
+            "BeginOffset": 88,
+            "EndOffset": 111
+        }
+    ]
+}

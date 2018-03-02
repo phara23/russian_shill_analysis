@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8115054965019226,
+            "Type": "PERSON",
+            "Text": "@ZaibatsuNews",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9882760047912598,
+            "Type": "PERSON",
+            "Text": "Joy Behar",
+            "BeginOffset": 18,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9881051778793335,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 68,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.9970865845680237,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 93,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.9333559274673462,
+            "Type": "OTHER",
+            "Text": "https://t.co/RAv4zCyZHF",
+            "BeginOffset": 111,
+            "EndOffset": 134
+        },
+        {
+            "Score": 0.7711345553398132,
+            "Type": "ORGANIZATION",
+            "Text": "#p2 http",
+            "BeginOffset": 135,
+            "EndOffset": 143
+        }
+    ]
+}

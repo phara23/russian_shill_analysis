@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7578136324882507,
+            "Type": "PERSON",
+            "Text": "@brooksagnew",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9393007159233093,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 17,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.6578866839408875,
+            "Type": "ORGANIZATION",
+            "Text": "Dem Slavemasters",
+            "BeginOffset": 84,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.38387438654899597,
+            "Type": "ORGANIZATION",
+            "Text": "#SchumerCircus",
+            "BeginOffset": 106,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.6648757457733154,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 130,
+            "EndOffset": 139
+        }
+    ]
+}

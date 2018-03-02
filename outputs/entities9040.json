@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8843661546707153,
+            "Type": "PERSON",
+            "Text": "@Adjustedwell",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9528573155403137,
+            "Type": "ORGANIZATION",
+            "Text": "Democrats",
+            "BeginOffset": 22,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.7168012261390686,
+            "Type": "ORGANIZATION",
+            "Text": "US\n\nHeres",
+            "BeginOffset": 40,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9913337230682373,
+            "Type": "QUANTITY",
+            "Text": "100%",
+            "BeginOffset": 63,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.7858877778053284,
+            "Type": "ORGANIZATION",
+            "Text": "Federal Government",
+            "BeginOffset": 71,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.9871057868003845,
+            "Type": "QUANTITY",
+            "Text": "70%",
+            "BeginOffset": 94,
+            "EndOffset": 97
+        }
+    ]
+}

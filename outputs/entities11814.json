@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7083999514579773,
+            "Type": "PERSON",
+            "Text": "@CNshooter",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.343487948179245,
+            "Type": "LOCATION",
+            "Text": "CHICAGO",
+            "BeginOffset": 15,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.7932799458503723,
+            "Type": "QUANTITY",
+            "Text": "3 People",
+            "BeginOffset": 24,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.5065758228302002,
+            "Type": "LOCATION",
+            "Text": "#LakeView",
+            "BeginOffset": 41,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9433012008666992,
+            "Type": "DATE",
+            "Text": "early this morning",
+            "BeginOffset": 51,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9739988446235657,
+            "Type": "QUANTITY",
+            "Text": "1 person",
+            "BeginOffset": 71,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.9493007063865662,
+            "Type": "ORGANIZATION",
+            "Text": "@CapturedNews",
+            "BeginOffset": 102,
+            "EndOffset": 115
+        }
+    ]
+}

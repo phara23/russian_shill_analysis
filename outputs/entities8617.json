@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8345412015914917,
+            "Type": "PERSON",
+            "Text": "@ccokermn",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.5134275555610657,
+            "Type": "LOCATION",
+            "Text": "LA",
+            "BeginOffset": 14,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.685462236404419,
+            "Type": "ORGANIZATION",
+            "Text": "Islamic Relations",
+            "BeginOffset": 19,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9806281328201294,
+            "Type": "OTHER",
+            "Text": "https://t.co/Z8px1Y5cI1",
+            "BeginOffset": 110,
+            "EndOffset": 133
+        },
+        {
+            "Score": 0.6266916990280151,
+            "Type": "ORGANIZATION",
+            "Text": "@…",
+            "BeginOffset": 138,
+            "EndOffset": 140
+        }
+    ]
+}

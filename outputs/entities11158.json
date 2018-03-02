@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9534151554107666,
+            "Type": "PERSON",
+            "Text": "@AJDelgado13",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7964451313018799,
+            "Type": "PERSON",
+            "Text": "@EricTrump",
+            "BeginOffset": 50,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9237885475158691,
+            "Type": "ORGANIZATION",
+            "Text": "@FoxNews",
+            "BeginOffset": 70,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.8005899786949158,
+            "Type": "DATE",
+            "Text": "last nt",
+            "BeginOffset": 79,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9960505366325378,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 114,
+            "EndOffset": 119
+        }
+    ]
+}

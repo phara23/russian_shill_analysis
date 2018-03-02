@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8066667914390564,
+            "Type": "PERSON",
+            "Text": "@insomniacgames",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9271113276481628,
+            "Type": "PERSON",
+            "Text": "@storm02327",
+            "BeginOffset": 70,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.9999411106109619,
+            "Type": "OTHER",
+            "Text": "https://t.co/3X15MFsKEF",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        }
+    ]
+}

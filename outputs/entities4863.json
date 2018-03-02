@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9830899238586426,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9293474555015564,
+            "Type": "LOCATION",
+            "Text": "U.S.",
+            "BeginOffset": 41,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.7894454598426819,
+            "Type": "PERSON",
+            "Text": "Hanen",
+            "BeginOffset": 78,
+            "EndOffset": 83
+        }
+    ]
+}

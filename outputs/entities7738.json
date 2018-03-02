@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9029543995857239,
+            "Type": "PERSON",
+            "Text": "@CrystalPrebola",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.5036323070526123,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 30,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.6290907859802246,
+            "Type": "QUANTITY",
+            "Text": "Thousands Of Documents",
+            "BeginOffset": 65,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.9998522996902466,
+            "Type": "OTHER",
+            "Text": "https://t.co/K5A2uVCD35",
+            "BeginOffset": 98,
+            "EndOffset": 121
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9094384908676147,
+            "Type": "PERSON",
+            "Text": "@Yorkdel",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.944586455821991,
+            "Type": "QUANTITY",
+            "Text": "six hour",
+            "BeginOffset": 85,
+            "EndOffset": 93
+        }
+    ]
+}

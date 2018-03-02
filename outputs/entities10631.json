@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8989145755767822,
+            "Type": "PERSON",
+            "Text": "@umpire43",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9878177046775818,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 51,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.8009023666381836,
+            "Type": "QUANTITY",
+            "Text": "392 Precincts",
+            "BeginOffset": 77,
+            "EndOffset": 90
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5287246704101562,
+            "Type": "QUANTITY",
+            "Text": "3Words",
+            "BeginOffset": 16,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9728969931602478,
+            "Type": "ORGANIZATION",
+            "Text": "Walmart",
+            "BeginOffset": 33,
+            "EndOffset": 40
+        }
+    ]
+}

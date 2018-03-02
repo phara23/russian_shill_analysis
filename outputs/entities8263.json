@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8359072804450989,
+            "Type": "PERSON",
+            "Text": "@ncscooper",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.986304759979248,
+            "Type": "ORGANIZATION",
+            "Text": "#Facebook",
+            "BeginOffset": 31,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.8363654017448425,
+            "Type": "ORGANIZATION",
+            "Text": "Nevada County Scooper",
+            "BeginOffset": 60,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.740542471408844,
+            "Type": "OTHER",
+            "Text": "https://t.co/qtcl0QdNbN",
+            "BeginOffset": 82,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.9596869349479675,
+            "Type": "OTHER",
+            "Text": "https://t.co/vcJNjQET",
+            "BeginOffset": 118,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8546467423439026,
+            "Type": "PERSON",
+            "Text": "@typicalcircle",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9212296009063721,
+            "Type": "PERSON",
+            "Text": "@kayleighmcenany",
+            "BeginOffset": 31,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9695450067520142,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 58,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9870135188102722,
+            "Type": "PERSON",
+            "Text": "Jesus",
+            "BeginOffset": 84,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.9744868874549866,
+            "Type": "PERSON",
+            "Text": "Jesus",
+            "BeginOffset": 92,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.9990959167480469,
+            "Type": "PERSON",
+            "Text": "Donald",
+            "BeginOffset": 112,
+            "EndOffset": 118
+        }
+    ]
+}

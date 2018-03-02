@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9453959465026855,
+            "Type": "PERSON",
+            "Text": "@jacquescohen9",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6527032256126404,
+            "Type": "OTHER",
+            "Text": "Belgians",
+            "BeginOffset": 19,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.97109454870224,
+            "Type": "OTHER",
+            "Text": "Jewish",
+            "BeginOffset": 46,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.8334370851516724,
+            "Type": "ORGANIZATION",
+            "Text": "Times of Israel",
+            "BeginOffset": 77,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.9999279975891113,
+            "Type": "OTHER",
+            "Text": "https://t.co/AYK9AD7gkK",
+            "BeginOffset": 93,
+            "EndOffset": 116
+        }
+    ]
+}

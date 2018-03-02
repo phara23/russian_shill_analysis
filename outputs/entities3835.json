@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7376049160957336,
+            "Type": "PERSON",
+            "Text": "@tpartynews",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.5090190768241882,
+            "Type": "OTHER",
+            "Text": "Americans",
+            "BeginOffset": 29,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9943194389343262,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 46,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.8347027897834778,
+            "Type": "PERSON",
+            "Text": "Clinton Fundraiser",
+            "BeginOffset": 73,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.9744699001312256,
+            "Type": "LOCATION",
+            "Text": "Miami",
+            "BeginOffset": 95,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.9999834299087524,
+            "Type": "OTHER",
+            "Text": "https://t.co/8mnTmyl0Wz",
+            "BeginOffset": 102,
+            "EndOffset": 125
+        }
+    ]
+}

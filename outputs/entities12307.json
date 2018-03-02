@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6598064303398132,
+            "Type": "PERSON",
+            "Text": "@0HOUR",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9873270392417908,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 19,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.7314463257789612,
+            "Type": "ORGANIZATION",
+            "Text": "RICO",
+            "BeginOffset": 46,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9928174614906311,
+            "Type": "PERSON",
+            "Text": "John Podesta",
+            "BeginOffset": 64,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.9935305118560791,
+            "Type": "PERSON",
+            "Text": "Madeline Albright",
+            "BeginOffset": 83,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.9999806880950928,
+            "Type": "OTHER",
+            "Text": "https://t.co/Y6zFxcROa1",
+            "BeginOffset": 120,
+            "EndOffset": 143
+        }
+    ]
+}

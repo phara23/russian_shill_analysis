@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.92063307762146,
+            "Type": "PERSON",
+            "Text": "@rxpatriot46",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9821722507476807,
+            "Type": "QUANTITY",
+            "Text": "2 peas",
+            "BeginOffset": 26,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.6404078006744385,
+            "Type": "PERSON",
+            "Text": "@tedcruz",
+            "BeginOffset": 91,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.99970942735672,
+            "Type": "OTHER",
+            "Text": "https://t.co/a6t4vzZme9",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        }
+    ]
+}

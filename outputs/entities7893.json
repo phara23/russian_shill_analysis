@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8608534932136536,
+            "Type": "PERSON",
+            "Text": "@NOrleansDaily",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.899469792842865,
+            "Type": "ORGANIZATION",
+            "Text": "University Medical Center",
+            "BeginOffset": 50,
+            "EndOffset": 75
+        }
+    ]
+}

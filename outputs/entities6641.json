@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9440239667892456,
+            "Type": "PERSON",
+            "Text": "Ruby Bridges",
+            "BeginOffset": 0,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.4720528721809387,
+            "Type": "QUANTITY",
+            "Text": "one",
+            "BeginOffset": 13,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8505259156227112,
+            "Type": "QUANTITY",
+            "Text": "1st",
+            "BeginOffset": 23,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9522572159767151,
+            "Type": "OTHER",
+            "Text": "African American",
+            "BeginOffset": 27,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.670498251914978,
+            "Type": "LOCATION",
+            "Text": "American",
+            "BeginOffset": 90,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.9999096393585205,
+            "Type": "OTHER",
+            "Text": "https://t.co/bgFYDUfFAN",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

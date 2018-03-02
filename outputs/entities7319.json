@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7921704649925232,
+            "Type": "PERSON",
+            "Text": "@surftheturf",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9996834993362427,
+            "Type": "OTHER",
+            "Text": "https://t.co/FvzRLMJETS",
+            "BeginOffset": 100,
+            "EndOffset": 123
+        }
+    ]
+}

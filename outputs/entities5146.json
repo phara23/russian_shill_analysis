@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7816317677497864,
+            "Type": "PERSON",
+            "Text": "@FPRNRadio",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.824133038520813,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 56,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9868535995483398,
+            "Type": "DATE",
+            "Text": "17",
+            "BeginOffset": 61,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9982811808586121,
+            "Type": "PERSON",
+            "Text": "David Icke",
+            "BeginOffset": 104,
+            "EndOffset": 114
+        }
+    ]
+}

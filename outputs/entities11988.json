@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7831370234489441,
+            "Type": "PERSON",
+            "Text": "@Praying4US",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9574029445648193,
+            "Type": "PERSON",
+            "Text": "@elliesangelwing",
+            "BeginOffset": 16,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9603818655014038,
+            "Type": "OTHER",
+            "Text": "https://t.co",
+            "BeginOffset": 127,
+            "EndOffset": 139
+        }
+    ]
+}

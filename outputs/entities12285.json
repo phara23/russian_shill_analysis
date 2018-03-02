@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8495622873306274,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9177917242050171,
+            "Type": "ORGANIZATION",
+            "Text": "Democratic Party",
+            "BeginOffset": 32,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9973470568656921,
+            "Type": "PERSON",
+            "Text": "Keith Ellison",
+            "BeginOffset": 50,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9181278347969055,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 81,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9956855773925781,
+            "Type": "PERSON",
+            "Text": "Donna Brazile",
+            "BeginOffset": 99,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.7530497908592224,
+            "Type": "OTHER",
+            "Text": "https://t.co/e07itdwitd",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        },
+        {
+            "Score": 0.7301313281059265,
+            "Type": "ORGANIZATION",
+            "Text": "@A",
+            "BeginOffset": 137,
+            "EndOffset": 139
+        }
+    ]
+}

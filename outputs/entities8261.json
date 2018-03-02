@@ -1,0 +1,88 @@
+{
+    "Entities": [
+        {
+            "Score": 0.696601390838623,
+            "Type": "PERSON",
+            "Text": "@Afrofuturism",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.681064784526825,
+            "Type": "ORGANIZATION",
+            "Text": "@ACLU",
+            "BeginOffset": 19,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.8029908537864685,
+            "Type": "PERSON",
+            "Text": "@peoplepower",
+            "BeginOffset": 25,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.795988142490387,
+            "Type": "PERSON",
+            "Text": "@womensmarch",
+            "BeginOffset": 38,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9099172353744507,
+            "Type": "PERSON",
+            "Text": "@Blklivesmatter",
+            "BeginOffset": 51,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.7709113359451294,
+            "Type": "PERSON",
+            "Text": "@BLMNYC",
+            "BeginOffset": 67,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9183689951896667,
+            "Type": "PERSON",
+            "Text": "@BLMLA",
+            "BeginOffset": 75,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.7281729578971863,
+            "Type": "PERSON",
+            "Text": "@FoxNews",
+            "BeginOffset": 82,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9866123199462891,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 91,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.8783760070800781,
+            "Type": "PERSON",
+            "Text": "@justicedems",
+            "BeginOffset": 108,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.8624471426010132,
+            "Type": "PERSON",
+            "Text": "@TheDemocrats",
+            "BeginOffset": 121,
+            "EndOffset": 134
+        },
+        {
+            "Score": 0.6860340237617493,
+            "Type": "PERSON",
+            "Text": "@The",
+            "BeginOffset": 135,
+            "EndOffset": 139
+        }
+    ]
+}

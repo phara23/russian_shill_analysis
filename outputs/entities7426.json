@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8212761878967285,
+            "Type": "PERSON",
+            "Text": "@prospectia",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.4937674403190613,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 82,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.9526066780090332,
+            "Type": "QUANTITY",
+            "Text": "Three Million",
+            "BeginOffset": 96,
+            "EndOffset": 109
+        },
+        {
+            "Score": 0.9999656677246094,
+            "Type": "OTHER",
+            "Text": "https://t.co/4RB2kkaiZP",
+            "BeginOffset": 110,
+            "EndOffset": 133
+        }
+    ]
+}

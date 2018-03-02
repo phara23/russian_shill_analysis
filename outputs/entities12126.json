@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6611311435699463,
+            "Type": "LOCATION",
+            "Text": "Washington",
+            "BeginOffset": 62,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.998680055141449,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 81,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9999570846557617,
+            "Type": "OTHER",
+            "Text": "https://t.co/7i2WQe62oI",
+            "BeginOffset": 115,
+            "EndOffset": 138
+        }
+    ]
+}

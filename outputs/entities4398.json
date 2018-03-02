@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9099178910255432,
+            "Type": "PERSON",
+            "Text": "@nia4_trump",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9622656106948853,
+            "Type": "PERSON",
+            "Text": "@SpeakerRyan",
+            "BeginOffset": 17,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9932931661605835,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 62,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9956502318382263,
+            "Type": "QUANTITY",
+            "Text": "18 months",
+            "BeginOffset": 88,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.8459729552268982,
+            "Type": "PERSON",
+            "Text": "#Trump",
+            "BeginOffset": 127,
+            "EndOffset": 133
+        },
+        {
+            "Score": 0.6513279676437378,
+            "Type": "PERSON",
+            "Text": "Weir",
+            "BeginOffset": 135,
+            "EndOffset": 139
+        }
+    ]
+}

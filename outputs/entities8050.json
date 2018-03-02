@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8484898209571838,
+            "Type": "PERSON",
+            "Text": "@RNRIllinois",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9822344183921814,
+            "Type": "ORGANIZATION",
+            "Text": "CNN",
+            "BeginOffset": 40,
+            "EndOffset": 43
+        }
+    ]
+}

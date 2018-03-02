@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9632969498634338,
+            "Type": "PERSON",
+            "Text": "@TrumpVsHilary",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9956273436546326,
+            "Type": "PERSON",
+            "Text": "Jimmy Fallon",
+            "BeginOffset": 34,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9852204918861389,
+            "Type": "DATE",
+            "Text": "last night",
+            "BeginOffset": 47,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9885701537132263,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 106,
+            "EndOffset": 110
+        }
+    ]
+}

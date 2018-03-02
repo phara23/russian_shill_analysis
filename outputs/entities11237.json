@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8930372595787048,
+            "Type": "PERSON",
+            "Text": "@HealthRanger",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9244917035102844,
+            "Type": "PERSON",
+            "Text": "President Trump",
+            "BeginOffset": 18,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.962157666683197,
+            "Type": "OTHER",
+            "Text": "https://t.co/SZ1lV3KYeE",
+            "BeginOffset": 77,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.5719200968742371,
+            "Type": "ORGANIZATION",
+            "Text": "#MAGA",
+            "BeginOffset": 101,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.9793490171432495,
+            "Type": "OTHER",
+            "Text": "https://t.co/FQwcRP0",
+            "BeginOffset": 119,
+            "EndOffset": 139
+        }
+    ]
+}

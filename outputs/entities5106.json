@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9951252341270447,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 9,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9964575171470642,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 27,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9991551637649536,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 36,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9975481629371643,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 56,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9999552965164185,
+            "Type": "OTHER",
+            "Text": "https://t.co/u8xYMcSLjB",
+            "BeginOffset": 121,
+            "EndOffset": 144
+        }
+    ]
+}

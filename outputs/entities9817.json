@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8058729767799377,
+            "Type": "PERSON",
+            "Text": "@StockMonsterUSA",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.7123415470123291,
+            "Type": "LOCATION",
+            "Text": "Cincinnati",
+            "BeginOffset": 38,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.7275089025497437,
+            "Type": "QUANTITY",
+            "Text": "one dead",
+            "BeginOffset": 66,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9299150705337524,
+            "Type": "QUANTITY",
+            "Text": "15 wounded",
+            "BeginOffset": 76,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9892838001251221,
+            "Type": "OTHER",
+            "Text": "https://t.co/ps3Ve7UZ8",
+            "BeginOffset": 117,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9370384812355042,
+            "Type": "PERSON",
+            "Text": "@randyshort",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9367692470550537,
+            "Type": "EVENT",
+            "Text": "U.S Presidential Election 2016",
+            "BeginOffset": 47,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9595908522605896,
+            "Type": "PERSON",
+            "Text": "Donald T",
+            "BeginOffset": 80,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9869772791862488,
+            "Type": "OTHER",
+            "Text": "https://t.co/M7aeUzhOGz",
+            "BeginOffset": 92,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.9906708598136902,
+            "Type": "ORGANIZATION",
+            "Text": "@YouTube",
+            "BeginOffset": 120,
+            "EndOffset": 128
+        }
+    ]
+}

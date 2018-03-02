@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9444888830184937,
+            "Type": "PERSON",
+            "Text": "@JBaileysMom",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9987090826034546,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 52,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.8001022934913635,
+            "Type": "PERSON",
+            "Text": "@MouserKingCat",
+            "BeginOffset": 82,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.9999469518661499,
+            "Type": "OTHER",
+            "Text": "https://t.co/6pnwG9e0e3",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9908024072647095,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 10,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7487509846687317,
+            "Type": "LOCATION",
+            "Text": "U.S.",
+            "BeginOffset": 22,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.7055068016052246,
+            "Type": "LOCATION",
+            "Text": "Iran",
+            "BeginOffset": 38,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9748746156692505,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 46,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9999179840087891,
+            "Type": "OTHER",
+            "Text": "https://t.co/v1jpuZlg9Z",
+            "BeginOffset": 58,
+            "EndOffset": 81
+        }
+    ]
+}

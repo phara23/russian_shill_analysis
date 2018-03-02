@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.842625617980957,
+            "Type": "PERSON",
+            "Text": "@OmnicientIam",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9991726875305176,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 107,
+            "EndOffset": 122
+        }
+    ]
+}

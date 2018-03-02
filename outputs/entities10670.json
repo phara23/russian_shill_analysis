@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8809025883674622,
+            "Type": "ORGANIZATION",
+            "Text": "Republican",
+            "BeginOffset": 5,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.5996005535125732,
+            "Type": "ORGANIZATION",
+            "Text": "#RepublicanPatriot",
+            "BeginOffset": 17,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.42552629113197327,
+            "Type": "ORGANIZATION",
+            "Text": "#TeaParty",
+            "BeginOffset": 36,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9579343199729919,
+            "Type": "LOCATION",
+            "Text": "#USA",
+            "BeginOffset": 46,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9999076128005981,
+            "Type": "OTHER",
+            "Text": "https://t.co/loiyVjkoBt",
+            "BeginOffset": 61,
+            "EndOffset": 84
+        }
+    ]
+}

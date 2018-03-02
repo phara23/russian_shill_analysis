@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8580701351165771,
+            "Type": "PERSON",
+            "Text": "@AHMalcolm",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.48110267519950867,
+            "Type": "DATE",
+            "Text": "Tues",
+            "BeginOffset": 15,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.4616522490978241,
+            "Type": "ORGANIZATION",
+            "Text": "#CSPAN",
+            "BeginOffset": 20,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.981601893901825,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 32,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.8446390628814697,
+            "Type": "LOCATION",
+            "Text": "Tallahassee, Fla",
+            "BeginOffset": 56,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.8671900033950806,
+            "Type": "QUANTITY",
+            "Text": "6pmET",
+            "BeginOffset": 74,
+            "EndOffset": 79
+        }
+    ]
+}

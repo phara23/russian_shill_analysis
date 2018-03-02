@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7907906174659729,
+            "Type": "PERSON",
+            "Text": "@DiscloseTV",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.5284628868103027,
+            "Type": "PERSON",
+            "Text": "Zombie Cat",
+            "BeginOffset": 16,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9679734706878662,
+            "Type": "QUANTITY",
+            "Text": "5 Days",
+            "BeginOffset": 41,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9998811483383179,
+            "Type": "OTHER",
+            "Text": "https://t.co/Np8o5yTKch",
+            "BeginOffset": 70,
+            "EndOffset": 93
+        }
+    ]
+}

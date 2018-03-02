@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7285135388374329,
+            "Type": "ORGANIZATION",
+            "Text": "@Fresh_News",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9730862975120544,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 36,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.7817033529281616,
+            "Type": "QUANTITY",
+            "Text": "4 More Years",
+            "BeginOffset": 53,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9956563115119934,
+            "Type": "PERSON",
+            "Text": "Michelle Obama",
+            "BeginOffset": 70,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9793797731399536,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 100,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.9577950835227966,
+            "Type": "OTHER",
+            "Text": "https://t.co/5UbpV8qzJ8",
+            "BeginOffset": 109,
+            "EndOffset": 132
+        }
+    ]
+}

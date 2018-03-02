@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7164015173912048,
+            "Type": "ORGANIZATION",
+            "Text": "@Independent",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7169936895370483,
+            "Type": "TITLE",
+            "Text": "Apple Music",
+            "BeginOffset": 17,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9311962723731995,
+            "Type": "ORGANIZATION",
+            "Text": "Spotify",
+            "BeginOffset": 32,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.8148324489593506,
+            "Type": "OTHER",
+            "Text": "http://t.co/3kkEZFYCmQ",
+            "BeginOffset": 62,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9999524354934692,
+            "Type": "OTHER",
+            "Text": "http://t.co/9VeWBVeQxB",
+            "BeginOffset": 85,
+            "EndOffset": 107
+        }
+    ]
+}

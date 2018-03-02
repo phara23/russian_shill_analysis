@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.795150876045227,
+            "Type": "PERSON",
+            "Text": "@debsellsslc",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8636683225631714,
+            "Type": "PERSON",
+            "Text": "@timkaine",
+            "BeginOffset": 17,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.8978034257888794,
+            "Type": "DATE",
+            "Text": "7yrs ago",
+            "BeginOffset": 40,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.8239389657974243,
+            "Type": "PERSON",
+            "Text": "#Obama",
+            "BeginOffset": 67,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.5012812614440918,
+            "Type": "QUANTITY",
+            "Text": "4",
+            "BeginOffset": 112,
+            "EndOffset": 113
+        }
+    ]
+}

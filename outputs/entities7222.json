@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9247078895568848,
+            "Type": "PERSON",
+            "Text": "Shaq",
+            "BeginOffset": 51,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9543817639350891,
+            "Type": "PERSON",
+            "Text": "Kobe",
+            "BeginOffset": 60,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9862579703330994,
+            "Type": "PERSON",
+            "Text": "Lloyd Banks",
+            "BeginOffset": 68,
+            "EndOffset": 79
+        }
+    ]
+}

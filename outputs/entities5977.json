@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7785122990608215,
+            "Type": "PERSON",
+            "Text": "@GirlCodeAPage",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.5680800080299377,
+            "Type": "OTHER",
+            "Text": "#3",
+            "BeginOffset": 52,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9999511241912842,
+            "Type": "OTHER",
+            "Text": "https://t.co/ERUUsBpF1m",
+            "BeginOffset": 92,
+            "EndOffset": 115
+        }
+    ]
+}

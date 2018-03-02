@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8958687782287598,
+            "Type": "PERSON",
+            "Text": "@daniecal",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.23021800816059113,
+            "Type": "QUANTITY",
+            "Text": "90",
+            "BeginOffset": 117,
+            "EndOffset": 119
+        },
+        {
+            "Score": 0.9873383045196533,
+            "Type": "PERSON",
+            "Text": "Isabella Rosselli",
+            "BeginOffset": 122,
+            "EndOffset": 139
+        }
+    ]
+}

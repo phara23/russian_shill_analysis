@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9993957877159119,
+            "Type": "PERSON",
+            "Text": "Michelle Kwan",
+            "BeginOffset": 0,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9995704889297485,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 30,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9715914726257324,
+            "Type": "LOCATION",
+            "Text": "Ohio",
+            "BeginOffset": 49,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.933803915977478,
+            "Type": "OTHER",
+            "Text": "https://t.co/jON2OIWmJQ",
+            "BeginOffset": 54,
+            "EndOffset": 77
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8063827753067017,
+            "Type": "PERSON",
+            "Text": "@PaoloScaramella",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9806599617004395,
+            "Type": "PERSON",
+            "Text": "@Elena07617349",
+            "BeginOffset": 21,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9692572355270386,
+            "Type": "PERSON",
+            "Text": "@gasparripdl",
+            "BeginOffset": 36,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9104123711585999,
+            "Type": "PERSON",
+            "Text": "@matteorenzi",
+            "BeginOffset": 49,
+            "EndOffset": 61
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7263575792312622,
+            "Type": "PERSON",
+            "Text": "@NotoriousRBG",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7636367082595825,
+            "Type": "ORGANIZATION",
+            "Text": "NFL",
+            "BeginOffset": 35,
+            "EndOffset": 38
+        }
+    ]
+}

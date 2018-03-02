@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8850007653236389,
+            "Type": "PERSON",
+            "Text": "@bear429",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9254542589187622,
+            "Type": "PERSON",
+            "Text": "@SigmanJim",
+            "BeginOffset": 13,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.8754189014434814,
+            "Type": "PERSON",
+            "Text": "@queengost",
+            "BeginOffset": 24,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.7230327725410461,
+            "Type": "ORGANIZATION",
+            "Text": "Christianity",
+            "BeginOffset": 105,
+            "EndOffset": 117
+        }
+    ]
+}

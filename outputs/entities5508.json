@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8294299244880676,
+            "Type": "PERSON",
+            "Text": "@trueblacknews",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8666819334030151,
+            "Type": "QUANTITY",
+            "Text": "Four Women",
+            "BeginOffset": 23,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9987595677375793,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 49,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9996750354766846,
+            "Type": "OTHER",
+            "Text": "https://t.co/Dh2cnYAtvq",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        }
+    ]
+}

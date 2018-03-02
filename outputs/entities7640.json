@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8762215971946716,
+            "Type": "PERSON",
+            "Text": "@ZombiaxX",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9885135293006897,
+            "Type": "PERSON",
+            "Text": "Scott Skiles",
+            "BeginOffset": 14,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.6982304453849792,
+            "Type": "PERSON",
+            "Text": "du Magic",
+            "BeginOffset": 63,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.6657923460006714,
+            "Type": "ORGANIZATION",
+            "Text": "#NBA",
+            "BeginOffset": 73,
+            "EndOffset": 77
+        }
+    ]
+}

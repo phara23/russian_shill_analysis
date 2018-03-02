@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9638152122497559,
+            "Type": "PERSON",
+            "Text": "@JoyAnnReid",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.968403697013855,
+            "Type": "DATE",
+            "Text": "tonight",
+            "BeginOffset": 28,
+            "EndOffset": 35
+        }
+    ]
+}

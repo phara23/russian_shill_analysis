@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9656310081481934,
+            "Type": "PERSON",
+            "Text": "@JohnFromCranber",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.6937622427940369,
+            "Type": "PERSON",
+            "Text": "#Obama",
+            "BeginOffset": 32,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9928531050682068,
+            "Type": "PERSON",
+            "Text": "Kerry",
+            "BeginOffset": 39,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9920937418937683,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 45,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.6734558939933777,
+            "Type": "LOCATION",
+            "Text": "Israel",
+            "BeginOffset": 67,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.9086565971374512,
+            "Type": "ORGANIZATION",
+            "Text": "Democrat",
+            "BeginOffset": 129,
+            "EndOffset": 137
+        }
+    ]
+}

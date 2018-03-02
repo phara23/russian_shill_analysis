@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8995887637138367,
+            "Type": "PERSON",
+            "Text": "@Dork_Power",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.527076244354248,
+            "Type": "QUANTITY",
+            "Text": "100",
+            "BeginOffset": 25,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9766703248023987,
+            "Type": "TITLE",
+            "Text": "Rogue One",
+            "BeginOffset": 47,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9992899894714355,
+            "Type": "PERSON",
+            "Text": "Mark Hamill",
+            "BeginOffset": 62,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.9999021291732788,
+            "Type": "OTHER",
+            "Text": "https://t.co/YaO29h3aER",
+            "BeginOffset": 75,
+            "EndOffset": 98
+        }
+    ]
+}

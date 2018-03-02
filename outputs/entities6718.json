@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9723904132843018,
+            "Type": "PERSON",
+            "Text": "De Blasio",
+            "BeginOffset": 0,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9860677123069763,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 48,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.8977723717689514,
+            "Type": "OTHER",
+            "Text": "https://t.co/IesKQrSu51",
+            "BeginOffset": 54,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9999686479568481,
+            "Type": "OTHER",
+            "Text": "https://t.co/HfUJStuA5l",
+            "BeginOffset": 78,
+            "EndOffset": 101
+        }
+    ]
+}

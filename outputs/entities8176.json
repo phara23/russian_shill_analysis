@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8430418968200684,
+            "Type": "PERSON",
+            "Text": "@MTcowboy3250",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.5737465620040894,
+            "Type": "ORGANIZATION",
+            "Text": "ABC",
+            "BeginOffset": 18,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9996735453605652,
+            "Type": "PERSON",
+            "Text": "George Stephanopoulos",
+            "BeginOffset": 37,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9989280700683594,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 63,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.9990454316139221,
+            "Type": "OTHER",
+            "Text": "http://t.co/mYSSatAUgz",
+            "BeginOffset": 88,
+            "EndOffset": 110
+        }
+    ]
+}

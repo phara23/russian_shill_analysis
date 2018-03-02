@@ -1,0 +1,67 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7483852505683899,
+            "Type": "PERSON",
+            "Text": "@BGNPodcast",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8398691415786743,
+            "Type": "PERSON",
+            "Text": "@CARONISM",
+            "BeginOffset": 20,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9727943539619446,
+            "Type": "PERSON",
+            "Text": "@jumpedforjoi",
+            "BeginOffset": 30,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9600812196731567,
+            "Type": "PERSON",
+            "Text": "@MiathePug",
+            "BeginOffset": 44,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9673445224761963,
+            "Type": "PERSON",
+            "Text": "@BlackMajiik",
+            "BeginOffset": 55,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9941499829292297,
+            "Type": "PERSON",
+            "Text": "@jane_anon",
+            "BeginOffset": 68,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.9604437947273254,
+            "Type": "PERSON",
+            "Text": "@LadyKayB21",
+            "BeginOffset": 79,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9301591515541077,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 105,
+            "EndOffset": 109
+        },
+        {
+            "Score": 0.9197977781295776,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

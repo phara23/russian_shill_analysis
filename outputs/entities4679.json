@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9536570310592651,
+            "Type": "PERSON",
+            "Text": "@ZeeshanAleem",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9404757618904114,
+            "Type": "OTHER",
+            "Text": "Palestinian-American",
+            "BeginOffset": 24,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.8225311636924744,
+            "Type": "ORGANIZATION",
+            "Text": "GWU",
+            "BeginOffset": 104,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.9677367210388184,
+            "Type": "OTHER",
+            "Text": "https://t.co/A1QrwG0D1K",
+            "BeginOffset": 108,
+            "EndOffset": 131
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8482804298400879,
+            "Type": "PERSON",
+            "Text": "@EQuinnland",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7877460718154907,
+            "Type": "QUANTITY",
+            "Text": "5Words",
+            "BeginOffset": 32,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.999799907207489,
+            "Type": "OTHER",
+            "Text": "https://t.co/WJs5BmvGvf",
+            "BeginOffset": 73,
+            "EndOffset": 96
+        }
+    ]
+}

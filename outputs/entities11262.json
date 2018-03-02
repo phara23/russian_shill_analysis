@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8024296164512634,
+            "Type": "PERSON",
+            "Text": "@realDailyWire",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.5696052312850952,
+            "Type": "LOCATION",
+            "Text": "Detroit",
+            "BeginOffset": 25,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9972270131111145,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 42,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.6087489128112793,
+            "Type": "OTHER",
+            "Text": "Iraqi",
+            "BeginOffset": 72,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.8191123008728027,
+            "Type": "QUANTITY",
+            "Text": "One Big Problem",
+            "BeginOffset": 99,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.9999663829803467,
+            "Type": "OTHER",
+            "Text": "https://t.co/MbYC0Dj8La",
+            "BeginOffset": 116,
+            "EndOffset": 139
+        }
+    ]
+}

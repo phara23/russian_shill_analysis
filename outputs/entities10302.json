@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7967849373817444,
+            "Type": "PERSON",
+            "Text": "@famousquotenet",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7250446677207947,
+            "Type": "QUANTITY",
+            "Text": "both",
+            "BeginOffset": 91,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.9093180298805237,
+            "Type": "PERSON",
+            "Text": "Mohandas Ka",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9657811522483826,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9895316362380981,
+            "Type": "LOCATION",
+            "Text": "Wisconsin",
+            "BeginOffset": 32,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9925469756126404,
+            "Type": "DATE",
+            "Text": "tomorrow",
+            "BeginOffset": 42,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.943959653377533,
+            "Type": "LOCATION",
+            "Text": "Colorado",
+            "BeginOffset": 54,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9987764954566956,
+            "Type": "DATE",
+            "Text": "Tuesday",
+            "BeginOffset": 66,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.5244534015655518,
+            "Type": "LOCATION",
+            "Text": "Green Bay",
+            "BeginOffset": 75,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9244503974914551,
+            "Type": "DATE",
+            "Text": "6pm",
+            "BeginOffset": 86,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.9853787422180176,
+            "Type": "OTHER",
+            "Text": "https://t.co/9L917nvCBX",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.6832058429718018,
+            "Type": "LOCATION",
+            "Text": "Colorado",
+            "BeginOffset": 114,
+            "EndOffset": 122
+        },
+        {
+            "Score": 0.980291485786438,
+            "Type": "DATE",
+            "Text": "1pm",
+            "BeginOffset": 132,
+            "EndOffset": 135
+        }
+    ]
+}

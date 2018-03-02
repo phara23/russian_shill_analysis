@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8877813816070557,
+            "Type": "PERSON",
+            "Text": "@Patriotancestry",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9618195295333862,
+            "Type": "OTHER",
+            "Text": "https://t.co",
+            "BeginOffset": 127,
+            "EndOffset": 139
+        }
+    ]
+}

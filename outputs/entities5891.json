@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9562755823135376,
+            "Type": "PERSON",
+            "Text": "@hjimenez42",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8814562559127808,
+            "Type": "PERSON",
+            "Text": "@ReversingASD",
+            "BeginOffset": 16,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9753983020782471,
+            "Type": "PERSON",
+            "Text": "@MarcoGutierrez",
+            "BeginOffset": 30,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9686999917030334,
+            "Type": "PERSON",
+            "Text": "@RealJamesWoods",
+            "BeginOffset": 46,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9789298176765442,
+            "Type": "PERSON",
+            "Text": "@LaraLeaTrump",
+            "BeginOffset": 62,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.9776260256767273,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 76,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.9227805137634277,
+            "Type": "PERSON",
+            "Text": "@periscopeco",
+            "BeginOffset": 92,
+            "EndOffset": 104
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5019871592521667,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.9871271848678589,
+            "Type": "PERSON",
+            "Text": "@Shane_Rodenbeck",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.5453992486000061,
+            "Type": "ORGANIZATION",
+            "Text": "#RTifYouAre",
+            "BeginOffset": 21,
+            "EndOffset": 32
+        }
+    ]
+}

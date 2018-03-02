@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8823004364967346,
+            "Type": "PERSON",
+            "Text": "@Longtails53",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8200056552886963,
+            "Type": "PERSON",
+            "Text": "@HomerWhite",
+            "BeginOffset": 17,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.7305037379264832,
+            "Type": "PERSON",
+            "Text": "@FBI",
+            "BeginOffset": 29,
+            "EndOffset": 33
+        }
+    ]
+}

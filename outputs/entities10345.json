@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.48554161190986633,
+            "Type": "PERSON",
+            "Text": "Mutti",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.8738150000572205,
+            "Type": "PERSON",
+            "Text": "Beste",
+            "BeginOffset": 14,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.41663822531700134,
+            "Type": "PERSON",
+            "Text": "#Merkelmussbleiben",
+            "BeginOffset": 21,
+            "EndOffset": 39
+        }
+    ]
+}

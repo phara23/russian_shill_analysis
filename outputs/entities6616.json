@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9101781249046326,
+            "Type": "PERSON",
+            "Text": "@willd013",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.7813761830329895,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 38,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.993760883808136,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 75,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.6441986560821533,
+            "Type": "PERSON",
+            "Text": "God",
+            "BeginOffset": 84,
+            "EndOffset": 87
+        }
+    ]
+}

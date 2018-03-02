@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9617050886154175,
+            "Type": "PERSON",
+            "Text": "@JaredWyand",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.5814841389656067,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 21,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.6539279222488403,
+            "Type": "LOCATION",
+            "Text": "Israel",
+            "BeginOffset": 47,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.5633600354194641,
+            "Type": "ORGANIZATION",
+            "Text": "Muslim",
+            "BeginOffset": 59,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9713950157165527,
+            "Type": "OTHER",
+            "Text": "Jewish",
+            "BeginOffset": 66,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.9790433645248413,
+            "Type": "PERSON",
+            "Text": "Donald Trump Jr.",
+            "BeginOffset": 119,
+            "EndOffset": 135
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9984174966812134,
+            "Text": "a very bad day",
+            "BeginOffset": 34,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9984291195869446,
+            "Text": "the best day",
+            "BeginOffset": 54,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.999600887298584,
+            "Text": "your life",
+            "BeginOffset": 70,
+            "EndOffset": 79
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8208339214324951,
+            "Type": "PERSON",
+            "Text": "@Lisaley",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.87531977891922,
+            "Type": "PERSON",
+            "Text": "@alisadalestrick",
+            "BeginOffset": 13,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9998301267623901,
+            "Type": "OTHER",
+            "Text": "https://t.co/5MmlUNzcj1",
+            "BeginOffset": 30,
+            "EndOffset": 53
+        }
+    ]
+}

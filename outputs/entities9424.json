@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9602207541465759,
+            "Type": "PERSON",
+            "Text": "@netanyahu",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9524685740470886,
+            "Type": "DATE",
+            "Text": "tonight",
+            "BeginOffset": 59,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9624246954917908,
+            "Type": "PERSON",
+            "Text": "President Donald Trump",
+            "BeginOffset": 72,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.9352562427520752,
+            "Type": "DATE",
+            "Text": "February",
+            "BeginOffset": 125,
+            "EndOffset": 133
+        }
+    ]
+}

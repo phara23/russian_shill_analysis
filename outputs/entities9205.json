@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8597988486289978,
+            "Type": "PERSON",
+            "Text": "@EasyEarl",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9935599565505981,
+            "Type": "PERSON",
+            "Text": "Bill Clinton",
+            "BeginOffset": 14,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.8396428227424622,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 66,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.6008338928222656,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 87,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.9903922080993652,
+            "Type": "OTHER",
+            "Text": "https://t.co/ZC4x9xOilv",
+            "BeginOffset": 106,
+            "EndOffset": 129
+        },
+        {
+            "Score": 0.8181314468383789,
+            "Type": "ORGANIZATION",
+            "Text": "@Week",
+            "BeginOffset": 134,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8696464896202087,
+            "Type": "PERSON",
+            "Text": "@KLSouth",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.5591599941253662,
+            "Type": "ORGANIZATION",
+            "Text": "#HillaryClinton",
+            "BeginOffset": 69,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.8070197105407715,
+            "Type": "PERSON",
+            "Text": "@vivelafra",
+            "BeginOffset": 119,
+            "EndOffset": 129
+        },
+        {
+            "Score": 0.6438993215560913,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 130,
+            "EndOffset": 139
+        }
+    ]
+}

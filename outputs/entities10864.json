@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6354447603225708,
+            "Type": "PERSON",
+            "Text": "@365",
+            "BeginOffset": 3,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.9795756936073303,
+            "Type": "LOCATION",
+            "Text": "USA",
+            "BeginOffset": 7,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9521540999412537,
+            "Type": "OTHER",
+            "Text": "https://t.co/pRoDsRygLg",
+            "BeginOffset": 75,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.41733217239379883,
+            "Type": "ORGANIZATION",
+            "Text": "#TCOT",
+            "BeginOffset": 99,
+            "EndOffset": 104
+        }
+    ]
+}

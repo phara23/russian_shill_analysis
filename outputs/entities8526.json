@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9021665453910828,
+            "Type": "ORGANIZATION",
+            "Text": "Marvel",
+            "BeginOffset": 0,
+            "EndOffset": 6
+        },
+        {
+            "Score": 0.5764865279197693,
+            "Type": "ORGANIZATION",
+            "Text": "Baby Jesus",
+            "BeginOffset": 24,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9718543291091919,
+            "Type": "EVENT",
+            "Text": "Christmas Eve",
+            "BeginOffset": 56,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9494251608848572,
+            "Type": "LOCATION",
+            "Text": "Czech Republic",
+            "BeginOffset": 77,
+            "EndOffset": 91
+        }
+    ]
+}

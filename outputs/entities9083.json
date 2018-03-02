@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8795175552368164,
+            "Type": "PERSON",
+            "Text": "@new_debis",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9226641654968262,
+            "Type": "ORGANIZATION",
+            "Text": "Wikileaks",
+            "BeginOffset": 15,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9945146441459656,
+            "Type": "PERSON",
+            "Text": "Hillary LIE",
+            "BeginOffset": 53,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.98763108253479,
+            "Type": "DATE",
+            "Text": "last night",
+            "BeginOffset": 70,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.9914594888687134,
+            "Type": "OTHER",
+            "Text": "https://t.co/YZZAekzkkP",
+            "BeginOffset": 107,
+            "EndOffset": 130
+        },
+        {
+            "Score": 0.7927772402763367,
+            "Type": "ORGANIZATION",
+            "Text": "@Mer",
+            "BeginOffset": 135,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8866567611694336,
+            "Type": "PERSON",
+            "Text": "@burghseyeview",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7993188500404358,
+            "Type": "PERSON",
+            "Text": "@TRobinsonNewEra",
+            "BeginOffset": 19,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.639746904373169,
+            "Type": "PERSON",
+            "Text": "Rotterham",
+            "BeginOffset": 82,
+            "EndOffset": 91
+        }
+    ]
+}

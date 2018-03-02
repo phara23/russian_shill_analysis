@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9297553300857544,
+            "Type": "PERSON",
+            "Text": "@MHarrisPerry",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7941601872444153,
+            "Type": "PERSON",
+            "Text": "@MHPshow",
+            "BeginOffset": 29,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9278391003608704,
+            "Type": "DATE",
+            "Text": "Sat",
+            "BeginOffset": 46,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.578626275062561,
+            "Type": "LOCATION",
+            "Text": "Iran",
+            "BeginOffset": 76,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.9754231572151184,
+            "Type": "DATE",
+            "Text": "today",
+            "BeginOffset": 104,
+            "EndOffset": 109
+        },
+        {
+            "Score": 0.7150198221206665,
+            "Type": "QUANTITY",
+            "Text": "10",
+            "BeginOffset": 137,
+            "EndOffset": 139
+        }
+    ]
+}

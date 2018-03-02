@@ -1,0 +1,67 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8282185792922974,
+            "Type": "PERSON",
+            "Text": "@oinc2islam",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9009729623794556,
+            "Type": "PERSON",
+            "Text": "@halosday",
+            "BeginOffset": 16,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9763129353523254,
+            "Type": "PERSON",
+            "Text": "@nikkitur",
+            "BeginOffset": 26,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9820020794868469,
+            "Type": "PERSON",
+            "Text": "@downbyseashore",
+            "BeginOffset": 36,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9383842349052429,
+            "Type": "PERSON",
+            "Text": "@Seabeecucm",
+            "BeginOffset": 52,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9825974702835083,
+            "Type": "PERSON",
+            "Text": "@RonR55128000",
+            "BeginOffset": 64,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.93033766746521,
+            "Type": "PERSON",
+            "Text": "@4TheJerseyKid",
+            "BeginOffset": 78,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.9641819000244141,
+            "Type": "PERSON",
+            "Text": "@jjwildnauer",
+            "BeginOffset": 93,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.9811708927154541,
+            "Type": "PERSON",
+            "Text": "@WurrTerry",
+            "BeginOffset": 106,
+            "EndOffset": 116
+        }
+    ]
+}

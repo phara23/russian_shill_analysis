@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9945626854896545,
+            "Type": "PERSON",
+            "Text": "TRUMP",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.8580173254013062,
+            "Type": "QUANTITY",
+            "Text": "12YO",
+            "BeginOffset": 32,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9976381063461304,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 72,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9952595829963684,
+            "Type": "PERSON",
+            "Text": "TRUMP",
+            "BeginOffset": 108,
+            "EndOffset": 113
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4443191587924957,
+            "Type": "OTHER",
+            "Text": "1063",
+            "BeginOffset": 4,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.4963840842247009,
+            "Type": "LOCATION",
+            "Text": "atl",
+            "BeginOffset": 8,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.7978271245956421,
+            "Type": "PERSON",
+            "Text": "Raekwon",
+            "BeginOffset": 26,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9425808191299438,
+            "Type": "PERSON",
+            "Text": "Lil Wayne",
+            "BeginOffset": 50,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.9999954700469971,
+            "Type": "OTHER",
+            "Text": "https://t.co/eMX9Jhb5V3",
+            "BeginOffset": 66,
+            "EndOffset": 89
+        }
+    ]
+}

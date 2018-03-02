@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8533753752708435,
+            "Type": "PERSON",
+            "Text": "@jessepurtell",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9080625772476196,
+            "Type": "DATE",
+            "Text": "19 tomorrow morning",
+            "BeginOffset": 18,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9669774174690247,
+            "Type": "PERSON",
+            "Text": "@J_Piascik3",
+            "BeginOffset": 39,
+            "EndOffset": 50
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4865994155406952,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.856002688407898,
+            "Type": "ORGANIZATION",
+            "Text": "@Seattle_Post",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7449142336845398,
+            "Type": "LOCATION",
+            "Text": "N.Y.",
+            "BeginOffset": 18,
+            "EndOffset": 22
+        }
+    ]
+}

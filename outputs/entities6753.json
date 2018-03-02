@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9978790283203125,
+            "Type": "PERSON",
+            "Text": "Steph Curry",
+            "BeginOffset": 0,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9953525066375732,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 18,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9495869874954224,
+            "Type": "OTHER",
+            "Text": "https://t.co/NpSqJkRE3o",
+            "BeginOffset": 40,
+            "EndOffset": 63
+        }
+    ]
+}

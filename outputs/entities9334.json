@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.865319550037384,
+            "Type": "ORGANIZATION",
+            "Text": "@A_M_Perez",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.883454442024231,
+            "Type": "ORGANIZATION",
+            "Text": "Northern Virginia Battle Flag",
+            "BeginOffset": 34,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.4439638555049896,
+            "Type": "ORGANIZATION",
+            "Text": "#ObamaTrade",
+            "BeginOffset": 84,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.45510563254356384,
+            "Type": "ORGANIZATION",
+            "Text": "#TPP",
+            "BeginOffset": 111,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.6954882740974426,
+            "Type": "ORGANIZATION",
+            "Text": "#SouthCarolina",
+            "BeginOffset": 116,
+            "EndOffset": 130
+        },
+        {
+            "Score": 0.8321329951286316,
+            "Type": "OTHER",
+            "Text": "http://t",
+            "BeginOffset": 131,
+            "EndOffset": 139
+        }
+    ]
+}

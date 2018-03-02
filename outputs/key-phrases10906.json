@@ -1,0 +1,34 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9938890933990479,
+            "Text": "Texas",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9980404376983643,
+            "Text": "the door",
+            "BeginOffset": 28,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9992274641990662,
+            "Text": "their face",
+            "BeginOffset": 40,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9633887410163879,
+            "Text": "our heritage and laws",
+            "BeginOffset": 57,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.9921208024024963,
+            "Text": "pressure",
+            "BeginOffset": 95,
+            "EndOffset": 103
+        }
+    ]
+}

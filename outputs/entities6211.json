@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8956380486488342,
+            "Type": "PERSON",
+            "Text": "@DBloom451",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.5220683217048645,
+            "Type": "OTHER",
+            "Text": "Haitians",
+            "BeginOffset": 37,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9933872818946838,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 54,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.30963510274887085,
+            "Type": "PERSON",
+            "Text": "#RapeyBill",
+            "BeginOffset": 70,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.3608425557613373,
+            "Type": "PERSON",
+            "Text": "#CrookedHillary",
+            "BeginOffset": 87,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.6826814413070679,
+            "Type": "LOCATION",
+            "Text": "Haiti",
+            "BeginOffset": 126,
+            "EndOffset": 131
+        }
+    ]
+}

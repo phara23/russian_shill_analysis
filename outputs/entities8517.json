@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.860576868057251,
+            "Type": "PERSON",
+            "Text": "@TomCottonAR",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.548556387424469,
+            "Type": "OTHER",
+            "Text": "Americans",
+            "BeginOffset": 34,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.4453619122505188,
+            "Type": "QUANTITY",
+            "Text": "1/",
+            "BeginOffset": 111,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.9990021586418152,
+            "Type": "OTHER",
+            "Text": "https://t.co/dIkduolACO",
+            "BeginOffset": 114,
+            "EndOffset": 137
+        }
+    ]
+}

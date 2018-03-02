@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9043473601341248,
+            "Type": "PERSON",
+            "Text": "@PrisonPlanet",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.5936968922615051,
+            "Type": "EVENT",
+            "Text": "Christmas",
+            "BeginOffset": 76,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.999969482421875,
+            "Type": "OTHER",
+            "Text": "https://t.co/qZXBuX9Zag",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7844480872154236,
+            "Type": "PERSON",
+            "Text": "@TeaPartyHub",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.751073956489563,
+            "Type": "PERSON",
+            "Text": "@TeaPartyHub",
+            "BeginOffset": 32,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.8209272623062134,
+            "Type": "EVENT",
+            "Text": "Thanksgiving",
+            "BeginOffset": 88,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.999966025352478,
+            "Type": "OTHER",
+            "Text": "https://t.co/oVXGQVKGPs",
+            "BeginOffset": 110,
+            "EndOffset": 133
+        }
+    ]
+}

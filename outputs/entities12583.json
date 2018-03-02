@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8917612433433533,
+            "Type": "PERSON",
+            "Text": "@Pamela_Moore",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.6873533129692078,
+            "Type": "ORGANIZATION",
+            "Text": "@Starbucks",
+            "BeginOffset": 24,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9515933990478516,
+            "Type": "ORGANIZATION",
+            "Text": "@BankofAmerica",
+            "BeginOffset": 39,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.7883709669113159,
+            "Type": "ORGANIZATION",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 73,
+            "EndOffset": 88
+        }
+    ]
+}

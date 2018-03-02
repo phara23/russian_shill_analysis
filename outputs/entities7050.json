@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9314066767692566,
+            "Type": "PERSON",
+            "Text": "@BikersForTrump",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7166630625724792,
+            "Type": "ORGANIZATION",
+            "Text": "@GrtAmericanBall",
+            "BeginOffset": 46,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.6347240209579468,
+            "Type": "OTHER",
+            "Text": "BFT20",
+            "BeginOffset": 79,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.896669328212738,
+            "Type": "OTHER",
+            "Text": "https://t.co/tVfGGghVc3",
+            "BeginOffset": 106,
+            "EndOffset": 129
+        },
+        {
+            "Score": 0.8835667967796326,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 130,
+            "EndOffset": 139
+        }
+    ]
+}

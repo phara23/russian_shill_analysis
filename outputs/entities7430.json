@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7850446105003357,
+            "Type": "PERSON",
+            "Text": "@AddInfoOrg",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9382863640785217,
+            "Type": "ORGANIZATION",
+            "Text": "American Medical Association",
+            "BeginOffset": 16,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9593532681465149,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 50,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.7063307762145996,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 61,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.7028700709342957,
+            "Type": "PERSON",
+            "Text": "Bill",
+            "BeginOffset": 80,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.845199465751648,
+            "Type": "OTHER",
+            "Text": "https://t.co/f6GJy3vsIq",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        },
+        {
+            "Score": 0.9516200423240662,
+            "Type": "OTHER",
+            "Text": "https://t.co",
+            "BeginOffset": 127,
+            "EndOffset": 139
+        }
+    ]
+}

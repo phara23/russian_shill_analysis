@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8362694978713989,
+            "Type": "PERSON",
+            "Text": "@AIIAmericanGirI",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8890045881271362,
+            "Type": "PERSON",
+            "Text": "Christ",
+            "BeginOffset": 99,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.9269325733184814,
+            "Type": "OTHER",
+            "Text": "http://t.co/m5zarAmQXH",
+            "BeginOffset": 106,
+            "EndOffset": 128
+        }
+    ]
+}

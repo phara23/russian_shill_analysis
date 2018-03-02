@@ -1,0 +1,34 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9321961402893066,
+            "Text": "RT @joshmrowley",
+            "BeginOffset": 0,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.924152135848999,
+            "Text": "CBS, ABC, NBC, New York Times",
+            "BeginOffset": 17,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9808450937271118,
+            "Text": "CNN",
+            "BeginOffset": 52,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9567069411277771,
+            "Text": "Fox News",
+            "BeginOffset": 86,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.9926844835281372,
+            "Text": "a @ppppolls poll",
+            "BeginOffset": 109,
+            "EndOffset": 125
+        }
+    ]
+}

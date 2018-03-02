@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9055788516998291,
+            "Type": "PERSON",
+            "Text": "Gov. John Kasich",
+            "BeginOffset": 20,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.927993655204773,
+            "Type": "ORGANIZATION",
+            "Text": "RNC",
+            "BeginOffset": 39,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9980072975158691,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 100,
+            "EndOffset": 112
+        }
+    ]
+}

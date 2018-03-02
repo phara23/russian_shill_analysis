@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9533239006996155,
+            "Type": "PERSON",
+            "Text": "@StefanMolyneux",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9936967492103577,
+            "Type": "PERSON",
+            "Text": "Kaine",
+            "BeginOffset": 35,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9992100596427917,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 83,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.5309767723083496,
+            "Type": "PERSON",
+            "Text": "Jul",
+            "BeginOffset": 136,
+            "EndOffset": 139
+        }
+    ]
+}

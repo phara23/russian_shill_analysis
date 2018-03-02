@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8857131004333496,
+            "Type": "PERSON",
+            "Text": "@slpng_giants",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9329378008842468,
+            "Type": "PERSON",
+            "Text": "@shaunking",
+            "BeginOffset": 19,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9999746084213257,
+            "Type": "OTHER",
+            "Text": "https://t.co/yOK2xbX4oj",
+            "BeginOffset": 58,
+            "EndOffset": 81
+        }
+    ]
+}

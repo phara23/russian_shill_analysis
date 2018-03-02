@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8214538097381592,
+            "Type": "PERSON",
+            "Text": "@INTJutsu",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8489120006561279,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 35,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9911149740219116,
+            "Type": "PERSON",
+            "Text": "Barry",
+            "BeginOffset": 53,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.976099967956543,
+            "Type": "TITLE",
+            "Text": "Obamacare",
+            "BeginOffset": 103,
+            "EndOffset": 112
+        }
+    ]
+}

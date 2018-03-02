@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7162039279937744,
+            "Type": "PERSON",
+            "Text": "@smartgirls4gop",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.39421138167381287,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 20,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9509724974632263,
+            "Type": "PERSON",
+            "Text": "@jdhlsc169",
+            "BeginOffset": 23,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.49141567945480347,
+            "Type": "ORGANIZATION",
+            "Text": "#TedCruz",
+            "BeginOffset": 35,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.5888316035270691,
+            "Type": "OTHER",
+            "Text": "https://t.co/Umcs4fUP6H",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        },
+        {
+            "Score": 0.6296091675758362,
+            "Type": "ORGANIZATION",
+            "Text": "#C",
+            "BeginOffset": 137,
+            "EndOffset": 139
+        }
+    ]
+}

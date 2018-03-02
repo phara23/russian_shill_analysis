@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.861016035079956,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9650299549102783,
+            "Type": "OTHER",
+            "Text": "https://t.co/FqO7BV200v",
+            "BeginOffset": 68,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.8790048956871033,
+            "Type": "ORGANIZATION",
+            "Text": "@seren_sensei",
+            "BeginOffset": 96,
+            "EndOffset": 109
+        }
+    ]
+}

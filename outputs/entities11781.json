@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8420553207397461,
+            "Type": "PERSON",
+            "Text": "@iluvscoops",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9815948009490967,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 31,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9403606057167053,
+            "Type": "LOCATION",
+            "Text": "California",
+            "BeginOffset": 77,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.9998160004615784,
+            "Type": "OTHER",
+            "Text": "https://t.co/T3VotZgk4k",
+            "BeginOffset": 88,
+            "EndOffset": 111
+        }
+    ]
+}

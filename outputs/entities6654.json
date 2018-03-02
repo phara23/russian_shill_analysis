@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6752097010612488,
+            "Type": "PERSON",
+            "Text": "@18",
+            "BeginOffset": 3,
+            "EndOffset": 6
+        },
+        {
+            "Score": 0.9959553480148315,
+            "Type": "QUANTITY",
+            "Text": "8 minutes",
+            "BeginOffset": 21,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9996531009674072,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 49,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.8779066801071167,
+            "Type": "PERSON",
+            "Text": "@JeanetteJing",
+            "BeginOffset": 113,
+            "EndOffset": 126
+        },
+        {
+            "Score": 0.8706048727035522,
+            "Type": "OTHER",
+            "Text": "https://t.c",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7011404037475586,
+            "Type": "PERSON",
+            "Text": "@ASavageNation",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8476399183273315,
+            "Type": "OTHER",
+            "Text": "https://t.co/TqPx3nTW9f",
+            "BeginOffset": 19,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9999507665634155,
+            "Type": "OTHER",
+            "Text": "https://t.co/iZvwNIvKgh",
+            "BeginOffset": 43,
+            "EndOffset": 66
+        }
+    ]
+}

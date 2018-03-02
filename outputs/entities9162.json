@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.537842333316803,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.9185820817947388,
+            "Type": "PERSON",
+            "Text": "@Bakari_Sellers",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9411107897758484,
+            "Type": "PERSON",
+            "Text": "@JohnJHarwood",
+            "BeginOffset": 31,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.96711266040802,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 89,
+            "EndOffset": 105
+        }
+    ]
+}

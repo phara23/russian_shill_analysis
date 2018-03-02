@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8068000674247742,
+            "Type": "PERSON",
+            "Text": "@googergieger",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9057270288467407,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 41,
+            "EndOffset": 44
+        }
+    ]
+}

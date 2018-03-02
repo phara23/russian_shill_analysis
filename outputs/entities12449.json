@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8165829181671143,
+            "Type": "PERSON",
+            "Text": "@abusedtaxpayer",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9896607398986816,
+            "Type": "PERSON",
+            "Text": "Johnny",
+            "BeginOffset": 53,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.840785801410675,
+            "Type": "QUANTITY",
+            "Text": "1st",
+            "BeginOffset": 80,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.7994182109832764,
+            "Type": "LOCATION",
+            "Text": "Hawaii",
+            "BeginOffset": 130,
+            "EndOffset": 136
+        }
+    ]
+}

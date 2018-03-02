@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9045169353485107,
+            "Type": "PERSON",
+            "Text": "@TerriBauman",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7385442852973938,
+            "Type": "QUANTITY",
+            "Text": "Top 10",
+            "BeginOffset": 17,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9382640719413757,
+            "Type": "OTHER",
+            "Text": "https://t.co/iXfBEUzl6G",
+            "BeginOffset": 53,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.9024461507797241,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

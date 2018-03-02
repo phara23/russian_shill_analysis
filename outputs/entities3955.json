@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8408608436584473,
+            "Type": "PERSON",
+            "Text": "@TotalTrafficMKE",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8387075662612915,
+            "Type": "LOCATION",
+            "Text": "#Wauwatosa",
+            "BeginOffset": 52,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.8998755812644958,
+            "Type": "LOCATION",
+            "Text": "I-41 SB",
+            "BeginOffset": 66,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.7424156069755554,
+            "Type": "LOCATION",
+            "Text": "Mayfair Rd",
+            "BeginOffset": 77,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.9999771118164062,
+            "Type": "OTHER",
+            "Text": "https://t.co/nohdC1mdJZ",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        }
+    ]
+}

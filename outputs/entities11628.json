@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5096534490585327,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.9033262729644775,
+            "Type": "PERSON",
+            "Text": "@Queen_Petty",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        }
+    ]
+}

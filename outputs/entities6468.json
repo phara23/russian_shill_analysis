@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7649547457695007,
+            "Type": "PERSON",
+            "Text": "@Good2bqueen67",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8084161281585693,
+            "Type": "PERSON",
+            "Text": "@SmothersKelly",
+            "BeginOffset": 38,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9297016859054565,
+            "Type": "PERSON",
+            "Text": "@MkSpeaksHisMind",
+            "BeginOffset": 53,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9503015875816345,
+            "Type": "PERSON",
+            "Text": "@AllOnMedicare",
+            "BeginOffset": 70,
+            "EndOffset": 84
+        }
+    ]
+}

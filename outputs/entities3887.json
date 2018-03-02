@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9967846274375916,
+            "Type": "PERSON",
+            "Text": "Bradley Cooper",
+            "BeginOffset": 0,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8529142737388611,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 31,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9637072682380676,
+            "Type": "OTHER",
+            "Text": "https://t.co/Ow6Qm2nkSU",
+            "BeginOffset": 44,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9415225386619568,
+            "Type": "OTHER",
+            "Text": "https://t.co/aXQaNDGlF7",
+            "BeginOffset": 70,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.9999767541885376,
+            "Type": "OTHER",
+            "Text": "https://t.co/yRn4E3t5Zt",
+            "BeginOffset": 94,
+            "EndOffset": 117
+        }
+    ]
+}

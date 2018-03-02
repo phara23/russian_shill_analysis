@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8437155485153198,
+            "Type": "PERSON",
+            "Text": "@SUNDANCERIJ",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.4077794551849365,
+            "Type": "ORGANIZATION",
+            "Text": "#BanIslam",
+            "BeginOffset": 17,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9999579191207886,
+            "Type": "OTHER",
+            "Text": "https://t.co/BGQReli5ww",
+            "BeginOffset": 27,
+            "EndOffset": 50
+        }
+    ]
+}

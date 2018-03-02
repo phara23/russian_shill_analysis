@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9229825139045715,
+            "Type": "PERSON",
+            "Text": "@WayneDupreeShow",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9552973508834839,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 22,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9593093991279602,
+            "Type": "PERSON",
+            "Text": "@KellyannePolls",
+            "BeginOffset": 40,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9935626983642578,
+            "Type": "PERSON",
+            "Text": "Anderson Cooper",
+            "BeginOffset": 65,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.35687369108200073,
+            "Type": "ORGANIZATION",
+            "Text": "#HurricaneMat",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

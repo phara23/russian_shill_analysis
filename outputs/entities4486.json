@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9103639125823975,
+            "Type": "PERSON",
+            "Text": "@gunsandbikes",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9450412392616272,
+            "Type": "PERSON",
+            "Text": "@jaketapper",
+            "BeginOffset": 23,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.8635258078575134,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 93,
+            "EndOffset": 108
+        }
+    ]
+}

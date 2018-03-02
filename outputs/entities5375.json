@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8019712567329407,
+            "Type": "ORGANIZATION",
+            "Text": "@eB2B_entertain",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9600529074668884,
+            "Type": "ORGANIZATION",
+            "Text": "Tumblr",
+            "BeginOffset": 20,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9531364440917969,
+            "Type": "ORGANIZATION",
+            "Text": "WordPress",
+            "BeginOffset": 30,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.8800845742225647,
+            "Type": "OTHER",
+            "Text": "https://t.co/LsLp4T1lkF",
+            "BeginOffset": 54,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9999682903289795,
+            "Type": "OTHER",
+            "Text": "https://t.co/vojcM5hshX",
+            "BeginOffset": 78,
+            "EndOffset": 101
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7301636338233948,
+            "Type": "PERSON",
+            "Text": "@Politweecs",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9823012351989746,
+            "Type": "DATE",
+            "Text": "today",
+            "BeginOffset": 36,
+            "EndOffset": 41
+        }
+    ]
+}

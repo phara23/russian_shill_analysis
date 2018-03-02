@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.729981541633606,
+            "Type": "PERSON",
+            "Text": "@ABCPolitics",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7364766597747803,
+            "Type": "PERSON",
+            "Text": "@PressSec",
+            "BeginOffset": 18,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9294078946113586,
+            "Type": "PERSON",
+            "Text": "@jonkarl",
+            "BeginOffset": 31,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.996562659740448,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 47,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9887241721153259,
+            "Type": "PERSON",
+            "Text": "Comey",
+            "BeginOffset": 103,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.9982149600982666,
+            "Type": "ORGANIZATION",
+            "Text": "FBI",
+            "BeginOffset": 119,
+            "EndOffset": 122
+        }
+    ]
+}

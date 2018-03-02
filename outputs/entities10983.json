@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8222816586494446,
+            "Type": "PERSON",
+            "Text": "@ZipcarDC",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.7549374103546143,
+            "Type": "DATE",
+            "Text": "November 8",
+            "BeginOffset": 50,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9919998645782471,
+            "Type": "DATE",
+            "Text": "6pm",
+            "BeginOffset": 63,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9958160519599915,
+            "Type": "DATE",
+            "Text": "10pm",
+            "BeginOffset": 67,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9733642935752869,
+            "Type": "LOCATION",
+            "Text": "#USA",
+            "BeginOffset": 86,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9548431038856506,
+            "Type": "OTHER",
+            "Text": "https://t.co/zzRRisVRA2",
+            "BeginOffset": 91,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.9998482465744019,
+            "Type": "OTHER",
+            "Text": "https://t.co/iOYynyDxyg",
+            "BeginOffset": 115,
+            "EndOffset": 138
+        }
+    ]
+}

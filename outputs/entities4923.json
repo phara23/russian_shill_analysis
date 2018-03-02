@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7090667486190796,
+            "Type": "ORGANIZATION",
+            "Text": "@wikileaks",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9996828436851501,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 24,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9716004729270935,
+            "Type": "COMMERCIAL_ITEM",
+            "Text": "Kindle",
+            "BeginOffset": 84,
+            "EndOffset": 90
+        }
+    ]
+}

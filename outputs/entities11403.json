@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8674705624580383,
+            "Type": "PERSON",
+            "Text": "@Rebeccarivas",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.39288434386253357,
+            "Type": "ORGANIZATION",
+            "Text": "STL",
+            "BeginOffset": 22,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9880677461624146,
+            "Type": "PERSON",
+            "Text": "@LydaKrewson",
+            "BeginOffset": 79,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.98002690076828,
+            "Type": "OTHER",
+            "Text": "https://t.co/FFp",
+            "BeginOffset": 123,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8576279282569885,
+            "Type": "PERSON",
+            "Text": "@Always_Trump",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9988130331039429,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 32,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.6721962690353394,
+            "Type": "PERSON",
+            "Text": "@EvilHillaryPics",
+            "BeginOffset": 112,
+            "EndOffset": 128
+        }
+    ]
+}

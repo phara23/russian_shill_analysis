@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.899943470954895,
+            "Type": "PERSON",
+            "Text": "@nine_oh",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8877002000808716,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 67,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.7387999296188354,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 75,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.8535204529762268,
+            "Type": "QUANTITY",
+            "Text": "two nominees",
+            "BeginOffset": 89,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.8806017637252808,
+            "Type": "OTHER",
+            "Text": "https://t.co/hr7jhHXfjr",
+            "BeginOffset": 114,
+            "EndOffset": 137
+        }
+    ]
+}

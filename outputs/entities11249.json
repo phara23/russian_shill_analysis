@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8515757322311401,
+            "Type": "PERSON",
+            "Text": "@OpenThePrimary",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.31982699036598206,
+            "Type": "ORGANIZATION",
+            "Text": "#RockvilleRape",
+            "BeginOffset": 20,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.999976396560669,
+            "Type": "OTHER",
+            "Text": "https://t.co/1JQ8h4fpgy",
+            "BeginOffset": 35,
+            "EndOffset": 58
+        }
+    ]
+}

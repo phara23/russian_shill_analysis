@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7184332013130188,
+            "Type": "QUANTITY",
+            "Text": "Third",
+            "BeginOffset": 18,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.5627613067626953,
+            "Type": "OTHER",
+            "Text": "Syrian",
+            "BeginOffset": 27,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9686041474342346,
+            "Type": "ORGANIZATION",
+            "Text": "ISIS",
+            "BeginOffset": 47,
+            "EndOffset": 51
+        }
+    ]
+}

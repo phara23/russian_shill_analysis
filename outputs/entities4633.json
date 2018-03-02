@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7547469735145569,
+            "Type": "PERSON",
+            "Text": "@SpecialAffair",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.575843095779419,
+            "Type": "PERSON",
+            "Text": "Boult",
+            "BeginOffset": 38,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9090638160705566,
+            "Type": "ORGANIZATION",
+            "Text": "Sydney Morning Herald",
+            "BeginOffset": 64,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.9999622106552124,
+            "Type": "OTHER",
+            "Text": "http://t.co/zLDpDl2vvx",
+            "BeginOffset": 88,
+            "EndOffset": 110
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9995995163917542,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9988573789596558,
+            "Type": "PERSON",
+            "Text": "Putin",
+            "BeginOffset": 11,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9895710945129395,
+            "Type": "LOCATION",
+            "Text": "Ukraine",
+            "BeginOffset": 42,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.6454264521598816,
+            "Type": "LOCATION",
+            "Text": "Crimea",
+            "BeginOffset": 60,
+            "EndOffset": 66
+        }
+    ]
+}

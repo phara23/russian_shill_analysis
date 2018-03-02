@@ -1,0 +1,67 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7383947372436523,
+            "Type": "PERSON",
+            "Text": "@uniqueloves",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9338560104370117,
+            "Type": "PERSON",
+            "Text": "@BlackMoses2015",
+            "BeginOffset": 31,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9887304306030273,
+            "Type": "PERSON",
+            "Text": "@angelaw676",
+            "BeginOffset": 47,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.8843400478363037,
+            "Type": "PERSON",
+            "Text": "@3rdEyePluG",
+            "BeginOffset": 59,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9186474084854126,
+            "Type": "PERSON",
+            "Text": "@uniqueloves",
+            "BeginOffset": 71,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.9968201518058777,
+            "Type": "PERSON",
+            "Text": "@lenaporter23",
+            "BeginOffset": 84,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.9166618585586548,
+            "Type": "PERSON",
+            "Text": "@NewEraDetroit",
+            "BeginOffset": 98,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.9338879585266113,
+            "Type": "PERSON",
+            "Text": "@moorbey",
+            "BeginOffset": 113,
+            "EndOffset": 121
+        },
+        {
+            "Score": 0.9086549878120422,
+            "Type": "PERSON",
+            "Text": "@SalmaDey",
+            "BeginOffset": 122,
+            "EndOffset": 131
+        }
+    ]
+}

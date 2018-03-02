@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8660594820976257,
+            "Type": "PERSON",
+            "Text": "@TodayCleveland",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8122960925102234,
+            "Type": "QUANTITY",
+            "Text": "At least 10 dead",
+            "BeginOffset": 27,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.8865079283714294,
+            "Type": "LOCATION",
+            "Text": "Nepal",
+            "BeginOffset": 47,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9773051142692566,
+            "Type": "LOCATION",
+            "Text": "Mount Everest",
+            "BeginOffset": 65,
+            "EndOffset": 78
+        }
+    ]
+}

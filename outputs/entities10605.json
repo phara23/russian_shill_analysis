@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7927608489990234,
+            "Type": "PERSON",
+            "Text": "@ARnews1936",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.997922420501709,
+            "Type": "PERSON",
+            "Text": "George Soros",
+            "BeginOffset": 36,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.8248918056488037,
+            "Type": "QUANTITY",
+            "Text": "Over 50 Times",
+            "BeginOffset": 59,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.7162994742393494,
+            "Type": "PERSON",
+            "Text": "Hillary Campaign",
+            "BeginOffset": 83,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.9997816681861877,
+            "Type": "OTHER",
+            "Text": "https://t.co/sWMiIZyZjE",
+            "BeginOffset": 107,
+            "EndOffset": 130
+        }
+    ]
+}

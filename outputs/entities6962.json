@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5529841184616089,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.6853195428848267,
+            "Type": "PERSON",
+            "Text": "@ArcticFox2016",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9583441019058228,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 19,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.8194185495376587,
+            "Type": "OTHER",
+            "Text": "Iranian Ballistic Missile Program",
+            "BeginOffset": 52,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.8552700877189636,
+            "Type": "OTHER",
+            "Text": "BB4SP",
+            "BeginOffset": 88,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.8194436430931091,
+            "Type": "OTHER",
+            "Text": "https://t.co/UQ8FjRvOiZ https://t.co/sUgwpPYK",
+            "BeginOffset": 94,
+            "EndOffset": 139
+        }
+    ]
+}

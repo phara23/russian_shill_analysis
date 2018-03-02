@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5713671445846558,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.869077742099762,
+            "Type": "ORGANIZATION",
+            "Text": "@QFT_Scott",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9957926273345947,
+            "Type": "ORGANIZATION",
+            "Text": "CNN",
+            "BeginOffset": 25,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.7765549421310425,
+            "Type": "ORGANIZATION",
+            "Text": "PC Gamer",
+            "BeginOffset": 52,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9999711513519287,
+            "Type": "OTHER",
+            "Text": "https://t.co/n3UxyWzj7v",
+            "BeginOffset": 86,
+            "EndOffset": 109
+        }
+    ]
+}

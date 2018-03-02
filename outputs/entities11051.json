@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7996516227722168,
+            "Type": "PERSON",
+            "Text": "@LibAmericaOrg",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9967537522315979,
+            "Type": "PERSON",
+            "Text": "Kellyanne Conway",
+            "BeginOffset": 25,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9971099495887756,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 71,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.8109287023544312,
+            "Type": "LOCATION",
+            "Text": "Russia",
+            "BeginOffset": 89,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.9043486714363098,
+            "Type": "OTHER",
+            "Text": "https://t.co/a0M5n74YPN",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        },
+        {
+            "Score": 0.9870439171791077,
+            "Type": "OTHER",
+            "Text": "https://t.co/u1ORoK",
+            "BeginOffset": 120,
+            "EndOffset": 139
+        }
+    ]
+}

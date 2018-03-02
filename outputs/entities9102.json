@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9262770414352417,
+            "Type": "PERSON",
+            "Text": "@crenshawkidd",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9953613877296448,
+            "Type": "ORGANIZATION",
+            "Text": "Netflix",
+            "BeginOffset": 40,
+            "EndOffset": 47
+        }
+    ]
+}

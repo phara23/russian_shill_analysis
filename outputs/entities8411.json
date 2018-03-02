@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4443191587924957,
+            "Type": "OTHER",
+            "Text": "1063",
+            "BeginOffset": 4,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.4963840842247009,
+            "Type": "LOCATION",
+            "Text": "atl",
+            "BeginOffset": 8,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9450504779815674,
+            "Type": "PERSON",
+            "Text": "Drake",
+            "BeginOffset": 59,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9999905824661255,
+            "Type": "OTHER",
+            "Text": "https://t.co/eMX9JgTv3v",
+            "BeginOffset": 79,
+            "EndOffset": 102
+        }
+    ]
+}

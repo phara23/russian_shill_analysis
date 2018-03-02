@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.877588152885437,
+            "Type": "PERSON",
+            "Text": "@MAKERSwomen",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7996979355812073,
+            "Type": "PERSON",
+            "Text": "@MsPackyetti",
+            "BeginOffset": 47,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.7425370812416077,
+            "Type": "PERSON",
+            "Text": "@TeachForAmerica",
+            "BeginOffset": 63,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.8421182632446289,
+            "Type": "EVENT",
+            "Text": "2017 #MAKERS Conference",
+            "BeginOffset": 101,
+            "EndOffset": 124
+        },
+        {
+            "Score": 0.9185037016868591,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

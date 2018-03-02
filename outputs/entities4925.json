@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5046509504318237,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.6585391759872437,
+            "Type": "ORGANIZATION",
+            "Text": "@Fingersflying",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.951694130897522,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 74,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.5756973624229431,
+            "Type": "PERSON",
+            "Text": "#Trump",
+            "BeginOffset": 91,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.9857609868049622,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 97,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.6129199266433716,
+            "Type": "ORGANIZATION",
+            "Text": "#MAGA",
+            "BeginOffset": 102,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.6669363975524902,
+            "Type": "ORGANIZATION",
+            "Text": "#TrumpPence16",
+            "BeginOffset": 108,
+            "EndOffset": 121
+        }
+    ]
+}

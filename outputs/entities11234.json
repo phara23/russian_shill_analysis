@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8176489472389221,
+            "Type": "QUANTITY",
+            "Text": "4 Dead",
+            "BeginOffset": 0,
+            "EndOffset": 6
+        },
+        {
+            "Score": 0.7718375325202942,
+            "Type": "QUANTITY",
+            "Text": "16 Wounded",
+            "BeginOffset": 8,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9697604179382324,
+            "Type": "LOCATION",
+            "Text": "Chicago",
+            "BeginOffset": 22,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9999027252197266,
+            "Type": "OTHER",
+            "Text": "https://t.co/Hy9Z7hP1uo",
+            "BeginOffset": 48,
+            "EndOffset": 71
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.881591260433197,
+            "Type": "PERSON",
+            "Text": "@fredwimpy",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.6741386651992798,
+            "Type": "LOCATION",
+            "Text": "U.S.",
+            "BeginOffset": 23,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.7068583965301514,
+            "Type": "QUANTITY",
+            "Text": "Tenth-Largest Economy #WoW #tcot",
+            "BeginOffset": 44,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.9984356760978699,
+            "Type": "OTHER",
+            "Text": "http://t.co/mguBpCR5Xy",
+            "BeginOffset": 78,
+            "EndOffset": 100
+        }
+    ]
+}

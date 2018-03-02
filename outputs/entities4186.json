@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7666612863540649,
+            "Type": "PERSON",
+            "Text": "@riteprices",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.5679680705070496,
+            "Type": "ORGANIZATION",
+            "Text": "GOPe",
+            "BeginOffset": 20,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9815090894699097,
+            "Type": "PERSON",
+            "Text": "McCain",
+            "BeginOffset": 41,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.5487680435180664,
+            "Type": "ORGANIZATION",
+            "Text": "GOPe",
+            "BeginOffset": 58,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.950901210308075,
+            "Type": "PERSON",
+            "Text": "Romney",
+            "BeginOffset": 79,
+            "EndOffset": 85
+        }
+    ]
+}

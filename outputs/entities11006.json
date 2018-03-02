@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9659103155136108,
+            "Type": "PERSON",
+            "Text": "@Cary88888888",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9961702227592468,
+            "Type": "ORGANIZATION",
+            "Text": "Facebook",
+            "BeginOffset": 39,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9577233791351318,
+            "Type": "OTHER",
+            "Text": "https://t.co/2mc5ZoeigF",
+            "BeginOffset": 79,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.9484427571296692,
+            "Type": "DATE",
+            "Text": "April 07, 2016 at 06:05AM",
+            "BeginOffset": 103,
+            "EndOffset": 128
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9257113933563232,
+            "Type": "PERSON",
+            "Text": "@SecularKafir",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.848349928855896,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 32,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9888871312141418,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 85,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.9999939203262329,
+            "Type": "OTHER",
+            "Text": "https://t.co/6v8Pp3wiqZ",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        }
+    ]
+}

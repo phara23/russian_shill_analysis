@@ -1,0 +1,40 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9764665365219116,
+            "Text": "Obama",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9997392892837524,
+            "Text": "this ceremony",
+            "BeginOffset": 14,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9954509139060974,
+            "Text": "Dallas",
+            "BeginOffset": 31,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.7785663604736328,
+            "Text": "entertaining black lives",
+            "BeginOffset": 55,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.777446448802948,
+            "Text": "leaders",
+            "BeginOffset": 87,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.9985732436180115,
+            "Text": "the white house",
+            "BeginOffset": 98,
+            "EndOffset": 113
+        }
+    ]
+}

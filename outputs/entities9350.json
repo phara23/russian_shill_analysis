@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8114801645278931,
+            "Type": "PERSON",
+            "Text": "@ANOMALY1",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8564759492874146,
+            "Type": "PERSON",
+            "Text": "RYAN",
+            "BeginOffset": 23,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.7593679428100586,
+            "Type": "PERSON",
+            "Text": "TRUMP",
+            "BeginOffset": 56,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.5041260123252869,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 72,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.9463178515434265,
+            "Type": "PERSON",
+            "Text": "TRUMP",
+            "BeginOffset": 98,
+            "EndOffset": 103
+        }
+    ]
+}

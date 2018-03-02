@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9265234470367432,
+            "Type": "PERSON",
+            "Text": "@tammytabby",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9033777713775635,
+            "Type": "ORGANIZATION",
+            "Text": "FOX",
+            "BeginOffset": 35,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.592879056930542,
+            "Type": "PERSON",
+            "Text": "Comey",
+            "BeginOffset": 57,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9933007955551147,
+            "Type": "ORGANIZATION",
+            "Text": "FBI",
+            "BeginOffset": 63,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.8442896008491516,
+            "Type": "PERSON",
+            "Text": "Lynch",
+            "BeginOffset": 101,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.9936339855194092,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 116,
+            "EndOffset": 121
+        },
+        {
+            "Score": 0.6551205515861511,
+            "Type": "ORGANIZATION",
+            "Text": "WH",
+            "BeginOffset": 125,
+            "EndOffset": 127
+        },
+        {
+            "Score": 0.7739166021347046,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 134,
+            "EndOffset": 136
+        }
+    ]
+}

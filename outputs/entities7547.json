@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8707166910171509,
+            "Type": "PERSON",
+            "Text": "@_HankRearden",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9886640906333923,
+            "Type": "PERSON",
+            "Text": "Kasich",
+            "BeginOffset": 32,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.7075042128562927,
+            "Type": "ORGANIZATION",
+            "Text": "WH",
+            "BeginOffset": 46,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9923641681671143,
+            "Type": "DATE",
+            "Text": "today",
+            "BeginOffset": 49,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.3680919110774994,
+            "Type": "ORGANIZATION",
+            "Text": "DC",
+            "BeginOffset": 71,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.4170004427433014,
+            "Type": "TITLE",
+            "Text": "TPP",
+            "BeginOffset": 85,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9767239093780518,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 106,
+            "EndOffset": 111
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7804164886474609,
+            "Type": "PERSON",
+            "Text": "@AllenWestRepub",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9950821399688721,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 49,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9952900409698486,
+            "Type": "OTHER",
+            "Text": "https://t.co/0YczLQe7Gi",
+            "BeginOffset": 65,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.8366510272026062,
+            "Type": "ORGANIZATION",
+            "Text": "@conservativebyt",
+            "BeginOffset": 93,
+            "EndOffset": 109
+        }
+    ]
+}

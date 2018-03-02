@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8591458797454834,
+            "Type": "PERSON",
+            "Text": "@GayAtheistLH",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9886425137519836,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 52,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.8249180912971497,
+            "Type": "QUANTITY",
+            "Text": "first",
+            "BeginOffset": 58,
+            "EndOffset": 63
+        }
+    ]
+}

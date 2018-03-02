@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6833775043487549,
+            "Type": "ORGANIZATION",
+            "Text": "@Newsweek",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9957447648048401,
+            "Type": "PERSON",
+            "Text": "John Oliver",
+            "BeginOffset": 14,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9950956106185913,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 56,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.7869566679000854,
+            "Type": "OTHER",
+            "Text": "https://t.co/PwdCn49skq",
+            "BeginOffset": 88,
+            "EndOffset": 111
+        },
+        {
+            "Score": 0.9998911619186401,
+            "Type": "OTHER",
+            "Text": "https://t.co/mKsthJzvCe",
+            "BeginOffset": 112,
+            "EndOffset": 135
+        }
+    ]
+}

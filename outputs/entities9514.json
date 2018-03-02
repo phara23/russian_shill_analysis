@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7095490097999573,
+            "Type": "PERSON",
+            "Text": "@omerdos",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.780276358127594,
+            "Type": "PERSON",
+            "Text": "@omerdos",
+            "BeginOffset": 13,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.6274955868721008,
+            "Type": "LOCATION",
+            "Text": "Israel",
+            "BeginOffset": 22,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.691801130771637,
+            "Type": "LOCATION",
+            "Text": "U.S",
+            "BeginOffset": 37,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9976110458374023,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 86,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.7094351649284363,
+            "Type": "OTHER",
+            "Text": "Palestinian",
+            "BeginOffset": 111,
+            "EndOffset": 122
+        }
+    ]
+}

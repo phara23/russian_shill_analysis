@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8461371660232544,
+            "Type": "PERSON",
+            "Text": "@Staciopath",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9987847208976746,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 16,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.8362541794776917,
+            "Type": "QUANTITY",
+            "Text": "30 frickin' times",
+            "BeginOffset": 32,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9959498643875122,
+            "Type": "QUANTITY",
+            "Text": "2 minutes",
+            "BeginOffset": 53,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.5183414816856384,
+            "Type": "ORGANIZATION",
+            "Text": "FFS",
+            "BeginOffset": 64,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9999294281005859,
+            "Type": "OTHER",
+            "Text": "https://t.co/ai3cxKSpES",
+            "BeginOffset": 110,
+            "EndOffset": 133
+        }
+    ]
+}

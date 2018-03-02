@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8548319935798645,
+            "Type": "LOCATION",
+            "Text": "Ohio",
+            "BeginOffset": 0,
+            "EndOffset": 4
+        },
+        {
+            "Score": 0.9057614207267761,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 7,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9926058053970337,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 50,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.8517366647720337,
+            "Type": "OTHER",
+            "Text": "https://t.co/l0PB9EAZDD",
+            "BeginOffset": 63,
+            "EndOffset": 86
+        }
+    ]
+}

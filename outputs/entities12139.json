@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8397272229194641,
+            "Type": "PERSON",
+            "Text": "@Braveheart_USA",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7829223275184631,
+            "Type": "ORGANIZATION",
+            "Text": "HHS",
+            "BeginOffset": 34,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9837925434112549,
+            "Type": "ORGANIZATION",
+            "Text": "Congress",
+            "BeginOffset": 41,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.947986900806427,
+            "Type": "TITLE",
+            "Text": "ObamaCare",
+            "BeginOffset": 53,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.7992223501205444,
+            "Type": "PERSON",
+            "Text": "@Ash_Bell",
+            "BeginOffset": 95,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.9930745363235474,
+            "Type": "PERSON",
+            "Text": "@Steph93065",
+            "BeginOffset": 107,
+            "EndOffset": 118
+        },
+        {
+            "Score": 0.8758202791213989,
+            "Type": "PERSON",
+            "Text": "@AppSame",
+            "BeginOffset": 119,
+            "EndOffset": 127
+        },
+        {
+            "Score": 0.8542882800102234,
+            "Type": "OTHER",
+            "Text": "http://t.co",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

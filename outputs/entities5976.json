@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9281442165374756,
+            "Type": "PERSON",
+            "Text": "@benshapiro",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9984840750694275,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 103,
+            "EndOffset": 108
+        }
+    ]
+}

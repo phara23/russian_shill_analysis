@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8649080395698547,
+            "Type": "PERSON",
+            "Text": "@mk_inwa",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9988846182823181,
+            "Type": "PERSON",
+            "Text": "Patrick McDonnell",
+            "BeginOffset": 29,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9330676198005676,
+            "Type": "OTHER",
+            "Text": "https://t.co/ieQLuGaew0",
+            "BeginOffset": 47,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9933598637580872,
+            "Type": "DATE",
+            "Text": "Monday, March 28, 2016",
+            "BeginOffset": 71,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.9998929500579834,
+            "Type": "OTHER",
+            "Text": "https://t.co/eNIGEqsm1s",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        }
+    ]
+}

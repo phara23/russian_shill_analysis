@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8957445621490479,
+            "Type": "PERSON",
+            "Text": "@nine_oh",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8128990530967712,
+            "Type": "QUANTITY",
+            "Text": "9.0",
+            "BeginOffset": 13,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9883354306221008,
+            "Type": "PERSON",
+            "Text": "Ashely Marshall",
+            "BeginOffset": 41,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.44631725549697876,
+            "Type": "QUANTITY",
+            "Text": "2",
+            "BeginOffset": 88,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.9997945427894592,
+            "Type": "OTHER",
+            "Text": "https://t.co/3U740bcoeE",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        }
+    ]
+}

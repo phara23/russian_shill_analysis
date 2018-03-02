@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8207710981369019,
+            "Type": "PERSON",
+            "Text": "@THETXEMBASSY",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.4454299211502075,
+            "Type": "ORGANIZATION",
+            "Text": "#SaveACA",
+            "BeginOffset": 74,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.8559578061103821,
+            "Type": "PERSON",
+            "Text": "@SpeakerRyan",
+            "BeginOffset": 86,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.8491448163986206,
+            "Type": "PERSON",
+            "Text": "@HouseGOP",
+            "BeginOffset": 99,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.9795128703117371,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 109,
+            "EndOffset": 125
+        },
+        {
+            "Score": 0.8708388209342957,
+            "Type": "PERSON",
+            "Text": "@RepTomPrice",
+            "BeginOffset": 126,
+            "EndOffset": 138
+        }
+    ]
+}

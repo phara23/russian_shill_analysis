@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8341985940933228,
+            "Type": "PERSON",
+            "Text": "@sxdoc",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.7423120141029358,
+            "Type": "ORGANIZATION",
+            "Text": "Liberal Media",
+            "BeginOffset": 26,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9999732971191406,
+            "Type": "OTHER",
+            "Text": "https://t.co/3m1sq6WFuX",
+            "BeginOffset": 76,
+            "EndOffset": 99
+        }
+    ]
+}

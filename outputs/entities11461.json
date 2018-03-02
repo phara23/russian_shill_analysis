@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8584995865821838,
+            "Type": "PERSON",
+            "Text": "@scrowder",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8348293900489807,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 22,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.7135401964187622,
+            "Type": "ORGANIZATION",
+            "Text": "#LWC",
+            "BeginOffset": 41,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.8834282755851746,
+            "Type": "OTHER",
+            "Text": "https://t.co/kIZBl7ef4v",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        },
+        {
+            "Score": 0.9807234406471252,
+            "Type": "OTHER",
+            "Text": "https://t.co/G07ra",
+            "BeginOffset": 127,
+            "EndOffset": 145
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8831619024276733,
+            "Type": "PERSON",
+            "Text": "@ihatethemedia",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.44622287154197693,
+            "Type": "PERSON",
+            "Text": "Haiti",
+            "BeginOffset": 32,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9999209642410278,
+            "Type": "OTHER",
+            "Text": "https://t.co/axxATzhIqM",
+            "BeginOffset": 41,
+            "EndOffset": 64
+        }
+    ]
+}

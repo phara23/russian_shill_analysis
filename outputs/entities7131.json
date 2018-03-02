@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.874122142791748,
+            "Type": "PERSON",
+            "Text": "@BAELLIS158",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9009636044502258,
+            "Type": "TITLE",
+            "Text": "Bible",
+            "BeginOffset": 35,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.3104449510574341,
+            "Type": "ORGANIZATION",
+            "Text": "Muslim",
+            "BeginOffset": 46,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.882645308971405,
+            "Type": "ORGANIZATION",
+            "Text": "Muslim",
+            "BeginOffset": 96,
+            "EndOffset": 102
+        }
+    ]
+}

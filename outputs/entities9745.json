@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8454881906509399,
+            "Type": "PERSON",
+            "Text": "@TheDailySheeple",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.7848118543624878,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 21,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9999315738677979,
+            "Type": "PERSON",
+            "Text": "Mike Flynn",
+            "BeginOffset": 92,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.9972858428955078,
+            "Type": "ORGANIZATION",
+            "Text": "Twitter",
+            "BeginOffset": 106,
+            "EndOffset": 113
+        }
+    ]
+}

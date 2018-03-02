@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8869271874427795,
+            "Type": "PERSON",
+            "Text": "@ManuelDaCreator",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.864944338798523,
+            "Type": "QUANTITY",
+            "Text": "twice a day",
+            "BeginOffset": 62,
+            "EndOffset": 73
+        }
+    ]
+}

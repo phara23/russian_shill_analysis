@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8551318049430847,
+            "Type": "PERSON",
+            "Text": "@immigrant4trump",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9991872310638428,
+            "Type": "PERSON",
+            "Text": "Kellyanne Conway",
+            "BeginOffset": 39,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.6244707703590393,
+            "Type": "QUANTITY",
+            "Text": "First Woman",
+            "BeginOffset": 57,
+            "EndOffset": 68
+        }
+    ]
+}

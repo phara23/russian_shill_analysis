@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8566030859947205,
+            "Type": "PERSON",
+            "Text": "@TyFancher",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.6348097920417786,
+            "Type": "QUANTITY",
+            "Text": "#4",
+            "BeginOffset": 44,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.8224497437477112,
+            "Type": "QUANTITY",
+            "Text": "1Movie",
+            "BeginOffset": 51,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9998002648353577,
+            "Type": "OTHER",
+            "Text": "https://t.co/5nLGDBxqGu",
+            "BeginOffset": 58,
+            "EndOffset": 81
+        }
+    ]
+}

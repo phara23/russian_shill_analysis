@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8259289264678955,
+            "Type": "PERSON",
+            "Text": "@tasteofaz",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.6775705218315125,
+            "Type": "PERSON",
+            "Text": "Berners",
+            "BeginOffset": 15,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9825770258903503,
+            "Type": "PERSON",
+            "Text": "Johnsonites",
+            "BeginOffset": 24,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9445789456367493,
+            "Type": "PERSON",
+            "Text": "Steiners",
+            "BeginOffset": 37,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.5073683261871338,
+            "Type": "QUANTITY",
+            "Text": "16",
+            "BeginOffset": 58,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.658474862575531,
+            "Type": "ORGANIZATION",
+            "Text": "RNC",
+            "BeginOffset": 120,
+            "EndOffset": 123
+        },
+        {
+            "Score": 0.7557665109634399,
+            "Type": "OTHER",
+            "Text": "https://t.c",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

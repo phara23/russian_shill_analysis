@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.897637128829956,
+            "Type": "PERSON",
+            "Text": "@CharlieRatster",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9181087613105774,
+            "Type": "LOCATION",
+            "Text": "#UK",
+            "BeginOffset": 55,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.999972939491272,
+            "Type": "OTHER",
+            "Text": "https://t.co/91QFVmGKvJ",
+            "BeginOffset": 67,
+            "EndOffset": 90
+        }
+    ]
+}

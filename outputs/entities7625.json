@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9904894828796387,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 22,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.48326584696769714,
+            "Type": "LOCATION",
+            "Text": "#Everett",
+            "BeginOffset": 39,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9152578115463257,
+            "Type": "PERSON",
+            "Text": "@Kantrowitz",
+            "BeginOffset": 91,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.9999655485153198,
+            "Type": "OTHER",
+            "Text": "https://t.co/DoW3kMbVAu",
+            "BeginOffset": 104,
+            "EndOffset": 127
+        }
+    ]
+}

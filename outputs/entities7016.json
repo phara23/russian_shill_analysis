@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6361297965049744,
+            "Type": "ORGANIZATION",
+            "Text": "@instapundit",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9745050668716431,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 39,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9220665097236633,
+            "Type": "OTHER",
+            "Text": "https://t.co/uLNC4xIcMR",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        }
+    ]
+}

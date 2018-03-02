@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9781818985939026,
+            "Type": "LOCATION",
+            "Text": "Japan",
+            "BeginOffset": 47,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.999920129776001,
+            "Type": "OTHER",
+            "Text": "https://t.co/5pDWImI1YI",
+            "BeginOffset": 53,
+            "EndOffset": 76
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.796998143196106,
+            "Type": "PERSON",
+            "Text": "@LouDobbs",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8352126479148865,
+            "Type": "ORGANIZATION",
+            "Text": "USC",
+            "BeginOffset": 26,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.8077811598777771,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump 47%",
+            "BeginOffset": 36,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9565808773040771,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 58,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9900718331336975,
+            "Type": "QUANTITY",
+            "Text": "43%",
+            "BeginOffset": 66,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9719592332839966,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 84,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.8569052219390869,
+            "Type": "LOCATION",
+            "Text": "CO, GA,NC, NV",
+            "BeginOffset": 112,
+            "EndOffset": 125
+        },
+        {
+            "Score": 0.3232835531234741,
+            "Type": "LOCATION",
+            "Text": "PA",
+            "BeginOffset": 131,
+            "EndOffset": 133
+        }
+    ]
+}

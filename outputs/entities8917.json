@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6873641610145569,
+            "Type": "PERSON",
+            "Text": "@Hublife",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.966915488243103,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 39,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.845636785030365,
+            "Type": "QUANTITY",
+            "Text": "4Words",
+            "BeginOffset": 45,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.999948263168335,
+            "Type": "OTHER",
+            "Text": "https://t.co/i2gaQpZ6xU",
+            "BeginOffset": 52,
+            "EndOffset": 75
+        }
+    ]
+}

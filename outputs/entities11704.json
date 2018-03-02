@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9423298239707947,
+            "Type": "PERSON",
+            "Text": "@alexis_levinson",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.990253210067749,
+            "Type": "OTHER",
+            "Text": "https://t.co/cDk44lKDAO",
+            "BeginOffset": 43,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.7687035799026489,
+            "Type": "ORGANIZATION",
+            "Text": "@dvergano",
+            "BeginOffset": 71,
+            "EndOffset": 80
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6905196905136108,
+            "Type": "ORGANIZATION",
+            "Text": "@BlastingNews",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9536464214324951,
+            "Type": "PERSON",
+            "Text": "Lala Kent",
+            "BeginOffset": 18,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.312095582485199,
+            "Type": "PERSON",
+            "Text": "Vanderpump",
+            "BeginOffset": 36,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9215160012245178,
+            "Type": "PERSON",
+            "Text": "Kardashians",
+            "BeginOffset": 80,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.8668067455291748,
+            "Type": "OTHER",
+            "Text": "https://t.co/9t4FYkHvR5",
+            "BeginOffset": 93,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.9999942779541016,
+            "Type": "OTHER",
+            "Text": "https://t.co/VKdg4vRMa5",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

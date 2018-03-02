@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.881058394908905,
+            "Type": "PERSON",
+            "Text": "@TraceyTheisen",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9480520486831665,
+            "Type": "ORGANIZATION",
+            "Text": "FBI",
+            "BeginOffset": 22,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.7073545455932617,
+            "Type": "PERSON",
+            "Text": "Clintons",
+            "BeginOffset": 50,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.935153067111969,
+            "Type": "OTHER",
+            "Text": "https://t.co/angZ2hEARt",
+            "BeginOffset": 110,
+            "EndOffset": 133
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.850718080997467,
+            "Type": "PERSON",
+            "Text": "@schizwaitwhat",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9841039180755615,
+            "Type": "DATE",
+            "Text": "2017",
+            "BeginOffset": 22,
+            "EndOffset": 26
+        }
+    ]
+}

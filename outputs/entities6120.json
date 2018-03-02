@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8278601765632629,
+            "Type": "PERSON",
+            "Text": "@Federalist46",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8019906282424927,
+            "Type": "PERSON",
+            "Text": "#Hillary #Clinton",
+            "BeginOffset": 34,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.91249680519104,
+            "Type": "OTHER",
+            "Text": "https://t.co/xW3H4EOOAt",
+            "BeginOffset": 68,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.7677292227745056,
+            "Type": "PERSON",
+            "Text": "#Trump",
+            "BeginOffset": 92,
+            "EndOffset": 98
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9243464469909668,
+            "Type": "PERSON",
+            "Text": "@rbpais",
+            "BeginOffset": 0,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.9441036581993103,
+            "Type": "PERSON",
+            "Text": "@Dan__Crocker",
+            "BeginOffset": 8,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.8395455479621887,
+            "Type": "PERSON",
+            "Text": "@PolitixGal",
+            "BeginOffset": 22,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9519855380058289,
+            "Type": "ORGANIZATION",
+            "Text": "Republican",
+            "BeginOffset": 53,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9939554333686829,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 100,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.9991613626480103,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 130,
+            "EndOffset": 137
+        }
+    ]
+}

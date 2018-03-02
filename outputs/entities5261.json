@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8438772559165955,
+            "Type": "PERSON",
+            "Text": "@Patrioticgirl86",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.5941939949989319,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 21,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9973598122596741,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 51,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9999059438705444,
+            "Type": "OTHER",
+            "Text": "https://t.co/zlL8aTIG6C",
+            "BeginOffset": 87,
+            "EndOffset": 110
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9329030513763428,
+            "Type": "PERSON",
+            "Text": "@tammytabby",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9115899205207825,
+            "Type": "PERSON",
+            "Text": "Mohamed",
+            "BeginOffset": 16,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.4712124168872833,
+            "Type": "ORGANIZATION",
+            "Text": "UAE",
+            "BeginOffset": 59,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.6691579222679138,
+            "Type": "ORGANIZATION",
+            "Text": "China",
+            "BeginOffset": 63,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.8591426610946655,
+            "Type": "PERSON",
+            "Text": "Sultan Al Jaber",
+            "BeginOffset": 80,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.9999384880065918,
+            "Type": "OTHER",
+            "Text": "https://t.co/nqZS79izgV",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        }
+    ]
+}

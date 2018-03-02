@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9581482410430908,
+            "Type": "PERSON",
+            "Text": "@WesleyRickard",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9984045028686523,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 19,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9565961360931396,
+            "Type": "ORGANIZATION",
+            "Text": "Department of Justice",
+            "BeginOffset": 74,
+            "EndOffset": 95
+        }
+    ]
+}

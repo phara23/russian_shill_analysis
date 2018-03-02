@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7974820733070374,
+            "Type": "PERSON",
+            "Text": "@TwitchyTeam",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9989680051803589,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 17,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.8797303438186646,
+            "Type": "TITLE",
+            "Text": "How To Delete Something So It Stays Deleted’ [ph… http://…",
+            "BeginOffset": 82,
+            "EndOffset": 140
+        }
+    ]
+}

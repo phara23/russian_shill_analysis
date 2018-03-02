@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6178578734397888,
+            "Type": "QUANTITY",
+            "Text": "10",
+            "BeginOffset": 4,
+            "EndOffset": 6
+        },
+        {
+            "Score": 0.8083392977714539,
+            "Type": "PERSON",
+            "Text": "Sacha Baron Cohen",
+            "BeginOffset": 7,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9998781681060791,
+            "Type": "OTHER",
+            "Text": "http://t.co/h1fiR0Ti0n",
+            "BeginOffset": 33,
+            "EndOffset": 55
+        }
+    ]
+}

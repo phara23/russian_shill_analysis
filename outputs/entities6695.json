@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9022802710533142,
+            "Type": "PERSON",
+            "Text": "@joemed3",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.5350995659828186,
+            "Type": "QUANTITY",
+            "Text": "2",
+            "BeginOffset": 40,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.7745454907417297,
+            "Type": "QUANTITY",
+            "Text": "2",
+            "BeginOffset": 89,
+            "EndOffset": 90
+        }
+    ]
+}

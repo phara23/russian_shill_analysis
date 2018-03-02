@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8684789538383484,
+            "Type": "ORGANIZATION",
+            "Text": "@RT_com",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9584004878997803,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 23,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.6986469030380249,
+            "Type": "OTHER",
+            "Text": "Romanian",
+            "BeginOffset": 50,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9936589598655701,
+            "Type": "ORGANIZATION",
+            "Text": "FBI",
+            "BeginOffset": 67,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9999744892120361,
+            "Type": "OTHER",
+            "Text": "https://t.co/j6ESDnpsN5",
+            "BeginOffset": 81,
+            "EndOffset": 104
+        }
+    ]
+}

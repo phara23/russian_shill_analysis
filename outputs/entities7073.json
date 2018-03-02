@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8444734811782837,
+            "Type": "PERSON",
+            "Text": "@M_RevereUSA",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.5587232112884521,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 17,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9998971223831177,
+            "Type": "OTHER",
+            "Text": "https://t.co/SK5ukh0FYp",
+            "BeginOffset": 89,
+            "EndOffset": 112
+        }
+    ]
+}

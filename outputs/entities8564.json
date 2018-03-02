@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8142005205154419,
+            "Type": "PERSON",
+            "Text": "Buffett",
+            "BeginOffset": 9,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9979501366615295,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 25,
+            "EndOffset": 30
+        }
+    ]
+}

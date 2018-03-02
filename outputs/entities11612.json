@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8239288330078125,
+            "Type": "PERSON",
+            "Text": "@ThePatriot143",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.990370512008667,
+            "Type": "QUANTITY",
+            "Text": "30-Day",
+            "BeginOffset": 50,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9027001857757568,
+            "Type": "QUANTITY",
+            "Text": "54",
+            "BeginOffset": 84,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.98047935962677,
+            "Type": "QUANTITY",
+            "Text": "108 Years",
+            "BeginOffset": 90,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.9998025298118591,
+            "Type": "OTHER",
+            "Text": "https://t.co/u2eZ23IUbw",
+            "BeginOffset": 101,
+            "EndOffset": 124
+        }
+    ]
+}

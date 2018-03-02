@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7722097039222717,
+            "Type": "PERSON",
+            "Text": "@_TRUEAfrica",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.6015756726264954,
+            "Type": "ORGANIZATION",
+            "Text": "#TBT",
+            "BeginOffset": 17,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.7590891122817993,
+            "Type": "PERSON",
+            "Text": "@omarvictordiop",
+            "BeginOffset": 73,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.78459632396698,
+            "Type": "OTHER",
+            "Text": "https://t.co/pgk1JaU1kt",
+            "BeginOffset": 89,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.9999711513519287,
+            "Type": "OTHER",
+            "Text": "https://t.co/rf5XzvBduf",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        }
+    ]
+}

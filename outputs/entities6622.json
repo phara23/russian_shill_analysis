@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9939756989479065,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9328494668006897,
+            "Type": "ORGANIZATION",
+            "Text": "Breitbart",
+            "BeginOffset": 23,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.5369945764541626,
+            "Type": "PERSON",
+            "Text": "Bannon Angers",
+            "BeginOffset": 35,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.8969842791557312,
+            "Type": "OTHER",
+            "Text": "https://t.co/caldH0MmKE",
+            "BeginOffset": 59,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.9999769926071167,
+            "Type": "OTHER",
+            "Text": "https://t.co/FksZ7T8o8w",
+            "BeginOffset": 83,
+            "EndOffset": 106
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7262833118438721,
+            "Type": "PERSON",
+            "Text": "@Meerkuts",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9706835150718689,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 91,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.9909234642982483,
+            "Type": "OTHER",
+            "Text": "https://t.co/98VY8Hnn0h",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        }
+    ]
+}

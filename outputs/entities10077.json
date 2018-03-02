@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9216598272323608,
+            "Type": "PERSON",
+            "Text": "@pnehlen",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9786112904548645,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 19,
+            "EndOffset": 24
+        }
+    ]
+}

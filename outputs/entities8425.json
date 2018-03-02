@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9338436722755432,
+            "Type": "PERSON",
+            "Text": "Sen. Mark Kirk",
+            "BeginOffset": 0,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9027177095413208,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 35,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9997901320457458,
+            "Type": "OTHER",
+            "Text": "https://t.co/NSn4rmdJfG",
+            "BeginOffset": 63,
+            "EndOffset": 86
+        }
+    ]
+}

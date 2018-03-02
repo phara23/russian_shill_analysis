@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7630108594894409,
+            "Type": "PERSON",
+            "Text": "@FactsofIbra",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.901409924030304,
+            "Type": "PERSON",
+            "Text": "Zlatan",
+            "BeginOffset": 17,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9726189970970154,
+            "Type": "PERSON",
+            "Text": "Sepp Blatter",
+            "BeginOffset": 52,
+            "EndOffset": 64
+        }
+    ]
+}

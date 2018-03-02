@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6916513442993164,
+            "Type": "PERSON",
+            "Text": "@PollyTickal",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8575534820556641,
+            "Type": "PERSON",
+            "Text": "@graydaygamer",
+            "BeginOffset": 17,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9137557744979858,
+            "Type": "ORGANIZATION",
+            "Text": "@YouTube",
+            "BeginOffset": 31,
+            "EndOffset": 39
+        }
+    ]
+}

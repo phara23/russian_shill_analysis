@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8001106977462769,
+            "Type": "PERSON",
+            "Text": "@pureweegie",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.5403938293457031,
+            "Type": "PERSON",
+            "Text": "Bacon",
+            "BeginOffset": 38,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9999477863311768,
+            "Type": "OTHER",
+            "Text": "https://t.co/9KgeKomJtb",
+            "BeginOffset": 44,
+            "EndOffset": 67
+        }
+    ]
+}

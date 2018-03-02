@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9224069714546204,
+            "Type": "PERSON",
+            "Text": "@TalibKweli",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9901290535926819,
+            "Type": "PERSON",
+            "Text": "Maajid Nawaz",
+            "BeginOffset": 16,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9302291870117188,
+            "Type": "ORGANIZATION",
+            "Text": "SPLC",
+            "BeginOffset": 60,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9658870697021484,
+            "Type": "PERSON",
+            "Text": "@sherlockdenis",
+            "BeginOffset": 125,
+            "EndOffset": 139
+        }
+    ]
+}

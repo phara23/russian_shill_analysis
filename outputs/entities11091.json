@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8755080699920654,
+            "Type": "PERSON",
+            "Text": "@OneByOneJewels",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9732862114906311,
+            "Type": "PERSON",
+            "Text": "Ken",
+            "BeginOffset": 99,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.9057525992393494,
+            "Type": "OTHER",
+            "Text": "https://t.co/ZEnQI8WZdc",
+            "BeginOffset": 106,
+            "EndOffset": 129
+        },
+        {
+            "Score": 0.8824295997619629,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 130,
+            "EndOffset": 139
+        }
+    ]
+}

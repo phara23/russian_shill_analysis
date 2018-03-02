@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6538552641868591,
+            "Type": "ORGANIZATION",
+            "Text": "@TEDTalks",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.999757707118988,
+            "Type": "OTHER",
+            "Text": "http://t.co/JVddlER3aP",
+            "BeginOffset": 53,
+            "EndOffset": 75
+        }
+    ]
+}

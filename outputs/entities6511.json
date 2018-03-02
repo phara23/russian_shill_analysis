@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.837475597858429,
+            "Type": "PERSON",
+            "Text": "@FriendlyJMC",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9967328310012817,
+            "Type": "ORGANIZATION",
+            "Text": "CNN",
+            "BeginOffset": 17,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.9990496635437012,
+            "Type": "PERSON",
+            "Text": "Valerie Jarrett",
+            "BeginOffset": 29,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9713846445083618,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 65,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.968940794467926,
+            "Type": "OTHER",
+            "Text": "https://t.co/26PtzS81gB",
+            "BeginOffset": 87,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.874378502368927,
+            "Type": "ORGANIZATION",
+            "Text": "@tregp",
+            "BeginOffset": 115,
+            "EndOffset": 121
+        },
+        {
+            "Score": 0.8460973501205444,
+            "Type": "PERSON",
+            "Text": "@theblaze",
+            "BeginOffset": 122,
+            "EndOffset": 131
+        }
+    ]
+}

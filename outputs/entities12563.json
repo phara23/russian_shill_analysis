@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8285561203956604,
+            "Type": "PERSON",
+            "Text": "@TheHashtagGame",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7751073837280273,
+            "Type": "DATE",
+            "Text": "5A PST",
+            "BeginOffset": 31,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.6235849857330322,
+            "Type": "QUANTITY",
+            "Text": "8A",
+            "BeginOffset": 40,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.7899287939071655,
+            "Type": "QUANTITY",
+            "Text": "1P",
+            "BeginOffset": 49,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.8836066722869873,
+            "Type": "PERSON",
+            "Text": "@iCanHash",
+            "BeginOffset": 56,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9114399552345276,
+            "Type": "PERSON",
+            "Text": "@TLCPrincess",
+            "BeginOffset": 76,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9779965877532959,
+            "Type": "PERSON",
+            "Text": "@TheRealJmar",
+            "BeginOffset": 89,
+            "EndOffset": 101
+        }
+    ]
+}

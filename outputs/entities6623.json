@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9337435364723206,
+            "Type": "PERSON",
+            "Text": "@themadhatter355",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9046338200569153,
+            "Type": "PERSON",
+            "Text": "@TuckerCarlson",
+            "BeginOffset": 21,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9580324292182922,
+            "Type": "PERSON",
+            "Text": "@PrisonPlanet",
+            "BeginOffset": 36,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.7148995995521545,
+            "Type": "ORGANIZATION",
+            "Text": "@FoxNews",
+            "BeginOffset": 50,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9885300993919373,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 119,
+            "EndOffset": 126
+        }
+    ]
+}

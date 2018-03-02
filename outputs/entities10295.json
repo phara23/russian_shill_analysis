@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7933934926986694,
+            "Type": "PERSON",
+            "Text": "@OCAmericans",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9582661390304565,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 58,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9357985854148865,
+            "Type": "ORGANIZATION",
+            "Text": "CNN",
+            "BeginOffset": 79,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.6731730103492737,
+            "Type": "PERSON",
+            "Text": "TRUMP",
+            "BeginOffset": 113,
+            "EndOffset": 118
+        },
+        {
+            "Score": 0.8961002826690674,
+            "Type": "QUANTITY",
+            "Text": "1 Week",
+            "BeginOffset": 119,
+            "EndOffset": 125
+        },
+        {
+            "Score": 0.8447547554969788,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6539832949638367,
+            "Type": "ORGANIZATION",
+            "Text": "@UN",
+            "BeginOffset": 3,
+            "EndOffset": 6
+        },
+        {
+            "Score": 0.9721695184707642,
+            "Type": "QUANTITY",
+            "Text": "88%",
+            "BeginOffset": 8,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.6046938300132751,
+            "Type": "LOCATION",
+            "Text": "Americans",
+            "BeginOffset": 15,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.7365241646766663,
+            "Type": "LOCATION",
+            "Text": "USA",
+            "BeginOffset": 38,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.8070628643035889,
+            "Type": "ORGANIZATION",
+            "Text": "United Nations",
+            "BeginOffset": 80,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.999976634979248,
+            "Type": "OTHER",
+            "Text": "https://t.co/Z7Cwf3sVtb",
+            "BeginOffset": 112,
+            "EndOffset": 135
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.836029589176178,
+            "Type": "PERSON",
+            "Text": "@welt",
+            "BeginOffset": 3,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.8270293474197388,
+            "Type": "OTHER",
+            "Text": "https://t.co/1zJ9cmagEs",
+            "BeginOffset": 83,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.9999208450317383,
+            "Type": "OTHER",
+            "Text": "https://t.co/qhqB6W5tDv",
+            "BeginOffset": 107,
+            "EndOffset": 130
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6891560554504395,
+            "Type": "ORGANIZATION",
+            "Text": "@AMD1_",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.416014701128006,
+            "Type": "ORGANIZATION",
+            "Text": "MDCCLXXVI",
+            "BeginOffset": 43,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9610467553138733,
+            "Type": "TITLE",
+            "Text": "iTunes",
+            "BeginOffset": 53,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.9999196529388428,
+            "Type": "OTHER",
+            "Text": "https://t.co/HHP86efMjZ",
+            "BeginOffset": 61,
+            "EndOffset": 84
+        }
+    ]
+}

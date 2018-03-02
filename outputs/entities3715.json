@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9047909379005432,
+            "Type": "PERSON",
+            "Text": "@BigKahuna919191",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9926221370697021,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 21,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9998225569725037,
+            "Type": "OTHER",
+            "Text": "https://t.co/CsrcLbLZBi",
+            "BeginOffset": 38,
+            "EndOffset": 61
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8450355529785156,
+            "Type": "PERSON",
+            "Text": "@CDZ_999",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.6619893312454224,
+            "Type": "QUANTITY",
+            "Text": "both",
+            "BeginOffset": 22,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.7548361420631409,
+            "Type": "QUANTITY",
+            "Text": "both",
+            "BeginOffset": 42,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9847499132156372,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 62,
+            "EndOffset": 66
+        }
+    ]
+}

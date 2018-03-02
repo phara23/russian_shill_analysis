@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8454223871231079,
+            "Type": "PERSON",
+            "Text": "@finneganLAT",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9929855465888977,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 54,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.9015867114067078,
+            "Type": "LOCATION",
+            "Text": "Sterling Heights, Michigan",
+            "BeginOffset": 63,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.998782217502594,
+            "Type": "OTHER",
+            "Text": "https://t.co/dSJwBOTIYf",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        }
+    ]
+}

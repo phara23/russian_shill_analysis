@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.875836193561554,
+            "Type": "PERSON",
+            "Text": "@HealthRanger",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.728416383266449,
+            "Type": "OTHER",
+            "Text": "Danish",
+            "BeginOffset": 18,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9186097979545593,
+            "Type": "OTHER",
+            "Text": "HPV",
+            "BeginOffset": 74,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9985180497169495,
+            "Type": "OTHER",
+            "Text": "https://t.co/nuQqQ1u0XZ",
+            "BeginOffset": 86,
+            "EndOffset": 109
+        }
+    ]
+}

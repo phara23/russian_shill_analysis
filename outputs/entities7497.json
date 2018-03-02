@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7521663904190063,
+            "Type": "PERSON",
+            "Text": "@beforeitsnews",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7810773253440857,
+            "Type": "QUANTITY",
+            "Text": "7.0",
+            "BeginOffset": 39,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9998400211334229,
+            "Type": "OTHER",
+            "Text": "https://t.co/07BMzFqWFn",
+            "BeginOffset": 82,
+            "EndOffset": 105
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9016690850257874,
+            "Type": "PERSON",
+            "Text": "@DerbyMedia",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8709397912025452,
+            "Type": "QUANTITY",
+            "Text": "first",
+            "BeginOffset": 46,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.45902132987976074,
+            "Type": "ORGANIZATION",
+            "Text": "@UofLFootball",
+            "BeginOffset": 52,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.6176804304122925,
+            "Type": "TITLE",
+            "Text": "Heisman trophy",
+            "BeginOffset": 66,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.6421664357185364,
+            "Type": "PERSON",
+            "Text": "Twin Spires",
+            "BeginOffset": 92,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.8509155511856079,
+            "Type": "PERSON",
+            "Text": "@ChurchillDowns",
+            "BeginOffset": 104,
+            "EndOffset": 119
+        }
+    ]
+}

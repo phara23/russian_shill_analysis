@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8409404158592224,
+            "Type": "PERSON",
+            "Text": "@CapeMayMeg",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.42840033769607544,
+            "Type": "PERSON",
+            "Text": "#Hillary",
+            "BeginOffset": 16,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9999507665634155,
+            "Type": "OTHER",
+            "Text": "https://t.co/V6YFRh1woi",
+            "BeginOffset": 52,
+            "EndOffset": 75
+        }
+    ]
+}

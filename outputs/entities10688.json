@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.42795538902282715,
+            "Type": "DATE",
+            "Text": "March",
+            "BeginOffset": 18,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.8652936816215515,
+            "Type": "LOCATION",
+            "Text": "North Carolina",
+            "BeginOffset": 50,
+            "EndOffset": 64
+        }
+    ]
+}

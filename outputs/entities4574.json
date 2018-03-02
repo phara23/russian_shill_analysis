@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5089110136032104,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.5836794376373291,
+            "Type": "PERSON",
+            "Text": "@USAforTrump",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9978273510932922,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 15,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.959921658039093,
+            "Type": "PERSON",
+            "Text": "HILLARY CAUGHT",
+            "BeginOffset": 31,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9947612881660461,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 72,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9999442100524902,
+            "Type": "OTHER",
+            "Text": "https://t.co/VWTsFziD5U",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        }
+    ]
+}

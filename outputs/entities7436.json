@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6680538654327393,
+            "Type": "ORGANIZATION",
+            "Text": "@latimes",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.7556352615356445,
+            "Type": "ORGANIZATION",
+            "Text": "@latimesopinion",
+            "BeginOffset": 69,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9999690055847168,
+            "Type": "OTHER",
+            "Text": "https://t.co/Uh31z5B4O3",
+            "BeginOffset": 87,
+            "EndOffset": 110
+        }
+    ]
+}

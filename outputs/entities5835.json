@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9871324896812439,
+            "Type": "QUANTITY",
+            "Text": "3 cops",
+            "BeginOffset": 39,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.918986976146698,
+            "Type": "ORGANIZATION",
+            "Text": "BLM",
+            "BeginOffset": 65,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.952401876449585,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 73,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.9996243715286255,
+            "Type": "OTHER",
+            "Text": "https://t.co/yxEaZQUXTr",
+            "BeginOffset": 104,
+            "EndOffset": 127
+        }
+    ]
+}

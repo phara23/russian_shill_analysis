@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9253979921340942,
+            "Type": "PERSON",
+            "Text": "@TalibKweli",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.6642730236053467,
+            "Type": "QUANTITY",
+            "Text": "2 show",
+            "BeginOffset": 51,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9942705631256104,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 70,
+            "EndOffset": 75
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9573363661766052,
+            "Type": "PERSON",
+            "Text": "@Jedi_Pite_Bre",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6562435626983643,
+            "Type": "ORGANIZATION",
+            "Text": "#CNN",
+            "BeginOffset": 19,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.7240448594093323,
+            "Type": "PERSON",
+            "Text": "#DonaldTrump",
+            "BeginOffset": 72,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9714942574501038,
+            "Type": "OTHER",
+            "Text": "https://t.co/XkzRy7tkSV",
+            "BeginOffset": 110,
+            "EndOffset": 133
+        }
+    ]
+}

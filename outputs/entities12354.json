@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8530253171920776,
+            "Type": "PERSON",
+            "Text": "@trueblacknews",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9989028573036194,
+            "Type": "PERSON",
+            "Text": "Bernie Sanders",
+            "BeginOffset": 19,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.7935642600059509,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 45,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9989673495292664,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 79,
+            "EndOffset": 94
+        }
+    ]
+}

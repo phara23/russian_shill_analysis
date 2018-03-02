@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8046736121177673,
+            "Type": "PERSON",
+            "Text": "@DeItaOne",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9387835264205933,
+            "Type": "ORGANIZATION",
+            "Text": "FACEBOOK",
+            "BeginOffset": 14,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.8713510036468506,
+            "Type": "QUANTITY",
+            "Text": "UP TO 1%",
+            "BeginOffset": 43,
+            "EndOffset": 51
+        }
+    ]
+}

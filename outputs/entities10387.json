@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9559844136238098,
+            "Type": "PERSON",
+            "Text": "@Fidelia_Gabor",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6233417987823486,
+            "Type": "LOCATION",
+            "Text": "Florida",
+            "BeginOffset": 19,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.90727698802948,
+            "Type": "LOCATION",
+            "Text": "Florida",
+            "BeginOffset": 42,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.968309223651886,
+            "Type": "PERSON",
+            "Text": "President Barack Obama",
+            "BeginOffset": 104,
+            "EndOffset": 126
+        }
+    ]
+}

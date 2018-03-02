@@ -1,0 +1,28 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9864029288291931,
+            "Text": "a must-read",
+            "BeginOffset": 8,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9993380904197693,
+            "Text": "Clinton",
+            "BeginOffset": 21,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9463224411010742,
+            "Text": "prison\nClinton",
+            "BeginOffset": 40,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9914066195487976,
+            "Text": "’s middle-class ride",
+            "BeginOffset": 54,
+            "EndOffset": 74
+        }
+    ]
+}

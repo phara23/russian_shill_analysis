@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8175817728042603,
+            "Type": "PERSON",
+            "Text": "@PhoenixNewsAZ",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8268719911575317,
+            "Type": "OTHER",
+            "Text": "Moroccan",
+            "BeginOffset": 44,
+            "EndOffset": 52
+        }
+    ]
+}

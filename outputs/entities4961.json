@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7512675523757935,
+            "Type": "PERSON",
+            "Text": "@HuffPostPol",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.5841464400291443,
+            "Type": "LOCATION",
+            "Text": "Iran",
+            "BeginOffset": 55,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.71636962890625,
+            "Type": "LOCATION",
+            "Text": "U.S.",
+            "BeginOffset": 67,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9998956918716431,
+            "Type": "OTHER",
+            "Text": "http://t.co/5bG6JKshoT",
+            "BeginOffset": 81,
+            "EndOffset": 103
+        }
+    ]
+}

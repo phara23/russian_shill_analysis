@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.712546169757843,
+            "Type": "PERSON",
+            "Text": "@WebCaptioning",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6154813170433044,
+            "Type": "LOCATION",
+            "Text": "Wisconsin",
+            "BeginOffset": 29,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.8921684622764587,
+            "Type": "ORGANIZATION",
+            "Text": "AFSCME",
+            "BeginOffset": 39,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.8522531986236572,
+            "Type": "LOCATION",
+            "Text": "Illinois",
+            "BeginOffset": 57,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9480515122413635,
+            "Type": "OTHER",
+            "Text": "https://t.co/SVw1vsf6uI",
+            "BeginOffset": 85,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.9442376494407654,
+            "Type": "PERSON",
+            "Text": "@realdonaldtrump",
+            "BeginOffset": 109,
+            "EndOffset": 125
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8002182841300964,
+            "Type": "PERSON",
+            "Text": "@citizenpolitic",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8577228784561157,
+            "Type": "PERSON",
+            "Text": "@amyschumer",
+            "BeginOffset": 37,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.971308708190918,
+            "Type": "PERSON",
+            "Text": "@SpikeLee",
+            "BeginOffset": 49,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9538460373878479,
+            "Type": "PERSON",
+            "Text": "@Rosie",
+            "BeginOffset": 59,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.8855377435684204,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 88,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9193454384803772,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 94,
+            "EndOffset": 110
+        }
+    ]
+}

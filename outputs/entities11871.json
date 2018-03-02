@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9895510077476501,
+            "Type": "PERSON",
+            "Text": "@Doctor_Hutch",
+            "BeginOffset": 0,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.944111704826355,
+            "Type": "ORGANIZATION",
+            "Text": "WADA",
+            "BeginOffset": 45,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.6648999452590942,
+            "Type": "OTHER",
+            "Text": "Russians",
+            "BeginOffset": 74,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.9999854564666748,
+            "Type": "OTHER",
+            "Text": "https://t.co/sBGo3VvRGs",
+            "BeginOffset": 116,
+            "EndOffset": 139
+        }
+    ]
+}

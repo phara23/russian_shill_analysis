@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9533832669258118,
+            "Type": "PERSON",
+            "Text": "@EJLandwehr",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9906098246574402,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 16,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.8876487612724304,
+            "Type": "ORGANIZATION",
+            "Text": "Boston Globe",
+            "BeginOffset": 82,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.9338164925575256,
+            "Type": "OTHER",
+            "Text": "https://t.co/7",
+            "BeginOffset": 125,
+            "EndOffset": 139
+        }
+    ]
+}

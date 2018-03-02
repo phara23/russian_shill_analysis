@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8292808532714844,
+            "Type": "PERSON",
+            "Text": "@go4marshall",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.5073655247688293,
+            "Type": "ORGANIZATION",
+            "Text": "ACLJ",
+            "BeginOffset": 20,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.8391405344009399,
+            "Type": "ORGANIZATION",
+            "Text": "AG\nLynch",
+            "BeginOffset": 44,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9976792335510254,
+            "Type": "PERSON",
+            "Text": "Bill Clinton",
+            "BeginOffset": 75,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.9570275545120239,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 98,
+            "EndOffset": 103
+        }
+    ]
+}

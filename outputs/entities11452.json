@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8382911086082458,
+            "Type": "PERSON",
+            "Text": "@zerohedge",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.6154906153678894,
+            "Type": "ORGANIZATION",
+            "Text": "Google",
+            "BeginOffset": 15,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9087233543395996,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 52,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.8873082995414734,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 61,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9999285936355591,
+            "Type": "OTHER",
+            "Text": "https://t.co/ySajB0KRBo",
+            "BeginOffset": 83,
+            "EndOffset": 106
+        }
+    ]
+}

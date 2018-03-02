@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8214558362960815,
+            "Type": "ORGANIZATION",
+            "Text": "@Conservative_VW",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8336294293403625,
+            "Type": "ORGANIZATION",
+            "Text": "@NFL",
+            "BeginOffset": 65,
+            "EndOffset": 69
+        }
+    ]
+}

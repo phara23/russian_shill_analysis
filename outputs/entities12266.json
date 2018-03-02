@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.926639199256897,
+            "Type": "PERSON",
+            "Text": "@tlamb775",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.6711293458938599,
+            "Type": "PERSON",
+            "Text": "@SenateGOP",
+            "BeginOffset": 18,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9688447713851929,
+            "Type": "PERSON",
+            "Text": "@PutinRF_Eng",
+            "BeginOffset": 29,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9023466110229492,
+            "Type": "PERSON",
+            "Text": "@pisorgpl",
+            "BeginOffset": 42,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9997832179069519,
+            "Type": "OTHER",
+            "Text": "https://t.co/oDNw7kVvfm",
+            "BeginOffset": 52,
+            "EndOffset": 75
+        }
+    ]
+}

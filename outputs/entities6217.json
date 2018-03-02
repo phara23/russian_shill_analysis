@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8672251105308533,
+            "Type": "ORGANIZATION",
+            "Text": "@CNN",
+            "BeginOffset": 3,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.7550961375236511,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 34,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9778012633323669,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 54,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9864128828048706,
+            "Type": "DATE",
+            "Text": "tonight",
+            "BeginOffset": 82,
+            "EndOffset": 89
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9186456203460693,
+            "Type": "PERSON",
+            "Text": "@aliakberhabib",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.991805911064148,
+            "Type": "PERSON",
+            "Text": "Michelle",
+            "BeginOffset": 35,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9832640886306763,
+            "Type": "QUANTITY",
+            "Text": "eight years",
+            "BeginOffset": 72,
+            "EndOffset": 83
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6916370391845703,
+            "Type": "PERSON",
+            "Text": "@amrightnow",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9783324003219604,
+            "Type": "PERSON",
+            "Text": "@realdonaldtrump",
+            "BeginOffset": 16,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9171115159988403,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 46,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9796991348266602,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 119,
+            "EndOffset": 123
+        }
+    ]
+}

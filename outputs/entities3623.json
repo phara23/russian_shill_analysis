@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8895784616470337,
+            "Type": "PERSON",
+            "Text": "@DaveBeCrazy",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9977120161056519,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 41,
+            "EndOffset": 48
+        }
+    ]
+}

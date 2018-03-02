@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8861333727836609,
+            "Type": "PERSON",
+            "Text": "@MarkAlmost",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.5286548733711243,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 16,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7934765815734863,
+            "Type": "PERSON",
+            "Text": "@jstines3",
+            "BeginOffset": 19,
+            "EndOffset": 28
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7942782044410706,
+            "Type": "PERSON",
+            "Text": "@SecureTheVote",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.33699262142181396,
+            "Type": "PERSON",
+            "Text": "#BobDylan",
+            "BeginOffset": 33,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.2383754402399063,
+            "Type": "ORGANIZATION",
+            "Text": "#Vietnam",
+            "BeginOffset": 79,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.6255202293395996,
+            "Type": "PERSON",
+            "Text": "#Obama",
+            "BeginOffset": 116,
+            "EndOffset": 122
+        }
+    ]
+}

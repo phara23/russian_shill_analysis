@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8514302372932434,
+            "Type": "ORGANIZATION",
+            "Text": "Grubhub",
+            "BeginOffset": 0,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.9778743386268616,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 48,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9086530804634094,
+            "Type": "OTHER",
+            "Text": "https://t.co/SU3y4G3YQs",
+            "BeginOffset": 54,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9999887943267822,
+            "Type": "OTHER",
+            "Text": "https://t.co/sS6ZGlKAeV",
+            "BeginOffset": 78,
+            "EndOffset": 101
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8452343940734863,
+            "Type": "PERSON",
+            "Text": "@Psalm62_8",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.904737651348114,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 15,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.7513585090637207,
+            "Type": "PERSON",
+            "Text": "@POTUS",
+            "BeginOffset": 31,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9939361214637756,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 38,
+            "EndOffset": 43
+        }
+    ]
+}

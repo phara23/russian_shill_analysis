@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8629884123802185,
+            "Type": "PERSON",
+            "Text": "@disspat",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9891942739486694,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 13,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9997460246086121,
+            "Type": "OTHER",
+            "Text": "https://t.co/CcAtyLfsU4",
+            "BeginOffset": 37,
+            "EndOffset": 60
+        }
+    ]
+}

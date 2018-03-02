@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9036419987678528,
+            "Type": "PERSON",
+            "Text": "@DanaGeezus",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7549952864646912,
+            "Type": "DATE",
+            "Text": "#2016",
+            "BeginOffset": 16,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.7589632272720337,
+            "Type": "QUANTITY",
+            "Text": "3Words",
+            "BeginOffset": 31,
+            "EndOffset": 37
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.82640540599823,
+            "Type": "PERSON",
+            "Text": "@RebColdRiver",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.6779713034629822,
+            "Type": "ORGANIZATION",
+            "Text": "@wearevsgoliath",
+            "BeginOffset": 79,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.9811286926269531,
+            "Type": "OTHER",
+            "Text": "https://t.co/XSsF",
+            "BeginOffset": 122,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.48226499557495117,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.7909107804298401,
+            "Type": "ORGANIZATION",
+            "Text": "@MMA_Beth",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9991520047187805,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 14,
+            "EndOffset": 29
+        }
+    ]
+}

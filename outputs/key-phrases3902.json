@@ -1,0 +1,40 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9947019219398499,
+            "Text": "People",
+            "BeginOffset": 0,
+            "EndOffset": 6
+        },
+        {
+            "Score": 0.9954625368118286,
+            "Text": "Trump",
+            "BeginOffset": 11,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8539525270462036,
+            "Text": "#CrookedHillary",
+            "BeginOffset": 18,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9869553446769714,
+            "Text": "false claims",
+            "BeginOffset": 43,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9861593246459961,
+            "Text": "racism",
+            "BeginOffset": 59,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.6391511559486389,
+            "Text": "2016\n#birtherism",
+            "BeginOffset": 80,
+            "EndOffset": 96
+        }
+    ]
+}

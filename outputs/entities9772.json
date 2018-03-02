@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8910068869590759,
+            "Type": "PERSON",
+            "Text": "@rlocker12",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9888001680374146,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 15,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.8561919331550598,
+            "Type": "LOCATION",
+            "Text": "Turkey",
+            "BeginOffset": 22,
+            "EndOffset": 28
+        }
+    ]
+}

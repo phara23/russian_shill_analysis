@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8659537434577942,
+            "Type": "PERSON",
+            "Text": "@VinnyTheBDB",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8317016959190369,
+            "Type": "PERSON",
+            "Text": "Sharknado",
+            "BeginOffset": 31,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.697827160358429,
+            "Type": "PERSON",
+            "Text": "Hurriclown",
+            "BeginOffset": 66,
+            "EndOffset": 76
+        }
+    ]
+}

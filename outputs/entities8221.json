@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8020696043968201,
+            "Type": "PERSON",
+            "Text": "@doubledittos",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9964215755462646,
+            "Type": "DATE",
+            "Text": "2017",
+            "BeginOffset": 68,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.9999291896820068,
+            "Type": "OTHER",
+            "Text": "https://t.co/59MpgHkqUi",
+            "BeginOffset": 73,
+            "EndOffset": 96
+        }
+    ]
+}

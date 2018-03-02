@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8024498224258423,
+            "Type": "PERSON",
+            "Text": "@Marcome",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.5760844945907593,
+            "Type": "ORGANIZATION",
+            "Text": "Blues",
+            "BeginOffset": 13,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9520547389984131,
+            "Type": "ORGANIZATION",
+            "Text": "Montreal General Hospital",
+            "BeginOffset": 79,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.9999475479125977,
+            "Type": "OTHER",
+            "Text": "https://t.co/Q55gJEC8lQ",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        }
+    ]
+}

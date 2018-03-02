@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8994694352149963,
+            "Type": "PERSON",
+            "Text": "@haaretzcom",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8562663197517395,
+            "Type": "LOCATION",
+            "Text": "Israel",
+            "BeginOffset": 42,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9104045033454895,
+            "Type": "LOCATION",
+            "Text": "Hebron",
+            "BeginOffset": 95,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.999902606010437,
+            "Type": "OTHER",
+            "Text": "https://t.co/qHxoxhSK5X",
+            "BeginOffset": 102,
+            "EndOffset": 125
+        }
+    ]
+}

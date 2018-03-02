@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6828532218933105,
+            "Type": "PERSON",
+            "Text": "@whoawhut",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9708898663520813,
+            "Type": "PERSON",
+            "Text": "@Preciosa_Liz",
+            "BeginOffset": 14,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9416157007217407,
+            "Type": "PERSON",
+            "Text": "@darksidedeb",
+            "BeginOffset": 28,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9017952084541321,
+            "Type": "PERSON",
+            "Text": "@funfrimeme",
+            "BeginOffset": 41,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9935709834098816,
+            "Type": "PERSON",
+            "Text": "@Yurmom31",
+            "BeginOffset": 53,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9791253209114075,
+            "Type": "PERSON",
+            "Text": "@Netjeretkhau",
+            "BeginOffset": 63,
+            "EndOffset": 76
+        }
+    ]
+}

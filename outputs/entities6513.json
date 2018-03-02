@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9156430959701538,
+            "Type": "PERSON",
+            "Text": "@NimbleNavgater",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8911393284797668,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 27,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.8247926831245422,
+            "Type": "ORGANIZATION",
+            "Text": "San Diego Rioters",
+            "BeginOffset": 61,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.9999661445617676,
+            "Type": "OTHER",
+            "Text": "https://t.co/9qA6gwSl9t",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

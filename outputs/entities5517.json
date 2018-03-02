@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8742420077323914,
+            "Type": "PERSON",
+            "Text": "@Dreamweasel",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9995459914207458,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 72,
+            "EndOffset": 87
+        }
+    ]
+}

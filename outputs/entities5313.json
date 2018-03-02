@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5090587735176086,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.9168487191200256,
+            "Type": "ORGANIZATION",
+            "Text": "@RT_America",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.40192878246307373,
+            "Type": "ORGANIZATION",
+            "Text": "#Obama",
+            "BeginOffset": 16,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.8051395416259766,
+            "Type": "ORGANIZATION",
+            "Text": "#TPP",
+            "BeginOffset": 40,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9908429384231567,
+            "Type": "ORGANIZATION",
+            "Text": "Congress",
+            "BeginOffset": 60,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.848579466342926,
+            "Type": "OTHER",
+            "Text": "https://t.co/zbckAeiBlE",
+            "BeginOffset": 94,
+            "EndOffset": 117
+        },
+        {
+            "Score": 0.9868113398551941,
+            "Type": "OTHER",
+            "Text": "https://t.co/NvRz9m5V",
+            "BeginOffset": 118,
+            "EndOffset": 139
+        }
+    ]
+}

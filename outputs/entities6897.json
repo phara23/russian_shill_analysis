@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8396888971328735,
+            "Type": "PERSON",
+            "Text": "@deray",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9999316930770874,
+            "Type": "OTHER",
+            "Text": "https://t.co/tPxUYTjvoC",
+            "BeginOffset": 62,
+            "EndOffset": 85
+        }
+    ]
+}

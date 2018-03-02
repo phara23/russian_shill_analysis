@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8174421191215515,
+            "Type": "PERSON",
+            "Text": "@GatestoneInst",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.2902640998363495,
+            "Type": "PERSON",
+            "Text": "#Turkey",
+            "BeginOffset": 36,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.20005035400390625,
+            "Type": "LOCATION",
+            "Text": "#Assyrians",
+            "BeginOffset": 61,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9404016733169556,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 107,
+            "EndOffset": 123
+        }
+    ]
+}

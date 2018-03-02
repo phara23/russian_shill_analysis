@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7469392418861389,
+            "Type": "PERSON",
+            "Text": "@Tombx7M",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9993606209754944,
+            "Type": "PERSON",
+            "Text": "Kellyanne Conway",
+            "BeginOffset": 13,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9985646605491638,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 50,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9996529817581177,
+            "Type": "OTHER",
+            "Text": "https://t.co/a9KZGr8gNA",
+            "BeginOffset": 116,
+            "EndOffset": 139
+        }
+    ]
+}

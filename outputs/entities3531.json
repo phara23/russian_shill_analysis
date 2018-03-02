@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.48927041888237,
+            "Type": "ORGANIZATION",
+            "Text": "Dems",
+            "BeginOffset": 25,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.5390253067016602,
+            "Type": "PERSON",
+            "Text": "#Trump",
+            "BeginOffset": 45,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.34767553210258484,
+            "Type": "ORGANIZATION",
+            "Text": "#Carson",
+            "BeginOffset": 58,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9710700511932373,
+            "Type": "DATE",
+            "Text": "today",
+            "BeginOffset": 115,
+            "EndOffset": 120
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7626706957817078,
+            "Type": "PERSON",
+            "Text": "@preciousliberty",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9913104772567749,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 35,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.8388665318489075,
+            "Type": "OTHER",
+            "Text": "https://t.co/U0oT8odMOB",
+            "BeginOffset": 48,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.538095235824585,
+            "Type": "ORGANIZATION",
+            "Text": "#BlacksForTrump",
+            "BeginOffset": 73,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9607532024383545,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 97,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.5241126418113708,
+            "Type": "ORGANIZATION",
+            "Text": "#BlackLivesMatter",
+            "BeginOffset": 103,
+            "EndOffset": 120
+        }
+    ]
+}

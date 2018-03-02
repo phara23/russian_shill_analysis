@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7612040638923645,
+            "Type": "LOCATION",
+            "Text": "Georgia",
+            "BeginOffset": 0,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.7914385199546814,
+            "Type": "QUANTITY",
+            "Text": "5Words",
+            "BeginOffset": 38,
+            "EndOffset": 44
+        }
+    ]
+}

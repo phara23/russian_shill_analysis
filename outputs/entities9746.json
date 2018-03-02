@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8503208160400391,
+            "Type": "PERSON",
+            "Text": "@StitchyPooh15",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9691196084022522,
+            "Type": "PERSON",
+            "Text": "Cruz",
+            "BeginOffset": 32,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9925508499145508,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 46,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9999911785125732,
+            "Type": "OTHER",
+            "Text": "https://t.co/m8EH64Jcq3",
+            "BeginOffset": 88,
+            "EndOffset": 111
+        }
+    ]
+}

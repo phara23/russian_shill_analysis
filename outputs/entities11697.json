@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7360847592353821,
+            "Type": "PERSON",
+            "Text": "@ConservativeMag",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.2192879319190979,
+            "Type": "LOCATION",
+            "Text": "Calais",
+            "BeginOffset": 21,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.8331307172775269,
+            "Type": "ORGANIZATION",
+            "Text": "Muslim",
+            "BeginOffset": 54,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9746612310409546,
+            "Type": "LOCATION",
+            "Text": "England",
+            "BeginOffset": 120,
+            "EndOffset": 127
+        }
+    ]
+}

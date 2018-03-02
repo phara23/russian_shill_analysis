@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6865202188491821,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.6907346248626709,
+            "Type": "PERSON",
+            "Text": "@CalFreedomMom",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8830275535583496,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 27,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.6536446213722229,
+            "Type": "PERSON",
+            "Text": "God",
+            "BeginOffset": 52,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9804414510726929,
+            "Type": "PERSON",
+            "Text": "Jesus Christ",
+            "BeginOffset": 73,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.9801121354103088,
+            "Type": "OTHER",
+            "Text": "https://t.co/NH2YXt9Vu9",
+            "BeginOffset": 93,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.34690073132514954,
+            "Type": "LOCATION",
+            "Text": "#RenewUS",
+            "BeginOffset": 117,
+            "EndOffset": 125
+        },
+        {
+            "Score": 0.5296903252601624,
+            "Type": "LOCATION",
+            "Text": "#PJNET",
+            "BeginOffset": 126,
+            "EndOffset": 132
+        }
+    ]
+}

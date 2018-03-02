@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8743444085121155,
+            "Type": "PERSON",
+            "Text": "@Upholding_Truth",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9137143492698669,
+            "Type": "PERSON",
+            "Text": "@TheValuesVoter",
+            "BeginOffset": 21,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.5265538096427917,
+            "Type": "ORGANIZATION",
+            "Text": "PP",
+            "BeginOffset": 54,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.5990180969238281,
+            "Type": "DATE",
+            "Text": "19484",
+            "BeginOffset": 73,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.999943733215332,
+            "Type": "OTHER",
+            "Text": "https://t.co/c0lV15NgsB",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        }
+    ]
+}

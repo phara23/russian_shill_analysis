@@ -1,0 +1,67 @@
+{
+    "Entities": [
+        {
+            "Score": 0.28392648696899414,
+            "Type": "PERSON",
+            "Text": "#AlJazeera",
+            "BeginOffset": 0,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.6695067286491394,
+            "Type": "ORGANIZATION",
+            "Text": "ISIL",
+            "BeginOffset": 17,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.6996645927429199,
+            "Type": "OTHER",
+            "Text": "Iraqi",
+            "BeginOffset": 42,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9886515736579895,
+            "Type": "LOCATION",
+            "Text": "Ramadi",
+            "BeginOffset": 60,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.7616664171218872,
+            "Type": "QUANTITY",
+            "Text": "At least 13 killed",
+            "BeginOffset": 68,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.2285866141319275,
+            "Type": "PERSON",
+            "Text": "Anb",
+            "BeginOffset": 90,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.9836876392364502,
+            "Type": "OTHER",
+            "Text": "https://t.co/zIpTwk3XBF",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.6782239079475403,
+            "Type": "ORGANIZATION",
+            "Text": "#UniteBlue",
+            "BeginOffset": 121,
+            "EndOffset": 131
+        },
+        {
+            "Score": 0.7135536074638367,
+            "Type": "ORGANIZATION",
+            "Text": "#Tcot",
+            "BeginOffset": 132,
+            "EndOffset": 137
+        }
+    ]
+}

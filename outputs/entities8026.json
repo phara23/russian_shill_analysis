@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6674659848213196,
+            "Type": "ORGANIZATION",
+            "Text": "@latimes",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9773863554000854,
+            "Type": "OTHER",
+            "Text": "http://t.co",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

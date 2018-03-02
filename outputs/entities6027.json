@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6882531046867371,
+            "Type": "PERSON",
+            "Text": "CLINTON INC",
+            "BeginOffset": 40,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9193557500839233,
+            "Type": "OTHER",
+            "Text": "https://t.co/6SqJjXQ4Qe",
+            "BeginOffset": 80,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.9998997449874878,
+            "Type": "OTHER",
+            "Text": "https://t.co/wXcqD7UOFi",
+            "BeginOffset": 104,
+            "EndOffset": 127
+        }
+    ]
+}

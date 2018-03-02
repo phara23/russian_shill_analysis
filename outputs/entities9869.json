@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8403995037078857,
+            "Type": "LOCATION",
+            "Text": "Ulster County",
+            "BeginOffset": 0,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.972291111946106,
+            "Type": "LOCATION",
+            "Text": "Paris",
+            "BeginOffset": 32,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9334374666213989,
+            "Type": "LOCATION",
+            "Text": "New York",
+            "BeginOffset": 49,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9797146916389465,
+            "Type": "LOCATION",
+            "Text": "NY",
+            "BeginOffset": 72,
+            "EndOffset": 74
+        }
+    ]
+}

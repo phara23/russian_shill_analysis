@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4443191587924957,
+            "Type": "OTHER",
+            "Text": "1063",
+            "BeginOffset": 4,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.4963840842247009,
+            "Type": "LOCATION",
+            "Text": "atl",
+            "BeginOffset": 8,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.7628954648971558,
+            "Type": "PERSON",
+            "Text": "Big Dre",
+            "BeginOffset": 26,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9905630946159363,
+            "Type": "PERSON",
+            "Text": "@bigdreatl",
+            "BeginOffset": 35,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.999984622001648,
+            "Type": "OTHER",
+            "Text": "https://t.co/eMX9JgTv3v",
+            "BeginOffset": 72,
+            "EndOffset": 95
+        }
+    ]
+}

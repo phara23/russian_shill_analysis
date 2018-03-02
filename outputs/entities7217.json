@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9655866026878357,
+            "Type": "PERSON",
+            "Text": "@J_M_Army",
+            "BeginOffset": 12,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.95794278383255,
+            "Type": "PERSON",
+            "Text": "@Innam0rament0",
+            "BeginOffset": 22,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9481328725814819,
+            "Type": "PERSON",
+            "Text": "@JennOnAir",
+            "BeginOffset": 37,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.7329410314559937,
+            "Type": "ORGANIZATION",
+            "Text": "@NBCNews",
+            "BeginOffset": 48,
+            "EndOffset": 56
+        }
+    ]
+}

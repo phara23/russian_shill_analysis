@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8957670331001282,
+            "Type": "PERSON",
+            "Text": "@SkippyMcGizzard",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8597811460494995,
+            "Type": "PERSON",
+            "Text": "George Michael",
+            "BeginOffset": 41,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9835041761398315,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 75,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.9998353719711304,
+            "Type": "OTHER",
+            "Text": "https://t.co/GIPuVHaDlg",
+            "BeginOffset": 80,
+            "EndOffset": 103
+        }
+    ]
+}

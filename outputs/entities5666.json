@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8843163251876831,
+            "Type": "PERSON",
+            "Text": "@CrimesMelan",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.49272873997688293,
+            "Type": "QUANTITY",
+            "Text": "2dey",
+            "BeginOffset": 57,
+            "EndOffset": 61
+        }
+    ]
+}

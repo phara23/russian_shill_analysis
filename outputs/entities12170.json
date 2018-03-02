@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9184901714324951,
+            "Type": "PERSON",
+            "Text": "@Hopeisalive66",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8909624218940735,
+            "Type": "PERSON",
+            "Text": "@Moondizog",
+            "BeginOffset": 19,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9814737439155579,
+            "Type": "PERSON",
+            "Text": "@sandyaschneider",
+            "BeginOffset": 30,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.5175192356109619,
+            "Type": "LOCATION",
+            "Text": "NYC",
+            "BeginOffset": 53,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.8741651773452759,
+            "Type": "PERSON",
+            "Text": "TRUMP",
+            "BeginOffset": 57,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.779640257358551,
+            "Type": "QUANTITY",
+            "Text": "50",
+            "BeginOffset": 122,
+            "EndOffset": 124
+        },
+        {
+            "Score": 0.9499370455741882,
+            "Type": "PERSON",
+            "Text": "TRUMP",
+            "BeginOffset": 136,
+            "EndOffset": 141
+        }
+    ]
+}

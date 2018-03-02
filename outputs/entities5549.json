@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9115614295005798,
+            "Type": "PERSON",
+            "Text": "@LoranaHoopes",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.684464693069458,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 18,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.9520611763000488,
+            "Type": "PERSON",
+            "Text": "@Lacy0902",
+            "BeginOffset": 21,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.6340221762657166,
+            "Type": "QUANTITY",
+            "Text": "2",
+            "BeginOffset": 69,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.5687994360923767,
+            "Type": "DATE",
+            "Text": "1776",
+            "BeginOffset": 107,
+            "EndOffset": 111
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9215176701545715,
+            "Type": "PERSON",
+            "Text": "@ringgoldsandra",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9759085178375244,
+            "Type": "DATE",
+            "Text": "2017",
+            "BeginOffset": 23,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.508954644203186,
+            "Type": "DATE",
+            "Text": "Mondays",
+            "BeginOffset": 55,
+            "EndOffset": 62
+        }
+    ]
+}

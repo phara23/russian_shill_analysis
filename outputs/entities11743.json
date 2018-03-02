@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7957473397254944,
+            "Type": "PERSON",
+            "Text": "@I_AmAmerica",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8440929055213928,
+            "Type": "LOCATION",
+            "Text": "California",
+            "BeginOffset": 22,
+            "EndOffset": 32
+        }
+    ]
+}

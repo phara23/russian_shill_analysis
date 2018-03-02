@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9688175320625305,
+            "Type": "PERSON",
+            "Text": "Venus Williams",
+            "BeginOffset": 0,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9999266862869263,
+            "Type": "OTHER",
+            "Text": "https://t.co/Q1MUH3yynl",
+            "BeginOffset": 48,
+            "EndOffset": 71
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9320055246353149,
+            "Type": "PERSON",
+            "Text": "@JasonMillerinDC",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9786471128463745,
+            "Type": "DATE",
+            "Text": "Today",
+            "BeginOffset": 21,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.8716935515403748,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 37,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9524897933006287,
+            "Type": "OTHER",
+            "Text": "https://t.co/GhN27m92Q4",
+            "BeginOffset": 66,
+            "EndOffset": 89
+        }
+    ]
+}

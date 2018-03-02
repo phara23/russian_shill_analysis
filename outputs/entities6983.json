@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7058709859848022,
+            "Type": "PERSON",
+            "Text": "@FiveRights",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9948093891143799,
+            "Type": "ORGANIZATION",
+            "Text": "FBI",
+            "BeginOffset": 20,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.797903299331665,
+            "Type": "DATE",
+            "Text": "After 8 yrs",
+            "BeginOffset": 50,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.4334487318992615,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 70,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.9769848585128784,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 73,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.7911055088043213,
+            "Type": "ORGANIZATION",
+            "Text": "WH",
+            "BeginOffset": 82,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.5844922065734863,
+            "Type": "ORGANIZATION",
+            "Text": "POTUS",
+            "BeginOffset": 99,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.9951693415641785,
+            "Type": "ORGANIZATION",
+            "Text": "FBI",
+            "BeginOffset": 119,
+            "EndOffset": 122
+        }
+    ]
+}

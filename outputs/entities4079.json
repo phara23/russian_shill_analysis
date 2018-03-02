@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6852574944496155,
+            "Type": "LOCATION",
+            "Text": "Russia",
+            "BeginOffset": 19,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.6230073571205139,
+            "Type": "QUANTITY",
+            "Text": "#2A",
+            "BeginOffset": 93,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.9996621608734131,
+            "Type": "OTHER",
+            "Text": "https://t.co/anGA8Fym4e",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        }
+    ]
+}

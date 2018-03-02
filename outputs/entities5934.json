@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7203415036201477,
+            "Type": "PERSON",
+            "Text": "@1kenwilson24",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8850898146629333,
+            "Type": "PERSON",
+            "Text": "@Shirleystopirs",
+            "BeginOffset": 18,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.8247408866882324,
+            "Type": "PERSON",
+            "Text": "@Change",
+            "BeginOffset": 34,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.8788880109786987,
+            "Type": "LOCATION",
+            "Text": "California",
+            "BeginOffset": 61,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9084767699241638,
+            "Type": "QUANTITY",
+            "Text": "billions of plants",
+            "BeginOffset": 85,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.9996193647384644,
+            "Type": "OTHER",
+            "Text": "https://t.co/NkZAPIwRqk",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9427449107170105,
+            "Type": "PERSON",
+            "Text": "@Aldrich420",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.738508939743042,
+            "Type": "PERSON",
+            "Text": "@smartgirls4",
+            "BeginOffset": 19,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.4455307424068451,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 36,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.8899267911911011,
+            "Type": "PERSON",
+            "Text": "@gcustomer99",
+            "BeginOffset": 39,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.44819051027297974,
+            "Type": "ORGANIZATION",
+            "Text": "#TedCruz",
+            "BeginOffset": 83,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.9057615995407104,
+            "Type": "OTHER",
+            "Text": "https://t.co/ZlG3D3MW52",
+            "BeginOffset": 110,
+            "EndOffset": 133
+        },
+        {
+            "Score": 0.6100798845291138,
+            "Type": "PERSON",
+            "Text": "#Cruz",
+            "BeginOffset": 134,
+            "EndOffset": 139
+        }
+    ]
+}

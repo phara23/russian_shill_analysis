@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8681920170783997,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.6564701795578003,
+            "Type": "ORGANIZATION",
+            "Text": "Russia",
+            "BeginOffset": 15,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.8095844984054565,
+            "Type": "LOCATION",
+            "Text": "Syria",
+            "BeginOffset": 44,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.8588184714317322,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 72,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.5565295219421387,
+            "Type": "ORGANIZATION",
+            "Text": "Russia",
+            "BeginOffset": 98,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.9919416904449463,
+            "Type": "OTHER",
+            "Text": "https://t.co/FMJBaD",
+            "BeginOffset": 120,
+            "EndOffset": 139
+        }
+    ]
+}

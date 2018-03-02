@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.866095781326294,
+            "Type": "PERSON",
+            "Text": "@Shegstein",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8814541697502136,
+            "Type": "PERSON",
+            "Text": "@Echecrates",
+            "BeginOffset": 25,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.933820366859436,
+            "Type": "DATE",
+            "Text": "this year",
+            "BeginOffset": 43,
+            "EndOffset": 52
+        }
+    ]
+}

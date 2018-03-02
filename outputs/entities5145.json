@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8630911707878113,
+            "Type": "PERSON",
+            "Text": "@HealthRanger",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.988807201385498,
+            "Type": "OTHER",
+            "Text": "https://t.co/yoxznTmt0R",
+            "BeginOffset": 80,
+            "EndOffset": 103
+        }
+    ]
+}

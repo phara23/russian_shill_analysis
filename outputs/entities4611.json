@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9055317044258118,
+            "Type": "PERSON",
+            "Text": "@theclobra",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9512190222740173,
+            "Type": "PERSON",
+            "Text": "@VitruvianMonkey",
+            "BeginOffset": 59,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.9765666127204895,
+            "Type": "PERSON",
+            "Text": "@batshake1",
+            "BeginOffset": 76,
+            "EndOffset": 86
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6267271041870117,
+            "Type": "LOCATION",
+            "Text": "American",
+            "BeginOffset": 40,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.8917280435562134,
+            "Type": "QUANTITY",
+            "Text": "fifty guns",
+            "BeginOffset": 100,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.6500803232192993,
+            "Type": "QUANTITY",
+            "Text": "4NY",
+            "BeginOffset": 134,
+            "EndOffset": 137
+        }
+    ]
+}

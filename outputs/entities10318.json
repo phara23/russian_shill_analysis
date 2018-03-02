@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7032359838485718,
+            "Type": "PERSON",
+            "Text": "@mgallops",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9586566686630249,
+            "Type": "OTHER",
+            "Text": "https://t.co/MaTUIVXs0H",
+            "BeginOffset": 42,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.8874843120574951,
+            "Type": "PERSON",
+            "Text": "@njstatelibrary",
+            "BeginOffset": 78,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.967261552810669,
+            "Type": "PERSON",
+            "Text": "@ornibird",
+            "BeginOffset": 94,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.968166172504425,
+            "Type": "PERSON",
+            "Text": "@pakistanmdtf",
+            "BeginOffset": 104,
+            "EndOffset": 117
+        }
+    ]
+}

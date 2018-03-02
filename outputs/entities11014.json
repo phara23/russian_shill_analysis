@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9454391598701477,
+            "Type": "PERSON",
+            "Text": "@jacobsrubin",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9727669954299927,
+            "Type": "TITLE",
+            "Text": "Rogue One",
+            "BeginOffset": 35,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9028192162513733,
+            "Type": "TITLE",
+            "Text": "A New Hope",
+            "BeginOffset": 108,
+            "EndOffset": 118
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8974474668502808,
+            "Type": "PERSON",
+            "Text": "@TrumpTrainNewss",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9822038412094116,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 64,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9217410683631897,
+            "Type": "OTHER",
+            "Text": "https://t.co/SZOATlUeNy",
+            "BeginOffset": 70,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.9998642206192017,
+            "Type": "OTHER",
+            "Text": "https://t.co/pMaayaLuku",
+            "BeginOffset": 94,
+            "EndOffset": 117
+        }
+    ]
+}

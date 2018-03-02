@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7652224898338318,
+            "Type": "PERSON",
+            "Text": "@retiredfirecapt",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.7921764254570007,
+            "Type": "PERSON",
+            "Text": "@KLSouth",
+            "BeginOffset": 22,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9438952803611755,
+            "Type": "PERSON",
+            "Text": "@GulfDogs",
+            "BeginOffset": 31,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9022059440612793,
+            "Type": "PERSON",
+            "Text": "@nflcommish",
+            "BeginOffset": 41,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.692699670791626,
+            "Type": "PERSON",
+            "Text": "@NFL",
+            "BeginOffset": 53,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.5200603604316711,
+            "Type": "ORGANIZATION",
+            "Text": "#NFL",
+            "BeginOffset": 73,
+            "EndOffset": 77
+        }
+    ]
+}

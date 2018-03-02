@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9231007695198059,
+            "Type": "PERSON",
+            "Text": "@ezbiz",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9489637613296509,
+            "Type": "PERSON",
+            "Text": "TRUMP",
+            "BeginOffset": 109,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.9769913554191589,
+            "Type": "OTHER",
+            "Text": "https://t.co",
+            "BeginOffset": 127,
+            "EndOffset": 139
+        }
+    ]
+}

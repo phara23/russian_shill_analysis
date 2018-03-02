@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8742148280143738,
+            "Type": "PERSON",
+            "Text": "@AzieDee",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9422513246536255,
+            "Type": "TITLE",
+            "Text": "Bible",
+            "BeginOffset": 77,
+            "EndOffset": 82
+        }
+    ]
+}

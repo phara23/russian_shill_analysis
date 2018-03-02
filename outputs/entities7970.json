@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9261059761047363,
+            "Type": "PERSON",
+            "Text": "@dejavuskye",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9423385262489319,
+            "Type": "PERSON",
+            "Text": "@MsMaxwell6",
+            "BeginOffset": 16,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.999976634979248,
+            "Type": "OTHER",
+            "Text": "https://t.co/1RL4RZNFhA",
+            "BeginOffset": 28,
+            "EndOffset": 51
+        }
+    ]
+}

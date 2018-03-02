@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9179257750511169,
+            "Type": "PERSON",
+            "Text": "@sdv92",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.4452827274799347,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 11,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8331116437911987,
+            "Type": "ORGANIZATION",
+            "Text": "@TPPatriots",
+            "BeginOffset": 14,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.8405335545539856,
+            "Type": "OTHER",
+            "Text": "https://t.co/kotnlE7Ne5",
+            "BeginOffset": 111,
+            "EndOffset": 134
+        },
+        {
+            "Score": 0.3333852291107178,
+            "Type": "PERSON",
+            "Text": "#Rei",
+            "BeginOffset": 135,
+            "EndOffset": 139
+        }
+    ]
+}

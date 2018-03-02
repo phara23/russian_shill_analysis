@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9220367074012756,
+            "Type": "PERSON",
+            "Text": "@ToughLeia",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9946128129959106,
+            "Type": "PERSON",
+            "Text": "Ben",
+            "BeginOffset": 15,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9249023795127869,
+            "Type": "QUANTITY",
+            "Text": "two kitchen cupboards",
+            "BeginOffset": 94,
+            "EndOffset": 115
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7847214341163635,
+            "Type": "PERSON",
+            "Text": "Neue Randale - Hamburger",
+            "BeginOffset": 0,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9715419411659241,
+            "Type": "DATE",
+            "Text": "2017",
+            "BeginOffset": 99,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.9998397827148438,
+            "Type": "OTHER",
+            "Text": "https://t.co/vgkBmtXtKg",
+            "BeginOffset": 115,
+            "EndOffset": 138
+        }
+    ]
+}

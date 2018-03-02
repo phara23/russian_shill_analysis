@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.870461106300354,
+            "Type": "PERSON",
+            "Text": "@kharyp",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.8401432633399963,
+            "Type": "PERSON",
+            "Text": "#Trump",
+            "BeginOffset": 47,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9098479747772217,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 59,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.929129421710968,
+            "Type": "OTHER",
+            "Text": "https://t.co/G8JNrPI8S6",
+            "BeginOffset": 92,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.4480416178703308,
+            "Type": "PERSON",
+            "Text": "#GhazalaKhan",
+            "BeginOffset": 116,
+            "EndOffset": 128
+        },
+        {
+            "Score": 0.6681930422782898,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 129,
+            "EndOffset": 138
+        }
+    ]
+}

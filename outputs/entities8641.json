@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9031553864479065,
+            "Type": "PERSON",
+            "Text": "@TeamTrump",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.821338951587677,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 23,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9970182180404663,
+            "Type": "ORGANIZATION",
+            "Text": "FBI",
+            "BeginOffset": 52,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9516733884811401,
+            "Type": "ORGANIZATION",
+            "Text": "Republicans",
+            "BeginOffset": 100,
+            "EndOffset": 111
+        },
+        {
+            "Score": 0.9999309778213501,
+            "Type": "OTHER",
+            "Text": "https://t.co/YYQUDexbvl",
+            "BeginOffset": 112,
+            "EndOffset": 135
+        }
+    ]
+}

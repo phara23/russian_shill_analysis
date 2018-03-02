@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7917324900627136,
+            "Type": "PERSON",
+            "Text": "@LouDobbs",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.3936992883682251,
+            "Type": "ORGANIZATION",
+            "Text": "#LDTPoll",
+            "BeginOffset": 14,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9910535216331482,
+            "Type": "DATE",
+            "Text": "Sunday",
+            "BeginOffset": 26,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.8927791714668274,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 60,
+            "EndOffset": 76
+        }
+    ]
+}

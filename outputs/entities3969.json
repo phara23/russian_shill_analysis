@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8351058959960938,
+            "Type": "ORGANIZATION",
+            "Text": "@Reuters",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9896755814552307,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 13,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.749021589756012,
+            "Type": "ORGANIZATION",
+            "Text": "White House",
+            "BeginOffset": 60,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9999772310256958,
+            "Type": "OTHER",
+            "Text": "https://t.co/6a7s7Gt2NP",
+            "BeginOffset": 72,
+            "EndOffset": 95
+        }
+    ]
+}

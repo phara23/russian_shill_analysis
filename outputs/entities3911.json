@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8430794477462769,
+            "Type": "PERSON",
+            "Text": "@LessGovMoreFun",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.47858694195747375,
+            "Type": "LOCATION",
+            "Text": "#America",
+            "BeginOffset": 22,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9019080400466919,
+            "Type": "OTHER",
+            "Text": "https://t.co/zPv3IeiVrk",
+            "BeginOffset": 67,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9999605417251587,
+            "Type": "OTHER",
+            "Text": "https://t.co/fdzO3BIHPt",
+            "BeginOffset": 91,
+            "EndOffset": 114
+        }
+    ]
+}

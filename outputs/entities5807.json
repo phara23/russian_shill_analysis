@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8691191673278809,
+            "Type": "PERSON",
+            "Text": "@MichelleKOrts10",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.7735661268234253,
+            "Type": "ORGANIZATION",
+            "Text": "#CNN",
+            "BeginOffset": 21,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9864066243171692,
+            "Type": "ORGANIZATION",
+            "Text": "youtube",
+            "BeginOffset": 74,
+            "EndOffset": 81
+        }
+    ]
+}

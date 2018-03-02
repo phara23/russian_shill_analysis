@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.842035710811615,
+            "Type": "PERSON",
+            "Text": "@AmericanIndian8",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.7670040726661682,
+            "Type": "ORGANIZATION",
+            "Text": "Standing Rock Sioux Tribe",
+            "BeginOffset": 46,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9826456308364868,
+            "Type": "OTHER",
+            "Text": "https://t.co/CzlAYDemKI",
+            "BeginOffset": 109,
+            "EndOffset": 132
+        }
+    ]
+}

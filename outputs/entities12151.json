@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7516862154006958,
+            "Type": "PERSON",
+            "Text": "@BuckInEars",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.5438462495803833,
+            "Type": "DATE",
+            "Text": "#2017",
+            "BeginOffset": 16,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9998844861984253,
+            "Type": "OTHER",
+            "Text": "https://t.co/j2RUFVlVpq",
+            "BeginOffset": 67,
+            "EndOffset": 90
+        }
+    ]
+}

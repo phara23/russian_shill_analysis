@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9666890501976013,
+            "Type": "PERSON",
+            "Text": "@Johnnyv78",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8767979145050049,
+            "Type": "PERSON",
+            "Text": "@AceMackMW",
+            "BeginOffset": 15,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9931679368019104,
+            "Type": "PERSON",
+            "Text": "@KimberleyMonari",
+            "BeginOffset": 26,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9785115122795105,
+            "Type": "PERSON",
+            "Text": "@Drake",
+            "BeginOffset": 43,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.7646269798278809,
+            "Type": "ORGANIZATION",
+            "Text": "@Spotify",
+            "BeginOffset": 50,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.8331886529922485,
+            "Type": "PERSON",
+            "Text": "@welcomeOVO",
+            "BeginOffset": 59,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.8012111783027649,
+            "Type": "ORGANIZATION",
+            "Text": "@UMG",
+            "BeginOffset": 71,
+            "EndOffset": 75
+        }
+    ]
+}

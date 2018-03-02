@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9498506188392639,
+            "Type": "PERSON",
+            "Text": "@cbatson941",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.5954197645187378,
+            "Type": "LOCATION",
+            "Text": "AMERICA",
+            "BeginOffset": 55,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9999713897705078,
+            "Type": "OTHER",
+            "Text": "https://t.co/f4fXEXbJBL",
+            "BeginOffset": 95,
+            "EndOffset": 118
+        }
+    ]
+}

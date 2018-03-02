@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9351109266281128,
+            "Type": "PERSON",
+            "Text": "@DanScavino",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8778912425041199,
+            "Type": "ORGANIZATION",
+            "Text": "FISA",
+            "BeginOffset": 16,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.907704770565033,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 29,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9999864101409912,
+            "Type": "OTHER",
+            "Text": "https://t.co/WTg9iq35on",
+            "BeginOffset": 41,
+            "EndOffset": 64
+        }
+    ]
+}

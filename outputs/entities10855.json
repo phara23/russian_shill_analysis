@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9511356353759766,
+            "Type": "PERSON",
+            "Text": "@TrumpVsHilary",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8360521793365479,
+            "Type": "ORGANIZATION",
+            "Text": "FoxNews",
+            "BeginOffset": 19,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.7729055881500244,
+            "Type": "DATE",
+            "Text": "last 7.5 yrs",
+            "BeginOffset": 80,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.6233929991722107,
+            "Type": "PERSON",
+            "Text": "Obamas",
+            "BeginOffset": 96,
+            "EndOffset": 102
+        }
+    ]
+}

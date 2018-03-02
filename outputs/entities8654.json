@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8145894408226013,
+            "Type": "PERSON",
+            "Text": "@Godly_Life",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.5202985405921936,
+            "Type": "PERSON",
+            "Text": "Luke",
+            "BeginOffset": 55,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.8836420774459839,
+            "Type": "QUANTITY",
+            "Text": "11.9",
+            "BeginOffset": 60,
+            "EndOffset": 64
+        }
+    ]
+}

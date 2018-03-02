@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8680463433265686,
+            "Type": "PERSON",
+            "Text": "@dlyhlpodcast",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9903870820999146,
+            "Type": "PERSON",
+            "Text": "Tom King",
+            "BeginOffset": 35,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.8881542682647705,
+            "Type": "PERSON",
+            "Text": "@That_King_Thing",
+            "BeginOffset": 47,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.8692225813865662,
+            "Type": "OTHER",
+            "Text": "https://t.co/w",
+            "BeginOffset": 125,
+            "EndOffset": 139
+        }
+    ]
+}

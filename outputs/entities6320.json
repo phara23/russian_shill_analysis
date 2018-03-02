@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9250749945640564,
+            "Type": "PERSON",
+            "Text": "@sydurbanek",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9957869052886963,
+            "Type": "PERSON",
+            "Text": "Natasha Stoynoff",
+            "BeginOffset": 16,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.6434953808784485,
+            "Type": "QUANTITY",
+            "Text": "one",
+            "BeginOffset": 41,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.3694837987422943,
+            "Type": "ORGANIZATION",
+            "Text": "ELEVEN",
+            "BeginOffset": 48,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9775252938270569,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 116,
+            "EndOffset": 121
+        },
+        {
+            "Score": 0.9791492819786072,
+            "Type": "DATE",
+            "Text": "today",
+            "BeginOffset": 122,
+            "EndOffset": 127
+        }
+    ]
+}

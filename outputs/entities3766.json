@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.902163028717041,
+            "Type": "PERSON",
+            "Text": "@BostonForTrump",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9936046600341797,
+            "Type": "PERSON",
+            "Text": "Larry Elder",
+            "BeginOffset": 20,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.4801151156425476,
+            "Type": "EVENT",
+            "Text": "Oscars",
+            "BeginOffset": 37,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9998384714126587,
+            "Type": "OTHER",
+            "Text": "https://t.co/nhDVkeb8DE",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        }
+    ]
+}

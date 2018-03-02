@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5013411641120911,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.9354973435401917,
+            "Type": "PERSON",
+            "Text": "@aka_Mick",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.6900866627693176,
+            "Type": "ORGANIZATION",
+            "Text": "Radical Muslims",
+            "BeginOffset": 14,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.995804488658905,
+            "Type": "OTHER",
+            "Text": "https://t.co/nawYAfhkeg",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        }
+    ]
+}

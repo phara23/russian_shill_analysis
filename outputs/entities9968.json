@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9615460634231567,
+            "Type": "PERSON",
+            "Text": "@JasonStokley076",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.844772458076477,
+            "Type": "QUANTITY",
+            "Text": "four words",
+            "BeginOffset": 31,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.7374008893966675,
+            "Type": "DATE",
+            "Text": "#2016",
+            "BeginOffset": 62,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.8734314441680908,
+            "Type": "QUANTITY",
+            "Text": "4Words",
+            "BeginOffset": 69,
+            "EndOffset": 75
+        }
+    ]
+}

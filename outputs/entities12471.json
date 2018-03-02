@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8773992657661438,
+            "Type": "PERSON",
+            "Text": "@DanaHoule",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.5571720004081726,
+            "Type": "QUANTITY",
+            "Text": "15",
+            "BeginOffset": 15,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9004732370376587,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 122,
+            "EndOffset": 125
+        }
+    ]
+}

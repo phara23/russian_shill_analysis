@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7174604535102844,
+            "Type": "ORGANIZATION",
+            "Text": "@V103",
+            "BeginOffset": 3,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.31609201431274414,
+            "Type": "ORGANIZATION",
+            "Text": "Bari",
+            "BeginOffset": 35,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9997965693473816,
+            "Type": "OTHER",
+            "Text": "https://t.co/GESsGnUpZZ",
+            "BeginOffset": 83,
+            "EndOffset": 106
+        }
+    ]
+}

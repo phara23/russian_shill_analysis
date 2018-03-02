@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8216062188148499,
+            "Type": "PERSON",
+            "Text": "@TheDemocrats",
+            "BeginOffset": 0,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9759727716445923,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 43,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9136613011360168,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 69,
+            "EndOffset": 85
+        }
+    ]
+}

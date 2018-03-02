@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9061232805252075,
+            "Type": "PERSON",
+            "Text": "@lilachbullock",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9197103381156921,
+            "Type": "OTHER",
+            "Text": "https://t.co/IC5hmmAb5H",
+            "BeginOffset": 89,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.9413190484046936,
+            "Type": "OTHER",
+            "Text": "https://t.co/qNPo",
+            "BeginOffset": 126,
+            "EndOffset": 143
+        }
+    ]
+}

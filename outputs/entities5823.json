@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8675538301467896,
+            "Type": "PERSON",
+            "Text": "@TelcoJ",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9548653960227966,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 18,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9458488821983337,
+            "Type": "LOCATION",
+            "Text": "Chicago",
+            "BeginOffset": 64,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.8756021857261658,
+            "Type": "ORGANIZATION",
+            "Text": "WGN",
+            "BeginOffset": 74,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.6143893599510193,
+            "Type": "ORGANIZATION",
+            "Text": "RedState",
+            "BeginOffset": 80,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9998925924301147,
+            "Type": "OTHER",
+            "Text": "https://t.co/u2eEOraGFO",
+            "BeginOffset": 89,
+            "EndOffset": 112
+        }
+    ]
+}

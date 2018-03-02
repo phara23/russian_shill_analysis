@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8900837302207947,
+            "Type": "PERSON",
+            "Text": "@ameliapisapia",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9779981374740601,
+            "Type": "LOCATION",
+            "Text": "NYC",
+            "BeginOffset": 30,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9999682903289795,
+            "Type": "OTHER",
+            "Text": "https://t.co/Ig0AY3gi29",
+            "BeginOffset": 88,
+            "EndOffset": 111
+        }
+    ]
+}

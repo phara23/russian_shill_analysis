@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9348317384719849,
+            "Type": "PERSON",
+            "Text": "@rashawnleo91",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.6806343197822571,
+            "Type": "DATE",
+            "Text": "#2016",
+            "BeginOffset": 18,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9246492981910706,
+            "Type": "QUANTITY",
+            "Text": "4Words",
+            "BeginOffset": 25,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9998840093612671,
+            "Type": "OTHER",
+            "Text": "https://t.co/LEJ6EU6tOE",
+            "BeginOffset": 53,
+            "EndOffset": 76
+        }
+    ]
+}

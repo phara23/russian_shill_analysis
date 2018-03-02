@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7078532576560974,
+            "Type": "PERSON",
+            "Text": "@thedailybeast",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9973818063735962,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 19,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.91007399559021,
+            "Type": "OTHER",
+            "Text": "https://t.co/OvT0aEebjN",
+            "BeginOffset": 69,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.9999964237213135,
+            "Type": "OTHER",
+            "Text": "https://t.co/Vp0ibD7M5g",
+            "BeginOffset": 93,
+            "EndOffset": 116
+        }
+    ]
+}

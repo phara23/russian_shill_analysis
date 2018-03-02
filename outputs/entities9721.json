@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8366169333457947,
+            "Type": "PERSON",
+            "Text": "@Spacedoves3",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9357630610466003,
+            "Type": "PERSON",
+            "Text": "@DavidCayJ",
+            "BeginOffset": 17,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9798681139945984,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 65,
+            "EndOffset": 70
+        }
+    ]
+}

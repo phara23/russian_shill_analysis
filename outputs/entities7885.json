@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8585545420646667,
+            "Type": "PERSON",
+            "Text": "@Always_Trump",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9838123917579651,
+            "Type": "ORGANIZATION",
+            "Text": "CNN",
+            "BeginOffset": 18,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.957205057144165,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 28,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.29175758361816406,
+            "Type": "LOCATION",
+            "Text": "#Chelsea",
+            "BeginOffset": 71,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.910144031047821,
+            "Type": "OTHER",
+            "Text": "https://t.co/IQUhTBO4W7",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        },
+        {
+            "Score": 0.8469710946083069,
+            "Type": "OTHER",
+            "Text": "https://…",
+            "BeginOffset": 129,
+            "EndOffset": 138
+        }
+    ]
+}

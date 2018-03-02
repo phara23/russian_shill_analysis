@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6151734590530396,
+            "Type": "PERSON",
+            "Text": "Boos",
+            "BeginOffset": 50,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.6606637835502625,
+            "Type": "ORGANIZATION",
+            "Text": "Pence Rally",
+            "BeginOffset": 58,
+            "EndOffset": 69
+        }
+    ]
+}

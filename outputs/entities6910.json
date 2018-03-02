@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.48654764890670776,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.9103004932403564,
+            "Type": "ORGANIZATION",
+            "Text": "@Reuters",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9788182973861694,
+            "Type": "PERSON",
+            "Text": "Kerry",
+            "BeginOffset": 32,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.8896260857582092,
+            "Type": "OTHER",
+            "Text": "http://t.co/Bnx7sMYhkA",
+            "BeginOffset": 62,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9999629259109497,
+            "Type": "OTHER",
+            "Text": "http://t.co/vdK5Mfl2ub",
+            "BeginOffset": 85,
+            "EndOffset": 107
+        }
+    ]
+}

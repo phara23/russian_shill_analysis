@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8520688414573669,
+            "Type": "PERSON",
+            "Text": "@iluvscoops",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.6676986217498779,
+            "Type": "ORGANIZATION",
+            "Text": "Christian",
+            "BeginOffset": 31,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9994587302207947,
+            "Type": "PERSON",
+            "Text": "Lillian Duncan",
+            "BeginOffset": 48,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9821406602859497,
+            "Type": "OTHER",
+            "Text": "https://t.co/RjjS43E99Z",
+            "BeginOffset": 116,
+            "EndOffset": 139
+        }
+    ]
+}

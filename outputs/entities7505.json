@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8448399901390076,
+            "Type": "PERSON",
+            "Text": "@SXMUrbanView",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7868062257766724,
+            "Type": "PERSON",
+            "Text": "@OfLincoln",
+            "BeginOffset": 43,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9034507274627686,
+            "Type": "PERSON",
+            "Text": "@karenhunter",
+            "BeginOffset": 54,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.5801975131034851,
+            "Type": "LOCATION",
+            "Text": "#Virginia",
+            "BeginOffset": 83,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.6543289422988892,
+            "Type": "LOCATION",
+            "Text": "#VA",
+            "BeginOffset": 93,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.9639041423797607,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 126,
+            "EndOffset": 130
+        }
+    ]
+}

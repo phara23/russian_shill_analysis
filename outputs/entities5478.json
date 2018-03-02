@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7628186345100403,
+            "Type": "PERSON",
+            "Text": "@SavageNation",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9536704421043396,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 62,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9450586438179016,
+            "Type": "OTHER",
+            "Text": "https://t.co/aDRAzpi706",
+            "BeginOffset": 70,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.9999350309371948,
+            "Type": "OTHER",
+            "Text": "https://t.co/nzNlYtoO7H",
+            "BeginOffset": 94,
+            "EndOffset": 117
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9148906469345093,
+            "Type": "QUANTITY",
+            "Text": "Two new polls",
+            "BeginOffset": 0,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9950994849205017,
+            "Type": "LOCATION",
+            "Text": "Ohio",
+            "BeginOffset": 45,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9998875260353088,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 58,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9990521669387817,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 75,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.7097460627555847,
+            "Type": "OTHER",
+            "Text": "https://t.co/dud5u3sjWe",
+            "BeginOffset": 91,
+            "EndOffset": 114
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7875682711601257,
+            "Type": "EVENT",
+            "Text": "Thanksgiving",
+            "BeginOffset": 0,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9980327486991882,
+            "Type": "DATE",
+            "Text": "Thursday",
+            "BeginOffset": 16,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.6703730225563049,
+            "Type": "QUANTITY",
+            "Text": "5Words",
+            "BeginOffset": 52,
+            "EndOffset": 58
+        }
+    ]
+}

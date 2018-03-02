@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8751306533813477,
+            "Type": "PERSON",
+            "Text": "@Cailin4Assange",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9693386554718018,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 43,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9994451403617859,
+            "Type": "PERSON",
+            "Text": "Michael Moore",
+            "BeginOffset": 67,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.9635615944862366,
+            "Type": "OTHER",
+            "Text": "https://t.co/3",
+            "BeginOffset": 125,
+            "EndOffset": 139
+        }
+    ]
+}

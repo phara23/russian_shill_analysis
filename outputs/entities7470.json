@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8238304257392883,
+            "Type": "PERSON",
+            "Text": "@chiefplan1",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9998070001602173,
+            "Type": "PERSON",
+            "Text": "Frank Zappa",
+            "BeginOffset": 31,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.6821596026420593,
+            "Type": "QUANTITY",
+            "Text": "76 today",
+            "BeginOffset": 65,
+            "EndOffset": 73
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7645831108093262,
+            "Type": "PERSON",
+            "Text": "@ProWrestlingMag",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.6461284160614014,
+            "Type": "ORGANIZATION",
+            "Text": "HBK",
+            "BeginOffset": 24,
+            "EndOffset": 27
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.931474506855011,
+            "Type": "PERSON",
+            "Text": "@selorm_romeo",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.892508864402771,
+            "Type": "ORGANIZATION",
+            "Text": "Government of Ghana",
+            "BeginOffset": 18,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9899808764457703,
+            "Type": "PERSON",
+            "Text": "Presi",
+            "BeginOffset": 134,
+            "EndOffset": 139
+        }
+    ]
+}

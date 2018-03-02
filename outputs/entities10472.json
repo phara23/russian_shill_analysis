@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7483009696006775,
+            "Type": "PERSON",
+            "Text": "@tpartynews",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9991381168365479,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 16,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9913824200630188,
+            "Type": "QUANTITY",
+            "Text": "68 years",
+            "BeginOffset": 58,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9994028210639954,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 84,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.9998127818107605,
+            "Type": "OTHER",
+            "Text": "https://t.co/zACo7eCqLo",
+            "BeginOffset": 115,
+            "EndOffset": 138
+        }
+    ]
+}

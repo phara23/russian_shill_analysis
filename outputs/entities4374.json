@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.773244321346283,
+            "Type": "PERSON",
+            "Text": "@HollywoodLife",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.953099250793457,
+            "Type": "PERSON",
+            "Text": "Missy Elliott",
+            "BeginOffset": 19,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.8653708100318909,
+            "Type": "TITLE",
+            "Text": "I’m Better’ With Epic Video &amp; Announces New Doc",
+            "BeginOffset": 49,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.9998695850372314,
+            "Type": "OTHER",
+            "Text": "https://t.co/cygV3HfiNN",
+            "BeginOffset": 109,
+            "EndOffset": 132
+        }
+    ]
+}

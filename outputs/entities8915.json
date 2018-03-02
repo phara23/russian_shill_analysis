@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7984336018562317,
+            "Type": "PERSON",
+            "Text": "@RealNinjetta",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.873504102230072,
+            "Type": "PERSON",
+            "Text": "@markfromalbany",
+            "BeginOffset": 18,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.8572562336921692,
+            "Type": "PERSON",
+            "Text": "@rc_randall",
+            "BeginOffset": 34,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.991152822971344,
+            "Type": "PERSON",
+            "Text": "@steph93065",
+            "BeginOffset": 46,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9966270327568054,
+            "Type": "PERSON",
+            "Text": "@Marble300",
+            "BeginOffset": 58,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9878096580505371,
+            "Type": "PERSON",
+            "Text": "@KathyLittle18",
+            "BeginOffset": 69,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.9701758027076721,
+            "Type": "QUANTITY",
+            "Text": "100 year",
+            "BeginOffset": 105,
+            "EndOffset": 113
+        }
+    ]
+}

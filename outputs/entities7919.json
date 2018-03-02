@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9545722603797913,
+            "Type": "PERSON",
+            "Text": "@GregJaye",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.45393106341362,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 14,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.694385290145874,
+            "Type": "PERSON",
+            "Text": "@kingattax",
+            "BeginOffset": 17,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.4649645686149597,
+            "Type": "ORGANIZATION",
+            "Text": "#SouthCarolina",
+            "BeginOffset": 29,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.7846432328224182,
+            "Type": "PERSON",
+            "Text": "@TedCruz",
+            "BeginOffset": 47,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9645184278488159,
+            "Type": "OTHER",
+            "Text": "https://t.co/8DBs0fwsjc",
+            "BeginOffset": 76,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.4310731589794159,
+            "Type": "ORGANIZATION",
+            "Text": "#CruzCrew",
+            "BeginOffset": 100,
+            "EndOffset": 109
+        }
+    ]
+}

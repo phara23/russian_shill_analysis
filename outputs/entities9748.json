@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8285933136940002,
+            "Type": "PERSON",
+            "Text": "@trscoop",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9968838095664978,
+            "Type": "ORGANIZATION",
+            "Text": "FBI",
+            "BeginOffset": 13,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9578114151954651,
+            "Type": "QUANTITY",
+            "Text": "99%",
+            "BeginOffset": 20,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9940007328987122,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 37,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.8047481179237366,
+            "Type": "OTHER",
+            "Text": "https://t.co/fcuG4jvEYM",
+            "BeginOffset": 104,
+            "EndOffset": 127
+        },
+        {
+            "Score": 0.9823352694511414,
+            "Type": "OTHER",
+            "Text": "https://t.c",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

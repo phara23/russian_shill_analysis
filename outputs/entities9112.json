@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7103009819984436,
+            "Type": "PERSON",
+            "Text": "@StatesPoll",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.5822210907936096,
+            "Type": "ORGANIZATION",
+            "Text": "South Carolina",
+            "BeginOffset": 16,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.8807469010353088,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 31,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.835765540599823,
+            "Type": "DATE",
+            "Text": "2/14",
+            "BeginOffset": 44,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.984961211681366,
+            "Type": "DATE",
+            "Text": "2/15",
+            "BeginOffset": 49,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9549659490585327,
+            "Type": "OTHER",
+            "Text": "https://t.co/4ekvkaYUgy",
+            "BeginOffset": 69,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.4478694498538971,
+            "Type": "ORGANIZATION",
+            "Text": "#TrumpTrain",
+            "BeginOffset": 93,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.9799986481666565,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 111,
+            "EndOffset": 115
+        }
+    ]
+}

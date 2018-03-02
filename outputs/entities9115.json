@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8567185401916504,
+            "Type": "PERSON",
+            "Text": "@MaydnUSA",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.7934428453445435,
+            "Type": "PERSON",
+            "Text": "@BringBackUS",
+            "BeginOffset": 129,
+            "EndOffset": 141
+        },
+        {
+            "Score": 0.6996151208877563,
+            "Type": "PERSON",
+            "Text": "@…",
+            "BeginOffset": 142,
+            "EndOffset": 144
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8285561203956604,
+            "Type": "PERSON",
+            "Text": "@TheHashtagGame",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.665651261806488,
+            "Type": "QUANTITY",
+            "Text": "8A PST",
+            "BeginOffset": 31,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.8011277318000793,
+            "Type": "QUANTITY",
+            "Text": "11A EST",
+            "BeginOffset": 40,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.7931234836578369,
+            "Type": "QUANTITY",
+            "Text": "4P GMT",
+            "BeginOffset": 50,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9789561033248901,
+            "Type": "PERSON",
+            "Text": "@michaeldamian1",
+            "BeginOffset": 82,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.9364110827445984,
+            "Type": "PERSON",
+            "Text": "@HighStrungMovie",
+            "BeginOffset": 98,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.9027584791183472,
+            "Type": "PERSON",
+            "Text": "@TheHashtagGame",
+            "BeginOffset": 115,
+            "EndOffset": 130
+        },
+        {
+            "Score": 0.7712740302085876,
+            "Type": "PERSON",
+            "Text": "@Hashtag",
+            "BeginOffset": 131,
+            "EndOffset": 139
+        }
+    ]
+}

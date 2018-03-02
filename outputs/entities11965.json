@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9284084439277649,
+            "Type": "PERSON",
+            "Text": "@magnifier661",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9193214774131775,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 30,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.997940719127655,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 40,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.7316757440567017,
+            "Type": "QUANTITY",
+            "Text": "over 23%",
+            "BeginOffset": 51,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.999976634979248,
+            "Type": "OTHER",
+            "Text": "https://t.co/344aZwUraP",
+            "BeginOffset": 83,
+            "EndOffset": 106
+        }
+    ]
+}

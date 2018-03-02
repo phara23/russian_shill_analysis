@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8012301325798035,
+            "Type": "PERSON",
+            "Text": "@WashTimes",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9995693564414978,
+            "Type": "PERSON",
+            "Text": "Johnny Rotten",
+            "BeginOffset": 25,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9996222853660583,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 47,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.9627649784088135,
+            "Type": "OTHER",
+            "Text": "https://t.co/iGjN7ObEQX",
+            "BeginOffset": 85,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.6390127539634705,
+            "Type": "ORGANIZATION",
+            "Text": "#SexPistols",
+            "BeginOffset": 109,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.37674984335899353,
+            "Type": "PERSON",
+            "Text": "#DonaldTrump",
+            "BeginOffset": 121,
+            "EndOffset": 133
+        }
+    ]
+}

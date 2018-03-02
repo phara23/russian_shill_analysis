@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9468059539794922,
+            "Type": "PERSON",
+            "Text": "@RickMiller53",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9918992519378662,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 18,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.47855621576309204,
+            "Type": "LOCATION",
+            "Text": "Miami",
+            "BeginOffset": 78,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.9489794969558716,
+            "Type": "QUANTITY",
+            "Text": "Less Than 24 Hours",
+            "BeginOffset": 96,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.9999639987945557,
+            "Type": "OTHER",
+            "Text": "https://t.co/m9bfYu9uOG",
+            "BeginOffset": 115,
+            "EndOffset": 138
+        }
+    ]
+}

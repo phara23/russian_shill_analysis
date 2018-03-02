@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6665441989898682,
+            "Type": "PERSON",
+            "Text": "@ProjectEntNet",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7971923351287842,
+            "Type": "QUANTITY",
+            "Text": "Episode 132",
+            "BeginOffset": 37,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9843559861183167,
+            "Type": "OTHER",
+            "Text": "https://t.co/C6KrwPDv79",
+            "BeginOffset": 72,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.8708380460739136,
+            "Type": "ORGANIZATION",
+            "Text": "@po_st",
+            "BeginOffset": 100,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.776561975479126,
+            "Type": "ORGANIZATION",
+            "Text": "@ProjectEntNet",
+            "BeginOffset": 107,
+            "EndOffset": 121
+        },
+        {
+            "Score": 0.7335429787635803,
+            "Type": "PERSON",
+            "Text": "@ArmCastPodcast",
+            "BeginOffset": 122,
+            "EndOffset": 137
+        }
+    ]
+}

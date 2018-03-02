@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8680330514907837,
+            "Type": "PERSON",
+            "Text": "@thesavvy",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9966505765914917,
+            "Type": "PERSON",
+            "Text": "Megyn Kelly",
+            "BeginOffset": 71,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.9999289512634277,
+            "Type": "OTHER",
+            "Text": "https://t.co/EMlfxasXPV",
+            "BeginOffset": 114,
+            "EndOffset": 137
+        }
+    ]
+}

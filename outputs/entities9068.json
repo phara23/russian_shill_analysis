@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8584369421005249,
+            "Type": "PERSON",
+            "Text": "@bunniboila",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.6678085923194885,
+            "Type": "PERSON",
+            "Text": "Soylent Green",
+            "BeginOffset": 16,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.8682090640068054,
+            "Type": "PERSON",
+            "Text": "@midnight",
+            "BeginOffset": 66,
+            "EndOffset": 75
+        }
+    ]
+}

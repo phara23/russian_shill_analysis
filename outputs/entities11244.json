@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7577793002128601,
+            "Type": "PERSON",
+            "Text": "@PeoplesMediaLA",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8302786350250244,
+            "Type": "PERSON",
+            "Text": "#Kratom Ban",
+            "BeginOffset": 34,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9706238508224487,
+            "Type": "OTHER",
+            "Text": "https://t.co/HyjaTu5ZKY",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        }
+    ]
+}

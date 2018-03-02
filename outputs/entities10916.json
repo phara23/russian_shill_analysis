@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7880704998970032,
+            "Type": "PERSON",
+            "Text": "@GirlCodeAPage",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9991238117218018,
+            "Type": "PERSON",
+            "Text": "Lionel Messi",
+            "BeginOffset": 19,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.8747214078903198,
+            "Type": "OTHER",
+            "Text": "https://t.co/l6OebV6IFw",
+            "BeginOffset": 59,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.9999362230300903,
+            "Type": "OTHER",
+            "Text": "https://t.co/NkxJ1uAnnE",
+            "BeginOffset": 83,
+            "EndOffset": 106
+        }
+    ]
+}

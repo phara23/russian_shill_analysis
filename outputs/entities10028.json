@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8456718921661377,
+            "Type": "PERSON",
+            "Text": "@ChatRevolve",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7281204462051392,
+            "Type": "ORGANIZATION",
+            "Text": "USA Today",
+            "BeginOffset": 76,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.9794149994850159,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 121,
+            "EndOffset": 125
+        }
+    ]
+}

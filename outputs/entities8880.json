@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8141151070594788,
+            "Type": "PERSON",
+            "Text": "@LMBigSur",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.999256432056427,
+            "Type": "OTHER",
+            "Text": "https://t.co/zSfLEISMzu",
+            "BeginOffset": 98,
+            "EndOffset": 121
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8930113315582275,
+            "Type": "PERSON",
+            "Text": "@KennethBusch",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8711820244789124,
+            "Type": "PERSON",
+            "Text": "@hectormorenco",
+            "BeginOffset": 18,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.960452139377594,
+            "Type": "PERSON",
+            "Text": "@DMashak",
+            "BeginOffset": 33,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9985806941986084,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 50,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9867684245109558,
+            "Type": "PERSON",
+            "Text": "Soros",
+            "BeginOffset": 62,
+            "EndOffset": 67
+        }
+    ]
+}

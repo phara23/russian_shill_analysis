@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8483385443687439,
+            "Type": "PERSON",
+            "Text": "@ZaibatsuNews",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.5646254420280457,
+            "Type": "OTHER",
+            "Text": "American",
+            "BeginOffset": 27,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.3784072995185852,
+            "Type": "OTHER",
+            "Text": "Syrian",
+            "BeginOffset": 50,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9708126783370972,
+            "Type": "OTHER",
+            "Text": "https://t.co/BZmPM1RZIZ",
+            "BeginOffset": 93,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.9998548030853271,
+            "Type": "OTHER",
+            "Text": "https://t.co/LRn6lwU076",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

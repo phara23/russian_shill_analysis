@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9331344962120056,
+            "Type": "PERSON",
+            "Text": "@ceg1258",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9961898326873779,
+            "Type": "OTHER",
+            "Text": "https://t.co/dZam4LBxkk",
+            "BeginOffset": 32,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9886878132820129,
+            "Type": "ORGANIZATION",
+            "Text": "@YouTube",
+            "BeginOffset": 60,
+            "EndOffset": 68
+        }
+    ]
+}

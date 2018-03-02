@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8031091094017029,
+            "Type": "PERSON",
+            "Text": "@fettiwap",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8917509913444519,
+            "Type": "PERSON",
+            "Text": "Ali Vegaz - Souf Side Santa",
+            "BeginOffset": 24,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9284637570381165,
+            "Type": "PERSON",
+            "Text": "@AliVegaz",
+            "BeginOffset": 52,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9875549077987671,
+            "Type": "PERSON",
+            "Text": "@DJ837",
+            "BeginOffset": 62,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9681336879730225,
+            "Type": "PERSON",
+            "Text": "@whoisdynamite",
+            "BeginOffset": 69,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.9592411518096924,
+            "Type": "PERSON",
+            "Text": "@Spinrilla",
+            "BeginOffset": 84,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.9992770552635193,
+            "Type": "OTHER",
+            "Text": "https://t.co/dOQAlpBlDd",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        }
+    ]
+}

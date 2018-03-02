@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8984491229057312,
+            "Type": "PERSON",
+            "Text": "@nschim",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9970723390579224,
+            "Type": "PERSON",
+            "Text": "Charles Koch",
+            "BeginOffset": 23,
+            "EndOffset": 35
+        }
+    ]
+}

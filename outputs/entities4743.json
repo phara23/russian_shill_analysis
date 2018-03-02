@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8185527920722961,
+            "Type": "PERSON",
+            "Text": "@cursedfan",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9617570042610168,
+            "Type": "LOCATION",
+            "Text": "Germany",
+            "BeginOffset": 41,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9779728651046753,
+            "Type": "OTHER",
+            "Text": "https://t.co/cwevYnXLGB",
+            "BeginOffset": 49,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.8707923889160156,
+            "Type": "ORGANIZATION",
+            "Text": "@ConstitutionNat",
+            "BeginOffset": 122,
+            "EndOffset": 138
+        }
+    ]
+}

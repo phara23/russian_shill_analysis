@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7759556770324707,
+            "Type": "PERSON",
+            "Text": "@Absabrar",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.6259771585464478,
+            "Type": "DATE",
+            "Text": "#2016",
+            "BeginOffset": 14,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9114733338356018,
+            "Type": "QUANTITY",
+            "Text": "4Words",
+            "BeginOffset": 21,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9999192953109741,
+            "Type": "OTHER",
+            "Text": "https://t.co/USgBEcv245",
+            "BeginOffset": 28,
+            "EndOffset": 51
+        }
+    ]
+}

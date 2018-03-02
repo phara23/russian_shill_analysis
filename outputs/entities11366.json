@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6376903653144836,
+            "Type": "ORGANIZATION",
+            "Text": "Unter Merkel",
+            "BeginOffset": 0,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.7286804914474487,
+            "Type": "PERSON",
+            "Text": "Länder der Erde da",
+            "BeginOffset": 75,
+            "EndOffset": 93
+        }
+    ]
+}

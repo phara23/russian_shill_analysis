@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8409826159477234,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.3196835219860077,
+            "Type": "PERSON",
+            "Text": "Penn",
+            "BeginOffset": 13,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.918353259563446,
+            "Type": "OTHER",
+            "Text": "https://t.co/AZCrHbHVEX",
+            "BeginOffset": 73,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.720369815826416,
+            "Type": "PERSON",
+            "Text": "@DrBoyceWatkins",
+            "BeginOffset": 97,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.9996969699859619,
+            "Type": "OTHER",
+            "Text": "https://t.co/4skofqe0gQ",
+            "BeginOffset": 114,
+            "EndOffset": 137
+        }
+    ]
+}

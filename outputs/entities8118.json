@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9844929575920105,
+            "Type": "PERSON",
+            "Text": "Dick Morris",
+            "BeginOffset": 30,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.8961766958236694,
+            "Type": "OTHER",
+            "Text": "https://t.co/4Wf44lUD83",
+            "BeginOffset": 42,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.7311639785766602,
+            "Type": "ORGANIZATION",
+            "Text": "@3tags_org",
+            "BeginOffset": 71,
+            "EndOffset": 81
+        }
+    ]
+}

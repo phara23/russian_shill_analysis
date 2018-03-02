@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8952841758728027,
+            "Type": "PERSON",
+            "Text": "@ezlusztig",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9984978437423706,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 55,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.6717022657394409,
+            "Type": "ORGANIZATION",
+            "Text": "Muslim Ban",
+            "BeginOffset": 97,
+            "EndOffset": 107
+        }
+    ]
+}

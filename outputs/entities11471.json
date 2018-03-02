@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8458539247512817,
+            "Type": "PERSON",
+            "Text": "@DebbieRiskus",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9051737785339355,
+            "Type": "PERSON",
+            "Text": "@jasonmn",
+            "BeginOffset": 18,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.5313351154327393,
+            "Type": "ORGANIZATION",
+            "Text": "NFL",
+            "BeginOffset": 126,
+            "EndOffset": 129
+        }
+    ]
+}

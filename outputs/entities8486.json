@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8317746520042419,
+            "Type": "PERSON",
+            "Text": "@stopbeingfamous",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9946487545967102,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 21,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.975652277469635,
+            "Type": "QUANTITY",
+            "Text": "1 trillion",
+            "BeginOffset": 73,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.9945634603500366,
+            "Type": "LOCATION",
+            "Text": "United States",
+            "BeginOffset": 124,
+            "EndOffset": 137
+        }
+    ]
+}

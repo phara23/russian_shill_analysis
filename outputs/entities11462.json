@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8104169964790344,
+            "Type": "PERSON",
+            "Text": "@DHSgov",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.7245067954063416,
+            "Type": "ORGANIZATION",
+            "Text": "@POTUS",
+            "BeginOffset": 22,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.952275276184082,
+            "Type": "PERSON",
+            "Text": "Kelly",
+            "BeginOffset": 58,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9222429990768433,
+            "Type": "OTHER",
+            "Text": "https://t.co/Es1qivoR",
+            "BeginOffset": 118,
+            "EndOffset": 139
+        }
+    ]
+}

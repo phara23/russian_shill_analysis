@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9450169801712036,
+            "Type": "PERSON",
+            "Text": "@MikeElChingon",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9871276617050171,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 19,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.5369669795036316,
+            "Type": "QUANTITY",
+            "Text": "101",
+            "BeginOffset": 41,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9895102977752686,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 57,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.999951958656311,
+            "Type": "OTHER",
+            "Text": "https://t.co/A0M0a81jbU",
+            "BeginOffset": 73,
+            "EndOffset": 96
+        }
+    ]
+}

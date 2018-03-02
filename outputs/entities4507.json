@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9016262292861938,
+            "Type": "PERSON",
+            "Text": "@frankgaffney",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.6921745538711548,
+            "Type": "ORGANIZATION",
+            "Text": "@splcenter",
+            "BeginOffset": 27,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9357605576515198,
+            "Type": "OTHER",
+            "Text": "https://t.co/bUs3CZryYs",
+            "BeginOffset": 63,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.7296953201293945,
+            "Type": "PERSON",
+            "Text": "@securefreedom",
+            "BeginOffset": 88,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.4784630835056305,
+            "Type": "QUANTITY",
+            "Text": "8",
+            "BeginOffset": 108,
+            "EndOffset": 109
+        },
+        {
+            "Score": 0.999968409538269,
+            "Type": "OTHER",
+            "Text": "https://t.co/4O4uEwsV2K",
+            "BeginOffset": 110,
+            "EndOffset": 133
+        }
+    ]
+}

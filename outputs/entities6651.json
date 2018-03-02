@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9106425642967224,
+            "Type": "PERSON",
+            "Text": "@HouseBenghazi",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.849574863910675,
+            "Type": "ORGANIZATION",
+            "Text": "#Benghazi Committee",
+            "BeginOffset": 23,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9957432150840759,
+            "Type": "PERSON",
+            "Text": "Ben Rhodes",
+            "BeginOffset": 71,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.9992758631706238,
+            "Type": "PERSON",
+            "Text": "Susan Rice",
+            "BeginOffset": 88,
+            "EndOffset": 98
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8187363147735596,
+            "Type": "PERSON",
+            "Text": "@Bikers4Trump",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.5470978617668152,
+            "Type": "ORGANIZATION",
+            "Text": "@ https://t.co/cGkVjfkqQR",
+            "BeginOffset": 75,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.8948312401771545,
+            "Type": "OTHER",
+            "Text": "https://t.co/V0qr",
+            "BeginOffset": 126,
+            "EndOffset": 143
+        }
+    ]
+}

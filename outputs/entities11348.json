@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8524668216705322,
+            "Type": "PERSON",
+            "Text": "@CounterJihadUS",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9904796481132507,
+            "Type": "ORGANIZATION",
+            "Text": "ISIS",
+            "BeginOffset": 20,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9870076775550842,
+            "Type": "QUANTITY",
+            "Text": "2 minutes",
+            "BeginOffset": 40,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9996503591537476,
+            "Type": "OTHER",
+            "Text": "https://t.co/ziwSUaPwGE",
+            "BeginOffset": 86,
+            "EndOffset": 109
+        }
+    ]
+}

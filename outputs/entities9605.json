@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9181190133094788,
+            "Type": "PERSON",
+            "Text": "@RickRWells",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.6493443250656128,
+            "Type": "PERSON",
+            "Text": "Netanyahu",
+            "BeginOffset": 16,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9859874844551086,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 50,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.974148154258728,
+            "Type": "OTHER",
+            "Text": "https://t.co/ohc93Bmkm4",
+            "BeginOffset": 87,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.9999830722808838,
+            "Type": "OTHER",
+            "Text": "https://t.co/eg9293j2in",
+            "BeginOffset": 111,
+            "EndOffset": 134
+        }
+    ]
+}

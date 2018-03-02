@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8484144806861877,
+            "Type": "ORGANIZATION",
+            "Text": "@p2j303",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.905539333820343,
+            "Type": "QUANTITY",
+            "Text": "2%",
+            "BeginOffset": 18,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.9670571684837341,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 56,
+            "EndOffset": 61
+        }
+    ]
+}

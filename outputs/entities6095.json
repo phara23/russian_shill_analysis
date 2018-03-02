@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9194351434707642,
+            "Type": "PERSON",
+            "Text": "@FrankSharps1874",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9290310740470886,
+            "Type": "PERSON",
+            "Text": "@crosshairsonyou",
+            "BeginOffset": 21,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9877490401268005,
+            "Type": "LOCATION",
+            "Text": "China",
+            "BeginOffset": 46,
+            "EndOffset": 51
+        }
+    ]
+}

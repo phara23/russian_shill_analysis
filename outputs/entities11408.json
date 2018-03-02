@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8865225315093994,
+            "Type": "PERSON",
+            "Text": "@Janetlarose1",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8595251441001892,
+            "Type": "QUANTITY",
+            "Text": "#1",
+            "BeginOffset": 30,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9995073080062866,
+            "Type": "OTHER",
+            "Text": "https://t.co/jots1erMWM",
+            "BeginOffset": 33,
+            "EndOffset": 56
+        }
+    ]
+}

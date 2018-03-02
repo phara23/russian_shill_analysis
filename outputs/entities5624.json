@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8192012310028076,
+            "Type": "PERSON",
+            "Text": "@adept2u",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8882942199707031,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 84,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.9999786615371704,
+            "Type": "OTHER",
+            "Text": "https://t.co/v4oJ479N7z",
+            "BeginOffset": 100,
+            "EndOffset": 123
+        }
+    ]
+}

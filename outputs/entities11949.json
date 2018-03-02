@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8839846849441528,
+            "Type": "PERSON",
+            "Text": "@deepp213",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9761763215065002,
+            "Type": "DATE",
+            "Text": "2017",
+            "BeginOffset": 130,
+            "EndOffset": 134
+        }
+    ]
+}

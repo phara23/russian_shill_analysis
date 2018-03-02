@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9769870042800903,
+            "Type": "LOCATION",
+            "Text": "#usa",
+            "BeginOffset": 51,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9378705620765686,
+            "Type": "LOCATION",
+            "Text": "#america",
+            "BeginOffset": 56,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9904311299324036,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 100,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.9999599456787109,
+            "Type": "OTHER",
+            "Text": "https://t.co/D3xK1zWigY",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        }
+    ]
+}

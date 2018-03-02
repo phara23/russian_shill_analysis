@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8291953206062317,
+            "Type": "PERSON",
+            "Text": "@chico_for",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9999430179595947,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 19,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9136847257614136,
+            "Type": "PERSON",
+            "Text": "KELLY ANNE CONWAY",
+            "BeginOffset": 77,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.5891304016113281,
+            "Type": "PERSON",
+            "Text": "BOB",
+            "BeginOffset": 113,
+            "EndOffset": 116
+        }
+    ]
+}

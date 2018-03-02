@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8186956644058228,
+            "Type": "PERSON",
+            "Text": "@thehill",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9938137531280518,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 19,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9959379434585571,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 33,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9535846710205078,
+            "Type": "LOCATION",
+            "Text": "Arizona",
+            "BeginOffset": 46,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.878329336643219,
+            "Type": "OTHER",
+            "Text": "https://t.co/sojnuJtL4U",
+            "BeginOffset": 54,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9999850988388062,
+            "Type": "OTHER",
+            "Text": "https://t.co/XNjD0lARAf",
+            "BeginOffset": 78,
+            "EndOffset": 101
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9120391607284546,
+            "Type": "PERSON",
+            "Text": "@CarmineZozzora",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9994052052497864,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 82,
+            "EndOffset": 97
+        }
+    ]
+}

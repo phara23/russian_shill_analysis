@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9333219528198242,
+            "Type": "PERSON",
+            "Text": "@OmerRehman",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7351412177085876,
+            "Type": "QUANTITY",
+            "Text": "first step",
+            "BeginOffset": 20,
+            "EndOffset": 30
+        }
+    ]
+}

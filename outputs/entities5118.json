@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9146859645843506,
+            "Type": "PERSON",
+            "Text": "@aaronsrgenus",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9998001456260681,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 18,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9656445384025574,
+            "Type": "QUANTITY",
+            "Text": "550%",
+            "BeginOffset": 42,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.6449697613716125,
+            "Type": "ORGANIZATION",
+            "Text": "Syrian Refugees",
+            "BeginOffset": 59,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.7515470385551453,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 89,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.9232072234153748,
+            "Type": "OTHER",
+            "Text": "https://t.co/N",
+            "BeginOffset": 125,
+            "EndOffset": 139
+        }
+    ]
+}

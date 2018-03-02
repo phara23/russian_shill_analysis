@@ -1,0 +1,28 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9966121912002563,
+            "Text": "two strangers",
+            "BeginOffset": 20,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9677390456199646,
+            "Text": "best friends",
+            "BeginOffset": 41,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9846881031990051,
+            "Text": "two best friends",
+            "BeginOffset": 85,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.8750631213188171,
+            "Text": "strangers",
+            "BeginOffset": 109,
+            "EndOffset": 118
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6413106918334961,
+            "Type": "PERSON",
+            "Text": "@2ALAW",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.6006832122802734,
+            "Type": "QUANTITY",
+            "Text": "9 11",
+            "BeginOffset": 18,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9409409165382385,
+            "Type": "DATE",
+            "Text": "Yesterday",
+            "BeginOffset": 27,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.4974047541618347,
+            "Type": "OTHER",
+            "Text": "Americans",
+            "BeginOffset": 75,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9985314011573792,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 87,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.7811906337738037,
+            "Type": "OTHER",
+            "Text": "https://t.c",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7411004900932312,
+            "Type": "PERSON",
+            "Text": "@realDailyWire",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9886172413825989,
+            "Type": "PERSON",
+            "Text": "Cory Booker",
+            "BeginOffset": 19,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.8719852566719055,
+            "Type": "DATE",
+            "Text": "2020",
+            "BeginOffset": 40,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.989517092704773,
+            "Type": "PERSON",
+            "Text": "Jeff Sessions",
+            "BeginOffset": 69,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.9436937570571899,
+            "Type": "OTHER",
+            "Text": "https://t.co/5lvJNlgaIh",
+            "BeginOffset": 83,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.8963772654533386,
+            "Type": "PERSON",
+            "Text": "@bandlersbanter",
+            "BeginOffset": 107,
+            "EndOffset": 122
+        },
+        {
+            "Score": 0.9237891435623169,
+            "Type": "OTHER",
+            "Text": "https://t.co/4qN",
+            "BeginOffset": 123,
+            "EndOffset": 139
+        }
+    ]
+}

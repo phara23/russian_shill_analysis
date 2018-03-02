@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8370393514633179,
+            "Type": "PERSON",
+            "Text": "@holeszy",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9922645092010498,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 37,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9564146995544434,
+            "Type": "LOCATION",
+            "Text": "USA",
+            "BeginOffset": 85,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9624142646789551,
+            "Type": "QUANTITY",
+            "Text": "8 yrs",
+            "BeginOffset": 93,
+            "EndOffset": 98
+        }
+    ]
+}

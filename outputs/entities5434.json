@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7735376358032227,
+            "Type": "PERSON",
+            "Text": "@voterstampede",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7183525562286377,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 67,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.8257861733436584,
+            "Type": "PERSON",
+            "Text": "Clinton Ban",
+            "BeginOffset": 73,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9426079988479614,
+            "Type": "ORGANIZATION",
+            "Text": "Muslims",
+            "BeginOffset": 88,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.9999669790267944,
+            "Type": "OTHER",
+            "Text": "https://t.co/5Fl2oHetML",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        }
+    ]
+}

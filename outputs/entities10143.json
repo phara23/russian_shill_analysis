@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7810639142990112,
+            "Type": "PERSON",
+            "Text": "@ZaibatsuNews",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9948208928108215,
+            "Type": "PERSON",
+            "Text": "Rachel Maddow",
+            "BeginOffset": 18,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9960311055183411,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 54,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.7702867388725281,
+            "Type": "OTHER",
+            "Text": "https://t.co/W4d80uGPN4",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        },
+        {
+            "Score": 0.9553688168525696,
+            "Type": "OTHER",
+            "Text": "https://t.co/MJv5g2",
+            "BeginOffset": 120,
+            "EndOffset": 139
+        }
+    ]
+}

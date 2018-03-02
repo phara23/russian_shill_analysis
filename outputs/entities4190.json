@@ -1,0 +1,74 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7428085803985596,
+            "Type": "ORGANIZATION",
+            "Text": "@URLTHEPURL",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7426181435585022,
+            "Type": "PERSON",
+            "Text": "@JCharlesComedy",
+            "BeginOffset": 16,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9464279413223267,
+            "Type": "PERSON",
+            "Text": "@DarylONT",
+            "BeginOffset": 32,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9207138419151306,
+            "Type": "PERSON",
+            "Text": "@AFrikkinHashtag",
+            "BeginOffset": 42,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.951517641544342,
+            "Type": "PERSON",
+            "Text": "@IanFHood",
+            "BeginOffset": 59,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9760571718215942,
+            "Type": "PERSON",
+            "Text": "@WhatSheSaid_91",
+            "BeginOffset": 69,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9478867650032043,
+            "Type": "PERSON",
+            "Text": "@FatMrRobot",
+            "BeginOffset": 85,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.9753686785697937,
+            "Type": "PERSON",
+            "Text": "@anitaelizar",
+            "BeginOffset": 97,
+            "EndOffset": 109
+        },
+        {
+            "Score": 0.9951505661010742,
+            "Type": "PERSON",
+            "Text": "@Ranga_Bae",
+            "BeginOffset": 110,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.9721865653991699,
+            "Type": "QUANTITY",
+            "Text": "4 hours",
+            "BeginOffset": 130,
+            "EndOffset": 137
+        }
+    ]
+}

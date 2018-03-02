@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9662692546844482,
+            "Type": "PERSON",
+            "Text": "@marty713",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8638633489608765,
+            "Type": "PERSON",
+            "Text": "@JamesOKeefeIII",
+            "BeginOffset": 14,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9696339964866638,
+            "Type": "PERSON",
+            "Text": "@Cernovich",
+            "BeginOffset": 30,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9999141693115234,
+            "Type": "OTHER",
+            "Text": "https://t.co/nGqgbb3o1s",
+            "BeginOffset": 54,
+            "EndOffset": 77
+        }
+    ]
+}

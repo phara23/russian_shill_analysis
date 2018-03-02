@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4814845025539398,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.7543359398841858,
+            "Type": "PERSON",
+            "Text": "@MediaMan2009",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.5942264795303345,
+            "Type": "ORGANIZATION",
+            "Text": "#Democrats",
+            "BeginOffset": 25,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.6297854781150818,
+            "Type": "ORGANIZATION",
+            "Text": "#DNC",
+            "BeginOffset": 37,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.7002719640731812,
+            "Type": "ORGANIZATION",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 48,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.44631636142730713,
+            "Type": "PERSON",
+            "Text": "#Trump",
+            "BeginOffset": 104,
+            "EndOffset": 110
+        }
+    ]
+}

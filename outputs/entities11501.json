@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8459367156028748,
+            "Type": "PERSON",
+            "Text": "@twitersavior",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8731404542922974,
+            "Type": "QUANTITY",
+            "Text": "one day",
+            "BeginOffset": 44,
+            "EndOffset": 51
+        }
+    ]
+}

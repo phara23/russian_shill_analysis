@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9936504364013672,
+            "Type": "DATE",
+            "Text": "May 8",
+            "BeginOffset": 5,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9699453115463257,
+            "Type": "EVENT",
+            "Text": "WWII",
+            "BeginOffset": 62,
+            "EndOffset": 66
+        }
+    ]
+}

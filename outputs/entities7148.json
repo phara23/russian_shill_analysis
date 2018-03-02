@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6489807367324829,
+            "Type": "ORGANIZATION",
+            "Text": "@whoistrip",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.6902754902839661,
+            "Type": "PERSON",
+            "Text": "@CerromeRussell",
+            "BeginOffset": 15,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.984548032283783,
+            "Type": "DATE",
+            "Text": "July",
+            "BeginOffset": 43,
+            "EndOffset": 47
+        }
+    ]
+}

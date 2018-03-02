@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.82483971118927,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9916404485702515,
+            "Type": "PERSON",
+            "Text": "@Arianne_Suggs",
+            "BeginOffset": 14,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.665442168712616,
+            "Type": "PERSON",
+            "Text": "@1966",
+            "BeginOffset": 29,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.7307173013687134,
+            "Type": "PERSON",
+            "Text": "Gabrielle Union Stuns",
+            "BeginOffset": 44,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9923604130744934,
+            "Type": "PERSON",
+            "Text": "Alena Akhmadullina",
+            "BeginOffset": 69,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.9891272187232971,
+            "Type": "DATE",
+            "Text": "2017",
+            "BeginOffset": 97,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.9999575614929199,
+            "Type": "OTHER",
+            "Text": "https://t.co/25aXjnElj7",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        }
+    ]
+}

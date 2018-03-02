@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.79130619764328,
+            "Type": "PERSON",
+            "Text": "@HealthNewsBit",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9355036616325378,
+            "Type": "OTHER",
+            "Text": "https://t.co/Cjz10f272c",
+            "BeginOffset": 91,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.9988605976104736,
+            "Type": "OTHER",
+            "Text": "https://t.co/AMNpU3j4Bp",
+            "BeginOffset": 116,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7896220684051514,
+            "Type": "PERSON",
+            "Text": "@doubledittos",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.3184853196144104,
+            "Type": "PERSON",
+            "Text": "Libra",
+            "BeginOffset": 93,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.999991774559021,
+            "Type": "OTHER",
+            "Text": "https://t.co/nxnUQ7i8Oi",
+            "BeginOffset": 99,
+            "EndOffset": 122
+        }
+    ]
+}

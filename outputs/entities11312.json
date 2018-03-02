@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8604151606559753,
+            "Type": "PERSON",
+            "Text": "@TodayPittsburgh",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9936122894287109,
+            "Type": "PERSON",
+            "Text": "Kathleen Kane",
+            "BeginOffset": 69,
+            "EndOffset": 82
+        }
+    ]
+}

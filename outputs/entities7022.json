@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8245950937271118,
+            "Type": "PERSON",
+            "Text": "@AWRHawkins",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9909995198249817,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 32,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.988864541053772,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 44,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9078552722930908,
+            "Type": "ORGANIZATION",
+            "Text": "Breitbart",
+            "BeginOffset": 92,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.9529906511306763,
+            "Type": "OTHER",
+            "Text": "https://t.co/thN5uZAIRh",
+            "BeginOffset": 102,
+            "EndOffset": 125
+        },
+        {
+            "Score": 0.6439815759658813,
+            "Type": "ORGANIZATION",
+            "Text": "#NRA",
+            "BeginOffset": 126,
+            "EndOffset": 130
+        },
+        {
+            "Score": 0.7540894150733948,
+            "Type": "QUANTITY",
+            "Text": "#2A",
+            "BeginOffset": 131,
+            "EndOffset": 134
+        }
+    ]
+}

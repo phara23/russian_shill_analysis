@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.815666913986206,
+            "Type": "ORGANIZATION",
+            "Text": "@h8mpy",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.4297443926334381,
+            "Type": "PERSON",
+            "Text": "JFK",
+            "BeginOffset": 62,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.8763405084609985,
+            "Type": "DATE",
+            "Text": "9/11",
+            "BeginOffset": 84,
+            "EndOffset": 88
+        }
+    ]
+}

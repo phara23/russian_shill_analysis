@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8159399628639221,
+            "Type": "PERSON",
+            "Text": "@LessaT",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.981853187084198,
+            "Type": "ORGANIZATION",
+            "Text": "YouTube",
+            "BeginOffset": 58,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9998302459716797,
+            "Type": "OTHER",
+            "Text": "https://t.co/STtXHgFjhy",
+            "BeginOffset": 66,
+            "EndOffset": 89
+        }
+    ]
+}

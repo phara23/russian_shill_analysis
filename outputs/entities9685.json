@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8618050813674927,
+            "Type": "PERSON",
+            "Text": "@PatDollard",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9786307215690613,
+            "Type": "ORGANIZATION",
+            "Text": "FBI",
+            "BeginOffset": 39,
+            "EndOffset": 42
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7931888103485107,
+            "Type": "ORGANIZATION",
+            "Text": "@FoxNews",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9335117340087891,
+            "Type": "PERSON",
+            "Text": "@GovMikeHuckabee",
+            "BeginOffset": 14,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.6911010146141052,
+            "Type": "QUANTITY",
+            "Text": "46",
+            "BeginOffset": 76,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.8270749449729919,
+            "Type": "LOCATION",
+            "Text": "U.S.",
+            "BeginOffset": 79,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.9932182431221008,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 111,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.9058799743652344,
+            "Type": "OTHER",
+            "Text": "https://t.c",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

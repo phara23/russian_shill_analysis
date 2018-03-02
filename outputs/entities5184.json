@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7109054923057556,
+            "Type": "PERSON",
+            "Text": "@FredICooK",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9565317034721375,
+            "Type": "PERSON",
+            "Text": "@dcexaminer",
+            "BeginOffset": 15,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9919297695159912,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 69,
+            "EndOffset": 76
+        }
+    ]
+}

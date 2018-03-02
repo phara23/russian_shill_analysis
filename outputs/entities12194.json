@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8895249962806702,
+            "Type": "PERSON",
+            "Text": "@DesireeAaron",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9058797955513,
+            "Type": "ORGANIZATION",
+            "Text": "Islam",
+            "BeginOffset": 18,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9998252987861633,
+            "Type": "OTHER",
+            "Text": "https://t.co/Wz6b7QhXNW",
+            "BeginOffset": 92,
+            "EndOffset": 115
+        }
+    ]
+}

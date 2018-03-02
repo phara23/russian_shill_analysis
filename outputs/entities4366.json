@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9217088222503662,
+            "Type": "QUANTITY",
+            "Text": "Ten things",
+            "BeginOffset": 0,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.8489575982093811,
+            "Type": "PERSON",
+            "Text": "Leon",
+            "BeginOffset": 24,
+            "EndOffset": 28
+        }
+    ]
+}

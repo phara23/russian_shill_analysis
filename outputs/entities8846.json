@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8487712740898132,
+            "Type": "PERSON",
+            "Text": "@LouDobbs",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8730718493461609,
+            "Type": "LOCATION",
+            "Text": "NY",
+            "BeginOffset": 17,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.7837337255477905,
+            "Type": "LOCATION",
+            "Text": "NJ",
+            "BeginOffset": 20,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.7865731716156006,
+            "Type": "PERSON",
+            "Text": "@KatrinaPierson",
+            "BeginOffset": 105,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.9972972273826599,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 126,
+            "EndOffset": 131
+        }
+    ]
+}

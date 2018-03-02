@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8786141276359558,
+            "Type": "PERSON",
+            "Text": "@MrNegroMilitant",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9927753210067749,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 26,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9240986108779907,
+            "Type": "QUANTITY",
+            "Text": "102 inmates",
+            "BeginOffset": 41,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9895349144935608,
+            "Type": "DATE",
+            "Text": "today",
+            "BeginOffset": 53,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9317606091499329,
+            "Type": "QUANTITY",
+            "Text": "774",
+            "BeginOffset": 81,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.8937252759933472,
+            "Type": "DATE",
+            "Text": "years ago",
+            "BeginOffset": 124,
+            "EndOffset": 133
+        }
+    ]
+}

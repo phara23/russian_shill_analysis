@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8057396411895752,
+            "Type": "PERSON",
+            "Text": "@schotts",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.7358176708221436,
+            "Type": "PERSON",
+            "Text": "@GovofCO",
+            "BeginOffset": 16,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9010801911354065,
+            "Type": "ORGANIZATION",
+            "Text": "Platte River Networks",
+            "BeginOffset": 33,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9998427629470825,
+            "Type": "OTHER",
+            "Text": "https://t.co/Ybz7czK7f2",
+            "BeginOffset": 85,
+            "EndOffset": 108
+        }
+    ]
+}

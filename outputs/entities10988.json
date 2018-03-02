@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9467294216156006,
+            "Type": "PERSON",
+            "Text": "@AMurphy09303057",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.4060126841068268,
+            "Type": "ORGANIZATION",
+            "Text": "#MAGA",
+            "BeginOffset": 21,
+            "EndOffset": 26
+        }
+    ]
+}

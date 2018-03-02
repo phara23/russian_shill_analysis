@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9115920662879944,
+            "Type": "PERSON",
+            "Text": "@StaceyWLloyd",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8378860950469971,
+            "Type": "PERSON",
+            "Text": "@VeryWhiteGuy",
+            "BeginOffset": 30,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9998958110809326,
+            "Type": "OTHER",
+            "Text": "https://t.co/wTIsubUmc7",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        }
+    ]
+}

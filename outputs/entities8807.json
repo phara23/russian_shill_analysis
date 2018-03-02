@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.96417236328125,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.5263464450836182,
+            "Type": "LOCATION",
+            "Text": "Des Moines",
+            "BeginOffset": 31,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9297378659248352,
+            "Type": "LOCATION",
+            "Text": "Iowa",
+            "BeginOffset": 43,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9951865673065186,
+            "Type": "PERSON",
+            "Text": "@Mike_Pence",
+            "BeginOffset": 58,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9585663676261902,
+            "Type": "OTHER",
+            "Text": "https://t.co/gr6tGqq",
+            "BeginOffset": 119,
+            "EndOffset": 139
+        }
+    ]
+}

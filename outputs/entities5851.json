@@ -1,0 +1,67 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9372231364250183,
+            "Type": "PERSON",
+            "Text": "@deweylasv",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.861168622970581,
+            "Type": "ORGANIZATION",
+            "Text": "@foxnews",
+            "BeginOffset": 22,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9811431169509888,
+            "Type": "ORGANIZATION",
+            "Text": "@CNN",
+            "BeginOffset": 31,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9699612855911255,
+            "Type": "ORGANIZATION",
+            "Text": "@MSNBC",
+            "BeginOffset": 36,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9779052734375,
+            "Type": "ORGANIZATION",
+            "Text": "@ABC",
+            "BeginOffset": 43,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9763171672821045,
+            "Type": "ORGANIZATION",
+            "Text": "@CBS",
+            "BeginOffset": 48,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.889385998249054,
+            "Type": "ORGANIZATION",
+            "Text": "@NBCNews",
+            "BeginOffset": 53,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.7456988096237183,
+            "Type": "ORGANIZATION",
+            "Text": "@CNNPolitics",
+            "BeginOffset": 62,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9999510049819946,
+            "Type": "OTHER",
+            "Text": "https://t.co/tVSn2xi5Nz",
+            "BeginOffset": 75,
+            "EndOffset": 98
+        }
+    ]
+}

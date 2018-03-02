@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9104172587394714,
+            "Type": "PERSON",
+            "Text": "@lewrockwell",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9307852387428284,
+            "Type": "PERSON",
+            "Text": "Napolitano",
+            "BeginOffset": 23,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9998635053634644,
+            "Type": "OTHER",
+            "Text": "https://t.co/6SOtgWshBw",
+            "BeginOffset": 66,
+            "EndOffset": 89
+        }
+    ]
+}

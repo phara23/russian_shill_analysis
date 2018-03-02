@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9987664222717285,
+            "Type": "PERSON",
+            "Text": "Bill Clinton",
+            "BeginOffset": 0,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9977231621742249,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 14,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9999278783798218,
+            "Type": "OTHER",
+            "Text": "https://t.co/qIttPPcKLj",
+            "BeginOffset": 55,
+            "EndOffset": 78
+        }
+    ]
+}

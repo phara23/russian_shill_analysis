@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.879644513130188,
+            "Type": "PERSON",
+            "Text": "@derekjGZ",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.4661432206630707,
+            "Type": "QUANTITY",
+            "Text": "7",
+            "BeginOffset": 15,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9906784296035767,
+            "Type": "QUANTITY",
+            "Text": "7",
+            "BeginOffset": 17,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7935835123062134,
+            "Type": "QUANTITY",
+            "Text": "15,000",
+            "BeginOffset": 89,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.45571601390838623,
+            "Type": "QUANTITY",
+            "Text": "one",
+            "BeginOffset": 133,
+            "EndOffset": 136
+        }
+    ]
+}

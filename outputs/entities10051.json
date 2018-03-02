@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9689611196517944,
+            "Type": "PERSON",
+            "Text": "@Brian_Boru_941",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.856835126876831,
+            "Type": "PERSON",
+            "Text": "@TheFoundingSon",
+            "BeginOffset": 20,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.862791121006012,
+            "Type": "DATE",
+            "Text": "After 8 years",
+            "BeginOffset": 36,
+            "EndOffset": 49
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6722622513771057,
+            "Type": "ORGANIZATION",
+            "Text": "@wikileaks",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.6921263933181763,
+            "Type": "ORGANIZATION",
+            "Text": "US Green",
+            "BeginOffset": 15,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.7498529553413391,
+            "Type": "PERSON",
+            "Text": "@DrJillStein",
+            "BeginOffset": 49,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.44277700781822205,
+            "Type": "ORGANIZATION",
+            "Text": "#DNCLeak",
+            "BeginOffset": 65,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.9950090646743774,
+            "Type": "OTHER",
+            "Text": "https://t.co/iJnbpZrkV6",
+            "BeginOffset": 74,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.9997201561927795,
+            "Type": "OTHER",
+            "Text": "https://t.co/kpFxYDoNyX",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        }
+    ]
+}

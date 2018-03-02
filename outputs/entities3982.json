@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8937945365905762,
+            "Type": "PERSON",
+            "Text": "@Wisakijak",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9239869117736816,
+            "Type": "PERSON",
+            "Text": "@mitchellvii",
+            "BeginOffset": 15,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9970556497573853,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 52,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9999133348464966,
+            "Type": "OTHER",
+            "Text": "https://t.co/hh9ZOyzGsV",
+            "BeginOffset": 87,
+            "EndOffset": 110
+        }
+    ]
+}

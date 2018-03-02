@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7585467100143433,
+            "Type": "PERSON",
+            "Text": "@Madhatter_007",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6977245807647705,
+            "Type": "QUANTITY",
+            "Text": "64 Ways",
+            "BeginOffset": 19,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9954765439033508,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 27,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9889011383056641,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 47,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.43480953574180603,
+            "Type": "PERSON",
+            "Text": "#ObamaGate",
+            "BeginOffset": 53,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9327604174613953,
+            "Type": "OTHER",
+            "Text": "https://t.co/RtGVsdW0Zw",
+            "BeginOffset": 102,
+            "EndOffset": 125
+        },
+        {
+            "Score": 0.9280118346214294,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

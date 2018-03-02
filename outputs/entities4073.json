@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7412550449371338,
+            "Type": "ORGANIZATION",
+            "Text": "@UPFTV",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9787127375602722,
+            "Type": "QUANTITY",
+            "Text": "sixth year",
+            "BeginOffset": 18,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.30181917548179626,
+            "Type": "ORGANIZATION",
+            "Text": "#Jewish",
+            "BeginOffset": 30,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.5146782398223877,
+            "Type": "ORGANIZATION",
+            "Text": "#Muslim",
+            "BeginOffset": 42,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.7238771915435791,
+            "Type": "EVENT",
+            "Text": "#Christmas",
+            "BeginOffset": 50,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9517618417739868,
+            "Type": "OTHER",
+            "Text": "https://t.co/fFpY99u78R",
+            "BeginOffset": 114,
+            "EndOffset": 137
+        }
+    ]
+}

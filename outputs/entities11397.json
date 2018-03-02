@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.833480179309845,
+            "Type": "PERSON",
+            "Text": "@Voltuan",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.996206521987915,
+            "Type": "DATE",
+            "Text": "January 2017",
+            "BeginOffset": 122,
+            "EndOffset": 134
+        },
+        {
+            "Score": 0.7475939393043518,
+            "Type": "PERSON",
+            "Text": "@jk_",
+            "BeginOffset": 135,
+            "EndOffset": 139
+        }
+    ]
+}

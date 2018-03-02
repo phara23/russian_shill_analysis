@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9370220303535461,
+            "Type": "PERSON",
+            "Text": "@RacySicilian",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.5441502928733826,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 18,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.7556260824203491,
+            "Type": "PERSON",
+            "Text": "@RealJBradly",
+            "BeginOffset": 21,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9924737215042114,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 60,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9942605495452881,
+            "Type": "QUANTITY",
+            "Text": "8 years",
+            "BeginOffset": 117,
+            "EndOffset": 124
+        },
+        {
+            "Score": 0.9634753465652466,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

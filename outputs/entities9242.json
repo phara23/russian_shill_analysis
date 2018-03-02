@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7779723405838013,
+            "Type": "PERSON",
+            "Text": "@DetroitPost",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9997701644897461,
+            "Type": "PERSON",
+            "Text": "Richard Matt",
+            "BeginOffset": 34,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.8130106925964355,
+            "Type": "QUANTITY",
+            "Text": "Second inmate",
+            "BeginOffset": 71,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.999303936958313,
+            "Type": "PERSON",
+            "Text": "David Sweat",
+            "BeginOffset": 85,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.9832045435905457,
+            "Type": "OTHER",
+            "Text": "http://t.co/AjT",
+            "BeginOffset": 124,
+            "EndOffset": 139
+        }
+    ]
+}

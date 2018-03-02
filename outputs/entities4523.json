@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8876333236694336,
+            "Type": "PERSON",
+            "Text": "@Mathiasian",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9744769930839539,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 37,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9751296043395996,
+            "Type": "QUANTITY",
+            "Text": "27 times",
+            "BeginOffset": 43,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9947773218154907,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 59,
+            "EndOffset": 66
+        }
+    ]
+}

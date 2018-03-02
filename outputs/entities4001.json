@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7416936159133911,
+            "Type": "PERSON",
+            "Text": "@ANGRYref",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9250828623771667,
+            "Type": "PERSON",
+            "Text": "@KeshaTedder",
+            "BeginOffset": 14,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9718851447105408,
+            "Type": "PERSON",
+            "Text": "@ZenRand",
+            "BeginOffset": 27,
+            "EndOffset": 35
+        }
+    ]
+}

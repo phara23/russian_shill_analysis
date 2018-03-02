@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6928082704544067,
+            "Type": "PERSON",
+            "Text": "@DnDrea",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.8644800782203674,
+            "Type": "LOCATION",
+            "Text": "Turkey",
+            "BeginOffset": 23,
+            "EndOffset": 29
+        }
+    ]
+}

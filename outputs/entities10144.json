@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9390571713447571,
+            "Type": "PERSON",
+            "Text": "@Pamela_Moore",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9894388318061829,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 35,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.998685896396637,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 52,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.48792582750320435,
+            "Type": "OTHER",
+            "Text": "Americans",
+            "BeginOffset": 73,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.9330225586891174,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 90,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.9999849796295166,
+            "Type": "OTHER",
+            "Text": "https://t.co/0ONYYc9UVx",
+            "BeginOffset": 115,
+            "EndOffset": 138
+        }
+    ]
+}

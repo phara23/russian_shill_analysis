@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8068438172340393,
+            "Type": "PERSON",
+            "Text": "@The_Angry_Sith",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7005166411399841,
+            "Type": "DATE",
+            "Text": "#2017",
+            "BeginOffset": 20,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9638334512710571,
+            "Type": "DATE",
+            "Text": "2020",
+            "BeginOffset": 107,
+            "EndOffset": 111
+        }
+    ]
+}

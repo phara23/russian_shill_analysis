@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9524099826812744,
+            "Type": "PERSON",
+            "Text": "@SarniamakChris",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.6180642247200012,
+            "Type": "OTHER",
+            "Text": "German",
+            "BeginOffset": 20,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.7814774513244629,
+            "Type": "LOCATION",
+            "Text": "Germany",
+            "BeginOffset": 82,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.9930830001831055,
+            "Type": "OTHER",
+            "Text": "https://t.co/zuYJd3unhZ",
+            "BeginOffset": 98,
+            "EndOffset": 121
+        },
+        {
+            "Score": 0.7605292201042175,
+            "Type": "ORGANIZATION",
+            "Text": "@indiatimes",
+            "BeginOffset": 126,
+            "EndOffset": 137
+        }
+    ]
+}

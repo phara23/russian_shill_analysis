@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8795267939567566,
+            "Type": "PERSON",
+            "Text": "@ARnews1936",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.6999452710151672,
+            "Type": "PERSON",
+            "Text": "Dem",
+            "BeginOffset": 16,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.4387371838092804,
+            "Type": "QUANTITY",
+            "Text": "2",
+            "BeginOffset": 44,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.895548403263092,
+            "Type": "OTHER",
+            "Text": "https://t.co/xKfW8XblfB",
+            "BeginOffset": 118,
+            "EndOffset": 141
+        }
+    ]
+}

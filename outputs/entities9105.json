@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9208176732063293,
+            "Type": "PERSON",
+            "Text": "@jojokejohn",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8315727114677429,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 72,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.9998352527618408,
+            "Type": "OTHER",
+            "Text": "https://t.co/LbaVnjUU4z",
+            "BeginOffset": 95,
+            "EndOffset": 118
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9210912585258484,
+            "Type": "PERSON",
+            "Text": "@NormanSie",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8225586414337158,
+            "Type": "LOCATION",
+            "Text": "St George",
+            "BeginOffset": 58,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.7902234196662903,
+            "Type": "QUANTITY",
+            "Text": "16",
+            "BeginOffset": 103,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.9721463322639465,
+            "Type": "OTHER",
+            "Text": "https://t.co/P4Lv6Roc2J",
+            "BeginOffset": 110,
+            "EndOffset": 133
+        },
+        {
+            "Score": 0.2832165062427521,
+            "Type": "ORGANIZATION",
+            "Text": "@",
+            "BeginOffset": 138,
+            "EndOffset": 139
+        }
+    ]
+}

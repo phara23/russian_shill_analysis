@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9691301584243774,
+            "Type": "PERSON",
+            "Text": "@bob_owens",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9895048141479492,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 15,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.867432713508606,
+            "Type": "QUANTITY",
+            "Text": "10,00",
+            "BeginOffset": 33,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9997956156730652,
+            "Type": "OTHER",
+            "Text": "https://t.co/j150Sisbjl",
+            "BeginOffset": 56,
+            "EndOffset": 79
+        }
+    ]
+}

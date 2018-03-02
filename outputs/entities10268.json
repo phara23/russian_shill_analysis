@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5151247382164001,
+            "Type": "ORGANIZATION",
+            "Text": "@20",
+            "BeginOffset": 3,
+            "EndOffset": 6
+        },
+        {
+            "Score": 0.7825326323509216,
+            "Type": "ORGANIZATION",
+            "Text": "Trump WH",
+            "BeginOffset": 17,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.7496755123138428,
+            "Type": "ORGANIZATION",
+            "Text": "DoJ",
+            "BeginOffset": 36,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9943903088569641,
+            "Type": "PERSON",
+            "Text": "John Barron",
+            "BeginOffset": 125,
+            "EndOffset": 136
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6609129905700684,
+            "Type": "PERSON",
+            "Text": "@activist",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.6546852588653564,
+            "Type": "DATE",
+            "Text": "360: 1930s",
+            "BeginOffset": 12,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.7586281895637512,
+            "Type": "LOCATION",
+            "Text": "GERMANY",
+            "BeginOffset": 23,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9680667519569397,
+            "Type": "ORGANIZATION",
+            "Text": "Republicans",
+            "BeginOffset": 101,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.9882879853248596,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 121,
+            "EndOffset": 126
+        }
+    ]
+}

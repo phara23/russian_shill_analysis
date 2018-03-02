@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.998870313167572,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 9,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.5155319571495056,
+            "Type": "ORGANIZATION",
+            "Text": "KKK",
+            "BeginOffset": 35,
+            "EndOffset": 38
+        }
+    ]
+}

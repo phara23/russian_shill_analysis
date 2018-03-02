@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8177699446678162,
+            "Type": "PERSON",
+            "Text": "@AIIAmericanGirI",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8949539065361023,
+            "Type": "ORGANIZATION",
+            "Text": "WikiLeaks",
+            "BeginOffset": 21,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9858172535896301,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 82,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.6840165257453918,
+            "Type": "PERSON",
+            "Text": "@BreitbartNews",
+            "BeginOffset": 122,
+            "EndOffset": 136
+        }
+    ]
+}

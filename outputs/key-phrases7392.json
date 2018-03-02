@@ -1,0 +1,34 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.980453372001648,
+            "Text": "a woman",
+            "BeginOffset": 9,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9975771903991699,
+            "Text": "ten years",
+            "BeginOffset": 22,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9959943294525146,
+            "Text": "a man",
+            "BeginOffset": 42,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9980565905570984,
+            "Text": "’s habits",
+            "BeginOffset": 47,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9657561182975769,
+            "Text": "not the man",
+            "BeginOffset": 85,
+            "EndOffset": 96
+        }
+    ]
+}

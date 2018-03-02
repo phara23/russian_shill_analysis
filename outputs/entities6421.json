@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9152995347976685,
+            "Type": "PERSON",
+            "Text": "@YasminYonis",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9992179274559021,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 40,
+            "EndOffset": 55
+        }
+    ]
+}

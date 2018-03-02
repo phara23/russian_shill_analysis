@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8029963374137878,
+            "Type": "PERSON",
+            "Text": "@DRUDGE_REPORT",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8074517846107483,
+            "Type": "PERSON",
+            "Text": "O'KEEFE",
+            "BeginOffset": 19,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.7264564633369446,
+            "Type": "PERSON",
+            "Text": "Hillary PERSONALLY",
+            "BeginOffset": 29,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9792380332946777,
+            "Type": "PERSON",
+            "Text": "Donald Duck",
+            "BeginOffset": 57,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9999692440032959,
+            "Type": "OTHER",
+            "Text": "https://t.co/uDseFQ0ETF",
+            "BeginOffset": 88,
+            "EndOffset": 111
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9591567516326904,
+            "Type": "PERSON",
+            "Text": "@MalteJordan",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9933297038078308,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 17,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9989768266677856,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 26,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.6589648127555847,
+            "Type": "EVENT",
+            "Text": "Brexit",
+            "BeginOffset": 33,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.7032366394996643,
+            "Type": "DATE",
+            "Text": "#2016",
+            "BeginOffset": 48,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.8771620988845825,
+            "Type": "QUANTITY",
+            "Text": "4Words",
+            "BeginOffset": 55,
+            "EndOffset": 61
+        }
+    ]
+}

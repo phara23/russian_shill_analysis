@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.720063328742981,
+            "Type": "PERSON",
+            "Text": "@blackplanet",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9705840945243835,
+            "Type": "PERSON",
+            "Text": "Phaedra Parks",
+            "BeginOffset": 17,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.7601984143257141,
+            "Type": "PERSON",
+            "Text": "Martha",
+            "BeginOffset": 50,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.47117090225219727,
+            "Type": "PERSON",
+            "Text": "Vineyard",
+            "BeginOffset": 59,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9999946355819702,
+            "Type": "OTHER",
+            "Text": "https://t.co/00ng63GXsy",
+            "BeginOffset": 68,
+            "EndOffset": 91
+        }
+    ]
+}

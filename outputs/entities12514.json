@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9297740459442139,
+            "Type": "PERSON",
+            "Text": "@TalibKweli",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7393560409545898,
+            "Type": "QUANTITY",
+            "Text": "first black president",
+            "BeginOffset": 29,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9971840977668762,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 69,
+            "EndOffset": 74
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9801356792449951,
+            "Text": "Clinton",
+            "BeginOffset": 0,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.9992530345916748,
+            "Text": "’s doctor",
+            "BeginOffset": 7,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.724677324295044,
+            "Text": "’s ‘fit",
+            "BeginOffset": 25,
+            "EndOffset": 32
+        }
+    ]
+}

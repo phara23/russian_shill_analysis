@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9211392998695374,
+            "Type": "PERSON",
+            "Text": "@oldandslow1961",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8725711107254028,
+            "Type": "PERSON",
+            "Text": "@stephenfhayes",
+            "BeginOffset": 20,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9357953667640686,
+            "Type": "PERSON",
+            "Text": "@continetti",
+            "BeginOffset": 35,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9392730593681335,
+            "Type": "QUANTITY",
+            "Text": "two elections",
+            "BeginOffset": 111,
+            "EndOffset": 124
+        }
+    ]
+}

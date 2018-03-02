@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.936405599117279,
+            "Type": "PERSON",
+            "Text": "@sammelbis1998",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8379326462745667,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 19,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9739375710487366,
+            "Type": "LOCATION",
+            "Text": "Florida",
+            "BeginOffset": 51,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9952365756034851,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 102,
+            "EndOffset": 107
+        }
+    ]
+}

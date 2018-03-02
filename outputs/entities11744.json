@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9662685394287109,
+            "Type": "PERSON",
+            "Text": "@beny_benson",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.3424779176712036,
+            "Type": "LOCATION",
+            "Text": "Arkansas",
+            "BeginOffset": 33,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.999880313873291,
+            "Type": "OTHER",
+            "Text": "https://t.co/AUfklXHS5O",
+            "BeginOffset": 102,
+            "EndOffset": 125
+        }
+    ]
+}

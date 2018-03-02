@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8780739307403564,
+            "Type": "PERSON",
+            "Text": "@chiefplan1",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9996784329414368,
+            "Type": "PERSON",
+            "Text": "Alex Jones",
+            "BeginOffset": 42,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9898245930671692,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 78,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.9955684542655945,
+            "Type": "PERSON",
+            "Text": "Bannon",
+            "BeginOffset": 90,
+            "EndOffset": 96
+        }
+    ]
+}

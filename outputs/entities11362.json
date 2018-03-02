@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8182340860366821,
+            "Type": "PERSON",
+            "Text": "@xxxneon",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8542162775993347,
+            "Type": "PERSON",
+            "Text": "@ANGRYref",
+            "BeginOffset": 13,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9757336974143982,
+            "Type": "PERSON",
+            "Text": "@KeshaTedder",
+            "BeginOffset": 23,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9373844265937805,
+            "Type": "PERSON",
+            "Text": "@ZenRand",
+            "BeginOffset": 36,
+            "EndOffset": 44
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9428703188896179,
+            "Type": "PERSON",
+            "Text": "Snowden",
+            "BeginOffset": 9,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9949775338172913,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 31,
+            "EndOffset": 36
+        }
+    ]
+}

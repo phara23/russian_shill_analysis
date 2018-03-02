@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.921995997428894,
+            "Type": "PERSON",
+            "Text": "@DonaldT4Prez",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8863343000411987,
+            "Type": "EVENT",
+            "Text": "Holocaust",
+            "BeginOffset": 39,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9876078963279724,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 71,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.982203483581543,
+            "Type": "PERSON",
+            "Text": "Hitler",
+            "BeginOffset": 80,
+            "EndOffset": 86
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8412746787071228,
+            "Type": "PERSON",
+            "Text": "@PaulReadST",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8445252180099487,
+            "Type": "PERSON",
+            "Text": "@octaviahenke",
+            "BeginOffset": 54,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9126261472702026,
+            "Type": "PERSON",
+            "Text": "@00LovelyDay00",
+            "BeginOffset": 68,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.9031033515930176,
+            "Type": "PERSON",
+            "Text": "@Tcromboo",
+            "BeginOffset": 83,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.9450899362564087,
+            "Type": "PERSON",
+            "Text": "@BenWilhelm1230",
+            "BeginOffset": 93,
+            "EndOffset": 108
+        }
+    ]
+}

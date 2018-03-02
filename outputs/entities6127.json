@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9470252394676208,
+            "Type": "PERSON",
+            "Text": "@Jarmadillos",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9995065927505493,
+            "Type": "PERSON",
+            "Text": "Julian Assange",
+            "BeginOffset": 27,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.5884301066398621,
+            "Type": "LOCATION",
+            "Text": "Ecuadoran",
+            "BeginOffset": 110,
+            "EndOffset": 119
+        }
+    ]
+}

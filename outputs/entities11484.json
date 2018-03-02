@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9332330226898193,
+            "Type": "PERSON",
+            "Text": "@Earl_59",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8897049427032471,
+            "Type": "PERSON",
+            "Text": "@mydailymanna",
+            "BeginOffset": 16,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9908100366592407,
+            "Type": "PERSON",
+            "Text": "Jesus Christ",
+            "BeginOffset": 51,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9792194962501526,
+            "Type": "OTHER",
+            "Text": "https://t.co/Rz2jaB1lha",
+            "BeginOffset": 70,
+            "EndOffset": 93
+        }
+    ]
+}

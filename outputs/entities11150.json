@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7124347686767578,
+            "Type": "PERSON",
+            "Text": "@LibsNoFun",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9364877939224243,
+            "Type": "PERSON",
+            "Text": "@ScotJohn_",
+            "BeginOffset": 27,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9520263671875,
+            "Type": "PERSON",
+            "Text": "@TrumpTheHill",
+            "BeginOffset": 38,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9997088313102722,
+            "Type": "OTHER",
+            "Text": "https://t.co/aTIjQM5ZAi",
+            "BeginOffset": 52,
+            "EndOffset": 75
+        }
+    ]
+}

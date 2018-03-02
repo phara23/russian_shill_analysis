@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9327199459075928,
+            "Type": "PERSON",
+            "Text": "@ThisJayThomas",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8496925830841064,
+            "Type": "QUANTITY",
+            "Text": "each scene",
+            "BeginOffset": 24,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.910706102848053,
+            "Type": "ORGANIZATION",
+            "Text": "DC TV",
+            "BeginOffset": 83,
+            "EndOffset": 88
+        }
+    ]
+}

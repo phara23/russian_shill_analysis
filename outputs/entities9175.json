@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7945070266723633,
+            "Type": "PERSON",
+            "Text": "@SquidsLighters",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9864081144332886,
+            "Type": "ORGANIZATION",
+            "Text": "CNN",
+            "BeginOffset": 20,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9879785776138306,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 35,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9291207194328308,
+            "Type": "OTHER",
+            "Text": "https://t.co/qYN1WZVb2Z",
+            "BeginOffset": 88,
+            "EndOffset": 111
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9407340288162231,
+            "Type": "PERSON",
+            "Text": "@andylassner",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9897183179855347,
+            "Type": "ORGANIZATION",
+            "Text": "Twitter",
+            "BeginOffset": 17,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9838585257530212,
+            "Type": "DATE",
+            "Text": "tonight",
+            "BeginOffset": 52,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.42986008524894714,
+            "Type": "ORGANIZATION",
+            "Text": "#RNCinCLE",
+            "BeginOffset": 62,
+            "EndOffset": 71
+        }
+    ]
+}

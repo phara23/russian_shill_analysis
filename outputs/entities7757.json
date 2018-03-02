@@ -1,0 +1,67 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9619266390800476,
+            "Type": "PERSON",
+            "Text": "@viola_tamez",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8781173229217529,
+            "Type": "PERSON",
+            "Text": "@dovewan",
+            "BeginOffset": 17,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9547736644744873,
+            "Type": "PERSON",
+            "Text": "@CherylLongville",
+            "BeginOffset": 26,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.8408067226409912,
+            "Type": "PERSON",
+            "Text": "@cgpb",
+            "BeginOffset": 43,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9889543652534485,
+            "Type": "PERSON",
+            "Text": "@ChereeCarter12",
+            "BeginOffset": 49,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9967058897018433,
+            "Type": "PERSON",
+            "Text": "@lr3031",
+            "BeginOffset": 65,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.991992712020874,
+            "Type": "PERSON",
+            "Text": "@rhyne_marylene",
+            "BeginOffset": 73,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9812236428260803,
+            "Type": "PERSON",
+            "Text": "@mariagua7",
+            "BeginOffset": 89,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.9626227021217346,
+            "Type": "PERSON",
+            "Text": "@gelinorb",
+            "BeginOffset": 100,
+            "EndOffset": 109
+        }
+    ]
+}

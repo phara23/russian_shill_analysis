@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8333481550216675,
+            "Type": "PERSON",
+            "Text": "@adjunctprofessr",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9049525856971741,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 28,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.5740994811058044,
+            "Type": "ORGANIZATION",
+            "Text": "Crooked Hillary",
+            "BeginOffset": 45,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9998478889465332,
+            "Type": "OTHER",
+            "Text": "https://t.co/RVdLsl9kyZ",
+            "BeginOffset": 62,
+            "EndOffset": 85
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7993296384811401,
+            "Type": "PERSON",
+            "Text": "@WhatTheFakeSays",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9846056699752808,
+            "Type": "DATE",
+            "Text": "2017",
+            "BeginOffset": 24,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.8788201212882996,
+            "Type": "ORGANIZATION",
+            "Text": "@Twitter",
+            "BeginOffset": 61,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.6967679262161255,
+            "Type": "ORGANIZATION",
+            "Text": "@Support",
+            "BeginOffset": 70,
+            "EndOffset": 78
+        }
+    ]
+}

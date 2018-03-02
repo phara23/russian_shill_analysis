@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6511947512626648,
+            "Type": "PERSON",
+            "Text": "@preciousliberty",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.616757333278656,
+            "Type": "ORGANIZATION",
+            "Text": "TWITTER",
+            "BeginOffset": 21,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9870790243148804,
+            "Type": "QUANTITY",
+            "Text": "63%",
+            "BeginOffset": 80,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.9942939281463623,
+            "Type": "QUANTITY",
+            "Text": "37%",
+            "BeginOffset": 94,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.6062860488891602,
+            "Type": "PERSON",
+            "Text": "#p2",
+            "BeginOffset": 116,
+            "EndOffset": 119
+        },
+        {
+            "Score": 0.9905390739440918,
+            "Type": "OTHER",
+            "Text": "https://t.co/T9538L",
+            "BeginOffset": 120,
+            "EndOffset": 139
+        }
+    ]
+}

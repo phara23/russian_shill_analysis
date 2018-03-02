@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8599668145179749,
+            "Type": "PERSON",
+            "Text": "@IvoryDove",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9930679798126221,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 42,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9988096952438354,
+            "Type": "PERSON",
+            "Text": "Ted Cruz",
+            "BeginOffset": 61,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.963090717792511,
+            "Type": "OTHER",
+            "Text": "https://t.co/qXBWdQL7pK",
+            "BeginOffset": 73,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.3510376513004303,
+            "Type": "PERSON",
+            "Text": "#CruzCrew",
+            "BeginOffset": 98,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.9992741942405701,
+            "Type": "OTHER",
+            "Text": "https://t.co/Hne5jMlnbr",
+            "BeginOffset": 115,
+            "EndOffset": 138
+        }
+    ]
+}

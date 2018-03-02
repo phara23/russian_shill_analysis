@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8507110476493835,
+            "Type": "ORGANIZATION",
+            "Text": "@V_of_Europe",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9739945530891418,
+            "Type": "ORGANIZATION",
+            "Text": "FACEBOOK",
+            "BeginOffset": 17,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9950758814811707,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 46,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9639426469802856,
+            "Type": "ORGANIZATION",
+            "Text": "FBI",
+            "BeginOffset": 62,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9999613761901855,
+            "Type": "OTHER",
+            "Text": "https://t.co/HFAh85wbWq",
+            "BeginOffset": 74,
+            "EndOffset": 97
+        }
+    ]
+}

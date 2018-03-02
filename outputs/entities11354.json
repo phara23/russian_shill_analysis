@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7254142761230469,
+            "Type": "PERSON",
+            "Text": "@NewWisGov",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.993403434753418,
+            "Type": "PERSON",
+            "Text": "Scott Walker",
+            "BeginOffset": 15,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.4119358956813812,
+            "Type": "QUANTITY",
+            "Text": "one",
+            "BeginOffset": 71,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.780669629573822,
+            "Type": "PERSON",
+            "Text": "@MacIverWisc",
+            "BeginOffset": 119,
+            "EndOffset": 131
+        },
+        {
+            "Score": 0.8703965544700623,
+            "Type": "OTHER",
+            "Text": "http://…",
+            "BeginOffset": 132,
+            "EndOffset": 140
+        }
+    ]
+}

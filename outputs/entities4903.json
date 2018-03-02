@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9856203198432922,
+            "Type": "PERSON",
+            "Text": "Gennifer Flowers",
+            "BeginOffset": 5,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.984250545501709,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 82,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9999514818191528,
+            "Type": "OTHER",
+            "Text": "https://t.co/d6IElO4jCK",
+            "BeginOffset": 87,
+            "EndOffset": 110
+        }
+    ]
+}

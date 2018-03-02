@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9409860372543335,
+            "Type": "PERSON",
+            "Text": "@Patriot_MM",
+            "BeginOffset": 0,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9772495031356812,
+            "Type": "OTHER",
+            "Text": "https://t.co/pqjTZA90FE",
+            "BeginOffset": 44,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9739333987236023,
+            "Type": "OTHER",
+            "Text": "https://t.co/BaogEYYACv",
+            "BeginOffset": 75,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.6207247972488403,
+            "Type": "QUANTITY",
+            "Text": "#2A",
+            "BeginOffset": 111,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.9998051524162292,
+            "Type": "OTHER",
+            "Text": "https://t.co/5pauHye1PD",
+            "BeginOffset": 115,
+            "EndOffset": 138
+        }
+    ]
+}

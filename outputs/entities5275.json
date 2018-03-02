@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9152392148971558,
+            "Type": "PERSON",
+            "Text": "@shortwave8669",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8211470246315002,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 25,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9999837875366211,
+            "Type": "OTHER",
+            "Text": "https://t.co/i3wV7spYd3",
+            "BeginOffset": 58,
+            "EndOffset": 81
+        }
+    ]
+}

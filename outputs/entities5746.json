@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8077102303504944,
+            "Type": "PERSON",
+            "Text": "@mdnij",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.8899042010307312,
+            "Type": "PERSON",
+            "Text": "@fyahlite",
+            "BeginOffset": 11,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.902008593082428,
+            "Type": "PERSON",
+            "Text": "@BWorthingtonIII",
+            "BeginOffset": 21,
+            "EndOffset": 37
+        }
+    ]
+}

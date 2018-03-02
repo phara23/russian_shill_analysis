@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7396259903907776,
+            "Type": "PERSON",
+            "Text": "@CandaceSmith",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.989517867565155,
+            "Type": "LOCATION",
+            "Text": "WASHINGTON, DC",
+            "BeginOffset": 19,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.8784767389297485,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 36,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.8383590579032898,
+            "Type": "TITLE",
+            "Text": "Medal of Honor",
+            "BeginOffset": 103,
+            "EndOffset": 117
+        },
+        {
+            "Score": 0.9045530557632446,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

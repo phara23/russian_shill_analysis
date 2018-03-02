@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8120676875114441,
+            "Type": "PERSON",
+            "Text": "@anne19brown",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9955409169197083,
+            "Type": "PERSON",
+            "Text": "@LarrySabato",
+            "BeginOffset": 33,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9606688618659973,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 73,
+            "EndOffset": 89
+        }
+    ]
+}

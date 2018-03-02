@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8109745979309082,
+            "Type": "PERSON",
+            "Text": "@OccupyDemocrats",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9966529011726379,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 47,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9999194145202637,
+            "Type": "OTHER",
+            "Text": "https://t.co/bqqyPz2Vai",
+            "BeginOffset": 102,
+            "EndOffset": 125
+        }
+    ]
+}

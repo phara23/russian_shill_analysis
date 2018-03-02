@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7974188327789307,
+            "Type": "PERSON",
+            "Text": "@DCClothesline",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9175006151199341,
+            "Type": "OTHER",
+            "Text": "https://t.co/oy65QosOa4",
+            "BeginOffset": 83,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.9997546076774597,
+            "Type": "OTHER",
+            "Text": "https://t.co/E0mWnhFnka",
+            "BeginOffset": 107,
+            "EndOffset": 130
+        }
+    ]
+}

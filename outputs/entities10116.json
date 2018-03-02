@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7442846894264221,
+            "Type": "PERSON",
+            "Text": "Peer Steinbrück",
+            "BeginOffset": 0,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.596642017364502,
+            "Type": "PERSON",
+            "Text": "Merkel",
+            "BeginOffset": 43,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.5183699131011963,
+            "Type": "PERSON",
+            "Text": "#Merkelmussbleiben",
+            "BeginOffset": 50,
+            "EndOffset": 68
+        }
+    ]
+}

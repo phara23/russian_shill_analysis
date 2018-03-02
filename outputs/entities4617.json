@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8889642953872681,
+            "Type": "PERSON",
+            "Text": "@FeministaJones",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.807225227355957,
+            "Type": "ORGANIZATION",
+            "Text": "PBO",
+            "BeginOffset": 28,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9937382936477661,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 37,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.7333537340164185,
+            "Type": "ORGANIZATION",
+            "Text": "NATO",
+            "BeginOffset": 59,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9994081258773804,
+            "Type": "DATE",
+            "Text": "July",
+            "BeginOffset": 72,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.9993197917938232,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 78,
+            "EndOffset": 83
+        }
+    ]
+}

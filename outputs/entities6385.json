@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7203163504600525,
+            "Type": "PERSON",
+            "Text": "@TheHemperor",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.89879310131073,
+            "Type": "PERSON",
+            "Text": "@KingLeoHawk",
+            "BeginOffset": 17,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9721645712852478,
+            "Type": "PERSON",
+            "Text": "@them00gly",
+            "BeginOffset": 30,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9155920743942261,
+            "Type": "PERSON",
+            "Text": "@schestowitz",
+            "BeginOffset": 41,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.7218785881996155,
+            "Type": "PERSON",
+            "Text": "@wikileaks",
+            "BeginOffset": 54,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.7684546709060669,
+            "Type": "ORGANIZATION",
+            "Text": "republicans",
+            "BeginOffset": 69,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.39042526483535767,
+            "Type": "ORGANIZATION",
+            "Text": "DT",
+            "BeginOffset": 110,
+            "EndOffset": 112
+        }
+    ]
+}

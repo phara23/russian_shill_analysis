@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9319816827774048,
+            "Type": "PERSON",
+            "Text": "@brianstelter",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9759644865989685,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 18,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.8368797302246094,
+            "Type": "PERSON",
+            "Text": "Rick @Stengel",
+            "BeginOffset": 58,
+            "EndOffset": 71
+        }
+    ]
+}

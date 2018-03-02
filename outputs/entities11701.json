@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9163364768028259,
+            "Type": "PERSON",
+            "Text": "@MrTerrellHarris",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.702726423740387,
+            "Type": "ORGANIZATION",
+            "Text": "Christian",
+            "BeginOffset": 37,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9755816459655762,
+            "Type": "PERSON",
+            "Text": "@jesus_rockin",
+            "BeginOffset": 78,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.8769827485084534,
+            "Type": "PERSON",
+            "Text": "@tristanism",
+            "BeginOffset": 92,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.7150941491127014,
+            "Type": "PERSON",
+            "Text": "RJ",
+            "BeginOffset": 116,
+            "EndOffset": 118
+        }
+    ]
+}

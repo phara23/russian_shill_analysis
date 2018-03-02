@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9422991871833801,
+            "Type": "PERSON",
+            "Text": "@MattMurph24",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9027396440505981,
+            "Type": "TITLE",
+            "Text": "The Voting Rights Act",
+            "BeginOffset": 17,
+            "EndOffset": 38
+        }
+    ]
+}

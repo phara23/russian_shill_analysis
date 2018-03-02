@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8948954939842224,
+            "Type": "PERSON",
+            "Text": "@Ange6H777",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9790135025978088,
+            "Type": "QUANTITY",
+            "Text": "1 Billion",
+            "BeginOffset": 47,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9702842235565186,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 60,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9999444484710693,
+            "Type": "OTHER",
+            "Text": "https://t.co/jGNPv8h4sY",
+            "BeginOffset": 72,
+            "EndOffset": 95
+        }
+    ]
+}

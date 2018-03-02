@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8553562164306641,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9121361374855042,
+            "Type": "ORGANIZATION",
+            "Text": "WikiLeaks",
+            "BeginOffset": 14,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9953128099441528,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 46,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9521484971046448,
+            "Type": "OTHER",
+            "Text": "https://t.co/uQ31yoiruI",
+            "BeginOffset": 74,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.718687117099762,
+            "Type": "PERSON",
+            "Text": "@LiveNewsCloud",
+            "BeginOffset": 98,
+            "EndOffset": 112
+        }
+    ]
+}

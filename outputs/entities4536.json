@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9662171006202698,
+            "Type": "PERSON",
+            "Text": "@CajunKangaroo",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.3094867765903473,
+            "Type": "PERSON",
+            "Text": "Wiki",
+            "BeginOffset": 29,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.8219432234764099,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 46,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9933544397354126,
+            "Type": "PERSON",
+            "Text": "Bill Clinton",
+            "BeginOffset": 101,
+            "EndOffset": 113
+        }
+    ]
+}

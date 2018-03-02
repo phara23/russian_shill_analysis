@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8334025740623474,
+            "Type": "PERSON",
+            "Text": "@TrumpNewss",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9666072130203247,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 24,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9988526105880737,
+            "Type": "PERSON",
+            "Text": "Tim Kaine",
+            "BeginOffset": 40,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9507689476013184,
+            "Type": "OTHER",
+            "Text": "https://t.co/OHKlinIVRc",
+            "BeginOffset": 76,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.9995974898338318,
+            "Type": "OTHER",
+            "Text": "https://t.co/GSmEeVGHcp",
+            "BeginOffset": 100,
+            "EndOffset": 123
+        }
+    ]
+}

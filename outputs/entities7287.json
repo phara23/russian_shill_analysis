@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8447448015213013,
+            "Type": "PERSON",
+            "Text": "@AnnoGalactic",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9943360686302185,
+            "Type": "DATE",
+            "Text": "Wednesday",
+            "BeginOffset": 37,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.7580603361129761,
+            "Type": "PERSON",
+            "Text": "#tt",
+            "BeginOffset": 48,
+            "EndOffset": 51
+        }
+    ]
+}

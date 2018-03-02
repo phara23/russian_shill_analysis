@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8344552516937256,
+            "Type": "ORGANIZATION",
+            "Text": "@T17R_TEdinger",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.5860104560852051,
+            "Type": "PERSON",
+            "Text": "#Trump",
+            "BeginOffset": 19,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9832268357276917,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 32,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9996733665466309,
+            "Type": "OTHER",
+            "Text": "https://t.co/2f7C0LeX0z",
+            "BeginOffset": 66,
+            "EndOffset": 89
+        }
+    ]
+}

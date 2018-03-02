@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8471770882606506,
+            "Type": "PERSON",
+            "Text": "@mklifeatrandom",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7241982221603394,
+            "Type": "QUANTITY",
+            "Text": "5Words",
+            "BeginOffset": 32,
+            "EndOffset": 38
+        }
+    ]
+}

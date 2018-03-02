@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8581712245941162,
+            "Type": "PERSON",
+            "Text": "@gerfingerpoken",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7177143692970276,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 20,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9766407012939453,
+            "Type": "ORGANIZATION",
+            "Text": "ISIS",
+            "BeginOffset": 33,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.7496454119682312,
+            "Type": "QUANTITY",
+            "Text": "2 Save Environment",
+            "BeginOffset": 53,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.5981572270393372,
+            "Type": "OTHER",
+            "Text": "American",
+            "BeginOffset": 75,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.9253210425376892,
+            "Type": "OTHER",
+            "Text": "https://t.co/AOitkIjgus",
+            "BeginOffset": 95,
+            "EndOffset": 118
+        },
+        {
+            "Score": 0.955565869808197,
+            "Type": "OTHER",
+            "Text": "https://t.co/Evjt",
+            "BeginOffset": 122,
+            "EndOffset": 139
+        }
+    ]
+}

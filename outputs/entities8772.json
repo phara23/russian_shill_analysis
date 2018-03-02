@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9503031373023987,
+            "Type": "PERSON",
+            "Text": "@ErikHandy",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9426078796386719,
+            "Type": "QUANTITY",
+            "Text": "Season 9",
+            "BeginOffset": 27,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.8723968863487244,
+            "Type": "QUANTITY",
+            "Text": "ONE star",
+            "BeginOffset": 72,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.9660261869430542,
+            "Type": "QUANTITY",
+            "Text": "4",
+            "BeginOffset": 88,
+            "EndOffset": 89
+        }
+    ]
+}

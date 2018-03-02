@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7803073525428772,
+            "Type": "ORGANIZATION",
+            "Text": "@i24NEWS_EN",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.5414407253265381,
+            "Type": "OTHER",
+            "Text": "Iraqi",
+            "BeginOffset": 27,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.8936399221420288,
+            "Type": "LOCATION",
+            "Text": "Mosul",
+            "BeginOffset": 47,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9903907775878906,
+            "Type": "ORGANIZATION",
+            "Text": "ISIS",
+            "BeginOffset": 74,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.9385698437690735,
+            "Type": "OTHER",
+            "Text": "https://t.co/rISjWBid9E",
+            "BeginOffset": 79,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.9999866485595703,
+            "Type": "OTHER",
+            "Text": "https://t.co/ZydBs9immd",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7944186925888062,
+            "Type": "PERSON",
+            "Text": "@Timsomor",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.866737961769104,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 14,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.8163390755653381,
+            "Type": "PERSON",
+            "Text": "@4BlackThen",
+            "BeginOffset": 23,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9989159107208252,
+            "Type": "OTHER",
+            "Text": "https://t.co/jRDmpzdDJG",
+            "BeginOffset": 81,
+            "EndOffset": 104
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8743072748184204,
+            "Type": "PERSON",
+            "Text": "@theonlyadult",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7713353633880615,
+            "Type": "PERSON",
+            "Text": "@jaketapper",
+            "BeginOffset": 34,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9999021291732788,
+            "Type": "OTHER",
+            "Text": "https://t.co/7KSqYVBMts",
+            "BeginOffset": 91,
+            "EndOffset": 114
+        }
+    ]
+}

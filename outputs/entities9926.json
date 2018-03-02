@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9240589141845703,
+            "Type": "PERSON",
+            "Text": "@WayneDupreeShow",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.30819228291511536,
+            "Type": "ORGANIZATION",
+            "Text": "NC",
+            "BeginOffset": 21,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.38776758313179016,
+            "Type": "QUANTITY",
+            "Text": "411",
+            "BeginOffset": 46,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9944374561309814,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 51,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9793093204498291,
+            "Type": "OTHER",
+            "Text": "https://t.co/2yWn8patLN",
+            "BeginOffset": 86,
+            "EndOffset": 109
+        },
+        {
+            "Score": 0.8200467824935913,
+            "Type": "ORGANIZATION",
+            "Text": "@WayneDupreeShow",
+            "BeginOffset": 114,
+            "EndOffset": 130
+        }
+    ]
+}

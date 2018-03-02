@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9223305583000183,
+            "Type": "PERSON",
+            "Text": "@TellyStern",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7126947045326233,
+            "Type": "EVENT",
+            "Text": "Holocaust",
+            "BeginOffset": 16,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.7621679306030273,
+            "Type": "QUANTITY",
+            "Text": "11M",
+            "BeginOffset": 53,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.6209256649017334,
+            "Type": "PERSON",
+            "Text": "#Bush43",
+            "BeginOffset": 65,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.4610383212566376,
+            "Type": "ORGANIZATION",
+            "Text": "#PEPFAR",
+            "BeginOffset": 75,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.8719443678855896,
+            "Type": "QUANTITY",
+            "Text": "12M",
+            "BeginOffset": 89,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.45808979868888855,
+            "Type": "PERSON",
+            "Text": "LW",
+            "BeginOffset": 114,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.9102281332015991,
+            "Type": "ORGANIZATION",
+            "Text": "Nazis",
+            "BeginOffset": 125,
+            "EndOffset": 130
+        }
+    ]
+}

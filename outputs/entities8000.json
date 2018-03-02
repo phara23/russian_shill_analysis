@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9842447638511658,
+            "Type": "ORGANIZATION",
+            "Text": "YouTube",
+            "BeginOffset": 27,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.8890811204910278,
+            "Type": "QUANTITY",
+            "Text": "2000 subs",
+            "BeginOffset": 53,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9916176199913025,
+            "Type": "QUANTITY",
+            "Text": "9 months",
+            "BeginOffset": 66,
+            "EndOffset": 74
+        }
+    ]
+}

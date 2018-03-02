@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9948061108589172,
+            "Type": "PERSON",
+            "Text": "@Stevenwhirsch99",
+            "BeginOffset": 0,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9907732605934143,
+            "Type": "PERSON",
+            "Text": "@Darren32895836",
+            "BeginOffset": 17,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.810706377029419,
+            "Type": "PERSON",
+            "Text": "@springsteen",
+            "BeginOffset": 42,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9896858334541321,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 82,
+            "EndOffset": 86
+        }
+    ]
+}

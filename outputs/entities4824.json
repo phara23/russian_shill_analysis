@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.881439208984375,
+            "Type": "PERSON",
+            "Text": "@backyardconserv",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9956042766571045,
+            "Type": "DATE",
+            "Text": "2005",
+            "BeginOffset": 76,
+            "EndOffset": 80
+        }
+    ]
+}

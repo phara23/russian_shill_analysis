@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9223566055297852,
+            "Type": "PERSON",
+            "Text": "@mannydipreso",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.6173297762870789,
+            "Type": "QUANTITY",
+            "Text": "Two",
+            "BeginOffset": 18,
+            "EndOffset": 21
+        }
+    ]
+}

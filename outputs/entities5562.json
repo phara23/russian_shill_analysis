@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9044449925422668,
+            "Type": "PERSON",
+            "Text": "@BrettFishA",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9983919262886047,
+            "Type": "PERSON",
+            "Text": "Doug",
+            "BeginOffset": 120,
+            "EndOffset": 124
+        }
+    ]
+}

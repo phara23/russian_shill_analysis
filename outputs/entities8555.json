@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8825145959854126,
+            "Type": "PERSON",
+            "Text": "@PatriotTweetz",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9232044219970703,
+            "Type": "PERSON",
+            "Text": "@ cruzgrassroots",
+            "BeginOffset": 22,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.6400626301765442,
+            "Type": "ORGANIZATION",
+            "Text": "#TedCruz",
+            "BeginOffset": 61,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.7028476595878601,
+            "Type": "ORGANIZATION",
+            "Text": "#CarlyFiorina",
+            "BeginOffset": 83,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.6761602759361267,
+            "Type": "PERSON",
+            "Text": "#CruzCrew",
+            "BeginOffset": 114,
+            "EndOffset": 123
+        }
+    ]
+}

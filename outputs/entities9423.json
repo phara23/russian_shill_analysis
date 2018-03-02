@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8018432259559631,
+            "Type": "PERSON",
+            "Text": "@ConservaMomUSA",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8407127261161804,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 20,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9017467498779297,
+            "Type": "PERSON",
+            "Text": "@megynkelly 2",
+            "BeginOffset": 34,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.8436272144317627,
+            "Type": "ORGANIZATION",
+            "Text": "@CNN",
+            "BeginOffset": 63,
+            "EndOffset": 67
+        }
+    ]
+}

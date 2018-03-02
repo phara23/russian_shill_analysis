@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9020858407020569,
+            "Type": "ORGANIZATION",
+            "Text": "Missouri National Guard",
+            "BeginOffset": 0,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.34809279441833496,
+            "Type": "LOCATION",
+            "Text": "Ferguson",
+            "BeginOffset": 35,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9997581839561462,
+            "Type": "OTHER",
+            "Text": "http://t.co/85ofVzeo3D",
+            "BeginOffset": 71,
+            "EndOffset": 93
+        }
+    ]
+}

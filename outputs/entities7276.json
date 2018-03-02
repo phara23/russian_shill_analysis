@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9544414281845093,
+            "Type": "PERSON",
+            "Text": "@tom_luu",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.856338620185852,
+            "Type": "LOCATION",
+            "Text": "U.S.",
+            "BeginOffset": 55,
+            "EndOffset": 59
+        }
+    ]
+}

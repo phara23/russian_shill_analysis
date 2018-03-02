@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8161089420318604,
+            "Type": "PERSON",
+            "Text": "@BlueWaterDays",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9839881062507629,
+            "Type": "TITLE",
+            "Text": "Bible",
+            "BeginOffset": 54,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.5862641334533691,
+            "Type": "ORGANIZATION",
+            "Text": "Christian",
+            "BeginOffset": 77,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.965723991394043,
+            "Type": "ORGANIZATION",
+            "Text": "Catholic",
+            "BeginOffset": 90,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.6305122375488281,
+            "Type": "PERSON",
+            "Text": "God",
+            "BeginOffset": 113,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.7037014961242676,
+            "Type": "PERSON",
+            "Text": "Hil",
+            "BeginOffset": 136,
+            "EndOffset": 139
+        }
+    ]
+}

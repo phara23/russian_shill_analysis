@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6075191497802734,
+            "Type": "ORGANIZATION",
+            "Text": "Ravens",
+            "BeginOffset": 31,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9514825344085693,
+            "Type": "OTHER",
+            "Text": "http://t.co/eoPttOCAqm",
+            "BeginOffset": 45,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9999969005584717,
+            "Type": "OTHER",
+            "Text": "https://t.co/Tt69hLEP61",
+            "BeginOffset": 68,
+            "EndOffset": 91
+        }
+    ]
+}

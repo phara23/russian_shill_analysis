@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7909235954284668,
+            "Type": "PERSON",
+            "Text": "@TXhighplains",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.5759356021881104,
+            "Type": "EVENT",
+            "Text": "Afghan War",
+            "BeginOffset": 18,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.8201226592063904,
+            "Type": "PERSON",
+            "Text": "Jes",
+            "BeginOffset": 65,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.8122959733009338,
+            "Type": "PERSON",
+            "Text": "@TheBlaze",
+            "BeginOffset": 76,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.9999475479125977,
+            "Type": "OTHER",
+            "Text": "https://t.co/B6qu0Uu16Y",
+            "BeginOffset": 86,
+            "EndOffset": 109
+        }
+    ]
+}

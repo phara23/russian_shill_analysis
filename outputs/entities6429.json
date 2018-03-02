@@ -1,0 +1,74 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5622434020042419,
+            "Type": "QUANTITY",
+            "Text": "83e",
+            "BeginOffset": 4,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.8435031771659851,
+            "Type": "QUANTITY",
+            "Text": "1c",
+            "BeginOffset": 7,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.8313817977905273,
+            "Type": "QUANTITY",
+            "Text": "53fb",
+            "BeginOffset": 9,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.669742226600647,
+            "Type": "QUANTITY",
+            "Text": "56d",
+            "BeginOffset": 13,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.6456958651542664,
+            "Type": "QUANTITY",
+            "Text": "485",
+            "BeginOffset": 16,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9461588859558105,
+            "Type": "PERSON",
+            "Text": "@Eric_the_bench",
+            "BeginOffset": 21,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9510330557823181,
+            "Type": "PERSON",
+            "Text": "@AshleyWarrior",
+            "BeginOffset": 37,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9162662029266357,
+            "Type": "PERSON",
+            "Text": "@col_nj",
+            "BeginOffset": 52,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.9605408310890198,
+            "Type": "PERSON",
+            "Text": "@skb_sara",
+            "BeginOffset": 60,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.973756730556488,
+            "Type": "PERSON",
+            "Text": "@Elena07617349",
+            "BeginOffset": 70,
+            "EndOffset": 84
+        }
+    ]
+}

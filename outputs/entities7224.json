@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8826006054878235,
+            "Type": "PERSON",
+            "Text": "@PrisonPlanet",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9407555460929871,
+            "Type": "PERSON",
+            "Text": "@glennbeck",
+            "BeginOffset": 32,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9955210089683533,
+            "Type": "PERSON",
+            "Text": "Ron Paul",
+            "BeginOffset": 73,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.9948042035102844,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 121,
+            "EndOffset": 126
+        },
+        {
+            "Score": 0.9191042184829712,
+            "Type": "OTHER",
+            "Text": "https://t.c",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

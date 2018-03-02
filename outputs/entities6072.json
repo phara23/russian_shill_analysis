@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9614194631576538,
+            "Type": "PERSON",
+            "Text": "@JennaVictori",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8284892439842224,
+            "Type": "QUANTITY",
+            "Text": "5star",
+            "BeginOffset": 52,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.8656835556030273,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

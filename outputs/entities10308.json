@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8431630730628967,
+            "Type": "PERSON",
+            "Text": "@DJAYTIGER",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.5603168606758118,
+            "Type": "TITLE",
+            "Text": "#GangStarr 4",
+            "BeginOffset": 15,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.2712031602859497,
+            "Type": "TITLE",
+            "Text": "GangStarrForeva",
+            "BeginOffset": 40,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.970485270023346,
+            "Type": "OTHER",
+            "Text": "https://t.co/YYxy1KDnRO",
+            "BeginOffset": 68,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.9999908208847046,
+            "Type": "OTHER",
+            "Text": "https://t.co/nV7gGDwcLk",
+            "BeginOffset": 92,
+            "EndOffset": 115
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9937214851379395,
+            "Text": "This election",
+            "BeginOffset": 1,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9981296062469482,
+            "Text": "the people",
+            "BeginOffset": 51,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9402927160263062,
+            "Text": "the politicians",
+            "BeginOffset": 69,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.6801050901412964,
+            "Text": "D. Trump",
+            "BeginOffset": 89,
+            "EndOffset": 97
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.2812454104423523,
+            "Type": "PERSON",
+            "Text": "#HillaryClinton",
+            "BeginOffset": 0,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.546747088432312,
+            "Type": "PERSON",
+            "Text": "#Pennsylvania",
+            "BeginOffset": 16,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9897634387016296,
+            "Type": "DATE",
+            "Text": "August15",
+            "BeginOffset": 63,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9999816417694092,
+            "Type": "OTHER",
+            "Text": "https://t.co/B6zJw7xK6w",
+            "BeginOffset": 72,
+            "EndOffset": 95
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.903325080871582,
+            "Type": "PERSON",
+            "Text": "@foxfire2112",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9061039686203003,
+            "Type": "QUANTITY",
+            "Text": "8",
+            "BeginOffset": 38,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9899587631225586,
+            "Type": "QUANTITY",
+            "Text": "16 years",
+            "BeginOffset": 43,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.8895251154899597,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 102,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.9719385504722595,
+            "Type": "OTHER",
+            "Text": "https://t.co/bnz",
+            "BeginOffset": 123,
+            "EndOffset": 139
+        }
+    ]
+}

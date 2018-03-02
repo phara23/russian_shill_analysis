@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9197905659675598,
+            "Type": "PERSON",
+            "Text": "@AndreaNimchuk",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.5753680467605591,
+            "Type": "EVENT",
+            "Text": "Christmas",
+            "BeginOffset": 56,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9999125003814697,
+            "Type": "OTHER",
+            "Text": "https://t.co/lVaY4n1Y39",
+            "BeginOffset": 74,
+            "EndOffset": 97
+        }
+    ]
+}

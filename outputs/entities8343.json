@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8593999147415161,
+            "Type": "PERSON",
+            "Text": "@the_mrstouch",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8591051697731018,
+            "Type": "TITLE",
+            "Text": "Hunger Games",
+            "BeginOffset": 43,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.7471330165863037,
+            "Type": "QUANTITY",
+            "Text": "100",
+            "BeginOffset": 81,
+            "EndOffset": 84
+        }
+    ]
+}

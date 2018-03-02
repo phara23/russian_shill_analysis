@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7302122712135315,
+            "Type": "PERSON",
+            "Text": "@PoliticalGroove",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9933694005012512,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 50,
+            "EndOffset": 55
+        }
+    ]
+}

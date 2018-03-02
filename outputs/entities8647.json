@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5685027241706848,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.7828097939491272,
+            "Type": "ORGANIZATION",
+            "Text": "@Love4Military",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.848646342754364,
+            "Type": "OTHER",
+            "Text": "https://t.co/zhBPYHOWbd",
+            "BeginOffset": 92,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.35541874170303345,
+            "Type": "ORGANIZATION",
+            "Text": "#WakeUpAmerica",
+            "BeginOffset": 116,
+            "EndOffset": 130
+        }
+    ]
+}

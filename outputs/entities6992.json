@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5006040334701538,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.5707268714904785,
+            "Type": "ORGANIZATION",
+            "Text": "@NoParty",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.995180606842041,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 11,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.996751070022583,
+            "Type": "PERSON",
+            "Text": "Jeb Bush",
+            "BeginOffset": 17,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9999186992645264,
+            "Type": "OTHER",
+            "Text": "https://t.co/E140fNZyuR",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9345450401306152,
+            "Type": "PERSON",
+            "Text": "@seanhannity",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8343334794044495,
+            "Type": "PERSON",
+            "Text": "@brianstelter",
+            "BeginOffset": 27,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9693921804428101,
+            "Type": "ORGANIZATION",
+            "Text": "CNN",
+            "BeginOffset": 53,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9143517017364502,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 72,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.6198515892028809,
+            "Type": "ORGANIZATION",
+            "Text": "FNC",
+            "BeginOffset": 129,
+            "EndOffset": 132
+        }
+    ]
+}

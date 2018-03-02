@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8706193566322327,
+            "Type": "PERSON",
+            "Text": "@jmartNYT",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.7854833006858826,
+            "Type": "ORGANIZATION",
+            "Text": "Senate",
+            "BeginOffset": 46,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.991549015045166,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 61,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.8322499990463257,
+            "Type": "OTHER",
+            "Text": "https://t.co/CEHuZbRnUl",
+            "BeginOffset": 112,
+            "EndOffset": 135
+        },
+        {
+            "Score": 0.9032695293426514,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 137,
+            "EndOffset": 146
+        }
+    ]
+}

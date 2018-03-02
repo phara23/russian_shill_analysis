@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9651899337768555,
+            "Type": "PERSON",
+            "Text": "@LynnKuennen",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7546183466911316,
+            "Type": "ORGANIZATION",
+            "Text": "@Maybelline",
+            "BeginOffset": 33,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.7060964703559875,
+            "Type": "ORGANIZATION",
+            "Text": "@Maybelline",
+            "BeginOffset": 73,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9999252557754517,
+            "Type": "OTHER",
+            "Text": "https://t.co/sSUMaZVdXq",
+            "BeginOffset": 86,
+            "EndOffset": 109
+        }
+    ]
+}

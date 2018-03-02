@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9036272168159485,
+            "Type": "PERSON",
+            "Text": "@Law1780",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9906925559043884,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 64,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.7960260510444641,
+            "Type": "OTHER",
+            "Text": "https://t.co/pG0ugFBzYk",
+            "BeginOffset": 101,
+            "EndOffset": 124
+        },
+        {
+            "Score": 0.3506556749343872,
+            "Type": "ORGANIZATION",
+            "Text": "#PJNET",
+            "BeginOffset": 125,
+            "EndOffset": 131
+        }
+    ]
+}

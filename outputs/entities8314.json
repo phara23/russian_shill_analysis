@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8605800867080688,
+            "Type": "PERSON",
+            "Text": "@MacBethSpeaks",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.998655378818512,
+            "Type": "PERSON",
+            "Text": "John Lewis",
+            "BeginOffset": 19,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.8638201951980591,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 97,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.8436805009841919,
+            "Type": "ORGANIZATION",
+            "Text": "HRC",
+            "BeginOffset": 127,
+            "EndOffset": 130
+        }
+    ]
+}

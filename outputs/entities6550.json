@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7836971879005432,
+            "Type": "PERSON",
+            "Text": "@potomacpatriot",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.949961245059967,
+            "Type": "OTHER",
+            "Text": "https://t.co/mfKJ1IWfBy",
+            "BeginOffset": 85,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.9234639406204224,
+            "Type": "ORGANIZATION",
+            "Text": "@BreitbartNews",
+            "BeginOffset": 113,
+            "EndOffset": 127
+        }
+    ]
+}

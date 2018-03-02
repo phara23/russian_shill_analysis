@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8852586150169373,
+            "Type": "PERSON",
+            "Text": "@jayceodpromoter",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9479794502258301,
+            "Type": "PERSON",
+            "Text": "@jamesgarlimah",
+            "BeginOffset": 28,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9623293876647949,
+            "Type": "ORGANIZATION",
+            "Text": "#instagram",
+            "BeginOffset": 46,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9999871253967285,
+            "Type": "OTHER",
+            "Text": "https://t.co/8vNyA75TBc",
+            "BeginOffset": 57,
+            "EndOffset": 80
+        }
+    ]
+}

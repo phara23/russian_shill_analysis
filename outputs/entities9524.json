@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8523228168487549,
+            "Type": "PERSON",
+            "Text": "@DBHnBuckhead",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.926785409450531,
+            "Type": "PERSON",
+            "Text": "@SheriffClarke",
+            "BeginOffset": 18,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9964905381202698,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 43,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.6307228207588196,
+            "Type": "PERSON",
+            "Text": "Obama Brennan",
+            "BeginOffset": 84,
+            "EndOffset": 97
+        }
+    ]
+}

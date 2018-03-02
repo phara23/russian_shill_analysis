@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7316950559616089,
+            "Type": "LOCATION",
+            "Text": "Norway",
+            "BeginOffset": 0,
+            "EndOffset": 6
+        },
+        {
+            "Score": 0.9997658133506775,
+            "Type": "OTHER",
+            "Text": "https://t.co/DaWJ2JDfdh",
+            "BeginOffset": 19,
+            "EndOffset": 42
+        }
+    ]
+}

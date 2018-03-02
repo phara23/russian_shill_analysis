@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8665215969085693,
+            "Type": "PERSON",
+            "Text": "@ElPenguinito",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.996879518032074,
+            "Type": "PERSON",
+            "Text": "Jack Frost",
+            "BeginOffset": 44,
+            "EndOffset": 54
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8905867338180542,
+            "Type": "PERSON",
+            "Text": "@DBloom451",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9978729486465454,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 18,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9445910453796387,
+            "Type": "LOCATION",
+            "Text": "Ohio",
+            "BeginOffset": 30,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.8243194818496704,
+            "Type": "PERSON",
+            "Text": "@JohnKasich",
+            "BeginOffset": 68,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.999922513961792,
+            "Type": "OTHER",
+            "Text": "https://t.co/jmKQHEuosJ",
+            "BeginOffset": 81,
+            "EndOffset": 104
+        }
+    ]
+}

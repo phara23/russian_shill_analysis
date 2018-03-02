@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9384604692459106,
+            "Type": "PERSON",
+            "Text": "@ScottPresler",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.939886748790741,
+            "Type": "PERSON",
+            "Text": "@ScottWalker",
+            "BeginOffset": 34,
+            "EndOffset": 46
+        }
+    ]
+}

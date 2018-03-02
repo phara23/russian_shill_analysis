@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8187710642814636,
+            "Type": "PERSON",
+            "Text": "@BitchPudin",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.4624899625778198,
+            "Type": "EVENT",
+            "Text": "Halloween",
+            "BeginOffset": 69,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.9729562997817993,
+            "Type": "QUANTITY",
+            "Text": "5 days",
+            "BeginOffset": 87,
+            "EndOffset": 93
+        }
+    ]
+}

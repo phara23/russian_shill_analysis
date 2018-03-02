@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9366571307182312,
+            "Type": "PERSON",
+            "Text": "O'Malley",
+            "BeginOffset": 26,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.7426607608795166,
+            "Type": "ORGANIZATION",
+            "Text": "Democratic",
+            "BeginOffset": 49,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.9999195337295532,
+            "Type": "OTHER",
+            "Text": "https://t.co/VGpljfGf2S",
+            "BeginOffset": 71,
+            "EndOffset": 94
+        }
+    ]
+}

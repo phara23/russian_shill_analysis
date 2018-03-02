@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6896544098854065,
+            "Type": "PERSON",
+            "Text": "@Quinntessence_",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.6228329539299011,
+            "Type": "LOCATION",
+            "Text": "Canadian",
+            "BeginOffset": 67,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.9985462427139282,
+            "Type": "DATE",
+            "Text": "June",
+            "BeginOffset": 79,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.8738952875137329,
+            "Type": "EVENT",
+            "Text": "Thanksgiving",
+            "BeginOffset": 111,
+            "EndOffset": 123
+        },
+        {
+            "Score": 0.9988337159156799,
+            "Type": "DATE",
+            "Text": "October",
+            "BeginOffset": 127,
+            "EndOffset": 134
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6658980846405029,
+            "Type": "ORGANIZATION",
+            "Text": "@ActivistPost",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.6192191243171692,
+            "Type": "ORGANIZATION",
+            "Text": "House Bill",
+            "BeginOffset": 18,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9999866485595703,
+            "Type": "OTHER",
+            "Text": "https://t.co/bDjTxFuR69",
+            "BeginOffset": 78,
+            "EndOffset": 101
+        }
+    ]
+}

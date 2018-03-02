@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7813313603401184,
+            "Type": "PERSON",
+            "Text": "@cristinalaila1",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9799878597259521,
+            "Type": "ORGANIZATION",
+            "Text": "CNN",
+            "BeginOffset": 37,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.987017810344696,
+            "Type": "PERSON",
+            "Text": "Don Lemon",
+            "BeginOffset": 43,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9979295134544373,
+            "Type": "PERSON",
+            "Text": "Loretta Lynch",
+            "BeginOffset": 69,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.9984949827194214,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 104,
+            "EndOffset": 111
+        }
+    ]
+}

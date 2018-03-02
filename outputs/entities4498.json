@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8970247507095337,
+            "Type": "PERSON",
+            "Text": "@rcooley123",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9815177321434021,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 43,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9997360110282898,
+            "Type": "OTHER",
+            "Text": "https://t.co/budBPEhbbx",
+            "BeginOffset": 48,
+            "EndOffset": 71
+        }
+    ]
+}

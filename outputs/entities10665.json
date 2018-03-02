@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6654283404350281,
+            "Type": "PERSON",
+            "Text": "@PeeNutTweet",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9438332915306091,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 38,
+            "EndOffset": 54
+        }
+    ]
+}

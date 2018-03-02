@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8728457093238831,
+            "Type": "PERSON",
+            "Text": "@Boazziz",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8526822924613953,
+            "Type": "QUANTITY",
+            "Text": "2 World leaders",
+            "BeginOffset": 13,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9089239835739136,
+            "Type": "QUANTITY",
+            "Text": "1st",
+            "BeginOffset": 112,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.965831995010376,
+            "Type": "QUANTITY",
+            "Text": "2nd",
+            "BeginOffset": 138,
+            "EndOffset": 141
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8558498024940491,
+            "Type": "PERSON",
+            "Text": "@huffpostqueer",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8429875373840332,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 29,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9921352863311768,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 67,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.9881920218467712,
+            "Type": "PERSON",
+            "Text": "Cruz",
+            "BeginOffset": 77,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.8538256287574768,
+            "Type": "ORGANIZATION",
+            "Text": "RNC",
+            "BeginOffset": 117,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.9887219667434692,
+            "Type": "OTHER",
+            "Text": "https://t.co/BEB1s",
+            "BeginOffset": 121,
+            "EndOffset": 139
+        }
+    ]
+}

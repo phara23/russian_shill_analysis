@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9218549728393555,
+            "Type": "PERSON",
+            "Text": "@TGJones_62",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9936313033103943,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 40,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.996638298034668,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 75,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.7358201742172241,
+            "Type": "QUANTITY",
+            "Text": "9 Iron",
+            "BeginOffset": 89,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.9999486207962036,
+            "Type": "OTHER",
+            "Text": "https://t.co/mQ6NMGBAnD",
+            "BeginOffset": 98,
+            "EndOffset": 121
+        }
+    ]
+}

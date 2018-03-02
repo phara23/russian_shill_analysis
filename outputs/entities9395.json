@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9046253561973572,
+            "Type": "PERSON",
+            "Text": "@CarmineZozzora",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7515419721603394,
+            "Type": "ORGANIZATION",
+            "Text": "Pfizer",
+            "BeginOffset": 33,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.3522113859653473,
+            "Type": "ORGANIZATION",
+            "Text": "Xanax",
+            "BeginOffset": 50,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9988964796066284,
+            "Type": "PERSON",
+            "Text": "Jim Jones",
+            "BeginOffset": 92,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.9635100960731506,
+            "Type": "QUANTITY",
+            "Text": "4",
+            "BeginOffset": 117,
+            "EndOffset": 118
+        },
+        {
+            "Score": 0.9900525808334351,
+            "Type": "QUANTITY",
+            "Text": "8 years",
+            "BeginOffset": 122,
+            "EndOffset": 129
+        },
+        {
+            "Score": 0.7999254465103149,
+            "Type": "PERSON",
+            "Text": "Tru",
+            "BeginOffset": 136,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5089110136032104,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.7313820719718933,
+            "Type": "PERSON",
+            "Text": "@USAforTrump2016",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9526983499526978,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

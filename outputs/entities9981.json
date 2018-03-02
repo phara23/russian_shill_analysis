@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8250513076782227,
+            "Type": "PERSON",
+            "Text": "@BAMAPERRY",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.992490828037262,
+            "Type": "OTHER",
+            "Text": "https://t.co/Va0mb8q7h6",
+            "BeginOffset": 61,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.8690311908721924,
+            "Type": "ORGANIZATION",
+            "Text": "@worldnetdaily",
+            "BeginOffset": 89,
+            "EndOffset": 103
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8944159150123596,
+            "Type": "PERSON",
+            "Text": "@wadeharriot",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9669332504272461,
+            "Type": "TITLE",
+            "Text": "Academy Awards",
+            "BeginOffset": 28,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.8809489011764526,
+            "Type": "ORGANIZATION",
+            "Text": "NBA",
+            "BeginOffset": 78,
+            "EndOffset": 81
+        }
+    ]
+}

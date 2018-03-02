@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7843397259712219,
+            "Type": "PERSON",
+            "Text": "@DCClothesline",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9887214303016663,
+            "Type": "ORGANIZATION",
+            "Text": "NSA",
+            "BeginOffset": 44,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9407241940498352,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 70,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.9937905669212341,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 89,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.999995231628418,
+            "Type": "OTHER",
+            "Text": "https://t.co/32SGl98K38",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        }
+    ]
+}

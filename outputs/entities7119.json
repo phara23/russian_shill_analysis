@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9197919368743896,
+            "Type": "PERSON",
+            "Text": "@RealJamesWoods",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9198905825614929,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 24,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9864771366119385,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 73,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.999861478805542,
+            "Type": "OTHER",
+            "Text": "https://t.co/4iTuNa9cVe",
+            "BeginOffset": 81,
+            "EndOffset": 104
+        }
+    ]
+}

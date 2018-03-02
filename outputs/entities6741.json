@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8700369596481323,
+            "Type": "PERSON",
+            "Text": "@RealMrsPJNET",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8477924466133118,
+            "Type": "OTHER",
+            "Text": "MT @steve0423",
+            "BeginOffset": 18,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.7606242895126343,
+            "Type": "OTHER",
+            "Text": "https://t.co/CxPoB9Ks8s",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9429869651794434,
+            "Type": "PERSON",
+            "Text": "@josephjett",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.5049773454666138,
+            "Type": "ORGANIZATION",
+            "Text": "CANADA FX",
+            "BeginOffset": 16,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.8850544691085815,
+            "Type": "DATE",
+            "Text": "June",
+            "BeginOffset": 43,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.6928324699401855,
+            "Type": "ORGANIZATION",
+            "Text": "Fed",
+            "BeginOffset": 48,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.683181881904602,
+            "Type": "OTHER",
+            "Text": "Canadian",
+            "BeginOffset": 83,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.8377795219421387,
+            "Type": "OTHER",
+            "Text": "C.306",
+            "BeginOffset": 102,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.9159817099571228,
+            "Type": "OTHER",
+            "Text": "https://t.co/DtoBgNVSDH",
+            "BeginOffset": 111,
+            "EndOffset": 134
+        }
+    ]
+}

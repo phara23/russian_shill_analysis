@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9344176650047302,
+            "Type": "PERSON",
+            "Text": "@ScottMCraven",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9939845204353333,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 49,
+            "EndOffset": 54
+        }
+    ]
+}

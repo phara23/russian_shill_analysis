@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.826445996761322,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.7784903645515442,
+            "Type": "PERSON",
+            "Text": "@YourBlackWorld",
+            "BeginOffset": 14,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9471192955970764,
+            "Type": "QUANTITY",
+            "Text": "5 States",
+            "BeginOffset": 55,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.7070568203926086,
+            "Type": "OTHER",
+            "Text": "African American",
+            "BeginOffset": 69,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.9997476935386658,
+            "Type": "OTHER",
+            "Text": "https://t.co/gKAdCLxaBW",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        }
+    ]
+}

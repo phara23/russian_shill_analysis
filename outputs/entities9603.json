@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.945859432220459,
+            "Type": "PERSON",
+            "Text": "Khan",
+            "BeginOffset": 5,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9987269043922424,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 22,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9466717839241028,
+            "Type": "OTHER",
+            "Text": "https://t.co/J75BsGKKjM",
+            "BeginOffset": 50,
+            "EndOffset": 73
+        }
+    ]
+}

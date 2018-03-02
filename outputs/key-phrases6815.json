@@ -1,0 +1,28 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.8613105416297913,
+            "Text": "Trump",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9607031345367432,
+            "Text": "‘Time",
+            "BeginOffset": 11,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.5375518202781677,
+            "Text": "Borrow",
+            "BeginOffset": 20,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.8725661635398865,
+            "Text": "00 Billion or More",
+            "BeginOffset": 32,
+            "EndOffset": 50
+        }
+    ]
+}

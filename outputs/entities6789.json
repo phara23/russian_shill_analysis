@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5529558658599854,
+            "Type": "ORGANIZATION",
+            "Text": "MSM",
+            "BeginOffset": 0,
+            "EndOffset": 3
+        },
+        {
+            "Score": 0.46704205870628357,
+            "Type": "ORGANIZATION",
+            "Text": "#RNCinCLE",
+            "BeginOffset": 90,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.9999775886535645,
+            "Type": "OTHER",
+            "Text": "https://t.co/4KeHsIGS9h",
+            "BeginOffset": 100,
+            "EndOffset": 123
+        }
+    ]
+}

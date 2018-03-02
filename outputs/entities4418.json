@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.858272135257721,
+            "Type": "PERSON",
+            "Text": "@ElPenguinito",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7523348331451416,
+            "Type": "ORGANIZATION",
+            "Text": "PBS Kids",
+            "BeginOffset": 101,
+            "EndOffset": 109
+        }
+    ]
+}

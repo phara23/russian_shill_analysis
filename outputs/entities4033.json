@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8909217119216919,
+            "Type": "PERSON",
+            "Text": "@RealAlexJones",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.656328558921814,
+            "Type": "QUANTITY",
+            "Text": "Part 3",
+            "BeginOffset": 19,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9944864511489868,
+            "Type": "QUANTITY",
+            "Text": "14hrs",
+            "BeginOffset": 32,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.861335039138794,
+            "Type": "PERSON",
+            "Text": "President Trump",
+            "BeginOffset": 50,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9879959225654602,
+            "Type": "OTHER",
+            "Text": "https://t.co/OQtch0tDED",
+            "BeginOffset": 110,
+            "EndOffset": 133
+        }
+    ]
+}

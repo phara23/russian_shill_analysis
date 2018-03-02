@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.840027391910553,
+            "Type": "PERSON",
+            "Text": "@TeachersForBern",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9675333499908447,
+            "Type": "PERSON",
+            "Text": "Warren",
+            "BeginOffset": 21,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.948803186416626,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 37,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.993990957736969,
+            "Type": "PERSON",
+            "Text": "Sanders",
+            "BeginOffset": 69,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.9998477697372437,
+            "Type": "OTHER",
+            "Text": "https://t.co/NG0r0ASVED",
+            "BeginOffset": 106,
+            "EndOffset": 129
+        }
+    ]
+}

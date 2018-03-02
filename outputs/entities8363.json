@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.938161313533783,
+            "Type": "PERSON",
+            "Text": "@sarahbellumd",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9493571519851685,
+            "Type": "PERSON",
+            "Text": "@Johnsmiththatsm",
+            "BeginOffset": 19,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.8966335654258728,
+            "Type": "PERSON",
+            "Text": "trump",
+            "BeginOffset": 125,
+            "EndOffset": 130
+        }
+    ]
+}

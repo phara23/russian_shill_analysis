@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9296092987060547,
+            "Type": "PERSON",
+            "Text": "@adamhousley",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8048396110534668,
+            "Type": "QUANTITY",
+            "Text": "first",
+            "BeginOffset": 114,
+            "EndOffset": 119
+        }
+    ]
+}

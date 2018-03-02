@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9951270222663879,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 14,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.4439012110233307,
+            "Type": "LOCATION",
+            "Text": "Mexico",
+            "BeginOffset": 52,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9821637868881226,
+            "Type": "OTHER",
+            "Text": "https://t.co/V9A8hhfT9M",
+            "BeginOffset": 64,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.9699936509132385,
+            "Type": "OTHER",
+            "Text": "https://t.co/XDBaPnHm6c",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.9997891783714294,
+            "Type": "OTHER",
+            "Text": "https://t.co/S6QpNgAS2Q",
+            "BeginOffset": 114,
+            "EndOffset": 137
+        }
+    ]
+}

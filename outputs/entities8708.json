@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8650162816047668,
+            "Type": "PERSON",
+            "Text": "@PeteNicodemus",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.28109967708587646,
+            "Type": "ORGANIZATION",
+            "Text": "#AMERICA",
+            "BeginOffset": 19,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.4792341887950897,
+            "Type": "ORGANIZATION",
+            "Text": "#ABC",
+            "BeginOffset": 115,
+            "EndOffset": 119
+        },
+        {
+            "Score": 0.6997300386428833,
+            "Type": "ORGANIZATION",
+            "Text": "#CBS",
+            "BeginOffset": 120,
+            "EndOffset": 124
+        }
+    ]
+}

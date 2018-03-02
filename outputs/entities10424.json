@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8936151266098022,
+            "Type": "PERSON",
+            "Text": "@DeWattz",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9662778377532959,
+            "Type": "DATE",
+            "Text": "this morning",
+            "BeginOffset": 43,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.8828027248382568,
+            "Type": "PERSON",
+            "Text": "@goglobalwithpam",
+            "BeginOffset": 65,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.9999649524688721,
+            "Type": "OTHER",
+            "Text": "https://t.co/avVBHbkaM8",
+            "BeginOffset": 108,
+            "EndOffset": 131
+        }
+    ]
+}

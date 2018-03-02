@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5492845177650452,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8411648273468018,
+            "Type": "ORGANIZATION",
+            "Text": "@Fm1",
+            "BeginOffset": 3,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.6803159713745117,
+            "Type": "QUANTITY",
+            "Text": "1 Fm",
+            "BeginOffset": 36,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9996914863586426,
+            "Type": "OTHER",
+            "Text": "https://t.co/2FORqcnfiK",
+            "BeginOffset": 43,
+            "EndOffset": 66
+        }
+    ]
+}

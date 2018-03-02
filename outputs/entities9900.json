@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.902718722820282,
+            "Type": "PERSON",
+            "Text": "@heifer109",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9941200017929077,
+            "Type": "PERSON",
+            "Text": "Franklin Graham",
+            "BeginOffset": 15,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.45867741107940674,
+            "Type": "PERSON",
+            "Text": "Pence",
+            "BeginOffset": 56,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.4295513927936554,
+            "Type": "TITLE",
+            "Text": "Unashamed",
+            "BeginOffset": 63,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.9999074935913086,
+            "Type": "OTHER",
+            "Text": "https://t.co/OTs5CifHKH",
+            "BeginOffset": 87,
+            "EndOffset": 110
+        }
+    ]
+}

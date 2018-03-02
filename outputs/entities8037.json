@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9482492804527283,
+            "Type": "PERSON",
+            "Text": "@maroulakiz",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.5634766221046448,
+            "Type": "PERSON",
+            "Text": "God",
+            "BeginOffset": 60,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9999673366546631,
+            "Type": "OTHER",
+            "Text": "https://t.co/vNs9Y9I2sH",
+            "BeginOffset": 67,
+            "EndOffset": 90
+        }
+    ]
+}

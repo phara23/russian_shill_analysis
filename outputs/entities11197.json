@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7387390732765198,
+            "Type": "PERSON",
+            "Text": "@WDFx2EU7",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9559628963470459,
+            "Type": "PERSON",
+            "Text": "Clinton Camp",
+            "BeginOffset": 32,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9828048348426819,
+            "Type": "ORGANIZATION",
+            "Text": "Politico",
+            "BeginOffset": 79,
+            "EndOffset": 87
+        }
+    ]
+}

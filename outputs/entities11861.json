@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8067986369132996,
+            "Type": "PERSON",
+            "Text": "Das Gewaltmonopol",
+            "BeginOffset": 0,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8450635671615601,
+            "Type": "PERSON",
+            "Text": "Staat",
+            "BeginOffset": 29,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.3400592803955078,
+            "Type": "PERSON",
+            "Text": "#Merkel",
+            "BeginOffset": 43,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.857506513595581,
+            "Type": "PERSON",
+            "Text": "Wie",
+            "BeginOffset": 57,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9999357461929321,
+            "Type": "OTHER",
+            "Text": "https://t.co/heY47MaD2c",
+            "BeginOffset": 83,
+            "EndOffset": 106
+        }
+    ]
+}

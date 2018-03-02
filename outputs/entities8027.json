@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7722619771957397,
+            "Type": "PERSON",
+            "Text": "@NewsBiscuit",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9333192706108093,
+            "Type": "TITLE",
+            "Text": "X-Factor",
+            "BeginOffset": 17,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.941654622554779,
+            "Type": "OTHER",
+            "Text": "https://t.co/3uc6Ixxljk",
+            "BeginOffset": 79,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.9999649524688721,
+            "Type": "OTHER",
+            "Text": "https://t.co/02ASzQZjnl",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        }
+    ]
+}

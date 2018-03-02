@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7871983647346497,
+            "Type": "EVENT",
+            "Text": "Hurricane Matthew",
+            "BeginOffset": 0,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7782880067825317,
+            "Type": "EVENT",
+            "Text": "Presidential Election  #politics",
+            "BeginOffset": 48,
+            "EndOffset": 80
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7956823110580444,
+            "Type": "PERSON",
+            "Text": "@AgendaOfEvil",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9870529174804688,
+            "Type": "PERSON",
+            "Text": "Julian Assange",
+            "BeginOffset": 18,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.99985671043396,
+            "Type": "OTHER",
+            "Text": "https://t.co/M0YO7Tdb0X",
+            "BeginOffset": 82,
+            "EndOffset": 105
+        }
+    ]
+}

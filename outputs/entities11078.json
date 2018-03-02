@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8846518397331238,
+            "Type": "ORGANIZATION",
+            "Text": "@ABC",
+            "BeginOffset": 3,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.981512188911438,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 9,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9779812097549438,
+            "Type": "DATE",
+            "Text": "4th of July",
+            "BeginOffset": 70,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.8292220830917358,
+            "Type": "OTHER",
+            "Text": "http://t.co/zFSHqbEeoq",
+            "BeginOffset": 90,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.8171483874320984,
+            "Type": "ORGANIZATION",
+            "Text": "@ABCLiz",
+            "BeginOffset": 115,
+            "EndOffset": 122
+        },
+        {
+            "Score": 0.9856007695198059,
+            "Type": "OTHER",
+            "Text": "http://t.co/zCM4",
+            "BeginOffset": 123,
+            "EndOffset": 139
+        }
+    ]
+}

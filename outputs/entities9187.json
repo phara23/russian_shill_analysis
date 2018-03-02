@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9359040260314941,
+            "Type": "PERSON",
+            "Text": "@LeahR77",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9992433190345764,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 53,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9372978806495667,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 100,
+            "EndOffset": 107
+        }
+    ]
+}

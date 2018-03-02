@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8502908945083618,
+            "Type": "PERSON",
+            "Text": "@usacsmret",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9466139674186707,
+            "Type": "PERSON",
+            "Text": "Clinton Bundler",
+            "BeginOffset": 15,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9998500347137451,
+            "Type": "OTHER",
+            "Text": "https://t.co/S8toqiSCHL",
+            "BeginOffset": 99,
+            "EndOffset": 122
+        }
+    ]
+}

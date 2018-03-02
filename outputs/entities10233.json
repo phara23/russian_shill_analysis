@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9501618146896362,
+            "Type": "PERSON",
+            "Text": "@Wenmay316",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8905184268951416,
+            "Type": "PERSON",
+            "Text": "@moparvicd",
+            "BeginOffset": 16,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9499880075454712,
+            "Type": "PERSON",
+            "Text": "@Cernovich",
+            "BeginOffset": 27,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.5423619747161865,
+            "Type": "PERSON",
+            "Text": "#Trump",
+            "BeginOffset": 38,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.8134645223617554,
+            "Type": "ORGANIZATION",
+            "Text": "@FoxNews",
+            "BeginOffset": 57,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9999535083770752,
+            "Type": "OTHER",
+            "Text": "https://t.co/6smyYjS4N0",
+            "BeginOffset": 88,
+            "EndOffset": 111
+        }
+    ]
+}

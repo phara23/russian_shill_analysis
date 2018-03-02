@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9006354808807373,
+            "Type": "PERSON",
+            "Text": "@WayneDupreeShow",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8253840208053589,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 52,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9958509206771851,
+            "Type": "OTHER",
+            "Text": "https://t.co/Dn0pimC3KC",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        },
+        {
+            "Score": 0.75335294008255,
+            "Type": "ORGANIZATION",
+            "Text": "@WayneDupreeShow",
+            "BeginOffset": 124,
+            "EndOffset": 140
+        }
+    ]
+}

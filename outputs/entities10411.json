@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.962993323802948,
+            "Type": "PERSON",
+            "Text": "@anna12061",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8805292248725891,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 15,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9811539053916931,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 37,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9178290963172913,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 75,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.9882187843322754,
+            "Type": "DATE",
+            "Text": "1995",
+            "BeginOffset": 118,
+            "EndOffset": 122
+        },
+        {
+            "Score": 0.9752576947212219,
+            "Type": "OTHER",
+            "Text": "https://t.co/qd2",
+            "BeginOffset": 123,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9041578769683838,
+            "Type": "PERSON",
+            "Text": "@dijoni",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9975822567939758,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 12,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9807679057121277,
+            "Type": "OTHER",
+            "Text": "African-Americans",
+            "BeginOffset": 38,
+            "EndOffset": 55
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8277144432067871,
+            "Type": "PERSON",
+            "Text": "@TodayPittsburgh",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8350703716278076,
+            "Type": "LOCATION",
+            "Text": "Shaler Township",
+            "BeginOffset": 50,
+            "EndOffset": 65
+        }
+    ]
+}

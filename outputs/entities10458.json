@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8243817090988159,
+            "Type": "PERSON",
+            "Text": "@tgradous",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.7610946297645569,
+            "Type": "ORGANIZATION",
+            "Text": "D.C. Police",
+            "BeginOffset": 41,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9968124032020569,
+            "Type": "PERSON",
+            "Text": "Matt Vespa",
+            "BeginOffset": 78,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9258639216423035,
+            "Type": "PERSON",
+            "Text": "@ornerynana",
+            "BeginOffset": 89,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.85807865858078,
+            "Type": "PERSON",
+            "Text": "@qnoftherealm",
+            "BeginOffset": 101,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.8847339749336243,
+            "Type": "PERSON",
+            "Text": "@usvetram",
+            "BeginOffset": 115,
+            "EndOffset": 124
+        },
+        {
+            "Score": 0.7936369776725769,
+            "Type": "OTHER",
+            "Text": "http://t.co/R",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

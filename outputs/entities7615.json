@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8412607312202454,
+            "Type": "PERSON",
+            "Text": "@CuperAlfredt",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9760277271270752,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 63,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.847811758518219,
+            "Type": "OTHER",
+            "Text": "https://t.co/Nne1GIQvDf",
+            "BeginOffset": 75,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.9999258518218994,
+            "Type": "OTHER",
+            "Text": "https://t.co/4FYvaHAATt",
+            "BeginOffset": 99,
+            "EndOffset": 122
+        }
+    ]
+}

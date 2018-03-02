@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8569437861442566,
+            "Type": "PERSON",
+            "Text": "@ZaibatsuNews",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9953061938285828,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 55,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.5343979001045227,
+            "Type": "PERSON",
+            "Text": "Christian",
+            "BeginOffset": 64,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.8982229232788086,
+            "Type": "OTHER",
+            "Text": "https://t.co/EIG6m788i3",
+            "BeginOffset": 75,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.7417187690734863,
+            "Type": "ORGANIZATION",
+            "Text": "#p2",
+            "BeginOffset": 99,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.9999922513961792,
+            "Type": "OTHER",
+            "Text": "https://t.co/QY2Yv7DFaP",
+            "BeginOffset": 109,
+            "EndOffset": 132
+        }
+    ]
+}

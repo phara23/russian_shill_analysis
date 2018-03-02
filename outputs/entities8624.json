@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8504840731620789,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9465581774711609,
+            "Type": "PERSON",
+            "Text": "Yvette",
+            "BeginOffset": 13,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8800166249275208,
+            "Type": "PERSON",
+            "Text": "Ben",
+            "BeginOffset": 24,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9989100694656372,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 72,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.9585996866226196,
+            "Type": "OTHER",
+            "Text": "https://t.co/4wTRysFvBk",
+            "BeginOffset": 89,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.852502167224884,
+            "Type": "PERSON",
+            "Text": "@YourBlackWorld",
+            "BeginOffset": 113,
+            "EndOffset": 128
+        }
+    ]
+}

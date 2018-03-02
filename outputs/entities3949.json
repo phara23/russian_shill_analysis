@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7478830814361572,
+            "Type": "PERSON",
+            "Text": "@funder",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9994409084320068,
+            "Type": "PERSON",
+            "Text": "Rex Tillerson",
+            "BeginOffset": 12,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.8327227234840393,
+            "Type": "OTHER",
+            "Text": "Russian",
+            "BeginOffset": 57,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.8745133876800537,
+            "Type": "OTHER",
+            "Text": "https://t.c",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9664731621742249,
+            "Type": "PERSON",
+            "Text": "@jrandolphevans",
+            "BeginOffset": 1,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9844204783439636,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 95,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.9979127049446106,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 104,
+            "EndOffset": 109
+        },
+        {
+            "Score": 0.9999567270278931,
+            "Type": "OTHER",
+            "Text": "https://t.co/zg4eh2oLvK",
+            "BeginOffset": 116,
+            "EndOffset": 139
+        }
+    ]
+}

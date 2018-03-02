@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8702746629714966,
+            "Type": "PERSON",
+            "Text": "@SkyAutumn90",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.39623475074768066,
+            "Type": "ORGANIZATION",
+            "Text": "Sky",
+            "BeginOffset": 24,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9997121691703796,
+            "Type": "PERSON",
+            "Text": "Mike",
+            "BeginOffset": 52,
+            "EndOffset": 56
+        }
+    ]
+}

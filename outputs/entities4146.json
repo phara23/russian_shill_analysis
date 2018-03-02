@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9721263647079468,
+            "Type": "PERSON",
+            "Text": "@JanellWheeler",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7644217014312744,
+            "Type": "PERSON",
+            "Text": "@JaredLeto",
+            "BeginOffset": 67,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9999314546585083,
+            "Type": "OTHER",
+            "Text": "https://t.co/SebT3R0c8j",
+            "BeginOffset": 78,
+            "EndOffset": 101
+        }
+    ]
+}

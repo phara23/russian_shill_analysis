@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8521713614463806,
+            "Type": "PERSON",
+            "Text": "@MagentaRocks",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.6768940091133118,
+            "Type": "DATE",
+            "Text": "#2016",
+            "BeginOffset": 18,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.6343511939048767,
+            "Type": "QUANTITY",
+            "Text": "4Words",
+            "BeginOffset": 25,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9582164287567139,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 33,
+            "EndOffset": 40
+        }
+    ]
+}

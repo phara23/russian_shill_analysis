@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8642765879631042,
+            "Type": "PERSON",
+            "Text": "@theblaze",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9977970123291016,
+            "Type": "PERSON",
+            "Text": "Nic Cage",
+            "BeginOffset": 14,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9996516704559326,
+            "Type": "PERSON",
+            "Text": "Ronald Reagan",
+            "BeginOffset": 76,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.9808195233345032,
+            "Type": "OTHER",
+            "Text": "https://t.co/G2U7PErM5q",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        }
+    ]
+}

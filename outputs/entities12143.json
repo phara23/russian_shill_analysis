@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8912924528121948,
+            "Type": "PERSON",
+            "Text": "@jayceodpromoter",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8698325753211975,
+            "Type": "ORGANIZATION",
+            "Text": "#soundcloud",
+            "BeginOffset": 53,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.8504406809806824,
+            "Type": "QUANTITY",
+            "Text": "5.00 1 million",
+            "BeginOffset": 84,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.7327482104301453,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 128,
+            "EndOffset": 137
+        }
+    ]
+}

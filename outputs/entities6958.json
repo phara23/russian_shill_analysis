@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7810686826705933,
+            "Type": "PERSON",
+            "Text": "@RapefugeeWatch",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9993833899497986,
+            "Type": "PERSON",
+            "Text": "Michael Obama",
+            "BeginOffset": 25,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.8816878795623779,
+            "Type": "ORGANIZATION",
+            "Text": "Muslims",
+            "BeginOffset": 70,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9999479055404663,
+            "Type": "OTHER",
+            "Text": "https://t.co/JNhGAspx7c",
+            "BeginOffset": 98,
+            "EndOffset": 121
+        }
+    ]
+}

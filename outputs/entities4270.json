@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8113697171211243,
+            "Type": "PERSON",
+            "Text": "@WildEagle",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8923788666725159,
+            "Type": "DATE",
+            "Text": "#2016",
+            "BeginOffset": 15,
+            "EndOffset": 20
+        }
+    ]
+}

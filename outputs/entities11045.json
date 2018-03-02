@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6086513996124268,
+            "Type": "LOCATION",
+            "Text": "#America",
+            "BeginOffset": 14,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.663347065448761,
+            "Type": "ORGANIZATION",
+            "Text": "@Pontifex",
+            "BeginOffset": 95,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.9701269865036011,
+            "Type": "ORGANIZATION",
+            "Text": "@RT_com",
+            "BeginOffset": 105,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.9999423027038574,
+            "Type": "OTHER",
+            "Text": "https://t.co/2zHBe4sMYU",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        }
+    ]
+}

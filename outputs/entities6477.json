@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8203617930412292,
+            "Type": "PERSON",
+            "Text": "@thehill",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9367079138755798,
+            "Type": "OTHER",
+            "Text": "https://t.co/MoxuSxBJ5I",
+            "BeginOffset": 63,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9999685287475586,
+            "Type": "OTHER",
+            "Text": "https://t.co/VTib2jzRGe",
+            "BeginOffset": 87,
+            "EndOffset": 110
+        }
+    ]
+}

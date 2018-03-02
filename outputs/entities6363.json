@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9653831124305725,
+            "Type": "PERSON",
+            "Text": "@jrod1227",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8973374366760254,
+            "Type": "PERSON",
+            "Text": "@Democrat_4Trump",
+            "BeginOffset": 14,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9875829219818115,
+            "Type": "PERSON",
+            "Text": "@peddoc63",
+            "BeginOffset": 31,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9999483823776245,
+            "Type": "OTHER",
+            "Text": "https://t.co/x8xzJF5RkW",
+            "BeginOffset": 74,
+            "EndOffset": 97
+        }
+    ]
+}

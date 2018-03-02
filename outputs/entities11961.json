@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8800007104873657,
+            "Type": "PERSON",
+            "Text": "@joyreaper",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.5343990921974182,
+            "Type": "ORGANIZATION",
+            "Text": "AP",
+            "BeginOffset": 15,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.5503956079483032,
+            "Type": "ORGANIZATION",
+            "Text": "HillaryClinton",
+            "BeginOffset": 48,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.8896758556365967,
+            "Type": "OTHER",
+            "Text": "https://t.co/rCmajlGusg",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.9892164468765259,
+            "Type": "OTHER",
+            "Text": "https://t.co/GnlDA",
+            "BeginOffset": 121,
+            "EndOffset": 139
+        }
+    ]
+}

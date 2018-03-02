@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.891639232635498,
+            "Type": "PERSON",
+            "Text": "@DBloom451",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9925022125244141,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 41,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.4715900123119354,
+            "Type": "QUANTITY",
+            "Text": "one",
+            "BeginOffset": 49,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.676948606967926,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 134,
+            "EndOffset": 143
+        }
+    ]
+}

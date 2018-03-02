@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9500550031661987,
+            "Type": "PERSON",
+            "Text": "@WiseBanyanTree",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9923274517059326,
+            "Type": "PERSON",
+            "Text": "Barack Obama",
+            "BeginOffset": 20,
+            "EndOffset": 32
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.819713830947876,
+            "Type": "PERSON",
+            "Text": "@dagr8fm",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.875957190990448,
+            "Type": "DATE",
+            "Text": "5pm Est",
+            "BeginOffset": 82,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.9077578186988831,
+            "Type": "ORGANIZATION",
+            "Text": "@Dagr8fm",
+            "BeginOffset": 98,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.9999611377716064,
+            "Type": "OTHER",
+            "Text": "https://t.co/fn978FQyga",
+            "BeginOffset": 108,
+            "EndOffset": 131
+        }
+    ]
+}

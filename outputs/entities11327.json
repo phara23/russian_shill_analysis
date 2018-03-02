@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6704356074333191,
+            "Type": "ORGANIZATION",
+            "Text": "Amnesty International",
+            "BeginOffset": 0,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.373347669839859,
+            "Type": "PERSON",
+            "Text": "#Obama",
+            "BeginOffset": 31,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.7261373996734619,
+            "Type": "QUANTITY",
+            "Text": "10 billion arms",
+            "BeginOffset": 54,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9997085928916931,
+            "Type": "OTHER",
+            "Text": "https://t.co/NSdyFRFYMj",
+            "BeginOffset": 112,
+            "EndOffset": 135
+        }
+    ]
+}

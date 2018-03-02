@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9211719036102295,
+            "Type": "PERSON",
+            "Text": "@FreeDavidKing",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8791210055351257,
+            "Type": "PERSON",
+            "Text": "HILLARY",
+            "BeginOffset": 39,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.876555860042572,
+            "Type": "PERSON",
+            "Text": "CLINTON",
+            "BeginOffset": 67,
+            "EndOffset": 74
+        }
+    ]
+}

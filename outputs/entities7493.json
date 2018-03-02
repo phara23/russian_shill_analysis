@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8608147501945496,
+            "Type": "PERSON",
+            "Text": "@Pheramuse",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8404292464256287,
+            "Type": "PERSON",
+            "Text": "@HashtagZoo",
+            "BeginOffset": 58,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9018734097480774,
+            "Type": "PERSON",
+            "Text": "@nationallampoon",
+            "BeginOffset": 70,
+            "EndOffset": 86
+        }
+    ]
+}

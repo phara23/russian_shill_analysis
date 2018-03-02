@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7513335347175598,
+            "Type": "ORGANIZATION",
+            "Text": "@CAA_",
+            "BeginOffset": 3,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.999861478805542,
+            "Type": "OTHER",
+            "Text": "https://t.co/0dqSMsKruq",
+            "BeginOffset": 52,
+            "EndOffset": 75
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9639667272567749,
+            "Type": "PERSON",
+            "Text": "@JacobBotzman",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.6157190203666687,
+            "Type": "ORGANIZATION",
+            "Text": "SAG",
+            "BeginOffset": 41,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.856902539730072,
+            "Type": "PERSON",
+            "Text": "@SenSchumer",
+            "BeginOffset": 76,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.9999001026153564,
+            "Type": "OTHER",
+            "Text": "https://t.co/AY5RKKCTZm",
+            "BeginOffset": 110,
+            "EndOffset": 133
+        }
+    ]
+}

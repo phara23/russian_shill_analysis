@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9350964426994324,
+            "Type": "PERSON",
+            "Text": "@rechterzijde",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8386579155921936,
+            "Type": "PERSON",
+            "Text": "Sander",
+            "BeginOffset": 39,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9587361812591553,
+            "Type": "OTHER",
+            "Text": "https://t.co/0JmaXzCarL",
+            "BeginOffset": 51,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.8837070465087891,
+            "Type": "PERSON",
+            "Text": "@geertwilderspvv",
+            "BeginOffset": 75,
+            "EndOffset": 91
+        }
+    ]
+}

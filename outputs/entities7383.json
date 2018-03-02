@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9599596858024597,
+            "Type": "PERSON",
+            "Text": "@JaredWyand",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9931621551513672,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 57,
+            "EndOffset": 64
+        }
+    ]
+}

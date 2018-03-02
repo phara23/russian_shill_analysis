@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8853047490119934,
+            "Type": "PERSON",
+            "Text": "@jfreewright",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.5993011593818665,
+            "Type": "PERSON",
+            "Text": "Amos",
+            "BeginOffset": 21,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.8623006939888,
+            "Type": "PERSON",
+            "Text": "Andy",
+            "BeginOffset": 32,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9999217987060547,
+            "Type": "OTHER",
+            "Text": "https://t.co/FQtwZHMKK9",
+            "BeginOffset": 61,
+            "EndOffset": 84
+        }
+    ]
+}

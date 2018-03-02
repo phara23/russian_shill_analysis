@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8400914669036865,
+            "Type": "PERSON",
+            "Text": "@Europetime",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.996664822101593,
+            "Type": "PERSON",
+            "Text": "Putin",
+            "BeginOffset": 16,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9820575714111328,
+            "Type": "LOCATION",
+            "Text": "Europe",
+            "BeginOffset": 57,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.6719797849655151,
+            "Type": "LOCATION",
+            "Text": "Russia",
+            "BeginOffset": 72,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.7747179269790649,
+            "Type": "ORGANIZATION",
+            "Text": "Daily Mail",
+            "BeginOffset": 104,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.9997733235359192,
+            "Type": "OTHER",
+            "Text": "https://t.co/lHvUuJYzdV",
+            "BeginOffset": 115,
+            "EndOffset": 138
+        }
+    ]
+}

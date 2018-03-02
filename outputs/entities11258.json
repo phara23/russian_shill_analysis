@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8203994035720825,
+            "Type": "PERSON",
+            "Text": "@RevBooksChi",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9937210083007812,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 28,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.8992478847503662,
+            "Type": "LOCATION",
+            "Text": "Syria",
+            "BeginOffset": 59,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9789717197418213,
+            "Type": "DATE",
+            "Text": "Friday",
+            "BeginOffset": 82,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9964911341667175,
+            "Type": "OTHER",
+            "Text": "https://t.co/OMvDxzFaSY",
+            "BeginOffset": 89,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.980004072189331,
+            "Type": "ORGANIZATION",
+            "Text": "@Reuters",
+            "BeginOffset": 117,
+            "EndOffset": 125
+        }
+    ]
+}

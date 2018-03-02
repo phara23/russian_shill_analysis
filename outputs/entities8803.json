@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7498449683189392,
+            "Type": "PERSON",
+            "Text": "@TempleAndRiot",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9853061437606812,
+            "Type": "DATE",
+            "Text": "Today",
+            "BeginOffset": 19,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.926807165145874,
+            "Type": "QUANTITY",
+            "Text": "first time",
+            "BeginOffset": 33,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9650720953941345,
+            "Type": "TITLE",
+            "Text": "Fantastic Beasts",
+            "BeginOffset": 91,
+            "EndOffset": 107
+        }
+    ]
+}

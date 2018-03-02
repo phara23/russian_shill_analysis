@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5529841184616089,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.6834461092948914,
+            "Type": "PERSON",
+            "Text": "@ArcticFox2016",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9290555119514465,
+            "Type": "DATE",
+            "Text": "This weekend",
+            "BeginOffset": 19,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9808696508407593,
+            "Type": "PERSON",
+            "Text": "Sen. Bernie Sanders",
+            "BeginOffset": 33,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9927092790603638,
+            "Type": "LOCATION",
+            "Text": "Ohio",
+            "BeginOffset": 81,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.9997938275337219,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 90,
+            "EndOffset": 105
+        }
+    ]
+}

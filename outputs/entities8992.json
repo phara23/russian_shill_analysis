@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9022155404090881,
+            "Type": "PERSON",
+            "Text": "@kevinwxgg",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.46413177251815796,
+            "Type": "OTHER",
+            "Text": "Russians",
+            "BeginOffset": 45,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9782836437225342,
+            "Type": "PERSON",
+            "Text": "Santa",
+            "BeginOffset": 62,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9517855048179626,
+            "Type": "ORGANIZATION",
+            "Text": "WikiLeaks",
+            "BeginOffset": 94,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.9981379508972168,
+            "Type": "PERSON",
+            "Text": "Jean-Claude Van Damme",
+            "BeginOffset": 113,
+            "EndOffset": 134
+        }
+    ]
+}

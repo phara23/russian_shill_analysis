@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7417247891426086,
+            "Type": "PERSON",
+            "Text": "@anne19",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.8855023384094238,
+            "Type": "PERSON",
+            "Text": "@tedcruz",
+            "BeginOffset": 30,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9465400576591492,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 47,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9830207824707031,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 128,
+            "EndOffset": 132
+        },
+        {
+            "Score": 0.9964514970779419,
+            "Type": "PERSON",
+            "Text": "Cheryl Mil",
+            "BeginOffset": 133,
+            "EndOffset": 143
+        }
+    ]
+}

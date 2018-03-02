@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9908393621444702,
+            "Type": "PERSON",
+            "Text": "Dwight Howard",
+            "BeginOffset": 0,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9987591505050659,
+            "Type": "OTHER",
+            "Text": "https://t.co/LvfFJKuLOw",
+            "BeginOffset": 26,
+            "EndOffset": 49
+        }
+    ]
+}

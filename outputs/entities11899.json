@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.867466390132904,
+            "Type": "PERSON",
+            "Text": "@VoteTrumpPics",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9019054174423218,
+            "Type": "ORGANIZATION",
+            "Text": "Twitter",
+            "BeginOffset": 55,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9710459113121033,
+            "Type": "PERSON",
+            "Text": "President Donald J. Trump",
+            "BeginOffset": 74,
+            "EndOffset": 99
+        }
+    ]
+}

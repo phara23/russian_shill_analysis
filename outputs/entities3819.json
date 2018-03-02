@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8369670510292053,
+            "Type": "PERSON",
+            "Text": "@ThatOneGuy600",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9784102439880371,
+            "Type": "PERSON",
+            "Text": "James Comey",
+            "BeginOffset": 61,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.7396625280380249,
+            "Type": "QUANTITY",
+            "Text": "100",
+            "BeginOffset": 82,
+            "EndOffset": 85
+        }
+    ]
+}

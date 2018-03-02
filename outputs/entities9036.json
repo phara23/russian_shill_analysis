@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9964886903762817,
+            "Type": "ORGANIZATION",
+            "Text": "Starbucks",
+            "BeginOffset": 0,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9998441934585571,
+            "Type": "PERSON",
+            "Text": "Howard Schultz",
+            "BeginOffset": 14,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9946611523628235,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 38,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.8548877835273743,
+            "Type": "QUANTITY",
+            "Text": "Both",
+            "BeginOffset": 54,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9999279975891113,
+            "Type": "OTHER",
+            "Text": "https://t.co/Oe4Hp1R646",
+            "BeginOffset": 86,
+            "EndOffset": 109
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7908979654312134,
+            "Type": "PERSON",
+            "Text": "@Autodidact60",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9752349853515625,
+            "Type": "PERSON",
+            "Text": "Zora Neale Hurston",
+            "BeginOffset": 18,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.5317063331604004,
+            "Type": "OTHER",
+            "Text": "American",
+            "BeginOffset": 38,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9999704360961914,
+            "Type": "OTHER",
+            "Text": "https://t.co/b5KbB2XIAO",
+            "BeginOffset": 58,
+            "EndOffset": 81
+        }
+    ]
+}

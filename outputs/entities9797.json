@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9510713219642639,
+            "Type": "ORGANIZATION",
+            "Text": "Muslims",
+            "BeginOffset": 0,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.9969160556793213,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 47,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9205028414726257,
+            "Type": "OTHER",
+            "Text": "https://t.co/jdCsFCF6Un",
+            "BeginOffset": 65,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9999551773071289,
+            "Type": "OTHER",
+            "Text": "https://t.co/i3jyrHNg7P",
+            "BeginOffset": 89,
+            "EndOffset": 112
+        }
+    ]
+}

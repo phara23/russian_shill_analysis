@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.952339231967926,
+            "Type": "PERSON",
+            "Text": "@LindaSuhler",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9910976886749268,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 17,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.47611650824546814,
+            "Type": "LOCATION",
+            "Text": "Mexico",
+            "BeginOffset": 31,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9836549758911133,
+            "Type": "QUANTITY",
+            "Text": "00,000",
+            "BeginOffset": 38,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.7379561066627502,
+            "Type": "OTHER",
+            "Text": "http://t.co/5GoFUgqMHu",
+            "BeginOffset": 107,
+            "EndOffset": 129
+        },
+        {
+            "Score": 0.9242866635322571,
+            "Type": "OTHER",
+            "Text": "http://…",
+            "BeginOffset": 130,
+            "EndOffset": 138
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.877133846282959,
+            "Type": "ORGANIZATION",
+            "Text": "@A_Big_Gail",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8683116436004639,
+            "Type": "QUANTITY",
+            "Text": "two handwritten notes",
+            "BeginOffset": 88,
+            "EndOffset": 109
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9511405825614929,
+            "Type": "PERSON",
+            "Text": "@jimwallis",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.974932849407196,
+            "Type": "QUANTITY",
+            "Text": "24 hours",
+            "BeginOffset": 20,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.999885618686676,
+            "Type": "OTHER",
+            "Text": "(202)224-3121",
+            "BeginOffset": 43,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.6744179725646973,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 130,
+            "EndOffset": 139
+        }
+    ]
+}

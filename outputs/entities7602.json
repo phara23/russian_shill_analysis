@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.943911075592041,
+            "Type": "PERSON",
+            "Text": "@LeahR77",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8232840299606323,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 51,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.6097440719604492,
+            "Type": "LOCATION",
+            "Text": "Dem",
+            "BeginOffset": 64,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.4482289254665375,
+            "Type": "LOCATION",
+            "Text": "Cook",
+            "BeginOffset": 71,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.9334728717803955,
+            "Type": "LOCATION",
+            "Text": "Illinois",
+            "BeginOffset": 83,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.9346826076507568,
+            "Type": "OTHER",
+            "Text": "https://t.co/nvMu7bpuVS",
+            "BeginOffset": 92,
+            "EndOffset": 115
+        }
+    ]
+}

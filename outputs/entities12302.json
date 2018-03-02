@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8196536302566528,
+            "Type": "ORGANIZATION",
+            "Text": "United States Great Again",
+            "BeginOffset": 26,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9998373985290527,
+            "Type": "OTHER",
+            "Text": "https://t.co/VXq0OotxMS",
+            "BeginOffset": 84,
+            "EndOffset": 107
+        }
+    ]
+}

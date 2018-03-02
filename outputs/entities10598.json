@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7958928346633911,
+            "Type": "ORGANIZATION",
+            "Text": "@EMA_radio",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.6513018012046814,
+            "Type": "PERSON",
+            "Text": "Biggs",
+            "BeginOffset": 16,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9391985535621643,
+            "Type": "OTHER",
+            "Text": "https://t.co/T8H613rEgT",
+            "BeginOffset": 85,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.9627110958099365,
+            "Type": "OTHER",
+            "Text": "https://t.co/4CK",
+            "BeginOffset": 123,
+            "EndOffset": 139
+        }
+    ]
+}

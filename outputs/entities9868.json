@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7527190446853638,
+            "Type": "PERSON",
+            "Text": "@LifeSite",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9977273344993591,
+            "Type": "OTHER",
+            "Text": "https://t.co/ljDyTioHMu",
+            "BeginOffset": 102,
+            "EndOffset": 125
+        }
+    ]
+}

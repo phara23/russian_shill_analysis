@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9461128115653992,
+            "Type": "PERSON",
+            "Text": "@tj_michaels",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9616563320159912,
+            "Type": "DATE",
+            "Text": "Sat",
+            "BeginOffset": 35,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.6327353715896606,
+            "Type": "QUANTITY",
+            "Text": "100k+",
+            "BeginOffset": 58,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9127899408340454,
+            "Type": "LOCATION",
+            "Text": "Japan",
+            "BeginOffset": 69,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.8992099165916443,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 113,
+            "EndOffset": 115
+        }
+    ]
+}

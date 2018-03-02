@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7312442660331726,
+            "Type": "PERSON",
+            "Text": "@Prntly",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.8709787726402283,
+            "Type": "QUANTITY",
+            "Text": "Two Companies",
+            "BeginOffset": 29,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9956568479537964,
+            "Type": "PERSON",
+            "Text": "Ivanka",
+            "BeginOffset": 51,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9908751845359802,
+            "Type": "PERSON",
+            "Text": "Melania Trump",
+            "BeginOffset": 62,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.9474264979362488,
+            "Type": "OTHER",
+            "Text": "https://t.co/vSG4DH2gOl",
+            "BeginOffset": 77,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.9467206597328186,
+            "Type": "PERSON",
+            "Text": "@aduanebrown",
+            "BeginOffset": 101,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.9919511675834656,
+            "Type": "PERSON",
+            "Text": "@Rockprincess818",
+            "BeginOffset": 114,
+            "EndOffset": 130
+        },
+        {
+            "Score": 0.9708563089370728,
+            "Type": "PERSON",
+            "Text": "@KevinB",
+            "BeginOffset": 132,
+            "EndOffset": 139
+        }
+    ]
+}

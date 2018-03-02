@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9037625789642334,
+            "Type": "PERSON",
+            "Text": "@OliviaSui",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8386232256889343,
+            "Type": "ORGANIZATION",
+            "Text": "@wendys",
+            "BeginOffset": 79,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9882362484931946,
+            "Type": "OTHER",
+            "Text": "https://t.co",
+            "BeginOffset": 127,
+            "EndOffset": 139
+        }
+    ]
+}

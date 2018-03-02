@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9351220726966858,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 7,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9955702424049377,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 21,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9023857712745667,
+            "Type": "QUANTITY",
+            "Text": "Both",
+            "BeginOffset": 28,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9353932738304138,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 37,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9999661445617676,
+            "Type": "OTHER",
+            "Text": "https://t.co/Hb4scg1JzQ",
+            "BeginOffset": 46,
+            "EndOffset": 69
+        }
+    ]
+}

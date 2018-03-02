@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7892072796821594,
+            "Type": "PERSON",
+            "Text": "@RoseD1st",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.951189398765564,
+            "Type": "LOCATION",
+            "Text": "Florida",
+            "BeginOffset": 14,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.983132004737854,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 43,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.7745679020881653,
+            "Type": "QUANTITY",
+            "Text": "up to 00 each",
+            "BeginOffset": 67,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.8599652051925659,
+            "Type": "QUANTITY",
+            "Text": "8,000-seat arena",
+            "BeginOffset": 85,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.871954619884491,
+            "Type": "OTHER",
+            "Text": "https://t.co/nbw",
+            "BeginOffset": 121,
+            "EndOffset": 137
+        }
+    ]
+}

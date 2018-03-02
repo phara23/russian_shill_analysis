@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9515180587768555,
+            "Type": "PERSON",
+            "Text": "@ZekeJMiller",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.6860976815223694,
+            "Type": "ORGANIZATION",
+            "Text": "WH",
+            "BeginOffset": 17,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9849041700363159,
+            "Type": "DATE",
+            "Text": "tomorrow",
+            "BeginOffset": 21,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.7455368041992188,
+            "Type": "TITLE",
+            "Text": "Late Show",
+            "BeginOffset": 75,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9994242787361145,
+            "Type": "PERSON",
+            "Text": "David Letterman",
+            "BeginOffset": 90,
+            "EndOffset": 105
+        }
+    ]
+}

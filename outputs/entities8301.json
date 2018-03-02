@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.818501353263855,
+            "Type": "PERSON",
+            "Text": "@GuruBluXVIII",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.741084635257721,
+            "Type": "LOCATION",
+            "Text": "Bahrain",
+            "BeginOffset": 46,
+            "EndOffset": 53
+        }
+    ]
+}

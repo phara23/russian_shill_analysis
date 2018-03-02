@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8649974465370178,
+            "Type": "PERSON",
+            "Text": "@Serpentine202",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9100093245506287,
+            "Type": "ORGANIZATION",
+            "Text": "Breitbart",
+            "BeginOffset": 22,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9939442276954651,
+            "Type": "ORGANIZATION",
+            "Text": "National Security Council",
+            "BeginOffset": 52,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9810466170310974,
+            "Type": "OTHER",
+            "Text": "https://t.co/bsMbbSO",
+            "BeginOffset": 119,
+            "EndOffset": 139
+        }
+    ]
+}

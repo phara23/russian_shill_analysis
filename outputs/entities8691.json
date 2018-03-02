@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.676438570022583,
+            "Type": "PERSON",
+            "Text": "@HuffPostRelig",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.32122179865837097,
+            "Type": "OTHER",
+            "Text": "Vatican",
+            "BeginOffset": 23,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.8084492683410645,
+            "Type": "QUANTITY",
+            "Text": "up to 34 men",
+            "BeginOffset": 75,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.961927056312561,
+            "Type": "OTHER",
+            "Text": "http://t.co/3mOAB80TK9",
+            "BeginOffset": 96,
+            "EndOffset": 118
+        },
+        {
+            "Score": 0.9900937676429749,
+            "Type": "OTHER",
+            "Text": "http://t.co/GDUtG4hF",
+            "BeginOffset": 119,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7829501628875732,
+            "Type": "ORGANIZATION",
+            "Text": "@NBA",
+            "BeginOffset": 3,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.9293464422225952,
+            "Type": "EVENT",
+            "Text": "Postgame Press Conference",
+            "BeginOffset": 21,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9217679500579834,
+            "Type": "LOCATION",
+            "Text": "SA",
+            "BeginOffset": 50,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.8940765857696533,
+            "Type": "ORGANIZATION",
+            "Text": "@houstonrockets",
+            "BeginOffset": 63,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.5275720953941345,
+            "Type": "QUANTITY",
+            "Text": "Game 1",
+            "BeginOffset": 79,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.9998672008514404,
+            "Type": "OTHER",
+            "Text": "https://t.co/gCqSyJ4AKy",
+            "BeginOffset": 91,
+            "EndOffset": 114
+        }
+    ]
+}

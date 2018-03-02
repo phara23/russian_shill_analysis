@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8775702118873596,
+            "Type": "PERSON",
+            "Text": "@Threads_Of_Love",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9653345942497253,
+            "Type": "PERSON",
+            "Text": "Emily",
+            "BeginOffset": 22,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.8291916847229004,
+            "Type": "OTHER",
+            "Text": "https://t.co/hfXdSzo3I0",
+            "BeginOffset": 64,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.9145107865333557,
+            "Type": "ORGANIZATION",
+            "Text": "#CR4U",
+            "BeginOffset": 89,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.9996451139450073,
+            "Type": "OTHER",
+            "Text": "https://t.co/IrusiQNImj",
+            "BeginOffset": 104,
+            "EndOffset": 127
+        }
+    ]
+}

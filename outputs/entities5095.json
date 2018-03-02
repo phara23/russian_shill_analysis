@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7536634802818298,
+            "Type": "PERSON",
+            "Text": "@The2ndA",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.996935248374939,
+            "Type": "PERSON",
+            "Text": "Paul",
+            "BeginOffset": 13,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9878844618797302,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 44,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9999563694000244,
+            "Type": "OTHER",
+            "Text": "https://t.co/6bsQp2VcfW",
+            "BeginOffset": 72,
+            "EndOffset": 95
+        }
+    ]
+}

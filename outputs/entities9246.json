@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.930282473564148,
+            "Type": "PERSON",
+            "Text": "@bakedalaska",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8460211157798767,
+            "Type": "QUANTITY",
+            "Text": "24",
+            "BeginOffset": 103,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.892225980758667,
+            "Type": "QUANTITY",
+            "Text": "7",
+            "BeginOffset": 106,
+            "EndOffset": 107
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8805992603302002,
+            "Type": "PERSON",
+            "Text": "@ScottnShan1",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9858472943305969,
+            "Type": "ORGANIZATION",
+            "Text": "FBI",
+            "BeginOffset": 26,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9993368983268738,
+            "Type": "PERSON",
+            "Text": "James Comey",
+            "BeginOffset": 39,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.8478829860687256,
+            "Type": "ORGANIZATION",
+            "Text": "Clinton Foundation",
+            "BeginOffset": 53,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9645072817802429,
+            "Type": "OTHER",
+            "Text": "https://t.co/MnAWaDacia",
+            "BeginOffset": 83,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.9379531741142273,
+            "Type": "ORGANIZATION",
+            "Text": "@BreitbartNews",
+            "BeginOffset": 111,
+            "EndOffset": 125
+        }
+    ]
+}

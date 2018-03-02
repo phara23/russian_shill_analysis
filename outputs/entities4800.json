@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9433685541152954,
+            "Type": "PERSON",
+            "Text": "@jimgeraghty",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.48100990056991577,
+            "Type": "QUANTITY",
+            "Text": "first",
+            "BeginOffset": 35,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9999109506607056,
+            "Type": "OTHER",
+            "Text": "https://t.co/k8TM9qKrfi",
+            "BeginOffset": 116,
+            "EndOffset": 139
+        }
+    ]
+}

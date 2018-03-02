@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9353159070014954,
+            "Type": "PERSON",
+            "Text": "@AskAnshul",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.512358546257019,
+            "Type": "OTHER",
+            "Text": "Kashmiri",
+            "BeginOffset": 31,
+            "EndOffset": 39
+        }
+    ]
+}

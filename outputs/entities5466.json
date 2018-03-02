@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7858624458312988,
+            "Type": "PERSON",
+            "Text": "@trueladybug",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8774035573005676,
+            "Type": "PERSON",
+            "Text": "@GucciShade",
+            "BeginOffset": 17,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9520906209945679,
+            "Type": "PERSON",
+            "Text": "@seanhannity",
+            "BeginOffset": 29,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9645421504974365,
+            "Type": "PERSON",
+            "Text": "@mcuban",
+            "BeginOffset": 42,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9838781356811523,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 50,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9441667199134827,
+            "Type": "QUANTITY",
+            "Text": "0m",
+            "BeginOffset": 77,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.6176455020904541,
+            "Type": "OTHER",
+            "Text": "Cuban",
+            "BeginOffset": 80,
+            "EndOffset": 85
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8546268939971924,
+            "Type": "PERSON",
+            "Text": "@Conservatexian",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7246080636978149,
+            "Type": "OTHER",
+            "Text": "American",
+            "BeginOffset": 20,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.84601891040802,
+            "Type": "ORGANIZATION",
+            "Text": "Muslim",
+            "BeginOffset": 29,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9900559186935425,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 47,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.8612399697303772,
+            "Type": "ORGANIZATION",
+            "Text": "Washington Post",
+            "BeginOffset": 109,
+            "EndOffset": 124
+        },
+        {
+            "Score": 0.9664679169654846,
+            "Type": "DATE",
+            "Text": "9h ago",
+            "BeginOffset": 127,
+            "EndOffset": 133
+        }
+    ]
+}

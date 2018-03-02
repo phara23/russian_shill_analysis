@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.917686402797699,
+            "Type": "PERSON",
+            "Text": "@aktuelle_stunde",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.6392005681991577,
+            "Type": "PERSON",
+            "Text": "Sonne",
+            "BeginOffset": 69,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.967052698135376,
+            "Type": "PERSON",
+            "Text": "@LamyaKaddor",
+            "BeginOffset": 108,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.8103386759757996,
+            "Type": "PERSON",
+            "Text": "@DITIB",
+            "BeginOffset": 131,
+            "EndOffset": 137
+        }
+    ]
+}

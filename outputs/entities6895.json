@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9116427898406982,
+            "Type": "PERSON",
+            "Text": "@BettinaVLA",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9543845653533936,
+            "Type": "LOCATION",
+            "Text": "Dallas",
+            "BeginOffset": 45,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9856714606285095,
+            "Type": "PERSON",
+            "Text": "Perry",
+            "BeginOffset": 77,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.8258485198020935,
+            "Type": "PERSON",
+            "Text": "@GovernorPerry",
+            "BeginOffset": 107,
+            "EndOffset": 121
+        },
+        {
+            "Score": 0.950105607509613,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 128,
+            "EndOffset": 132
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7431017756462097,
+            "Type": "PERSON",
+            "Text": "@MengtheCat",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9042500257492065,
+            "Type": "PERSON",
+            "Text": "@M24Miles",
+            "BeginOffset": 16,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9285131096839905,
+            "Type": "PERSON",
+            "Text": "@NetworksManager",
+            "BeginOffset": 26,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9583979249000549,
+            "Type": "PERSON",
+            "Text": "@dcexaminer",
+            "BeginOffset": 43,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9834405183792114,
+            "Type": "ORGANIZATION",
+            "Text": "Twitter",
+            "BeginOffset": 97,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.986828088760376,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 125,
+            "EndOffset": 130
+        }
+    ]
+}

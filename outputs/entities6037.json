@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.913265585899353,
+            "Type": "PERSON",
+            "Text": "@FranCifelli",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9961317777633667,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 18,
+            "EndOffset": 23
+        }
+    ]
+}

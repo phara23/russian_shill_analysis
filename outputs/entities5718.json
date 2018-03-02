@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.785111665725708,
+            "Type": "PERSON",
+            "Text": "@DRUDGE_REPORT",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8997193574905396,
+            "Type": "QUANTITY",
+            "Text": "40-car",
+            "BeginOffset": 19,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9657504558563232,
+            "Type": "LOCATION",
+            "Text": "Michigan",
+            "BeginOffset": 42,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.884797990322113,
+            "Type": "QUANTITY",
+            "Text": "3 dead",
+            "BeginOffset": 58,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9995689988136292,
+            "Type": "OTHER",
+            "Text": "https://t.co/dIqbiIpEzv",
+            "BeginOffset": 68,
+            "EndOffset": 91
+        }
+    ]
+}

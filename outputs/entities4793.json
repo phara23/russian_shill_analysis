@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9027007222175598,
+            "Type": "PERSON",
+            "Text": "@TexasCruzn",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9348204731941223,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 64,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9133759140968323,
+            "Type": "OTHER",
+            "Text": "https://t.co/Zdm2cJIKzd",
+            "BeginOffset": 86,
+            "EndOffset": 109
+        },
+        {
+            "Score": 0.8391749858856201,
+            "Type": "ORGANIZATION",
+            "Text": "#BB4SP",
+            "BeginOffset": 110,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.9998942613601685,
+            "Type": "OTHER",
+            "Text": "https://t.co/8siO1DLFjH",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

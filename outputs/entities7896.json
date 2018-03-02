@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7709046006202698,
+            "Type": "PERSON",
+            "Text": "@txdad",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9421074390411377,
+            "Type": "PERSON",
+            "Text": "@Trump4Hope",
+            "BeginOffset": 11,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.8516091108322144,
+            "Type": "PERSON",
+            "Text": "@dryheat115",
+            "BeginOffset": 23,
+            "EndOffset": 34
+        }
+    ]
+}

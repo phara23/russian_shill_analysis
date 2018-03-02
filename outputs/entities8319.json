@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9706140756607056,
+            "Type": "PERSON",
+            "Text": "@Ely_K_Werdel",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9670681357383728,
+            "Type": "PERSON",
+            "Text": "@mgreer423",
+            "BeginOffset": 18,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9935099482536316,
+            "Type": "PERSON",
+            "Text": "@AutoMechanic5",
+            "BeginOffset": 29,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9957593679428101,
+            "Type": "PERSON",
+            "Text": "@Wook316",
+            "BeginOffset": 44,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9485514760017395,
+            "Type": "PERSON",
+            "Text": "@Ibtbanksy",
+            "BeginOffset": 53,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.702513575553894,
+            "Type": "PERSON",
+            "Text": "@47young1",
+            "BeginOffset": 64,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.9997170567512512,
+            "Type": "PERSON",
+            "Text": "Mike",
+            "BeginOffset": 78,
+            "EndOffset": 82
+        }
+    ]
+}

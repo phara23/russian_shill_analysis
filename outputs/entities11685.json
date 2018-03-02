@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9025589227676392,
+            "Type": "PERSON",
+            "Text": "@CrookdHillary",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6960397362709045,
+            "Type": "PERSON",
+            "Text": "Pander",
+            "BeginOffset": 19,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9509769082069397,
+            "Type": "OTHER",
+            "Text": "https://t.co/DDk1R2Iz7l",
+            "BeginOffset": 68,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.999883770942688,
+            "Type": "OTHER",
+            "Text": "https://t.co/5OLkiFzvut",
+            "BeginOffset": 92,
+            "EndOffset": 115
+        }
+    ]
+}

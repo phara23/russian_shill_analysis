@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.649586021900177,
+            "Type": "PERSON",
+            "Text": "@keywestcliff",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8142250180244446,
+            "Type": "PERSON",
+            "Text": "President Trump",
+            "BeginOffset": 19,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9492844939231873,
+            "Type": "DATE",
+            "Text": "2020",
+            "BeginOffset": 115,
+            "EndOffset": 119
+        },
+        {
+            "Score": 0.9870387315750122,
+            "Type": "OTHER",
+            "Text": "https://t.co/hGV00",
+            "BeginOffset": 121,
+            "EndOffset": 139
+        }
+    ]
+}

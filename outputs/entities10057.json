@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8293971419334412,
+            "Type": "PERSON",
+            "Text": "@AlyLovesMovies",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9759448170661926,
+            "Type": "ORGANIZATION",
+            "Text": "CNN",
+            "BeginOffset": 20,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.37966448068618774,
+            "Type": "OTHER",
+            "Text": "Haitian",
+            "BeginOffset": 32,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.6610983610153198,
+            "Type": "OTHER",
+            "Text": "Americans",
+            "BeginOffset": 40,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9914430975914001,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 54,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.9722078442573547,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 121,
+            "EndOffset": 125
+        },
+        {
+            "Score": 0.9131861329078674,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

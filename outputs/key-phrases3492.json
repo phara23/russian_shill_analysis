@@ -1,0 +1,28 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9877544045448303,
+            "Text": "Abbott",
+            "BeginOffset": 0,
+            "EndOffset": 6
+        },
+        {
+            "Score": 0.9921913146972656,
+            "Text": "Obama",
+            "BeginOffset": 12,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9979938268661499,
+            "Text": "federal funds",
+            "BeginOffset": 22,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9853534698486328,
+            "Text": "Zika",
+            "BeginOffset": 46,
+            "EndOffset": 50
+        }
+    ]
+}

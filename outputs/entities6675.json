@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.909841001033783,
+            "Type": "PERSON",
+            "Text": "@DavidRomo1968",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9978914856910706,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 52,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9608843326568604,
+            "Type": "TITLE",
+            "Text": "Tonight Show",
+            "BeginOffset": 94,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.5951796770095825,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 130,
+            "EndOffset": 139
+        }
+    ]
+}

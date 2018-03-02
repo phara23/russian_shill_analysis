@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9550976157188416,
+            "Type": "PERSON",
+            "Text": "@tanjyy",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9237286448478699,
+            "Type": "PERSON",
+            "Text": "raven baxter",
+            "BeginOffset": 27,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.596118152141571,
+            "Type": "PERSON",
+            "Text": "raven",
+            "BeginOffset": 61,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9999408721923828,
+            "Type": "OTHER",
+            "Text": "https://t.co/T6g2TlSGmU",
+            "BeginOffset": 67,
+            "EndOffset": 90
+        }
+    ]
+}

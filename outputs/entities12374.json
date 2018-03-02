@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.518925130367279,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.9686657786369324,
+            "Type": "PERSON",
+            "Text": "@Dean_TenBrink",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6817882061004639,
+            "Type": "QUANTITY",
+            "Text": "3Words Food",
+            "BeginOffset": 35,
+            "EndOffset": 46
+        }
+    ]
+}

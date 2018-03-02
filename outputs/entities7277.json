@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8466212749481201,
+            "Type": "LOCATION",
+            "Text": "Philly",
+            "BeginOffset": 38,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.999868631362915,
+            "Type": "OTHER",
+            "Text": "https://t.co/din6DugyLx",
+            "BeginOffset": 69,
+            "EndOffset": 92
+        }
+    ]
+}

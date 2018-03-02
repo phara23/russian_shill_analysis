@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8578505516052246,
+            "Type": "PERSON",
+            "Text": "@BrittPettibone",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9975623488426208,
+            "Type": "PERSON",
+            "Text": "David Brock",
+            "BeginOffset": 58,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9969844818115234,
+            "Type": "PERSON",
+            "Text": "James Alefantis",
+            "BeginOffset": 91,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.9284242391586304,
+            "Type": "PERSON",
+            "Text": "@d_seaman",
+            "BeginOffset": 122,
+            "EndOffset": 131
+        }
+    ]
+}

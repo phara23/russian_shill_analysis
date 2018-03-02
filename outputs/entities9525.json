@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7467553019523621,
+            "Type": "PERSON",
+            "Text": "@IndieRadioPlay",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7930572032928467,
+            "Type": "PERSON",
+            "Text": "Tory Lanez",
+            "BeginOffset": 33,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9946660399436951,
+            "Type": "PERSON",
+            "Text": "Rick Ross",
+            "BeginOffset": 63,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.999983549118042,
+            "Type": "OTHER",
+            "Text": "https://t.co/eMX9JgTv3v",
+            "BeginOffset": 79,
+            "EndOffset": 102
+        }
+    ]
+}

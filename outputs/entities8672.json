@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9975780844688416,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9886616468429565,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 25,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.7305695414543152,
+            "Type": "PERSON",
+            "Text": "Alfred Smith",
+            "BeginOffset": 36,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9999678134918213,
+            "Type": "OTHER",
+            "Text": "https://t.co/Oc50RAcdRW",
+            "BeginOffset": 64,
+            "EndOffset": 87
+        }
+    ]
+}

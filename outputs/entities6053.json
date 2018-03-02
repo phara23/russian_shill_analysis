@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9925181865692139,
+            "Type": "PERSON",
+            "Text": "Pence",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9192826747894287,
+            "Type": "PERSON",
+            "Text": "Khan",
+            "BeginOffset": 11,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.486063152551651,
+            "Type": "LOCATION",
+            "Text": "American",
+            "BeginOffset": 53,
+            "EndOffset": 61
+        }
+    ]
+}

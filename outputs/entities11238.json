@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.99949711561203,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 0,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9971218705177307,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 59,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9998112916946411,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 73,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.6839824914932251,
+            "Type": "ORGANIZATION",
+            "Text": "Democratic",
+            "BeginOffset": 102,
+            "EndOffset": 112
+        }
+    ]
+}

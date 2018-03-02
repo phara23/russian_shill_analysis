@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.689439058303833,
+            "Type": "PERSON",
+            "Text": "@ElectMusicCafe",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9674206972122192,
+            "Type": "PERSON",
+            "Text": "@GraceAshaye77",
+            "BeginOffset": 91,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.8555730581283569,
+            "Type": "OTHER",
+            "Text": "https://t.co/rt2CSwuM7L",
+            "BeginOffset": 106,
+            "EndOffset": 129
+        }
+    ]
+}

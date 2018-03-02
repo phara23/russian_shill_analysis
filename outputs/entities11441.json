@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8565698266029358,
+            "Type": "PERSON",
+            "Text": "@warriors_mom",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7864660620689392,
+            "Type": "PERSON",
+            "Text": "@AmerAcadPeds",
+            "BeginOffset": 40,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.89249587059021,
+            "Type": "PERSON",
+            "Text": "@foxnewsalert",
+            "BeginOffset": 55,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9115965366363525,
+            "Type": "PERSON",
+            "Text": "@Varneyco",
+            "BeginOffset": 70,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.92832350730896,
+            "Type": "PERSON",
+            "Text": "@warriors_mom",
+            "BeginOffset": 80,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.9998113512992859,
+            "Type": "OTHER",
+            "Text": "https://t.co/OHIkTNNbJx",
+            "BeginOffset": 94,
+            "EndOffset": 117
+        }
+    ]
+}

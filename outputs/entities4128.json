@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8599818348884583,
+            "Type": "PERSON",
+            "Text": "@Yamiche",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8584503531455994,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 20,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9645358920097351,
+            "Type": "PERSON",
+            "Text": "Captain Humayun Khan",
+            "BeginOffset": 64,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9998459815979004,
+            "Type": "OTHER",
+            "Text": "https://t.co/yaWlHp1jmb",
+            "BeginOffset": 86,
+            "EndOffset": 109
+        }
+    ]
+}

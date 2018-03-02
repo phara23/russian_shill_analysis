@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8354031443595886,
+            "Type": "PERSON",
+            "Text": "@Bipartisanism",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7102816700935364,
+            "Type": "QUANTITY",
+            "Text": "00k",
+            "BeginOffset": 50,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.8776865601539612,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 73,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.9718285202980042,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 94,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.8862106800079346,
+            "Type": "OTHER",
+            "Text": "https://t.co/OYO2Stqtbz",
+            "BeginOffset": 108,
+            "EndOffset": 131
+        }
+    ]
+}

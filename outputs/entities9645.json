@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9112852811813354,
+            "Type": "PERSON",
+            "Text": "@LadyMercia",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8430928587913513,
+            "Type": "OTHER",
+            "Text": "Dutch",
+            "BeginOffset": 16,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.8520727157592773,
+            "Type": "ORGANIZATION",
+            "Text": "Muslims",
+            "BeginOffset": 34,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.6731201410293579,
+            "Type": "OTHER",
+            "Text": "Dutch",
+            "BeginOffset": 61,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9999701976776123,
+            "Type": "OTHER",
+            "Text": "https://t.co/BxbRINwLBG",
+            "BeginOffset": 76,
+            "EndOffset": 99
+        }
+    ]
+}

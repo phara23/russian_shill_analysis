@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9738932847976685,
+            "Type": "PERSON",
+            "Text": "@jesska552",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9801724553108215,
+            "Type": "QUANTITY",
+            "Text": "1,000,000 times",
+            "BeginOffset": 56,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9995914101600647,
+            "Type": "OTHER",
+            "Text": "https://t.co/ESuwNguGHV",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        }
+    ]
+}

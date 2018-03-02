@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.970712423324585,
+            "Type": "PERSON",
+            "Text": "@jadegreen0987",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9940855503082275,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 55,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.5846966505050659,
+            "Type": "PERSON",
+            "Text": "Ivanka",
+            "BeginOffset": 104,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.9859813451766968,
+            "Type": "OTHER",
+            "Text": "https://t.co/N2CjYCaAJP",
+            "BeginOffset": 119,
+            "EndOffset": 142
+        }
+    ]
+}

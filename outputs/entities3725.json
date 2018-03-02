@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.760193943977356,
+            "Type": "PERSON",
+            "Text": "@BigLoHipHop",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9994493722915649,
+            "Type": "PERSON",
+            "Text": "Bernard Hopkins",
+            "BeginOffset": 17,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.997827410697937,
+            "Type": "PERSON",
+            "Text": "Meek Mills",
+            "BeginOffset": 34,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9341805577278137,
+            "Type": "QUANTITY",
+            "Text": "76ers",
+            "BeginOffset": 46,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.5930038690567017,
+            "Type": "PERSON",
+            "Text": "Philly",
+            "BeginOffset": 54,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9895275235176086,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 79,
+            "EndOffset": 83
+        }
+    ]
+}

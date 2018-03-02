@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8378282189369202,
+            "Type": "PERSON",
+            "Text": "@kylegriffin1",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8058256506919861,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 29,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9917317032814026,
+            "Type": "ORGANIZATION",
+            "Text": "Congress",
+            "BeginOffset": 85,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.9436214566230774,
+            "Type": "OTHER",
+            "Text": "https://t.co",
+            "BeginOffset": 127,
+            "EndOffset": 139
+        }
+    ]
+}

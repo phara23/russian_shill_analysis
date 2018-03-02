@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7197607755661011,
+            "Type": "ORGANIZATION",
+            "Text": "@RedState",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9912025928497314,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 59,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9998303651809692,
+            "Type": "OTHER",
+            "Text": "https://t.co/dBUFew1L21",
+            "BeginOffset": 80,
+            "EndOffset": 103
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9803822040557861,
+            "Type": "PERSON",
+            "Text": "Richard",
+            "BeginOffset": 0,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.9999743700027466,
+            "Type": "OTHER",
+            "Text": "http://t.co/5XE30Rfqkt",
+            "BeginOffset": 25,
+            "EndOffset": 47
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8587615489959717,
+            "Type": "PERSON",
+            "Text": "@SantitaJ",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9481633901596069,
+            "Type": "PERSON",
+            "Text": "@RevJJackson",
+            "BeginOffset": 67,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.9079226851463318,
+            "Type": "PERSON",
+            "Text": "@FlintGate",
+            "BeginOffset": 80,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9693890810012817,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 91,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.9087145328521729,
+            "Type": "PERSON",
+            "Text": "@MaxineWaters",
+            "BeginOffset": 107,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.955460250377655,
+            "Type": "PERSON",
+            "Text": "@C4Show",
+            "BeginOffset": 121,
+            "EndOffset": 128
+        }
+    ]
+}

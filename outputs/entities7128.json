@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7559126615524292,
+            "Type": "QUANTITY",
+            "Text": "3Words",
+            "BeginOffset": 16,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9912031888961792,
+            "Type": "ORGANIZATION",
+            "Text": "Netflix",
+            "BeginOffset": 23,
+            "EndOffset": 30
+        }
+    ]
+}

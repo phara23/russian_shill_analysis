@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9742131233215332,
+            "Type": "PERSON",
+            "Text": "Kaepernick",
+            "BeginOffset": 7,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9951375126838684,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 32,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9999003410339355,
+            "Type": "OTHER",
+            "Text": "https://t.co/fGi2CcNNaR",
+            "BeginOffset": 68,
+            "EndOffset": 91
+        }
+    ]
+}

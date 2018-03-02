@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8764516115188599,
+            "Type": "PERSON",
+            "Text": "@HouseCracka",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7890729904174805,
+            "Type": "PERSON",
+            "Text": "@nbc",
+            "BeginOffset": 42,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9885431528091431,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 48,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9762734174728394,
+            "Type": "OTHER",
+            "Text": "https://t.co/OWnL",
+            "BeginOffset": 122,
+            "EndOffset": 139
+        }
+    ]
+}

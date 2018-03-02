@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8928584456443787,
+            "Type": "PERSON",
+            "Text": "@Roy",
+            "BeginOffset": 3,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.8588208556175232,
+            "Type": "PERSON",
+            "Text": "Rogers",
+            "BeginOffset": 10,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9989438652992249,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 18,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9992814660072327,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 44,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9106038212776184,
+            "Type": "OTHER",
+            "Text": "https://t.c",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9484953284263611,
+            "Type": "PERSON",
+            "Text": "@nubian_reign",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.6914123892784119,
+            "Type": "QUANTITY",
+            "Text": "first love",
+            "BeginOffset": 41,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9828094840049744,
+            "Type": "DATE",
+            "Text": "12 years ago",
+            "BeginOffset": 57,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.7814186811447144,
+            "Type": "QUANTITY",
+            "Text": "first kid",
+            "BeginOffset": 84,
+            "EndOffset": 93
+        }
+    ]
+}

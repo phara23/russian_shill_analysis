@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8964560627937317,
+            "Type": "PERSON",
+            "Text": "@charley_ck14",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7547001838684082,
+            "Type": "ORGANIZATION",
+            "Text": "Milwaukee Microbrewers",
+            "BeginOffset": 18,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.8311055302619934,
+            "Type": "PERSON",
+            "Text": "@MidweekMinute",
+            "BeginOffset": 65,
+            "EndOffset": 79
+        }
+    ]
+}

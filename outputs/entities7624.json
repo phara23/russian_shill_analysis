@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9295892715454102,
+            "Type": "PERSON",
+            "Text": "@alphahuhn",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.49094802141189575,
+            "Type": "ORGANIZATION",
+            "Text": "Friedliche",
+            "BeginOffset": 15,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.8507362604141235,
+            "Type": "COMMERCIAL_ITEM",
+            "Text": "G20-Demonstranten haben mir dem Schwarzen Block",
+            "BeginOffset": 26,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.9591882824897766,
+            "Type": "ORGANIZATION",
+            "Text": "ISIS",
+            "BeginOffset": 121,
+            "EndOffset": 125
+        }
+    ]
+}

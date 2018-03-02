@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7983348965644836,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.87233966588974,
+            "Type": "PERSON",
+            "Text": "Brian Jarawa",
+            "BeginOffset": 41,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9396113753318787,
+            "Type": "OTHER",
+            "Text": "https://t.co/Ae0iuw2d0d",
+            "BeginOffset": 76,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.9496000409126282,
+            "Type": "PERSON",
+            "Text": "@Ficklin",
+            "BeginOffset": 100,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.9998757839202881,
+            "Type": "OTHER",
+            "Text": "https://t.co/jA0rBK3w25",
+            "BeginOffset": 109,
+            "EndOffset": 132
+        }
+    ]
+}

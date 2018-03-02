@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8825435042381287,
+            "Type": "PERSON",
+            "Text": "@GatorsEite23",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.6424062252044678,
+            "Type": "ORGANIZATION",
+            "Text": "@DWStweets",
+            "BeginOffset": 35,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.8155876994132996,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 61,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.7222957611083984,
+            "Type": "PERSON",
+            "Text": "Dem Convention",
+            "BeginOffset": 83,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.7891938090324402,
+            "Type": "OTHER",
+            "Text": "33607",
+            "BeginOffset": 131,
+            "EndOffset": 136
+        }
+    ]
+}

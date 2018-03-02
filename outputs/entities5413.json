@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9885625839233398,
+            "Type": "ORGANIZATION",
+            "Text": "FBI",
+            "BeginOffset": 7,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9999937415122986,
+            "Type": "PERSON",
+            "Text": "James Kallstrom",
+            "BeginOffset": 25,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9999459981918335,
+            "Type": "OTHER",
+            "Text": "https://t.co/kVo8UzkIG5",
+            "BeginOffset": 111,
+            "EndOffset": 134
+        }
+    ]
+}

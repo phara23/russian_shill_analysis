@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.81369549036026,
+            "Type": "PERSON",
+            "Text": "@InGodIDoTrust",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9879636764526367,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 19,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9999562501907349,
+            "Type": "OTHER",
+            "Text": "https://t.co/emE70Jtx3E",
+            "BeginOffset": 37,
+            "EndOffset": 60
+        }
+    ]
+}

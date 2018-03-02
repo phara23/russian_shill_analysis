@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9105048775672913,
+            "Type": "PERSON",
+            "Text": "@MattMackowiak",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9914345741271973,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 56,
+            "EndOffset": 61
+        }
+    ]
+}

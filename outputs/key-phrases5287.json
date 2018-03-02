@@ -1,0 +1,28 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9844640493392944,
+            "Text": "An optimist",
+            "BeginOffset": 0,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9918609857559204,
+            "Text": "the New Year",
+            "BeginOffset": 28,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9296200275421143,
+            "Text": "A pessimist",
+            "BeginOffset": 45,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9578601717948914,
+            "Text": "the old one",
+            "BeginOffset": 76,
+            "EndOffset": 87
+        }
+    ]
+}

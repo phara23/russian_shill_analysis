@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9072721600532532,
+            "Type": "PERSON",
+            "Text": "@BrazilianGirl32",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9979254007339478,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 21,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9914475679397583,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 62,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9998225569725037,
+            "Type": "OTHER",
+            "Text": "https://t.co/2M0HshWfhd",
+            "BeginOffset": 68,
+            "EndOffset": 91
+        }
+    ]
+}

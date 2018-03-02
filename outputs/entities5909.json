@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.878136396408081,
+            "Type": "PERSON",
+            "Text": "@midnight",
+            "BeginOffset": 0,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.6839401125907898,
+            "Type": "PERSON",
+            "Text": "Dave",
+            "BeginOffset": 31,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.487927109003067,
+            "Type": "PERSON",
+            "Text": "Busters",
+            "BeginOffset": 40,
+            "EndOffset": 47
+        }
+    ]
+}

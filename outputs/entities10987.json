@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9097365736961365,
+            "Type": "PERSON",
+            "Text": "@dansch2002",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.45528337359428406,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 16,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7121990323066711,
+            "Type": "ORGANIZATION",
+            "Text": "@TeriGRight",
+            "BeginOffset": 19,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.903905987739563,
+            "Type": "PERSON",
+            "Text": "Prez",
+            "BeginOffset": 37,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.716118335723877,
+            "Type": "QUANTITY",
+            "Text": "4 SCOTUS",
+            "BeginOffset": 59,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9658899903297424,
+            "Type": "OTHER",
+            "Text": "https://t.co/EIY3GROLcn",
+            "BeginOffset": 82,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.398141086101532,
+            "Type": "PERSON",
+            "Text": "#CruzCrew",
+            "BeginOffset": 106,
+            "EndOffset": 115
+        }
+    ]
+}

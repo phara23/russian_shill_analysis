@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9013981819152832,
+            "Type": "PERSON",
+            "Text": "@LadyMSunshine",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7569906711578369,
+            "Type": "QUANTITY",
+            "Text": "5",
+            "BeginOffset": 46,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.8476987481117249,
+            "Type": "EVENT",
+            "Text": "Christmas",
+            "BeginOffset": 82,
+            "EndOffset": 91
+        }
+    ]
+}

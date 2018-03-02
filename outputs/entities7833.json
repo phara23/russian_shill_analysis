@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8567160367965698,
+            "Type": "PERSON",
+            "Text": "@PhunPhactory",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8925973773002625,
+            "Type": "QUANTITY",
+            "Text": "50%",
+            "BeginOffset": 46,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9873095154762268,
+            "Type": "QUANTITY",
+            "Text": "40%",
+            "BeginOffset": 61,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9530712962150574,
+            "Type": "QUANTITY",
+            "Text": "10%",
+            "BeginOffset": 84,
+            "EndOffset": 87
+        }
+    ]
+}

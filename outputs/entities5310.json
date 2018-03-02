@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7798325419425964,
+            "Type": "PERSON",
+            "Text": "@HashtagRoundup",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9261626601219177,
+            "Type": "DATE",
+            "Text": "5:30PM ET",
+            "BeginOffset": 20,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9755887985229492,
+            "Type": "DATE",
+            "Text": "TODAY",
+            "BeginOffset": 30,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9124270677566528,
+            "Type": "PERSON",
+            "Text": "@kittykaresless",
+            "BeginOffset": 50,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9747132658958435,
+            "Type": "PERSON",
+            "Text": "@skyblumelon",
+            "BeginOffset": 66,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.9005342721939087,
+            "Type": "PERSON",
+            "Text": "@lievensatweet",
+            "BeginOffset": 79,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.8687523603439331,
+            "Type": "PERSON",
+            "Text": "@sethgoodtime",
+            "BeginOffset": 94,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.9999514818191528,
+            "Type": "OTHER",
+            "Text": "https://t.co/Jm4qfp8FOX",
+            "BeginOffset": 109,
+            "EndOffset": 132
+        }
+    ]
+}

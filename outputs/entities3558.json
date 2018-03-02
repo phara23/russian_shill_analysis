@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6800322532653809,
+            "Type": "ORGANIZATION",
+            "Text": "@UberFacts",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9100120663642883,
+            "Type": "QUANTITY",
+            "Text": "first day",
+            "BeginOffset": 52,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9905204772949219,
+            "Type": "ORGANIZATION",
+            "Text": "Facebook",
+            "BeginOffset": 86,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.9519296884536743,
+            "Type": "OTHER",
+            "Text": "https://t.co/FzS8",
+            "BeginOffset": 122,
+            "EndOffset": 139
+        }
+    ]
+}

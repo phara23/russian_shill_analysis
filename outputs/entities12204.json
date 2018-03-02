@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9065524339675903,
+            "Type": "PERSON",
+            "Text": "@usaf48",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9710167646408081,
+            "Type": "PERSON",
+            "Text": "@Gianluca_1970",
+            "BeginOffset": 12,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9943516254425049,
+            "Type": "PERSON",
+            "Text": "@grampa194235",
+            "BeginOffset": 27,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9851308465003967,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 41,
+            "EndOffset": 57
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9793327450752258,
+            "Type": "PERSON",
+            "Text": "@tina_kandelaki",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9979179501533508,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 20,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.828885555267334,
+            "Type": "DATE",
+            "Text": "1988",
+            "BeginOffset": 65,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.19887278974056244,
+            "Type": "PERSON",
+            "Text": "Oprah",
+            "BeginOffset": 70,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.8365657925605774,
+            "Type": "TITLE",
+            "Text": "The Oprah Winfrey Show",
+            "BeginOffset": 83,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.9837530851364136,
+            "Type": "ORGANIZATION",
+            "Text": "YouTube",
+            "BeginOffset": 114,
+            "EndOffset": 121
+        },
+        {
+            "Score": 0.9732288718223572,
+            "Type": "OTHER",
+            "Text": "https://t.co/9Tek",
+            "BeginOffset": 122,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4843456447124481,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8356850743293762,
+            "Type": "PERSON",
+            "Text": "@Septgurl28",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9854297637939453,
+            "Type": "OTHER",
+            "Text": "https://t.co/oMRaWSISfr",
+            "BeginOffset": 16,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9949629306793213,
+            "Type": "LOCATION",
+            "Text": "San Antonio",
+            "BeginOffset": 70,
+            "EndOffset": 81
+        }
+    ]
+}

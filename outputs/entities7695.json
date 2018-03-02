@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9122657775878906,
+            "Type": "PERSON",
+            "Text": "@MusicJunkyPush",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9382740259170532,
+            "Type": "QUANTITY",
+            "Text": "100s",
+            "BeginOffset": 59,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9200687408447266,
+            "Type": "OTHER",
+            "Text": "https://t.co/1Dp5T6a0e1",
+            "BeginOffset": 110,
+            "EndOffset": 133
+        }
+    ]
+}

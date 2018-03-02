@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.928066611289978,
+            "Type": "PERSON",
+            "Text": "@HispanicsTrump",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9650830626487732,
+            "Type": "ORGANIZATION",
+            "Text": "Democrats",
+            "BeginOffset": 30,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.8534764051437378,
+            "Type": "ORGANIZATION",
+            "Text": "Trump Administration",
+            "BeginOffset": 78,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.7003828883171082,
+            "Type": "QUANTITY",
+            "Text": "one",
+            "BeginOffset": 99,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.8326658606529236,
+            "Type": "QUANTITY",
+            "Text": "one",
+            "BeginOffset": 106,
+            "EndOffset": 109
+        }
+    ]
+}

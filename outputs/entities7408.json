@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7133236527442932,
+            "Type": "PERSON",
+            "Text": "Christie",
+            "BeginOffset": 0,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.9136132001876831,
+            "Type": "LOCATION",
+            "Text": "NYC",
+            "BeginOffset": 50,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9979004859924316,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 74,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.9999127388000488,
+            "Type": "OTHER",
+            "Text": "https://t.co/VlcBN3WBWr",
+            "BeginOffset": 93,
+            "EndOffset": 116
+        }
+    ]
+}

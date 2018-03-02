@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9610556960105896,
+            "Type": "PERSON",
+            "Text": "@Johnsimmons1009",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8404968976974487,
+            "Type": "PERSON",
+            "Text": "@Lobomundo",
+            "BeginOffset": 21,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9505800604820251,
+            "Type": "PERSON",
+            "Text": "@American1st",
+            "BeginOffset": 32,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9935661554336548,
+            "Type": "PERSON",
+            "Text": "@vito4224",
+            "BeginOffset": 45,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9959562420845032,
+            "Type": "PERSON",
+            "Text": "@MarciaCrocker01",
+            "BeginOffset": 55,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9706477522850037,
+            "Type": "PERSON",
+            "Text": "@A_M_Perez",
+            "BeginOffset": 72,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.8012255430221558,
+            "Type": "PERSON",
+            "Text": "@Tea_Party_Chris",
+            "BeginOffset": 83,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.8076209425926208,
+            "Type": "EVENT",
+            "Text": "Christmas",
+            "BeginOffset": 116,
+            "EndOffset": 125
+        }
+    ]
+}

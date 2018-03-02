@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7731552124023438,
+            "Type": "PERSON",
+            "Text": "@Nottinghams1",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9631430506706238,
+            "Type": "PERSON",
+            "Text": "DeVos",
+            "BeginOffset": 20,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9940614104270935,
+            "Type": "PERSON",
+            "Text": "Pence",
+            "BeginOffset": 65,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.3960230350494385,
+            "Type": "ORGANIZATION",
+            "Text": "#MAGA",
+            "BeginOffset": 82,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.8826091885566711,
+            "Type": "OTHER",
+            "Text": "https://t.co/27t",
+            "BeginOffset": 123,
+            "EndOffset": 139
+        }
+    ]
+}

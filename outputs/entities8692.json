@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9368682503700256,
+            "Type": "PERSON",
+            "Text": "@larryelder",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7519709467887878,
+            "Type": "ORGANIZATION",
+            "Text": "@nytimes",
+            "BeginOffset": 25,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9982143044471741,
+            "Type": "PERSON",
+            "Text": "Bill Clinton",
+            "BeginOffset": 73,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.7245153188705444,
+            "Type": "QUANTITY",
+            "Text": "THREE plausible rape allegations",
+            "BeginOffset": 88,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.9470171928405762,
+            "Type": "QUANTITY",
+            "Text": "6 min",
+            "BeginOffset": 125,
+            "EndOffset": 130
+        }
+    ]
+}

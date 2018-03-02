@@ -1,0 +1,28 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9997892379760742,
+            "Text": "Tim Kaine",
+            "BeginOffset": 0,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9970566630363464,
+            "Text": "Trump",
+            "BeginOffset": 15,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.9900876879692078,
+            "Text": "Watergate-like hack",
+            "BeginOffset": 32,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9978624582290649,
+            "Text": "DNC",
+            "BeginOffset": 55,
+            "EndOffset": 58
+        }
+    ]
+}

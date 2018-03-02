@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9266527891159058,
+            "Type": "PERSON",
+            "Text": "@GraveyardSister",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9837464690208435,
+            "Type": "PERSON",
+            "Text": "Oluniké Adeliyi",
+            "BeginOffset": 21,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9843442440032959,
+            "Type": "PERSON",
+            "Text": "Kim",
+            "BeginOffset": 40,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9303635358810425,
+            "Type": "TITLE",
+            "Text": "A Christmas Horror Story",
+            "BeginOffset": 47,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9953975081443787,
+            "Type": "DATE",
+            "Text": "2015",
+            "BeginOffset": 73,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9032439589500427,
+            "Type": "OTHER",
+            "Text": "https://t.co/WhULTw45cp",
+            "BeginOffset": 79,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.4311327636241913,
+            "Type": "TITLE",
+            "Text": "#Blackwomeninhorror",
+            "BeginOffset": 103,
+            "EndOffset": 122
+        },
+        {
+            "Score": 0.9339354038238525,
+            "Type": "OTHER",
+            "Text": "https://t.co/T3Q",
+            "BeginOffset": 123,
+            "EndOffset": 139
+        }
+    ]
+}

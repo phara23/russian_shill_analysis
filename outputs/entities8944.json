@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9588397741317749,
+            "Type": "PERSON",
+            "Text": "@steph93065",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9883246421813965,
+            "Type": "ORGANIZATION",
+            "Text": "MSNBC",
+            "BeginOffset": 16,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9125217199325562,
+            "Type": "ORGANIZATION",
+            "Text": "FOX",
+            "BeginOffset": 57,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.8471596240997314,
+            "Type": "PERSON",
+            "Text": "@ericbolling",
+            "BeginOffset": 79,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.8871195316314697,
+            "Type": "PERSON",
+            "Text": "@loudobbsnews",
+            "BeginOffset": 93,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.9270561933517456,
+            "Type": "PERSON",
+            "Text": "@seanhannity",
+            "BeginOffset": 108,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.7594771385192871,
+            "Type": "PERSON",
+            "Text": "@greta",
+            "BeginOffset": 122,
+            "EndOffset": 128
+        }
+    ]
+}

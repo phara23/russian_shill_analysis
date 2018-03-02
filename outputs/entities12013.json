@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9443791508674622,
+            "Type": "PERSON",
+            "Text": "@zachhaller",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7263991236686707,
+            "Type": "QUANTITY",
+            "Text": "5 minimum wage",
+            "BeginOffset": 119,
+            "EndOffset": 133
+        }
+    ]
+}

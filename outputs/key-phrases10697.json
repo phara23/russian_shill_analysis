@@ -1,0 +1,34 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9894947409629822,
+            "Text": "New poll",
+            "BeginOffset": 0,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.9989553689956665,
+            "Text": "Clinton",
+            "BeginOffset": 15,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9745091199874878,
+            "Text": "lead",
+            "BeginOffset": 25,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9898605942726135,
+            "Text": "Trump",
+            "BeginOffset": 35,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.7548086643218994,
+            "Text": "https://t.co/1OvbpBq0op #news",
+            "BeginOffset": 59,
+            "EndOffset": 88
+        }
+    ]
+}

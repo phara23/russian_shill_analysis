@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7778174877166748,
+            "Type": "PERSON",
+            "Text": "@NewBlackMan",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7382262945175171,
+            "Type": "EVENT",
+            "Text": "#WordWork2016",
+            "BeginOffset": 17,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9558079242706299,
+            "Type": "PERSON",
+            "Text": "Melissa Harris-Perry",
+            "BeginOffset": 52,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.7843631505966187,
+            "Type": "PERSON",
+            "Text": "Karla FC Holloway",
+            "BeginOffset": 75,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.9999521970748901,
+            "Type": "OTHER",
+            "Text": "https://t.co/Th3F5WjlUR",
+            "BeginOffset": 93,
+            "EndOffset": 116
+        }
+    ]
+}

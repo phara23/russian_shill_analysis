@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7303223609924316,
+            "Type": "PERSON",
+            "Text": "Alles Gute zum Geburtstag",
+            "BeginOffset": 0,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9658554196357727,
+            "Type": "PERSON",
+            "Text": "Frau #Merkel",
+            "BeginOffset": 27,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.7191826105117798,
+            "Type": "PERSON",
+            "Text": "Sie Glück",
+            "BeginOffset": 53,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9999769926071167,
+            "Type": "OTHER",
+            "Text": "https://t.co/x8p1SxpqqZ",
+            "BeginOffset": 81,
+            "EndOffset": 104
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8506537675857544,
+            "Type": "PERSON",
+            "Text": "@Martukin",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.7748144268989563,
+            "Type": "PERSON",
+            "Text": "@nytvideo",
+            "BeginOffset": 14,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.901847243309021,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 24,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9565932154655457,
+            "Type": "ORGANIZATION",
+            "Text": "NRC",
+            "BeginOffset": 29,
+            "EndOffset": 32
+        }
+    ]
+}

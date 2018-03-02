@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8195703625679016,
+            "Type": "PERSON",
+            "Text": "@thehill",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9944297671318054,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 21,
+            "EndOffset": 26
+        }
+    ]
+}

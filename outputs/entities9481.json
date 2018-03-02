@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.963573157787323,
+            "Type": "PERSON",
+            "Text": "@Superman6869",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9464773535728455,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 18,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9463200569152832,
+            "Type": "OTHER",
+            "Text": "https://t.co/qaEa0KjyxI",
+            "BeginOffset": 59,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.979905366897583,
+            "Type": "PERSON",
+            "Text": "@DonaldJTrumpJr",
+            "BeginOffset": 118,
+            "EndOffset": 133
+        },
+        {
+            "Score": 0.9704722166061401,
+            "Type": "PERSON",
+            "Text": "@Eric",
+            "BeginOffset": 134,
+            "EndOffset": 139
+        }
+    ]
+}

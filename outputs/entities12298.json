@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9260575771331787,
+            "Type": "PERSON",
+            "Text": "@saul42",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.3944009244441986,
+            "Type": "ORGANIZATION",
+            "Text": "#US",
+            "BeginOffset": 12,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8950560092926025,
+            "Type": "ORGANIZATION",
+            "Text": "Russia",
+            "BeginOffset": 34,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9999630451202393,
+            "Type": "OTHER",
+            "Text": "https://t.co/B80Ym2nMrr",
+            "BeginOffset": 82,
+            "EndOffset": 105
+        }
+    ]
+}

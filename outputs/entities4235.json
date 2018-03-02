@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6713970303535461,
+            "Type": "ORGANIZATION",
+            "Text": "@NYMag",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9989169836044312,
+            "Type": "PERSON",
+            "Text": "Tina Fey",
+            "BeginOffset": 11,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.968476414680481,
+            "Type": "PERSON",
+            "Text": "@AmySchumer",
+            "BeginOffset": 24,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9392187595367432,
+            "Type": "OTHER",
+            "Text": "http://t.co/5Edgu5olPe",
+            "BeginOffset": 59,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.9999889135360718,
+            "Type": "OTHER",
+            "Text": "http://t.co/WACFI4939F",
+            "BeginOffset": 82,
+            "EndOffset": 104
+        }
+    ]
+}

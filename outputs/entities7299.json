@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9058068990707397,
+            "Type": "PERSON",
+            "Text": "@Stono_Rebel",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7930132150650024,
+            "Type": "PERSON",
+            "Text": "@XLNB",
+            "BeginOffset": 17,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9999864101409912,
+            "Type": "OTHER",
+            "Text": "https://t.co/Kk5IXtfzS3",
+            "BeginOffset": 25,
+            "EndOffset": 48
+        }
+    ]
+}

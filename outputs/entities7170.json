@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9538806676864624,
+            "Type": "ORGANIZATION",
+            "Text": "WikiLeaks",
+            "BeginOffset": 0,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9924437403678894,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 16,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.5021776556968689,
+            "Type": "PERSON",
+            "Text": "Lafayette",
+            "BeginOffset": 37,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9999638795852661,
+            "Type": "OTHER",
+            "Text": "https://t.co/cRTTCMyNe2",
+            "BeginOffset": 54,
+            "EndOffset": 77
+        }
+    ]
+}

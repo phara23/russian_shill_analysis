@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9158446788787842,
+            "Type": "PERSON",
+            "Text": "@conserv_tribune",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.7042797803878784,
+            "Type": "OTHER",
+            "Text": "Americans",
+            "BeginOffset": 47,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.973764955997467,
+            "Type": "ORGANIZATION",
+            "Text": "ISIS",
+            "BeginOffset": 72,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.7090476751327515,
+            "Type": "PERSON",
+            "Text": "Muhammad",
+            "BeginOffset": 94,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.6389573812484741,
+            "Type": "OTHER",
+            "Text": "http://t.co/VIwePpwoQy",
+            "BeginOffset": 105,
+            "EndOffset": 127
+        },
+        {
+            "Score": 0.39450803399086,
+            "Type": "ORGANIZATION",
+            "Text": "#tcot",
+            "BeginOffset": 128,
+            "EndOffset": 133
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9541397094726562,
+            "Type": "PERSON",
+            "Text": "@darylelockhart",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7490739226341248,
+            "Type": "TITLE",
+            "Text": "Stranger Things",
+            "BeginOffset": 59,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9513582587242126,
+            "Type": "OTHER",
+            "Text": "https://t.co/nIzjl7GwE8",
+            "BeginOffset": 75,
+            "EndOffset": 98
+        }
+    ]
+}

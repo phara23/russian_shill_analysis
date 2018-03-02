@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.791928768157959,
+            "Type": "PERSON",
+            "Text": "@brightlightray",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.6845623254776001,
+            "Type": "QUANTITY",
+            "Text": "26",
+            "BeginOffset": 20,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9995183944702148,
+            "Type": "OTHER",
+            "Text": "https://t.co/crFvOn9lia",
+            "BeginOffset": 65,
+            "EndOffset": 88
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9721735715866089,
+            "Type": "PERSON",
+            "Text": "@JohnBelObama",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9623797535896301,
+            "Type": "PERSON",
+            "Text": "@JohnBelforLA",
+            "BeginOffset": 19,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.8994857668876648,
+            "Type": "PERSON",
+            "Text": "Vitter",
+            "BeginOffset": 57,
+            "EndOffset": 63
+        }
+    ]
+}

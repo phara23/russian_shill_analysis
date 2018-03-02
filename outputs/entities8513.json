@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7812201976776123,
+            "Type": "PERSON",
+            "Text": "@QueButter",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9998300075531006,
+            "Type": "OTHER",
+            "Text": "https://t.co/W6eDcgVlwb",
+            "BeginOffset": 107,
+            "EndOffset": 130
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9435762763023376,
+            "Type": "PERSON",
+            "Text": "@tlamb775",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9909372925758362,
+            "Type": "PERSON",
+            "Text": "Azam Arsalai",
+            "BeginOffset": 14,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.6403583288192749,
+            "Type": "OTHER",
+            "Text": "Afghan",
+            "BeginOffset": 29,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.8981420397758484,
+            "Type": "LOCATION",
+            "Text": "Soviet",
+            "BeginOffset": 60,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9984973669052124,
+            "Type": "OTHER",
+            "Text": "https://t.co/VDf4x5Pk4S",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        },
+        {
+            "Score": 0.9469983577728271,
+            "Type": "ORGANIZATION",
+            "Text": "@Archive",
+            "BeginOffset": 131,
+            "EndOffset": 139
+        }
+    ]
+}

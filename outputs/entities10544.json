@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.856759250164032,
+            "Type": "PERSON",
+            "Text": "@thoughtfloss",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.960780680179596,
+            "Type": "LOCATION",
+            "Text": "USA",
+            "BeginOffset": 63,
+            "EndOffset": 66
+        }
+    ]
+}

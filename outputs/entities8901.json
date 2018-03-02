@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8700863718986511,
+            "Type": "PERSON",
+            "Text": "@Johnatsrs1949",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9991328120231628,
+            "Type": "PERSON",
+            "Text": "TRUMP",
+            "BeginOffset": 37,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9861002564430237,
+            "Type": "LOCATION",
+            "Text": "#USA",
+            "BeginOffset": 85,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.9751147627830505,
+            "Type": "OTHER",
+            "Text": "https://t.co/ILyT6zL",
+            "BeginOffset": 119,
+            "EndOffset": 139
+        }
+    ]
+}

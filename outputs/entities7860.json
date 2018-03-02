@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8139092326164246,
+            "Type": "PERSON",
+            "Text": "@signoftria",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9991123676300049,
+            "Type": "PERSON",
+            "Text": "Martha Stewart",
+            "BeginOffset": 16,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.658482551574707,
+            "Type": "PERSON",
+            "Text": "@marthastewart",
+            "BeginOffset": 75,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.9997923970222473,
+            "Type": "OTHER",
+            "Text": "https://t.co/iKcvzVAYie",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        }
+    ]
+}

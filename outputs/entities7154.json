@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9795628786087036,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 0,
+            "EndOffset": 3
+        },
+        {
+            "Score": 0.6264421343803406,
+            "Type": "QUANTITY",
+            "Text": "00M",
+            "BeginOffset": 35,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.4704606533050537,
+            "Type": "LOCATION",
+            "Text": "Iran",
+            "BeginOffset": 50,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.999951958656311,
+            "Type": "OTHER",
+            "Text": "https://t.co/ETHjHkt6U3",
+            "BeginOffset": 55,
+            "EndOffset": 78
+        }
+    ]
+}

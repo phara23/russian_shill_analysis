@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8341938257217407,
+            "Type": "PERSON",
+            "Text": "@_Cristian_Vlad_",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9827430248260498,
+            "Type": "DATE",
+            "Text": "tomorrow",
+            "BeginOffset": 55,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9998750686645508,
+            "Type": "OTHER",
+            "Text": "https://t.co/SnwzHie4WB",
+            "BeginOffset": 79,
+            "EndOffset": 102
+        }
+    ]
+}

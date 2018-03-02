@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.977696418762207,
+            "Type": "PERSON",
+            "Text": "Kerry",
+            "BeginOffset": 22,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.892084538936615,
+            "Type": "ORGANIZATION",
+            "Text": "Muslim",
+            "BeginOffset": 43,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9964656829833984,
+            "Type": "LOCATION",
+            "Text": "Europe",
+            "BeginOffset": 100,
+            "EndOffset": 106
+        }
+    ]
+}

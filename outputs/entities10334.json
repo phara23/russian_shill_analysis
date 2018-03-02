@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8407679796218872,
+            "Type": "PERSON",
+            "Text": "@MIPooh",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.8179556727409363,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 12,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8536307215690613,
+            "Type": "ORGANIZATION",
+            "Text": "@USDA",
+            "BeginOffset": 26,
+            "EndOffset": 31
+        }
+    ]
+}

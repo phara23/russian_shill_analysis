@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9396242499351501,
+            "Type": "PERSON",
+            "Text": "@daeshhun",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.5868731141090393,
+            "Type": "EVENT",
+            "Text": "Christmas",
+            "BeginOffset": 37,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.994268536567688,
+            "Type": "LOCATION",
+            "Text": "Berlin",
+            "BeginOffset": 57,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.979798436164856,
+            "Type": "OTHER",
+            "Text": "https://t.co/mFSf1b",
+            "BeginOffset": 120,
+            "EndOffset": 139
+        }
+    ]
+}

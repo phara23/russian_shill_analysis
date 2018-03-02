@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8530153632164001,
+            "Type": "PERSON",
+            "Text": "@warriors_mom",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9999395608901978,
+            "Type": "OTHER",
+            "Text": "https://t.co/NUIIgwA966",
+            "BeginOffset": 35,
+            "EndOffset": 58
+        }
+    ]
+}

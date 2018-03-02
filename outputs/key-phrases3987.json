@@ -1,0 +1,34 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9447579979896545,
+            "Text": "RT @TeachersForBern",
+            "BeginOffset": 0,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9661211967468262,
+            "Text": "Warren",
+            "BeginOffset": 21,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9883637428283691,
+            "Text": "the DNC",
+            "BeginOffset": 33,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9990456104278564,
+            "Text": "the election",
+            "BeginOffset": 41,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9015678763389587,
+            "Text": "Sanders",
+            "BeginOffset": 69,
+            "EndOffset": 76
+        }
+    ]
+}

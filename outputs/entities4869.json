@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.845669686794281,
+            "Type": "PERSON",
+            "Text": "@gerfingerpoken",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.953042209148407,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 30,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.6710147261619568,
+            "Type": "OTHER",
+            "Text": "Russian",
+            "BeginOffset": 44,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.7522251009941101,
+            "Type": "OTHER",
+            "Text": "American",
+            "BeginOffset": 86,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.8861957788467407,
+            "Type": "OTHER",
+            "Text": "https://t.co/aTRBaA6GAc",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        },
+        {
+            "Score": 0.8013331890106201,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 129,
+            "EndOffset": 138
+        }
+    ]
+}

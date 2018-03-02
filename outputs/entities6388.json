@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8475672602653503,
+            "Type": "PERSON",
+            "Text": "@pakalert",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.7123825550079346,
+            "Type": "EVENT",
+            "Text": "World War 3",
+            "BeginOffset": 14,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9999939203262329,
+            "Type": "OTHER",
+            "Text": "https://t.co/VomX2OACj2",
+            "BeginOffset": 32,
+            "EndOffset": 55
+        }
+    ]
+}

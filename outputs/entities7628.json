@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8519695997238159,
+            "Type": "PERSON",
+            "Text": "@bowing_out",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8398415446281433,
+            "Type": "PERSON",
+            "Text": "@MartinMPL",
+            "BeginOffset": 16,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.983481764793396,
+            "Type": "PERSON",
+            "Text": "@johnkuckian",
+            "BeginOffset": 27,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.8447605967521667,
+            "Type": "PERSON",
+            "Text": "JOHN COWAN",
+            "BeginOffset": 40,
+            "EndOffset": 50
+        }
+    ]
+}

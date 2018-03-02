@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8692231178283691,
+            "Type": "PERSON",
+            "Text": "@mcglohn",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9769018888473511,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 39,
+            "EndOffset": 55
+        }
+    ]
+}

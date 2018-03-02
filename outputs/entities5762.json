@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9696152806282043,
+            "Type": "PERSON",
+            "Text": "@dukebob888",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8692553639411926,
+            "Type": "DATE",
+            "Text": "last month",
+            "BeginOffset": 82,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.9989814162254333,
+            "Type": "OTHER",
+            "Text": "https://t.co/v4uOFujEhU",
+            "BeginOffset": 108,
+            "EndOffset": 131
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9290205240249634,
+            "Type": "PERSON",
+            "Text": "@ShaunKing",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.7350932955741882,
+            "Type": "ORGANIZATION",
+            "Text": "SWAT",
+            "BeginOffset": 45,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.6060778498649597,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 130,
+            "EndOffset": 139
+        }
+    ]
+}

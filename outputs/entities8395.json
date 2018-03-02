@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8705097436904907,
+            "Type": "PERSON",
+            "Text": "@ihatethemedia",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8810570240020752,
+            "Type": "ORGANIZATION",
+            "Text": "White House",
+            "BeginOffset": 50,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9978101253509521,
+            "Type": "PERSON",
+            "Text": "Bill Clinton",
+            "BeginOffset": 104,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.5071596503257751,
+            "Type": "QUANTITY",
+            "Text": "first",
+            "BeginOffset": 119,
+            "EndOffset": 124
+        }
+    ]
+}

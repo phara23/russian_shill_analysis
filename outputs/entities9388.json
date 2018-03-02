@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8179467916488647,
+            "Type": "PERSON",
+            "Text": "@NotiiexpressUSA",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9392901062965393,
+            "Type": "PERSON",
+            "Text": "Calvin Klein",
+            "BeginOffset": 27,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9784401655197144,
+            "Type": "PERSON",
+            "Text": "Melania",
+            "BeginOffset": 73,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.9121372699737549,
+            "Type": "OTHER",
+            "Text": "https://t.co/TTKPKmWS8M",
+            "BeginOffset": 98,
+            "EndOffset": 121
+        },
+        {
+            "Score": 0.9887909889221191,
+            "Type": "OTHER",
+            "Text": "https://t.co/Jztk",
+            "BeginOffset": 122,
+            "EndOffset": 139
+        }
+    ]
+}

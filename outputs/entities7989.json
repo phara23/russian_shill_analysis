@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8105233907699585,
+            "Type": "PERSON",
+            "Text": "@PatriotGeorgia",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9948036074638367,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 55,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9912994503974915,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 66,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.6764644980430603,
+            "Type": "QUANTITY",
+            "Text": "One Freaking Out",
+            "BeginOffset": 81,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.9997143149375916,
+            "Type": "OTHER",
+            "Text": "https://t.co/Ks4WEMmK5Y",
+            "BeginOffset": 98,
+            "EndOffset": 121
+        }
+    ]
+}

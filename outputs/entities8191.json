@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.47296786308288574,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8925899863243103,
+            "Type": "ORGANIZATION",
+            "Text": "@Daily_Star",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9871899485588074,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 16,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.7025770545005798,
+            "Type": "LOCATION",
+            "Text": "North Korean",
+            "BeginOffset": 54,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.883324921131134,
+            "Type": "OTHER",
+            "Text": "https://t.co/uOS3U6mw4n",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.9728020429611206,
+            "Type": "OTHER",
+            "Text": "https://t.co/YePxu",
+            "BeginOffset": 121,
+            "EndOffset": 139
+        }
+    ]
+}

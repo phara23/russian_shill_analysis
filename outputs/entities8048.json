@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4569060504436493,
+            "Type": "ORGANIZATION",
+            "Text": "SEAL",
+            "BeginOffset": 0,
+            "EndOffset": 4
+        },
+        {
+            "Score": 0.82061767578125,
+            "Type": "QUANTITY",
+            "Text": "6 Leader",
+            "BeginOffset": 10,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.933893084526062,
+            "Type": "QUANTITY",
+            "Text": "3 elections",
+            "BeginOffset": 20,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9964290261268616,
+            "Type": "PERSON",
+            "Text": "Khizr Khan",
+            "BeginOffset": 38,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.6286978125572205,
+            "Type": "PERSON",
+            "Text": "Khans",
+            "BeginOffset": 55,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.7574276924133301,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 77,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.8860698938369751,
+            "Type": "OTHER",
+            "Text": "https://t.co/nIArmHcKzT",
+            "BeginOffset": 93,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.9999967813491821,
+            "Type": "OTHER",
+            "Text": "https://t.co/JtoP8V52Y6",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

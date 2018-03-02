@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9029341340065002,
+            "Type": "PERSON",
+            "Text": "@cmdorsey",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9854615926742554,
+            "Type": "PERSON",
+            "Text": "Loretta",
+            "BeginOffset": 23,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9999401569366455,
+            "Type": "OTHER",
+            "Text": "https://t.co/3RHViMuO3W",
+            "BeginOffset": 110,
+            "EndOffset": 133
+        }
+    ]
+}

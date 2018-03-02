@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8339163661003113,
+            "Type": "PERSON",
+            "Text": "@jeanthorpe",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8564042448997498,
+            "Type": "PERSON",
+            "Text": "@EricWolfson",
+            "BeginOffset": 16,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9120211005210876,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 33,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.5210269689559937,
+            "Type": "ORGANIZATION",
+            "Text": "senate",
+            "BeginOffset": 60,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9871543645858765,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 108,
+            "EndOffset": 113
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.790075421333313,
+            "Type": "PERSON",
+            "Text": "@NathanDWilsonFL",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.7108328342437744,
+            "Type": "QUANTITY",
+            "Text": "First Lady",
+            "BeginOffset": 21,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.7129140496253967,
+            "Type": "PERSON",
+            "Text": "@MELANIATRUMP",
+            "BeginOffset": 32,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9888918995857239,
+            "Type": "PERSON",
+            "Text": "Ralph Lauren",
+            "BeginOffset": 95,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.7531301975250244,
+            "Type": "QUANTITY",
+            "Text": "First lady",
+            "BeginOffset": 109,
+            "EndOffset": 119
+        },
+        {
+            "Score": 0.6713017821311951,
+            "Type": "PERSON",
+            "Text": "Grace",
+            "BeginOffset": 135,
+            "EndOffset": 140
+        }
+    ]
+}

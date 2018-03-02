@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7842255234718323,
+            "Type": "PERSON",
+            "Text": "@PJStrikeForce",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6076505780220032,
+            "Type": "ORGANIZATION",
+            "Text": "#Congress",
+            "BeginOffset": 19,
+            "EndOffset": 28
+        }
+    ]
+}

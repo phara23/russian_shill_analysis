@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6743150353431702,
+            "Type": "QUANTITY",
+            "Text": "one photo",
+            "BeginOffset": 27,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9998750686645508,
+            "Type": "OTHER",
+            "Text": "https://t.co/XjS5LLtAQx",
+            "BeginOffset": 37,
+            "EndOffset": 60
+        }
+    ]
+}

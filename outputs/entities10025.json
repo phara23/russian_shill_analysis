@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.866786003112793,
+            "Type": "PERSON",
+            "Text": "@usacsmret",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9719148278236389,
+            "Type": "PERSON",
+            "Text": "Howard Dean",
+            "BeginOffset": 15,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9940839409828186,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 88,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.9983539581298828,
+            "Type": "OTHER",
+            "Text": "https://t.co/hkUvonHRsa",
+            "BeginOffset": 101,
+            "EndOffset": 124
+        }
+    ]
+}

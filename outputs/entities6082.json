@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9064350724220276,
+            "Type": "PERSON",
+            "Text": "@bevrobertson3",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8446122407913208,
+            "Type": "PERSON",
+            "Text": "@Daily_Express",
+            "BeginOffset": 19,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.631805419921875,
+            "Type": "LOCATION",
+            "Text": "#Canada",
+            "BeginOffset": 61,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.5586811900138855,
+            "Type": "ORGANIZATION",
+            "Text": "#Canada150",
+            "BeginOffset": 70,
+            "EndOffset": 80
+        }
+    ]
+}

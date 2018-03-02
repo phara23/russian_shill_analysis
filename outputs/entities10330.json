@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8703693747520447,
+            "Type": "PERSON",
+            "Text": "@coldplay207",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9860742092132568,
+            "Type": "ORGANIZATION",
+            "Text": "twitter",
+            "BeginOffset": 46,
+            "EndOffset": 53
+        }
+    ]
+}

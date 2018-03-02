@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7633016109466553,
+            "Type": "PERSON",
+            "Text": "@rapstationradio",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.6838173866271973,
+            "Type": "PERSON",
+            "Text": "Crespo",
+            "BeginOffset": 34,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.5944488048553467,
+            "Type": "QUANTITY",
+            "Text": "1",
+            "BeginOffset": 62,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.6954413056373596,
+            "Type": "ORGANIZATION",
+            "Text": "@RAPStationRadio",
+            "BeginOffset": 67,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.9998787641525269,
+            "Type": "OTHER",
+            "Text": "https://t.co/c03NAQRfju",
+            "BeginOffset": 100,
+            "EndOffset": 123
+        }
+    ]
+}

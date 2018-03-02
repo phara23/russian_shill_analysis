@@ -1,0 +1,74 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8641875982284546,
+            "Type": "PERSON",
+            "Text": "@madeniexdan1",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8096123933792114,
+            "Type": "OTHER",
+            "Text": "https://t.co/1q3mYIWFip",
+            "BeginOffset": 18,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9899930953979492,
+            "Type": "PERSON",
+            "Text": "@purplhaze42",
+            "BeginOffset": 42,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.97409987449646,
+            "Type": "PERSON",
+            "Text": "@TanyaKasim",
+            "BeginOffset": 55,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9717490077018738,
+            "Type": "PERSON",
+            "Text": "@MLKstudios",
+            "BeginOffset": 67,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.9872359037399292,
+            "Type": "PERSON",
+            "Text": "@rico_hands",
+            "BeginOffset": 79,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9882505536079407,
+            "Type": "PERSON",
+            "Text": "@rk70534",
+            "BeginOffset": 91,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.8891163468360901,
+            "Type": "PERSON",
+            "Text": "@ijassat",
+            "BeginOffset": 100,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.5724543333053589,
+            "Type": "ORGANIZATION",
+            "Text": "Israel Rabbis",
+            "BeginOffset": 110,
+            "EndOffset": 123
+        },
+        {
+            "Score": 0.7436386346817017,
+            "Type": "EVENT",
+            "Text": "Christmas",
+            "BeginOffset": 130,
+            "EndOffset": 139
+        }
+    ]
+}

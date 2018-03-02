@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8881565928459167,
+            "Type": "PERSON",
+            "Text": "@Mathiasian",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9991611838340759,
+            "Type": "PERSON",
+            "Text": "Bill Clinton",
+            "BeginOffset": 16,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9990689158439636,
+            "Type": "OTHER",
+            "Text": "https://t.co/E0qDQIzBYv",
+            "BeginOffset": 65,
+            "EndOffset": 88
+        }
+    ]
+}

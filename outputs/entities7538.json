@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4907677173614502,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.9073376059532166,
+            "Type": "PERSON",
+            "Text": "@Cory_1077",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9998177886009216,
+            "Type": "OTHER",
+            "Text": "https://t.co/Z9WyoXIKEG",
+            "BeginOffset": 47,
+            "EndOffset": 70
+        }
+    ]
+}

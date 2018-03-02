@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.838480532169342,
+            "Type": "PERSON",
+            "Text": "@funkflex",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.6222730278968811,
+            "Type": "PERSON",
+            "Text": "@PapooseOnline",
+            "BeginOffset": 22,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.7820071578025818,
+            "Type": "PERSON",
+            "Text": "Ft.",
+            "BeginOffset": 37,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9683651328086853,
+            "Type": "PERSON",
+            "Text": "@FatJoe",
+            "BeginOffset": 41,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.8921619057655334,
+            "Type": "PERSON",
+            "Text": "@Jaquae",
+            "BeginOffset": 55,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.8581358194351196,
+            "Type": "TITLE",
+            "Text": "Back On My Bullsh",
+            "BeginOffset": 65,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.7785114049911499,
+            "Type": "OTHER",
+            "Text": "https://t.co/YhNovhYspA",
+            "BeginOffset": 87,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.5798219442367554,
+            "Type": "ORGANIZATION",
+            "Text": "#IFWT",
+            "BeginOffset": 111,
+            "EndOffset": 116
+        }
+    ]
+}

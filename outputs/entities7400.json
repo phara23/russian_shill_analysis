@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7289538979530334,
+            "Type": "PERSON",
+            "Text": "@ApsaalookeLady",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9535508751869202,
+            "Type": "PERSON",
+            "Text": "@susanlschaffer1",
+            "BeginOffset": 20,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.873146653175354,
+            "Type": "PERSON",
+            "Text": "@DFSSweets",
+            "BeginOffset": 37,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.8976030945777893,
+            "Type": "PERSON",
+            "Text": "@_Makada_",
+            "BeginOffset": 48,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9713220000267029,
+            "Type": "PERSON",
+            "Text": "@AshleyJudd",
+            "BeginOffset": 58,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.7878879904747009,
+            "Type": "PERSON",
+            "Text": "@POTUS",
+            "BeginOffset": 70,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.9442788362503052,
+            "Type": "PERSON",
+            "Text": "@DailyCaller",
+            "BeginOffset": 77,
+            "EndOffset": 89
+        }
+    ]
+}

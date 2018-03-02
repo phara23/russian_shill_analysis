@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.46722161769866943,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.9780368804931641,
+            "Type": "PERSON",
+            "Text": "@Billy_Pentz",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7398479580879211,
+            "Type": "PERSON",
+            "Text": "@nationallampoon",
+            "BeginOffset": 69,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.999915599822998,
+            "Type": "OTHER",
+            "Text": "https://t.co/Av3C26t8rv",
+            "BeginOffset": 86,
+            "EndOffset": 109
+        }
+    ]
+}

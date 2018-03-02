@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7358934283256531,
+            "Type": "PERSON",
+            "Text": "@BBCWorld",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.6843921542167664,
+            "Type": "OTHER",
+            "Text": "Syrian",
+            "BeginOffset": 46,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9687127470970154,
+            "Type": "LOCATION",
+            "Text": "Europe",
+            "BeginOffset": 75,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.944732666015625,
+            "Type": "OTHER",
+            "Text": "https://t.co/slYnCxcSVn",
+            "BeginOffset": 82,
+            "EndOffset": 105
+        }
+    ]
+}

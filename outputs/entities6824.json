@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8696704506874084,
+            "Type": "PERSON",
+            "Text": "@Jugbo",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.7977429032325745,
+            "Type": "QUANTITY",
+            "Text": "5Words",
+            "BeginOffset": 27,
+            "EndOffset": 33
+        }
+    ]
+}

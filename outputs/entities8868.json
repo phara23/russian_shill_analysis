@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8234370350837708,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9335843920707703,
+            "Type": "PERSON",
+            "Text": "Madison Keys",
+            "BeginOffset": 13,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.8069345951080322,
+            "Type": "LOCATION",
+            "Text": "China",
+            "BeginOffset": 38,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9751859307289124,
+            "Type": "OTHER",
+            "Text": "https://t.co/fxUBM3yTZC",
+            "BeginOffset": 49,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.708774209022522,
+            "Type": "PERSON",
+            "Text": "@TheVoiceNews",
+            "BeginOffset": 73,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9998205304145813,
+            "Type": "OTHER",
+            "Text": "https://t.co/HA1PEZxizf",
+            "BeginOffset": 87,
+            "EndOffset": 110
+        }
+    ]
+}

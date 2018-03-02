@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7962397933006287,
+            "Type": "PERSON",
+            "Text": "@ChicagoBlackBus",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9307011961936951,
+            "Type": "LOCATION",
+            "Text": "Chicago",
+            "BeginOffset": 27,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9581753015518188,
+            "Type": "OTHER",
+            "Text": "https://t.co/0xGVfzCI2C",
+            "BeginOffset": 111,
+            "EndOffset": 134
+        }
+    ]
+}

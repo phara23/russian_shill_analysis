@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8095696568489075,
+            "Type": "PERSON",
+            "Text": "@LouDobbs",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9904031753540039,
+            "Type": "QUANTITY",
+            "Text": "25 years",
+            "BeginOffset": 33,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9326196908950806,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 55,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9464287161827087,
+            "Type": "PERSON",
+            "Text": "@MarshaBlackburn",
+            "BeginOffset": 98,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.9447188377380371,
+            "Type": "DATE",
+            "Text": "7pm",
+            "BeginOffset": 132,
+            "EndOffset": 135
+        }
+    ]
+}

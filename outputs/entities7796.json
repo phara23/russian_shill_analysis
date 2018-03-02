@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7805540561676025,
+            "Type": "PERSON",
+            "Text": "@leuubee",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.41997045278549194,
+            "Type": "QUANTITY",
+            "Text": "2",
+            "BeginOffset": 13,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9927691221237183,
+            "Type": "QUANTITY",
+            "Text": "10",
+            "BeginOffset": 15,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.5944212675094604,
+            "Type": "DATE",
+            "Text": "#2016",
+            "BeginOffset": 35,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.8304526805877686,
+            "Type": "QUANTITY",
+            "Text": "4Words",
+            "BeginOffset": 42,
+            "EndOffset": 48
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8316450715065002,
+            "Type": "PERSON",
+            "Text": "@KansasCityDNews",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9511341452598572,
+            "Type": "QUANTITY",
+            "Text": "Two robbers",
+            "BeginOffset": 27,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.76597660779953,
+            "Type": "LOCATION",
+            "Text": "west Wichita",
+            "BeginOffset": 56,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9847307801246643,
+            "Type": "DATE",
+            "Text": "Friday afternoon",
+            "BeginOffset": 69,
+            "EndOffset": 85
+        }
+    ]
+}

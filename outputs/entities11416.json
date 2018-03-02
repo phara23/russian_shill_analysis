@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9969883561134338,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 0,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.7200005650520325,
+            "Type": "ORGANIZATION",
+            "Text": "State Department",
+            "BeginOffset": 33,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9999383687973022,
+            "Type": "OTHER",
+            "Text": "https://t.co/yb8lJ4d9Dr",
+            "BeginOffset": 61,
+            "EndOffset": 84
+        }
+    ]
+}

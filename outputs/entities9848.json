@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7862798571586609,
+            "Type": "ORGANIZATION",
+            "Text": "@t3n",
+            "BeginOffset": 3,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.7852575182914734,
+            "Type": "QUANTITY",
+            "Text": "7 Dinge beachtet",
+            "BeginOffset": 19,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.7094184160232544,
+            "Type": "OTHER",
+            "Text": "https://t.co/OynmqfNZGG",
+            "BeginOffset": 79,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.9998588562011719,
+            "Type": "OTHER",
+            "Text": "https://t.co/iGfvx25ZYE",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6791343092918396,
+            "Type": "ORGANIZATION",
+            "Text": "@NRSC",
+            "BeginOffset": 3,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.9722857475280762,
+            "Type": "ORGANIZATION",
+            "Text": "Democrats",
+            "BeginOffset": 28,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9994518756866455,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 76,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.995272696018219,
+            "Type": "ORGANIZATION",
+            "Text": "FBI",
+            "BeginOffset": 101,
+            "EndOffset": 104
+        }
+    ]
+}

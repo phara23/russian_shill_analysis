@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9465834498405457,
+            "Type": "PERSON",
+            "Text": "@KingJohnLove",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9952961802482605,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 89,
+            "EndOffset": 94
+        }
+    ]
+}

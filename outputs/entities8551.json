@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8783280253410339,
+            "Type": "PERSON",
+            "Text": "@trump2016",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.7557628154754639,
+            "Type": "ORGANIZATION",
+            "Text": "Muslim Refugee",
+            "BeginOffset": 18,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.7496822476387024,
+            "Type": "ORGANIZATION",
+            "Text": "Islamic Frenzy",
+            "BeginOffset": 43,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.7751371264457703,
+            "Type": "ORGANIZATION",
+            "Text": "Historic Italian Church",
+            "BeginOffset": 61,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9191752672195435,
+            "Type": "ORGANIZATION",
+            "Text": "Islamic Invasion of Europe",
+            "BeginOffset": 92,
+            "EndOffset": 118
+        },
+        {
+            "Score": 0.9664332866668701,
+            "Type": "OTHER",
+            "Text": "https://t.co",
+            "BeginOffset": 127,
+            "EndOffset": 139
+        }
+    ]
+}

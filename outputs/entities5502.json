@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9526041150093079,
+            "Type": "PERSON",
+            "Text": "@Java_penguin",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.663200318813324,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 18,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.8479854464530945,
+            "Type": "PERSON",
+            "Text": "@drscott_atlanta",
+            "BeginOffset": 21,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.8469260931015015,
+            "Type": "OTHER",
+            "Text": "https://t.co/NxPMivRGkl",
+            "BeginOffset": 108,
+            "EndOffset": 131
+        }
+    ]
+}

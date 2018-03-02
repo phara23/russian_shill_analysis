@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6775394082069397,
+            "Type": "ORGANIZATION",
+            "Text": "@wikileaks",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.4962696135044098,
+            "Type": "ORGANIZATION",
+            "Text": "DoJ",
+            "BeginOffset": 15,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9999030232429504,
+            "Type": "PERSON",
+            "Text": "Peter Kadzik",
+            "BeginOffset": 38,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9982319474220276,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 71,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.6117352843284607,
+            "Type": "OTHER",
+            "Text": "https://t.co/MNHzJ310Nl",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        },
+        {
+            "Score": 0.9756863713264465,
+            "Type": "OTHER",
+            "Text": "https://t.co/uTQF6b",
+            "BeginOffset": 120,
+            "EndOffset": 139
+        }
+    ]
+}

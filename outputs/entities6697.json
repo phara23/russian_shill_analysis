@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8295624256134033,
+            "Type": "PERSON",
+            "Text": "@fxp123",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.7687157988548279,
+            "Type": "LOCATION",
+            "Text": "U.S.",
+            "BeginOffset": 12,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9781375527381897,
+            "Type": "PERSON",
+            "Text": "Roe V. Wade",
+            "BeginOffset": 58,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.8098204135894775,
+            "Type": "OTHER",
+            "Text": "https://t.co/AVr6dVh822",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.9672428369522095,
+            "Type": "OTHER",
+            "Text": "https://t.co/gekjm",
+            "BeginOffset": 121,
+            "EndOffset": 139
+        }
+    ]
+}

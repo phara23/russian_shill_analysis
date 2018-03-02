@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9284793138504028,
+            "Type": "PERSON",
+            "Text": "@klauseck",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8773900866508484,
+            "Type": "PERSON",
+            "Text": "von Hochschulen",
+            "BeginOffset": 43,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.8997181057929993,
+            "Type": "OTHER",
+            "Text": "https://t.co/NOVADtG8Sj",
+            "BeginOffset": 100,
+            "EndOffset": 123
+        },
+        {
+            "Score": 0.93645179271698,
+            "Type": "OTHER",
+            "Text": "https://t.co/fh",
+            "BeginOffset": 124,
+            "EndOffset": 139
+        }
+    ]
+}

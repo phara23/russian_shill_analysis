@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7632232308387756,
+            "Type": "PERSON",
+            "Text": "@Chevron",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9852999448776245,
+            "Type": "PERSON",
+            "Text": "Watson",
+            "BeginOffset": 17,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.4946673810482025,
+            "Type": "QUANTITY",
+            "Text": "one",
+            "BeginOffset": 52,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.7813350558280945,
+            "Type": "ORGANIZATION",
+            "Text": "@linkedin",
+            "BeginOffset": 108,
+            "EndOffset": 117
+        },
+        {
+            "Score": 0.9824207425117493,
+            "Type": "OTHER",
+            "Text": "https://t.co/4wMMNSq",
+            "BeginOffset": 119,
+            "EndOffset": 139
+        }
+    ]
+}

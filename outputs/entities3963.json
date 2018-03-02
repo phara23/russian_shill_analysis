@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9079073071479797,
+            "Type": "PERSON",
+            "Text": "Krauthammer",
+            "BeginOffset": 0,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.4284225106239319,
+            "Type": "LOCATION",
+            "Text": "Iran",
+            "BeginOffset": 14,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.31038081645965576,
+            "Type": "LOCATION",
+            "Text": "#Iran",
+            "BeginOffset": 72,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9998319149017334,
+            "Type": "OTHER",
+            "Text": "https://t.co/S4bXTDZzSr",
+            "BeginOffset": 78,
+            "EndOffset": 101
+        }
+    ]
+}

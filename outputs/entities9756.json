@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8258166909217834,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9860295653343201,
+            "Type": "PERSON",
+            "Text": "Vinnette Carroll",
+            "BeginOffset": 13,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.8008397817611694,
+            "Type": "ORGANIZATION",
+            "Text": "Broadway",
+            "BeginOffset": 31,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.6330146193504333,
+            "Type": "QUANTITY",
+            "Text": "First Black Female",
+            "BeginOffset": 42,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9821951985359192,
+            "Type": "OTHER",
+            "Text": "https://t.co/0sQ3h0nf40",
+            "BeginOffset": 70,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.7675859332084656,
+            "Type": "PERSON",
+            "Text": "@YourBlackWorld",
+            "BeginOffset": 94,
+            "EndOffset": 109
+        },
+        {
+            "Score": 0.9993079900741577,
+            "Type": "OTHER",
+            "Text": "https://t.co/qoEnfn8RgU",
+            "BeginOffset": 110,
+            "EndOffset": 133
+        }
+    ]
+}

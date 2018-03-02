@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7199744582176208,
+            "Type": "PERSON",
+            "Text": "@uniqueloves",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9936582446098328,
+            "Type": "OTHER",
+            "Text": "https://t.co/qARl9tDwMl",
+            "BeginOffset": 46,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.8681307435035706,
+            "Type": "ORGANIZATION",
+            "Text": "@uniqueloves",
+            "BeginOffset": 75,
+            "EndOffset": 87
+        }
+    ]
+}

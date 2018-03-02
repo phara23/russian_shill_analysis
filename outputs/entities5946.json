@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8788928985595703,
+            "Type": "PERSON",
+            "Text": "@DLoesch",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9865124225616455,
+            "Type": "PERSON",
+            "Text": "Cruz",
+            "BeginOffset": 13,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9981862902641296,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 34,
+            "EndOffset": 39
+        }
+    ]
+}

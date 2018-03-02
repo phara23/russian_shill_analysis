@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8703048825263977,
+            "Type": "PERSON",
+            "Text": "@HouseCracka",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9455212950706482,
+            "Type": "ORGANIZATION",
+            "Text": "WikiLeaks",
+            "BeginOffset": 17,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.716472327709198,
+            "Type": "OTHER",
+            "Text": "Guccifer 2.0",
+            "BeginOffset": 28,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9886319041252136,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 42,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.8128920793533325,
+            "Type": "PERSON",
+            "Text": "Hillar",
+            "BeginOffset": 120,
+            "EndOffset": 126
+        },
+        {
+            "Score": 0.7093115448951721,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 130,
+            "EndOffset": 139
+        }
+    ]
+}

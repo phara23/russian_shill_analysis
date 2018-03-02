@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9190282821655273,
+            "Type": "PERSON",
+            "Text": "@McKeg777",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8903053402900696,
+            "Type": "PERSON",
+            "Text": "@SarCatStyX",
+            "BeginOffset": 14,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9712331891059875,
+            "Type": "PERSON",
+            "Text": "@JamesWhomever",
+            "BeginOffset": 26,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9427209496498108,
+            "Type": "PERSON",
+            "Text": "@JadedByPolitics",
+            "BeginOffset": 41,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9708699584007263,
+            "Type": "PERSON",
+            "Text": "@mikerzer",
+            "BeginOffset": 58,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9936544895172119,
+            "Type": "PERSON",
+            "Text": "@lupash7",
+            "BeginOffset": 68,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.9756656289100647,
+            "Type": "PERSON",
+            "Text": "@KCarslin",
+            "BeginOffset": 77,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9012159705162048,
+            "Type": "PERSON",
+            "Text": "@JHWalz32",
+            "BeginOffset": 87,
+            "EndOffset": 96
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9454691410064697,
+            "Type": "PERSON",
+            "Text": "@JohnEhmet",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9022907614707947,
+            "Type": "PERSON",
+            "Text": "@sk0r9y0s",
+            "BeginOffset": 15,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9029138088226318,
+            "Type": "PERSON",
+            "Text": "@12voltman60",
+            "BeginOffset": 114,
+            "EndOffset": 126
+        },
+        {
+            "Score": 0.989585816860199,
+            "Type": "PERSON",
+            "Text": "@sluggoD54",
+            "BeginOffset": 127,
+            "EndOffset": 137
+        },
+        {
+            "Score": 0.853884756565094,
+            "Type": "PERSON",
+            "Text": "@…",
+            "BeginOffset": 138,
+            "EndOffset": 140
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8032121062278748,
+            "Type": "PERSON",
+            "Text": "@midnight 99",
+            "BeginOffset": 0,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.7914507389068604,
+            "Type": "LOCATION",
+            "Text": "Syria",
+            "BeginOffset": 27,
+            "EndOffset": 32
+        }
+    ]
+}

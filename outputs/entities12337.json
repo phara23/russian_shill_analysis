@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8914101719856262,
+            "Type": "PERSON",
+            "Text": "@samswey",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9910290241241455,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 13,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9999693632125854,
+            "Type": "OTHER",
+            "Text": "https://t.co/TO9aXkLRXk",
+            "BeginOffset": 19,
+            "EndOffset": 42
+        }
+    ]
+}

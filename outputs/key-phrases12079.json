@@ -1,0 +1,28 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.999214231967926,
+            "Text": "This guy",
+            "BeginOffset": 0,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.9983335733413696,
+            "Text": "the insurance adjuster",
+            "BeginOffset": 23,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9991706609725952,
+            "Text": "your house",
+            "BeginOffset": 60,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9780994057655334,
+            "Text": "a damage claim",
+            "BeginOffset": 74,
+            "EndOffset": 88
+        }
+    ]
+}

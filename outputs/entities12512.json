@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9351661801338196,
+            "Type": "PERSON",
+            "Text": "@modrnhealthcr",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6490477919578552,
+            "Type": "LOCATION",
+            "Text": "NY",
+            "BeginOffset": 19,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9997201561927795,
+            "Type": "OTHER",
+            "Text": "https://t.co/bLBWavMNzH",
+            "BeginOffset": 61,
+            "EndOffset": 84
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8632551431655884,
+            "Type": "PERSON",
+            "Text": "@Pjw20161951",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9967998266220093,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 17,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9964798092842102,
+            "Type": "DATE",
+            "Text": "February 2nd",
+            "BeginOffset": 59,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9998145699501038,
+            "Type": "OTHER",
+            "Text": "https://t.co/deiri1sHNu",
+            "BeginOffset": 98,
+            "EndOffset": 121
+        }
+    ]
+}

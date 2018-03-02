@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8956097364425659,
+            "Type": "PERSON",
+            "Text": "@RealAlexJones",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9746373295783997,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 19,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9226797223091125,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 95,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.9996166229248047,
+            "Type": "OTHER",
+            "Text": "https://t.co/gtALDqW0Jl",
+            "BeginOffset": 112,
+            "EndOffset": 135
+        }
+    ]
+}

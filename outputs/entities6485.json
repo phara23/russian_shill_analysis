@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8473198413848877,
+            "Type": "PERSON",
+            "Text": "@Syricide",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9985467791557312,
+            "Type": "PERSON",
+            "Text": "Larry King",
+            "BeginOffset": 33,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.5808702707290649,
+            "Type": "LOCATION",
+            "Text": "Kremlin",
+            "BeginOffset": 55,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9998544454574585,
+            "Type": "OTHER",
+            "Text": "https://t.co/Vo6GEcCiZW",
+            "BeginOffset": 99,
+            "EndOffset": 122
+        }
+    ]
+}

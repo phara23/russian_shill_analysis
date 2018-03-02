@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9249458312988281,
+            "Type": "PERSON",
+            "Text": "@caje415",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.7514104843139648,
+            "Type": "DATE",
+            "Text": "#2017",
+            "BeginOffset": 13,
+            "EndOffset": 18
+        }
+    ]
+}

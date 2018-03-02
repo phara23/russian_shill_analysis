@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8221986293792725,
+            "Type": "PERSON",
+            "Text": "@DCPaidLeave",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7144783735275269,
+            "Type": "QUANTITY",
+            "Text": "4DC",
+            "BeginOffset": 64,
+            "EndOffset": 67
+        }
+    ]
+}

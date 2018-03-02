@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5787950754165649,
+            "Type": "DATE",
+            "Text": "Tonight",
+            "BeginOffset": 16,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.6549972891807556,
+            "Type": "PERSON",
+            "Text": "@midnight",
+            "BeginOffset": 35,
+            "EndOffset": 44
+        }
+    ]
+}

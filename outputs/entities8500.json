@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9402802586555481,
+            "Type": "PERSON",
+            "Text": "@RNRArkansas",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9859548807144165,
+            "Type": "DATE",
+            "Text": "March 4",
+            "BeginOffset": 18,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9592727422714233,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 26,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.7547205686569214,
+            "Type": "DATE",
+            "Text": "#March4",
+            "BeginOffset": 68,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.9818136692047119,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 75,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.6501376628875732,
+            "Type": "PERSON",
+            "Text": "#TrumpRally",
+            "BeginOffset": 81,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.9468461275100708,
+            "Type": "OTHER",
+            "Text": "https://t.co/hsEHQ",
+            "BeginOffset": 121,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.885792076587677,
+            "Type": "PERSON",
+            "Text": "@dayvarelat",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9939461350440979,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 52,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.7327356338500977,
+            "Type": "OTHER",
+            "Text": "https://t.co/V8eqV6VuiG",
+            "BeginOffset": 65,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9999140501022339,
+            "Type": "OTHER",
+            "Text": "https://t.co/7un92isGAy",
+            "BeginOffset": 89,
+            "EndOffset": 112
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7802383899688721,
+            "Type": "PERSON",
+            "Text": "@distantcities",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9294177889823914,
+            "Type": "PERSON",
+            "Text": "President Obama",
+            "BeginOffset": 58,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.9298608303070068,
+            "Type": "QUANTITY",
+            "Text": "six-month",
+            "BeginOffset": 107,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.5651583671569824,
+            "Type": "OTHER",
+            "Text": "Iraqi",
+            "BeginOffset": 134,
+            "EndOffset": 139
+        }
+    ]
+}

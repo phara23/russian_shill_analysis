@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8237131834030151,
+            "Type": "PERSON",
+            "Text": "@SPIEGELONLINE",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6616994142532349,
+            "Type": "PERSON",
+            "Text": "Der Oberste",
+            "BeginOffset": 19,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.7150793075561523,
+            "Type": "ORGANIZATION",
+            "Text": "WhatsApp",
+            "BeginOffset": 106,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.8603593707084656,
+            "Type": "OTHER",
+            "Text": "https://t.co/g",
+            "BeginOffset": 125,
+            "EndOffset": 139
+        }
+    ]
+}

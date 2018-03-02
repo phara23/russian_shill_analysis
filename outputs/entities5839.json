@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8727992177009583,
+            "Type": "PERSON",
+            "Text": "@Joe_America",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9327265620231628,
+            "Type": "DATE",
+            "Text": "1776",
+            "BeginOffset": 15,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.4290183484554291,
+            "Type": "PERSON",
+            "Text": "OBAMA",
+            "BeginOffset": 21,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.4692351222038269,
+            "Type": "LOCATION",
+            "Text": "AMERICA",
+            "BeginOffset": 29,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.7646020650863647,
+            "Type": "LOCATION",
+            "Text": "NYC",
+            "BeginOffset": 39,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.8829600811004639,
+            "Type": "QUANTITY",
+            "Text": "60 Percent",
+            "BeginOffset": 50,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.7653429508209229,
+            "Type": "LOCATION",
+            "Text": "Americans",
+            "BeginOffset": 82,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.8515875935554504,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

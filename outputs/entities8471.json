@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.824812114238739,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.7898478507995605,
+            "Type": "PERSON",
+            "Text": "@EurWeb",
+            "BeginOffset": 14,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9972471594810486,
+            "Type": "PERSON",
+            "Text": "Adrienne Bailon",
+            "BeginOffset": 23,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.877502977848053,
+            "Type": "PERSON",
+            "Text": "Israel Houghton",
+            "BeginOffset": 50,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9999228715896606,
+            "Type": "OTHER",
+            "Text": "https://t.co/bqH2jqkzdc",
+            "BeginOffset": 100,
+            "EndOffset": 123
+        }
+    ]
+}

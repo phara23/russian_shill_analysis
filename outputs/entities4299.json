@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.943216860294342,
+            "Type": "PERSON",
+            "Text": "@RondaRousey",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.728040874004364,
+            "Type": "DATE",
+            "Text": "#FridayDec30",
+            "BeginOffset": 32,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.6248599290847778,
+            "Type": "EVENT",
+            "Text": "#UFC207\nPic",
+            "BeginOffset": 60,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.8489457964897156,
+            "Type": "PERSON",
+            "Text": "@ewillphoto",
+            "BeginOffset": 75,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9999431371688843,
+            "Type": "OTHER",
+            "Text": "https://t.co/59oLBLDL1j",
+            "BeginOffset": 87,
+            "EndOffset": 110
+        }
+    ]
+}

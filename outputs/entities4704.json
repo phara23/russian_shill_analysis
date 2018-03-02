@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8130912184715271,
+            "Type": "PERSON",
+            "Text": "@DRUDGE_REPORT",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6475642919540405,
+            "Type": "PERSON",
+            "Text": "Miami Trump",
+            "BeginOffset": 19,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9999512434005737,
+            "Type": "OTHER",
+            "Text": "https://t.co/OX6uPcMOEE",
+            "BeginOffset": 47,
+            "EndOffset": 70
+        }
+    ]
+}

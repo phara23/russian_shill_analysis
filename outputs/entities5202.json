@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8450459837913513,
+            "Type": "PERSON",
+            "Text": "@TheDonWins",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9984140396118164,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 16,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9987194538116455,
+            "Type": "DATE",
+            "Text": "Dec. 2015",
+            "BeginOffset": 60,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.8008047342300415,
+            "Type": "QUANTITY",
+            "Text": "16",
+            "BeginOffset": 138,
+            "EndOffset": 140
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.91344153881073,
+            "Type": "PERSON",
+            "Text": "@MarkGearRex",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.676714301109314,
+            "Type": "QUANTITY",
+            "Text": "three favorite",
+            "BeginOffset": 20,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.7790895104408264,
+            "Type": "ORGANIZATION",
+            "Text": "@TIME",
+            "BeginOffset": 35,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.978830099105835,
+            "Type": "QUANTITY",
+            "Text": "3 acts",
+            "BeginOffset": 71,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.8153010010719299,
+            "Type": "PERSON",
+            "Text": "@ScottAdamsSays",
+            "BeginOffset": 79,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.9999189376831055,
+            "Type": "OTHER",
+            "Text": "https://t.co/h4SgEmhdRa",
+            "BeginOffset": 95,
+            "EndOffset": 118
+        }
+    ]
+}

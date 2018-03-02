@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7427300810813904,
+            "Type": "PERSON",
+            "Text": "@doggrandma",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9452351331710815,
+            "Type": "PERSON",
+            "Text": "@nymets1962",
+            "BeginOffset": 16,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9254222512245178,
+            "Type": "PERSON",
+            "Text": "@creepingsharia",
+            "BeginOffset": 28,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9319087266921997,
+            "Type": "ORGANIZATION",
+            "Text": "Islam",
+            "BeginOffset": 44,
+            "EndOffset": 49
+        }
+    ]
+}

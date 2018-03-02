@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.859203577041626,
+            "Type": "PERSON",
+            "Text": "@Danzig303",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8144778609275818,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 38,
+            "EndOffset": 40
+        }
+    ]
+}

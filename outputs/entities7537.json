@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.944173276424408,
+            "Type": "PERSON",
+            "Text": "@Juliet777777",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.730464518070221,
+            "Type": "PERSON",
+            "Text": "Merkel",
+            "BeginOffset": 18,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9914845824241638,
+            "Type": "OTHER",
+            "Text": "https://t.co/ZjiziqaCFX",
+            "BeginOffset": 83,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.9148688316345215,
+            "Type": "ORGANIZATION",
+            "Text": "@WhiteResister",
+            "BeginOffset": 111,
+            "EndOffset": 125
+        }
+    ]
+}

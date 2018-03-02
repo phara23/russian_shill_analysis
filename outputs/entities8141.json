@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9061787724494934,
+            "Type": "PERSON",
+            "Text": "@MrsCannabis",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9934369921684265,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 60,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9560245871543884,
+            "Type": "PERSON",
+            "Text": "@HEARTHIS12",
+            "BeginOffset": 107,
+            "EndOffset": 118
+        },
+        {
+            "Score": 0.9849085807800293,
+            "Type": "OTHER",
+            "Text": "https://t.co/BRf4Dg",
+            "BeginOffset": 120,
+            "EndOffset": 139
+        }
+    ]
+}

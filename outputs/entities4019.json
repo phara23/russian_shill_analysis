@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8359806537628174,
+            "Type": "PERSON",
+            "Text": "@slone",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.4517437815666199,
+            "Type": "QUANTITY",
+            "Text": "Thousands",
+            "BeginOffset": 11,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.9055885672569275,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 24,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.8062899112701416,
+            "Type": "LOCATION",
+            "Text": "Iraq",
+            "BeginOffset": 47,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.37864944338798523,
+            "Type": "LOCATION",
+            "Text": "Tehran",
+            "BeginOffset": 53,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.994215190410614,
+            "Type": "ORGANIZATION",
+            "Text": "ISIS",
+            "BeginOffset": 80,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9997770190238953,
+            "Type": "OTHER",
+            "Text": "http://t.co/ARohrIzSzQ",
+            "BeginOffset": 110,
+            "EndOffset": 132
+        }
+    ]
+}

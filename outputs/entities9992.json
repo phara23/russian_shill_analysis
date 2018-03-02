@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7435237169265747,
+            "Type": "PERSON",
+            "Text": "@_USAPolicalNewS",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.946448564529419,
+            "Type": "PERSON",
+            "Text": "@usa_news_24",
+            "BeginOffset": 24,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.7850705981254578,
+            "Type": "PERSON",
+            "Text": "Spicer",
+            "BeginOffset": 39,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9880545735359192,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 65,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9996751546859741,
+            "Type": "OTHER",
+            "Text": "https://t.co/52Cr8OEL8z",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        }
+    ]
+}

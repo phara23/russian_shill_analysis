@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.727495014667511,
+            "Type": "PERSON",
+            "Text": "@LatestAnonNews",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9888078570365906,
+            "Type": "LOCATION",
+            "Text": "San Francisco",
+            "BeginOffset": 25,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9812062382698059,
+            "Type": "LOCATION",
+            "Text": "Austin",
+            "BeginOffset": 42,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9947143197059631,
+            "Type": "LOCATION",
+            "Text": "New York",
+            "BeginOffset": 52,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.3472796380519867,
+            "Type": "QUANTITY",
+            "Text": "thousands",
+            "BeginOffset": 62,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9973663091659546,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 92,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.7945975661277771,
+            "Type": "OTHER",
+            "Text": "https://t.co/87t5XWveVQ",
+            "BeginOffset": 106,
+            "EndOffset": 129
+        },
+        {
+            "Score": 0.802735447883606,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 130,
+            "EndOffset": 139
+        }
+    ]
+}

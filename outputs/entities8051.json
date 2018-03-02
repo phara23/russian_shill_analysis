@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9089198708534241,
+            "Type": "PERSON",
+            "Text": "@Dubzzzinyaface",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7488321661949158,
+            "Type": "QUANTITY",
+            "Text": "5Words",
+            "BeginOffset": 57,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.858914315700531,
+            "Type": "PERSON",
+            "Text": "@ShutUpAmanda",
+            "BeginOffset": 64,
+            "EndOffset": 77
+        }
+    ]
+}

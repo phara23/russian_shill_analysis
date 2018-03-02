@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8799608945846558,
+            "Type": "PERSON",
+            "Text": "@kreisberg",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8208507895469666,
+            "Type": "PERSON",
+            "Text": "@deathrep",
+            "BeginOffset": 15,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9078575968742371,
+            "Type": "PERSON",
+            "Text": "@newsjournal",
+            "BeginOffset": 25,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9997305274009705,
+            "Type": "OTHER",
+            "Text": "http://t.co/0hLKDlyO1a",
+            "BeginOffset": 38,
+            "EndOffset": 60
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9987938404083252,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.5695355534553528,
+            "Type": "LOCATION",
+            "Text": "Russia",
+            "BeginOffset": 29,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.969147801399231,
+            "Type": "LOCATION",
+            "Text": "Syria",
+            "BeginOffset": 41,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9826892614364624,
+            "Type": "OTHER",
+            "Text": "https://t.co/XuR5sGaQ9i",
+            "BeginOffset": 56,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.9612076282501221,
+            "Type": "OTHER",
+            "Text": "https://t.co/XDBaPnHm6c",
+            "BeginOffset": 82,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.9999375343322754,
+            "Type": "OTHER",
+            "Text": "https://t.co/US0JrZ74So",
+            "BeginOffset": 106,
+            "EndOffset": 129
+        }
+    ]
+}

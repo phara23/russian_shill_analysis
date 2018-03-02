@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9097018241882324,
+            "Type": "PERSON",
+            "Text": "@JokeBlogger",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9779485464096069,
+            "Type": "OTHER",
+            "Text": "https://t.co/esiWrdROaf",
+            "BeginOffset": 17,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.7724336385726929,
+            "Type": "PERSON",
+            "Text": "@SadlyCatless",
+            "BeginOffset": 44,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.999661922454834,
+            "Type": "OTHER",
+            "Text": "https://t.co/jbkjzPcfxp",
+            "BeginOffset": 75,
+            "EndOffset": 98
+        }
+    ]
+}

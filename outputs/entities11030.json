@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9923226237297058,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 11,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9010388851165771,
+            "Type": "LOCATION",
+            "Text": "Syria",
+            "BeginOffset": 42,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.97641921043396,
+            "Type": "DATE",
+            "Text": "Friday",
+            "BeginOffset": 68,
+            "EndOffset": 74
+        }
+    ]
+}

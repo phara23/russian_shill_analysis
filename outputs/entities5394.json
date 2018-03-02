@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8364564180374146,
+            "Type": "PERSON",
+            "Text": "@greggiroux",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9870938658714294,
+            "Type": "ORGANIZATION",
+            "Text": "Congress",
+            "BeginOffset": 34,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9852591753005981,
+            "Type": "DATE",
+            "Text": "1968",
+            "BeginOffset": 70,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9930019974708557,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 75,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.9925507307052612,
+            "Type": "OTHER",
+            "Text": "https://t.co/vS6zQqRk9Y",
+            "BeginOffset": 82,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.9994692802429199,
+            "Type": "PERSON",
+            "Text": "Tim Huelskamp",
+            "BeginOffset": 122,
+            "EndOffset": 135
+        }
+    ]
+}

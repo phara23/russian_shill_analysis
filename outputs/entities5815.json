@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9771758317947388,
+            "Type": "PERSON",
+            "Text": "RONALD REAGAN",
+            "BeginOffset": 0,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8514243960380554,
+            "Type": "LOCATION",
+            "Text": "USA",
+            "BeginOffset": 59,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9956603646278381,
+            "Type": "OTHER",
+            "Text": "https://t.co/uFofDwDgRE",
+            "BeginOffset": 106,
+            "EndOffset": 129
+        }
+    ]
+}

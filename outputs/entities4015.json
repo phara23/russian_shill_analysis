@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6940315961837769,
+            "Type": "PERSON",
+            "Text": "@DailyNewsOfUSA",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7703571915626526,
+            "Type": "LOCATION",
+            "Text": "Los Angeles",
+            "BeginOffset": 20,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9761480093002319,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 49,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.8458224534988403,
+            "Type": "OTHER",
+            "Text": "https://t.co/hCCUv3WS80",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.9998857975006104,
+            "Type": "OTHER",
+            "Text": "https://t.co/uWSCNmLMf2",
+            "BeginOffset": 114,
+            "EndOffset": 137
+        }
+    ]
+}

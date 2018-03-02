@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8409245610237122,
+            "Type": "PERSON",
+            "Text": "@gloed_up",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9994992017745972,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 14,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9380141496658325,
+            "Type": "ORGANIZATION",
+            "Text": "Republican",
+            "BeginOffset": 36,
+            "EndOffset": 46
+        }
+    ]
+}

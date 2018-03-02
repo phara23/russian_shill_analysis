@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8140386939048767,
+            "Type": "PERSON",
+            "Text": "@II2MAS",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.8394873738288879,
+            "Type": "QUANTITY",
+            "Text": "Seven Million",
+            "BeginOffset": 24,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9685122966766357,
+            "Type": "PERSON",
+            "Text": "Lil Uzi Vert",
+            "BeginOffset": 56,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9999215602874756,
+            "Type": "OTHER",
+            "Text": "https://t.co/7fPFifGzpk",
+            "BeginOffset": 71,
+            "EndOffset": 94
+        }
+    ]
+}

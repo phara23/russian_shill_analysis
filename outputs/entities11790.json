@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.983250617980957,
+            "Type": "PERSON",
+            "Text": "@Jenn_Abrams",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7405341863632202,
+            "Type": "QUANTITY",
+            "Text": "4Words",
+            "BeginOffset": 29,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.6485987901687622,
+            "Type": "LOCATION",
+            "Text": "Guinea",
+            "BeginOffset": 45,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9999873638153076,
+            "Type": "OTHER",
+            "Text": "http://t.co/16jXKfPMi0",
+            "BeginOffset": 56,
+            "EndOffset": 78
+        }
+    ]
+}

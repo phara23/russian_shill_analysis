@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9296156764030457,
+            "Type": "PERSON",
+            "Text": "@McFaul",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.6741306781768799,
+            "Type": "QUANTITY",
+            "Text": "One upside",
+            "BeginOffset": 12,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9170688986778259,
+            "Type": "PERSON",
+            "Text": "Don Jr.",
+            "BeginOffset": 54,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.693647563457489,
+            "Type": "OTHER",
+            "Text": "G-20",
+            "BeginOffset": 100,
+            "EndOffset": 104
+        }
+    ]
+}

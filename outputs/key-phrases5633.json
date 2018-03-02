@@ -1,0 +1,34 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.6599110960960388,
+            "Text": "Trump",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.838478684425354,
+            "Text": "the FBI",
+            "BeginOffset": 15,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9950799942016602,
+            "Text": "FIRE",
+            "BeginOffset": 26,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9908652305603027,
+            "Text": "Epic Speech",
+            "BeginOffset": 36,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.8507883548736572,
+            "Text": "America Will Cheer",
+            "BeginOffset": 53,
+            "EndOffset": 71
+        }
+    ]
+}

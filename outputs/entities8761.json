@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.750505805015564,
+            "Type": "PERSON",
+            "Text": "@Colorlines",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9929844737052917,
+            "Type": "PERSON",
+            "Text": "Issa Rae",
+            "BeginOffset": 24,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9062973260879517,
+            "Type": "QUANTITY",
+            "Text": "Second Season",
+            "BeginOffset": 39,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.34866344928741455,
+            "Type": "PERSON",
+            "Text": "Oprah",
+            "BeginOffset": 68,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.9999784231185913,
+            "Type": "OTHER",
+            "Text": "https://t.co/lsn1YdLXjA",
+            "BeginOffset": 86,
+            "EndOffset": 109
+        }
+    ]
+}

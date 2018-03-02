@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.909956157207489,
+            "Type": "PERSON",
+            "Text": "@yakendo",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.36110779643058777,
+            "Type": "ORGANIZATION",
+            "Text": "HRC",
+            "BeginOffset": 72,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.9133894443511963,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 77,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9806693196296692,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 117,
+            "EndOffset": 122
+        },
+        {
+            "Score": 0.9312852621078491,
+            "Type": "OTHER",
+            "Text": "https://t.co/EK",
+            "BeginOffset": 124,
+            "EndOffset": 139
+        }
+    ]
+}

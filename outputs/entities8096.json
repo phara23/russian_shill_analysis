@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9190977811813354,
+            "Type": "PERSON",
+            "Text": "@ScottWarner18",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.931667685508728,
+            "Type": "ORGANIZATION",
+            "Text": "ESPN",
+            "BeginOffset": 19,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9998981952667236,
+            "Type": "OTHER",
+            "Text": "https://t.co/cCgmLxbviR",
+            "BeginOffset": 89,
+            "EndOffset": 112
+        }
+    ]
+}

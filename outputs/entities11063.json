@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8326049447059631,
+            "Type": "PERSON",
+            "Text": "@DaWierComposer",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.965328574180603,
+            "Type": "QUANTITY",
+            "Text": "16",
+            "BeginOffset": 79,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.8533751964569092,
+            "Type": "EVENT",
+            "Text": "World Cup",
+            "BeginOffset": 89,
+            "EndOffset": 98
+        }
+    ]
+}

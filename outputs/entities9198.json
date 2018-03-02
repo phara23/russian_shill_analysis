@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8037669658660889,
+            "Type": "PERSON",
+            "Text": "Shimkus",
+            "BeginOffset": 0,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.9443929195404053,
+            "Type": "ORGANIZATION",
+            "Text": "NATO",
+            "BeginOffset": 16,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.9892476201057434,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 28,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9345712661743164,
+            "Type": "ORGANIZATION",
+            "Text": "Republicans",
+            "BeginOffset": 55,
+            "EndOffset": 66
+        }
+    ]
+}

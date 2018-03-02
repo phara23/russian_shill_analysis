@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9429155588150024,
+            "Type": "PERSON",
+            "Text": "Jaish Al-Fateh",
+            "BeginOffset": 9,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.8934818506240845,
+            "Type": "OTHER",
+            "Text": "Russian",
+            "BeginOffset": 66,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.6630334258079529,
+            "Type": "PERSON",
+            "Text": "Sultan",
+            "BeginOffset": 101,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.9999940395355225,
+            "Type": "OTHER",
+            "Text": "https://t.co/w9N7MbHyPW",
+            "BeginOffset": 108,
+            "EndOffset": 131
+        }
+    ]
+}

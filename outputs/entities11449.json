@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5055717825889587,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8470374345779419,
+            "Type": "ORGANIZATION",
+            "Text": "@Visit_Amarillo",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9999620914459229,
+            "Type": "OTHER",
+            "Text": "https://t.co/tW8wyW3JEg",
+            "BeginOffset": 68,
+            "EndOffset": 91
+        }
+    ]
+}

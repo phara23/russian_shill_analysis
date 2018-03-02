@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9688218235969543,
+            "Type": "PERSON",
+            "Text": "@JordanUhl",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9888888001441956,
+            "Type": "PERSON",
+            "Text": "McCain",
+            "BeginOffset": 48,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.999747097492218,
+            "Type": "OTHER",
+            "Text": "https://t.co/eTE1t0Gn4N",
+            "BeginOffset": 109,
+            "EndOffset": 132
+        }
+    ]
+}

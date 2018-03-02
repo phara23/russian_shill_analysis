@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8957995176315308,
+            "Type": "PERSON",
+            "Text": "@BayViertel",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.6140044927597046,
+            "Type": "PERSON",
+            "Text": "Ein Tipp",
+            "BeginOffset": 71,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.9894026517868042,
+            "Type": "PERSON",
+            "Text": "@sik030 aus",
+            "BeginOffset": 84,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.8782328963279724,
+            "Type": "PERSON",
+            "Text": "@TspLeute",
+            "BeginOffset": 96,
+            "EndOffset": 105
+        }
+    ]
+}

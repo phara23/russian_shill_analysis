@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8449380397796631,
+            "Type": "PERSON",
+            "Text": "@BraveConWarrior",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8895052075386047,
+            "Type": "ORGANIZATION",
+            "Text": "Muslims",
+            "BeginOffset": 21,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.6349379420280457,
+            "Type": "EVENT",
+            "Text": "Christmas",
+            "BeginOffset": 67,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.7383503913879395,
+            "Type": "QUANTITY",
+            "Text": "4SP",
+            "BeginOffset": 103,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.999923825263977,
+            "Type": "OTHER",
+            "Text": "https://t.co/DKC40OvcKa",
+            "BeginOffset": 107,
+            "EndOffset": 130
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8884771466255188,
+            "Type": "PERSON",
+            "Text": "@RealAlexJones",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.5812973976135254,
+            "Type": "ORGANIZATION",
+            "Text": "Nazi Supercomputer",
+            "BeginOffset": 19,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9628252387046814,
+            "Type": "OTHER",
+            "Text": "http://t.co/8UgdzRmcZc",
+            "BeginOffset": 64,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.386402428150177,
+            "Type": "ORGANIZATION",
+            "Text": "#Watson",
+            "BeginOffset": 87,
+            "EndOffset": 94
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8919714689254761,
+            "Type": "PERSON",
+            "Text": "@ggreenwald",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.997844934463501,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 53,
+            "EndOffset": 58
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7777811288833618,
+            "Type": "PERSON",
+            "Text": "@camboviet",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.4420337378978729,
+            "Type": "LOCATION",
+            "Text": "#Sinai",
+            "BeginOffset": 32,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.48284831643104553,
+            "Type": "QUANTITY",
+            "Text": "2",
+            "BeginOffset": 47,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.4367048144340515,
+            "Type": "LOCATION",
+            "Text": "#Sharia",
+            "BeginOffset": 83,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9998846054077148,
+            "Type": "OTHER",
+            "Text": "https://t.co/E3jUHiyYPg",
+            "BeginOffset": 91,
+            "EndOffset": 114
+        }
+    ]
+}

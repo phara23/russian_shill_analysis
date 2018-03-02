@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8426347374916077,
+            "Type": "PERSON",
+            "Text": "@TrumpSuperPAC",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8436405658721924,
+            "Type": "QUANTITY",
+            "Text": "00 million",
+            "BeginOffset": 36,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.7245426177978516,
+            "Type": "LOCATION",
+            "Text": "#Haiti",
+            "BeginOffset": 101,
+            "EndOffset": 107
+        }
+    ]
+}

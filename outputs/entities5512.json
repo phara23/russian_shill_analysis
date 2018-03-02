@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8979314565658569,
+            "Type": "PERSON",
+            "Text": "@agnezmo",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9306100010871887,
+            "Type": "OTHER",
+            "Text": "https://t.co/uBo08mEoZn",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        },
+        {
+            "Score": 0.9161191582679749,
+            "Type": "PERSON",
+            "Text": "@vivo_indonesi",
+            "BeginOffset": 129,
+            "EndOffset": 143
+        }
+    ]
+}

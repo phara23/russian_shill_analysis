@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7697755694389343,
+            "Type": "PERSON",
+            "Text": "@nousgnostic",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7056846618652344,
+            "Type": "PERSON",
+            "Text": "Ryan",
+            "BeginOffset": 25,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.6827647686004639,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 38,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9999738931655884,
+            "Type": "OTHER",
+            "Text": "https://t.co/wB96zSkQVU",
+            "BeginOffset": 82,
+            "EndOffset": 105
+        }
+    ]
+}

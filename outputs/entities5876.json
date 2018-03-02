@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6927164793014526,
+            "Type": "PERSON",
+            "Text": "@LessaT",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9383130073547363,
+            "Type": "PERSON",
+            "Text": "@tedcruz",
+            "BeginOffset": 12,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.9768988490104675,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 36,
+            "EndOffset": 52
+        }
+    ]
+}

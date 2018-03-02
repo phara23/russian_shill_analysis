@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.887256383895874,
+            "Type": "PERSON",
+            "Text": "@scarlett2112",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7889012098312378,
+            "Type": "ORGANIZATION",
+            "Text": "WH",
+            "BeginOffset": 36,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9366376399993896,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 59,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9815953969955444,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 93,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.9901441335678101,
+            "Type": "OTHER",
+            "Text": "https://t.co/57UKHDS3mw",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        },
+        {
+            "Score": 0.814434289932251,
+            "Type": "ORGANIZATION",
+            "Text": "@twitchy",
+            "BeginOffset": 131,
+            "EndOffset": 139
+        }
+    ]
+}

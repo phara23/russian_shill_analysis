@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8094256520271301,
+            "Type": "PERSON",
+            "Text": "@readwriteblue",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.932871401309967,
+            "Type": "PERSON",
+            "Text": "TOM KNIGHTON",
+            "BeginOffset": 24,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9893662333488464,
+            "Type": "DATE",
+            "Text": "21st Century",
+            "BeginOffset": 93,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.8125352263450623,
+            "Type": "OTHER",
+            "Text": "https://t.co/wi8jhQNUov",
+            "BeginOffset": 108,
+            "EndOffset": 131
+        }
+    ]
+}

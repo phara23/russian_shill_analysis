@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8679308891296387,
+            "Type": "PERSON",
+            "Text": "@OneMoodyHuman",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9764606952667236,
+            "Type": "DATE",
+            "Text": "2017",
+            "BeginOffset": 22,
+            "EndOffset": 26
+        }
+    ]
+}

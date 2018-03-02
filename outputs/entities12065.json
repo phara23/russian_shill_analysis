@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.783884584903717,
+            "Type": "PERSON",
+            "Text": "@TheDailyShow",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8347927927970886,
+            "Type": "PERSON",
+            "Text": "Desi Lydic",
+            "BeginOffset": 18,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9995695352554321,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 41,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.8459821939468384,
+            "Type": "OTHER",
+            "Text": "https://t.co/vWBiyyaeu5",
+            "BeginOffset": 80,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.9999481439590454,
+            "Type": "OTHER",
+            "Text": "https://t.co/3yBsAumYvi",
+            "BeginOffset": 104,
+            "EndOffset": 127
+        }
+    ]
+}

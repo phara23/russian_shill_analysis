@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8377691507339478,
+            "Type": "PERSON",
+            "Text": "@redrivergrl",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9987711906433105,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 22,
+            "EndOffset": 34
+        }
+    ]
+}

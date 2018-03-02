@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6217021346092224,
+            "Type": "ORGANIZATION",
+            "Text": "@Fusion",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.8998130559921265,
+            "Type": "LOCATION",
+            "Text": "Texas",
+            "BeginOffset": 18,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9904087781906128,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 54,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.87990403175354,
+            "Type": "OTHER",
+            "Text": "https://t.co/959NG5UdvL",
+            "BeginOffset": 104,
+            "EndOffset": 127
+        },
+        {
+            "Score": 0.979670524597168,
+            "Type": "OTHER",
+            "Text": "https://t.c",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

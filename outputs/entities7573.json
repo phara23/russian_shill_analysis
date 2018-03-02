@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9613301157951355,
+            "Type": "PERSON",
+            "Text": "@McCarthyKnew",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.359926700592041,
+            "Type": "ORGANIZATION",
+            "Text": "#HillaryClinton",
+            "BeginOffset": 61,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.3114403188228607,
+            "Type": "PERSON",
+            "Text": "#SaudiArabia",
+            "BeginOffset": 101,
+            "EndOffset": 113
+        }
+    ]
+}

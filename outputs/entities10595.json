@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8960189819335938,
+            "Type": "PERSON",
+            "Text": "@olliecarroll",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8032855987548828,
+            "Type": "ORGANIZATION",
+            "Text": "@MoscowTimes",
+            "BeginOffset": 22,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9933878183364868,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 99,
+            "EndOffset": 103
+        }
+    ]
+}

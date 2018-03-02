@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8281903266906738,
+            "Type": "PERSON",
+            "Text": "@WriterCFischer",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.4719887971878052,
+            "Type": "ORGANIZATION",
+            "Text": "LUDWIKA",
+            "BeginOffset": 20,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.48532766103744507,
+            "Type": "OTHER",
+            "Text": "Polish",
+            "BeginOffset": 32,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.8462363481521606,
+            "Type": "LOCATION",
+            "Text": "Nazi Germany",
+            "BeginOffset": 61,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.9782083630561829,
+            "Type": "OTHER",
+            "Text": "https://t.co/4KkPN2mPBl",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        },
+        {
+            "Score": 0.5671160221099854,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 120,
+            "EndOffset": 122
+        },
+        {
+            "Score": 0.37242695689201355,
+            "Type": "ORGANIZATION",
+            "Text": "#iartg",
+            "BeginOffset": 123,
+            "EndOffset": 129
+        }
+    ]
+}

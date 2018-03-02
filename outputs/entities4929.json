@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5828722715377808,
+            "Type": "QUANTITY",
+            "Text": "Four",
+            "BeginOffset": 10,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8979253768920898,
+            "Type": "LOCATION",
+            "Text": "Cascade Mall",
+            "BeginOffset": 49,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9413894414901733,
+            "Type": "LOCATION",
+            "Text": "#Burlington, Washington",
+            "BeginOffset": 65,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.999735414981842,
+            "Type": "OTHER",
+            "Text": "https://t.co/Hab0ONeKjh",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        }
+    ]
+}

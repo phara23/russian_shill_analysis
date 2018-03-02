@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9692689776420593,
+            "Type": "QUANTITY",
+            "Text": "five days",
+            "BeginOffset": 76,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.828103244304657,
+            "Type": "QUANTITY",
+            "Text": "3",
+            "BeginOffset": 122,
+            "EndOffset": 123
+        },
+        {
+            "Score": 0.9981101751327515,
+            "Type": "DATE",
+            "Text": "Thursday",
+            "BeginOffset": 127,
+            "EndOffset": 135
+        }
+    ]
+}

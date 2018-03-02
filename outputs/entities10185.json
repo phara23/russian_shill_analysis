@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.844566285610199,
+            "Type": "PERSON",
+            "Text": "@fretsward",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.6012709140777588,
+            "Type": "OTHER",
+            "Text": "Latinos",
+            "BeginOffset": 28,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.7626587152481079,
+            "Type": "ORGANIZATION",
+            "Text": "Univision",
+            "BeginOffset": 60,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9848572015762329,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 90,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.9190481901168823,
+            "Type": "OTHER",
+            "Text": "https://t.co/WFWWmndtLG",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8327622413635254,
+            "Type": "PERSON",
+            "Text": "@readwriteblue",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.38271212577819824,
+            "Type": "ORGANIZATION",
+            "Text": "Turtleboy",
+            "BeginOffset": 19,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.6560376882553101,
+            "Type": "QUANTITY",
+            "Text": "Top 100",
+            "BeginOffset": 31,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.6930840015411377,
+            "Type": "OTHER",
+            "Text": "#20-11",
+            "BeginOffset": 71,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9514625072479248,
+            "Type": "OTHER",
+            "Text": "https://t.co/DVx3TrPIPA",
+            "BeginOffset": 78,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.961822509765625,
+            "Type": "OTHER",
+            "Text": "https://t.co/UY0ETtS",
+            "BeginOffset": 119,
+            "EndOffset": 139
+        }
+    ]
+}

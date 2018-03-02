@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.955340564250946,
+            "Type": "PERSON",
+            "Text": "@Bdog99993",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9656169414520264,
+            "Type": "PERSON",
+            "Text": "Reid",
+            "BeginOffset": 15,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9974939823150635,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 41,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9740896821022034,
+            "Type": "OTHER",
+            "Text": "https://t.co/nIa6qxZofj",
+            "BeginOffset": 67,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.654080331325531,
+            "Type": "TITLE",
+            "Text": "@FoxNews",
+            "BeginOffset": 99,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.9561678767204285,
+            "Type": "TITLE",
+            "Text": "Android",
+            "BeginOffset": 108,
+            "EndOffset": 115
+        }
+    ]
+}

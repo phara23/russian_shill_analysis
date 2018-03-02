@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9998130202293396,
+            "Type": "PERSON",
+            "Text": "Bernie Sanders",
+            "BeginOffset": 0,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9978591203689575,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 38,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9991521239280701,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 64,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.5106292963027954,
+            "Type": "QUANTITY",
+            "Text": "third party",
+            "BeginOffset": 84,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.699644923210144,
+            "Type": "LOCATION",
+            "Text": "U.S...",
+            "BeginOffset": 108,
+            "EndOffset": 114
+        }
+    ]
+}

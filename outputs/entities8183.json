@@ -1,0 +1,74 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8799877166748047,
+            "Type": "PERSON",
+            "Text": "@dyakomard",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9000930190086365,
+            "Type": "PERSON",
+            "Text": "@fryld",
+            "BeginOffset": 15,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9723181128501892,
+            "Type": "PERSON",
+            "Text": "@saravastiares",
+            "BeginOffset": 22,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9756162166595459,
+            "Type": "PERSON",
+            "Text": "@dilruba_lees",
+            "BeginOffset": 37,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9381277561187744,
+            "Type": "PERSON",
+            "Text": "@patdefranchis",
+            "BeginOffset": 51,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9876657128334045,
+            "Type": "PERSON",
+            "Text": "@Choco_Sandy1",
+            "BeginOffset": 66,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.9202054738998413,
+            "Type": "PERSON",
+            "Text": "@NinaNebo",
+            "BeginOffset": 80,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.9892780780792236,
+            "Type": "PERSON",
+            "Text": "@DilrubaLees",
+            "BeginOffset": 90,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.9732211232185364,
+            "Type": "PERSON",
+            "Text": "@Viola_Walewska",
+            "BeginOffset": 103,
+            "EndOffset": 118
+        },
+        {
+            "Score": 0.9348021745681763,
+            "Type": "OTHER",
+            "Text": "https://t.co",
+            "BeginOffset": 127,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8990200757980347,
+            "Type": "PERSON",
+            "Text": "@SethMacFarlane",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9866327047348022,
+            "Type": "ORGANIZATION",
+            "Text": "HRC",
+            "BeginOffset": 20,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.8457524180412292,
+            "Type": "QUANTITY",
+            "Text": "half a billion solar panels",
+            "BeginOffset": 44,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.8591623902320862,
+            "Type": "QUANTITY",
+            "Text": "first term",
+            "BeginOffset": 90,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.9963552951812744,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 102,
+            "EndOffset": 107
+        }
+    ]
+}

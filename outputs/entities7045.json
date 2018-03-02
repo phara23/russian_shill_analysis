@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9108549952507019,
+            "Type": "PERSON",
+            "Text": "@DailySanAntonio",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8660370707511902,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 71,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.8047171831130981,
+            "Type": "LOCATION",
+            "Text": "#Texas",
+            "BeginOffset": 75,
+            "EndOffset": 81
+        }
+    ]
+}

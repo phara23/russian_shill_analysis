@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.735249400138855,
+            "Type": "PERSON",
+            "Text": "@BleacherReport",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9036657214164734,
+            "Type": "ORGANIZATION",
+            "Text": "Falcons",
+            "BeginOffset": 20,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9881036877632141,
+            "Type": "PERSON",
+            "Text": "Prince Shembo",
+            "BeginOffset": 29,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9140000343322754,
+            "Type": "OTHER",
+            "Text": "http://t.co/g9Vb7uQgbW",
+            "BeginOffset": 113,
+            "EndOffset": 135
+        }
+    ]
+}

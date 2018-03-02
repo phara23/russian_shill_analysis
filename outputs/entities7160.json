@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9697624444961548,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 0,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.9973793029785156,
+            "Type": "ORGANIZATION",
+            "Text": "FBI",
+            "BeginOffset": 31,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.8831403851509094,
+            "Type": "OTHER",
+            "Text": "https://t.co/2dMBon13Hs",
+            "BeginOffset": 73,
+            "EndOffset": 96
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9303409457206726,
+            "Type": "PERSON",
+            "Text": "@piersmorgan",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9763014912605286,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 35,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9544901251792908,
+            "Type": "PERSON",
+            "Text": "Hitler",
+            "BeginOffset": 66,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.7054174542427063,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 119,
+            "EndOffset": 126
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7829210162162781,
+            "Type": "PERSON",
+            "Text": "@ANOMALY1",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9769150018692017,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 14,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9809723496437073,
+            "Type": "QUANTITY",
+            "Text": "70 Million",
+            "BeginOffset": 26,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9650023579597473,
+            "Type": "OTHER",
+            "Text": "https://t.co/2YjUqFiEde",
+            "BeginOffset": 89,
+            "EndOffset": 112
+        }
+    ]
+}

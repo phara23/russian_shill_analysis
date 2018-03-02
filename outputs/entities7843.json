@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5620130300521851,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.964887797832489,
+            "Type": "PERSON",
+            "Text": "@Adam_Taxin",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.663816511631012,
+            "Type": "PERSON",
+            "Text": "#Trump",
+            "BeginOffset": 34,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.8205158114433289,
+            "Type": "LOCATION",
+            "Text": "#Miami",
+            "BeginOffset": 60,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9094709157943726,
+            "Type": "ORGANIZATION",
+            "Text": "@RSBNetwork",
+            "BeginOffset": 79,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.7454438209533691,
+            "Type": "PERSON",
+            "Text": "@RSBNModerator",
+            "BeginOffset": 105,
+            "EndOffset": 119
+        },
+        {
+            "Score": 0.961955726146698,
+            "Type": "OTHER",
+            "Text": "https://t.co/DTO3zM",
+            "BeginOffset": 120,
+            "EndOffset": 139
+        }
+    ]
+}

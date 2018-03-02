@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.916229784488678,
+            "Type": "PERSON",
+            "Text": "@rickybobby90210",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8042912483215332,
+            "Type": "ORGANIZATION",
+            "Text": "Wikileaks",
+            "BeginOffset": 21,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9787313938140869,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 32,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9836890697479248,
+            "Type": "OTHER",
+            "Text": "https://t.co/E3Is95iN3I",
+            "BeginOffset": 87,
+            "EndOffset": 110
+        }
+    ]
+}

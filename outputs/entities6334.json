@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6280053853988647,
+            "Type": "PERSON",
+            "Text": "@TIME",
+            "BeginOffset": 3,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.9985074400901794,
+            "Type": "PERSON",
+            "Text": "Jimmy Kimmel",
+            "BeginOffset": 10,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9999706745147705,
+            "Type": "OTHER",
+            "Text": "http://t.co/14ApDFI0Dq",
+            "BeginOffset": 69,
+            "EndOffset": 91
+        }
+    ]
+}

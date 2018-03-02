@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7390614151954651,
+            "Type": "PERSON",
+            "Text": "@Citizens_United",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.838832437992096,
+            "Type": "ORGANIZATION",
+            "Text": "Clinton Foundation",
+            "BeginOffset": 76,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.9999305009841919,
+            "Type": "OTHER",
+            "Text": "https://t.co/2xDEuxJgrQ",
+            "BeginOffset": 102,
+            "EndOffset": 125
+        }
+    ]
+}

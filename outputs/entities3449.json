@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9265932440757751,
+            "Type": "PERSON",
+            "Text": "@samsteinhp",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.970142126083374,
+            "Type": "ORGANIZATION",
+            "Text": "Republican Party",
+            "BeginOffset": 49,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9449381232261658,
+            "Type": "PERSON",
+            "Text": "Avik Roy",
+            "BeginOffset": 92,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.9998188614845276,
+            "Type": "OTHER",
+            "Text": "https://t.co/UTBifztE0J",
+            "BeginOffset": 101,
+            "EndOffset": 124
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9882234930992126,
+            "Type": "LOCATION",
+            "Text": "Oklahoma",
+            "BeginOffset": 66,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9994889497756958,
+            "Type": "OTHER",
+            "Text": "https://t.co/rIZiyMqNXP",
+            "BeginOffset": 102,
+            "EndOffset": 125
+        }
+    ]
+}

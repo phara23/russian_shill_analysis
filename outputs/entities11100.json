@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9347265958786011,
+            "Type": "PERSON",
+            "Text": "@docrocktex26",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9848105311393738,
+            "Type": "ORGANIZATION",
+            "Text": "Congress",
+            "BeginOffset": 125,
+            "EndOffset": 133
+        }
+    ]
+}

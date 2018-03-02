@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9314014911651611,
+            "Type": "PERSON",
+            "Text": "@JAMSRIDE",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9998923540115356,
+            "Type": "OTHER",
+            "Text": "https://t.co/6q2oadtkGn",
+            "BeginOffset": 46,
+            "EndOffset": 69
+        }
+    ]
+}

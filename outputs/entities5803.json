@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8957082629203796,
+            "Type": "PERSON",
+            "Text": "@Dbargen",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9991057515144348,
+            "Type": "PERSON",
+            "Text": "Michelle Obama",
+            "BeginOffset": 28,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.614720344543457,
+            "Type": "ORGANIZATION",
+            "Text": "Democrat",
+            "BeginOffset": 105,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.7852716445922852,
+            "Type": "OTHER",
+            "Text": "https://t.co/XDjvSgWmu4",
+            "BeginOffset": 114,
+            "EndOffset": 137
+        },
+        {
+            "Score": 0.7373961806297302,
+            "Type": "PERSON",
+            "Text": "@…",
+            "BeginOffset": 138,
+            "EndOffset": 140
+        }
+    ]
+}

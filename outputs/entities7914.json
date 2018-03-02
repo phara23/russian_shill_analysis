@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8067033290863037,
+            "Type": "ORGANIZATION",
+            "Text": "@WAS_THAT_C4",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9441552758216858,
+            "Type": "ORGANIZATION",
+            "Text": "@FoxNews",
+            "BeginOffset": 17,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9945660829544067,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 49,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.990781843662262,
+            "Type": "PERSON",
+            "Text": "Hitler",
+            "BeginOffset": 58,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.7174134850502014,
+            "Type": "ORGANIZATION",
+            "Text": "Point Germany",
+            "BeginOffset": 83,
+            "EndOffset": 96
+        }
+    ]
+}

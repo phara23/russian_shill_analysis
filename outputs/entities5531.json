@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7158290147781372,
+            "Type": "PERSON",
+            "Text": "@GABBYiSACTiVE",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7857186198234558,
+            "Type": "ORGANIZATION",
+            "Text": "NBA",
+            "BeginOffset": 30,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9162495136260986,
+            "Type": "PERSON",
+            "Text": "Steph",
+            "BeginOffset": 41,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.725376546382904,
+            "Type": "QUANTITY",
+            "Text": "first dunk of season",
+            "BeginOffset": 84,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.7322074770927429,
+            "Type": "PERSON",
+            "Text": "Thunder",
+            "BeginOffset": 126,
+            "EndOffset": 133
+        }
+    ]
+}

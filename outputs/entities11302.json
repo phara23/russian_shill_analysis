@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9010220170021057,
+            "Type": "PERSON",
+            "Text": "Al-Baghdadi",
+            "BeginOffset": 0,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.7653870582580566,
+            "Type": "OTHER",
+            "Text": "Islamic",
+            "BeginOffset": 23,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.703223466873169,
+            "Type": "ORGANIZATION",
+            "Text": "Islam",
+            "BeginOffset": 59,
+            "EndOffset": 64
+        }
+    ]
+}

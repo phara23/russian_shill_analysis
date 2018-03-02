@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8362818956375122,
+            "Type": "PERSON",
+            "Text": "@HoustonWelder",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9109951853752136,
+            "Type": "PERSON",
+            "Text": "@michaelkeyes",
+            "BeginOffset": 19,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9409617185592651,
+            "Type": "PERSON",
+            "Text": "@MicroSprinkles",
+            "BeginOffset": 33,
+            "EndOffset": 48
+        }
+    ]
+}

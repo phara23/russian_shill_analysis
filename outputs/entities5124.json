@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.863222599029541,
+            "Type": "PERSON",
+            "Text": "@AmyMek",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9509935975074768,
+            "Type": "ORGANIZATION",
+            "Text": "TSA",
+            "BeginOffset": 40,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.49925723671913147,
+            "Type": "QUANTITY",
+            "Text": "2",
+            "BeginOffset": 51,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.956385612487793,
+            "Type": "QUANTITY",
+            "Text": "73 workers",
+            "BeginOffset": 62,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.7558807730674744,
+            "Type": "QUANTITY",
+            "Text": "2 terrorism",
+            "BeginOffset": 81,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.9625822901725769,
+            "Type": "OTHER",
+            "Text": "http://t.co/ip6R46wZIU",
+            "BeginOffset": 94,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.9739823341369629,
+            "Type": "OTHER",
+            "Text": "http://t.co/OzzItHw",
+            "BeginOffset": 123,
+            "EndOffset": 142
+        }
+    ]
+}

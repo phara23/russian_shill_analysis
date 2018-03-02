@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9806181788444519,
+            "Type": "PERSON",
+            "Text": "@Jayniejayjune",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9343292713165283,
+            "Type": "OTHER",
+            "Text": "https://t.co/MpcmF7Dc4u",
+            "BeginOffset": 52,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.6183552742004395,
+            "Type": "ORGANIZATION",
+            "Text": "#POTUS",
+            "BeginOffset": 77,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.7148271203041077,
+            "Type": "ORGANIZATION",
+            "Text": "muslims",
+            "BeginOffset": 96,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.7137132287025452,
+            "Type": "ORGANIZATION",
+            "Text": "islam",
+            "BeginOffset": 113,
+            "EndOffset": 118
+        },
+        {
+            "Score": 0.3350207507610321,
+            "Type": "ORGANIZATION",
+            "Text": "#ThanksObama",
+            "BeginOffset": 119,
+            "EndOffset": 131
+        },
+        {
+            "Score": 0.49440935254096985,
+            "Type": "ORGANIZATION",
+            "Text": "#stopi",
+            "BeginOffset": 133,
+            "EndOffset": 139
+        }
+    ]
+}

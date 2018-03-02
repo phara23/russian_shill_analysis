@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7900490760803223,
+            "Type": "PERSON",
+            "Text": "@LostDiva",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9690032601356506,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 37,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.991146981716156,
+            "Type": "OTHER",
+            "Text": "https://t.co/xdWr7g7UJO",
+            "BeginOffset": 81,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.957852840423584,
+            "Type": "ORGANIZATION",
+            "Text": "@YahooNews",
+            "BeginOffset": 109,
+            "EndOffset": 119
+        }
+    ]
+}

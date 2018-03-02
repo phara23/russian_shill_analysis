@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9386793971061707,
+            "Type": "PERSON",
+            "Text": "@gynarchyrules",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9790688753128052,
+            "Type": "ORGANIZATION",
+            "Text": "Clinton Foundation",
+            "BeginOffset": 85,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.9881563186645508,
+            "Type": "OTHER",
+            "Text": "https://t.co/KGGcC3BU",
+            "BeginOffset": 118,
+            "EndOffset": 139
+        }
+    ]
+}

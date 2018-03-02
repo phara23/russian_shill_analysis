@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8776121735572815,
+            "Type": "PERSON",
+            "Text": "@NbreakingNew",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9752598404884338,
+            "Type": "PERSON",
+            "Text": "O’Keefe",
+            "BeginOffset": 18,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9199701547622681,
+            "Type": "OTHER",
+            "Text": "https://t.co/eKMOtQGKzk",
+            "BeginOffset": 114,
+            "EndOffset": 137
+        }
+    ]
+}

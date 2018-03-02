@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8587862849235535,
+            "Type": "PERSON",
+            "Text": "@AviWoolf",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.6340892314910889,
+            "Type": "PERSON",
+            "Text": "@20committee",
+            "BeginOffset": 22,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9998334646224976,
+            "Type": "OTHER",
+            "Text": "https://t.co/6fc9ZGvph4",
+            "BeginOffset": 67,
+            "EndOffset": 90
+        }
+    ]
+}

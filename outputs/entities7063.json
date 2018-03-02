@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8694719672203064,
+            "Type": "PERSON",
+            "Text": "@IrishTrump",
+            "BeginOffset": 1,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9896858334541321,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 12,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9101088643074036,
+            "Type": "PERSON",
+            "Text": "Romney",
+            "BeginOffset": 30,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.34631532430648804,
+            "Type": "PERSON",
+            "Text": "#maga",
+            "BeginOffset": 49,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9997822642326355,
+            "Type": "OTHER",
+            "Text": "https://t.co/L13a7POzJS",
+            "BeginOffset": 94,
+            "EndOffset": 117
+        }
+    ]
+}

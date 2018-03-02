@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8566121459007263,
+            "Type": "EVENT",
+            "Text": "DNC 2016",
+            "BeginOffset": 0,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.9919078350067139,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 10,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9307090044021606,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 33,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9964324235916138,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 47,
+            "EndOffset": 54
+        }
+    ]
+}

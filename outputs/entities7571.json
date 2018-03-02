@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9395944476127625,
+            "Type": "PERSON",
+            "Text": "@sue51684",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.924975574016571,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 104,
+            "EndOffset": 111
+        },
+        {
+            "Score": 0.9689058065414429,
+            "Type": "OTHER",
+            "Text": "https://t.co/1iyjLry",
+            "BeginOffset": 119,
+            "EndOffset": 139
+        }
+    ]
+}

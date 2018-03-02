@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9213544130325317,
+            "Type": "PERSON",
+            "Text": "@BringBernieBack",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.37268367409706116,
+            "Type": "ORGANIZATION",
+            "Text": "HillaryClinton",
+            "BeginOffset": 44,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.5763869881629944,
+            "Type": "QUANTITY",
+            "Text": "77",
+            "BeginOffset": 108,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.9997815489768982,
+            "Type": "OTHER",
+            "Text": "https://t.co/bgLp7eeBjM",
+            "BeginOffset": 111,
+            "EndOffset": 134
+        }
+    ]
+}

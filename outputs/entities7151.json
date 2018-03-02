@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8455524444580078,
+            "Type": "PERSON",
+            "Text": "@ATLBlackStar",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9716607928276062,
+            "Type": "PERSON",
+            "Text": "Winnie Harlow",
+            "BeginOffset": 18,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9999351501464844,
+            "Type": "OTHER",
+            "Text": "https://t.co/wLJmdpU36o",
+            "BeginOffset": 106,
+            "EndOffset": 129
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7764533162117004,
+            "Type": "PERSON",
+            "Text": "@emediaworld",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8335494995117188,
+            "Type": "PERSON",
+            "Text": "@IamMPina",
+            "BeginOffset": 32,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9384639263153076,
+            "Type": "OTHER",
+            "Text": "https://t.co/Qc6",
+            "BeginOffset": 123,
+            "EndOffset": 139
+        }
+    ]
+}

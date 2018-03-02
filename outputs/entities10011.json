@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9295408725738525,
+            "Type": "PERSON",
+            "Text": "Kim akrdashian",
+            "BeginOffset": 0,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9621902108192444,
+            "Type": "OTHER",
+            "Text": "http://t.co/zRnSi8lZ9X",
+            "BeginOffset": 26,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.7798000574111938,
+            "Type": "PERSON",
+            "Text": "Kim akrdashian",
+            "BeginOffset": 49,
+            "EndOffset": 63
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8475449085235596,
+            "Type": "PERSON",
+            "Text": "@NattyTakeOva",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9521637558937073,
+            "Type": "PERSON",
+            "Text": "Earl Zero",
+            "BeginOffset": 40,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.947028636932373,
+            "Type": "DATE",
+            "Text": "this week",
+            "BeginOffset": 68,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.6199215650558472,
+            "Type": "PERSON",
+            "Text": "Dubplate Sessions",
+            "BeginOffset": 82,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.9999252557754517,
+            "Type": "OTHER",
+            "Text": "https://t.co/rrKVc0APfd",
+            "BeginOffset": 119,
+            "EndOffset": 142
+        }
+    ]
+}

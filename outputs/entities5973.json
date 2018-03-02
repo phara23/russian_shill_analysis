@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9558699727058411,
+            "Type": "PERSON",
+            "Text": "@randyshort",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9895437955856323,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 16,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.875821590423584,
+            "Type": "ORGANIZATION",
+            "Text": "@CNN",
+            "BeginOffset": 62,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9998910427093506,
+            "Type": "OTHER",
+            "Text": "https://t.co/24sQ5WdA1G",
+            "BeginOffset": 67,
+            "EndOffset": 90
+        }
+    ]
+}

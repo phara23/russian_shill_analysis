@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6777898073196411,
+            "Type": "PERSON",
+            "Text": "@PoliticalShort",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8877395391464233,
+            "Type": "PERSON",
+            "Text": "@SOcean5",
+            "BeginOffset": 20,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9977206587791443,
+            "Type": "PERSON",
+            "Text": "@Nate_Cohn",
+            "BeginOffset": 29,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.5760231614112854,
+            "Type": "QUANTITY",
+            "Text": "2",
+            "BeginOffset": 78,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.9026902914047241,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 81,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.35874971747398376,
+            "Type": "ORGANIZATION",
+            "Text": "Dems",
+            "BeginOffset": 124,
+            "EndOffset": 128
+        },
+        {
+            "Score": 0.8295725584030151,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 130,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.883121907711029,
+            "Type": "PERSON",
+            "Text": "@LepineLynne",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9971672892570496,
+            "Type": "PERSON",
+            "Text": "Bill Clinton",
+            "BeginOffset": 24,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9801371693611145,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 45,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9976352453231812,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 100,
+            "EndOffset": 107
+        }
+    ]
+}

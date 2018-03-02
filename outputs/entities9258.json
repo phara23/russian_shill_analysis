@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9951962232589722,
+            "Type": "PERSON",
+            "Text": "@tjstidham14",
+            "BeginOffset": 0,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8650029897689819,
+            "Type": "PERSON",
+            "Text": "@BirdLawDS",
+            "BeginOffset": 13,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.8646440505981445,
+            "Type": "OTHER",
+            "Text": "https://t.co/322AAaZyzH",
+            "BeginOffset": 54,
+            "EndOffset": 77
+        }
+    ]
+}

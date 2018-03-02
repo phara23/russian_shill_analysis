@@ -1,0 +1,34 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9450513124465942,
+            "Text": "RT @CNN",
+            "BeginOffset": 0,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.9309501051902771,
+            "Text": "@HillaryClinton",
+            "BeginOffset": 34,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.8469423055648804,
+            "Text": "@realDonaldTrump talk",
+            "BeginOffset": 54,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.9829186201095581,
+            "Text": "tonight",
+            "BeginOffset": 82,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.9978634715080261,
+            "Text": "the final #debate",
+            "BeginOffset": 93,
+            "EndOffset": 110
+        }
+    ]
+}

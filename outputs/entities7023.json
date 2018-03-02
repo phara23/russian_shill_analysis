@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.869522213935852,
+            "Type": "PERSON",
+            "Text": "@PatDollard",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.566276490688324,
+            "Type": "OTHER",
+            "Text": "American",
+            "BeginOffset": 27,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.7597845196723938,
+            "Type": "PERSON",
+            "Text": "Christian Hillary",
+            "BeginOffset": 42,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.9946512579917908,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 66,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9427764415740967,
+            "Type": "QUANTITY",
+            "Text": "42 Points",
+            "BeginOffset": 75,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9349928498268127,
+            "Type": "OTHER",
+            "Text": "Jewish",
+            "BeginOffset": 91,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.9762019515037537,
+            "Type": "OTHER",
+            "Text": "https://t.co/7IvVbtNz7A",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        }
+    ]
+}

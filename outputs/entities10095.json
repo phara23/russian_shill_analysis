@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.952499270439148,
+            "Type": "PERSON",
+            "Text": "@mike4193496",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.999653160572052,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 17,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.8258843421936035,
+            "Type": "LOCATION",
+            "Text": "FL, OH, NC",
+            "BeginOffset": 57,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.41592028737068176,
+            "Type": "LOCATION",
+            "Text": "PA",
+            "BeginOffset": 82,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9620628356933594,
+            "Type": "LOCATION",
+            "Text": "VA",
+            "BeginOffset": 88,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9973784685134888,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 92,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.781373143196106,
+            "Type": "PERSON",
+            "Text": "Mark",
+            "BeginOffset": 120,
+            "EndOffset": 124
+        }
+    ]
+}

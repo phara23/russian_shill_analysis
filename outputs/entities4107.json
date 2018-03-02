@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9039645791053772,
+            "Type": "PERSON",
+            "Text": "@BarbArn",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9524376392364502,
+            "Type": "PERSON",
+            "Text": "Comey",
+            "BeginOffset": 49,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9964625239372253,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 65,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.8957040905952454,
+            "Type": "PERSON",
+            "Text": "Billy Boy",
+            "BeginOffset": 107,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.9327524304389954,
+            "Type": "PERSON",
+            "Text": "Lynch",
+            "BeginOffset": 123,
+            "EndOffset": 128
+        },
+        {
+            "Score": 0.9457224011421204,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 130,
+            "EndOffset": 143
+        }
+    ]
+}

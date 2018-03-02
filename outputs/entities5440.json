@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7374250292778015,
+            "Type": "PERSON",
+            "Text": "@preciousliberty",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.5193672180175781,
+            "Type": "PERSON",
+            "Text": "Bill",
+            "BeginOffset": 25,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.8454047441482544,
+            "Type": "QUANTITY",
+            "Text": "6 BILLION dollars",
+            "BeginOffset": 71,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9874975681304932,
+            "Type": "OTHER",
+            "Text": "https://t.co/ltmn3iJ6Sk",
+            "BeginOffset": 115,
+            "EndOffset": 138
+        }
+    ]
+}

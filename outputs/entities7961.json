@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8077999353408813,
+            "Type": "PERSON",
+            "Text": "@PatriotCauses",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.4232689440250397,
+            "Type": "OTHER",
+            "Text": "Islamic",
+            "BeginOffset": 51,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9874932765960693,
+            "Type": "OTHER",
+            "Text": "https://t.co/uFCVuuhHbz",
+            "BeginOffset": 68,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.7151119112968445,
+            "Type": "PERSON",
+            "Text": "@PoliticalIslam",
+            "BeginOffset": 92,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.3266102969646454,
+            "Type": "PERSON",
+            "Text": "#BanSharia",
+            "BeginOffset": 123,
+            "EndOffset": 133
+        }
+    ]
+}

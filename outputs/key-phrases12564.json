@@ -1,0 +1,40 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9463096261024475,
+            "Text": "RT @RT_com",
+            "BeginOffset": 0,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9941747784614563,
+            "Text": "#WikiLeaks",
+            "BeginOffset": 12,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9538537859916687,
+            "Text": "Ecuador",
+            "BeginOffset": 28,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9823470711708069,
+            "Text": "#Assange",
+            "BeginOffset": 44,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9983535408973694,
+            "Text": "’s internet",
+            "BeginOffset": 52,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.8871755003929138,
+            "Text": "new #Clinton emails",
+            "BeginOffset": 70,
+            "EndOffset": 89
+        }
+    ]
+}

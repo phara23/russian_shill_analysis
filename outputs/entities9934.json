@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6502568125724792,
+            "Type": "ORGANIZATION",
+            "Text": "@Collitics",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8162515163421631,
+            "Type": "LOCATION",
+            "Text": "Harrisburg",
+            "BeginOffset": 22,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9671306610107422,
+            "Type": "PERSON",
+            "Text": "Reed",
+            "BeginOffset": 39,
+            "EndOffset": 43
+        }
+    ]
+}

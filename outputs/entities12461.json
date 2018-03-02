@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8247960209846497,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.7974316477775574,
+            "Type": "PERSON",
+            "Text": "@RollingOut",
+            "BeginOffset": 14,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.999737560749054,
+            "Type": "PERSON",
+            "Text": "Velma Trayham",
+            "BeginOffset": 48,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.8541131615638733,
+            "Type": "TITLE",
+            "Text": "When God Says Go’",
+            "BeginOffset": 80,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.9978861212730408,
+            "Type": "OTHER",
+            "Text": "https://t.co/L4fF7DNvJy",
+            "BeginOffset": 98,
+            "EndOffset": 121
+        }
+    ]
+}

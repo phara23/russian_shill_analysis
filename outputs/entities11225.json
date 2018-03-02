@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9099496006965637,
+            "Type": "PERSON",
+            "Text": "@BreitbartLondon",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8808750510215759,
+            "Type": "PERSON",
+            "Text": "Vince Cable",
+            "BeginOffset": 47,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.3354329764842987,
+            "Type": "ORGANIZATION",
+            "Text": "EU",
+            "BeginOffset": 85,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.9084404110908508,
+            "Type": "OTHER",
+            "Text": "https://t.co/KpUPCf4lSL",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        },
+        {
+            "Score": 0.9686076045036316,
+            "Type": "OTHER",
+            "Text": "https://t.co",
+            "BeginOffset": 127,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9493520259857178,
+            "Type": "PERSON",
+            "Text": "@ObamaMalik",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7985271215438843,
+            "Type": "PERSON",
+            "Text": "Malik",
+            "BeginOffset": 24,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9999502897262573,
+            "Type": "OTHER",
+            "Text": "https://t.co/aMG8qWVddy",
+            "BeginOffset": 30,
+            "EndOffset": 53
+        }
+    ]
+}

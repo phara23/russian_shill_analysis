@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9177980422973633,
+            "Type": "PERSON",
+            "Text": "@jaazee1",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.37112194299697876,
+            "Type": "ORGANIZATION",
+            "Text": "#EU",
+            "BeginOffset": 13,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.45659440755844116,
+            "Type": "LOCATION",
+            "Text": "#UK",
+            "BeginOffset": 124,
+            "EndOffset": 127
+        },
+        {
+            "Score": 0.6085148453712463,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 128,
+            "EndOffset": 137
+        }
+    ]
+}

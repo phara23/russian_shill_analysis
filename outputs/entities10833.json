@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8610490560531616,
+            "Type": "PERSON",
+            "Text": "@futureguru100",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9631160497665405,
+            "Type": "PERSON",
+            "Text": "@djpyrex",
+            "BeginOffset": 70,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.8395569920539856,
+            "Type": "PERSON",
+            "Text": "@SlateStoneMusic",
+            "BeginOffset": 81,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.525019109249115,
+            "Type": "QUANTITY",
+            "Text": "19\n'",
+            "BeginOffset": 110,
+            "EndOffset": 114
+        }
+    ]
+}

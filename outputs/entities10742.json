@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9409210681915283,
+            "Type": "PERSON",
+            "Text": "@chrisgeidner",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.997319757938385,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 31,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.7183089852333069,
+            "Type": "ORGANIZATION",
+            "Text": "Central Park",
+            "BeginOffset": 64,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.9999426603317261,
+            "Type": "OTHER",
+            "Text": "https://t.co/Xp7NKKeDEh",
+            "BeginOffset": 78,
+            "EndOffset": 101
+        }
+    ]
+}

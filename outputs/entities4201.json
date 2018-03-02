@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9623539447784424,
+            "Type": "DATE",
+            "Text": "last year",
+            "BeginOffset": 10,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.846605658531189,
+            "Type": "EVENT",
+            "Text": "Christmas",
+            "BeginOffset": 22,
+            "EndOffset": 31
+        }
+    ]
+}

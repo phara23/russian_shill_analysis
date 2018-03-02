@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8433201909065247,
+            "Type": "PERSON",
+            "Text": "@gerfingerpoken2",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9795582890510559,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 40,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.47456830739974976,
+            "Type": "ORGANIZATION",
+            "Text": "#ISIS",
+            "BeginOffset": 52,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.769769549369812,
+            "Type": "ORGANIZATION",
+            "Text": "Christians",
+            "BeginOffset": 67,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.8253687024116516,
+            "Type": "PERSON",
+            "Text": "@IBDeditorials",
+            "BeginOffset": 81,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.8507760763168335,
+            "Type": "OTHER",
+            "Text": "https://t.co/7pOMBVf4AK",
+            "BeginOffset": 98,
+            "EndOffset": 121
+        },
+        {
+            "Score": 0.936017632484436,
+            "Type": "OTHER",
+            "Text": "https://t.co/iy",
+            "BeginOffset": 124,
+            "EndOffset": 139
+        }
+    ]
+}

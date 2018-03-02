@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8968998193740845,
+            "Type": "PERSON",
+            "Text": "@SavageKingRob",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.994572103023529,
+            "Type": "ORGANIZATION",
+            "Text": "Netflix",
+            "BeginOffset": 19,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.6916003823280334,
+            "Type": "DATE",
+            "Text": "#2017",
+            "BeginOffset": 52,
+            "EndOffset": 57
+        }
+    ]
+}

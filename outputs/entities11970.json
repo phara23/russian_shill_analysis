@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6858218908309937,
+            "Type": "ORGANIZATION",
+            "Text": "HRC",
+            "BeginOffset": 59,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.336823970079422,
+            "Type": "PERSON",
+            "Text": "#HillaryClinton",
+            "BeginOffset": 74,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.9919439554214478,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 107,
+            "EndOffset": 111
+        }
+    ]
+}

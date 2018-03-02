@@ -1,0 +1,67 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6883898973464966,
+            "Type": "PERSON",
+            "Text": "@PowerTVFans",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9207262992858887,
+            "Type": "PERSON",
+            "Text": "@OmariHardwick",
+            "BeginOffset": 17,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9402751326560974,
+            "Type": "PERSON",
+            "Text": "@naturinaughton",
+            "BeginOffset": 32,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9799744486808777,
+            "Type": "PERSON",
+            "Text": "@LelaLoren",
+            "BeginOffset": 48,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9921204447746277,
+            "Type": "PERSON",
+            "Text": "@JosephSikora4",
+            "BeginOffset": 59,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.9879367351531982,
+            "Type": "PERSON",
+            "Text": "@michaelraineyjr",
+            "BeginOffset": 74,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9793772101402283,
+            "Type": "PERSON",
+            "Text": "@DonsheaH",
+            "BeginOffset": 91,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.9600447416305542,
+            "Type": "PERSON",
+            "Text": "@50cent",
+            "BeginOffset": 101,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.9585208892822266,
+            "Type": "PERSON",
+            "Text": "@CourtneyKemp",
+            "BeginOffset": 109,
+            "EndOffset": 122
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.869109034538269,
+            "Type": "PERSON",
+            "Text": "@crosswindlive",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.5645463466644287,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 19,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.8735915422439575,
+            "Type": "ORGANIZATION",
+            "Text": "@Conservative_VW",
+            "BeginOffset": 22,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.7112125754356384,
+            "Type": "QUANTITY",
+            "Text": "Few days",
+            "BeginOffset": 40,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9943325519561768,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 64,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9831520318984985,
+            "Type": "OTHER",
+            "Text": "https://t.co/TUDaIX",
+            "BeginOffset": 120,
+            "EndOffset": 139
+        }
+    ]
+}

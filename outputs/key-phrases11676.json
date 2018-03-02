@@ -1,0 +1,34 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9763134121894836,
+            "Text": "Sanders",
+            "BeginOffset": 0,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.6994589567184448,
+            "Text": "Trump ‘",
+            "BeginOffset": 9,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.6060972213745117,
+            "Text": "candidate",
+            "BeginOffset": 32,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9471235275268555,
+            "Text": "Bernie Sanders",
+            "BeginOffset": 48,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9671841263771057,
+            "Text": "Michigan delegates",
+            "BeginOffset": 72,
+            "EndOffset": 90
+        }
+    ]
+}

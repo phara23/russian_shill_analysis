@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9997265338897705,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 26,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9317982792854309,
+            "Type": "LOCATION",
+            "Text": "D.C.",
+            "BeginOffset": 50,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.8119682669639587,
+            "Type": "DATE",
+            "Text": "a week after",
+            "BeginOffset": 55,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9318763017654419,
+            "Type": "OTHER",
+            "Text": "https://t.co/lDBtGWbI2G",
+            "BeginOffset": 84,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.999985933303833,
+            "Type": "OTHER",
+            "Text": "https://t.co/zRr7JxlDMz",
+            "BeginOffset": 108,
+            "EndOffset": 131
+        }
+    ]
+}

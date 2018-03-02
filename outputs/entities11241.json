@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9471466541290283,
+            "Type": "PERSON",
+            "Text": "@alecia_noelle",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9884433746337891,
+            "Type": "PERSON",
+            "Text": "@joshob1987",
+            "BeginOffset": 19,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9848390221595764,
+            "Type": "PERSON",
+            "Text": "@annaleclaire",
+            "BeginOffset": 31,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9914944171905518,
+            "Type": "PERSON",
+            "Text": "Warren",
+            "BeginOffset": 68,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9565714597702026,
+            "Type": "DATE",
+            "Text": "this year",
+            "BeginOffset": 82,
+            "EndOffset": 91
+        }
+    ]
+}

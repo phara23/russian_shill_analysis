@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9007040858268738,
+            "Type": "PERSON",
+            "Text": "@daniecal",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.658976137638092,
+            "Type": "OTHER",
+            "Text": "Africans",
+            "BeginOffset": 98,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.9970257878303528,
+            "Type": "OTHER",
+            "Text": "https://t.co/0yZd8q",
+            "BeginOffset": 120,
+            "EndOffset": 139
+        }
+    ]
+}

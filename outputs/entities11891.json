@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.827242374420166,
+            "Type": "ORGANIZATION",
+            "Text": "AU",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.7027334570884705,
+            "Type": "LOCATION",
+            "Text": "Gabon",
+            "BeginOffset": 30,
+            "EndOffset": 35
+        }
+    ]
+}

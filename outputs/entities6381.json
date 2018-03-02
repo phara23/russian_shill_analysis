@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9450508952140808,
+            "Type": "PERSON",
+            "Text": "Kim",
+            "BeginOffset": 22,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.8935808539390564,
+            "Type": "PERSON",
+            "Text": "Jong Un",
+            "BeginOffset": 31,
+            "EndOffset": 38
+        }
+    ]
+}

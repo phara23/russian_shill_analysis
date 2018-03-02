@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9425726532936096,
+            "Type": "PERSON",
+            "Text": "@Juliet777777",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9027225375175476,
+            "Type": "ORGANIZATION",
+            "Text": "#HILLARYCLINTON Communist Party",
+            "BeginOffset": 33,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9803965091705322,
+            "Type": "LOCATION",
+            "Text": "#USA",
+            "BeginOffset": 66,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9682831764221191,
+            "Type": "OTHER",
+            "Text": "https://t.co/ER4oJPS4QK",
+            "BeginOffset": 71,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.6462336778640747,
+            "Type": "ORGANIZATION",
+            "Text": "#TEXAS",
+            "BeginOffset": 95,
+            "EndOffset": 101
+        }
+    ]
+}

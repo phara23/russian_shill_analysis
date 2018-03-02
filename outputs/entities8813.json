@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.936276912689209,
+            "Type": "PERSON",
+            "Text": "@StargazeJewelry",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9121371507644653,
+            "Type": "OTHER",
+            "Text": "https://t.co/LirPfyz9zm",
+            "BeginOffset": 46,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9998775720596313,
+            "Type": "OTHER",
+            "Text": "https://t.co/42XftnUkII",
+            "BeginOffset": 72,
+            "EndOffset": 95
+        }
+    ]
+}

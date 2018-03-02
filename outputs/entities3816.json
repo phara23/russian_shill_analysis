@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8466469645500183,
+            "Type": "PERSON",
+            "Text": "@gspdogs12",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9981709718704224,
+            "Type": "PERSON",
+            "Text": "Tim Kaine",
+            "BeginOffset": 30,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9998564720153809,
+            "Type": "OTHER",
+            "Text": "https://t.co/dsQnUiBDTt",
+            "BeginOffset": 42,
+            "EndOffset": 65
+        }
+    ]
+}

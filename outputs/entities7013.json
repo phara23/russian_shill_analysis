@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8525928258895874,
+            "Type": "PERSON",
+            "Text": "@DondeGroovily",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8284196257591248,
+            "Type": "PERSON",
+            "Text": "Pokemon",
+            "BeginOffset": 47,
+            "EndOffset": 54
+        }
+    ]
+}

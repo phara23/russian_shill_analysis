@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7374963164329529,
+            "Type": "PERSON",
+            "Text": "@BoogsMalone",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7829476594924927,
+            "Type": "PERSON",
+            "Text": "Lil Yachty",
+            "BeginOffset": 34,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9917210340499878,
+            "Type": "OTHER",
+            "Text": "https://t.co/iyWCqPYftm",
+            "BeginOffset": 55,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.9795017838478088,
+            "Type": "ORGANIZATION",
+            "Text": "@YouTube",
+            "BeginOffset": 83,
+            "EndOffset": 91
+        }
+    ]
+}

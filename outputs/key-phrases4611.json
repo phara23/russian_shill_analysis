@@ -1,0 +1,28 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9396551847457886,
+            "Text": "RT @theclobra",
+            "BeginOffset": 0,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9895276427268982,
+            "Text": "some asbestos",
+            "BeginOffset": 21,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.996631920337677,
+            "Text": "your tree",
+            "BeginOffset": 48,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.8208687901496887,
+            "Text": "@VitruvianMonkey @batshake",
+            "BeginOffset": 59,
+            "EndOffset": 85
+        }
+    ]
+}

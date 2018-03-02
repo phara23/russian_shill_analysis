@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7708626985549927,
+            "Type": "PERSON",
+            "Text": "@DiscoveryID",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9428964853286743,
+            "Type": "OTHER",
+            "Text": "https://t.co/Q2XFxjcpa7",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        },
+        {
+            "Score": 0.9636738896369934,
+            "Type": "OTHER",
+            "Text": "https://t.co",
+            "BeginOffset": 127,
+            "EndOffset": 139
+        }
+    ]
+}

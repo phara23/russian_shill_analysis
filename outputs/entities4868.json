@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8300343751907349,
+            "Type": "OTHER",
+            "Text": "Danish",
+            "BeginOffset": 0,
+            "EndOffset": 6
+        },
+        {
+            "Score": 0.8181318640708923,
+            "Type": "OTHER",
+            "Text": "Americans",
+            "BeginOffset": 19,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9794691801071167,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 51,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9999638795852661,
+            "Type": "OTHER",
+            "Text": "https://t.co/YprUsOgBlr",
+            "BeginOffset": 60,
+            "EndOffset": 83
+        }
+    ]
+}

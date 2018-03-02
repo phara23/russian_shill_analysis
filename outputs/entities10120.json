@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8326921463012695,
+            "Type": "PERSON",
+            "Text": "@NotNotTSHendrik",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.44107282161712646,
+            "Type": "OTHER",
+            "Text": "French",
+            "BeginOffset": 131,
+            "EndOffset": 137
+        }
+    ]
+}

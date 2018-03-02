@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8015512228012085,
+            "Type": "PERSON",
+            "Text": "@ctiexec",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8602754473686218,
+            "Type": "PERSON",
+            "Text": "@TheHashPod",
+            "BeginOffset": 66,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9750317931175232,
+            "Type": "PERSON",
+            "Text": "@TagBattleRoyale",
+            "BeginOffset": 79,
+            "EndOffset": 95
+        }
+    ]
+}

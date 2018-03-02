@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9874274730682373,
+            "Type": "PERSON",
+            "Text": "Cruz",
+            "BeginOffset": 0,
+            "EndOffset": 4
+        },
+        {
+            "Score": 0.9962002635002136,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 12,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9990839958190918,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 27,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9991994500160217,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 37,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.941322922706604,
+            "Type": "LOCATION",
+            "Text": "San Antonio",
+            "BeginOffset": 52,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9999699592590332,
+            "Type": "OTHER",
+            "Text": "https://t.co/gJsjLZCYz5",
+            "BeginOffset": 71,
+            "EndOffset": 94
+        }
+    ]
+}

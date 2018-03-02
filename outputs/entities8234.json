@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8748329281806946,
+            "Type": "PERSON",
+            "Text": "@skydiever",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.7184913754463196,
+            "Type": "QUANTITY",
+            "Text": "3Words",
+            "BeginOffset": 22,
+            "EndOffset": 28
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.89715176820755,
+            "Type": "PERSON",
+            "Text": "@ggreenwald",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.6325858235359192,
+            "Type": "PERSON",
+            "Text": "Israel Prospers",
+            "BeginOffset": 19,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9882845878601074,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 36,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.5759609937667847,
+            "Type": "PERSON",
+            "Text": "Netanyahu",
+            "BeginOffset": 81,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9999382495880127,
+            "Type": "OTHER",
+            "Text": "https://t.co/dLkKXysIUO",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        }
+    ]
+}

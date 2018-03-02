@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8461639285087585,
+            "Type": "PERSON",
+            "Text": "@Nottinghams1",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.6065250039100647,
+            "Type": "ORGANIZATION",
+            "Text": "#RNC",
+            "BeginOffset": 43,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.8592500686645508,
+            "Type": "PERSON",
+            "Text": "@RealDonaldTrump",
+            "BeginOffset": 60,
+            "EndOffset": 76
+        }
+    ]
+}

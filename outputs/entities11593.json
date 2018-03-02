@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5022098422050476,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.9696605205535889,
+            "Type": "PERSON",
+            "Text": "@Matt_Dominguez",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7807701826095581,
+            "Type": "DATE",
+            "Text": "#2016",
+            "BeginOffset": 20,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9999548196792603,
+            "Type": "OTHER",
+            "Text": "https://t.co/pTGS37wiZs",
+            "BeginOffset": 59,
+            "EndOffset": 82
+        }
+    ]
+}

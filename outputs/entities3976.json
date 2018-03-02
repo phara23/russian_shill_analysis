@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8608133792877197,
+            "Type": "PERSON",
+            "Text": "@politicususa",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9798386096954346,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 27,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.6498236060142517,
+            "Type": "LOCATION",
+            "Text": "Germany",
+            "BeginOffset": 50,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.6412393450737,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 70,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.6571750640869141,
+            "Type": "PERSON",
+            "Text": "@politicususa",
+            "BeginOffset": 101,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.988671064376831,
+            "Type": "OTHER",
+            "Text": "https://t.co/eRdJm0XroQ",
+            "BeginOffset": 115,
+            "EndOffset": 138
+        }
+    ]
+}

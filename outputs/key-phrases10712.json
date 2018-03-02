@@ -1,0 +1,34 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9616360664367676,
+            "Text": "Donald Trump",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9930509924888611,
+            "Text": "stereotypes",
+            "BeginOffset": 27,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9996798634529114,
+            "Text": "a woman",
+            "BeginOffset": 44,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9200968742370605,
+            "Text": "commander",
+            "BeginOffset": 61,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.992749035358429,
+            "Text": "chief",
+            "BeginOffset": 74,
+            "EndOffset": 79
+        }
+    ]
+}

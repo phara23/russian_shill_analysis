@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.31686708331108093,
+            "Type": "PERSON",
+            "Text": "#obama",
+            "BeginOffset": 12,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.6952172517776489,
+            "Type": "LOCATION",
+            "Text": "#Israeli",
+            "BeginOffset": 27,
+            "EndOffset": 35
+        }
+    ]
+}

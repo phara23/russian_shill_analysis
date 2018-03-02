@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7483242750167847,
+            "Type": "PERSON",
+            "Text": "@Workers4Trump",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9998511672019958,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 19,
+            "EndOffset": 34
+        }
+    ]
+}

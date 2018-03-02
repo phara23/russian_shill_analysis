@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8843925595283508,
+            "Type": "PERSON",
+            "Text": "@shondarhimes",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8782176375389099,
+            "Type": "DATE",
+            "Text": "Twelve years ago",
+            "BeginOffset": 18,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9816465973854065,
+            "Type": "DATE",
+            "Text": "today",
+            "BeginOffset": 35,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.8696714639663696,
+            "Type": "QUANTITY",
+            "Text": "first time",
+            "BeginOffset": 112,
+            "EndOffset": 122
+        }
+    ]
+}

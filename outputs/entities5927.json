@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7649437189102173,
+            "Type": "PERSON",
+            "Text": "@GeffGefferson1",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7042041420936584,
+            "Type": "QUANTITY",
+            "Text": "5Words",
+            "BeginOffset": 33,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.8729120492935181,
+            "Type": "PERSON",
+            "Text": "@The_Rembrandts",
+            "BeginOffset": 65,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.8794353604316711,
+            "Type": "PERSON",
+            "Text": "@SotallyToberHTs",
+            "BeginOffset": 82,
+            "EndOffset": 98
+        }
+    ]
+}

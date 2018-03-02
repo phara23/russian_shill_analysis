@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8247978091239929,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8816229701042175,
+            "Type": "PERSON",
+            "Text": "@BlkWestchesterM",
+            "BeginOffset": 14,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9787555932998657,
+            "Type": "ORGANIZATION",
+            "Text": "FBI",
+            "BeginOffset": 32,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9999713897705078,
+            "Type": "OTHER",
+            "Text": "https://t.co/30a3MSBXwO",
+            "BeginOffset": 98,
+            "EndOffset": 121
+        }
+    ]
+}

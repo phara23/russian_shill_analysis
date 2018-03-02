@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7829135656356812,
+            "Type": "PERSON",
+            "Text": "@CanProveIt",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8259058594703674,
+            "Type": "QUANTITY",
+            "Text": "500",
+            "BeginOffset": 45,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9672252535820007,
+            "Type": "QUANTITY",
+            "Text": "100%",
+            "BeginOffset": 71,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.9998244643211365,
+            "Type": "OTHER",
+            "Text": "https://t.co/Mnu1rsFIFH",
+            "BeginOffset": 102,
+            "EndOffset": 125
+        }
+    ]
+}

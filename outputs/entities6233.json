@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9319564700126648,
+            "Type": "PERSON",
+            "Text": "@shlomikliab",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.5781568884849548,
+            "Type": "ORGANIZATION",
+            "Text": "Islamic #terrorism",
+            "BeginOffset": 79,
+            "EndOffset": 97
+        }
+    ]
+}

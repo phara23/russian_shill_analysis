@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6777479648590088,
+            "Type": "PERSON",
+            "Text": "@STcom",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9171500205993652,
+            "Type": "PERSON",
+            "Text": "Simba",
+            "BeginOffset": 18,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9964034557342529,
+            "Type": "PERSON",
+            "Text": "Lula",
+            "BeginOffset": 28,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.8789961934089661,
+            "Type": "QUANTITY",
+            "Text": "two survivors",
+            "BeginOffset": 39,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9178007245063782,
+            "Type": "OTHER",
+            "Text": "https://t.co/VlzhkWBNp6",
+            "BeginOffset": 67,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9999608993530273,
+            "Type": "OTHER",
+            "Text": "https://t.co/EuZgaxZuTv",
+            "BeginOffset": 91,
+            "EndOffset": 114
+        }
+    ]
+}

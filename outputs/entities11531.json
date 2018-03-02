@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9812874794006348,
+            "Type": "PERSON",
+            "Text": "@DarrenJJordan",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6838013529777527,
+            "Type": "LOCATION",
+            "Text": "#Texas",
+            "BeginOffset": 48,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.4905903935432434,
+            "Type": "LOCATION",
+            "Text": "#MAGA",
+            "BeginOffset": 55,
+            "EndOffset": 60
+        }
+    ]
+}

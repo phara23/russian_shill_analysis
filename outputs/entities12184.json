@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7777188420295715,
+            "Type": "PERSON",
+            "Text": "@Patriotic_Me",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9506752490997314,
+            "Type": "ORGANIZATION",
+            "Text": "Muslims",
+            "BeginOffset": 18,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9911229610443115,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 57,
+            "EndOffset": 64
+        }
+    ]
+}

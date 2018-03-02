@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6322347521781921,
+            "Type": "QUANTITY",
+            "Text": "1TSH",
+            "BeginOffset": 4,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.5604802370071411,
+            "Type": "PERSON",
+            "Text": "#Obama",
+            "BeginOffset": 24,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9693228602409363,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 47,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9998303651809692,
+            "Type": "OTHER",
+            "Text": "https://t.co/54llKRNjPd",
+            "BeginOffset": 68,
+            "EndOffset": 91
+        }
+    ]
+}

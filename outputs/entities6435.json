@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9309596419334412,
+            "Type": "PERSON",
+            "Text": "@AndyHashtagger",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.856009304523468,
+            "Type": "QUANTITY",
+            "Text": "3Words",
+            "BeginOffset": 35,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9998511075973511,
+            "Type": "OTHER",
+            "Text": "http://t.co/W061qcPwRW",
+            "BeginOffset": 66,
+            "EndOffset": 88
+        }
+    ]
+}

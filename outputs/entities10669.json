@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8886047601699829,
+            "Type": "PERSON",
+            "Text": "@HawkinsUSA",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7005118131637573,
+            "Type": "QUANTITY",
+            "Text": "one point",
+            "BeginOffset": 24,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9852733016014099,
+            "Type": "LOCATION",
+            "Text": "Utah",
+            "BeginOffset": 37,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9829215407371521,
+            "Type": "QUANTITY",
+            "Text": "5 candidates",
+            "BeginOffset": 83,
+            "EndOffset": 95
+        }
+    ]
+}

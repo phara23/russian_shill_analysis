@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6681665778160095,
+            "Type": "PERSON",
+            "Text": "@Nottinghams",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.6907081604003906,
+            "Type": "ORGANIZATION",
+            "Text": "Muslim",
+            "BeginOffset": 18,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.7741734981536865,
+            "Type": "PERSON",
+            "Text": "Christian Boy",
+            "BeginOffset": 55,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9541064500808716,
+            "Type": "OTHER",
+            "Text": "https://t.co/mRAhjoLWJ",
+            "BeginOffset": 117,
+            "EndOffset": 139
+        }
+    ]
+}

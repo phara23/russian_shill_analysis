@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9516474604606628,
+            "Type": "PERSON",
+            "Text": "@UR_Ninja",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.6211414337158203,
+            "Type": "LOCATION",
+            "Text": "#Sandusky Iowa",
+            "BeginOffset": 33,
+            "EndOffset": 47
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5173245072364807,
+            "Type": "ORGANIZATION",
+            "Text": "MS",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.771757960319519,
+            "Type": "ORGANIZATION",
+            "Text": "Avenue of the States",
+            "BeginOffset": 21,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.933733344078064,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 45,
+            "EndOffset": 48
+        }
+    ]
+}

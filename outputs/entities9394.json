@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5149129629135132,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.6381316184997559,
+            "Type": "ORGANIZATION",
+            "Text": "@Indians4",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.7351350784301758,
+            "Type": "LOCATION",
+            "Text": "Israel",
+            "BeginOffset": 12,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9998738765716553,
+            "Type": "OTHER",
+            "Text": "https://t.co/iaBUDV0L6N",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        }
+    ]
+}

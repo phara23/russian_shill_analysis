@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.907633364200592,
+            "Type": "PERSON",
+            "Text": "@christinaLW28",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8073612451553345,
+            "Type": "PERSON",
+            "Text": "@NathanDWilsonFL",
+            "BeginOffset": 19,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9658907651901245,
+            "Type": "PERSON",
+            "Text": "@winegirl73",
+            "BeginOffset": 36,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.5797221660614014,
+            "Type": "LOCATION",
+            "Text": "Venus",
+            "BeginOffset": 80,
+            "EndOffset": 85
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7990500330924988,
+            "Type": "PERSON",
+            "Text": "@OnPirateSat",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8726387023925781,
+            "Type": "OTHER",
+            "Text": "https://t.co/xRfxxEubCN",
+            "BeginOffset": 80,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.9999654293060303,
+            "Type": "OTHER",
+            "Text": "https://t.co/FuLrk9tWUO",
+            "BeginOffset": 104,
+            "EndOffset": 127
+        }
+    ]
+}

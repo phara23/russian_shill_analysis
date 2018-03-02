@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7966859340667725,
+            "Type": "PERSON",
+            "Text": "@LibertyBundle",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6738794445991516,
+            "Type": "LOCATION",
+            "Text": "Syria",
+            "BeginOffset": 24,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9434682130813599,
+            "Type": "OTHER",
+            "Text": "https://t.co/wZ0Z38AAOM",
+            "BeginOffset": 70,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.8174930214881897,
+            "Type": "LOCATION",
+            "Text": "Syria",
+            "BeginOffset": 108,
+            "EndOffset": 113
+        }
+    ]
+}

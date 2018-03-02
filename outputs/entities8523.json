@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8758009076118469,
+            "Type": "PERSON",
+            "Text": "@mesealake",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.7333545088768005,
+            "Type": "PERSON",
+            "Text": "@absrdNEWS",
+            "BeginOffset": 30,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9998483657836914,
+            "Type": "OTHER",
+            "Text": "http://t.co/3SPYVAIIoP",
+            "BeginOffset": 76,
+            "EndOffset": 98
+        }
+    ]
+}

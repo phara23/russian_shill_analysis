@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.860228419303894,
+            "Type": "PERSON",
+            "Text": "@JDiamond1",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.5691421627998352,
+            "Type": "OTHER",
+            "Text": "Mexican",
+            "BeginOffset": 31,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9197141528129578,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 56,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9754254221916199,
+            "Type": "LOCATION",
+            "Text": "Aberdeen",
+            "BeginOffset": 72,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.9169036746025085,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 100,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.9999959468841553,
+            "Type": "OTHER",
+            "Text": "https://t.co/5tKdXx7uNe",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8821025490760803,
+            "Type": "PERSON",
+            "Text": "@deplorabletexas",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.997539758682251,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 83,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.8913760185241699,
+            "Type": "ORGANIZATION",
+            "Text": "DemocRATS",
+            "BeginOffset": 107,
+            "EndOffset": 116
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8855398297309875,
+            "Type": "PERSON",
+            "Text": "@DreadMighty",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.6841475367546082,
+            "Type": "DATE",
+            "Text": "#2016",
+            "BeginOffset": 39,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.8582587838172913,
+            "Type": "QUANTITY",
+            "Text": "4Words",
+            "BeginOffset": 46,
+            "EndOffset": 52
+        }
+    ]
+}

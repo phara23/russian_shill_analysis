@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9722384214401245,
+            "Type": "PERSON",
+            "Text": "@jamsession4444",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.5920560956001282,
+            "Type": "PERSON",
+            "Text": "Kielerin",
+            "BeginOffset": 20,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.5219550728797913,
+            "Type": "PERSON",
+            "Text": "Urlaub",
+            "BeginOffset": 36,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.4172322154045105,
+            "Type": "PERSON",
+            "Text": "Türkei",
+            "BeginOffset": 50,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.8702632784843445,
+            "Type": "OTHER",
+            "Text": "https://t.co/SgqTVRdbqw",
+            "BeginOffset": 99,
+            "EndOffset": 122
+        }
+    ]
+}

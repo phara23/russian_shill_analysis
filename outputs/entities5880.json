@@ -1,0 +1,81 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7863359451293945,
+            "Type": "PERSON",
+            "Text": "@Larryputt",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.7893285155296326,
+            "Type": "PERSON",
+            "Text": "@presbo",
+            "BeginOffset": 15,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9268066883087158,
+            "Type": "PERSON",
+            "Text": "@dovewan",
+            "BeginOffset": 23,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9336544275283813,
+            "Type": "PERSON",
+            "Text": "@freedmeto",
+            "BeginOffset": 32,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9954363703727722,
+            "Type": "PERSON",
+            "Text": "@Charlie2749",
+            "BeginOffset": 43,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9968843460083008,
+            "Type": "PERSON",
+            "Text": "@Rositabonita48",
+            "BeginOffset": 56,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9987172484397888,
+            "Type": "PERSON",
+            "Text": "@larryvance47",
+            "BeginOffset": 72,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.8739444017410278,
+            "Type": "PERSON",
+            "Text": "@cgpb",
+            "BeginOffset": 86,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.9864302277565002,
+            "Type": "PERSON",
+            "Text": "@viola_tamez",
+            "BeginOffset": 92,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.9876083731651306,
+            "Type": "PERSON",
+            "Text": "@Scarlett210",
+            "BeginOffset": 105,
+            "EndOffset": 117
+        },
+        {
+            "Score": 0.9665219187736511,
+            "Type": "OTHER",
+            "Text": "https://t.co/fFJuzgZ6",
+            "BeginOffset": 118,
+            "EndOffset": 139
+        }
+    ]
+}

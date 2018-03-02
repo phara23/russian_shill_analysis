@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8233900666236877,
+            "Type": "PERSON",
+            "Text": "@LMBigSur",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.7357357144355774,
+            "Type": "QUANTITY",
+            "Text": "one skit",
+            "BeginOffset": 19,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9891483187675476,
+            "Type": "TITLE",
+            "Text": "SNL",
+            "BeginOffset": 67,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9999762773513794,
+            "Type": "OTHER",
+            "Text": "https://t.co/c7Oqo61XEv",
+            "BeginOffset": 93,
+            "EndOffset": 116
+        }
+    ]
+}

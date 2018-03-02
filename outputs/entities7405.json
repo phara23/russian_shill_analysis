@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8280897736549377,
+            "Type": "PERSON",
+            "Text": "@BEATS_GO_BANG",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6199630498886108,
+            "Type": "ORGANIZATION",
+            "Text": "@VoicePimps",
+            "BeginOffset": 45,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.8498853445053101,
+            "Type": "OTHER",
+            "Text": "https://t.co/jbnsgqTQqN",
+            "BeginOffset": 57,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.9217142462730408,
+            "Type": "OTHER",
+            "Text": "https://t.co/KYIm9b5CwQ",
+            "BeginOffset": 82,
+            "EndOffset": 105
+        }
+    ]
+}

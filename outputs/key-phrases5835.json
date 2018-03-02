@@ -1,0 +1,28 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9690663814544678,
+            "Text": "Black man",
+            "BeginOffset": 0,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9696565270423889,
+            "Text": "3 cops",
+            "BeginOffset": 39,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.6408175230026245,
+            "Text": "hate",
+            "BeginOffset": 55,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.9804391860961914,
+            "Text": "BLM and Obama",
+            "BeginOffset": 65,
+            "EndOffset": 78
+        }
+    ]
+}

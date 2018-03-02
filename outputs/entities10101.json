@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6758775115013123,
+            "Type": "PERSON",
+            "Text": "@platinumivory",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9470500946044922,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 19,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.8960806131362915,
+            "Type": "PERSON",
+            "Text": "@POTUS",
+            "BeginOffset": 36,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.8556379079818726,
+            "Type": "DATE",
+            "Text": "decade ago",
+            "BeginOffset": 78,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9296563267707825,
+            "Type": "QUANTITY",
+            "Text": "0 acts",
+            "BeginOffset": 114,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.45659494400024414,
+            "Type": "ORGANIZATION",
+            "Text": "Islamic",
+            "BeginOffset": 124,
+            "EndOffset": 131
+        }
+    ]
+}

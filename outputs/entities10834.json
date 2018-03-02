@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9084730744361877,
+            "Type": "PERSON",
+            "Text": "@colinflaherty",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.937735915184021,
+            "Type": "ORGANIZATION",
+            "Text": "@YouTube",
+            "BeginOffset": 40,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9767199158668518,
+            "Type": "OTHER",
+            "Text": "http://t.co/GFEz1eiHEK",
+            "BeginOffset": 58,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.6489008069038391,
+            "Type": "ORGANIZATION",
+            "Text": "K-9",
+            "BeginOffset": 111,
+            "EndOffset": 114
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8186928033828735,
+            "Type": "PERSON",
+            "Text": "@thelawanon",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7884552478790283,
+            "Type": "ORGANIZATION",
+            "Text": "@S3phir4",
+            "BeginOffset": 16,
+            "EndOffset": 24
+        }
+    ]
+}

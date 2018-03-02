@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9149959087371826,
+            "Type": "PERSON",
+            "Text": "@suzydymna",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.718622624874115,
+            "Type": "OTHER",
+            "Text": "Russians",
+            "BeginOffset": 15,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9524767994880676,
+            "Type": "PERSON",
+            "Text": "@DrJillStein",
+            "BeginOffset": 42,
+            "EndOffset": 54
+        }
+    ]
+}

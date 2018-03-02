@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8749178051948547,
+            "Type": "PERSON",
+            "Text": "@somaliadev",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.3245822787284851,
+            "Type": "OTHER",
+            "Text": "Somali",
+            "BeginOffset": 16,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9568518400192261,
+            "Type": "LOCATION",
+            "Text": "Mogadishu",
+            "BeginOffset": 43,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9990975856781006,
+            "Type": "PERSON",
+            "Text": "Angela Davis",
+            "BeginOffset": 72,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9993021488189697,
+            "Type": "DATE",
+            "Text": "1972",
+            "BeginOffset": 88,
+            "EndOffset": 92
+        }
+    ]
+}

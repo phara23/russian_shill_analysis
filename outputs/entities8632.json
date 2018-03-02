@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9989871978759766,
+            "Type": "PERSON",
+            "Text": "Mike Pence",
+            "BeginOffset": 0,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.914594292640686,
+            "Type": "DATE",
+            "Text": "next week",
+            "BeginOffset": 37,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9319466352462769,
+            "Type": "OTHER",
+            "Text": "https://t.co/piL0raIEik",
+            "BeginOffset": 47,
+            "EndOffset": 70
+        }
+    ]
+}

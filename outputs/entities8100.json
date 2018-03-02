@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.950208306312561,
+            "Type": "PERSON",
+            "Text": "@charles270",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8682809472084045,
+            "Type": "PERSON",
+            "Text": "Uncle Junior",
+            "BeginOffset": 16,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.8738518357276917,
+            "Type": "PERSON",
+            "Text": "Jamie Foxx",
+            "BeginOffset": 38,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.960124135017395,
+            "Type": "PERSON",
+            "Text": "@LaBellaJmarie",
+            "BeginOffset": 62,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.9023603200912476,
+            "Type": "OTHER",
+            "Text": "https://t.co",
+            "BeginOffset": 127,
+            "EndOffset": 139
+        }
+    ]
+}

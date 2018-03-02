@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7232049703598022,
+            "Type": "PERSON",
+            "Text": "@mentalerase",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7159962058067322,
+            "Type": "DATE",
+            "Text": "#2016",
+            "BeginOffset": 17,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9998764991760254,
+            "Type": "OTHER",
+            "Text": "https://t.co/oQI2cGikeU",
+            "BeginOffset": 48,
+            "EndOffset": 71
+        }
+    ]
+}

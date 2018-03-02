@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7987806797027588,
+            "Type": "PERSON",
+            "Text": "@occupycorruptDC",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.975132405757904,
+            "Type": "QUANTITY",
+            "Text": "5.7 Percent",
+            "BeginOffset": 26,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.5826736092567444,
+            "Type": "ORGANIZATION",
+            "Text": "#ClintonCash Foundation",
+            "BeginOffset": 41,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9472021460533142,
+            "Type": "OTHER",
+            "Text": "https://t.co/g3Xh95PQU5",
+            "BeginOffset": 110,
+            "EndOffset": 133
+        }
+    ]
+}

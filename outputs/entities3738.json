@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9832631945610046,
+            "Type": "PERSON",
+            "Text": "@Jenn_Abrams",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.4503374695777893,
+            "Type": "LOCATION",
+            "Text": "#Africa",
+            "BeginOffset": 17,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9998512268066406,
+            "Type": "OTHER",
+            "Text": "http://t.co/Ma32x9JYqu",
+            "BeginOffset": 59,
+            "EndOffset": 81
+        }
+    ]
+}

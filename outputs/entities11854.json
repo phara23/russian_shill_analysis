@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9186239242553711,
+            "Type": "PERSON",
+            "Text": "@Judianna",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.670417308807373,
+            "Type": "ORGANIZATION",
+            "Text": "@FDRLST",
+            "BeginOffset": 59,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9608494639396667,
+            "Type": "OTHER",
+            "Text": "https://t.co/3fk",
+            "BeginOffset": 123,
+            "EndOffset": 139
+        }
+    ]
+}

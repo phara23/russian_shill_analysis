@@ -1,0 +1,22 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9912893176078796,
+            "Text": "Donald Trump",
+            "BeginOffset": 0,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9988994598388672,
+            "Text": "Mexico",
+            "BeginOffset": 26,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.7034445405006409,
+            "Text": "president",
+            "BeginOffset": 35,
+            "EndOffset": 44
+        }
+    ]
+}

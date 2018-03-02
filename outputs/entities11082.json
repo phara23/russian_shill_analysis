@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8881963491439819,
+            "Type": "PERSON",
+            "Text": "@HellgrenWJZ",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9137876033782959,
+            "Type": "ORGANIZATION",
+            "Text": "Baltimore City Detention Center",
+            "BeginOffset": 87,
+            "EndOffset": 118
+        },
+        {
+            "Score": 0.7696759700775146,
+            "Type": "PERSON",
+            "Text": "@cbsbaltimore",
+            "BeginOffset": 119,
+            "EndOffset": 132
+        },
+        {
+            "Score": 0.8362341523170471,
+            "Type": "OTHER",
+            "Text": "http:/…",
+            "BeginOffset": 133,
+            "EndOffset": 140
+        }
+    ]
+}

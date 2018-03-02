@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9230729341506958,
+            "Type": "PERSON",
+            "Text": "@RealAlexJones",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6853439807891846,
+            "Type": "PERSON",
+            "Text": "Napolitano",
+            "BeginOffset": 19,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.43204885721206665,
+            "Type": "PERSON",
+            "Text": "Gorsuch",
+            "BeginOffset": 31,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.5996938347816467,
+            "Type": "PERSON",
+            "Text": "Scalia",
+            "BeginOffset": 62,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9672828912734985,
+            "Type": "OTHER",
+            "Text": "https://t.co/neZG6I5F1h",
+            "BeginOffset": 71,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.6446830034255981,
+            "Type": "ORGANIZATION",
+            "Text": "#SupremeCourt",
+            "BeginOffset": 95,
+            "EndOffset": 108
+        }
+    ]
+}

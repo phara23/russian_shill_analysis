@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8837236166000366,
+            "Type": "PERSON",
+            "Text": "@Boudicabpi",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9942532181739807,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 16,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.873039960861206,
+            "Type": "OTHER",
+            "Text": "https://t.co/IzpPx3HzQb",
+            "BeginOffset": 67,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9999934434890747,
+            "Type": "OTHER",
+            "Text": "https://t.co/8nAm7ps2pN",
+            "BeginOffset": 91,
+            "EndOffset": 114
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9725419282913208,
+            "Type": "DATE",
+            "Text": "Saturday",
+            "BeginOffset": 4,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8657880425453186,
+            "Type": "LOCATION",
+            "Text": "Florida",
+            "BeginOffset": 19,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9979693293571472,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 32,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9997077584266663,
+            "Type": "OTHER",
+            "Text": "https://t.co/vNapOWucy5",
+            "BeginOffset": 95,
+            "EndOffset": 118
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9806169271469116,
+            "Text": "Obama",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9914819598197937,
+            "Text": "a memo",
+            "BeginOffset": 14,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.9912903904914856,
+            "Text": "a racist",
+            "BeginOffset": 31,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9988382458686829,
+            "Text": "People",
+            "BeginOffset": 43,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9966654181480408,
+            "Text": "homes",
+            "BeginOffset": 55,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9355533123016357,
+            "Text": "his liberal agenda",
+            "BeginOffset": 81,
+            "EndOffset": 99
+        }
+    ]
+}

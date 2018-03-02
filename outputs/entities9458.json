@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9591274857521057,
+            "Type": "PERSON",
+            "Text": "@jakkoerner",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.614691972732544,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 129,
+            "EndOffset": 138
+        }
+    ]
+}

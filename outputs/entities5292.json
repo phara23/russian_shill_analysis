@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7717088460922241,
+            "Type": "PERSON",
+            "Text": "@ggeett37",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.387002557516098,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 17,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.891163170337677,
+            "Type": "PERSON",
+            "Text": "@sdv92",
+            "BeginOffset": 20,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.7227555513381958,
+            "Type": "DATE",
+            "Text": "1776",
+            "BeginOffset": 88,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.9998998641967773,
+            "Type": "OTHER",
+            "Text": "https://t.co/9MMOXD8HIU",
+            "BeginOffset": 112,
+            "EndOffset": 135
+        }
+    ]
+}

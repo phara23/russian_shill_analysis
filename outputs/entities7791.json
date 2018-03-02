@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9428345561027527,
+            "Type": "PERSON",
+            "Text": "@michaelkeyes",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7002009749412537,
+            "Type": "ORGANIZATION",
+            "Text": "#democrats",
+            "BeginOffset": 65,
+            "EndOffset": 75
+        }
+    ]
+}

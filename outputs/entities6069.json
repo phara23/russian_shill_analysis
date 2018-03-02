@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9331929087638855,
+            "Type": "QUANTITY",
+            "Text": "10 presidents",
+            "BeginOffset": 41,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.8311181664466858,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 62,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9999785423278809,
+            "Type": "OTHER",
+            "Text": "https://t.co/P6uRLSfTD5",
+            "BeginOffset": 65,
+            "EndOffset": 88
+        }
+    ]
+}

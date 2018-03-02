@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7311812043190002,
+            "Type": "PERSON",
+            "Text": "@idesignwis",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9277557134628296,
+            "Type": "PERSON",
+            "Text": "@SykesCharlie",
+            "BeginOffset": 16,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9918457865715027,
+            "Type": "PERSON",
+            "Text": "@ShannonSanford9",
+            "BeginOffset": 30,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.7644504308700562,
+            "Type": "PERSON",
+            "Text": "@ABCPolitics \n\nF",
+            "BeginOffset": 47,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9947078227996826,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 121,
+            "EndOffset": 126
+        }
+    ]
+}

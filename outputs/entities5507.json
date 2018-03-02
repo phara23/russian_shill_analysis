@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9676710963249207,
+            "Type": "PERSON",
+            "Text": "@jomo32284",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9953328967094421,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 15,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.8825063705444336,
+            "Type": "LOCATION",
+            "Text": "Taiwan",
+            "BeginOffset": 38,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9955564141273499,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 55,
+            "EndOffset": 60
+        }
+    ]
+}

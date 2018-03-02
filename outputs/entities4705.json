@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8693164587020874,
+            "Type": "ORGANIZATION",
+            "Text": "@RT_com",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.8428690433502197,
+            "Type": "PERSON",
+            "Text": "#Trump",
+            "BeginOffset": 12,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.4787313938140869,
+            "Type": "PERSON",
+            "Text": "#Assange",
+            "BeginOffset": 47,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9976850152015686,
+            "Type": "PERSON",
+            "Text": "John Pilger",
+            "BeginOffset": 59,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9285560846328735,
+            "Type": "OTHER",
+            "Text": "https://t.co/qmZHXeOCoQ",
+            "BeginOffset": 87,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.9999862909317017,
+            "Type": "OTHER",
+            "Text": "https://t.co/UYxt1RKemm",
+            "BeginOffset": 111,
+            "EndOffset": 134
+        }
+    ]
+}

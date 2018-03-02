@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9211239814758301,
+            "Type": "PERSON",
+            "Text": "@JGFiegel",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9988022446632385,
+            "Type": "PERSON",
+            "Text": "Bryce Petty",
+            "BeginOffset": 14,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9999220967292786,
+            "Type": "PERSON",
+            "Text": "Jaelen Strong",
+            "BeginOffset": 27,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9999189972877502,
+            "Type": "PERSON",
+            "Text": "Clive Walford",
+            "BeginOffset": 42,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9999265670776367,
+            "Type": "PERSON",
+            "Text": "Garrett Grayson",
+            "BeginOffset": 57,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.9998867511749268,
+            "Type": "PERSON",
+            "Text": "Sammie Coats",
+            "BeginOffset": 74,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9993526935577393,
+            "Type": "PERSON",
+            "Text": "Carl Davis",
+            "BeginOffset": 88,
+            "EndOffset": 98
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9803928732872009,
+            "Type": "PERSON",
+            "Text": "@slava381977",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9678146839141846,
+            "Type": "PERSON",
+            "Text": "Huma Abedin",
+            "BeginOffset": 47,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9974634647369385,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 65,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.93235182762146,
+            "Type": "PERSON",
+            "Text": "Assange",
+            "BeginOffset": 81,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.4529283046722412,
+            "Type": "PERSON",
+            "Text": "#Trump",
+            "BeginOffset": 99,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.9877274036407471,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 105,
+            "EndOffset": 109
+        },
+        {
+            "Score": 0.5931226015090942,
+            "Type": "QUANTITY",
+            "Text": "#2",
+            "BeginOffset": 110,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.956227719783783,
+            "Type": "OTHER",
+            "Text": "https://t.co/Qlj4ru6AH0",
+            "BeginOffset": 114,
+            "EndOffset": 137
+        }
+    ]
+}

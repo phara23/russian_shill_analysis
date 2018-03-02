@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6146009564399719,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.7299554347991943,
+            "Type": "PERSON",
+            "Text": "@IrishHarmon1",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9989421963691711,
+            "Type": "OTHER",
+            "Text": "https://t.co/BFIWLrvOIj",
+            "BeginOffset": 94,
+            "EndOffset": 117
+        }
+    ]
+}

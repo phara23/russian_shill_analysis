@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6643413305282593,
+            "Type": "PERSON",
+            "Text": "@catpiasente",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7579769492149353,
+            "Type": "PERSON",
+            "Text": "@Bipartisanism",
+            "BeginOffset": 17,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.4451676309108734,
+            "Type": "QUANTITY",
+            "Text": "4",
+            "BeginOffset": 64,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.932866632938385,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton 2",
+            "BeginOffset": 66,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.6062026619911194,
+            "Type": "QUANTITY",
+            "Text": "4",
+            "BeginOffset": 97,
+            "EndOffset": 98
+        }
+    ]
+}

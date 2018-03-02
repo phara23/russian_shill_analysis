@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4443191587924957,
+            "Type": "OTHER",
+            "Text": "1063",
+            "BeginOffset": 4,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.4963840842247009,
+            "Type": "LOCATION",
+            "Text": "atl",
+            "BeginOffset": 8,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.5926192402839661,
+            "Type": "ORGANIZATION",
+            "Text": "Coca Vango",
+            "BeginOffset": 26,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.999985933303833,
+            "Type": "OTHER",
+            "Text": "https://t.co/eMX9JgTv3v",
+            "BeginOffset": 65,
+            "EndOffset": 88
+        }
+    ]
+}

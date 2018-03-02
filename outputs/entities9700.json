@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8445313572883606,
+            "Type": "PERSON",
+            "Text": "@guardian",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9862731099128723,
+            "Type": "PERSON",
+            "Text": "Usain Bolt",
+            "BeginOffset": 14,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.8023668527603149,
+            "Type": "EVENT",
+            "Text": "Diamond League",
+            "BeginOffset": 40,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9739900231361389,
+            "Type": "OTHER",
+            "Text": "http://t.co/GB8wlWU6as",
+            "BeginOffset": 80,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.8486414551734924,
+            "Type": "PERSON",
+            "Text": "@guardian_sport",
+            "BeginOffset": 107,
+            "EndOffset": 122
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7872247099876404,
+            "Type": "PERSON",
+            "Text": "@theglobaluniter",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9851099252700806,
+            "Type": "DATE",
+            "Text": "Today",
+            "BeginOffset": 37,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.520738422870636,
+            "Type": "PERSON",
+            "Text": "#ThankYou",
+            "BeginOffset": 89,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.8537015914916992,
+            "Type": "PERSON",
+            "Text": "@realDo",
+            "BeginOffset": 136,
+            "EndOffset": 143
+        }
+    ]
+}

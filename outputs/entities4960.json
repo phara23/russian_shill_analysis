@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9555665850639343,
+            "Type": "PERSON",
+            "Text": "@Ian56789",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9884823560714722,
+            "Type": "ORGANIZATION",
+            "Text": "BBC",
+            "BeginOffset": 21,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.4852914810180664,
+            "Type": "QUANTITY",
+            "Text": "3",
+            "BeginOffset": 49,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9263038039207458,
+            "Type": "OTHER",
+            "Text": "Russian",
+            "BeginOffset": 51,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9672974944114685,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 86,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.5832991600036621,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 124,
+            "EndOffset": 126
+        },
+        {
+            "Score": 0.6688170433044434,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 127,
+            "EndOffset": 136
+        }
+    ]
+}

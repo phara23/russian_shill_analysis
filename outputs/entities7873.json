@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9522247910499573,
+            "Type": "PERSON",
+            "Text": "@ObamaBash",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9351663589477539,
+            "Type": "PERSON",
+            "Text": "Issa",
+            "BeginOffset": 15,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9033517241477966,
+            "Type": "PERSON",
+            "Text": "Boehner",
+            "BeginOffset": 45,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9998862743377686,
+            "Type": "OTHER",
+            "Text": "https://t.co/1jPSyS5Lka",
+            "BeginOffset": 95,
+            "EndOffset": 118
+        }
+    ]
+}

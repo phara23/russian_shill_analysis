@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.48105067014694214,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.9507494568824768,
+            "Type": "PERSON",
+            "Text": "@John_Scotus",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9876798391342163,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 53,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9999710321426392,
+            "Type": "OTHER",
+            "Text": "https://t.co/xK4wgNjJQm",
+            "BeginOffset": 92,
+            "EndOffset": 115
+        }
+    ]
+}

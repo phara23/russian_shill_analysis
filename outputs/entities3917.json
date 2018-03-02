@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9439482688903809,
+            "Type": "PERSON",
+            "Text": "@tinavandi",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.7129592895507812,
+            "Type": "QUANTITY",
+            "Text": "both",
+            "BeginOffset": 59,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.4143291711807251,
+            "Type": "PERSON",
+            "Text": "Prez",
+            "BeginOffset": 64,
+            "EndOffset": 68
+        }
+    ]
+}

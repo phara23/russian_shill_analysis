@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8676524758338928,
+            "Type": "PERSON",
+            "Text": "@ronstew",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9281584024429321,
+            "Type": "QUANTITY",
+            "Text": "more than 20%",
+            "BeginOffset": 38,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9330000281333923,
+            "Type": "OTHER",
+            "Text": "https://t.c",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

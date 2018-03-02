@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8013319373130798,
+            "Type": "PERSON",
+            "Text": "@riteprices",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.997657060623169,
+            "Type": "PERSON",
+            "Text": "Rick Perry",
+            "BeginOffset": 48,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9429101943969727,
+            "Type": "OTHER",
+            "Text": "https://t.co/he6bOqvt",
+            "BeginOffset": 118,
+            "EndOffset": 139
+        }
+    ]
+}

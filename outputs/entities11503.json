@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7858275175094604,
+            "Type": "PERSON",
+            "Text": "@UnPoliticalPrty",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.6503775715827942,
+            "Type": "ORGANIZATION",
+            "Text": "Russia",
+            "BeginOffset": 37,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.7121415734291077,
+            "Type": "ORGANIZATION",
+            "Text": "Democrat Party",
+            "BeginOffset": 55,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9297362565994263,
+            "Type": "DATE",
+            "Text": "60 years ago",
+            "BeginOffset": 72,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.4769950211048126,
+            "Type": "ORGANIZATION",
+            "Text": "#RussiaGate",
+            "BeginOffset": 86,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.7047359347343445,
+            "Type": "ORGANIZATION",
+            "Text": "#RussiaHack",
+            "BeginOffset": 98,
+            "EndOffset": 109
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8313493728637695,
+            "Type": "PERSON",
+            "Text": "@faznet",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.999854564666748,
+            "Type": "OTHER",
+            "Text": "https://t.co/x7SvRDqV9C",
+            "BeginOffset": 98,
+            "EndOffset": 121
+        }
+    ]
+}

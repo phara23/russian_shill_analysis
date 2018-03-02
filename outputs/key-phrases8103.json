@@ -1,0 +1,28 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9987241625785828,
+            "Text": "Clinton",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9849571585655212,
+            "Text": "financial advantage",
+            "BeginOffset": 13,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9460910558700562,
+            "Text": "Trump",
+            "BeginOffset": 38,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9039857387542725,
+            "Text": "polls",
+            "BeginOffset": 57,
+            "EndOffset": 62
+        }
+    ]
+}

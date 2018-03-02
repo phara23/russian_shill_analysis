@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9531717896461487,
+            "Type": "PERSON",
+            "Text": "@sadiehawke1108",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8219704627990723,
+            "Type": "LOCATION",
+            "Text": "U.S.",
+            "BeginOffset": 64,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9077749848365784,
+            "Type": "OTHER",
+            "Text": "http://t.co/QeaOcSzPuN",
+            "BeginOffset": 89,
+            "EndOffset": 111
+        },
+        {
+            "Score": 0.5864410400390625,
+            "Type": "OTHER",
+            "Text": "http://t",
+            "BeginOffset": 130,
+            "EndOffset": 138
+        }
+    ]
+}

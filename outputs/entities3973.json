@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9269604086875916,
+            "Type": "PERSON",
+            "Text": "@GaetaSusan",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.39242982864379883,
+            "Type": "ORGANIZATION",
+            "Text": "DIA",
+            "BeginOffset": 16,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9813065528869629,
+            "Type": "ORGANIZATION",
+            "Text": "ISIS",
+            "BeginOffset": 28,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9387284517288208,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 68,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.9847899079322815,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 80,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.953220009803772,
+            "Type": "OTHER",
+            "Text": "http://t.co/TTKDY7q9PX",
+            "BeginOffset": 114,
+            "EndOffset": 136
+        },
+        {
+            "Score": 0.9759263396263123,
+            "Type": "OTHER",
+            "Text": "http://t.c",
+            "BeginOffset": 137,
+            "EndOffset": 147
+        }
+    ]
+}

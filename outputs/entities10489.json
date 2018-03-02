@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8929567337036133,
+            "Type": "PERSON",
+            "Text": "@NumbersMuncher",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.992569625377655,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 54,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.8923429250717163,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 72,
+            "EndOffset": 75
+        }
+    ]
+}

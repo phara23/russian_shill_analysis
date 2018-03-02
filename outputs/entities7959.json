@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9842150807380676,
+            "Type": "TITLE",
+            "Text": "Bible",
+            "BeginOffset": 4,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.2280678004026413,
+            "Type": "PERSON",
+            "Text": "#GayMarriage",
+            "BeginOffset": 26,
+            "EndOffset": 38
+        }
+    ]
+}

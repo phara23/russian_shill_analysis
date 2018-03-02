@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.850804328918457,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9999614357948303,
+            "Type": "PERSON",
+            "Text": "Michelle Rhee",
+            "BeginOffset": 21,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9989840388298035,
+            "Type": "PERSON",
+            "Text": "Kevin Johnson",
+            "BeginOffset": 39,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9988124370574951,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 66,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.9679225087165833,
+            "Type": "OTHER",
+            "Text": "https://t.co/nhV01WDh5D",
+            "BeginOffset": 80,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.7355665564537048,
+            "Type": "PERSON",
+            "Text": "@BlackVoiceNews",
+            "BeginOffset": 104,
+            "EndOffset": 119
+        },
+        {
+            "Score": 0.9514282941818237,
+            "Type": "OTHER",
+            "Text": "https://t.co/K9xkdk",
+            "BeginOffset": 120,
+            "EndOffset": 139
+        }
+    ]
+}

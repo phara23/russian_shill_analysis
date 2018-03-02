@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9611114263534546,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8741002082824707,
+            "Type": "DATE",
+            "Text": "Last nights",
+            "BeginOffset": 21,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.985700249671936,
+            "Type": "ORGANIZATION",
+            "Text": "NBC",
+            "BeginOffset": 60,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.999745786190033,
+            "Type": "OTHER",
+            "Text": "https://t.co/sCOnny1fl3",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9874053001403809,
+            "Type": "QUANTITY",
+            "Text": "9 people",
+            "BeginOffset": 0,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.9967857599258423,
+            "Type": "LOCATION",
+            "Text": "South Carolina",
+            "BeginOffset": 24,
+            "EndOffset": 38
+        }
+    ]
+}

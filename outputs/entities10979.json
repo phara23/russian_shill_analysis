@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9310681819915771,
+            "Type": "PERSON",
+            "Text": "@Old_Bern_Kenobi",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.6106278896331787,
+            "Type": "PERSON",
+            "Text": "Bill",
+            "BeginOffset": 21,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.59589022397995,
+            "Type": "PERSON",
+            "Text": "#Hillary",
+            "BeginOffset": 33,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9169046878814697,
+            "Type": "OTHER",
+            "Text": "https://t.co/H7O7bM9flJ",
+            "BeginOffset": 114,
+            "EndOffset": 137
+        }
+    ]
+}

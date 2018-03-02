@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8968779444694519,
+            "Type": "PERSON",
+            "Text": "@PrisonPlanet",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9788145422935486,
+            "Type": "QUANTITY",
+            "Text": "90-year-old",
+            "BeginOffset": 55,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9112744927406311,
+            "Type": "OTHER",
+            "Text": "German",
+            "BeginOffset": 67,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.9999514818191528,
+            "Type": "OTHER",
+            "Text": "https://t.co/QSuD1DtgZy",
+            "BeginOffset": 109,
+            "EndOffset": 132
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7919950485229492,
+            "Type": "PERSON",
+            "Text": "@SourlemonStr220",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.6478356122970581,
+            "Type": "ORGANIZATION",
+            "Text": "NBD",
+            "BeginOffset": 21,
+            "EndOffset": 24
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8144849538803101,
+            "Type": "PERSON",
+            "Text": "@CSteven",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9890283346176147,
+            "Type": "DATE",
+            "Text": "November 8th",
+            "BeginOffset": 54,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9605756402015686,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 70,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.8479802012443542,
+            "Type": "PERSON",
+            "Text": "@KLSouth",
+            "BeginOffset": 107,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.9678536057472229,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 122,
+            "EndOffset": 126
+        }
+    ]
+}

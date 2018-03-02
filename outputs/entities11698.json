@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4884958565235138,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.9504643082618713,
+            "Type": "PERSON",
+            "Text": "@Laus_Deo4",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9999902248382568,
+            "Type": "OTHER",
+            "Text": "https://t.co/DcBx7IqnG4",
+            "BeginOffset": 19,
+            "EndOffset": 42
+        }
+    ]
+}

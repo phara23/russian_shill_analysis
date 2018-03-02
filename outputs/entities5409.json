@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8983170986175537,
+            "Type": "PERSON",
+            "Text": "@latinaafortrump",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9968482255935669,
+            "Type": "PERSON",
+            "Text": "Donald J. Trump",
+            "BeginOffset": 21,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.819147527217865,
+            "Type": "DATE",
+            "Text": "tonight",
+            "BeginOffset": 48,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9999794960021973,
+            "Type": "OTHER",
+            "Text": "https://t.co/QRRYKXM7QI",
+            "BeginOffset": 111,
+            "EndOffset": 134
+        }
+    ]
+}

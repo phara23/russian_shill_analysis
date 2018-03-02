@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.949527382850647,
+            "Type": "PERSON",
+            "Text": "@DiamondandSilk",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9140815138816833,
+            "Type": "PERSON",
+            "Text": "@JoyVBehar",
+            "BeginOffset": 26,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.895258367061615,
+            "Type": "PERSON",
+            "Text": "@TheView",
+            "BeginOffset": 37,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.4278584122657776,
+            "Type": "QUANTITY",
+            "Text": "2",
+            "BeginOffset": 73,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.995421826839447,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 98,
+            "EndOffset": 103
+        }
+    ]
+}

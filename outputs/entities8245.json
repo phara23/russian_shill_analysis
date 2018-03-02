@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.830847442150116,
+            "Type": "PERSON",
+            "Text": "@AnnoGalactic",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.671479344367981,
+            "Type": "QUANTITY",
+            "Text": "15YearOldMe",
+            "BeginOffset": 34,
+            "EndOffset": 45
+        }
+    ]
+}

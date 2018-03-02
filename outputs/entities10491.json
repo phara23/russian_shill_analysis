@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9416227340698242,
+            "Type": "PERSON",
+            "Text": "@grampa194235",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7929991483688354,
+            "Type": "PERSON",
+            "Text": "TRUMP",
+            "BeginOffset": 85,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9999188184738159,
+            "Type": "OTHER",
+            "Text": "https://t.co/COmOXPEigh",
+            "BeginOffset": 98,
+            "EndOffset": 121
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9961813688278198,
+            "Text": "Giuliani",
+            "BeginOffset": 0,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.9994750618934631,
+            "Text": "Trump",
+            "BeginOffset": 14,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9500870108604431,
+            "Text": "the US ‘",
+            "BeginOffset": 34,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.8927108645439148,
+            "Text": "a woman",
+            "BeginOffset": 47,
+            "EndOffset": 54
+        }
+    ]
+}

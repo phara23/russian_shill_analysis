@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7552921175956726,
+            "Type": "PERSON",
+            "Text": "@coast2coastfm",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8653883934020996,
+            "Type": "PERSON",
+            "Text": "@ereignesm",
+            "BeginOffset": 23,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.6113695502281189,
+            "Type": "ORGANIZATION",
+            "Text": "@Coast2",
+            "BeginOffset": 50,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9035194516181946,
+            "Type": "OTHER",
+            "Text": "https://t.co/3TabZeBygx",
+            "BeginOffset": 79,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.6269096732139587,
+            "Type": "ORGANIZATION",
+            "Text": "#Coast2Coast",
+            "BeginOffset": 103,
+            "EndOffset": 115
+        }
+    ]
+}

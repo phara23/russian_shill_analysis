@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9960546493530273,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9370632767677307,
+            "Type": "EVENT",
+            "Text": "WW3",
+            "BeginOffset": 34,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9652262926101685,
+            "Type": "PERSON",
+            "Text": "TRUMP",
+            "BeginOffset": 54,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.9993715882301331,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 83,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.2770377993583679,
+            "Type": "TITLE",
+            "Text": "Prison",
+            "BeginOffset": 99,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.7337972521781921,
+            "Type": "QUANTITY",
+            "Text": "2k16",
+            "BeginOffset": 113,
+            "EndOffset": 117
+        }
+    ]
+}

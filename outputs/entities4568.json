@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9990161061286926,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 0,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9777414798736572,
+            "Type": "QUANTITY",
+            "Text": "2 minutes",
+            "BeginOffset": 31,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9342106580734253,
+            "Type": "OTHER",
+            "Text": "https://t.co/otTBMhJelX",
+            "BeginOffset": 46,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.999988317489624,
+            "Type": "OTHER",
+            "Text": "https://t.co/Hraw34CXyy",
+            "BeginOffset": 70,
+            "EndOffset": 93
+        }
+    ]
+}

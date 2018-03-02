@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8786510825157166,
+            "Type": "PERSON",
+            "Text": "@Dbargen",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9597122073173523,
+            "Type": "PERSON",
+            "Text": "@MiguelCordova63",
+            "BeginOffset": 32,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9616689085960388,
+            "Type": "OTHER",
+            "Text": "https://t.co/khb",
+            "BeginOffset": 123,
+            "EndOffset": 139
+        }
+    ]
+}

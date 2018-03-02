@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8433506488800049,
+            "Type": "ORGANIZATION",
+            "Text": "@SFR_UMD",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.6736764907836914,
+            "Type": "PERSON",
+            "Text": "@RandPaul",
+            "BeginOffset": 13,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9998277425765991,
+            "Type": "OTHER",
+            "Text": "https://t.co/UMizfq4s2v",
+            "BeginOffset": 38,
+            "EndOffset": 61
+        }
+    ]
+}

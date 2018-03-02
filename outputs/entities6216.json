@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9649055600166321,
+            "Type": "LOCATION",
+            "Text": "Chicago",
+            "BeginOffset": 0,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.9998124241828918,
+            "Type": "OTHER",
+            "Text": "https://t.co/FDwGzyTp8K",
+            "BeginOffset": 31,
+            "EndOffset": 54
+        }
+    ]
+}

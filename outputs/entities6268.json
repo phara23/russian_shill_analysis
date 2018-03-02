@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7041006088256836,
+            "Type": "PERSON",
+            "Text": "@tweetsthecreeps",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9999608993530273,
+            "Type": "OTHER",
+            "Text": "https://t.co/GTv6kE9W3w",
+            "BeginOffset": 60,
+            "EndOffset": 83
+        }
+    ]
+}

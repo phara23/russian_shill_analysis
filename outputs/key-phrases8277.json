@@ -1,0 +1,28 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9672679305076599,
+            "Text": "Trump",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9959935545921326,
+            "Text": "speech",
+            "BeginOffset": 9,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9965180158615112,
+            "Text": "immigration",
+            "BeginOffset": 19,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.8351057171821594,
+            "Text": "Greatest compassion",
+            "BeginOffset": 33,
+            "EndOffset": 52
+        }
+    ]
+}

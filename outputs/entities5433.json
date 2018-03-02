@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9686110615730286,
+            "Type": "PERSON",
+            "Text": "Hillary Said",
+            "BeginOffset": 12,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9749774932861328,
+            "Type": "QUANTITY",
+            "Text": "90%",
+            "BeginOffset": 25,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.7342866063117981,
+            "Type": "ORGANIZATION",
+            "Text": "Clinton Foundation",
+            "BeginOffset": 32,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.989008903503418,
+            "Type": "QUANTITY",
+            "Text": "5.7%",
+            "BeginOffset": 92,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.7774417400360107,
+            "Type": "QUANTITY",
+            "Text": "14",
+            "BeginOffset": 112,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.9992907047271729,
+            "Type": "OTHER",
+            "Text": "https://t.co/MekXLd8Yju",
+            "BeginOffset": 115,
+            "EndOffset": 138
+        }
+    ]
+}

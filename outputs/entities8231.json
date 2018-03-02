@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7802838087081909,
+            "Type": "PERSON",
+            "Text": "@NatGeo",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9998458623886108,
+            "Type": "OTHER",
+            "Text": "https://t.co/OijPrbxpLv",
+            "BeginOffset": 70,
+            "EndOffset": 93
+        }
+    ]
+}

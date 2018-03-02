@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9067251682281494,
+            "Type": "LOCATION",
+            "Text": "New York City",
+            "BeginOffset": 0,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9997581839561462,
+            "Type": "PERSON",
+            "Text": "Bill de Blasio",
+            "BeginOffset": 20,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.6256263256072998,
+            "Type": "LOCATION",
+            "Text": "Chelsea",
+            "BeginOffset": 53,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9999819993972778,
+            "Type": "OTHER",
+            "Text": "https://t.co/px8p3pCXi5",
+            "BeginOffset": 99,
+            "EndOffset": 122
+        }
+    ]
+}

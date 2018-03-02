@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5088922381401062,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.6653528213500977,
+            "Type": "ORGANIZATION",
+            "Text": "@NYC_",
+            "BeginOffset": 3,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.999225914478302,
+            "Type": "PERSON",
+            "Text": "David Letterman",
+            "BeginOffset": 18,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9688549041748047,
+            "Type": "TITLE",
+            "Text": "Late Show",
+            "BeginOffset": 42,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.42206844687461853,
+            "Type": "PERSON",
+            "Text": "#showbiz",
+            "BeginOffset": 62,
+            "EndOffset": 70
+        }
+    ]
+}

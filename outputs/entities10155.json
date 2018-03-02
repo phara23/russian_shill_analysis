@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8165198564529419,
+            "Type": "PERSON",
+            "Text": "@em2wice",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.6601396799087524,
+            "Type": "TITLE",
+            "Text": "#turnyaear2",
+            "BeginOffset": 13,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.926826000213623,
+            "Type": "PERSON",
+            "Text": "@scottbocakai",
+            "BeginOffset": 42,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9889013767242432,
+            "Type": "OTHER",
+            "Text": "https://t.co/4JYjTCmSoW",
+            "BeginOffset": 56,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.952996551990509,
+            "Type": "ORGANIZATION",
+            "Text": "#SoundCloud",
+            "BeginOffset": 83,
+            "EndOffset": 94
+        }
+    ]
+}

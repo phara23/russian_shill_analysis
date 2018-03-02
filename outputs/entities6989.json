@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8086087703704834,
+            "Type": "PERSON",
+            "Text": "@PhoenixNewsAZ",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6935660243034363,
+            "Type": "PERSON",
+            "Text": "Snow",
+            "BeginOffset": 19,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.7517213225364685,
+            "Type": "ORGANIZATION",
+            "Text": "ASU",
+            "BeginOffset": 50,
+            "EndOffset": 53
+        }
+    ]
+}

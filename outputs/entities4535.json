@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7491793036460876,
+            "Type": "PERSON",
+            "Text": "@Info24",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.7314441800117493,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 10,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9999774694442749,
+            "Type": "OTHER",
+            "Text": "http://t.co/5p5rnLt68P",
+            "BeginOffset": 72,
+            "EndOffset": 94
+        }
+    ]
+}

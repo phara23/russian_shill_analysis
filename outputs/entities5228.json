@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8948052525520325,
+            "Type": "PERSON",
+            "Text": "@hrkbenowen",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9908720850944519,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 37,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.99992835521698,
+            "Type": "OTHER",
+            "Text": "https://t.co/rJMRASUgR3",
+            "BeginOffset": 76,
+            "EndOffset": 99
+        }
+    ]
+}

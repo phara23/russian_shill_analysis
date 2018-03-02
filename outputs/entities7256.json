@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9976001381874084,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 17,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.8465784192085266,
+            "Type": "QUANTITY",
+            "Text": "0,000000+",
+            "BeginOffset": 39,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.5550709366798401,
+            "Type": "ORGANIZATION",
+            "Text": "Islamic Law",
+            "BeginOffset": 88,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.9999532699584961,
+            "Type": "OTHER",
+            "Text": "https://t.co/ikfaOP9za4",
+            "BeginOffset": 101,
+            "EndOffset": 124
+        }
+    ]
+}

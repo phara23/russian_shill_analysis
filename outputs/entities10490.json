@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.82912278175354,
+            "Type": "PERSON",
+            "Text": "@conscious_news",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9970134496688843,
+            "Type": "DATE",
+            "Text": "2017",
+            "BeginOffset": 65,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.860715925693512,
+            "Type": "OTHER",
+            "Text": "https://t.co/FjqRPi4jNF",
+            "BeginOffset": 91,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.9999876022338867,
+            "Type": "OTHER",
+            "Text": "https://t.co/wWIqg7M9Yv",
+            "BeginOffset": 115,
+            "EndOffset": 138
+        }
+    ]
+}

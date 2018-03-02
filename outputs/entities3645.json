@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9837085604667664,
+            "Type": "PERSON",
+            "Text": "Sheriff Clarke",
+            "BeginOffset": 8,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.7053968906402588,
+            "Type": "PERSON",
+            "Text": "Jeanine",
+            "BeginOffset": 33,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9566356539726257,
+            "Type": "OTHER",
+            "Text": "https://t.co/b06RikYpj2",
+            "BeginOffset": 82,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.9998810291290283,
+            "Type": "OTHER",
+            "Text": "https://t.co/hvgV7EYTUl",
+            "BeginOffset": 106,
+            "EndOffset": 129
+        }
+    ]
+}

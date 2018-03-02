@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9988502264022827,
+            "Type": "PERSON",
+            "Text": "Tim Kaine",
+            "BeginOffset": 0,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9994638562202454,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 19,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.8811915516853333,
+            "Type": "LOCATION",
+            "Text": "Tucson, Phoenix",
+            "BeginOffset": 49,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9827951788902283,
+            "Type": "DATE",
+            "Text": "Thursday",
+            "BeginOffset": 68,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.9493741393089294,
+            "Type": "OTHER",
+            "Text": "https://t.co/Mthwm2wYSs",
+            "BeginOffset": 77,
+            "EndOffset": 100
+        }
+    ]
+}

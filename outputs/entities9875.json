@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8906742334365845,
+            "Type": "PERSON",
+            "Text": "@JunkyWithAMonkE",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.6444271206855774,
+            "Type": "DATE",
+            "Text": "#2016",
+            "BeginOffset": 21,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9439321756362915,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 43,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9999773502349854,
+            "Type": "OTHER",
+            "Text": "https://t.co/8zS8R9SRMN",
+            "BeginOffset": 65,
+            "EndOffset": 88
+        }
+    ]
+}

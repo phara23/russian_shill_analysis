@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8320392370223999,
+            "Type": "PERSON",
+            "Text": "@WAARadio",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8472332954406738,
+            "Type": "PERSON",
+            "Text": "George Michael",
+            "BeginOffset": 14,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.6043174266815186,
+            "Type": "QUANTITY",
+            "Text": "90",
+            "BeginOffset": 41,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9303578734397888,
+            "Type": "OTHER",
+            "Text": "https://t.co/uEzgWPXSEE",
+            "BeginOffset": 44,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.4719870090484619,
+            "Type": "ORGANIZATION",
+            "Text": "#WakeUpAmerica",
+            "BeginOffset": 68,
+            "EndOffset": 82
+        }
+    ]
+}

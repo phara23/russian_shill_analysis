@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.802562952041626,
+            "Type": "PERSON",
+            "Text": "@Fibers999",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.7709115743637085,
+            "Type": "QUANTITY",
+            "Text": "First law",
+            "BeginOffset": 15,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9892962574958801,
+            "Type": "PERSON",
+            "Text": "Ivanka",
+            "BeginOffset": 53,
+            "EndOffset": 59
+        }
+    ]
+}

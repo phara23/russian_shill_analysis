@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8841773867607117,
+            "Type": "PERSON",
+            "Text": "@SouthSeaGold",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9282665252685547,
+            "Type": "PERSON",
+            "Text": "Falwell",
+            "BeginOffset": 29,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.7776620984077454,
+            "Type": "ORGANIZATION",
+            "Text": "Dept of Ed",
+            "BeginOffset": 51,
+            "EndOffset": 61
+        }
+    ]
+}

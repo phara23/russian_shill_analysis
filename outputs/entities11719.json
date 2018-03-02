@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6761959791183472,
+            "Type": "PERSON",
+            "Text": "@_NickLuna",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.904373049736023,
+            "Type": "OTHER",
+            "Text": "https://t.co/nyl1Px6yRr",
+            "BeginOffset": 76,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.9999529123306274,
+            "Type": "OTHER",
+            "Text": "https://t.co/mIYjkdmSIB",
+            "BeginOffset": 100,
+            "EndOffset": 123
+        }
+    ]
+}

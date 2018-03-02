@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8383470177650452,
+            "Type": "PERSON",
+            "Text": "@theinquisitr",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8005660772323608,
+            "Type": "QUANTITY",
+            "Text": "Two-Year",
+            "BeginOffset": 34,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9998871088027954,
+            "Type": "OTHER",
+            "Text": "https://t.co/eBBeRpb7hj",
+            "BeginOffset": 95,
+            "EndOffset": 118
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8879646062850952,
+            "Type": "PERSON",
+            "Text": "@izzysroses",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9887993931770325,
+            "Type": "PERSON",
+            "Text": "McCain",
+            "BeginOffset": 16,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.8420736193656921,
+            "Type": "ORGANIZATION",
+            "Text": "@VP",
+            "BeginOffset": 131,
+            "EndOffset": 134
+        },
+        {
+            "Score": 0.8331310749053955,
+            "Type": "PERSON",
+            "Text": "@rea",
+            "BeginOffset": 135,
+            "EndOffset": 139
+        }
+    ]
+}

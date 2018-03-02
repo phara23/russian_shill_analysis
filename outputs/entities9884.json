@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8604167103767395,
+            "Type": "PERSON",
+            "Text": "@glennyork",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.7839306592941284,
+            "Type": "PERSON",
+            "Text": "@GeneMcVay",
+            "BeginOffset": 15,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9864409565925598,
+            "Type": "ORGANIZATION",
+            "Text": "ISIS",
+            "BeginOffset": 47,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9923412799835205,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 62,
+            "EndOffset": 67
+        }
+    ]
+}

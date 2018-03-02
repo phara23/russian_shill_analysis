@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.816561222076416,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9588778614997864,
+            "Type": "PERSON",
+            "Text": "Colonel Abrams",
+            "BeginOffset": 26,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.7104280591011047,
+            "Type": "DATE",
+            "Text": "80s",
+            "BeginOffset": 42,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.6768872737884521,
+            "Type": "QUANTITY",
+            "Text": "67",
+            "BeginOffset": 94,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.9239914417266846,
+            "Type": "OTHER",
+            "Text": "https://t.co/ha7Sov17Wd",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.6716731190681458,
+            "Type": "PERSON",
+            "Text": "@EurWeb",
+            "BeginOffset": 121,
+            "EndOffset": 128
+        }
+    ]
+}

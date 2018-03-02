@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8974112272262573,
+            "Type": "PERSON",
+            "Text": "@zerohedge",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9851306080818176,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 15,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.5816989541053772,
+            "Type": "ORGANIZATION",
+            "Text": "Goldman",
+            "BeginOffset": 34,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9999616146087646,
+            "Type": "OTHER",
+            "Text": "https://t.co/a9PPC7Ows2",
+            "BeginOffset": 100,
+            "EndOffset": 123
+        }
+    ]
+}

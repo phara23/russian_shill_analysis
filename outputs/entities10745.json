@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8682397603988647,
+            "Type": "PERSON",
+            "Text": "@mopsley",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9492959976196289,
+            "Type": "PERSON",
+            "Text": "Lieberman",
+            "BeginOffset": 13,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9302429556846619,
+            "Type": "PERSON",
+            "Text": "DeVos",
+            "BeginOffset": 36,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9842542409896851,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 90,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.9936527013778687,
+            "Type": "OTHER",
+            "Text": "https://t.co/7OxZ42GNEX",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        },
+        {
+            "Score": 0.9078369736671448,
+            "Type": "ORGANIZATION",
+            "Text": "@HuffPostPol",
+            "BeginOffset": 124,
+            "EndOffset": 136
+        }
+    ]
+}

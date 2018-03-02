@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9073912501335144,
+            "Type": "PERSON",
+            "Text": "@EdRingler",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8606071472167969,
+            "Type": "PERSON",
+            "Text": "@jimmyfallon",
+            "BeginOffset": 45,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.929671049118042,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 126,
+            "EndOffset": 131
+        }
+    ]
+}

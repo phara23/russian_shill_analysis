@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8363019227981567,
+            "Type": "PERSON",
+            "Text": "@warriors_mom",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9849075078964233,
+            "Type": "LOCATION",
+            "Text": "Aleppo",
+            "BeginOffset": 18,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9979429841041565,
+            "Type": "PERSON",
+            "Text": "Barack Obama",
+            "BeginOffset": 26,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9903066158294678,
+            "Type": "PERSON",
+            "Text": "Assad",
+            "BeginOffset": 96,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.7551693916320801,
+            "Type": "PERSON",
+            "Text": "@warriors_mom",
+            "BeginOffset": 118,
+            "EndOffset": 131
+        }
+    ]
+}

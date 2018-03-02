@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9536974430084229,
+            "Type": "PERSON",
+            "Text": "@MichaelROLeary",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7070810198783875,
+            "Type": "PERSON",
+            "Text": "Jedi",
+            "BeginOffset": 31,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.979047954082489,
+            "Type": "PERSON",
+            "Text": "Mikey",
+            "BeginOffset": 79,
+            "EndOffset": 84
+        }
+    ]
+}

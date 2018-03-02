@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5342186093330383,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.7942214012145996,
+            "Type": "PERSON",
+            "Text": "@Italians4Trump",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9509854316711426,
+            "Type": "PERSON",
+            "Text": "SECRETARY CLINTON",
+            "BeginOffset": 26,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.6803180575370789,
+            "Type": "LOCATION",
+            "Text": "U.S.",
+            "BeginOffset": 45,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.7728320360183716,
+            "Type": "QUANTITY",
+            "Text": "31,000 SOMALI MIGRANTS",
+            "BeginOffset": 72,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.9999532699584961,
+            "Type": "OTHER",
+            "Text": "https://t.co/yIAh68Hr3w",
+            "BeginOffset": 95,
+            "EndOffset": 118
+        }
+    ]
+}

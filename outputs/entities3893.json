@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8854275345802307,
+            "Type": "PERSON",
+            "Text": "Nixon",
+            "BeginOffset": 8,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.36071476340293884,
+            "Type": "PERSON",
+            "Text": "#AddAMovieRuinAMovie",
+            "BeginOffset": 14,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.919556736946106,
+            "Type": "PERSON",
+            "Text": "@midnight",
+            "BeginOffset": 35,
+            "EndOffset": 44
+        }
+    ]
+}

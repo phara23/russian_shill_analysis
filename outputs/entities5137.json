@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9577335715293884,
+            "Type": "PERSON",
+            "Text": "@Always_Trump",
+            "BeginOffset": 0,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9424572587013245,
+            "Type": "PERSON",
+            "Text": "@BikersForTrump",
+            "BeginOffset": 14,
+            "EndOffset": 29
+        }
+    ]
+}

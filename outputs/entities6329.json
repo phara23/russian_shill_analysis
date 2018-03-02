@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7752732634544373,
+            "Type": "PERSON",
+            "Text": "@tweetsintheME",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9116804003715515,
+            "Type": "LOCATION",
+            "Text": "Trump Tower",
+            "BeginOffset": 86,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.8106960654258728,
+            "Type": "LOCATION",
+            "Text": "Russia",
+            "BeginOffset": 101,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.9549256563186646,
+            "Type": "ORGANIZATION",
+            "Text": "Alfa Bank",
+            "BeginOffset": 110,
+            "EndOffset": 119
+        },
+        {
+            "Score": 0.976818859577179,
+            "Type": "OTHER",
+            "Text": "https://t.co/xzYUJ",
+            "BeginOffset": 121,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9497206211090088,
+            "Type": "PERSON",
+            "Text": "@ShawnMichaelR",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.5080971717834473,
+            "Type": "PERSON",
+            "Text": "CLINTON",
+            "BeginOffset": 46,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9908548593521118,
+            "Type": "OTHER",
+            "Text": "https://t.co/YbZLzI",
+            "BeginOffset": 120,
+            "EndOffset": 139
+        }
+    ]
+}

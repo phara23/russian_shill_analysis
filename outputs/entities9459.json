@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9065361022949219,
+            "Type": "PERSON",
+            "Text": "@garyrancid",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8689426183700562,
+            "Type": "QUANTITY",
+            "Text": "first",
+            "BeginOffset": 20,
+            "EndOffset": 25
+        }
+    ]
+}

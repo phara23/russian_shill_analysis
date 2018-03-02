@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8248065114021301,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8864222168922424,
+            "Type": "PERSON",
+            "Text": "@AfrikanEyes",
+            "BeginOffset": 14,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.7483983039855957,
+            "Type": "ORGANIZATION",
+            "Text": "Pew Survey",
+            "BeginOffset": 28,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.99997878074646,
+            "Type": "OTHER",
+            "Text": "https://t.co/PmBO4pHXWZ",
+            "BeginOffset": 76,
+            "EndOffset": 99
+        }
+    ]
+}

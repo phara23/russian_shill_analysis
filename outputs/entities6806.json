@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9617806077003479,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 17,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.9999746084213257,
+            "Type": "OTHER",
+            "Text": "https://t.co/8Qf5p8OrCg",
+            "BeginOffset": 39,
+            "EndOffset": 62
+        }
+    ]
+}

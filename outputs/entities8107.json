@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6891747713088989,
+            "Type": "ORGANIZATION",
+            "Text": "@wikileaks",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9942843914031982,
+            "Type": "PERSON",
+            "Text": "Bill Clinton",
+            "BeginOffset": 15,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.7606099843978882,
+            "Type": "ORGANIZATION",
+            "Text": "NEA",
+            "BeginOffset": 28,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9640455842018127,
+            "Type": "PERSON",
+            "Text": "Trum",
+            "BeginOffset": 130,
+            "EndOffset": 134
+        }
+    ]
+}

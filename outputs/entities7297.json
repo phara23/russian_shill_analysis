@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8724046945571899,
+            "Type": "PERSON",
+            "Text": "@CaliforniaPanda",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8914040327072144,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 45,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9789159893989563,
+            "Type": "DATE",
+            "Text": "2008",
+            "BeginOffset": 63,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.994650661945343,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 104,
+            "EndOffset": 109
+        }
+    ]
+}

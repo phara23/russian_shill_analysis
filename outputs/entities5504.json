@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8274081945419312,
+            "Type": "PERSON",
+            "Text": "@CooknCooks",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7942291498184204,
+            "Type": "TITLE",
+            "Text": "Oscar",
+            "BeginOffset": 29,
+            "EndOffset": 34
+        }
+    ]
+}

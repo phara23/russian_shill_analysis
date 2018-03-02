@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.896242082118988,
+            "Type": "PERSON",
+            "Text": "@lewrockwell",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.5881887078285217,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 17,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9774311184883118,
+            "Type": "QUANTITY",
+            "Text": "5 Million",
+            "BeginOffset": 31,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.8481316566467285,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 50,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9998830556869507,
+            "Type": "OTHER",
+            "Text": "https://t.co/GhSDLFv3Et",
+            "BeginOffset": 69,
+            "EndOffset": 92
+        }
+    ]
+}

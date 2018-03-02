@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9555178284645081,
+            "Type": "PERSON",
+            "Text": "@joelle_osias",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8726532459259033,
+            "Type": "PERSON",
+            "Text": "@Tw3etL0rd",
+            "BeginOffset": 18,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9409682154655457,
+            "Type": "PERSON",
+            "Text": "@Patriotic_Me",
+            "BeginOffset": 29,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9836928248405457,
+            "Type": "PERSON",
+            "Text": "@BetterCallTrump",
+            "BeginOffset": 43,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.9697932600975037,
+            "Type": "PERSON",
+            "Text": "@DebAlwaystrump",
+            "BeginOffset": 60,
+            "EndOffset": 75
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8402098417282104,
+            "Type": "PERSON",
+            "Text": "@thisisinsider",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.60869300365448,
+            "Type": "ORGANIZATION",
+            "Text": "SoCal",
+            "BeginOffset": 33,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9999487400054932,
+            "Type": "OTHER",
+            "Text": "https://t.co/jKM7PrGqgR",
+            "BeginOffset": 74,
+            "EndOffset": 97
+        }
+    ]
+}

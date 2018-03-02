@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8992806077003479,
+            "Type": "PERSON",
+            "Text": "@TrumpMyPres",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9780411124229431,
+            "Type": "DATE",
+            "Text": "2005",
+            "BeginOffset": 38,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9795276522636414,
+            "Type": "OTHER",
+            "Text": "https://t.co/udcyKyoGeY",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        },
+        {
+            "Score": 0.7595080137252808,
+            "Type": "ORGANIZATION",
+            "Text": "@Lrihe",
+            "BeginOffset": 133,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8142123222351074,
+            "Type": "PERSON",
+            "Text": "@BIZPACReview",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8980007767677307,
+            "Type": "PERSON",
+            "Text": "Tucker",
+            "BeginOffset": 81,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.9696701765060425,
+            "Type": "OTHER",
+            "Text": "https://t.co/8L1Gcow9OJ",
+            "BeginOffset": 110,
+            "EndOffset": 133
+        }
+    ]
+}

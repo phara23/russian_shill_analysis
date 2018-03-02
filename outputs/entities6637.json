@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9522873163223267,
+            "Type": "PERSON",
+            "Text": "@Darren32895836",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9967693090438843,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 43,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9963223338127136,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 94,
+            "EndOffset": 106
+        }
+    ]
+}

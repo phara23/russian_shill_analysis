@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.690315306186676,
+            "Type": "PERSON",
+            "Text": "@FaceTheNation",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9762717485427856,
+            "Type": "DATE",
+            "Text": "Tomorrow morning",
+            "BeginOffset": 19,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9921512007713318,
+            "Type": "ORGANIZATION",
+            "Text": "House Intelligence Committee",
+            "BeginOffset": 84,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.8044313788414001,
+            "Type": "ORGANIZATION",
+            "Text": "South Carolina Congre",
+            "BeginOffset": 118,
+            "EndOffset": 139
+        }
+    ]
+}

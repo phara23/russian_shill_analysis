@@ -1,0 +1,67 @@
+{
+    "Entities": [
+        {
+            "Score": 0.92757648229599,
+            "Type": "PERSON",
+            "Text": "@DaystoTrump",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9977587461471558,
+            "Type": "PERSON",
+            "Text": "Cynthia Stroum",
+            "BeginOffset": 17,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.955725371837616,
+            "Type": "QUANTITY",
+            "Text": "48M",
+            "BeginOffset": 38,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.6118214726448059,
+            "Type": "ORGANIZATION",
+            "Text": "#DNC",
+            "BeginOffset": 49,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.5018739104270935,
+            "Type": "PERSON",
+            "Text": "#Obama",
+            "BeginOffset": 58,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.4193754494190216,
+            "Type": "ORGANIZATION",
+            "Text": "Luxembourg",
+            "BeginOffset": 97,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.9810325503349304,
+            "Type": "DATE",
+            "Text": "2009",
+            "BeginOffset": 108,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.9963327646255493,
+            "Type": "DATE",
+            "Text": "2011",
+            "BeginOffset": 115,
+            "EndOffset": 119
+        },
+        {
+            "Score": 0.4643208980560303,
+            "Type": "ORGANIZATION",
+            "Text": "#DNCleak",
+            "BeginOffset": 121,
+            "EndOffset": 129
+        }
+    ]
+}

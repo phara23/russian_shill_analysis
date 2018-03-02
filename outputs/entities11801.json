@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6438131332397461,
+            "Type": "PERSON",
+            "Text": "@TheNextWeb",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7830302119255066,
+            "Type": "TITLE",
+            "Text": "Google Translate",
+            "BeginOffset": 16,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.8878389000892639,
+            "Type": "OTHER",
+            "Text": "https://t.co/dOYlyWpPdw",
+            "BeginOffset": 71,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.9998176693916321,
+            "Type": "OTHER",
+            "Text": "https://t.co/ardhZmwnqz",
+            "BeginOffset": 95,
+            "EndOffset": 118
+        }
+    ]
+}

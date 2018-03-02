@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8197020888328552,
+            "Type": "PERSON",
+            "Text": "@PatToomey",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9399380683898926,
+            "Type": "PERSON",
+            "Text": "@TedCruz",
+            "BeginOffset": 46,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.3395242393016815,
+            "Type": "TITLE",
+            "Text": "#GOPDebate",
+            "BeginOffset": 63,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.9849029183387756,
+            "Type": "DATE",
+            "Text": "tonight",
+            "BeginOffset": 74,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.9999814033508301,
+            "Type": "OTHER",
+            "Text": "https://t.co/uhr7rf7A3V",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        }
+    ]
+}

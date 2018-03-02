@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8428515195846558,
+            "Type": "PERSON",
+            "Text": "@artwingcon",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9968661665916443,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 16,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9926226735115051,
+            "Type": "QUANTITY",
+            "Text": "20 minutes",
+            "BeginOffset": 48,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.6624806523323059,
+            "Type": "LOCATION",
+            "Text": "CA",
+            "BeginOffset": 86,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9999239444732666,
+            "Type": "OTHER",
+            "Text": "https://t.co/8QwxzdWp1r",
+            "BeginOffset": 98,
+            "EndOffset": 121
+        }
+    ]
+}

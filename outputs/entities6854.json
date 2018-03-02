@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8394546508789062,
+            "Type": "PERSON",
+            "Text": "@midnight",
+            "BeginOffset": 0,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9033971428871155,
+            "Type": "TITLE",
+            "Text": "The Lord of the Rings: The Return of Billy Bob",
+            "BeginOffset": 25,
+            "EndOffset": 71
+        }
+    ]
+}

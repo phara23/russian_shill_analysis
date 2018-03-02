@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.710615873336792,
+            "Type": "ORGANIZATION",
+            "Text": "@nytimes",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8420612215995789,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 17,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.9919965863227844,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 56,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.6919974684715271,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 129,
+            "EndOffset": 138
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9108625054359436,
+            "Type": "PERSON",
+            "Text": "@Dork_Power",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8378779888153076,
+            "Type": "QUANTITY",
+            "Text": "one-bedroom",
+            "BeginOffset": 18,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.5394337773323059,
+            "Type": "LOCATION",
+            "Text": "DC",
+            "BeginOffset": 61,
+            "EndOffset": 63
+        }
+    ]
+}

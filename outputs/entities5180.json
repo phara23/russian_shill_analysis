@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8975725173950195,
+            "Type": "PERSON",
+            "Text": "@EmilyMiller",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9992021322250366,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 17,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9888512492179871,
+            "Type": "TITLE",
+            "Text": "Obamacare",
+            "BeginOffset": 44,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.7043494582176208,
+            "Type": "ORGANIZATION",
+            "Text": "@Heritage",
+            "BeginOffset": 104,
+            "EndOffset": 113
+        }
+    ]
+}

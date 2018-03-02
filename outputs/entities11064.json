@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4962187111377716,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8161763548851013,
+            "Type": "PERSON",
+            "Text": "@cutupx2",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8357303738594055,
+            "Type": "PERSON",
+            "Text": "@superANGRYref",
+            "BeginOffset": 24,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.8251768946647644,
+            "Type": "PERSON",
+            "Text": "Stevie Slow Jams",
+            "BeginOffset": 41,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.905266284942627,
+            "Type": "PERSON",
+            "Text": "@BoogieMonster3",
+            "BeginOffset": 85,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.9227838516235352,
+            "Type": "PERSON",
+            "Text": "@Dubzzzinyaface",
+            "BeginOffset": 101,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.8864399194717407,
+            "Type": "PERSON",
+            "Text": "@efoxband",
+            "BeginOffset": 117,
+            "EndOffset": 126
+        },
+        {
+            "Score": 0.7501790523529053,
+            "Type": "PERSON",
+            "Text": "@KaceyecaK",
+            "BeginOffset": 127,
+            "EndOffset": 137
+        }
+    ]
+}

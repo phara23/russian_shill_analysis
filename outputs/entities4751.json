@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8813185691833496,
+            "Type": "PERSON",
+            "Text": "@DominicValent",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6008564233779907,
+            "Type": "OTHER",
+            "Text": "Ebola",
+            "BeginOffset": 30,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9765514135360718,
+            "Type": "LOCATION",
+            "Text": "Africa",
+            "BeginOffset": 50,
+            "EndOffset": 56
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8803964853286743,
+            "Type": "PERSON",
+            "Text": "@Bipartisanism",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9980388283729553,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 19,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.6888731718063354,
+            "Type": "TITLE",
+            "Text": "Fox Tonight",
+            "BeginOffset": 46,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9976680278778076,
+            "Type": "PERSON",
+            "Text": "Paul Ryan",
+            "BeginOffset": 81,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9136031270027161,
+            "Type": "OTHER",
+            "Text": "https://t.co/75M8MuC3Lq",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        },
+        {
+            "Score": 0.6050227880477905,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 129,
+            "EndOffset": 138
+        }
+    ]
+}

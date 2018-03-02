@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8372101783752441,
+            "Type": "PERSON",
+            "Text": "@ervenrossetti",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9561206698417664,
+            "Type": "PERSON",
+            "Text": "@Junioborghese1",
+            "BeginOffset": 19,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9966861605644226,
+            "Type": "PERSON",
+            "Text": "@Elena07617349",
+            "BeginOffset": 35,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9731631278991699,
+            "Type": "PERSON",
+            "Text": "@portentoorlando",
+            "BeginOffset": 50,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.8975116014480591,
+            "Type": "PERSON",
+            "Text": "Ricorda che Minniti",
+            "BeginOffset": 68,
+            "EndOffset": 87
+        }
+    ]
+}

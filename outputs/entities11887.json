@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9152945280075073,
+            "Type": "PERSON",
+            "Text": "@PressSec",
+            "BeginOffset": 16,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9545586109161377,
+            "Type": "PERSON",
+            "Text": "President Obama",
+            "BeginOffset": 31,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9779258966445923,
+            "Type": "ORGANIZATION",
+            "Text": "FBI",
+            "BeginOffset": 63,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9843769073486328,
+            "Type": "PERSON",
+            "Text": "Comey",
+            "BeginOffset": 76,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.9999417066574097,
+            "Type": "OTHER",
+            "Text": "https://t.co/rhmSlUUdc7",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

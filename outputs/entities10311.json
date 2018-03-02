@@ -1,0 +1,67 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7784765362739563,
+            "Type": "PERSON",
+            "Text": "@Paysonspal",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9428035020828247,
+            "Type": "PERSON",
+            "Text": "@sluggoD54",
+            "BeginOffset": 16,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9738622903823853,
+            "Type": "PERSON",
+            "Text": "@mei_gre",
+            "BeginOffset": 27,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9134815335273743,
+            "Type": "PERSON",
+            "Text": "@arendsterling",
+            "BeginOffset": 36,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.908517599105835,
+            "Type": "PERSON",
+            "Text": "@exponuntmalum",
+            "BeginOffset": 51,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.891297459602356,
+            "Type": "PERSON",
+            "Text": "@ODeeCS",
+            "BeginOffset": 66,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.9515414237976074,
+            "Type": "PERSON",
+            "Text": "@LawstMongo",
+            "BeginOffset": 74,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.948615312576294,
+            "Type": "PERSON",
+            "Text": "@StweetyJesus",
+            "BeginOffset": 86,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.9993988275527954,
+            "Type": "OTHER",
+            "Text": "https://t.co/HcTKaZtRYg",
+            "BeginOffset": 100,
+            "EndOffset": 123
+        }
+    ]
+}

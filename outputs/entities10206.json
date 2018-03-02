@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7258749008178711,
+            "Type": "ORGANIZATION",
+            "Text": "@nytimes",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8127442598342896,
+            "Type": "ORGANIZATION",
+            "Text": "Anti-Semitism",
+            "BeginOffset": 13,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9659468531608582,
+            "Type": "LOCATION",
+            "Text": "U.S.",
+            "BeginOffset": 63,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.950263500213623,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 94,
+            "EndOffset": 99
+        }
+    ]
+}

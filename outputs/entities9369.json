@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8028514385223389,
+            "Type": "PERSON",
+            "Text": "@kokoeverett",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8463841676712036,
+            "Type": "PERSON",
+            "Text": "@tvogvo",
+            "BeginOffset": 17,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9725239276885986,
+            "Type": "PERSON",
+            "Text": "@TheHeadJerk",
+            "BeginOffset": 25,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9653031229972839,
+            "Type": "PERSON",
+            "Text": "@Reince",
+            "BeginOffset": 38,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9871565103530884,
+            "Type": "PERSON",
+            "Text": "@Jefflake",
+            "BeginOffset": 46,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9809977412223816,
+            "Type": "PERSON",
+            "Text": "@JeffFlake",
+            "BeginOffset": 56,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.8015034794807434,
+            "Type": "PERSON",
+            "Text": "El Chapo Bush Clinton",
+            "BeginOffset": 97,
+            "EndOffset": 118
+        }
+    ]
+}

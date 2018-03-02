@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8323660492897034,
+            "Type": "PERSON",
+            "Text": "@ThomasB00001",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.46032726764678955,
+            "Type": "PERSON",
+            "Text": "#AnaNavarro",
+            "BeginOffset": 36,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.8673232197761536,
+            "Type": "PERSON",
+            "Text": "#Trump",
+            "BeginOffset": 60,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.7454203367233276,
+            "Type": "ORGANIZATION",
+            "Text": "#p2 #ctl",
+            "BeginOffset": 121,
+            "EndOffset": 129
+        },
+        {
+            "Score": 0.9598516225814819,
+            "Type": "ORGANIZATION",
+            "Text": "@CNN",
+            "BeginOffset": 130,
+            "EndOffset": 134
+        }
+    ]
+}

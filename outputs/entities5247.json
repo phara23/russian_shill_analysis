@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.873311460018158,
+            "Type": "PERSON",
+            "Text": "@WyzeChef",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.6085125207901001,
+            "Type": "TITLE",
+            "Text": "Kill Bill",
+            "BeginOffset": 14,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.8963896632194519,
+            "Type": "TITLE",
+            "Text": "Inception",
+            "BeginOffset": 28,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9999666213989258,
+            "Type": "OTHER",
+            "Text": "https://t.co/5cSQtF2QeH",
+            "BeginOffset": 38,
+            "EndOffset": 61
+        }
+    ]
+}

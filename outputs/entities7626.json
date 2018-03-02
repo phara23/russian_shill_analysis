@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8424838781356812,
+            "Type": "PERSON",
+            "Text": "@chiefplan1",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9535535573959351,
+            "Type": "LOCATION",
+            "Text": "Indiana",
+            "BeginOffset": 63,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9999310970306396,
+            "Type": "OTHER",
+            "Text": "https://t.co/7CMLVRRT5K",
+            "BeginOffset": 71,
+            "EndOffset": 94
+        }
+    ]
+}

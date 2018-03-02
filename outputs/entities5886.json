@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7721720933914185,
+            "Type": "PERSON",
+            "Text": "@OnPirateSat",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.4586194157600403,
+            "Type": "ORGANIZATION",
+            "Text": "#IHateRadio",
+            "BeginOffset": 17,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.6128531694412231,
+            "Type": "ORGANIZATION",
+            "Text": "The Damned",
+            "BeginOffset": 31,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9734188318252563,
+            "Type": "QUANTITY",
+            "Text": "40th anniversary",
+            "BeginOffset": 57,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.8876659274101257,
+            "Type": "OTHER",
+            "Text": "https://t.co/jhjmKyPynX",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.9841710925102234,
+            "Type": "OTHER",
+            "Text": "https://t.co/nXEZr",
+            "BeginOffset": 121,
+            "EndOffset": 139
+        }
+    ]
+}

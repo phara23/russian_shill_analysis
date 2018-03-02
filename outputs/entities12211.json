@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6888549327850342,
+            "Type": "PERSON",
+            "Text": "Rapunzel",
+            "BeginOffset": 57,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9620981812477112,
+            "Type": "TITLE",
+            "Text": "Frozen",
+            "BeginOffset": 69,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.8691660165786743,
+            "Type": "TITLE",
+            "Text": "Little Mermaid",
+            "BeginOffset": 95,
+            "EndOffset": 109
+        }
+    ]
+}

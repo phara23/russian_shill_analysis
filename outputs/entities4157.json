@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8051056265830994,
+            "Type": "PERSON",
+            "Text": "@theolcaper",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7831193208694458,
+            "Type": "LOCATION",
+            "Text": "U.S.",
+            "BeginOffset": 68,
+            "EndOffset": 72
+        }
+    ]
+}

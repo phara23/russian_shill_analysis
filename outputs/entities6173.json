@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8995314240455627,
+            "Type": "PERSON",
+            "Text": "@igorbobic",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9707353711128235,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 15,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.9921208620071411,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 55,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9997627139091492,
+            "Type": "OTHER",
+            "Text": "https://t.co/alBVPEXCuw",
+            "BeginOffset": 71,
+            "EndOffset": 94
+        }
+    ]
+}

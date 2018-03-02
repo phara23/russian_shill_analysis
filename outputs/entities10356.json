@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6404992938041687,
+            "Type": "ORGANIZATION",
+            "Text": "@duxcomedy",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9828348755836487,
+            "Type": "PERSON",
+            "Text": "@JeffJarrett23",
+            "BeginOffset": 15,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.7855390310287476,
+            "Type": "PERSON",
+            "Text": "@FoundingFodder",
+            "BeginOffset": 30,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.5489303469657898,
+            "Type": "PERSON",
+            "Text": "trump",
+            "BeginOffset": 78,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.6884303689002991,
+            "Type": "PERSON",
+            "Text": "jeb",
+            "BeginOffset": 111,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.9939258694648743,
+            "Type": "PERSON",
+            "Text": "cruz",
+            "BeginOffset": 118,
+            "EndOffset": 122
+        }
+    ]
+}

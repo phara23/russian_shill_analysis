@@ -1,0 +1,74 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7779112458229065,
+            "Type": "PERSON",
+            "Text": "@truthophobes",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7918016910552979,
+            "Type": "PERSON",
+            "Text": "@swtimogenation",
+            "BeginOffset": 18,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9531275033950806,
+            "Type": "PERSON",
+            "Text": "@StaunchA",
+            "BeginOffset": 34,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9527053833007812,
+            "Type": "PERSON",
+            "Text": "@BlissTabitha",
+            "BeginOffset": 44,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9972837567329407,
+            "Type": "PERSON",
+            "Text": "@rgenci57",
+            "BeginOffset": 58,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9969531297683716,
+            "Type": "PERSON",
+            "Text": "@den2114",
+            "BeginOffset": 68,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.9814767837524414,
+            "Type": "PERSON",
+            "Text": "@SharonUren",
+            "BeginOffset": 77,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9073924422264099,
+            "Type": "PERSON",
+            "Text": "@United_Infidels",
+            "BeginOffset": 89,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.9533093571662903,
+            "Type": "PERSON",
+            "Text": "@PamelaGeller",
+            "BeginOffset": 106,
+            "EndOffset": 119
+        },
+        {
+            "Score": 0.8845893144607544,
+            "Type": "PERSON",
+            "Text": "@Boofboofhead",
+            "BeginOffset": 120,
+            "EndOffset": 133
+        }
+    ]
+}

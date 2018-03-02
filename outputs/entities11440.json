@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7418566942214966,
+            "Type": "PERSON",
+            "Text": "@RoomOfRumor",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9836280345916748,
+            "Type": "PERSON",
+            "Text": "Hannah Teter",
+            "BeginOffset": 32,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.6009652614593506,
+            "Type": "LOCATION",
+            "Text": "USA",
+            "BeginOffset": 68,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.98408442735672,
+            "Type": "DATE",
+            "Text": "2006",
+            "BeginOffset": 81,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.43285414576530457,
+            "Type": "ORGANIZATION",
+            "Text": "Milkandcookies",
+            "BeginOffset": 87,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.9997684359550476,
+            "Type": "OTHER",
+            "Text": "http://t.co/EpiFPzNthu",
+            "BeginOffset": 103,
+            "EndOffset": 125
+        }
+    ]
+}

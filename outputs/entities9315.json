@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9103385806083679,
+            "Type": "PERSON",
+            "Text": "@barenakedislam",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7994607090950012,
+            "Type": "ORGANIZATION",
+            "Text": "AMERICA",
+            "BeginOffset": 34,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9646061658859253,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 84,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.9999312162399292,
+            "Type": "OTHER",
+            "Text": "https://t.co/Muq2M0D4cV",
+            "BeginOffset": 92,
+            "EndOffset": 115
+        }
+    ]
+}

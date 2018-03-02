@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7854069471359253,
+            "Type": "PERSON",
+            "Text": "@metternicht",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.878077507019043,
+            "Type": "PERSON",
+            "Text": "@TrotAlex",
+            "BeginOffset": 17,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9921146035194397,
+            "Type": "PERSON",
+            "Text": "Franklin",
+            "BeginOffset": 81,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.8056297898292542,
+            "Type": "PERSON",
+            "Text": "Louie",
+            "BeginOffset": 130,
+            "EndOffset": 135
+        }
+    ]
+}

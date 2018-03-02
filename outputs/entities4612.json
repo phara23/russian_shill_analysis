@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7882900238037109,
+            "Type": "PERSON",
+            "Text": "@WashDCOnline",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8963644504547119,
+            "Type": "ORGANIZATION",
+            "Text": "Blackhawks",
+            "BeginOffset": 18,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.7003234624862671,
+            "Type": "TITLE",
+            "Text": "Stanley Cup",
+            "BeginOffset": 44,
+            "EndOffset": 55
+        }
+    ]
+}

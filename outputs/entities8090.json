@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7979248762130737,
+            "Type": "PERSON",
+            "Text": "@BIZPACReview",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9926685094833374,
+            "Type": "ORGANIZATION",
+            "Text": "CNN",
+            "BeginOffset": 37,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9954164028167725,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 59,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.6972866654396057,
+            "Type": "PERSON",
+            "Text": "Conway",
+            "BeginOffset": 85,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.9896140694618225,
+            "Type": "PERSON",
+            "Text": "Spicer",
+            "BeginOffset": 96,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.9687389731407166,
+            "Type": "OTHER",
+            "Text": "https://t.co/ha",
+            "BeginOffset": 124,
+            "EndOffset": 139
+        }
+    ]
+}

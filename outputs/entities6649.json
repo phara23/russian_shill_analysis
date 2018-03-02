@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8603568077087402,
+            "Type": "PERSON",
+            "Text": "@scottthong",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8601127862930298,
+            "Type": "ORGANIZATION",
+            "Text": "Islam",
+            "BeginOffset": 71,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.9999535083770752,
+            "Type": "OTHER",
+            "Text": "https://t.co/xoqQBMEHm7",
+            "BeginOffset": 85,
+            "EndOffset": 108
+        }
+    ]
+}

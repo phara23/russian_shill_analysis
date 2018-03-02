@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8152905702590942,
+            "Type": "PERSON",
+            "Text": "@FabFashionUSA",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9956310391426086,
+            "Type": "PERSON",
+            "Text": "Serena Williams",
+            "BeginOffset": 19,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9457653760910034,
+            "Type": "OTHER",
+            "Text": "https://t.co/6pKSgsxzDI",
+            "BeginOffset": 84,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.9412243962287903,
+            "Type": "OTHER",
+            "Text": "https://t.co/9NisqD",
+            "BeginOffset": 124,
+            "EndOffset": 143
+        }
+    ]
+}

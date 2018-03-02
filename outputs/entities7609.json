@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7782652378082275,
+            "Type": "PERSON",
+            "Text": "@guntrust",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8105215430259705,
+            "Type": "LOCATION",
+            "Text": "United States",
+            "BeginOffset": 56,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.47708943486213684,
+            "Type": "ORGANIZATION",
+            "Text": "Bloomberg",
+            "BeginOffset": 72,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.9484925866127014,
+            "Type": "OTHER",
+            "Text": "https://t.co/tHzM7AzcmK",
+            "BeginOffset": 91,
+            "EndOffset": 114
+        }
+    ]
+}

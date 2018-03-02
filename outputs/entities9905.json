@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9260190725326538,
+            "Type": "PERSON",
+            "Text": "@roycan79",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9627842903137207,
+            "Type": "QUANTITY",
+            "Text": "500 a Month",
+            "BeginOffset": 61,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.9747840166091919,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 97,
+            "EndOffset": 102
+        }
+    ]
+}

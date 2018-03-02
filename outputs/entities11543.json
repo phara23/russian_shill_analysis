@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9184411764144897,
+            "Type": "PERSON",
+            "Text": "@MauriceMichael",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9970993995666504,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 26,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.6935692429542542,
+            "Type": "PERSON",
+            "Text": "Rudy htt",
+            "BeginOffset": 131,
+            "EndOffset": 139
+        }
+    ]
+}

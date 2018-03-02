@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7001709342002869,
+            "Type": "PERSON",
+            "Text": "@RippDemUp",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9960124492645264,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 15,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.9968339204788208,
+            "Type": "PERSON",
+            "Text": "Humayun Khan",
+            "BeginOffset": 26,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9982865452766418,
+            "Type": "DATE",
+            "Text": "Wednesday",
+            "BeginOffset": 90,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.9599244594573975,
+            "Type": "OTHER",
+            "Text": "https://t.co/kV",
+            "BeginOffset": 124,
+            "EndOffset": 139
+        }
+    ]
+}

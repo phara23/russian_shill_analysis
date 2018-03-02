@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7931909561157227,
+            "Type": "ORGANIZATION",
+            "Text": "@FoxNews",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9730331897735596,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 14,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.584751546382904,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 129,
+            "EndOffset": 138
+        }
+    ]
+}

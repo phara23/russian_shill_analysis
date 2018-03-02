@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8332558870315552,
+            "Type": "PERSON",
+            "Text": "@theinquisitr",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.5331754088401794,
+            "Type": "ORGANIZATION",
+            "Text": "North Carolina",
+            "BeginOffset": 18,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9999321699142456,
+            "Type": "OTHER",
+            "Text": "https://t.co/5DDUj53RqT",
+            "BeginOffset": 92,
+            "EndOffset": 115
+        }
+    ]
+}

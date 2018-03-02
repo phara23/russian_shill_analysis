@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8899611234664917,
+            "Type": "PERSON",
+            "Text": "@danpfeiffer",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8668320178985596,
+            "Type": "ORGANIZATION",
+            "Text": "Fox",
+            "BeginOffset": 17,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.9948037266731262,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 65,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9015354514122009,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 84,
+            "EndOffset": 87
+        }
+    ]
+}

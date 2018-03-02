@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8468347787857056,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.974741518497467,
+            "Type": "PERSON",
+            "Text": "Marcelle",
+            "BeginOffset": 13,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9067496061325073,
+            "Type": "PERSON",
+            "Text": "Bethel",
+            "BeginOffset": 28,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.8662669062614441,
+            "Type": "QUANTITY",
+            "Text": "00,000",
+            "BeginOffset": 38,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.993633508682251,
+            "Type": "OTHER",
+            "Text": "https://t.co/PsfUr2MZ93",
+            "BeginOffset": 51,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.8114993572235107,
+            "Type": "PERSON",
+            "Text": "@GuardianTT",
+            "BeginOffset": 75,
+            "EndOffset": 86
+        }
+    ]
+}

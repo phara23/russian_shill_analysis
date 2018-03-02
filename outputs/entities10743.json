@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.960820734500885,
+            "Type": "PERSON",
+            "Text": "@jameshaning",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8139814734458923,
+            "Type": "PERSON",
+            "Text": "#DonaldTrump",
+            "BeginOffset": 26,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.509895920753479,
+            "Type": "ORGANIZATION",
+            "Text": "Isis",
+            "BeginOffset": 120,
+            "EndOffset": 124
+        }
+    ]
+}

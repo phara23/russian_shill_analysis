@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8518660664558411,
+            "Type": "PERSON",
+            "Text": "@mericanrefugee",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.867763102054596,
+            "Type": "PERSON",
+            "Text": "@ChristiChat",
+            "BeginOffset": 23,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.7282403707504272,
+            "Type": "PERSON",
+            "Text": "@POTUS",
+            "BeginOffset": 57,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9563605785369873,
+            "Type": "OTHER",
+            "Text": "http://t.co/a31n5ffzuz",
+            "BeginOffset": 98,
+            "EndOffset": 120
+        }
+    ]
+}

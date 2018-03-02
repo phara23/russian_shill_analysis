@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6195154786109924,
+            "Type": "PERSON",
+            "Text": "@911",
+            "BeginOffset": 3,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.7356879711151123,
+            "Type": "LOCATION",
+            "Text": "USA",
+            "BeginOffset": 7,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9911466240882874,
+            "Type": "ORGANIZATION",
+            "Text": "ISIS",
+            "BeginOffset": 29,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9866065979003906,
+            "Type": "OTHER",
+            "Text": "https://t.co/3mzYvmZ6LN",
+            "BeginOffset": 56,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.5680817365646362,
+            "Type": "ORGANIZATION",
+            "Text": "#TCOT",
+            "BeginOffset": 80,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.47367650270462036,
+            "Type": "ORGANIZATION",
+            "Text": "#CCOT",
+            "BeginOffset": 86,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.46495866775512695,
+            "Type": "ORGANIZATION",
+            "Text": "#MakeDCListen",
+            "BeginOffset": 92,
+            "EndOffset": 105
+        }
+    ]
+}

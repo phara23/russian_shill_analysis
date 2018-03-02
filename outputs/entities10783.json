@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9067487716674805,
+            "Type": "PERSON",
+            "Text": "@markcstevens14",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.5247512459754944,
+            "Type": "QUANTITY",
+            "Text": "3",
+            "BeginOffset": 101,
+            "EndOffset": 102
+        }
+    ]
+}

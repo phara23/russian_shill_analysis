@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7657440900802612,
+            "Type": "PERSON",
+            "Text": "@MarieLeff",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.5979934334754944,
+            "Type": "PERSON",
+            "Text": "@CNNPolitics",
+            "BeginOffset": 15,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.8910587430000305,
+            "Type": "ORGANIZATION",
+            "Text": "@CNN",
+            "BeginOffset": 36,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9336482882499695,
+            "Type": "PERSON",
+            "Text": "Howard Stern",
+            "BeginOffset": 72,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9929089546203613,
+            "Type": "ORGANIZATION",
+            "Text": "CNN",
+            "BeginOffset": 94,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.9999754428863525,
+            "Type": "OTHER",
+            "Text": "https://t.co/nX3HPR6JXh",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

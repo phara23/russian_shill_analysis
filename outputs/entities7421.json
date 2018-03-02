@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7411562204360962,
+            "Type": "PERSON",
+            "Text": "@BlogOverwatch",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.4842524826526642,
+            "Type": "ORGANIZATION",
+            "Text": "WPX",
+            "BeginOffset": 19,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.4399639964103699,
+            "Type": "LOCATION",
+            "Text": "Permian",
+            "BeginOffset": 39,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.7730067372322083,
+            "Type": "QUANTITY",
+            "Text": ".35 billion",
+            "BeginOffset": 58,
+            "EndOffset": 69
+        }
+    ]
+}

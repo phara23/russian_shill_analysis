@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7655231952667236,
+            "Type": "PERSON",
+            "Text": "@BIZPACReview",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.981579601764679,
+            "Type": "QUANTITY",
+            "Text": "3,703",
+            "BeginOffset": 75,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.679253339767456,
+            "Type": "OTHER",
+            "Text": "https://t.co/iqmFFlNyhY",
+            "BeginOffset": 81,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.9999872446060181,
+            "Type": "OTHER",
+            "Text": "https://t.co/dhLsL9EXsG",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        }
+    ]
+}

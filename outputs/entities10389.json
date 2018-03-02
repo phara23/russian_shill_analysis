@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4812186360359192,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.7782667875289917,
+            "Type": "PERSON",
+            "Text": "@MsTexas1967",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.903265118598938,
+            "Type": "PERSON",
+            "Text": "Bono\nStuck",
+            "BeginOffset": 22,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9998428821563721,
+            "Type": "OTHER",
+            "Text": "https://t.co/T7YgSkcowj",
+            "BeginOffset": 70,
+            "EndOffset": 93
+        }
+    ]
+}

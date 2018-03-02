@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7623053193092346,
+            "Type": "ORGANIZATION",
+            "Text": "Denver Cockies",
+            "BeginOffset": 0,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7279988527297974,
+            "Type": "PERSON",
+            "Text": "@midnight",
+            "BeginOffset": 27,
+            "EndOffset": 36
+        }
+    ]
+}

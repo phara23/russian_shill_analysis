@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.757844865322113,
+            "Type": "PERSON",
+            "Text": "@RitzyBacon2",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.476591557264328,
+            "Type": "LOCATION",
+            "Text": "Minnesota",
+            "BeginOffset": 17,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9738467931747437,
+            "Type": "ORGANIZATION",
+            "Text": "Muslim",
+            "BeginOffset": 28,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.6974807977676392,
+            "Type": "QUANTITY",
+            "Text": "3 more",
+            "BeginOffset": 69,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.972470223903656,
+            "Type": "ORGANIZATION",
+            "Text": "Muslims",
+            "BeginOffset": 76,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.9834449887275696,
+            "Type": "OTHER",
+            "Text": "https://t.co/0JSGyMENjj",
+            "BeginOffset": 94,
+            "EndOffset": 117
+        },
+        {
+            "Score": 0.8054306507110596,
+            "Type": "ORGANIZATION",
+            "Text": "@pamelageller",
+            "BeginOffset": 122,
+            "EndOffset": 135
+        }
+    ]
+}

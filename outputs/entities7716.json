@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8349154591560364,
+            "Type": "PERSON",
+            "Text": "@stopbeefinradio",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.7399278283119202,
+            "Type": "PERSON",
+            "Text": "Phresher ft. Remy",
+            "BeginOffset": 58,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.7347763776779175,
+            "Type": "QUANTITY",
+            "Text": "50 Cent",
+            "BeginOffset": 85,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.9999570846557617,
+            "Type": "OTHER",
+            "Text": "https://t.co/1jS42R66sy",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        }
+    ]
+}

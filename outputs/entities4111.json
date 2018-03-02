@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8921176195144653,
+            "Type": "PERSON",
+            "Text": "@AFrikkinHashtag",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9112178087234497,
+            "Type": "PERSON",
+            "Text": "@BrettFishA",
+            "BeginOffset": 26,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9814215898513794,
+            "Type": "PERSON",
+            "Text": "@Solely_Toya",
+            "BeginOffset": 42,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.7400436401367188,
+            "Type": "DATE",
+            "Text": "this Wed",
+            "BeginOffset": 55,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.8353119492530823,
+            "Type": "PERSON",
+            "Text": "@AFrikkinHashtag",
+            "BeginOffset": 75,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.7737209796905518,
+            "Type": "ORGANIZATION",
+            "Text": "@HashtagRoundup",
+            "BeginOffset": 99,
+            "EndOffset": 114
+        }
+    ]
+}

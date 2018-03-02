@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.61944180727005,
+            "Type": "ORGANIZATION",
+            "Text": "@Fusion",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9971267580986023,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 17,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.8646078705787659,
+            "Type": "QUANTITY",
+            "Text": "twice",
+            "BeginOffset": 71,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.8977970480918884,
+            "Type": "OTHER",
+            "Text": "https://t.co/8mvWVCinBJ",
+            "BeginOffset": 78,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.9999809265136719,
+            "Type": "OTHER",
+            "Text": "https://t.co/3ioydRlWcG",
+            "BeginOffset": 102,
+            "EndOffset": 125
+        }
+    ]
+}

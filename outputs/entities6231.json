@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8770638108253479,
+            "Type": "PERSON",
+            "Text": "@USARebirth",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.5232179164886475,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 16,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.6938472390174866,
+            "Type": "ORGANIZATION",
+            "Text": "@PrdBlckRpblican",
+            "BeginOffset": 19,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.6317030787467957,
+            "Type": "LOCATION",
+            "Text": "SC",
+            "BeginOffset": 57,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.3676672577857971,
+            "Type": "ORGANIZATION",
+            "Text": "#TedCruz",
+            "BeginOffset": 85,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.9906604886054993,
+            "Type": "OTHER",
+            "Text": "https://t.co/tRYN7b8oF6",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.4084102213382721,
+            "Type": "ORGANIZATION",
+            "Text": "#CruzCrew",
+            "BeginOffset": 121,
+            "EndOffset": 130
+        },
+        {
+            "Score": 0.49311065673828125,
+            "Type": "ORGANIZATION",
+            "Text": "#PJNET",
+            "BeginOffset": 131,
+            "EndOffset": 137
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8360182642936707,
+            "Type": "PERSON",
+            "Text": "@Joe_America",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9241625666618347,
+            "Type": "DATE",
+            "Text": "1776",
+            "BeginOffset": 15,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.714255154132843,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 38,
+            "EndOffset": 45
+        }
+    ]
+}

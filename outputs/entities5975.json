@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9977132081985474,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.7715417742729187,
+            "Type": "EVENT",
+            "Text": "Brexit",
+            "BeginOffset": 22,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9861582517623901,
+            "Type": "OTHER",
+            "Text": "https://t.co/41x5g7cV0h",
+            "BeginOffset": 36,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.9687386155128479,
+            "Type": "OTHER",
+            "Text": "https://t.co/aXQaNDGlF7",
+            "BeginOffset": 72,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.9999796152114868,
+            "Type": "OTHER",
+            "Text": "https://t.co/OsdwsiLKPU",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9573150277137756,
+            "Type": "PERSON",
+            "Text": "@KaiDiekmann",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9495557546615601,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 32,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9998326301574707,
+            "Type": "OTHER",
+            "Text": "https://t.co/QqsnCfIzGb",
+            "BeginOffset": 53,
+            "EndOffset": 76
+        }
+    ]
+}

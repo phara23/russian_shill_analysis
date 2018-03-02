@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.789174497127533,
+            "Type": "PERSON",
+            "Text": "@apurposefulwife",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9632282257080078,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 53,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9710104465484619,
+            "Type": "LOCATION",
+            "Text": "London",
+            "BeginOffset": 84,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.6171609163284302,
+            "Type": "ORGANIZATION",
+            "Text": "Muslim",
+            "BeginOffset": 93,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.6693630218505859,
+            "Type": "PERSON",
+            "Text": "Mayor Khan",
+            "BeginOffset": 100,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.7128880620002747,
+            "Type": "LOCATION",
+            "Text": "U.S.",
+            "BeginOffset": 117,
+            "EndOffset": 121
+        },
+        {
+            "Score": 0.5983807444572449,
+            "Type": "OTHER",
+            "Text": "https://t.co/OmcY",
+            "BeginOffset": 122,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8430368304252625,
+            "Type": "PERSON",
+            "Text": "@VioletaCarieles",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9548963904380798,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 86,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.7897842526435852,
+            "Type": "OTHER",
+            "Text": "https://t.co/Xb5vNe6ExC",
+            "BeginOffset": 92,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.9999206066131592,
+            "Type": "OTHER",
+            "Text": "https://t.co/d8HIchdnuU",
+            "BeginOffset": 116,
+            "EndOffset": 139
+        }
+    ]
+}

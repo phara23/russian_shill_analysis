@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8771278858184814,
+            "Type": "PERSON",
+            "Text": "@Netjeretkhau",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8995012044906616,
+            "Type": "PERSON",
+            "Text": "@Jarmadillos",
+            "BeginOffset": 18,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9953184723854065,
+            "Type": "PERSON",
+            "Text": "Jared",
+            "BeginOffset": 47,
+            "EndOffset": 52
+        }
+    ]
+}

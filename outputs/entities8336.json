@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8183271884918213,
+            "Type": "ORGANIZATION",
+            "Text": "@We_are_Milo",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8457292914390564,
+            "Type": "ORGANIZATION",
+            "Text": "@AnthonyRomeo1",
+            "BeginOffset": 17,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.7828885316848755,
+            "Type": "ORGANIZATION",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 32,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9999568462371826,
+            "Type": "OTHER",
+            "Text": "https://t.co/VabhZj7ITA",
+            "BeginOffset": 115,
+            "EndOffset": 138
+        }
+    ]
+}

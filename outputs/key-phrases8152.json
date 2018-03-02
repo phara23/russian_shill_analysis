@@ -1,0 +1,28 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.8473494052886963,
+            "Text": "Obama",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9884079694747925,
+            "Text": "Pentagon",
+            "BeginOffset": 9,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7955624461174011,
+            "Text": "IS fight",
+            "BeginOffset": 28,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.8489312529563904,
+            "Text": "US strikes",
+            "BeginOffset": 40,
+            "EndOffset": 50
+        }
+    ]
+}

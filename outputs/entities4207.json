@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8364572525024414,
+            "Type": "PERSON",
+            "Text": "@theonlyadult",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9988923668861389,
+            "Type": "PERSON",
+            "Text": "Paul Ryan",
+            "BeginOffset": 18,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.7613097429275513,
+            "Type": "ORGANIZATION",
+            "Text": "Nazi",
+            "BeginOffset": 98,
+            "EndOffset": 102
+        }
+    ]
+}

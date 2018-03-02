@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8575462102890015,
+            "Type": "PERSON",
+            "Text": "@NetworksManager",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8398802280426025,
+            "Type": "PERSON",
+            "Text": "Reince",
+            "BeginOffset": 31,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9645103812217712,
+            "Type": "ORGANIZATION",
+            "Text": "Republicans",
+            "BeginOffset": 58,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9341916441917419,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 78,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.994916558265686,
+            "Type": "PERSON",
+            "Text": "Steve Bannon",
+            "BeginOffset": 116,
+            "EndOffset": 128
+        },
+        {
+            "Score": 0.6626471281051636,
+            "Type": "ORGANIZATION",
+            "Text": "WH COS",
+            "BeginOffset": 129,
+            "EndOffset": 135
+        }
+    ]
+}

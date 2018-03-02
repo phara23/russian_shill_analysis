@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8840435743331909,
+            "Type": "PERSON",
+            "Text": "@NickAPappas",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9974785447120667,
+            "Type": "DATE",
+            "Text": "2020",
+            "BeginOffset": 30,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9970425963401794,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 36,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9996339082717896,
+            "Type": "OTHER",
+            "Text": "https://t.co/LlLVEtqeOJ",
+            "BeginOffset": 112,
+            "EndOffset": 135
+        }
+    ]
+}

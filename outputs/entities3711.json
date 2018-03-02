@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7797590494155884,
+            "Type": "ORGANIZATION",
+            "Text": "@Chargers",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9998073577880859,
+            "Type": "PERSON",
+            "Text": "Mike McCoy",
+            "BeginOffset": 14,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.8112622499465942,
+            "Type": "OTHER",
+            "Text": "https://t.co/uECp1NbJTy",
+            "BeginOffset": 66,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.9999659061431885,
+            "Type": "OTHER",
+            "Text": "https://t.co/T64O9WryGa",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        }
+    ]
+}

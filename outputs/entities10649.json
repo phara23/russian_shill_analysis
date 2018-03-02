@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8249310255050659,
+            "Type": "PERSON",
+            "Text": "@OANN",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.8440144658088684,
+            "Type": "PERSON",
+            "Text": "@PubliusHuldah",
+            "BeginOffset": 55,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.6166913509368896,
+            "Type": "PERSON",
+            "Text": "@grahamledger",
+            "BeginOffset": 73,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.8871228098869324,
+            "Type": "PERSON",
+            "Text": "@tippingpoint",
+            "BeginOffset": 90,
+            "EndOffset": 103
+        }
+    ]
+}

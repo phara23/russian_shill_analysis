@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9331295490264893,
+            "Type": "PERSON",
+            "Text": "@alanahoff144",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9988337159156799,
+            "Type": "PERSON",
+            "Text": "Bill Mitchell",
+            "BeginOffset": 29,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9682596921920776,
+            "Type": "OTHER",
+            "Text": "https://t.co/aTwUJigzBZ",
+            "BeginOffset": 43,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9596432447433472,
+            "Type": "ORGANIZATION",
+            "Text": "@Digg",
+            "BeginOffset": 71,
+            "EndOffset": 76
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8963222503662109,
+            "Type": "PERSON",
+            "Text": "@AnnKirsch1",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8334330916404724,
+            "Type": "PERSON",
+            "Text": "@DRJAMESCABOT",
+            "BeginOffset": 16,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.8464809060096741,
+            "Type": "PERSON",
+            "Text": "@DesignerDeb3",
+            "BeginOffset": 30,
+            "EndOffset": 43
+        }
+    ]
+}

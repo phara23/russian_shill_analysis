@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8569310307502747,
+            "Type": "PERSON",
+            "Text": "@HomefrontHugs",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9887407422065735,
+            "Type": "DATE",
+            "Text": "Monday",
+            "BeginOffset": 73,
+            "EndOffset": 79
+        }
+    ]
+}

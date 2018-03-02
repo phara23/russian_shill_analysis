@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7753934264183044,
+            "Type": "PERSON",
+            "Text": "@CNTraveler",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9350050687789917,
+            "Type": "QUANTITY",
+            "Text": "10 fastest growing international destinations",
+            "BeginOffset": 20,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.8967219591140747,
+            "Type": "LOCATION",
+            "Text": "U.S.",
+            "BeginOffset": 70,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9064533710479736,
+            "Type": "OTHER",
+            "Text": "https://t.co/Z2jLZVMdzD",
+            "BeginOffset": 85,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.9999895095825195,
+            "Type": "OTHER",
+            "Text": "https://t.co/edizii9pJi",
+            "BeginOffset": 109,
+            "EndOffset": 132
+        }
+    ]
+}

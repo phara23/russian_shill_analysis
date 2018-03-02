@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9063732624053955,
+            "Type": "PERSON",
+            "Text": "@LeoEguizabal18",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9969774484634399,
+            "Type": "PERSON",
+            "Text": "Paula Patton",
+            "BeginOffset": 20,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.996219277381897,
+            "Type": "PERSON",
+            "Text": "Alan Thicke",
+            "BeginOffset": 60,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.979876697063446,
+            "Type": "OTHER",
+            "Text": "https://t.co/BEUfzwMq6z",
+            "BeginOffset": 80,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.8421051502227783,
+            "Type": "ORGANIZATION",
+            "Text": "@JustJared",
+            "BeginOffset": 108,
+            "EndOffset": 118
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6570352911949158,
+            "Type": "PERSON",
+            "Text": "@POTUS",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.979809582233429,
+            "Type": "LOCATION",
+            "Text": "southeastern Louisiana",
+            "BeginOffset": 57,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.9800641536712646,
+            "Type": "DATE",
+            "Text": "today",
+            "BeginOffset": 92,
+            "EndOffset": 97
+        }
+    ]
+}

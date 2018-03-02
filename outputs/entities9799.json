@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8935381770133972,
+            "Type": "PERSON",
+            "Text": "@phatandy",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9873585104942322,
+            "Type": "ORGANIZATION",
+            "Text": "Twitter",
+            "BeginOffset": 40,
+            "EndOffset": 47
+        }
+    ]
+}

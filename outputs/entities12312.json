@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8623878359794617,
+            "Type": "PERSON",
+            "Text": "@stormynights10",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9963188171386719,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 55,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9939305782318115,
+            "Type": "DATE",
+            "Text": "yesterday",
+            "BeginOffset": 92,
+            "EndOffset": 101
+        }
+    ]
+}

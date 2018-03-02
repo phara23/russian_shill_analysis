@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9199355244636536,
+            "Type": "PERSON",
+            "Text": "@Southrngirl77",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9996635317802429,
+            "Type": "PERSON",
+            "Text": "John Podesta",
+            "BeginOffset": 42,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9989052414894104,
+            "Type": "PERSON",
+            "Text": "Tony Podesta",
+            "BeginOffset": 66,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.9977854490280151,
+            "Type": "QUANTITY",
+            "Text": "80,000",
+            "BeginOffset": 103,
+            "EndOffset": 109
+        },
+        {
+            "Score": 0.6258262395858765,
+            "Type": "ORGANIZATION",
+            "Text": "Uranium One",
+            "BeginOffset": 115,
+            "EndOffset": 126
+        }
+    ]
+}

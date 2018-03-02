@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9956910610198975,
+            "Type": "PERSON",
+            "Text": "Michelle Obama",
+            "BeginOffset": 16,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9872365593910217,
+            "Type": "PERSON",
+            "Text": "Tika Sumpter",
+            "BeginOffset": 38,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9474372863769531,
+            "Type": "OTHER",
+            "Text": "https://t.co/N89GLZn9sr",
+            "BeginOffset": 63,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9473232626914978,
+            "Type": "OTHER",
+            "Text": "https://t.co/cdnQqWB38H",
+            "BeginOffset": 89,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.9999701976776123,
+            "Type": "OTHER",
+            "Text": "https://t.co/kFi62A2rFz",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        }
+    ]
+}

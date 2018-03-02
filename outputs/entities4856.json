@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5222362279891968,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8977040648460388,
+            "Type": "PERSON",
+            "Text": "@Doug_McDonnell",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9999243021011353,
+            "Type": "OTHER",
+            "Text": "https://t.co/jyAfPKBKtG",
+            "BeginOffset": 20,
+            "EndOffset": 43
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9824580550193787,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 34,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.5101730227470398,
+            "Type": "ORGANIZATION",
+            "Text": "#RoastandRide",
+            "BeginOffset": 50,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9998014569282532,
+            "Type": "OTHER",
+            "Text": "https://t.co/bKgkuEAdPi",
+            "BeginOffset": 84,
+            "EndOffset": 107
+        }
+    ]
+}

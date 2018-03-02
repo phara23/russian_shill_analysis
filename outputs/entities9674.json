@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9372718334197998,
+            "Type": "PERSON",
+            "Text": "@Trumptbird",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8029910922050476,
+            "Type": "QUANTITY",
+            "Text": "4 days",
+            "BeginOffset": 65,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9326205253601074,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 90,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.9486607313156128,
+            "Type": "PERSON",
+            "Text": "@seanhannity",
+            "BeginOffset": 107,
+            "EndOffset": 119
+        }
+    ]
+}

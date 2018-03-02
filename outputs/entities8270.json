@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6605245471000671,
+            "Type": "ORGANIZATION",
+            "Text": "@DVATW",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.8697953224182129,
+            "Type": "ORGANIZATION",
+            "Text": "ISIS",
+            "BeginOffset": 11,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8228268027305603,
+            "Type": "LOCATION",
+            "Text": "Brussels",
+            "BeginOffset": 16,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9951444864273071,
+            "Type": "PERSON",
+            "Text": "Najim Laachraoui",
+            "BeginOffset": 32,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.7628046870231628,
+            "Type": "ORGANIZATION",
+            "Text": "European Parliament",
+            "BeginOffset": 71,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9906811118125916,
+            "Type": "OTHER",
+            "Text": "https://t.co/TDZ3E",
+            "BeginOffset": 121,
+            "EndOffset": 139
+        }
+    ]
+}

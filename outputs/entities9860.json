@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4443191587924957,
+            "Type": "OTHER",
+            "Text": "1063",
+            "BeginOffset": 4,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.4963840842247009,
+            "Type": "LOCATION",
+            "Text": "atl",
+            "BeginOffset": 8,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9024493098258972,
+            "Type": "PERSON",
+            "Text": "Juelz Santana",
+            "BeginOffset": 26,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9999896287918091,
+            "Type": "OTHER",
+            "Text": "https://t.co/eMX9JgTv3v",
+            "BeginOffset": 62,
+            "EndOffset": 85
+        }
+    ]
+}

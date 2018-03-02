@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8135319352149963,
+            "Type": "PERSON",
+            "Text": "@YMCAGREATEROKC",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9787572026252747,
+            "Type": "OTHER",
+            "Text": "https://t.co/2pg",
+            "BeginOffset": 123,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4327327013015747,
+            "Type": "QUANTITY",
+            "Text": "4",
+            "BeginOffset": 8,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.6748033165931702,
+            "Type": "LOCATION",
+            "Text": "California",
+            "BeginOffset": 9,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.7987866401672363,
+            "Type": "LOCATION",
+            "Text": "France",
+            "BeginOffset": 20,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.850593626499176,
+            "Type": "QUANTITY",
+            "Text": "3 Mosques",
+            "BeginOffset": 38,
+            "EndOffset": 47
+        }
+    ]
+}

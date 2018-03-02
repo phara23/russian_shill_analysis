@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9339859485626221,
+            "Type": "PERSON",
+            "Text": "@icarranza500",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9041315913200378,
+            "Type": "PERSON",
+            "Text": "@DigiTour",
+            "BeginOffset": 51,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.35805895924568176,
+            "Type": "QUANTITY",
+            "Text": "106",
+            "BeginOffset": 130,
+            "EndOffset": 133
+        }
+    ]
+}

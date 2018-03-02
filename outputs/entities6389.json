@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8601489067077637,
+            "Type": "PERSON",
+            "Text": "@wtfnewsamerica",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9815069437026978,
+            "Type": "OTHER",
+            "Text": "https://t.co/GKq",
+            "BeginOffset": 123,
+            "EndOffset": 139
+        }
+    ]
+}

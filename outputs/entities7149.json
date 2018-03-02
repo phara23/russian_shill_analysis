@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8019976615905762,
+            "Type": "PERSON",
+            "Text": "@MaryPatriotNews",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.3613480031490326,
+            "Type": "ORGANIZATION",
+            "Text": "#Obama",
+            "BeginOffset": 34,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.2956119477748871,
+            "Type": "QUANTITY",
+            "Text": "2",
+            "BeginOffset": 47,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9957113265991211,
+            "Type": "QUANTITY",
+            "Text": "30%",
+            "BeginOffset": 72,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.9753853678703308,
+            "Type": "LOCATION",
+            "Text": "#USA",
+            "BeginOffset": 79,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.9795399904251099,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 119,
+            "EndOffset": 123
+        }
+    ]
+}

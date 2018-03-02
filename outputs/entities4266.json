@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8942772746086121,
+            "Type": "PERSON",
+            "Text": "@Tannenhouser",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8294841051101685,
+            "Type": "QUANTITY",
+            "Text": "#21",
+            "BeginOffset": 36,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9995139837265015,
+            "Type": "OTHER",
+            "Text": "https://t.co/vxle2Atclw",
+            "BeginOffset": 40,
+            "EndOffset": 63
+        }
+    ]
+}

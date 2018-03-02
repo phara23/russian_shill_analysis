@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8881794214248657,
+            "Type": "PERSON",
+            "Text": "@exjon",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.8072815537452698,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 35,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.6071863770484924,
+            "Type": "PERSON",
+            "Text": "Kwan",
+            "BeginOffset": 41,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9570754766464233,
+            "Type": "PERSON",
+            "Text": "@seanhannity",
+            "BeginOffset": 66,
+            "EndOffset": 78
+        }
+    ]
+}

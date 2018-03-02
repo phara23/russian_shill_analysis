@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8003769516944885,
+            "Type": "PERSON",
+            "Text": "@DanteB4u",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8413007855415344,
+            "Type": "PERSON",
+            "Text": "@tmtweetz",
+            "BeginOffset": 15,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9332274198532104,
+            "Type": "PERSON",
+            "Text": "@johnlegend",
+            "BeginOffset": 25,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9958378076553345,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 38,
+            "EndOffset": 43
+        }
+    ]
+}

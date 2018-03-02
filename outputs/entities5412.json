@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8153821229934692,
+            "Type": "PERSON",
+            "Text": "@thehill",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.7637641429901123,
+            "Type": "ORGANIZATION",
+            "Text": "Pharma",
+            "BeginOffset": 22,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9779689908027649,
+            "Type": "QUANTITY",
+            "Text": "4000 percent",
+            "BeginOffset": 55,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.599500834941864,
+            "Type": "OTHER",
+            "Text": "https://t.co/6V5UZwUTvr",
+            "BeginOffset": 95,
+            "EndOffset": 118
+        },
+        {
+            "Score": 0.9827073216438293,
+            "Type": "OTHER",
+            "Text": "https://t.co/nnzVJGn",
+            "BeginOffset": 119,
+            "EndOffset": 139
+        }
+    ]
+}

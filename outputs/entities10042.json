@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7811616063117981,
+            "Type": "PERSON",
+            "Text": "@ConstanceQueen8",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8826404809951782,
+            "Type": "PERSON",
+            "Text": "Bernie",
+            "BeginOffset": 36,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9837117791175842,
+            "Type": "LOCATION",
+            "Text": "Philadelphia",
+            "BeginOffset": 64,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.986722469329834,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 81,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9999281167984009,
+            "Type": "OTHER",
+            "Text": "https://t.co/bxIbqFpS3G",
+            "BeginOffset": 87,
+            "EndOffset": 110
+        }
+    ]
+}

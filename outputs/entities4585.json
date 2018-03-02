@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8935042023658752,
+            "Type": "QUANTITY",
+            "Text": "100 new empty beer cans",
+            "BeginOffset": 20,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.98363196849823,
+            "Type": "DATE",
+            "Text": "7 am",
+            "BeginOffset": 50,
+            "EndOffset": 54
+        }
+    ]
+}

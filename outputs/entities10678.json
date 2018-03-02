@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9060387015342712,
+            "Type": "PERSON",
+            "Text": "@kylegriffin1",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.611610472202301,
+            "Type": "ORGANIZATION",
+            "Text": "Pentagon",
+            "BeginOffset": 22,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9987154006958008,
+            "Type": "PERSON",
+            "Text": "Erik Prince",
+            "BeginOffset": 54,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9968417882919312,
+            "Type": "LOCATION",
+            "Text": "Afghanistan",
+            "BeginOffset": 97,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.9998781681060791,
+            "Type": "OTHER",
+            "Text": "https://t.co/EzKikkPKei",
+            "BeginOffset": 110,
+            "EndOffset": 133
+        }
+    ]
+}

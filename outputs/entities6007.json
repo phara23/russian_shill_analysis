@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7792605757713318,
+            "Type": "PERSON",
+            "Text": "@worldnetdaily",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9404696226119995,
+            "Type": "ORGANIZATION",
+            "Text": "Wikileaks",
+            "BeginOffset": 29,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.5180478692054749,
+            "Type": "QUANTITY",
+            "Text": "65",
+            "BeginOffset": 65,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9260281920433044,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 119,
+            "EndOffset": 126
+        },
+        {
+            "Score": 0.7569767236709595,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 130,
+            "EndOffset": 139
+        }
+    ]
+}

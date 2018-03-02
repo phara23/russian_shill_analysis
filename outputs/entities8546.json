@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9334114789962769,
+            "Type": "PERSON",
+            "Text": "@kevkid79",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9986345171928406,
+            "Type": "PERSON",
+            "Text": "Ed Klein",
+            "BeginOffset": 14,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9934602975845337,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 24,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9954568147659302,
+            "Type": "PERSON",
+            "Text": "Tim Kaine",
+            "BeginOffset": 70,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.9998310804367065,
+            "Type": "OTHER",
+            "Text": "https://t.co/dADqt3kdaH",
+            "BeginOffset": 80,
+            "EndOffset": 103
+        }
+    ]
+}

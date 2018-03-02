@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.914706826210022,
+            "Type": "PERSON",
+            "Text": "@spacelordrock",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9248284101486206,
+            "Type": "OTHER",
+            "Text": "https://t.co/Ozsc9ivNaw",
+            "BeginOffset": 40,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9999783039093018,
+            "Type": "OTHER",
+            "Text": "https://t.co/L35epYzztz",
+            "BeginOffset": 64,
+            "EndOffset": 87
+        }
+    ]
+}

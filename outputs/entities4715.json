@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7751736044883728,
+            "Type": "PERSON",
+            "Text": "@wickwife",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9315947890281677,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 45,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9747191667556763,
+            "Type": "QUANTITY",
+            "Text": "93%",
+            "BeginOffset": 74,
+            "EndOffset": 77
+        }
+    ]
+}

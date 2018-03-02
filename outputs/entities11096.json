@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8179430961608887,
+            "Type": "PERSON",
+            "Text": "@Nikodemus2012",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9141591787338257,
+            "Type": "LOCATION",
+            "Text": "Japan",
+            "BeginOffset": 47,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9998307228088379,
+            "Type": "OTHER",
+            "Text": "https://t.co/gl60LLynMm",
+            "BeginOffset": 81,
+            "EndOffset": 104
+        }
+    ]
+}

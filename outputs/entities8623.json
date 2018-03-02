@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9503129720687866,
+            "Type": "PERSON",
+            "Text": "@lynb362002",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9460177421569824,
+            "Type": "PERSON",
+            "Text": "@charliesheen",
+            "BeginOffset": 16,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9998503923416138,
+            "Type": "OTHER",
+            "Text": "https://t.co/KneGZKAA8s",
+            "BeginOffset": 107,
+            "EndOffset": 130
+        }
+    ]
+}

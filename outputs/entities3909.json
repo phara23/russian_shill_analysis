@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9369850158691406,
+            "Type": "PERSON",
+            "Text": "@taytay007007007",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.6505041122436523,
+            "Type": "ORGANIZATION",
+            "Text": "HRC",
+            "BeginOffset": 88,
+            "EndOffset": 91
+        }
+    ]
+}

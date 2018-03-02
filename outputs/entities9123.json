@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8851451873779297,
+            "Type": "PERSON",
+            "Text": "@Toure",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9798556566238403,
+            "Type": "PERSON",
+            "Text": "Michael",
+            "BeginOffset": 20,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9999749660491943,
+            "Type": "OTHER",
+            "Text": "https://t.co/sKPLJy2STm",
+            "BeginOffset": 29,
+            "EndOffset": 52
+        }
+    ]
+}

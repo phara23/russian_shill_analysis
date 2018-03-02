@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8984443545341492,
+            "Type": "PERSON",
+            "Text": "@nine_oh",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.6448346972465515,
+            "Type": "QUANTITY",
+            "Text": "4",
+            "BeginOffset": 30,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.8864025473594666,
+            "Type": "QUANTITY",
+            "Text": "120",
+            "BeginOffset": 32,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9294291138648987,
+            "Type": "QUANTITY",
+            "Text": "9.0",
+            "BeginOffset": 36,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9841601252555847,
+            "Type": "OTHER",
+            "Text": "https://t.co/lWs3L23YN1",
+            "BeginOffset": 56,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.9423468708992004,
+            "Type": "QUANTITY",
+            "Text": "30 DAY",
+            "BeginOffset": 80,
+            "EndOffset": 86
+        }
+    ]
+}

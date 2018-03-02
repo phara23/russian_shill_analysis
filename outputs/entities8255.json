@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8511796593666077,
+            "Type": "PERSON",
+            "Text": "@cookingscarlet",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9370781183242798,
+            "Type": "QUANTITY",
+            "Text": "1",
+            "BeginOffset": 46,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9895074963569641,
+            "Type": "QUANTITY",
+            "Text": "2 Years",
+            "BeginOffset": 48,
+            "EndOffset": 55
+        }
+    ]
+}

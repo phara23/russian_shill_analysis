@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9187899231910706,
+            "Type": "PERSON",
+            "Text": "@Cernovich",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9776377081871033,
+            "Type": "DATE",
+            "Text": "1:15 a.m.",
+            "BeginOffset": 20,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9831528067588806,
+            "Type": "LOCATION",
+            "Text": "NYC",
+            "BeginOffset": 33,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9806951284408569,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 41,
+            "EndOffset": 46
+        }
+    ]
+}

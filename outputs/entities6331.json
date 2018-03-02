@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8110369443893433,
+            "Type": "PERSON",
+            "Text": "@BlogOverwatch",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8901072144508362,
+            "Type": "LOCATION",
+            "Text": "Greece",
+            "BeginOffset": 19,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9876593351364136,
+            "Type": "QUANTITY",
+            "Text": "25 drugs",
+            "BeginOffset": 44,
+            "EndOffset": 52
+        }
+    ]
+}

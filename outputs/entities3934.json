@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9951851963996887,
+            "Type": "PERSON",
+            "Text": "Tomi Larhen",
+            "BeginOffset": 15,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9995148181915283,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 41,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.8618344664573669,
+            "Type": "OTHER",
+            "Text": "https://t.co/JBNpo2oELY",
+            "BeginOffset": 79,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.9999586343765259,
+            "Type": "OTHER",
+            "Text": "https://t.co/o8MuDAdc0b",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        }
+    ]
+}

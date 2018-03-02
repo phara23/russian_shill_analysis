@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9539286494255066,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.881348192691803,
+            "Type": "LOCATION",
+            "Text": "Pennsylvania",
+            "BeginOffset": 21,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9511203765869141,
+            "Type": "QUANTITY",
+            "Text": "Two rallies",
+            "BeginOffset": 54,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9621778130531311,
+            "Type": "DATE",
+            "Text": "Mon",
+            "BeginOffset": 75,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.41548779606819153,
+            "Type": "LOCATION",
+            "Text": "Ambridge",
+            "BeginOffset": 89,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.8959887623786926,
+            "Type": "OTHER",
+            "Text": "https://t.co/TujWDWcgd3",
+            "BeginOffset": 99,
+            "EndOffset": 122
+        },
+        {
+            "Score": 0.7203020453453064,
+            "Type": "ORGANIZATION",
+            "Text": "Wilkes-Barre",
+            "BeginOffset": 123,
+            "EndOffset": 135
+        }
+    ]
+}

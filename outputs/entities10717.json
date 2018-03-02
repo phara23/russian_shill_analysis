@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8586199283599854,
+            "Type": "PERSON",
+            "Text": "@NewtTrump",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9867923259735107,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 32,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9978410005569458,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 91,
+            "EndOffset": 96
+        }
+    ]
+}

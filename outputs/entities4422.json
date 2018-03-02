@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9694061279296875,
+            "Type": "PERSON",
+            "Text": "@jasondecker55",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9910786151885986,
+            "Type": "PERSON",
+            "Text": "Billy Graham",
+            "BeginOffset": 36,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.836792528629303,
+            "Type": "PERSON",
+            "Text": "God",
+            "BeginOffset": 57,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.946453869342804,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 74,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.5705465078353882,
+            "Type": "PERSON",
+            "Text": "Sodom",
+            "BeginOffset": 108,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.7198578715324402,
+            "Type": "PERSON",
+            "Text": "Gomorrah",
+            "BeginOffset": 120,
+            "EndOffset": 128
+        },
+        {
+            "Score": 0.9574224352836609,
+            "Type": "PERSON",
+            "Text": "@bad_boy_six",
+            "BeginOffset": 129,
+            "EndOffset": 141
+        },
+        {
+            "Score": 0.8934905529022217,
+            "Type": "PERSON",
+            "Text": "@kst",
+            "BeginOffset": 142,
+            "EndOffset": 146
+        }
+    ]
+}

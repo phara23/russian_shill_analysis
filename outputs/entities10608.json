@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7596336007118225,
+            "Type": "ORGANIZATION",
+            "Text": "Henrico",
+            "BeginOffset": 0,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.9456573128700256,
+            "Type": "QUANTITY",
+            "Text": "12-year-old",
+            "BeginOffset": 8,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9268870949745178,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 36,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9999849796295166,
+            "Type": "OTHER",
+            "Text": "https://t.co/Tfjt58Tks9",
+            "BeginOffset": 50,
+            "EndOffset": 73
+        }
+    ]
+}

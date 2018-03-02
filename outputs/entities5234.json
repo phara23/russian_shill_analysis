@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9473545551300049,
+            "Type": "PERSON",
+            "Text": "@kansasbabe",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9152687191963196,
+            "Type": "ORGANIZATION",
+            "Text": "Republican",
+            "BeginOffset": 29,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9900994896888733,
+            "Type": "ORGANIZATION",
+            "Text": "CNN",
+            "BeginOffset": 46,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9999502897262573,
+            "Type": "OTHER",
+            "Text": "https://t.co/H1M3PheTvV",
+            "BeginOffset": 83,
+            "EndOffset": 106
+        }
+    ]
+}

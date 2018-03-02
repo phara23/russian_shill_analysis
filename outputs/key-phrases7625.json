@@ -1,0 +1,40 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.8249790072441101,
+            "Text": "HUGE line",
+            "BeginOffset": 0,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9991082549095154,
+            "Text": "Trump",
+            "BeginOffset": 22,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.994382917881012,
+            "Text": "rally",
+            "BeginOffset": 30,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.987916886806488,
+            "Text": "#Everett",
+            "BeginOffset": 39,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9977999329566956,
+            "Text": "Media",
+            "BeginOffset": 50,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9349668025970459,
+            "Text": "Via @Kantrowitz",
+            "BeginOffset": 87,
+            "EndOffset": 102
+        }
+    ]
+}

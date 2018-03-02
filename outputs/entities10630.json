@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6569457054138184,
+            "Type": "PERSON",
+            "Text": "@vicenews",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9882563948631287,
+            "Type": "LOCATION",
+            "Text": "Kathmandu",
+            "BeginOffset": 29,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.8456932306289673,
+            "Type": "OTHER",
+            "Text": "http://t.co/AjP9cWZsqH",
+            "BeginOffset": 105,
+            "EndOffset": 127
+        },
+        {
+            "Score": 0.9844297170639038,
+            "Type": "OTHER",
+            "Text": "http://t.co",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

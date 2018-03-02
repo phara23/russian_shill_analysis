@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.734321117401123,
+            "Type": "PERSON",
+            "Text": "@udiseaoficial",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9704229831695557,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 42,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9999314546585083,
+            "Type": "OTHER",
+            "Text": "https://t.co/B90IdIyzQw",
+            "BeginOffset": 67,
+            "EndOffset": 90
+        }
+    ]
+}

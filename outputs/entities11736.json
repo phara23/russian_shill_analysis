@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9411964416503906,
+            "Type": "PERSON",
+            "Text": "@LeahR77",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9896723031997681,
+            "Type": "PERSON",
+            "Text": "Hillary Buys",
+            "BeginOffset": 35,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.8218128681182861,
+            "Type": "PERSON",
+            "Text": "Matthew",
+            "BeginOffset": 88,
+            "EndOffset": 95
+        }
+    ]
+}

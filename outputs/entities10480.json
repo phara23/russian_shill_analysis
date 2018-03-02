@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8872277140617371,
+            "Type": "PERSON",
+            "Text": "@lupash7",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.7175378799438477,
+            "Type": "PERSON",
+            "Text": "@SnookiNeedsJC",
+            "BeginOffset": 13,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.4058423340320587,
+            "Type": "QUANTITY",
+            "Text": "TWICE",
+            "BeginOffset": 30,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9900954961776733,
+            "Type": "PERSON",
+            "Text": "@GeraldYak420",
+            "BeginOffset": 37,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.91280198097229,
+            "Type": "PERSON",
+            "Text": "@JadedByPolitics",
+            "BeginOffset": 51,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9683625102043152,
+            "Type": "PERSON",
+            "Text": "@mikerzer",
+            "BeginOffset": 68,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9560309648513794,
+            "Type": "PERSON",
+            "Text": "@SarCatStyX",
+            "BeginOffset": 78,
+            "EndOffset": 89
+        }
+    ]
+}

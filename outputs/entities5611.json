@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8645220398902893,
+            "Type": "PERSON",
+            "Text": "@DarylONT",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9640057682991028,
+            "Type": "LOCATION",
+            "Text": "Eiffel Tower",
+            "BeginOffset": 111,
+            "EndOffset": 123
+        },
+        {
+            "Score": 0.7774280309677124,
+            "Type": "LOCATION",
+            "Text": "Pyramids",
+            "BeginOffset": 131,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9311721920967102,
+            "Type": "PERSON",
+            "Text": "@Scrufey21",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.4436175227165222,
+            "Type": "TITLE",
+            "Text": "JFK",
+            "BeginOffset": 28,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.8808254599571228,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 44,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.97800213098526,
+            "Type": "OTHER",
+            "Text": "https://t.co/pksOs75jxp",
+            "BeginOffset": 71,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.9556756615638733,
+            "Type": "ORGANIZATION",
+            "Text": "@RealJTP",
+            "BeginOffset": 99,
+            "EndOffset": 107
+        }
+    ]
+}

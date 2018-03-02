@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8338251709938049,
+            "Type": "PERSON",
+            "Text": "@QueerComedy",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.5762642621994019,
+            "Type": "PERSON",
+            "Text": "Sneezy",
+            "BeginOffset": 27,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.7193790674209595,
+            "Type": "PERSON",
+            "Text": "Wheezy Flea",
+            "BeginOffset": 35,
+            "EndOffset": 46
+        }
+    ]
+}

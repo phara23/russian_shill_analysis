@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6992291808128357,
+            "Type": "TITLE",
+            "Text": "We The People",
+            "BeginOffset": 23,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9972321391105652,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 48,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.4927891194820404,
+            "Type": "TITLE",
+            "Text": "#LockHerUp",
+            "BeginOffset": 87,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.9057063460350037,
+            "Type": "OTHER",
+            "Text": "https://t.co/Aca79DseL9",
+            "BeginOffset": 98,
+            "EndOffset": 121
+        }
+    ]
+}

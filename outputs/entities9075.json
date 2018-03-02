@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9541608095169067,
+            "Type": "PERSON",
+            "Text": "@TomiLahren",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9987854361534119,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 51,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9514874219894409,
+            "Type": "LOCATION",
+            "Text": "Benghazi",
+            "BeginOffset": 89,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.955778181552887,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

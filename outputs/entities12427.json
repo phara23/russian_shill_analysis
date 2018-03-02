@@ -1,0 +1,67 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7689315676689148,
+            "Type": "PERSON",
+            "Text": "@TopStarHipHop",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7509739398956299,
+            "Type": "QUANTITY",
+            "Text": "#13",
+            "BeginOffset": 19,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9364274144172668,
+            "Type": "PERSON",
+            "Text": "@PORTER1342",
+            "BeginOffset": 30,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.7052246928215027,
+            "Type": "QUANTITY",
+            "Text": "Top20",
+            "BeginOffset": 42,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.8430154323577881,
+            "Type": "PERSON",
+            "Text": "@TopStarHipHopRa  347-633-9588",
+            "BeginOffset": 48,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.9586500525474548,
+            "Type": "PERSON",
+            "Text": "@macpill1017",
+            "BeginOffset": 79,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.9730467796325684,
+            "Type": "OTHER",
+            "Text": "https://t.co/2oxbE575Cg",
+            "BeginOffset": 93,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.8470840454101562,
+            "Type": "PERSON",
+            "Text": "@bvhks",
+            "BeginOffset": 117,
+            "EndOffset": 123
+        },
+        {
+            "Score": 0.9870921969413757,
+            "Type": "PERSON",
+            "Text": "@mackdrama1017",
+            "BeginOffset": 124,
+            "EndOffset": 138
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.2575845718383789,
+            "Type": "ORGANIZATION",
+            "Text": "NewsRadio",
+            "BeginOffset": 0,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.4933590292930603,
+            "Type": "QUANTITY",
+            "Text": "1020 KDKA",
+            "BeginOffset": 10,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9983054399490356,
+            "Type": "DATE",
+            "Text": "July 17th",
+            "BeginOffset": 30,
+            "EndOffset": 39
+        }
+    ]
+}

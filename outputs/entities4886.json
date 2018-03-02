@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8735104203224182,
+            "Type": "PERSON",
+            "Text": "@zerohedge",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.604823887348175,
+            "Type": "PERSON",
+            "Text": "CARNEY",
+            "BeginOffset": 15,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.8778926730155945,
+            "Type": "LOCATION",
+            "Text": "UK",
+            "BeginOffset": 47,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.49979087710380554,
+            "Type": "ORGANIZATION",
+            "Text": "EU",
+            "BeginOffset": 91,
+            "EndOffset": 93
+        }
+    ]
+}

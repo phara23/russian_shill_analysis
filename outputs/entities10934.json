@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9503088593482971,
+            "Type": "PERSON",
+            "Text": "Kher",
+            "BeginOffset": 52,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.527121901512146,
+            "Type": "ORGANIZATION",
+            "Text": "BJP",
+            "BeginOffset": 81,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.6572222113609314,
+            "Type": "PERSON",
+            "Text": "Del",
+            "BeginOffset": 90,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.9918757677078247,
+            "Type": "OTHER",
+            "Text": "https://t.co/xwJl7aR6PE",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.6464195251464844,
+            "Type": "ORGANIZATION",
+            "Text": "#UniteBlue",
+            "BeginOffset": 121,
+            "EndOffset": 131
+        },
+        {
+            "Score": 0.5398014783859253,
+            "Type": "ORGANIZATION",
+            "Text": "#Tcot",
+            "BeginOffset": 132,
+            "EndOffset": 137
+        }
+    ]
+}

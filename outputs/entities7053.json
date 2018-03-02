@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8259040117263794,
+            "Type": "PERSON",
+            "Text": "@KCityDaily",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7591196298599243,
+            "Type": "DATE",
+            "Text": "Tuesday at 6",
+            "BeginOffset": 22,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.4334736764431,
+            "Type": "ORGANIZATION",
+            "Text": "KSN Investigates",
+            "BeginOffset": 36,
+            "EndOffset": 52
+        }
+    ]
+}

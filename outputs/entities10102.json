@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8694987297058105,
+            "Type": "PERSON",
+            "Text": "@GideonResnick",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9942190647125244,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 19,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9353841543197632,
+            "Type": "QUANTITY",
+            "Text": "about 40,000",
+            "BeginOffset": 35,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9991636276245117,
+            "Type": "DATE",
+            "Text": "2001",
+            "BeginOffset": 115,
+            "EndOffset": 119
+        },
+        {
+            "Score": 0.9834570288658142,
+            "Type": "DATE",
+            "Text": "2014",
+            "BeginOffset": 123,
+            "EndOffset": 127
+        }
+    ]
+}

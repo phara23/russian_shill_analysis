@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8688598275184631,
+            "Type": "PERSON",
+            "Text": "@dexmonte1",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9692161083221436,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 69,
+            "EndOffset": 74
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.756045937538147,
+            "Type": "PERSON",
+            "Text": "@OnPirateSat",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9049996733665466,
+            "Type": "ORGANIZATION",
+            "Text": "@CNN",
+            "BeginOffset": 18,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.6689203977584839,
+            "Type": "PERSON",
+            "Text": "@CarolCNN",
+            "BeginOffset": 23,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9772457480430603,
+            "Type": "PERSON",
+            "Text": "Lincoln",
+            "BeginOffset": 38,
+            "EndOffset": 45
+        }
+    ]
+}

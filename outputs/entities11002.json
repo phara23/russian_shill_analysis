@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8827950954437256,
+            "Type": "PERSON",
+            "Text": "@doktordab",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.6981180310249329,
+            "Type": "QUANTITY",
+            "Text": "10 Jahren bei",
+            "BeginOffset": 49,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.6066192984580994,
+            "Type": "ORGANIZATION",
+            "Text": "BKA",
+            "BeginOffset": 86,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.9923722743988037,
+            "Type": "OTHER",
+            "Text": "https://t.co/pD6R9Dh7",
+            "BeginOffset": 116,
+            "EndOffset": 137
+        }
+    ]
+}

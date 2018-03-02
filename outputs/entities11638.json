@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9637294411659241,
+            "Type": "PERSON",
+            "Text": "@MilJenmarie",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.5044776201248169,
+            "Type": "LOCATION",
+            "Text": "Americans",
+            "BeginOffset": 72,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.9932029247283936,
+            "Type": "DATE",
+            "Text": "8 Nov",
+            "BeginOffset": 109,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.9780709147453308,
+            "Type": "OTHER",
+            "Text": "https://t.co/G6cZ",
+            "BeginOffset": 122,
+            "EndOffset": 139
+        }
+    ]
+}

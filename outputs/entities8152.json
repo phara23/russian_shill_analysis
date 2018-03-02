@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9931221604347229,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.5243099927902222,
+            "Type": "LOCATION",
+            "Text": "Pentagon",
+            "BeginOffset": 9,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8057726621627808,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 40,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.8796215653419495,
+            "Type": "LOCATION",
+            "Text": "Libya",
+            "BeginOffset": 54,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.9477748274803162,
+            "Type": "OTHER",
+            "Text": "https://t.co/VVfGMfvcLC",
+            "BeginOffset": 60,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.37427210807800293,
+            "Type": "ORGANIZATION",
+            "Text": "#news",
+            "BeginOffset": 84,
+            "EndOffset": 89
+        }
+    ]
+}

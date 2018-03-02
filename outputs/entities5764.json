@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7501227259635925,
+            "Type": "PERSON",
+            "Text": "@drumbeats4peace",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8983734846115112,
+            "Type": "QUANTITY",
+            "Text": "1st amendment",
+            "BeginOffset": 99,
+            "EndOffset": 112
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9567465782165527,
+            "Type": "PERSON",
+            "Text": "@matt768",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9989305138587952,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 55,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9339329600334167,
+            "Type": "DATE",
+            "Text": "this week",
+            "BeginOffset": 111,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.9763052463531494,
+            "Type": "OTHER",
+            "Text": "https://t.co/88lDC",
+            "BeginOffset": 121,
+            "EndOffset": 139
+        }
+    ]
+}

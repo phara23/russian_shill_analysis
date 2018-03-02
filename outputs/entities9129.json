@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9281066656112671,
+            "Type": "PERSON",
+            "Text": "@libertyladyusa",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9399446249008179,
+            "Type": "LOCATION",
+            "Text": "Texas",
+            "BeginOffset": 38,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.8324161171913147,
+            "Type": "PERSON",
+            "Text": "@GregAbbott_TX",
+            "BeginOffset": 48,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9277952909469604,
+            "Type": "ORGANIZATION",
+            "Text": "Lone Star State",
+            "BeginOffset": 79,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.6781035661697388,
+            "Type": "OTHER",
+            "Text": "Syrian",
+            "BeginOffset": 103,
+            "EndOffset": 109
+        }
+    ]
+}

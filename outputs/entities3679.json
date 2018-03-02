@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9368575215339661,
+            "Type": "PERSON",
+            "Text": "@AshleyWarrior",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9237227439880371,
+            "Type": "ORGANIZATION",
+            "Text": "Islam",
+            "BeginOffset": 19,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.8549167513847351,
+            "Type": "ORGANIZATION",
+            "Text": "Islam",
+            "BeginOffset": 121,
+            "EndOffset": 126
+        }
+    ]
+}

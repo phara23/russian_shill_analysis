@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9215429425239563,
+            "Type": "PERSON",
+            "Text": "@KHThompson",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9993745684623718,
+            "Type": "PERSON",
+            "Text": "Olu Stevens",
+            "BeginOffset": 30,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9996434450149536,
+            "Type": "OTHER",
+            "Text": "https://t.co/Rzph3PodNq",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        }
+    ]
+}

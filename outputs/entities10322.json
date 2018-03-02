@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6337394118309021,
+            "Type": "PERSON",
+            "Text": "@mseric",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.8572565317153931,
+            "Type": "PERSON",
+            "Text": "@TheLordHasSpoke",
+            "BeginOffset": 12,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9998419284820557,
+            "Type": "OTHER",
+            "Text": "https://t.co/woojKtG1o4",
+            "BeginOffset": 29,
+            "EndOffset": 52
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8040731549263,
+            "Type": "ORGANIZATION",
+            "Text": "@WSJ",
+            "BeginOffset": 3,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.8732280731201172,
+            "Type": "LOCATION",
+            "Text": "Puerto Rico",
+            "BeginOffset": 19,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9996926784515381,
+            "Type": "OTHER",
+            "Text": "http://t.co/tYCeELTJqc",
+            "BeginOffset": 81,
+            "EndOffset": 103
+        }
+    ]
+}

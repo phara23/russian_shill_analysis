@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8467739820480347,
+            "Type": "PERSON",
+            "Text": "@MrEdTrain",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9911779761314392,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 82,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.9725248217582703,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 131,
+            "EndOffset": 147
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9977771639823914,
+            "Type": "ORGANIZATION",
+            "Text": "Cavs",
+            "BeginOffset": 0,
+            "EndOffset": 4
+        },
+        {
+            "Score": 0.9999856352806091,
+            "Type": "PERSON",
+            "Text": "Dan Gilbert",
+            "BeginOffset": 11,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9995783567428589,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 34,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.8433719277381897,
+            "Type": "LOCATION",
+            "Text": "Detroit",
+            "BeginOffset": 53,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9236799478530884,
+            "Type": "OTHER",
+            "Text": "https://t.co/Vo66bIcSGo",
+            "BeginOffset": 61,
+            "EndOffset": 84
+        }
+    ]
+}

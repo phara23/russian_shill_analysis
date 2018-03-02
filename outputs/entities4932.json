@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9243342280387878,
+            "Type": "PERSON",
+            "Text": "@BrianPaulStuart",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.4412406086921692,
+            "Type": "ORGANIZATION",
+            "Text": "#Republicans",
+            "BeginOffset": 26,
+            "EndOffset": 38
+        }
+    ]
+}

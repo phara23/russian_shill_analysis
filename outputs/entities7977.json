@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8147424459457397,
+            "Type": "PERSON",
+            "Text": "@DocThompsonShow",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9981595277786255,
+            "Type": "PERSON",
+            "Text": "Lindsey Graham",
+            "BeginOffset": 52,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.8605558276176453,
+            "Type": "ORGANIZATION",
+            "Text": "University Wisconsin-Milwaukee",
+            "BeginOffset": 94,
+            "EndOffset": 124
+        },
+        {
+            "Score": 0.7387544512748718,
+            "Type": "PERSON",
+            "Text": "@se",
+            "BeginOffset": 136,
+            "EndOffset": 139
+        }
+    ]
+}

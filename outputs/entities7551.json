@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9455562829971313,
+            "Type": "PERSON",
+            "Text": "@kennhoekstra",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7682750821113586,
+            "Type": "QUANTITY",
+            "Text": "#1",
+            "BeginOffset": 35,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9992639422416687,
+            "Type": "OTHER",
+            "Text": "https://t.co/SgljpOKkxF",
+            "BeginOffset": 91,
+            "EndOffset": 114
+        }
+    ]
+}

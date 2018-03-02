@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6838443279266357,
+            "Type": "PERSON",
+            "Text": "@naturehills",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.6668705940246582,
+            "Type": "OTHER",
+            "Text": "Japanese",
+            "BeginOffset": 23,
+            "EndOffset": 31
+        }
+    ]
+}

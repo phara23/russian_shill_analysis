@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9232075214385986,
+            "Type": "PERSON",
+            "Text": "@SamuelWhiskey2",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.43219995498657227,
+            "Type": "PERSON",
+            "Text": "#Hillary",
+            "BeginOffset": 73,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.9152075052261353,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 90,
+            "EndOffset": 97
+        }
+    ]
+}

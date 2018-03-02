@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7097023129463196,
+            "Type": "ORGANIZATION",
+            "Text": "@10thCrusader",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7460135221481323,
+            "Type": "ORGANIZATION",
+            "Text": "@robertmclaws",
+            "BeginOffset": 18,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9717759490013123,
+            "Type": "ORGANIZATION",
+            "Text": "@Project_Veritas",
+            "BeginOffset": 32,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.7563163042068481,
+            "Type": "ORGANIZATION",
+            "Text": "@JamesOKeefeIII",
+            "BeginOffset": 49,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.7585076093673706,
+            "Type": "ORGANIZATION",
+            "Text": "Veritas",
+            "BeginOffset": 66,
+            "EndOffset": 73
+        }
+    ]
+}

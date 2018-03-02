@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8636386394500732,
+            "Type": "PERSON",
+            "Text": "@odus_Outputs",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9998186826705933,
+            "Type": "PERSON",
+            "Text": "Jamal Crawford",
+            "BeginOffset": 31,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9994783401489258,
+            "Type": "PERSON",
+            "Text": "JJ Redick",
+            "BeginOffset": 49,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.6486645340919495,
+            "Type": "ORGANIZATION",
+            "Text": "FA",
+            "BeginOffset": 93,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.9911660552024841,
+            "Type": "PERSON",
+            "Text": "Spencer Hawes",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8195359706878662,
+            "Type": "PERSON",
+            "Text": "@WorldTruthTV",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.586064875125885,
+            "Type": "ORGANIZATION",
+            "Text": "Quaker Oats",
+            "BeginOffset": 18,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9998718500137329,
+            "Type": "OTHER",
+            "Text": "https://t.co/vdC8zYnh5J",
+            "BeginOffset": 100,
+            "EndOffset": 123
+        }
+    ]
+}

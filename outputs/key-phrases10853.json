@@ -1,0 +1,40 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9984801411628723,
+            "Text": "Some tickets",
+            "BeginOffset": 0,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9903694987297058,
+            "Text": "Gov. John Kasich",
+            "BeginOffset": 25,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9981319904327393,
+            "Text": "announcement",
+            "BeginOffset": 44,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9985498785972595,
+            "Text": "his presidential bid",
+            "BeginOffset": 60,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.7454906702041626,
+            "Text": "media outlets",
+            "BeginOffset": 82,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.5882390737533569,
+            "Text": "report",
+            "BeginOffset": 96,
+            "EndOffset": 102
+        }
+    ]
+}

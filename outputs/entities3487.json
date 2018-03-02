@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8754355311393738,
+            "Type": "PERSON",
+            "Text": "@CerromeRussell",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9848200082778931,
+            "Type": "LOCATION",
+            "Text": "Virginia",
+            "BeginOffset": 80,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9634122848510742,
+            "Type": "OTHER",
+            "Text": "https://t.co/r7mKmvip",
+            "BeginOffset": 118,
+            "EndOffset": 139
+        }
+    ]
+}

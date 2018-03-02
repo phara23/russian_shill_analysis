@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7195292711257935,
+            "Type": "PERSON",
+            "Text": "@DevinSavageOfcl",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8599216341972351,
+            "Type": "PERSON",
+            "Text": "@RealJamesWoods",
+            "BeginOffset": 21,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9445375800132751,
+            "Type": "PERSON",
+            "Text": "@LoriCerisano",
+            "BeginOffset": 37,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.8052700757980347,
+            "Type": "LOCATION",
+            "Text": "Mexico",
+            "BeginOffset": 62,
+            "EndOffset": 68
+        }
+    ]
+}

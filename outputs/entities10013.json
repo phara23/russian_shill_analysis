@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6841419339179993,
+            "Type": "PERSON",
+            "Text": "@DVATW",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9999767541885376,
+            "Type": "OTHER",
+            "Text": "https://t.co/DCLjNiMXO5",
+            "BeginOffset": 16,
+            "EndOffset": 39
+        }
+    ]
+}

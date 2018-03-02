@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9535389542579651,
+            "Type": "PERSON",
+            "Text": "@samantha_dietl",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9807769656181335,
+            "Type": "DATE",
+            "Text": "today",
+            "BeginOffset": 46,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.6209126114845276,
+            "Type": "ORGANIZATION",
+            "Text": "IUDM",
+            "BeginOffset": 55,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.7914664149284363,
+            "Type": "QUANTITY",
+            "Text": "first Day",
+            "BeginOffset": 62,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.6921066641807556,
+            "Type": "QUANTITY",
+            "Text": "10",
+            "BeginOffset": 101,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.7555644512176514,
+            "Type": "QUANTITY",
+            "Text": "20",
+            "BeginOffset": 132,
+            "EndOffset": 134
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8176361918449402,
+            "Type": "ORGANIZATION",
+            "Text": "@KNP2BP",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9361308813095093,
+            "Type": "PERSON",
+            "Text": "Barry",
+            "BeginOffset": 30,
+            "EndOffset": 35
+        }
+    ]
+}

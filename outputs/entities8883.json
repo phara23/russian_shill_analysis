@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.965397834777832,
+            "Type": "PERSON",
+            "Text": "@MichaelSkolnik",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9963105320930481,
+            "Type": "PERSON",
+            "Text": "Fidel Castro",
+            "BeginOffset": 20,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.7904707193374634,
+            "Type": "PERSON",
+            "Text": "Malcolm",
+            "BeginOffset": 35,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9999544620513916,
+            "Type": "OTHER",
+            "Text": "https://t.co/tQeThvJb0Q",
+            "BeginOffset": 44,
+            "EndOffset": 67
+        }
+    ]
+}

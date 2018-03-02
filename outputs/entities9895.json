@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9019330739974976,
+            "Type": "PERSON",
+            "Text": "@PrisonPlanet",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.4867037534713745,
+            "Type": "EVENT",
+            "Text": "Halloween",
+            "BeginOffset": 102,
+            "EndOffset": 111
+        }
+    ]
+}

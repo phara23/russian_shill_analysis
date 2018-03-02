@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.3927239179611206,
+            "Type": "PERSON",
+            "Text": "#MikeBrown",
+            "BeginOffset": 51,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.4394529163837433,
+            "Type": "PERSON",
+            "Text": "#MikeBrown",
+            "BeginOffset": 69,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.47104617953300476,
+            "Type": "PERSON",
+            "Text": "#SandraBland",
+            "BeginOffset": 80,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.7609753608703613,
+            "Type": "PERSON",
+            "Text": "#ChristianTaylor",
+            "BeginOffset": 93,
+            "EndOffset": 109
+        }
+    ]
+}

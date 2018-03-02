@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.837354838848114,
+            "Type": "ORGANIZATION",
+            "Text": "@AP",
+            "BeginOffset": 3,
+            "EndOffset": 6
+        },
+        {
+            "Score": 0.9909379482269287,
+            "Type": "LOCATION",
+            "Text": "Nepal",
+            "BeginOffset": 59,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9996672868728638,
+            "Type": "OTHER",
+            "Text": "http://t.co/2kVZaKOtya",
+            "BeginOffset": 92,
+            "EndOffset": 114
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7892863154411316,
+            "Type": "PERSON",
+            "Text": "@ProphecyEnt",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9835516810417175,
+            "Type": "OTHER",
+            "Text": "https://t.co/PHvpZpaHEi",
+            "BeginOffset": 65,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.7811583876609802,
+            "Type": "PERSON",
+            "Text": "@vnatale",
+            "BeginOffset": 99,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.9546665549278259,
+            "Type": "PERSON",
+            "Text": "@LazyConsultant",
+            "BeginOffset": 108,
+            "EndOffset": 123
+        },
+        {
+            "Score": 0.9845268726348877,
+            "Type": "PERSON",
+            "Text": "@TyshawnJay",
+            "BeginOffset": 124,
+            "EndOffset": 135
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9672648310661316,
+            "Type": "PERSON",
+            "Text": "@Kamani1147",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.5974780321121216,
+            "Type": "ORGANIZATION",
+            "Text": "CAIR",
+            "BeginOffset": 41,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9999023675918579,
+            "Type": "OTHER",
+            "Text": "https://t.co/avnjAX5ZGc",
+            "BeginOffset": 66,
+            "EndOffset": 89
+        }
+    ]
+}

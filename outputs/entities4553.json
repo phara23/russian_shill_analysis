@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8511332273483276,
+            "Type": "PERSON",
+            "Text": "@dagr8fm",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.7310875058174133,
+            "Type": "PERSON",
+            "Text": "COKAINE KOLI",
+            "BeginOffset": 13,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.942297637462616,
+            "Type": "OTHER",
+            "Text": "https://t.co/8bMdm8ELL5",
+            "BeginOffset": 44,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.857076108455658,
+            "Type": "QUANTITY",
+            "Text": "8fm",
+            "BeginOffset": 85,
+            "EndOffset": 88
+        }
+    ]
+}

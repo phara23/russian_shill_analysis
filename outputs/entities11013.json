@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9986400604248047,
+            "Type": "LOCATION",
+            "Text": "San Antonio",
+            "BeginOffset": 63,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9999576807022095,
+            "Type": "OTHER",
+            "Text": "https://t.co/Ez3H3AFw5G",
+            "BeginOffset": 95,
+            "EndOffset": 118
+        }
+    ]
+}

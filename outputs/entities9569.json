@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8527683615684509,
+            "Type": "PERSON",
+            "Text": "@bodysculptorokc",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9991419911384583,
+            "Type": "PERSON",
+            "Text": "Howard Stern",
+            "BeginOffset": 21,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9979255199432373,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 93,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.9699177145957947,
+            "Type": "OTHER",
+            "Text": "https://t.co/qwZP",
+            "BeginOffset": 122,
+            "EndOffset": 139
+        }
+    ]
+}

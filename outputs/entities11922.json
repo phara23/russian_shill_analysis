@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7693701982498169,
+            "Type": "PERSON",
+            "Text": "@ZaibatsuNews",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9487499594688416,
+            "Type": "ORGANIZATION",
+            "Text": "SpaceX",
+            "BeginOffset": 18,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.727186918258667,
+            "Type": "QUANTITY",
+            "Text": "first space tourists",
+            "BeginOffset": 33,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9166396856307983,
+            "Type": "DATE",
+            "Text": "next year",
+            "BeginOffset": 66,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.7908046245574951,
+            "Type": "OTHER",
+            "Text": "https://t.co/1wUvlyI3Nw",
+            "BeginOffset": 76,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.8136119842529297,
+            "Type": "ORGANIZATION",
+            "Text": "#p2 #ctl",
+            "BeginOffset": 100,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.9999290704727173,
+            "Type": "OTHER",
+            "Text": "https://t.co/ezv8eiv0O0",
+            "BeginOffset": 109,
+            "EndOffset": 132
+        }
+    ]
+}

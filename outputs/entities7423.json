@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9369279146194458,
+            "Type": "PERSON",
+            "Text": "@DanScavino",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9641200304031372,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 28,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.7430861592292786,
+            "Type": "ORGANIZATION",
+            "Text": "HRC",
+            "BeginOffset": 59,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.6447913646697998,
+            "Type": "PERSON",
+            "Text": "#CrookedHillary- DJT",
+            "BeginOffset": 66,
+            "EndOffset": 86
+        }
+    ]
+}

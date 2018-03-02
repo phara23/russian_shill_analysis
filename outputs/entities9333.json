@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9375663995742798,
+            "Type": "PERSON",
+            "Text": "@michaelkeyes",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9885944128036499,
+            "Type": "PERSON",
+            "Text": "Katie",
+            "BeginOffset": 18,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.7189505100250244,
+            "Type": "ORGANIZATION",
+            "Text": "Muslim",
+            "BeginOffset": 33,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.45758184790611267,
+            "Type": "ORGANIZATION",
+            "Text": "Christian",
+            "BeginOffset": 55,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9999039173126221,
+            "Type": "OTHER",
+            "Text": "https://t.co/gTIIPJbicN",
+            "BeginOffset": 85,
+            "EndOffset": 108
+        }
+    ]
+}

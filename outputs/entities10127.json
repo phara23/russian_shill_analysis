@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6900297403335571,
+            "Type": "ORGANIZATION",
+            "Text": "@msnbc",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.524187445640564,
+            "Type": "OTHER",
+            "Text": "PTSD",
+            "BeginOffset": 80,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9611150026321411,
+            "Type": "OTHER",
+            "Text": "http://t.co/CpJD4rprPV",
+            "BeginOffset": 86,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.9999972581863403,
+            "Type": "OTHER",
+            "Text": "http://t.co/1LqhcuxkCF",
+            "BeginOffset": 109,
+            "EndOffset": 131
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8460365533828735,
+            "Type": "PERSON",
+            "Text": "@CharliePATpk",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9901344776153564,
+            "Type": "PERSON",
+            "Text": "Denzel Washington",
+            "BeginOffset": 18,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.8128879070281982,
+            "Type": "PERSON",
+            "Text": "FLOTUS Obama",
+            "BeginOffset": 118,
+            "EndOffset": 130
+        }
+    ]
+}

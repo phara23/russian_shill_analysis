@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9688295125961304,
+            "Type": "PERSON",
+            "Text": "@ken_dahl",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8297969698905945,
+            "Type": "PERSON",
+            "Text": "@Dbargen",
+            "BeginOffset": 14,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9173368215560913,
+            "Type": "PERSON",
+            "Text": "@lazyzimms",
+            "BeginOffset": 23,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9947892427444458,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 39,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9999475479125977,
+            "Type": "OTHER",
+            "Text": "https://t.co/JZ6YmCgXNq",
+            "BeginOffset": 75,
+            "EndOffset": 98
+        }
+    ]
+}

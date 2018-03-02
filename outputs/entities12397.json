@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8980505466461182,
+            "Type": "PERSON",
+            "Text": "@IngrahamAngle",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7400932908058167,
+            "Type": "PERSON",
+            "Text": "@hannity",
+            "BeginOffset": 28,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9855421781539917,
+            "Type": "PERSON",
+            "Text": "Megyn Kelly",
+            "BeginOffset": 63,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9999293088912964,
+            "Type": "OTHER",
+            "Text": "https://t.co/804PMxqAWg",
+            "BeginOffset": 87,
+            "EndOffset": 110
+        }
+    ]
+}

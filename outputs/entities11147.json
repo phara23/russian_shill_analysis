@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8636084198951721,
+            "Type": "PERSON",
+            "Text": "@gerfingerpoken",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.946388304233551,
+            "Type": "PERSON",
+            "Text": "Carter",
+            "BeginOffset": 20,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9969434142112732,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 35,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.901972234249115,
+            "Type": "PERSON",
+            "Text": "@tedcruz",
+            "BeginOffset": 51,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.9809157252311707,
+            "Type": "OTHER",
+            "Text": "https://t.co/7UjDuLbSAX",
+            "BeginOffset": 63,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9624496102333069,
+            "Type": "OTHER",
+            "Text": "https://t.co/aTh9Vh3RZE",
+            "BeginOffset": 99,
+            "EndOffset": 122
+        }
+    ]
+}

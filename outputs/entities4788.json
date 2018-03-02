@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6979120373725891,
+            "Type": "PERSON",
+            "Text": "@TheFoundingSon",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9978019595146179,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 101,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.999914288520813,
+            "Type": "OTHER",
+            "Text": "https://t.co/jGvQC28hgx",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9414838552474976,
+            "Type": "PERSON",
+            "Text": "@KurtSchlichter",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9955769777297974,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 46,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.7079163789749146,
+            "Type": "PERSON",
+            "Text": "@AtticusGF",
+            "BeginOffset": 84,
+            "EndOffset": 94
+        }
+    ]
+}

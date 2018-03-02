@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9154174327850342,
+            "Type": "PERSON",
+            "Text": "@calico234",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.6290439367294312,
+            "Type": "DATE",
+            "Text": "#2016",
+            "BeginOffset": 15,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.9206526875495911,
+            "Type": "QUANTITY",
+            "Text": "4Words",
+            "BeginOffset": 22,
+            "EndOffset": 28
+        }
+    ]
+}

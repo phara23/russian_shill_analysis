@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8153821229934692,
+            "Type": "PERSON",
+            "Text": "@thehill",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8463155627250671,
+            "Type": "ORGANIZATION",
+            "Text": "White House",
+            "BeginOffset": 22,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9851486682891846,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 89,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.9803844690322876,
+            "Type": "OTHER",
+            "Text": "https://t.co/INUs75X",
+            "BeginOffset": 119,
+            "EndOffset": 139
+        }
+    ]
+}

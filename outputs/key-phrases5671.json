@@ -1,0 +1,34 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9995332956314087,
+            "Text": "Gary Johnson",
+            "BeginOffset": 0,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.6816213130950928,
+            "Text": "Aleppo",
+            "BeginOffset": 34,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9947316646575928,
+            "Text": "Hillary",
+            "BeginOffset": 42,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9113444685935974,
+            "Text": "e-mail",
+            "BeginOffset": 67,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.9883914589881897,
+            "Text": "presidents",
+            "BeginOffset": 98,
+            "EndOffset": 108
+        }
+    ]
+}

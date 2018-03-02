@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8807682991027832,
+            "Type": "ORGANIZATION",
+            "Text": "Disney",
+            "BeginOffset": 0,
+            "EndOffset": 6
+        },
+        {
+            "Score": 0.9996597766876221,
+            "Type": "OTHER",
+            "Text": "https://t.co/vtoCPeS8qZ",
+            "BeginOffset": 36,
+            "EndOffset": 59
+        }
+    ]
+}

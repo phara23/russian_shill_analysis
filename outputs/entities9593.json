@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9336187243461609,
+            "Type": "LOCATION",
+            "Text": "Europe",
+            "BeginOffset": 29,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9866125583648682,
+            "Type": "PERSON",
+            "Text": "Victor Orban",
+            "BeginOffset": 74,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9999892711639404,
+            "Type": "OTHER",
+            "Text": "https://t.co/XAO1rRC9Gc",
+            "BeginOffset": 87,
+            "EndOffset": 110
+        }
+    ]
+}

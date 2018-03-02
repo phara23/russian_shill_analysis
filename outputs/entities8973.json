@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8706080913543701,
+            "Type": "PERSON",
+            "Text": "@GaltsGultch",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.990997314453125,
+            "Type": "PERSON",
+            "Text": "Anderson Cooper",
+            "BeginOffset": 17,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9848778247833252,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 64,
+            "EndOffset": 69
+        }
+    ]
+}

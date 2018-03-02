@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8958091735839844,
+            "Type": "PERSON",
+            "Text": "@mckaycoppins",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9983238577842712,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 42,
+            "EndOffset": 47
+        }
+    ]
+}

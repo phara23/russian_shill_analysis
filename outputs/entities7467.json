@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8038921356201172,
+            "Type": "PERSON",
+            "Text": "@BocaLegend",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.6908164024353027,
+            "Type": "PERSON",
+            "Text": "@potus",
+            "BeginOffset": 20,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.985387921333313,
+            "Type": "PERSON",
+            "Text": "@BarackObama",
+            "BeginOffset": 27,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9883567094802856,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 42,
+            "EndOffset": 58
+        }
+    ]
+}

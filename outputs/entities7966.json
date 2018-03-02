@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9499977827072144,
+            "Type": "PERSON",
+            "Text": "@mavros351",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.912947416305542,
+            "Type": "PERSON",
+            "Text": "@w0tn0t",
+            "BeginOffset": 15,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.8839898705482483,
+            "Type": "PERSON",
+            "Text": "@888Scott",
+            "BeginOffset": 23,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9962460398674011,
+            "Type": "PERSON",
+            "Text": "@Elena07617349",
+            "BeginOffset": 33,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.961639940738678,
+            "Type": "PERSON",
+            "Text": "@NotHappyJann",
+            "BeginOffset": 48,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.99992835521698,
+            "Type": "OTHER",
+            "Text": "https://t.co/UBTj41yQ5O",
+            "BeginOffset": 62,
+            "EndOffset": 85
+        }
+    ]
+}

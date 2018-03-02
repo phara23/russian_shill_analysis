@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9600184559822083,
+            "Type": "PERSON",
+            "Text": "@JimmyEarlWard",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9868676662445068,
+            "Type": "OTHER",
+            "Text": "https://t.co/KwxmJGNd2E",
+            "BeginOffset": 55,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.9334812164306641,
+            "Type": "PERSON",
+            "Text": "@ScheyChris",
+            "BeginOffset": 89,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.9081385135650635,
+            "Type": "PERSON",
+            "Text": "@321Chapp",
+            "BeginOffset": 101,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.9628440141677856,
+            "Type": "PERSON",
+            "Text": "@MericaSavin",
+            "BeginOffset": 111,
+            "EndOffset": 123
+        }
+    ]
+}

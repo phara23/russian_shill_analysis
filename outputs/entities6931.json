@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9214772582054138,
+            "Type": "PERSON",
+            "Text": "@alanahoff144",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9761226773262024,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 26,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.4437423348426819,
+            "Type": "QUANTITY",
+            "Text": "Millions",
+            "BeginOffset": 45,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9999587535858154,
+            "Type": "OTHER",
+            "Text": "https://t.co/EomCNFBbi8",
+            "BeginOffset": 84,
+            "EndOffset": 107
+        }
+    ]
+}

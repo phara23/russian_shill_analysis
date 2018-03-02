@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9376206398010254,
+            "Type": "PERSON",
+            "Text": "@randyshort",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9752722978591919,
+            "Type": "PERSON",
+            "Text": "HILLARY CLINTON",
+            "BeginOffset": 35,
+            "EndOffset": 50
+        }
+    ]
+}

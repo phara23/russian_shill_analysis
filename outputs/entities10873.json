@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8302891850471497,
+            "Type": "PERSON",
+            "Text": "@OnlineHouston",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6425659656524658,
+            "Type": "LOCATION",
+            "Text": "Dallas",
+            "BeginOffset": 19,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.6044409871101379,
+            "Type": "LOCATION",
+            "Text": "#Texas",
+            "BeginOffset": 82,
+            "EndOffset": 88
+        }
+    ]
+}

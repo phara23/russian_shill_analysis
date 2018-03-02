@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8552935123443604,
+            "Type": "PERSON",
+            "Text": "@PaulObrienUSA",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7639432549476624,
+            "Type": "PERSON",
+            "Text": "#Clinton",
+            "BeginOffset": 22,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.8740283250808716,
+            "Type": "ORGANIZATION",
+            "Text": "@CNN",
+            "BeginOffset": 68,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.5592796802520752,
+            "Type": "PERSON",
+            "Text": "#Cher",
+            "BeginOffset": 79,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9634438157081604,
+            "Type": "LOCATION",
+            "Text": "#USA",
+            "BeginOffset": 125,
+            "EndOffset": 129
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9317305684089661,
+            "Type": "PERSON",
+            "Text": "@GemMar333",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8173633217811584,
+            "Type": "PERSON",
+            "Text": "@CGAdamo",
+            "BeginOffset": 15,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.4702112376689911,
+            "Type": "PERSON",
+            "Text": "Virgo",
+            "BeginOffset": 44,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9783715009689331,
+            "Type": "PERSON",
+            "Text": "@DarkEpiphany9",
+            "BeginOffset": 77,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.9931725859642029,
+            "Type": "PERSON",
+            "Text": "@Elena07617349",
+            "BeginOffset": 92,
+            "EndOffset": 106
+        }
+    ]
+}

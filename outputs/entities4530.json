@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8614888787269592,
+            "Type": "PERSON",
+            "Text": "@DJAYTIGER",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8931165337562561,
+            "Type": "TITLE",
+            "Text": "#TheFourHorsemen",
+            "BeginOffset": 70,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.8557698130607605,
+            "Type": "OTHER",
+            "Text": "https://t.co/ENTjJIUuPf",
+            "BeginOffset": 107,
+            "EndOffset": 130
+        },
+        {
+            "Score": 0.8471464514732361,
+            "Type": "OTHER",
+            "Text": "https://…",
+            "BeginOffset": 131,
+            "EndOffset": 140
+        }
+    ]
+}

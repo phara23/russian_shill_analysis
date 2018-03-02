@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4653598964214325,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.7951520681381226,
+            "Type": "ORGANIZATION",
+            "Text": "@FL4",
+            "BeginOffset": 3,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.9997605681419373,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 24,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9696076512336731,
+            "Type": "DATE",
+            "Text": "today",
+            "BeginOffset": 56,
+            "EndOffset": 61
+        }
+    ]
+}

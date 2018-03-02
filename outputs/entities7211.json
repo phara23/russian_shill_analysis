@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.3811112344264984,
+            "Type": "PERSON",
+            "Text": "Guns",
+            "BeginOffset": 51,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9539938569068909,
+            "Type": "LOCATION",
+            "Text": "California",
+            "BeginOffset": 127,
+            "EndOffset": 137
+        }
+    ]
+}

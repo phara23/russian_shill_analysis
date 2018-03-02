@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8420330286026001,
+            "Type": "PERSON",
+            "Text": "@atlasshrugs",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.5411621928215027,
+            "Type": "LOCATION",
+            "Text": "Russia",
+            "BeginOffset": 17,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.8079678416252136,
+            "Type": "ORGANIZATION",
+            "Text": "Islamic State",
+            "BeginOffset": 38,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9247812032699585,
+            "Type": "OTHER",
+            "Text": "https://t.co/scv5yAQqnN",
+            "BeginOffset": 66,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.999994158744812,
+            "Type": "OTHER",
+            "Text": "https://t.co/v44CuE44qG",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        }
+    ]
+}

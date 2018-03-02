@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.946682870388031,
+            "Type": "PERSON",
+            "Text": "@Darren32895836",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9352170825004578,
+            "Type": "ORGANIZATION",
+            "Text": "FBI",
+            "BeginOffset": 32,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9645749926567078,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 49,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9962030053138733,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 61,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.9993487596511841,
+            "Type": "PERSON",
+            "Text": "Bob Creamer",
+            "BeginOffset": 97,
+            "EndOffset": 108
+        }
+    ]
+}

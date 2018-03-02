@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8459855914115906,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.6592914462089539,
+            "Type": "ORGANIZATION",
+            "Text": "WPC",
+            "BeginOffset": 33,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9759122729301453,
+            "Type": "OTHER",
+            "Text": "https://t.co/GzptYGVohb",
+            "BeginOffset": 37,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.8182739615440369,
+            "Type": "PERSON",
+            "Text": "@GuardianTT",
+            "BeginOffset": 61,
+            "EndOffset": 72
+        }
+    ]
+}

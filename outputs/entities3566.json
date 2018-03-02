@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9453949332237244,
+            "Type": "PERSON",
+            "Text": "@martucci_peter",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9704527258872986,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 50,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.8554793000221252,
+            "Type": "PERSON",
+            "Text": "@SenSchumer",
+            "BeginOffset": 87,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.5816528797149658,
+            "Type": "PERSON",
+            "Text": "Putin",
+            "BeginOffset": 105,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.9754379391670227,
+            "Type": "OTHER",
+            "Text": "https://t.co/Z7uXm",
+            "BeginOffset": 125,
+            "EndOffset": 143
+        }
+    ]
+}

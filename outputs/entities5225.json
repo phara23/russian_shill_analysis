@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.998837411403656,
+            "Type": "PERSON",
+            "Text": "Bill Clinton",
+            "BeginOffset": 4,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9982799887657166,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 33,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.8865676522254944,
+            "Type": "PERSON",
+            "Text": "Darcy",
+            "BeginOffset": 50,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9987431764602661,
+            "Type": "PERSON",
+            "Text": "Bill Clinton",
+            "BeginOffset": 65,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9987266659736633,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 92,
+            "EndOffset": 99
+        }
+    ]
+}

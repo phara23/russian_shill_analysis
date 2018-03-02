@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9396132230758667,
+            "Type": "PERSON",
+            "Text": "@ShaunKing",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9999784231185913,
+            "Type": "OTHER",
+            "Text": "https://t.co/0tvQ6WDAMm",
+            "BeginOffset": 41,
+            "EndOffset": 64
+        }
+    ]
+}

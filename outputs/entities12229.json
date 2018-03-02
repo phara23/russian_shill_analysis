@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9283271431922913,
+            "Type": "PERSON",
+            "Text": "@magnifier661",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9997321367263794,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 37,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.4295388460159302,
+            "Type": "PERSON",
+            "Text": "#ClintonSca",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8094133734703064,
+            "Type": "PERSON",
+            "Text": "@SinCityChiGirl",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.828234076499939,
+            "Type": "ORGANIZATION",
+            "Text": "Disney",
+            "BeginOffset": 90,
+            "EndOffset": 96
+        }
+    ]
+}

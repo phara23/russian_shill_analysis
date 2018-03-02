@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8802343010902405,
+            "Type": "PERSON",
+            "Text": "@ProLifeRosary",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7418163418769836,
+            "Type": "QUANTITY",
+            "Text": "one message",
+            "BeginOffset": 44,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.40376928448677063,
+            "Type": "LOCATION",
+            "Text": "Heaven",
+            "BeginOffset": 61,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.7196983695030212,
+            "Type": "EVENT",
+            "Text": "#myvote2016",
+            "BeginOffset": 75,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9884973764419556,
+            "Type": "OTHER",
+            "Text": "https://t.co/7tWILT",
+            "BeginOffset": 120,
+            "EndOffset": 139
+        }
+    ]
+}

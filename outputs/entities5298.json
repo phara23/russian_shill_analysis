@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8713445067405701,
+            "Type": "PERSON",
+            "Text": "@Zaponex",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8446022272109985,
+            "Type": "LOCATION",
+            "Text": "Orange County",
+            "BeginOffset": 13,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.7108973860740662,
+            "Type": "DATE",
+            "Text": "#2016",
+            "BeginOffset": 41,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.8604273796081543,
+            "Type": "QUANTITY",
+            "Text": "4Words",
+            "BeginOffset": 48,
+            "EndOffset": 54
+        }
+    ]
+}

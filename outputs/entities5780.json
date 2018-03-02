@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8786044120788574,
+            "Type": "PERSON",
+            "Text": "President Obama",
+            "BeginOffset": 18,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.7211538553237915,
+            "Type": "LOCATION",
+            "Text": "#Syria",
+            "BeginOffset": 37,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.8489542007446289,
+            "Type": "OTHER",
+            "Text": "https://t.co/f4nr4jC6Ec",
+            "BeginOffset": 44,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9999699592590332,
+            "Type": "OTHER",
+            "Text": "https://t.co/KIqErEB9xk",
+            "BeginOffset": 68,
+            "EndOffset": 91
+        }
+    ]
+}

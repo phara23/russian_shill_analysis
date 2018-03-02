@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5903636813163757,
+            "Type": "PERSON",
+            "Text": "@547",
+            "BeginOffset": 3,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.9211888313293457,
+            "Type": "PERSON",
+            "Text": "George",
+            "BeginOffset": 7,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.7924189567565918,
+            "Type": "LOCATION",
+            "Text": "USA",
+            "BeginOffset": 15,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.6410104632377625,
+            "Type": "QUANTITY",
+            "Text": "2force",
+            "BeginOffset": 40,
+            "EndOffset": 46
+        }
+    ]
+}

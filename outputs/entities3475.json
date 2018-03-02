@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8428325653076172,
+            "Type": "PERSON",
+            "Text": "@GiselleEvns",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.5456386804580688,
+            "Type": "QUANTITY",
+            "Text": "One",
+            "BeginOffset": 39,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9949652552604675,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 72,
+            "EndOffset": 79
+        }
+    ]
+}

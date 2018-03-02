@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8218393921852112,
+            "Type": "PERSON",
+            "Text": "@PWilliamsD",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9994664192199707,
+            "Type": "PERSON",
+            "Text": "Pamela Geller",
+            "BeginOffset": 28,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9882367253303528,
+            "Type": "PERSON",
+            "Text": "Pamela Geller",
+            "BeginOffset": 88,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.9999059438705444,
+            "Type": "OTHER",
+            "Text": "https://t.co/M3Vemb71St",
+            "BeginOffset": 108,
+            "EndOffset": 131
+        }
+    ]
+}

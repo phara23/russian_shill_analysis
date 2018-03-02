@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8460928797721863,
+            "Type": "PERSON",
+            "Text": "Newt Gingrich",
+            "BeginOffset": 0,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9999703168869019,
+            "Type": "OTHER",
+            "Text": "https://t.co/cD0U49fJ9K",
+            "BeginOffset": 35,
+            "EndOffset": 58
+        }
+    ]
+}

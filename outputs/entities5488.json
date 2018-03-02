@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.819091796875,
+            "Type": "PERSON",
+            "Text": "@Ignatius4",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9955618381500244,
+            "Type": "OTHER",
+            "Text": "https://t.co/JCp7odxXAY",
+            "BeginOffset": 57,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.9849722981452942,
+            "Type": "ORGANIZATION",
+            "Text": "@YouTube",
+            "BeginOffset": 85,
+            "EndOffset": 93
+        }
+    ]
+}

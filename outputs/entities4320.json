@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8639330863952637,
+            "Type": "PERSON",
+            "Text": "@zerohedge",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9017054438591003,
+            "Type": "ORGANIZATION",
+            "Text": "China Central Bank",
+            "BeginOffset": 15,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.970687210559845,
+            "Type": "QUANTITY",
+            "Text": "1.035 Trillion",
+            "BeginOffset": 51,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9999613761901855,
+            "Type": "OTHER",
+            "Text": "https://t.co/v87wwVP4TE",
+            "BeginOffset": 94,
+            "EndOffset": 117
+        }
+    ]
+}

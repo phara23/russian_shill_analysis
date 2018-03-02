@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8567847013473511,
+            "Type": "ORGANIZATION",
+            "Text": "@AP",
+            "BeginOffset": 3,
+            "EndOffset": 6
+        },
+        {
+            "Score": 0.8441267609596252,
+            "Type": "QUANTITY",
+            "Text": "four black suspects",
+            "BeginOffset": 60,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.9992156028747559,
+            "Type": "ORGANIZATION",
+            "Text": "Facebook",
+            "BeginOffset": 129,
+            "EndOffset": 137
+        }
+    ]
+}

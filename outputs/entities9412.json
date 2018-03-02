@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8850855231285095,
+            "Type": "PERSON",
+            "Text": "@oneJesusloves",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8079259395599365,
+            "Type": "PERSON",
+            "Text": "@USAHEROSALUTE",
+            "BeginOffset": 22,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.8698053359985352,
+            "Type": "OTHER",
+            "Text": "https://t.co/uYaTmLwaaK",
+            "BeginOffset": 101,
+            "EndOffset": 124
+        }
+    ]
+}

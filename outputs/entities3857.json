@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7889005541801453,
+            "Type": "PERSON",
+            "Text": "@AwakeNancyRN",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9616530537605286,
+            "Type": "PERSON",
+            "Text": "@Pjmbsnrn1",
+            "BeginOffset": 18,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9636184573173523,
+            "Type": "PERSON",
+            "Text": "@SenJohnMcCain",
+            "BeginOffset": 29,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.8654479384422302,
+            "Type": "PERSON",
+            "Text": "@POTUS",
+            "BeginOffset": 44,
+            "EndOffset": 50
+        }
+    ]
+}

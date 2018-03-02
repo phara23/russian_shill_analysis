@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.917142927646637,
+            "Type": "PERSON",
+            "Text": "@hughhewitt",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8896830677986145,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 33,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9418625235557556,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 75,
+            "EndOffset": 91
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7856444120407104,
+            "Type": "PERSON",
+            "Text": "@FeelTheBernNL",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9310798048973083,
+            "Type": "QUANTITY",
+            "Text": "9892$",
+            "BeginOffset": 68,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.5804240107536316,
+            "Type": "ORGANIZATION",
+            "Text": "#DNC",
+            "BeginOffset": 78,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.9711315631866455,
+            "Type": "ORGANIZATION",
+            "Text": "FCC",
+            "BeginOffset": 107,
+            "EndOffset": 110
+        }
+    ]
+}

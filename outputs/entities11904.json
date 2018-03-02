@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9408864378929138,
+            "Type": "PERSON",
+            "Text": "@MissAngelaDavis",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.7097470760345459,
+            "Type": "ORGANIZATION",
+            "Text": "House of Cards",
+            "BeginOffset": 21,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9988595247268677,
+            "Type": "DATE",
+            "Text": "2017",
+            "BeginOffset": 67,
+            "EndOffset": 71
+        }
+    ]
+}

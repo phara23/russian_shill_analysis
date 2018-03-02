@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8236884474754333,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.529052197933197,
+            "Type": "ORGANIZATION",
+            "Text": "Cavaliers",
+            "BeginOffset": 23,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.8655205368995667,
+            "Type": "TITLE",
+            "Text": "I Am With You All",
+            "BeginOffset": 46,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9453760385513306,
+            "Type": "OTHER",
+            "Text": "https://t.co/bhpHcXe1mO",
+            "BeginOffset": 111,
+            "EndOffset": 134
+        },
+        {
+            "Score": 0.8869953751564026,
+            "Type": "PERSON",
+            "Text": "@Urb",
+            "BeginOffset": 135,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9869308471679688,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 0,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.9916766881942749,
+            "Type": "TITLE",
+            "Text": "Obamacare",
+            "BeginOffset": 11,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.6242175102233887,
+            "Type": "PERSON",
+            "Text": "Darcy",
+            "BeginOffset": 33,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.7187443971633911,
+            "Type": "OTHER",
+            "Text": "https://t.co/HM5fT5fA5j",
+            "BeginOffset": 47,
+            "EndOffset": 70
+        }
+    ]
+}

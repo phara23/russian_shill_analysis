@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8435399532318115,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.98097825050354,
+            "Type": "OTHER",
+            "Text": "https://t.co/wql0o4m3Nn",
+            "BeginOffset": 44,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.824158251285553,
+            "Type": "PERSON",
+            "Text": "@RealityUK_2016",
+            "BeginOffset": 78,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.9953590035438538,
+            "Type": "PERSON",
+            "Text": "@danielafonso01",
+            "BeginOffset": 94,
+            "EndOffset": 109
+        },
+        {
+            "Score": 0.9709071516990662,
+            "Type": "PERSON",
+            "Text": "@therealzanetta",
+            "BeginOffset": 110,
+            "EndOffset": 125
+        }
+    ]
+}

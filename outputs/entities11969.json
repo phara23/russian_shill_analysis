@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6296446323394775,
+            "Type": "PERSON",
+            "Text": "@scottisbell_",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8316696286201477,
+            "Type": "EVENT",
+            "Text": "Christmas",
+            "BeginOffset": 24,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9060236811637878,
+            "Type": "PERSON",
+            "Text": "Princess Brooke",
+            "BeginOffset": 72,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.9999415874481201,
+            "Type": "OTHER",
+            "Text": "https://t.co/BVn3nz5leN",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        }
+    ]
+}

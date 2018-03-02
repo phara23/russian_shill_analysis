@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.731742799282074,
+            "Type": "PERSON",
+            "Text": "@ChicagoILDaily",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9625658392906189,
+            "Type": "QUANTITY",
+            "Text": "5",
+            "BeginOffset": 79,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.9983758926391602,
+            "Type": "QUANTITY",
+            "Text": "1",
+            "BeginOffset": 81,
+            "EndOffset": 82
+        }
+    ]
+}

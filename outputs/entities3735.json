@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.52301424741745,
+            "Type": "OTHER",
+            "Text": "American",
+            "BeginOffset": 9,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7850099802017212,
+            "Type": "PERSON",
+            "Text": "TOM HANKS",
+            "BeginOffset": 31,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9886215329170227,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 80,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.9724871516227722,
+            "Type": "OTHER",
+            "Text": "https://t.co/Xhh9DjlDeP",
+            "BeginOffset": 87,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.9999369382858276,
+            "Type": "OTHER",
+            "Text": "https://t.co/FbrSfdLvut",
+            "BeginOffset": 111,
+            "EndOffset": 134
+        }
+    ]
+}

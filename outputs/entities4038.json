@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9284592866897583,
+            "Type": "PERSON",
+            "Text": "@CheriJacobus",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.5006812810897827,
+            "Type": "ORGANIZATION",
+            "Text": "KKK",
+            "BeginOffset": 27,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.987794041633606,
+            "Type": "PERSON",
+            "Text": "David Duke",
+            "BeginOffset": 33,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9811595678329468,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 70,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.9997166991233826,
+            "Type": "OTHER",
+            "Text": "https://t.co/UulRvtnLYj",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        }
+    ]
+}

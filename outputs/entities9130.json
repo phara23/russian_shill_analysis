@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6976988911628723,
+            "Type": "PERSON",
+            "Text": "@ProLifePolitics",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9696972966194153,
+            "Type": "PERSON",
+            "Text": "@KamalaHarris",
+            "BeginOffset": 22,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9998267292976379,
+            "Type": "OTHER",
+            "Text": "https://t.co/GeRh5yJEqP",
+            "BeginOffset": 115,
+            "EndOffset": 138
+        }
+    ]
+}

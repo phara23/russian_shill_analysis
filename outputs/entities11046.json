@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8263971209526062,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8179856538772583,
+            "Type": "PERSON",
+            "Text": "@AllAfrica",
+            "BeginOffset": 14,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.31718841195106506,
+            "Type": "LOCATION",
+            "Text": "Uganda",
+            "BeginOffset": 26,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9999804496765137,
+            "Type": "OTHER",
+            "Text": "https://t.co/FCq8iHXZc3",
+            "BeginOffset": 84,
+            "EndOffset": 107
+        }
+    ]
+}

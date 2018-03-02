@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8504714965820312,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8868098258972168,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 13,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.6563053727149963,
+            "Type": "LOCATION",
+            "Text": "Baton Rouge",
+            "BeginOffset": 26,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9508973360061646,
+            "Type": "OTHER",
+            "Text": "https://t.co/FArpNeSciV",
+            "BeginOffset": 38,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.935909628868103,
+            "Type": "ORGANIZATION",
+            "Text": "@TheBpDShow",
+            "BeginOffset": 66,
+            "EndOffset": 77
+        }
+    ]
+}

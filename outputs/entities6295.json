@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9213657975196838,
+            "Type": "PERSON",
+            "Text": "@MrsCannabis",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7712785005569458,
+            "Type": "LOCATION",
+            "Text": "California",
+            "BeginOffset": 21,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9707021713256836,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 45,
+            "EndOffset": 50
+        }
+    ]
+}

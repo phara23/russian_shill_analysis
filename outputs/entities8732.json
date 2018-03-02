@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7934499382972717,
+            "Type": "PERSON",
+            "Text": "@TheSportsGay217",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9736904501914978,
+            "Type": "DATE",
+            "Text": "1975",
+            "BeginOffset": 23,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.46359625458717346,
+            "Type": "ORGANIZATION",
+            "Text": "Betamax",
+            "BeginOffset": 28,
+            "EndOffset": 35
+        }
+    ]
+}

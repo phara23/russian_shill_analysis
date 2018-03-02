@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6638402938842773,
+            "Type": "ORGANIZATION",
+            "Text": "@yourltldogtoo",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6898962259292603,
+            "Type": "ORGANIZATION",
+            "Text": "@ZZion",
+            "BeginOffset": 19,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.8256961703300476,
+            "Type": "PERSON",
+            "Text": "@RevJJackson",
+            "BeginOffset": 26,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.8289027810096741,
+            "Type": "PERSON",
+            "Text": "@amjoyshow",
+            "BeginOffset": 39,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.8261528611183167,
+            "Type": "PERSON",
+            "Text": "@PARISDENNARD",
+            "BeginOffset": 50,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.8044177889823914,
+            "Type": "PERSON",
+            "Text": "Joy",
+            "BeginOffset": 64,
+            "EndOffset": 67
+        }
+    ]
+}

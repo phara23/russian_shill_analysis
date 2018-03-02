@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7035768628120422,
+            "Type": "PERSON",
+            "Text": "@CatsCoffeeBooks",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9587674140930176,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 53,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.7677987217903137,
+            "Type": "QUANTITY",
+            "Text": "4Words",
+            "BeginOffset": 59,
+            "EndOffset": 65
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8518930673599243,
+            "Type": "PERSON",
+            "Text": "@TransGriot",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8498066663742065,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 20,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.8851320743560791,
+            "Type": "ORGANIZATION",
+            "Text": "@POTUS",
+            "BeginOffset": 40,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9998432397842407,
+            "Type": "OTHER",
+            "Text": "https://t.co/uSkA7Gvacs",
+            "BeginOffset": 47,
+            "EndOffset": 70
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7734947800636292,
+            "Type": "PERSON",
+            "Text": "@amrightnow",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.988166093826294,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 39,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.913282573223114,
+            "Type": "OTHER",
+            "Text": "https://t.co/MpRYSZ10AZ",
+            "BeginOffset": 94,
+            "EndOffset": 117
+        },
+        {
+            "Score": 0.9535108208656311,
+            "Type": "OTHER",
+            "Text": "https://t.co/WL",
+            "BeginOffset": 124,
+            "EndOffset": 139
+        }
+    ]
+}

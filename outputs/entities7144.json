@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7294906377792358,
+            "Type": "PERSON",
+            "Text": "@theglobaluniter",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9514111280441284,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 21,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.35587871074676514,
+            "Type": "PERSON",
+            "Text": "#RonnaRomneyMcDaniel",
+            "BeginOffset": 33,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.8527703285217285,
+            "Type": "OTHER",
+            "Text": "https://t.co/DF2ILlmuYb",
+            "BeginOffset": 80,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.49906831979751587,
+            "Type": "ORGANIZATION",
+            "Text": "#MakeAmericaGreatAgain",
+            "BeginOffset": 106,
+            "EndOffset": 128
+        }
+    ]
+}

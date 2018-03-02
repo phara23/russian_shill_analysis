@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7757217288017273,
+            "Type": "PERSON",
+            "Text": "@FRICTION456",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9992011189460754,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 49,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9982443451881409,
+            "Type": "DATE",
+            "Text": "June 2011",
+            "BeginOffset": 67,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.839540421962738,
+            "Type": "OTHER",
+            "Text": "https://t.co/HqwvE5dPKv",
+            "BeginOffset": 78,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.4969770014286041,
+            "Type": "ORGANIZATION",
+            "Text": "#IndependenceMatters",
+            "BeginOffset": 102,
+            "EndOffset": 122
+        }
+    ]
+}

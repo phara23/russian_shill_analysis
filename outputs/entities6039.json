@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7404993772506714,
+            "Type": "PERSON",
+            "Text": "@petefrt",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9452416300773621,
+            "Type": "PERSON",
+            "Text": "Mayor Giuliani",
+            "BeginOffset": 13,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.7924723625183105,
+            "Type": "PERSON",
+            "Text": "Clinton Fdn",
+            "BeginOffset": 113,
+            "EndOffset": 124
+        },
+        {
+            "Score": 0.8405328989028931,
+            "Type": "OTHER",
+            "Text": "https://t.co/y",
+            "BeginOffset": 125,
+            "EndOffset": 139
+        }
+    ]
+}

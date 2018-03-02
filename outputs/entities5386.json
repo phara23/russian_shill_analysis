@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9501948356628418,
+            "Type": "PERSON",
+            "Text": "@LindaSuhler",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9767789244651794,
+            "Type": "PERSON",
+            "Text": "Donald J. Trump",
+            "BeginOffset": 19,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.8135250806808472,
+            "Type": "LOCATION",
+            "Text": "Pensacola, FL",
+            "BeginOffset": 62,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.7961238026618958,
+            "Type": "DATE",
+            "Text": "7 PM",
+            "BeginOffset": 76,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.7957175374031067,
+            "Type": "QUANTITY",
+            "Text": "16🇺",
+            "BeginOffset": 95,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.9475444555282593,
+            "Type": "OTHER",
+            "Text": "https://t.co",
+            "BeginOffset": 127,
+            "EndOffset": 139
+        }
+    ]
+}

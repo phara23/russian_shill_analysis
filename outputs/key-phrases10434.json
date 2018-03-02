@@ -1,0 +1,40 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9876132011413574,
+            "Text": "Trump",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9959964752197266,
+            "Text": "NBA Star",
+            "BeginOffset": 7,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9851102828979492,
+            "Text": "Cousin",
+            "BeginOffset": 18,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.99025958776474,
+            "Text": "Death",
+            "BeginOffset": 27,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.8470592498779297,
+            "Text": "Blacks",
+            "BeginOffset": 40,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.574181854724884,
+            "Text": "Will Vote",
+            "BeginOffset": 47,
+            "EndOffset": 56
+        }
+    ]
+}

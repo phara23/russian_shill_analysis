@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7778364419937134,
+            "Type": "PERSON",
+            "Text": "@_Makada_",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9491168856620789,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 59,
+            "EndOffset": 66
+        }
+    ]
+}

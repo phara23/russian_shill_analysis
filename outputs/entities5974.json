@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8691460490226746,
+            "Type": "ORGANIZATION",
+            "Text": "@CNN",
+            "BeginOffset": 3,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.7805750966072083,
+            "Type": "LOCATION",
+            "Text": "Miami",
+            "BeginOffset": 44,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.8385867476463318,
+            "Type": "LOCATION",
+            "Text": "Little Havana",
+            "BeginOffset": 52,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.99953693151474,
+            "Type": "PERSON",
+            "Text": "Fidel Castro",
+            "BeginOffset": 75,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.9322872757911682,
+            "Type": "OTHER",
+            "Text": "https://t.co/ekP3jrg7iG",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        },
+        {
+            "Score": 0.9943801760673523,
+            "Type": "OTHER",
+            "Text": "https://t.co/MLBMLj",
+            "BeginOffset": 120,
+            "EndOffset": 139
+        }
+    ]
+}

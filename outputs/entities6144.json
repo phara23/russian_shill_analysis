@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8838497996330261,
+            "Type": "PERSON",
+            "Text": "@golubeerji",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9201387763023376,
+            "Type": "QUANTITY",
+            "Text": "One year",
+            "BeginOffset": 16,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.990543782711029,
+            "Type": "ORGANIZATION",
+            "Text": "NSA",
+            "BeginOffset": 41,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9977568984031677,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 59,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.8490433096885681,
+            "Type": "PERSON",
+            "Text": "Bill",
+            "BeginOffset": 84,
+            "EndOffset": 88
+        }
+    ]
+}

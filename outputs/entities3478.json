@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8526652455329895,
+            "Type": "PERSON",
+            "Text": "@ancerrone",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9938732385635376,
+            "Type": "PERSON",
+            "Text": "James O’Keefe",
+            "BeginOffset": 15,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.8861475586891174,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 81,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9909297823905945,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 110,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.8333107829093933,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

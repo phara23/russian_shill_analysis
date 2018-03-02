@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9071961045265198,
+            "Type": "PERSON",
+            "Text": "@JohnHowardLewi1",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9688459634780884,
+            "Type": "PERSON",
+            "Text": "@KatrinalWhite04",
+            "BeginOffset": 21,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.972935140132904,
+            "Type": "PERSON",
+            "Text": "@kadyalexis",
+            "BeginOffset": 38,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.7996804118156433,
+            "Type": "PERSON",
+            "Text": "@reddit",
+            "BeginOffset": 50,
+            "EndOffset": 57
+        }
+    ]
+}

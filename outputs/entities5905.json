@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6750547289848328,
+            "Type": "PERSON",
+            "Text": "@jstines3",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.6334149837493896,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 20,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9128148555755615,
+            "Type": "PERSON",
+            "Text": "@bcwilliams92",
+            "BeginOffset": 23,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.8943503499031067,
+            "Type": "PERSON",
+            "Text": "Senator Ted Cruz",
+            "BeginOffset": 38,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.7644620537757874,
+            "Type": "ORGANIZATION",
+            "Text": "Planned Parenthood",
+            "BeginOffset": 56,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9825511574745178,
+            "Type": "OTHER",
+            "Text": "https://t.co/tLjjSWJ0ei",
+            "BeginOffset": 116,
+            "EndOffset": 139
+        }
+    ]
+}

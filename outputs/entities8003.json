@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8083589673042297,
+            "Type": "PERSON",
+            "Text": "KKK Endorsing Hillary Clinton",
+            "BeginOffset": 0,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9994595646858215,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 53,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9999170303344727,
+            "Type": "OTHER",
+            "Text": "https://t.co/7Ez7tUpg6j",
+            "BeginOffset": 83,
+            "EndOffset": 106
+        }
+    ]
+}

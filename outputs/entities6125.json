@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9942652583122253,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 14,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8616014122962952,
+            "Type": "PERSON",
+            "Text": "Ali",
+            "BeginOffset": 45,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.6187248826026917,
+            "Type": "PERSON",
+            "Text": "Darcy",
+            "BeginOffset": 50,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.8639304041862488,
+            "Type": "OTHER",
+            "Text": "https://t.co/6kA2ARolNQ",
+            "BeginOffset": 64,
+            "EndOffset": 87
+        }
+    ]
+}

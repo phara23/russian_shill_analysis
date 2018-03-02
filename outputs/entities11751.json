@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8248266577720642,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8548387885093689,
+            "Type": "PERSON",
+            "Text": "@ToneTalks",
+            "BeginOffset": 14,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9129340648651123,
+            "Type": "PERSON",
+            "Text": "President Trump",
+            "BeginOffset": 26,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.8764392733573914,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 82,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.9998793601989746,
+            "Type": "OTHER",
+            "Text": "https://t.co/irj3qbyeDK",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        }
+    ]
+}

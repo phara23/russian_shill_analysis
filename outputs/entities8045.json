@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8519149422645569,
+            "Type": "PERSON",
+            "Text": "@UTHornsRawk",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.900088906288147,
+            "Type": "PERSON",
+            "Text": "@WiFarmBureau",
+            "BeginOffset": 21,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9657061100006104,
+            "Type": "PERSON",
+            "Text": "Ryan",
+            "BeginOffset": 35,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9108303785324097,
+            "Type": "QUANTITY",
+            "Text": "5k",
+            "BeginOffset": 45,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.7112849950790405,
+            "Type": "OTHER",
+            "Text": "53515",
+            "BeginOffset": 53,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9935871958732605,
+            "Type": "PERSON",
+            "Text": "Dennis Hasert",
+            "BeginOffset": 73,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.23292389512062073,
+            "Type": "ORGANIZATION",
+            "Text": "#pedoPaul",
+            "BeginOffset": 105,
+            "EndOffset": 114
+        }
+    ]
+}

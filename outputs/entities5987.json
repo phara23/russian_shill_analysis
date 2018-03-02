@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.850101113319397,
+            "Type": "PERSON",
+            "Text": "@Echecrates",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9588794112205505,
+            "Type": "TITLE",
+            "Text": "Gmail",
+            "BeginOffset": 60,
+            "EndOffset": 65
+        }
+    ]
+}

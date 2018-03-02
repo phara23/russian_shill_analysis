@@ -1,0 +1,28 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.992416262626648,
+            "Text": "Donald Trump",
+            "BeginOffset": 0,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.6736224293708801,
+            "Text": "The Clintons",
+            "BeginOffset": 15,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9995251893997192,
+            "Text": "the politics",
+            "BeginOffset": 43,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9451858997344971,
+            "Text": "profit",
+            "BeginOffset": 59,
+            "EndOffset": 65
+        }
+    ]
+}

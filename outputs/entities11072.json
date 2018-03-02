@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9312461018562317,
+            "Type": "PERSON",
+            "Text": "@Harlan",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9724652171134949,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 13,
+            "EndOffset": 29
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9898785352706909,
+            "Type": "PERSON",
+            "Text": "Will Smith",
+            "BeginOffset": 7,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8610116839408875,
+            "Type": "QUANTITY",
+            "Text": "260 million",
+            "BeginOffset": 38,
+            "EndOffset": 49
+        }
+    ]
+}

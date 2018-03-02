@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7735669612884521,
+            "Type": "PERSON",
+            "Text": "@CodeAud",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.7040912508964539,
+            "Type": "QUANTITY",
+            "Text": "2 years",
+            "BeginOffset": 13,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.7529120445251465,
+            "Type": "ORGANIZATION",
+            "Text": "#ISIS",
+            "BeginOffset": 27,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.8276921510696411,
+            "Type": "ORGANIZATION",
+            "Text": "Christian",
+            "BeginOffset": 34,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9753122329711914,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

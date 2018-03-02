@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9366832971572876,
+            "Type": "PERSON",
+            "Text": "@BeladonnaRogers",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8418164253234863,
+            "Type": "PERSON",
+            "Text": "CLINTON CAMP",
+            "BeginOffset": 66,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.9999456405639648,
+            "Type": "OTHER",
+            "Text": "https://t.co/y0hVKC1qQ2",
+            "BeginOffset": 114,
+            "EndOffset": 137
+        }
+    ]
+}

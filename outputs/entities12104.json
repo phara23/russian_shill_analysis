@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7154814600944519,
+            "Type": "PERSON",
+            "Text": "@NFLWrld",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9972359538078308,
+            "Type": "PERSON",
+            "Text": "Adam Silver",
+            "BeginOffset": 13,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9288089871406555,
+            "Type": "ORGANIZATION",
+            "Text": "NBA",
+            "BeginOffset": 30,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9132875204086304,
+            "Type": "OTHER",
+            "Text": "https://t.co/dr8n0DhOBK",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        },
+        {
+            "Score": 0.9682788252830505,
+            "Type": "OTHER",
+            "Text": "https://t.co/Fcn1Yw",
+            "BeginOffset": 120,
+            "EndOffset": 139
+        }
+    ]
+}

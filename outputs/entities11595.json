@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8713024258613586,
+            "Type": "PERSON",
+            "Text": "@OneMoodyHuman",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9694793224334717,
+            "Type": "QUANTITY",
+            "Text": "2",
+            "BeginOffset": 117,
+            "EndOffset": 118
+        },
+        {
+            "Score": 0.8541396260261536,
+            "Type": "QUANTITY",
+            "Text": "3 retweets",
+            "BeginOffset": 122,
+            "EndOffset": 132
+        }
+    ]
+}

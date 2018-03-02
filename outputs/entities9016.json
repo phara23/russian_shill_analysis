@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7956741452217102,
+            "Type": "PERSON",
+            "Text": "@tacoeater",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.5684018731117249,
+            "Type": "PERSON",
+            "Text": "Lincoln",
+            "BeginOffset": 62,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9871742725372314,
+            "Type": "PERSON",
+            "Text": "Donald",
+            "BeginOffset": 82,
+            "EndOffset": 88
+        }
+    ]
+}

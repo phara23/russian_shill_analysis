@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9261741042137146,
+            "Type": "PERSON",
+            "Text": "@ErikHandy",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.4501453936100006,
+            "Type": "TITLE",
+            "Text": "#Ghostbusters",
+            "BeginOffset": 15,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9999068975448608,
+            "Type": "OTHER",
+            "Text": "https://t.co/tdaNHXSG4W",
+            "BeginOffset": 29,
+            "EndOffset": 52
+        }
+    ]
+}

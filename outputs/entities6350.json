@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7832191586494446,
+            "Type": "PERSON",
+            "Text": "@ROCKONDUDE2",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9276078343391418,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 21,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.6985003352165222,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 55,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.4103808104991913,
+            "Type": "LOCATION",
+            "Text": "#America",
+            "BeginOffset": 104,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.4492691159248352,
+            "Type": "QUANTITY",
+            "Text": "16",
+            "BeginOffset": 125,
+            "EndOffset": 127
+        }
+    ]
+}

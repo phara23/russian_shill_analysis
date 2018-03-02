@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7945714592933655,
+            "Type": "PERSON",
+            "Text": "@SunTimesNASH",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9287155270576477,
+            "Type": "OTHER",
+            "Text": "http://t.co/EUHOuzrZGC",
+            "BeginOffset": 60,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.9996547698974609,
+            "Type": "OTHER",
+            "Text": "http://t.co/XnaVl8IznC",
+            "BeginOffset": 100,
+            "EndOffset": 122
+        }
+    ]
+}

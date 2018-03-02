@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7959768176078796,
+            "Type": "PERSON",
+            "Text": "@AddInfoOrg",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7938956022262573,
+            "Type": "QUANTITY",
+            "Text": "First Somali Refugee Elected",
+            "BeginOffset": 16,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.5746126770973206,
+            "Type": "OTHER",
+            "Text": "American",
+            "BeginOffset": 48,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.8401824235916138,
+            "Type": "OTHER",
+            "Text": "https://t.co/Y4gysLS38G",
+            "BeginOffset": 98,
+            "EndOffset": 121
+        },
+        {
+            "Score": 0.9011836647987366,
+            "Type": "OTHER",
+            "Text": "https://t.co/UfHx",
+            "BeginOffset": 122,
+            "EndOffset": 139
+        }
+    ]
+}

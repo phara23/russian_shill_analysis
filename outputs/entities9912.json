@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7236146330833435,
+            "Type": "PERSON",
+            "Text": "@TPPatriots",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9808916449546814,
+            "Type": "ORGANIZATION",
+            "Text": "Congress",
+            "BeginOffset": 43,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.6303149461746216,
+            "Type": "TITLE",
+            "Text": "Lame Duck Session",
+            "BeginOffset": 87,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.7038354277610779,
+            "Type": "OTHER",
+            "Text": "https://t.co/3pxqvqn6DX",
+            "BeginOffset": 106,
+            "EndOffset": 129
+        },
+        {
+            "Score": 0.4999503493309021,
+            "Type": "ORGANIZATION",
+            "Text": "#teaparty",
+            "BeginOffset": 130,
+            "EndOffset": 139
+        }
+    ]
+}

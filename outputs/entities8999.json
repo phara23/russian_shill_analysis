@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9239047765731812,
+            "Type": "PERSON",
+            "Text": "@DaystoTrump",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9782602190971375,
+            "Type": "QUANTITY",
+            "Text": "51 Days",
+            "BeginOffset": 17,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.8087230920791626,
+            "Type": "PERSON",
+            "Text": "#Trump",
+            "BeginOffset": 28,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9870840907096863,
+            "Type": "DATE",
+            "Text": "November",
+            "BeginOffset": 70,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.9999370574951172,
+            "Type": "OTHER",
+            "Text": "https://t.co/3Yq5IbmhmP",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        }
+    ]
+}

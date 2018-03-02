@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8094921708106995,
+            "Type": "PERSON",
+            "Text": "@thehill",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9698959589004517,
+            "Type": "QUANTITY",
+            "Text": "11 states",
+            "BeginOffset": 36,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.924728512763977,
+            "Type": "ORGANIZATION",
+            "Text": "Democrats",
+            "BeginOffset": 53,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9809519648551941,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 70,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.9643401503562927,
+            "Type": "OTHER",
+            "Text": "https://t.co/XLZ48qKia1",
+            "BeginOffset": 76,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.9999779462814331,
+            "Type": "OTHER",
+            "Text": "https://t.co/j11B7NnMYq",
+            "BeginOffset": 100,
+            "EndOffset": 123
+        }
+    ]
+}

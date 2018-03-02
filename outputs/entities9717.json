@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9315433502197266,
+            "Type": "PERSON",
+            "Text": "@Ivorysnow3567",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7380293011665344,
+            "Type": "PERSON",
+            "Text": "@VetApologist",
+            "BeginOffset": 19,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9182592034339905,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 33,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9781408309936523,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 41,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9409796595573425,
+            "Type": "LOCATION",
+            "Text": "USA",
+            "BeginOffset": 65,
+            "EndOffset": 68
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9111310243606567,
+            "Type": "PERSON",
+            "Text": "@FemalesForTrump",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8622727394104004,
+            "Type": "LOCATION",
+            "Text": "USA",
+            "BeginOffset": 21,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.912636399269104,
+            "Type": "QUANTITY",
+            "Text": "#1",
+            "BeginOffset": 25,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.6278224587440491,
+            "Type": "PERSON",
+            "Text": "#Trump",
+            "BeginOffset": 40,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9519438743591309,
+            "Type": "PERSON",
+            "Text": "DONALD TRUMP",
+            "BeginOffset": 60,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.5776174664497375,
+            "Type": "ORGANIZATION",
+            "Text": "MIAMI ENTRANCE",
+            "BeginOffset": 96,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.9816668033599854,
+            "Type": "OTHER",
+            "Text": "https://t.co/8yBplGh2",
+            "BeginOffset": 121,
+            "EndOffset": 142
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7666724920272827,
+            "Type": "PERSON",
+            "Text": "@OnAngelWings",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8339388966560364,
+            "Type": "PERSON",
+            "Text": "@DOGLLC2",
+            "BeginOffset": 18,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.8731885552406311,
+            "Type": "PERSON",
+            "Text": "@gwfrazee",
+            "BeginOffset": 27,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.852590024471283,
+            "Type": "PERSON",
+            "Text": "@wcwinc",
+            "BeginOffset": 37,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9430695176124573,
+            "Type": "PERSON",
+            "Text": "@oinc2islam",
+            "BeginOffset": 45,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9744752049446106,
+            "Type": "PERSON",
+            "Text": "@MilitaryMadnes1",
+            "BeginOffset": 57,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.9812976121902466,
+            "Type": "PERSON",
+            "Text": "@kc135tech",
+            "BeginOffset": 74,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.963776171207428,
+            "Type": "PERSON",
+            "Text": "@SherriBergan",
+            "BeginOffset": 85,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.9758368134498596,
+            "Type": "PERSON",
+            "Text": "@ujblack",
+            "BeginOffset": 99,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.9613932967185974,
+            "Type": "PERSON",
+            "Text": "@MVZexplorer",
+            "BeginOffset": 108,
+            "EndOffset": 120
+        }
+    ]
+}

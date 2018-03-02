@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8438522815704346,
+            "Type": "PERSON",
+            "Text": "@TrumpTrainOnly",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8697981238365173,
+            "Type": "PERSON",
+            "Text": "@FriendlyJMC",
+            "BeginOffset": 20,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9028903841972351,
+            "Type": "PERSON",
+            "Text": "@EntheosShines",
+            "BeginOffset": 33,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.6977300047874451,
+            "Type": "ORGANIZATION",
+            "Text": "@FoxNews",
+            "BeginOffset": 48,
+            "EndOffset": 56
+        }
+    ]
+}

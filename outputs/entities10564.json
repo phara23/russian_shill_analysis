@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6971890926361084,
+            "Type": "PERSON",
+            "Text": "@petefrt",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9886948466300964,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 34,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9954850673675537,
+            "Type": "PERSON",
+            "Text": "Ben Rhodes",
+            "BeginOffset": 44,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9689862728118896,
+            "Type": "OTHER",
+            "Text": "https://t.co/JfeARpLc6D",
+            "BeginOffset": 87,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.9171711802482605,
+            "Type": "OTHER",
+            "Text": "https://t.c",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

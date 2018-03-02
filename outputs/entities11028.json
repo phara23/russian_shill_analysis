@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6864121556282043,
+            "Type": "ORGANIZATION",
+            "Text": "@BCNbcn",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.41136324405670166,
+            "Type": "PERSON",
+            "Text": "Rasmussen",
+            "BeginOffset": 12,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9999595880508423,
+            "Type": "OTHER",
+            "Text": "https://t.co/IWi3U0hqky",
+            "BeginOffset": 52,
+            "EndOffset": 75
+        }
+    ]
+}

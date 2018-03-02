@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9730403423309326,
+            "Type": "QUANTITY",
+            "Text": "10 inch",
+            "BeginOffset": 0,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.7339264750480652,
+            "Type": "LOCATION",
+            "Text": "Trumps Star",
+            "BeginOffset": 42,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9291352033615112,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 66,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9996627569198608,
+            "Type": "OTHER",
+            "Text": "https://t.co/GLUWTNfrLe",
+            "BeginOffset": 73,
+            "EndOffset": 96
+        }
+    ]
+}

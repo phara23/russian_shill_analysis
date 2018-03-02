@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8277319669723511,
+            "Type": "PERSON",
+            "Text": "@AOLLifestyle",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.40401309728622437,
+            "Type": "PERSON",
+            "Text": "McDonald",
+            "BeginOffset": 18,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9557572603225708,
+            "Type": "OTHER",
+            "Text": "https://t.co/dZs2RIOgZD",
+            "BeginOffset": 78,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.9999808073043823,
+            "Type": "OTHER",
+            "Text": "https://t.co/Iqu3yjF7Xo",
+            "BeginOffset": 102,
+            "EndOffset": 125
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6485540270805359,
+            "Type": "PERSON",
+            "Text": "Massive Clinton",
+            "BeginOffset": 17,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9911543130874634,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 33,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.8947167992591858,
+            "Type": "OTHER",
+            "Text": "https://t.co/cxPfGUl1jK",
+            "BeginOffset": 48,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.3804144859313965,
+            "Type": "PERSON",
+            "Text": "#RT",
+            "BeginOffset": 72,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.7592276334762573,
+            "Type": "PERSON",
+            "Text": "@FallenAngelMovi",
+            "BeginOffset": 76,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.998432457447052,
+            "Type": "OTHER",
+            "Text": "https://t.co/dfYZDNmgWl",
+            "BeginOffset": 115,
+            "EndOffset": 138
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8722094297409058,
+            "Type": "PERSON",
+            "Text": "@Pheramuse",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9306702017784119,
+            "Type": "PERSON",
+            "Text": "trump",
+            "BeginOffset": 22,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.8035302758216858,
+            "Type": "PERSON",
+            "Text": "@nationallampoon",
+            "BeginOffset": 66,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.9373136162757874,
+            "Type": "PERSON",
+            "Text": "@HashtagZoo",
+            "BeginOffset": 83,
+            "EndOffset": 94
+        }
+    ]
+}

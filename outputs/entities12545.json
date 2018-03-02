@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6847915053367615,
+            "Type": "PERSON",
+            "Text": "@sfcpoll",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9964295029640198,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 26,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.7073920965194702,
+            "Type": "ORGANIZATION",
+            "Text": "Republican",
+            "BeginOffset": 41,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.7184728980064392,
+            "Type": "PERSON",
+            "Text": "@OvettaWashPost",
+            "BeginOffset": 92,
+            "EndOffset": 107
+        }
+    ]
+}

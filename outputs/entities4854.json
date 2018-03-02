@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7768577337265015,
+            "Type": "PERSON",
+            "Text": "@TheOnion",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.5740416049957275,
+            "Type": "EVENT",
+            "Text": "Grammys",
+            "BeginOffset": 66,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.9907111525535583,
+            "Type": "OTHER",
+            "Text": "https://t.co/GYWKABP5xn",
+            "BeginOffset": 74,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.9998883008956909,
+            "Type": "OTHER",
+            "Text": "https://t.co/hSbGgSHKzE",
+            "BeginOffset": 98,
+            "EndOffset": 121
+        }
+    ]
+}

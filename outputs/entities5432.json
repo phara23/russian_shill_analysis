@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.817054271697998,
+            "Type": "PERSON",
+            "Text": "@tvland",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.7761757373809814,
+            "Type": "PERSON",
+            "Text": "@YoungerTV",
+            "BeginOffset": 35,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.7274960279464722,
+            "Type": "PERSON",
+            "Text": "@impastortv",
+            "BeginOffset": 52,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9999552965164185,
+            "Type": "OTHER",
+            "Text": "https://t.co/xKmJx4tZrI",
+            "BeginOffset": 71,
+            "EndOffset": 94
+        }
+    ]
+}

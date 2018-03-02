@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8256455063819885,
+            "Type": "PERSON",
+            "Text": "@Bikers4Trump",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9948641657829285,
+            "Type": "DATE",
+            "Text": "10/12/16",
+            "BeginOffset": 67,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.866661012172699,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 82,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.9694096446037292,
+            "Type": "LOCATION",
+            "Text": "Florida",
+            "BeginOffset": 111,
+            "EndOffset": 118
+        },
+        {
+            "Score": 0.9740412831306458,
+            "Type": "ORGANIZATION",
+            "Text": "@CNN",
+            "BeginOffset": 125,
+            "EndOffset": 129
+        }
+    ]
+}

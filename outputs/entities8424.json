@@ -1,0 +1,67 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9820436239242554,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 8,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8739807605743408,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 16,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.7598729133605957,
+            "Type": "LOCATION",
+            "Text": "Benghazi",
+            "BeginOffset": 22,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9504783153533936,
+            "Type": "OTHER",
+            "Text": "https://t.co/3ZWzrImW2a",
+            "BeginOffset": 46,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.4141766428947449,
+            "Type": "ORGANIZATION",
+            "Text": "#RT",
+            "BeginOffset": 70,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.7645252346992493,
+            "Type": "ORGANIZATION",
+            "Text": "@FallenAngelMovi",
+            "BeginOffset": 74,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.4650763273239136,
+            "Type": "ORGANIZATION",
+            "Text": "#TCOT",
+            "BeginOffset": 91,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.4348922073841095,
+            "Type": "ORGANIZATION",
+            "Text": "#CCOT",
+            "BeginOffset": 97,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.9996331930160522,
+            "Type": "OTHER",
+            "Text": "https://t.co/rcGLkACcht",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        }
+    ]
+}

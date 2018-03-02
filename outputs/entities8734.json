@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7640154957771301,
+            "Type": "PERSON",
+            "Text": "@BocaLegend",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9410603046417236,
+            "Type": "LOCATION",
+            "Text": "Mexico",
+            "BeginOffset": 50,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9982185959815979,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 58,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9999749660491943,
+            "Type": "OTHER",
+            "Text": "https://t.co/Be61CwawCX",
+            "BeginOffset": 116,
+            "EndOffset": 139
+        }
+    ]
+}

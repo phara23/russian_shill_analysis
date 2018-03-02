@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8905007243156433,
+            "Type": "OTHER",
+            "Text": "46616C7365",
+            "BeginOffset": 4,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9021927118301392,
+            "Type": "PERSON",
+            "Text": "@petpanther0",
+            "BeginOffset": 16,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.7591032981872559,
+            "Type": "ORGANIZATION",
+            "Text": "@wikileaks",
+            "BeginOffset": 29,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9999668598175049,
+            "Type": "OTHER",
+            "Text": "https://t.co/8NkhP7RV2D",
+            "BeginOffset": 63,
+            "EndOffset": 86
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9614939093589783,
+            "Type": "PERSON",
+            "Text": "@Ian56789",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9765846133232117,
+            "Type": "ORGANIZATION",
+            "Text": "CIA",
+            "BeginOffset": 18,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9645554423332214,
+            "Type": "QUANTITY",
+            "Text": "50 facts",
+            "BeginOffset": 39,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.7486091256141663,
+            "Type": "OTHER",
+            "Text": "https://t.co/OlXWdx0AxY",
+            "BeginOffset": 70,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.9999910593032837,
+            "Type": "OTHER",
+            "Text": "https://t.co/v5ra2QlS4w",
+            "BeginOffset": 94,
+            "EndOffset": 117
+        }
+    ]
+}

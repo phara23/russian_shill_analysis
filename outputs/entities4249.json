@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9073590636253357,
+            "Type": "PERSON",
+            "Text": "@TrumpMyPres",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9511707425117493,
+            "Type": "DATE",
+            "Text": "2017",
+            "BeginOffset": 49,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9751243591308594,
+            "Type": "QUANTITY",
+            "Text": "9-YEAR",
+            "BeginOffset": 75,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.8992010354995728,
+            "Type": "OTHER",
+            "Text": "https://t.co/uAdqAAl7nR",
+            "BeginOffset": 87,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.4105703830718994,
+            "Type": "ORGANIZATION",
+            "Text": "#TuckerCarlson",
+            "BeginOffset": 111,
+            "EndOffset": 125
+        },
+        {
+            "Score": 0.7745972871780396,
+            "Type": "ORGANIZATION",
+            "Text": "@Lrihendry",
+            "BeginOffset": 126,
+            "EndOffset": 136
+        },
+        {
+            "Score": 0.6425455212593079,
+            "Type": "PERSON",
+            "Text": "@E",
+            "BeginOffset": 137,
+            "EndOffset": 139
+        }
+    ]
+}

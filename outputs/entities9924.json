@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.487016886472702,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.6405047178268433,
+            "Type": "ORGANIZATION",
+            "Text": "@Democrat",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9855152368545532,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 14,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.7412531971931458,
+            "Type": "PERSON",
+            "Text": "@ChrisCuomo",
+            "BeginOffset": 31,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9999598264694214,
+            "Type": "OTHER",
+            "Text": "https://t.co/RJRs4OUcWU",
+            "BeginOffset": 45,
+            "EndOffset": 68
+        }
+    ]
+}

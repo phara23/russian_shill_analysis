@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7396314740180969,
+            "Type": "PERSON",
+            "Text": "@RoomOfRumor",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9988665580749512,
+            "Type": "PERSON",
+            "Text": "Jennifer Lawrence",
+            "BeginOffset": 30,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9058554172515869,
+            "Type": "TITLE",
+            "Text": "Finding Neverland",
+            "BeginOffset": 70,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.9778180122375488,
+            "Type": "PERSON",
+            "Text": "Jared",
+            "BeginOffset": 95,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.9999538660049438,
+            "Type": "OTHER",
+            "Text": "http://t.co/3cEmelxbcC",
+            "BeginOffset": 102,
+            "EndOffset": 124
+        }
+    ]
+}

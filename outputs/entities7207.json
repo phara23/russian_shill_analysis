@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7744691967964172,
+            "Type": "PERSON",
+            "Text": "@BradleeDean1",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9944474697113037,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 18,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9952802658081055,
+            "Type": "ORGANIZATION",
+            "Text": "CIA",
+            "BeginOffset": 27,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9935436248779297,
+            "Type": "ORGANIZATION",
+            "Text": "ISIS",
+            "BeginOffset": 55,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.9870831966400146,
+            "Type": "OTHER",
+            "Text": "https://t.co/8YcazqyNJY",
+            "BeginOffset": 61,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.8495228290557861,
+            "Type": "ORGANIZATION",
+            "Text": "@BradleeDean1",
+            "BeginOffset": 89,
+            "EndOffset": 102
+        }
+    ]
+}

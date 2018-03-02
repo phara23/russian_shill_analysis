@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8531298041343689,
+            "Type": "PERSON",
+            "Text": "@jayceodpromoter",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9084096550941467,
+            "Type": "ORGANIZATION",
+            "Text": "#SoundCloud",
+            "BeginOffset": 21,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.5918036103248596,
+            "Type": "OTHER",
+            "Text": "https://t.co/Gex5QrpNsm",
+            "BeginOffset": 84,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.7266667485237122,
+            "Type": "OTHER",
+            "Text": "#67",
+            "BeginOffset": 108,
+            "EndOffset": 111
+        }
+    ]
+}

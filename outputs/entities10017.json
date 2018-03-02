@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9599735736846924,
+            "Type": "PERSON",
+            "Text": "@TomiLahren",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9536077380180359,
+            "Type": "PERSON",
+            "Text": "President Trump",
+            "BeginOffset": 61,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.902118980884552,
+            "Type": "EVENT",
+            "Text": "Inauguration Day",
+            "BeginOffset": 80,
+            "EndOffset": 96
+        }
+    ]
+}

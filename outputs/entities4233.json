@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.33903345465660095,
+            "Type": "ORGANIZATION",
+            "Text": "Dallas",
+            "BeginOffset": 0,
+            "EndOffset": 6
+        },
+        {
+            "Score": 0.9999401569366455,
+            "Type": "OTHER",
+            "Text": "https://t.co/wSw8WCvIrg",
+            "BeginOffset": 81,
+            "EndOffset": 104
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8634636402130127,
+            "Type": "PERSON",
+            "Text": "@charley_ck14",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.6356281638145447,
+            "Type": "ORGANIZATION",
+            "Text": "@midnight",
+            "BeginOffset": 38,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9939907789230347,
+            "Type": "OTHER",
+            "Text": "https://t.co/lPuiOepRCv",
+            "BeginOffset": 70,
+            "EndOffset": 93
+        }
+    ]
+}

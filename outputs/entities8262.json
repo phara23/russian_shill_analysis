@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8160803318023682,
+            "Type": "ORGANIZATION",
+            "Text": "American University",
+            "BeginOffset": 0,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9946355223655701,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 44,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.8043259978294373,
+            "Type": "OTHER",
+            "Text": "https://t.co/LZqAnO0N5E",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.9998927116394043,
+            "Type": "OTHER",
+            "Text": "https://t.co/htoDp1AyRq",
+            "BeginOffset": 114,
+            "EndOffset": 137
+        }
+    ]
+}

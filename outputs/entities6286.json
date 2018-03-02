@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8947498202323914,
+            "Type": "PERSON",
+            "Text": "@Mil0Blake",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.5553590059280396,
+            "Type": "ORGANIZATION",
+            "Text": "#Guns4NY",
+            "BeginOffset": 79,
+            "EndOffset": 87
+        }
+    ]
+}

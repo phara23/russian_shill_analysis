@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9026221632957458,
+            "Type": "PERSON",
+            "Text": "@camdy2_cane",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9456169009208679,
+            "Type": "PERSON",
+            "Text": "@michellemalkin",
+            "BeginOffset": 17,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.941129744052887,
+            "Type": "PERSON",
+            "Text": "@WxTrackerDaryl",
+            "BeginOffset": 33,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9992192983627319,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 63,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9999628067016602,
+            "Type": "OTHER",
+            "Text": "https://t.co/CE8ywlSGFB",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        }
+    ]
+}

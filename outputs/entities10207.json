@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7933545708656311,
+            "Type": "PERSON",
+            "Text": "@tbogg",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9952026605606079,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 11,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9371851086616516,
+            "Type": "ORGANIZATION",
+            "Text": "Civil Rights Museum",
+            "BeginOffset": 31,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.833471417427063,
+            "Type": "OTHER",
+            "Text": "https://t.co/5RU4yMPt0D",
+            "BeginOffset": 91,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.9999942779541016,
+            "Type": "OTHER",
+            "Text": "https://t.co/rL8AXiRq8l",
+            "BeginOffset": 115,
+            "EndOffset": 138
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8753641843795776,
+            "Type": "PERSON",
+            "Text": "@zerohedge",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.6421404480934143,
+            "Type": "LOCATION",
+            "Text": "Italy",
+            "BeginOffset": 15,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.9775915145874023,
+            "Type": "PERSON",
+            "Text": "Renzi",
+            "BeginOffset": 23,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9999856948852539,
+            "Type": "OTHER",
+            "Text": "https://t.co/E8tykCX5cQ",
+            "BeginOffset": 78,
+            "EndOffset": 101
+        }
+    ]
+}

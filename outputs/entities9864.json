@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7238242626190186,
+            "Type": "ORGANIZATION",
+            "Text": "@ActivistPost",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.92929607629776,
+            "Type": "ORGANIZATION",
+            "Text": "HRW",
+            "BeginOffset": 28,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9863755106925964,
+            "Type": "PERSON",
+            "Text": "Ken Roth",
+            "BeginOffset": 34,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9397155046463013,
+            "Type": "QUANTITY",
+            "Text": "Twice",
+            "BeginOffset": 64,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9872446656227112,
+            "Type": "QUANTITY",
+            "Text": "4 Days",
+            "BeginOffset": 73,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.9566797614097595,
+            "Type": "LOCATION",
+            "Text": "Syria",
+            "BeginOffset": 85,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9997809529304504,
+            "Type": "OTHER",
+            "Text": "https://t.co/Afz8awLvwG",
+            "BeginOffset": 91,
+            "EndOffset": 114
+        }
+    ]
+}

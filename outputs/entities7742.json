@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9451496005058289,
+            "Type": "PERSON",
+            "Text": "@BeladonnaRogers",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8813243508338928,
+            "Type": "PERSON",
+            "Text": "Barack Hussein Obama",
+            "BeginOffset": 32,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.8387294411659241,
+            "Type": "PERSON",
+            "Text": "John Forbes Kerry",
+            "BeginOffset": 59,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.7046982049942017,
+            "Type": "OTHER",
+            "Text": "Americans",
+            "BeginOffset": 114,
+            "EndOffset": 123
+        }
+    ]
+}

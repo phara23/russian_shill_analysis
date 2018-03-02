@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7617398500442505,
+            "Type": "PERSON",
+            "Text": "@BIZPACReview",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9343822002410889,
+            "Type": "LOCATION",
+            "Text": "Portland",
+            "BeginOffset": 18,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9124933481216431,
+            "Type": "OTHER",
+            "Text": "https://t.co/1jxa2eD0bW",
+            "BeginOffset": 112,
+            "EndOffset": 135
+        }
+    ]
+}

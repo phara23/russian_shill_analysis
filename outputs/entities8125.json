@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9524874091148376,
+            "Type": "PERSON",
+            "Text": "@DragonflyJonez",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8378859758377075,
+            "Type": "QUANTITY",
+            "Text": "18",
+            "BeginOffset": 45,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9976407289505005,
+            "Type": "QUANTITY",
+            "Text": "10",
+            "BeginOffset": 48,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9992256164550781,
+            "Type": "OTHER",
+            "Text": "https://t.co/uYcyT1AJtp",
+            "BeginOffset": 60,
+            "EndOffset": 83
+        }
+    ]
+}

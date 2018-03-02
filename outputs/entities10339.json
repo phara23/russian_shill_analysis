@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8568819761276245,
+            "Type": "PERSON",
+            "Text": "@dcexaminer",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8625694513320923,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 20,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9706601500511169,
+            "Type": "PERSON",
+            "Text": "Bill",
+            "BeginOffset": 70,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9480611085891724,
+            "Type": "OTHER",
+            "Text": "https://t.co/4RPTb3Xd1P",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        },
+        {
+            "Score": 0.9870536923408508,
+            "Type": "OTHER",
+            "Text": "https://t.co",
+            "BeginOffset": 127,
+            "EndOffset": 139
+        }
+    ]
+}

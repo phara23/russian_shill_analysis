@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9226182103157043,
+            "Type": "PERSON",
+            "Text": "@samswey",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9487939476966858,
+            "Type": "LOCATION",
+            "Text": "Portland",
+            "BeginOffset": 25,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9999363422393799,
+            "Type": "OTHER",
+            "Text": "https://t.co/RyYSX8ArBf",
+            "BeginOffset": 57,
+            "EndOffset": 80
+        }
+    ]
+}

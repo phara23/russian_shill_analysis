@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9029958844184875,
+            "Type": "PERSON",
+            "Text": "@hinterlandg",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9935217499732971,
+            "Type": "ORGANIZATION",
+            "Text": "FBI",
+            "BeginOffset": 35,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.8080006837844849,
+            "Type": "PERSON",
+            "Text": "President Bill Clinton",
+            "BeginOffset": 69,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.8749581575393677,
+            "Type": "OTHER",
+            "Text": "https://t.co/ECCiLzMI2I",
+            "BeginOffset": 92,
+            "EndOffset": 115
+        }
+    ]
+}

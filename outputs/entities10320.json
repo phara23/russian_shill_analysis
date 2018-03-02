@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9510327577590942,
+            "Type": "PERSON",
+            "Text": "@GovMikeHuckabee",
+            "BeginOffset": 1,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.999972939491272,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 31,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9999663829803467,
+            "Type": "OTHER",
+            "Text": "https://t.co/7mdC91lMD9",
+            "BeginOffset": 114,
+            "EndOffset": 137
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7162810564041138,
+            "Type": "ORGANIZATION",
+            "Text": "@wikileaks",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.997508704662323,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 15,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9995947480201721,
+            "Type": "PERSON",
+            "Text": "Jennifer Palmieri",
+            "BeginOffset": 45,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9947677850723267,
+            "Type": "ORGANIZATION",
+            "Text": "PBS",
+            "BeginOffset": 64,
+            "EndOffset": 67
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8794283866882324,
+            "Type": "PERSON",
+            "Text": "@sunbeltgirl",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.5368511080741882,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 17,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.783273458480835,
+            "Type": "PERSON",
+            "Text": "@blessisraelnow",
+            "BeginOffset": 20,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9054061770439148,
+            "Type": "OTHER",
+            "Text": "https://t.co/32lhZhPNoy",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        }
+    ]
+}

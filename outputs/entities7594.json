@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7964044213294983,
+            "Type": "PERSON",
+            "Text": "@ZaibatsuNews",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.6877157092094421,
+            "Type": "OTHER",
+            "Text": "https://t.co/MNXIT4kFeo",
+            "BeginOffset": 56,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.612235963344574,
+            "Type": "ORGANIZATION",
+            "Text": "#p2",
+            "BeginOffset": 80,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.9999561309814453,
+            "Type": "OTHER",
+            "Text": "https://t.co/Aey49RbwJx",
+            "BeginOffset": 89,
+            "EndOffset": 112
+        }
+    ]
+}

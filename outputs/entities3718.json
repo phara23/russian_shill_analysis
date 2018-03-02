@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5919412970542908,
+            "Type": "PERSON",
+            "Text": "@1DJChoice",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.7824158072471619,
+            "Type": "PERSON",
+            "Text": "@SammieAlways",
+            "BeginOffset": 22,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9174426794052124,
+            "Type": "PERSON",
+            "Text": "@JamFest_LIVE",
+            "BeginOffset": 48,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9981985092163086,
+            "Type": "DATE",
+            "Text": "3/18/17",
+            "BeginOffset": 62,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9892751574516296,
+            "Type": "OTHER",
+            "Text": "https://t.co/36o7jiI8GD",
+            "BeginOffset": 99,
+            "EndOffset": 122
+        },
+        {
+            "Score": 0.8253714442253113,
+            "Type": "ORGANIZATION",
+            "Text": "@EAEMGMTcom",
+            "BeginOffset": 125,
+            "EndOffset": 136
+        },
+        {
+            "Score": 0.6804531812667847,
+            "Type": "ORGANIZATION",
+            "Text": "@T",
+            "BeginOffset": 137,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7083795666694641,
+            "Type": "ORGANIZATION",
+            "Text": "Ford",
+            "BeginOffset": 34,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.6103672385215759,
+            "Type": "COMMERCIAL_ITEM",
+            "Text": "Escort",
+            "BeginOffset": 39,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9997453093528748,
+            "Type": "OTHER",
+            "Text": "http://t.co/MOygkGfoA4",
+            "BeginOffset": 46,
+            "EndOffset": 68
+        }
+    ]
+}

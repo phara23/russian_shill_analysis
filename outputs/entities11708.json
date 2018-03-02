@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8320316076278687,
+            "Type": "PERSON",
+            "Text": "@JNKR11",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.7017357349395752,
+            "Type": "DATE",
+            "Text": "#2016",
+            "BeginOffset": 12,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9054892659187317,
+            "Type": "QUANTITY",
+            "Text": "4Words",
+            "BeginOffset": 19,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9996080994606018,
+            "Type": "OTHER",
+            "Text": "https://t.co/ZdUnkIfSUK",
+            "BeginOffset": 66,
+            "EndOffset": 89
+        }
+    ]
+}

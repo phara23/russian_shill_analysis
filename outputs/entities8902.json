@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5061792731285095,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.9639265537261963,
+            "Type": "PERSON",
+            "Text": "@Evan_McMullin",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8969820141792297,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 95,
+            "EndOffset": 111
+        }
+    ]
+}

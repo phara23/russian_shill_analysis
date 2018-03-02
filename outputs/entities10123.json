@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9303346872329712,
+            "Type": "PERSON",
+            "Text": "@CapehartJ",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9986270666122437,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 24,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9998247027397156,
+            "Type": "OTHER",
+            "Text": "https://t.co/pJpAVyG9GE",
+            "BeginOffset": 76,
+            "EndOffset": 99
+        }
+    ]
+}

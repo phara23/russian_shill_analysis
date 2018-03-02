@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.911773145198822,
+            "Type": "PERSON",
+            "Text": "@mdr_th",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.527470588684082,
+            "Type": "PERSON",
+            "Text": "Kaufprämie",
+            "BeginOffset": 12,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9999138116836548,
+            "Type": "OTHER",
+            "Text": "https://t.co/4DnDB3BYPo",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        }
+    ]
+}

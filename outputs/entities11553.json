@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5639997720718384,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8435641527175903,
+            "Type": "PERSON",
+            "Text": "@Trump_Commander",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9978971481323242,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 27,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9148210287094116,
+            "Type": "OTHER",
+            "Text": "https://t.co/LwDGC0BAJ9",
+            "BeginOffset": 80,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.9999094009399414,
+            "Type": "OTHER",
+            "Text": "https://t.co/QYTbhQPdZQ",
+            "BeginOffset": 104,
+            "EndOffset": 127
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7852612733840942,
+            "Type": "PERSON",
+            "Text": "@funder",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9998986124992371,
+            "Type": "PERSON",
+            "Text": "Steve Bannon",
+            "BeginOffset": 12,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9291828274726868,
+            "Type": "OTHER",
+            "Text": "https://t.co/H",
+            "BeginOffset": 125,
+            "EndOffset": 139
+        }
+    ]
+}

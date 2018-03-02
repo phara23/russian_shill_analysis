@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.48066017031669617,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8783385157585144,
+            "Type": "PERSON",
+            "Text": "@WesSmith123",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.744103729724884,
+            "Type": "PERSON",
+            "Text": "#PaulRyan",
+            "BeginOffset": 17,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9030630588531494,
+            "Type": "OTHER",
+            "Text": "https://t.co/ZhOmZTVjn3",
+            "BeginOffset": 109,
+            "EndOffset": 132
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.637999415397644,
+            "Type": "PERSON",
+            "Text": "@CatsofVelvet",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8453022837638855,
+            "Type": "PERSON",
+            "Text": "@youlivethrice",
+            "BeginOffset": 18,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.8988777995109558,
+            "Type": "PERSON",
+            "Text": "@World4Trump",
+            "BeginOffset": 33,
+            "EndOffset": 45
+        }
+    ]
+}

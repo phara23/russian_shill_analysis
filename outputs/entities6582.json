@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8849500417709351,
+            "Type": "PERSON",
+            "Text": "@newtgingrich",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7601167559623718,
+            "Type": "PERSON",
+            "Text": "@Crossfire",
+            "BeginOffset": 24,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9887452721595764,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 43,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9906492829322815,
+            "Type": "ORGANIZATION",
+            "Text": "Congress",
+            "BeginOffset": 56,
+            "EndOffset": 64
+        }
+    ]
+}

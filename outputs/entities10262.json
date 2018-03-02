@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8988454341888428,
+            "Type": "PERSON",
+            "Text": "@MCat500",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9636253714561462,
+            "Type": "PERSON",
+            "Text": "@JerseyGirlD2",
+            "BeginOffset": 13,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9946433901786804,
+            "Type": "PERSON",
+            "Text": "@winegirl73",
+            "BeginOffset": 27,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9028526544570923,
+            "Type": "PERSON",
+            "Text": "@MELANIATRUMP",
+            "BeginOffset": 39,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9998220801353455,
+            "Type": "OTHER",
+            "Text": "https://t.co/mFlq3LbwOK",
+            "BeginOffset": 114,
+            "EndOffset": 137
+        }
+    ]
+}

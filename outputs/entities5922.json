@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9240787625312805,
+            "Type": "PERSON",
+            "Text": "@MicParrish",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8084874153137207,
+            "Type": "LOCATION",
+            "Text": "New York #Guns4NY",
+            "BeginOffset": 111,
+            "EndOffset": 128
+        }
+    ]
+}

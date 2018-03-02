@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7795860767364502,
+            "Type": "PERSON",
+            "Text": "@redrivergrl",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.944022536277771,
+            "Type": "ORGANIZATION",
+            "Text": "CNN",
+            "BeginOffset": 17,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.980525553226471,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 45,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.8583670258522034,
+            "Type": "LOCATION",
+            "Text": "NYC",
+            "BeginOffset": 65,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.5604962706565857,
+            "Type": "LOCATION",
+            "Text": "NJ",
+            "BeginOffset": 70,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.9913020133972168,
+            "Type": "OTHER",
+            "Text": "https://t.co/66q6fBdmnV",
+            "BeginOffset": 84,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.8790168166160583,
+            "Type": "ORGANIZATION",
+            "Text": "@theblaze",
+            "BeginOffset": 112,
+            "EndOffset": 121
+        }
+    ]
+}

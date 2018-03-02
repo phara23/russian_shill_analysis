@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9368897080421448,
+            "Type": "PERSON",
+            "Text": "@surfermom77",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9992877840995789,
+            "Type": "PERSON",
+            "Text": "Saul Alinsky",
+            "BeginOffset": 34,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9987309575080872,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 67,
+            "EndOffset": 74
+        }
+    ]
+}

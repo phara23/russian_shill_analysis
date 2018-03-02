@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9292763471603394,
+            "Type": "PERSON",
+            "Text": "@AbhishekPrtp",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.6120635271072388,
+            "Type": "OTHER",
+            "Text": "Canadian",
+            "BeginOffset": 23,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.8953350186347961,
+            "Type": "EVENT",
+            "Text": "US Presidential election",
+            "BeginOffset": 73,
+            "EndOffset": 97
+        }
+    ]
+}

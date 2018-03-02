@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.910236656665802,
+            "Type": "PERSON",
+            "Text": "@col_nj",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.6410773396492004,
+            "Type": "ORGANIZATION",
+            "Text": "BLM",
+            "BeginOffset": 46,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.8303768634796143,
+            "Type": "QUANTITY",
+            "Text": "1/2",
+            "BeginOffset": 62,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.6068947911262512,
+            "Type": "PERSON",
+            "Text": "#Trump",
+            "BeginOffset": 108,
+            "EndOffset": 114
+        }
+    ]
+}

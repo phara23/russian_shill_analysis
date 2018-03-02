@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7963528633117676,
+            "Type": "PERSON",
+            "Text": "@GeffGefferson1",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.6246203780174255,
+            "Type": "TITLE",
+            "Text": "Mad Company",
+            "BeginOffset": 36,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9596627950668335,
+            "Type": "PERSON",
+            "Text": "@officialbadco",
+            "BeginOffset": 48,
+            "EndOffset": 62
+        }
+    ]
+}

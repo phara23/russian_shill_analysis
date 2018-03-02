@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6959335207939148,
+            "Type": "PERSON",
+            "Text": "@MTVNews",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.6377251148223877,
+            "Type": "QUANTITY",
+            "Text": "Five' ad",
+            "BeginOffset": 31,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9970691204071045,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 52,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.7857977151870728,
+            "Type": "OTHER",
+            "Text": "https://t.co/9li16OnWoW",
+            "BeginOffset": 76,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.9999520778656006,
+            "Type": "OTHER",
+            "Text": "https://t.co/Br2eHXYMqW",
+            "BeginOffset": 100,
+            "EndOffset": 123
+        }
+    ]
+}

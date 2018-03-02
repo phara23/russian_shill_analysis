@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.927818775177002,
+            "Type": "PERSON",
+            "Text": "@perry1949",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8171626329421997,
+            "Type": "PERSON",
+            "Text": "Senator Opposing Obama",
+            "BeginOffset": 24,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9847831130027771,
+            "Type": "OTHER",
+            "Text": "https://t.co/rlQbVuAa4D",
+            "BeginOffset": 94,
+            "EndOffset": 117
+        },
+        {
+            "Score": 0.7472801208496094,
+            "Type": "PERSON",
+            "Text": "@kelseyjharkness",
+            "BeginOffset": 122,
+            "EndOffset": 138
+        }
+    ]
+}

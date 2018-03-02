@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.48801425099372864,
+            "Type": "LOCATION",
+            "Text": "Guantanamo",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9999638795852661,
+            "Type": "OTHER",
+            "Text": "https://t.co/1ReN71Oxku",
+            "BeginOffset": 14,
+            "EndOffset": 37
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.975739061832428,
+            "Type": "PERSON",
+            "Text": "@JamilSmith",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.913878321647644,
+            "Type": "LOCATION",
+            "Text": "U.S.",
+            "BeginOffset": 49,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9589072465896606,
+            "Type": "PERSON",
+            "Text": "@_jeffguo",
+            "BeginOffset": 83,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.97079998254776,
+            "Type": "PERSON",
+            "Text": "Sullivan",
+            "BeginOffset": 107,
+            "EndOffset": 115
+        }
+    ]
+}

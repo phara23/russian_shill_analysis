@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7825155258178711,
+            "Type": "PERSON",
+            "Text": "@RussVet1",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9024916291236877,
+            "Type": "ORGANIZATION",
+            "Text": "Clinton Foundation",
+            "BeginOffset": 32,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.7277349829673767,
+            "Type": "ORGANIZATION",
+            "Text": "RICO",
+            "BeginOffset": 87,
+            "EndOffset": 91
+        }
+    ]
+}

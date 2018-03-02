@@ -1,0 +1,28 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9312236309051514,
+            "Text": "Obama",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.8415727615356445,
+            "Text": "‘Ciao’",
+            "BeginOffset": 7,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9658856987953186,
+            "Text": "state dinners",
+            "BeginOffset": 17,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9936231970787048,
+            "Text": "Italy",
+            "BeginOffset": 32,
+            "EndOffset": 37
+        }
+    ]
+}

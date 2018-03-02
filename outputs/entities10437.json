@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9242055416107178,
+            "Type": "PERSON",
+            "Text": "@SeekingAlpha",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.6963145732879639,
+            "Type": "ORGANIZATION",
+            "Text": "Apple",
+            "BeginOffset": 18,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.8510488271713257,
+            "Type": "ORGANIZATION",
+            "Text": "Samsung",
+            "BeginOffset": 55,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.5459268689155579,
+            "Type": "COMMERCIAL_ITEM",
+            "Text": "Galaxy",
+            "BeginOffset": 63,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9637230634689331,
+            "Type": "OTHER",
+            "Text": "https://t.co/IJl32PBPXk",
+            "BeginOffset": 77,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.5479139685630798,
+            "Type": "ORGANIZATION",
+            "Text": "#APPLE",
+            "BeginOffset": 102,
+            "EndOffset": 108
+        }
+    ]
+}

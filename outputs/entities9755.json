@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8980978727340698,
+            "Type": "PERSON",
+            "Text": "@MeettheClooneys",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9417538046836853,
+            "Type": "LOCATION",
+            "Text": "USA",
+            "BeginOffset": 47,
+            "EndOffset": 50
+        }
+    ]
+}

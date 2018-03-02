@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8364022970199585,
+            "Type": "PERSON",
+            "Text": "@E_FINKSTER",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8038182854652405,
+            "Type": "PERSON",
+            "Text": "#Trump",
+            "BeginOffset": 16,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9946247935295105,
+            "Type": "LOCATION",
+            "Text": "Houston",
+            "BeginOffset": 41,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9984847903251648,
+            "Type": "LOCATION",
+            "Text": "Oklahoma",
+            "BeginOffset": 71,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.459185391664505,
+            "Type": "ORGANIZATION",
+            "Text": "#ColoradoSprings",
+            "BeginOffset": 94,
+            "EndOffset": 110
+        }
+    ]
+}

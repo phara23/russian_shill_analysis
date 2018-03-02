@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9122231602668762,
+            "Type": "PERSON",
+            "Text": "@JBaileysMom",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9937999844551086,
+            "Type": "ORGANIZATION",
+            "Text": "CNN",
+            "BeginOffset": 17,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.6276457905769348,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 65,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9999843835830688,
+            "Type": "OTHER",
+            "Text": "https://t.co/95k7niJ4DZ",
+            "BeginOffset": 85,
+            "EndOffset": 108
+        }
+    ]
+}

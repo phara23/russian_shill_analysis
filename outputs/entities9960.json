@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9852016568183899,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 20,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9337086081504822,
+            "Type": "PERSON",
+            "Text": "Christian Siriano",
+            "BeginOffset": 28,
+            "EndOffset": 45
+        }
+    ]
+}

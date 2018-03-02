@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8268094062805176,
+            "Type": "PERSON",
+            "Text": "@weaponsmedia",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9924322366714478,
+            "Type": "PERSON",
+            "Text": "Tucker Carlson",
+            "BeginOffset": 18,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9639379382133484,
+            "Type": "ORGANIZATION",
+            "Text": "Fox News",
+            "BeginOffset": 43,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9632362127304077,
+            "Type": "PERSON",
+            "Text": "Shepard Smith",
+            "BeginOffset": 114,
+            "EndOffset": 127
+        },
+        {
+            "Score": 0.6574726700782776,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 129,
+            "EndOffset": 138
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9963088631629944,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.772451639175415,
+            "Type": "LOCATION",
+            "Text": "Italy",
+            "BeginOffset": 32,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.5227922797203064,
+            "Type": "QUANTITY",
+            "Text": "one",
+            "BeginOffset": 49,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9026978015899658,
+            "Type": "OTHER",
+            "Text": "https://t.co/kYtq55w4Uh",
+            "BeginOffset": 53,
+            "EndOffset": 76
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9835758805274963,
+            "Text": "Obama",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9859042763710022,
+            "Text": "Hillary",
+            "BeginOffset": 23,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9993541240692139,
+            "Text": "elections",
+            "BeginOffset": 41,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9919883012771606,
+            "Text": "American people",
+            "BeginOffset": 95,
+            "EndOffset": 110
+        }
+    ]
+}

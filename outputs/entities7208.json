@@ -1,0 +1,74 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8923505544662476,
+            "Type": "PERSON",
+            "Text": "@Shimmyfab",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.7080204486846924,
+            "Type": "ORGANIZATION",
+            "Text": "@AppSame",
+            "BeginOffset": 29,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.8543580174446106,
+            "Type": "PERSON",
+            "Text": "@CarmineZozzora",
+            "BeginOffset": 38,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.8938402533531189,
+            "Type": "PERSON",
+            "Text": "@DMashak",
+            "BeginOffset": 54,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.8893751502037048,
+            "Type": "PERSON",
+            "Text": "@col_nj",
+            "BeginOffset": 63,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.984578013420105,
+            "Type": "PERSON",
+            "Text": "@steph93065",
+            "BeginOffset": 71,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.9821984767913818,
+            "Type": "PERSON",
+            "Text": "@Lrihendry",
+            "BeginOffset": 83,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.9768005609512329,
+            "Type": "PERSON",
+            "Text": "@_HankRearden",
+            "BeginOffset": 94,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.9626466035842896,
+            "Type": "PERSON",
+            "Text": "@jarwd",
+            "BeginOffset": 108,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.9623196721076965,
+            "Type": "PERSON",
+            "Text": "@DineshDSouza",
+            "BeginOffset": 115,
+            "EndOffset": 128
+        }
+    ]
+}

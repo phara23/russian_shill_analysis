@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8584972023963928,
+            "Type": "PERSON",
+            "Text": "@TheGvldenTimes",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.846864640712738,
+            "Type": "PERSON",
+            "Text": "@AlistCases",
+            "BeginOffset": 27,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9997408986091614,
+            "Type": "OTHER",
+            "Text": "https://t.co/lBiqnWCMWt",
+            "BeginOffset": 44,
+            "EndOffset": 67
+        }
+    ]
+}

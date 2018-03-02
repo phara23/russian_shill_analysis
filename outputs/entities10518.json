@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8138097524642944,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9991344213485718,
+            "Type": "PERSON",
+            "Text": "Amanda Stevens",
+            "BeginOffset": 13,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9982278347015381,
+            "Type": "PERSON",
+            "Text": "Tamika Cross",
+            "BeginOffset": 35,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9467735886573792,
+            "Type": "OTHER",
+            "Text": "https://t.co/qxuOCrrImS",
+            "BeginOffset": 68,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.8618558645248413,
+            "Type": "PERSON",
+            "Text": "@TaureanReign",
+            "BeginOffset": 92,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.9996140599250793,
+            "Type": "OTHER",
+            "Text": "https://t.co/NFBQzbo4SP",
+            "BeginOffset": 106,
+            "EndOffset": 129
+        }
+    ]
+}

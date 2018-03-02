@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6947201490402222,
+            "Type": "PERSON",
+            "Text": "@PeggiD",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.650191068649292,
+            "Type": "ORGANIZATION",
+            "Text": "@wikileaks",
+            "BeginOffset": 12,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9998062252998352,
+            "Type": "OTHER",
+            "Text": "https://t.co/pXClfNpK8r",
+            "BeginOffset": 47,
+            "EndOffset": 70
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9811719059944153,
+            "Type": "ORGANIZATION",
+            "Text": "Hofstra University",
+            "BeginOffset": 26,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9971203804016113,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 79,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.4664328396320343,
+            "Type": "QUANTITY",
+            "Text": "double",
+            "BeginOffset": 94,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.9999302625656128,
+            "Type": "OTHER",
+            "Text": "https://t.co/Xo22kpsmqA",
+            "BeginOffset": 114,
+            "EndOffset": 137
+        }
+    ]
+}

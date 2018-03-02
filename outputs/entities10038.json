@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9998823404312134,
+            "Type": "PERSON",
+            "Text": "Richard Branson",
+            "BeginOffset": 5,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.9964439272880554,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 43,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9467505216598511,
+            "Type": "LOCATION",
+            "Text": "Manhattan",
+            "BeginOffset": 79,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9228354096412659,
+            "Type": "OTHER",
+            "Text": "https://t.co/ZOYhqq5UOM",
+            "BeginOffset": 89,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.4653467833995819,
+            "Type": "ORGANIZATION",
+            "Text": "#Foke",
+            "BeginOffset": 113,
+            "EndOffset": 118
+        }
+    ]
+}

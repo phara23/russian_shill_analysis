@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8256927132606506,
+            "Type": "PERSON",
+            "Text": "@SheriffClarke",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6917197704315186,
+            "Type": "PERSON",
+            "Text": "@RenewUSTweets",
+            "BeginOffset": 19,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9292976260185242,
+            "Type": "PERSON",
+            "Text": "@ChristiChat",
+            "BeginOffset": 34,
+            "EndOffset": 46
+        }
+    ]
+}

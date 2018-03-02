@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9994631409645081,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 5,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.4145788252353668,
+            "Type": "PERSON",
+            "Text": "#DemDebate",
+            "BeginOffset": 71,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.7543662190437317,
+            "Type": "PERSON",
+            "Text": "#DemDebateMiami",
+            "BeginOffset": 82,
+            "EndOffset": 97
+        }
+    ]
+}

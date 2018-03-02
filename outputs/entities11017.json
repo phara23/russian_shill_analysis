@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9091662168502808,
+            "Type": "PERSON",
+            "Text": "@TalibKweli",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9987254738807678,
+            "Type": "PERSON",
+            "Text": "Milo",
+            "BeginOffset": 33,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9994545578956604,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 42,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.7474701404571533,
+            "Type": "PERSON",
+            "Text": "@twitashitter",
+            "BeginOffset": 86,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.9908596873283386,
+            "Type": "OTHER",
+            "Text": "https://t.co/tA",
+            "BeginOffset": 124,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.837373673915863,
+            "Type": "PERSON",
+            "Text": "Clinton-Kaine",
+            "BeginOffset": 28,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9892730116844177,
+            "Type": "LOCATION",
+            "Text": "Florida",
+            "BeginOffset": 45,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.5688861012458801,
+            "Type": "QUANTITY",
+            "Text": "5",
+            "BeginOffset": 113,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.9999706745147705,
+            "Type": "OTHER",
+            "Text": "https://t.co/2GXyiHPBIH",
+            "BeginOffset": 116,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.755235493183136,
+            "Type": "PERSON",
+            "Text": "@wolfgangfaustX",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7590017914772034,
+            "Type": "PERSON",
+            "Text": "@BuffalosMom",
+            "BeginOffset": 20,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9559125304222107,
+            "Type": "PERSON",
+            "Text": "@gynarchyrules",
+            "BeginOffset": 33,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9999756813049316,
+            "Type": "OTHER",
+            "Text": "https://t.co/c0DnFYtHA1",
+            "BeginOffset": 48,
+            "EndOffset": 71
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7001565098762512,
+            "Type": "PERSON",
+            "Text": "@StoicAdvantage",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9241716265678406,
+            "Type": "QUANTITY",
+            "Text": "One day",
+            "BeginOffset": 20,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9579879641532898,
+            "Type": "ORGANIZATION",
+            "Text": "Democrats",
+            "BeginOffset": 28,
+            "EndOffset": 37
+        }
+    ]
+}

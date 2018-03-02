@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.884708046913147,
+            "Type": "PERSON",
+            "Text": "@TSimm246",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9907690286636353,
+            "Type": "DATE",
+            "Text": "Sunday afternoon",
+            "BeginOffset": 19,
+            "EndOffset": 35
+        }
+    ]
+}

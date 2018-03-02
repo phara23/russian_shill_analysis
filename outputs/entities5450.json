@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9903926849365234,
+            "Type": "PERSON",
+            "Text": "Frau Merkle",
+            "BeginOffset": 0,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.4301910400390625,
+            "Type": "PERSON",
+            "Text": "Sinn",
+            "BeginOffset": 20,
+            "EndOffset": 24
+        }
+    ]
+}

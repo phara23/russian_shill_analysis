@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.735977828502655,
+            "Type": "PERSON",
+            "Text": "@TLTheMyth",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9947201609611511,
+            "Type": "PERSON",
+            "Text": "@javalina7902",
+            "BeginOffset": 15,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9542321562767029,
+            "Type": "PERSON",
+            "Text": "@kzshabazz",
+            "BeginOffset": 29,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.8928972482681274,
+            "Type": "LOCATION",
+            "Text": "america",
+            "BeginOffset": 73,
+            "EndOffset": 80
+        }
+    ]
+}

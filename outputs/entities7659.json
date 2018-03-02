@@ -1,0 +1,67 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9201740622520447,
+            "Type": "PERSON",
+            "Text": "@npnikk",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9368444681167603,
+            "Type": "DATE",
+            "Text": "This morning",
+            "BeginOffset": 12,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9976387023925781,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 25,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9997329115867615,
+            "Type": "PERSON",
+            "Text": "Glenn Beck",
+            "BeginOffset": 51,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9958058595657349,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 76,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.8918554186820984,
+            "Type": "PERSON",
+            "Text": "Thug Hillary",
+            "BeginOffset": 89,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.9566012024879456,
+            "Type": "QUANTITY",
+            "Text": "90%",
+            "BeginOffset": 104,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.8323004841804504,
+            "Type": "QUANTITY",
+            "Text": "2 win",
+            "BeginOffset": 113,
+            "EndOffset": 118
+        },
+        {
+            "Score": 0.9755503535270691,
+            "Type": "QUANTITY",
+            "Text": "1 g",
+            "BeginOffset": 128,
+            "EndOffset": 131
+        }
+    ]
+}

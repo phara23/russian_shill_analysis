@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8683603405952454,
+            "Type": "PERSON",
+            "Text": "@tkinder",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9175826907157898,
+            "Type": "QUANTITY",
+            "Text": "Over 100,000",
+            "BeginOffset": 13,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.8274105787277222,
+            "Type": "ORGANIZATION",
+            "Text": "Muslims",
+            "BeginOffset": 26,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.8251599073410034,
+            "Type": "OTHER",
+            "Text": "Africans",
+            "BeginOffset": 40,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.69054114818573,
+            "Type": "ORGANIZATION",
+            "Text": "US-Mexico",
+            "BeginOffset": 64,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.786652684211731,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 95,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.7906041145324707,
+            "Type": "ORGANIZATION",
+            "Text": "@somethinggd",
+            "BeginOffset": 102,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.9998929500579834,
+            "Type": "OTHER",
+            "Text": "https://t.co/UB59oktokF",
+            "BeginOffset": 115,
+            "EndOffset": 138
+        }
+    ]
+}

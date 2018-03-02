@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9483835697174072,
+            "Type": "PERSON",
+            "Text": "@brianmcarey",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9995002150535583,
+            "Type": "PERSON",
+            "Text": "Charles Pierce",
+            "BeginOffset": 80,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.999954342842102,
+            "Type": "OTHER",
+            "Text": "https://t.co/6n4l4M1RKL",
+            "BeginOffset": 114,
+            "EndOffset": 137
+        }
+    ]
+}

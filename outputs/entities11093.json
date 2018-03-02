@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9965268969535828,
+            "Type": "PERSON",
+            "Text": "Clint Eastwood",
+            "BeginOffset": 13,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9999302625656128,
+            "Type": "OTHER",
+            "Text": "https://t.co/KLhYQSIzP0",
+            "BeginOffset": 59,
+            "EndOffset": 82
+        }
+    ]
+}

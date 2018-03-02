@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8322141766548157,
+            "Type": "PERSON",
+            "Text": "@blogboy2",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.828856885433197,
+            "Type": "PERSON",
+            "Text": "JFK",
+            "BeginOffset": 14,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9924381375312805,
+            "Type": "DATE",
+            "Text": "1961",
+            "BeginOffset": 38,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9437455534934998,
+            "Type": "DATE",
+            "Text": "2017",
+            "BeginOffset": 76,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.9449630379676819,
+            "Type": "PERSON",
+            "Text": "@warriorwoman91",
+            "BeginOffset": 84,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.9998337030410767,
+            "Type": "OTHER",
+            "Text": "https://t.co/oQ2cKExSwi",
+            "BeginOffset": 100,
+            "EndOffset": 123
+        }
+    ]
+}

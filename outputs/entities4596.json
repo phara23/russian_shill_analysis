@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7798706889152527,
+            "Type": "PERSON",
+            "Text": "@BocaRatonRC",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9947181344032288,
+            "Type": "ORGANIZATION",
+            "Text": "CNN",
+            "BeginOffset": 37,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9973985552787781,
+            "Type": "PERSON",
+            "Text": "Jake Tapper",
+            "BeginOffset": 43,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9682609438896179,
+            "Type": "TITLE",
+            "Text": "Bible",
+            "BeginOffset": 80,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.8768327236175537,
+            "Type": "OTHER",
+            "Text": "https://t.co/XE3AUDwivi",
+            "BeginOffset": 104,
+            "EndOffset": 127
+        },
+        {
+            "Score": 0.9637767672538757,
+            "Type": "OTHER",
+            "Text": "https://t.c",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8934164047241211,
+            "Type": "PERSON",
+            "Text": "@cmdorsey",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9994750618934631,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 28,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.7043676376342773,
+            "Type": "PERSON",
+            "Text": "Mao",
+            "BeginOffset": 55,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9997459053993225,
+            "Type": "OTHER",
+            "Text": "https://t.co/y6mZ53cy5y",
+            "BeginOffset": 84,
+            "EndOffset": 107
+        }
+    ]
+}

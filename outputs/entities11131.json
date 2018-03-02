@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8254052400588989,
+            "Type": "PERSON",
+            "Text": "@abusedtaxpayer",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9474827647209167,
+            "Type": "PERSON",
+            "Text": "Killery",
+            "BeginOffset": 46,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.5001243948936462,
+            "Type": "QUANTITY",
+            "Text": "4",
+            "BeginOffset": 85,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.8605908155441284,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 87,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.9271090626716614,
+            "Type": "PERSON",
+            "Text": "Mooch",
+            "BeginOffset": 108,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.5786041617393494,
+            "Type": "PERSON",
+            "Text": "Barry",
+            "BeginOffset": 114,
+            "EndOffset": 119
+        }
+    ]
+}

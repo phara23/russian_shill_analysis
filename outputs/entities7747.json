@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9819793701171875,
+            "Type": "PERSON",
+            "Text": "@JohnGab69864771",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9058695435523987,
+            "Type": "PERSON",
+            "Text": "@LBollengier",
+            "BeginOffset": 21,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9074468612670898,
+            "Type": "QUANTITY",
+            "Text": "109 DETAINED",
+            "BeginOffset": 44,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.7181235551834106,
+            "Type": "ORGANIZATION",
+            "Text": "Christian",
+            "BeginOffset": 63,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.35855740308761597,
+            "Type": "QUANTITY",
+            "Text": "ONE",
+            "BeginOffset": 129,
+            "EndOffset": 132
+        }
+    ]
+}

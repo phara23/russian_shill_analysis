@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7797085642814636,
+            "Type": "PERSON",
+            "Text": "@scythekain",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8993275761604309,
+            "Type": "PERSON",
+            "Text": "@janesports",
+            "BeginOffset": 16,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9635382294654846,
+            "Type": "PERSON",
+            "Text": "@JamesMartinSJ",
+            "BeginOffset": 28,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9342358112335205,
+            "Type": "PERSON",
+            "Text": "Christ",
+            "BeginOffset": 54,
+            "EndOffset": 60
+        }
+    ]
+}

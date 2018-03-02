@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.843078076839447,
+            "Type": "PERSON",
+            "Text": "@LibAmericaOrg",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9954277276992798,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 19,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9648176431655884,
+            "Type": "OTHER",
+            "Text": "https://t.co/1id4ZIYCCV",
+            "BeginOffset": 93,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.9999771118164062,
+            "Type": "OTHER",
+            "Text": "https://t.co/QU7A3gYFIe",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8680439591407776,
+            "Type": "PERSON",
+            "Text": "@Patriotancestry",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9986895322799683,
+            "Type": "PERSON",
+            "Text": "Wayne Newton",
+            "BeginOffset": 28,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9680019617080688,
+            "Type": "PERSON",
+            "Text": "Kaepernick",
+            "BeginOffset": 44,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.7800570130348206,
+            "Type": "ORGANIZATION",
+            "Text": "Breitbart",
+            "BeginOffset": 103,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.9734058380126953,
+            "Type": "OTHER",
+            "Text": "https://t.co/KJN7xfd9Au",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        }
+    ]
+}

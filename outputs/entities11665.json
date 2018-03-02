@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5006040334701538,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.6594676375389099,
+            "Type": "ORGANIZATION",
+            "Text": "@NoParty2016",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9958528280258179,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 20,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.928611695766449,
+            "Type": "PERSON",
+            "Text": "Romney",
+            "BeginOffset": 32,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9776787757873535,
+            "Type": "PERSON",
+            "Text": "Haley Haley",
+            "BeginOffset": 40,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9120457768440247,
+            "Type": "QUANTITY",
+            "Text": "1 term",
+            "BeginOffset": 91,
+            "EndOffset": 97
+        }
+    ]
+}

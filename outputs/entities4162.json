@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9042468070983887,
+            "Type": "PERSON",
+            "Text": "@Dreamweasel",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9060213565826416,
+            "Type": "ORGANIZATION",
+            "Text": "Republicans",
+            "BeginOffset": 36,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9897046685218811,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 66,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.44325560331344604,
+            "Type": "QUANTITY",
+            "Text": "one",
+            "BeginOffset": 86,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.9204291105270386,
+            "Type": "ORGANIZATION",
+            "Text": "Democrat",
+            "BeginOffset": 90,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.9938998222351074,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 125,
+            "EndOffset": 130
+        }
+    ]
+}

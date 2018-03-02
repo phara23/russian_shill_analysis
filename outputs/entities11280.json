@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7379888296127319,
+            "Type": "PERSON",
+            "Text": "@ANOMALY1",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.49631789326667786,
+            "Type": "EVENT",
+            "Text": "Christmas",
+            "BeginOffset": 20,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.8660656809806824,
+            "Type": "PERSON",
+            "Text": "Charlie Brown",
+            "BeginOffset": 30,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9685274958610535,
+            "Type": "PERSON",
+            "Text": "JESUS CHRIST",
+            "BeginOffset": 86,
+            "EndOffset": 98
+        }
+    ]
+}

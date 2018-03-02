@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8298388719558716,
+            "Type": "PERSON",
+            "Text": "@AllenWestRepub",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9682012796401978,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 27,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9998229146003723,
+            "Type": "OTHER",
+            "Text": "https://t.co/fguVYyaKEL",
+            "BeginOffset": 107,
+            "EndOffset": 130
+        }
+    ]
+}

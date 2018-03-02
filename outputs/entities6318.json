@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8249168992042542,
+            "Type": "PERSON",
+            "Text": "@DeUceDouble",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.4724379777908325,
+            "Type": "PERSON",
+            "Text": "Maaaaaaaaan",
+            "BeginOffset": 17,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.8970624208450317,
+            "Type": "PERSON",
+            "Text": "@Gerreddi",
+            "BeginOffset": 29,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.8566225171089172,
+            "Type": "PERSON",
+            "Text": "@BrotherMob",
+            "BeginOffset": 49,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9999842643737793,
+            "Type": "OTHER",
+            "Text": "https://t.co/vtdPFl02i2",
+            "BeginOffset": 120,
+            "EndOffset": 143
+        }
+    ]
+}

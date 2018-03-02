@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8248099088668823,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.7649120092391968,
+            "Type": "PERSON",
+            "Text": "@NWOReport",
+            "BeginOffset": 15,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9470200538635254,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 27,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9996534585952759,
+            "Type": "OTHER",
+            "Text": "https://t.co/pfIpkSpz2Y",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        }
+    ]
+}

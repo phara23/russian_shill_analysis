@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9194588661193848,
+            "Type": "PERSON",
+            "Text": "@zlando",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.48060187697410583,
+            "Type": "OTHER",
+            "Text": "Americans",
+            "BeginOffset": 44,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.993966817855835,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 57,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.8269026875495911,
+            "Type": "LOCATION",
+            "Text": "#Europe",
+            "BeginOffset": 82,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.9998389482498169,
+            "Type": "OTHER",
+            "Text": "https://t.co/xBqtjSFTZD",
+            "BeginOffset": 115,
+            "EndOffset": 138
+        }
+    ]
+}

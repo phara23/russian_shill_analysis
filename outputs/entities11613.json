@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.922764241695404,
+            "Type": "PERSON",
+            "Text": "@LincolnFarish",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9958429932594299,
+            "Type": "PERSON",
+            "Text": "Josie Tucker",
+            "BeginOffset": 82,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.9292435646057129,
+            "Type": "OTHER",
+            "Text": "https://t.co/rJVTyblCGq",
+            "BeginOffset": 109,
+            "EndOffset": 132
+        }
+    ]
+}

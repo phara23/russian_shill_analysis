@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9599858522415161,
+            "Type": "PERSON",
+            "Text": "Gary Mayor",
+            "BeginOffset": 0,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9958311915397644,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 12,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9998579025268555,
+            "Type": "OTHER",
+            "Text": "https://t.co/mguuLcLe32",
+            "BeginOffset": 65,
+            "EndOffset": 88
+        }
+    ]
+}

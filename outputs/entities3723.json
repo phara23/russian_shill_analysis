@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9154773950576782,
+            "Type": "PERSON",
+            "Text": "@Brambleman",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9923896789550781,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 35,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9998639822006226,
+            "Type": "OTHER",
+            "Text": "https://t.co/Uyn2vc7ioS",
+            "BeginOffset": 110,
+            "EndOffset": 133
+        }
+    ]
+}

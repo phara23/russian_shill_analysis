@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8087168335914612,
+            "Type": "ORGANIZATION",
+            "Text": "@FT",
+            "BeginOffset": 3,
+            "EndOffset": 6
+        },
+        {
+            "Score": 0.9835300445556641,
+            "Type": "QUANTITY",
+            "Text": "More than 1,200 companies",
+            "BeginOffset": 8,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.8978562355041504,
+            "Type": "OTHER",
+            "Text": "https://t.co/4GK5N91VZg",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.9999371767044067,
+            "Type": "OTHER",
+            "Text": "https://t.co/ZLpvUVQsFQ",
+            "BeginOffset": 114,
+            "EndOffset": 137
+        }
+    ]
+}

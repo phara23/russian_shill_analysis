@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9475446939468384,
+            "Type": "PERSON",
+            "Text": "@rickyrozay",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9231117367744446,
+            "Type": "LOCATION",
+            "Text": "Fayetteville, ARK",
+            "BeginOffset": 33,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.7995957732200623,
+            "Type": "EVENT",
+            "Text": "#RowWeek2017",
+            "BeginOffset": 55,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9972779750823975,
+            "Type": "DATE",
+            "Text": "Sat April 8th",
+            "BeginOffset": 68,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.6746805310249329,
+            "Type": "PERSON",
+            "Text": "@RowWeekUofA",
+            "BeginOffset": 82,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.9998601675033569,
+            "Type": "OTHER",
+            "Text": "https://t.co/rkcMwQJo6F",
+            "BeginOffset": 95,
+            "EndOffset": 118
+        }
+    ]
+}

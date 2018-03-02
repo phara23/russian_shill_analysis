@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9380940794944763,
+            "Type": "PERSON",
+            "Text": "@alvarofb23",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8161790370941162,
+            "Type": "LOCATION",
+            "Text": "Amsterdam",
+            "BeginOffset": 16,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9998841285705566,
+            "Type": "OTHER",
+            "Text": "https://t.co/RJCcAcqjcY",
+            "BeginOffset": 27,
+            "EndOffset": 50
+        }
+    ]
+}

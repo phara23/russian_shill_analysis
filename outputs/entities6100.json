@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7441324591636658,
+            "Type": "PERSON",
+            "Text": "@chatterboxCC",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9995911717414856,
+            "Type": "OTHER",
+            "Text": "https://t.co/aEvTxBCshP",
+            "BeginOffset": 34,
+            "EndOffset": 57
+        }
+    ]
+}

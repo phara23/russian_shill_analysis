@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8498581051826477,
+            "Type": "PERSON",
+            "Text": "@TalibKweli",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9856805801391602,
+            "Type": "PERSON",
+            "Text": "@sarahevans544",
+            "BeginOffset": 16,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9849916100502014,
+            "Type": "ORGANIZATION",
+            "Text": "twitter",
+            "BeginOffset": 45,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9999823570251465,
+            "Type": "OTHER",
+            "Text": "https://t.co/hVYPYcIZ3X",
+            "BeginOffset": 80,
+            "EndOffset": 103
+        }
+    ]
+}

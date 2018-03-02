@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8354326486587524,
+            "Type": "PERSON",
+            "Text": "@CatFoodBreath",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9998005032539368,
+            "Type": "OTHER",
+            "Text": "https://t.co/APcoTFJasg",
+            "BeginOffset": 25,
+            "EndOffset": 48
+        }
+    ]
+}

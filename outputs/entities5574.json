@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.788569450378418,
+            "Type": "PERSON",
+            "Text": "@BlogOverwatch",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9809932708740234,
+            "Type": "OTHER",
+            "Text": "African-Americans",
+            "BeginOffset": 56,
+            "EndOffset": 73
+        }
+    ]
+}

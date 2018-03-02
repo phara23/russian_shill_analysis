@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.854062020778656,
+            "Type": "PERSON",
+            "Text": "@Echecrates",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.32503727078437805,
+            "Type": "ORGANIZATION",
+            "Text": "Zenith",
+            "BeginOffset": 24,
+            "EndOffset": 30
+        }
+    ]
+}

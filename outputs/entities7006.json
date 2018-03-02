@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9358683228492737,
+            "Type": "PERSON",
+            "Text": "@Amyloukingery",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9794021844863892,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 19,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.716709554195404,
+            "Type": "PERSON",
+            "Text": "Stasi",
+            "BeginOffset": 53,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9945110082626343,
+            "Type": "PERSON",
+            "Text": "Oliver Stone",
+            "BeginOffset": 65,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9334816932678223,
+            "Type": "OTHER",
+            "Text": "https://t.co/U9NDeReQPa",
+            "BeginOffset": 78,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.9313445091247559,
+            "Type": "ORGANIZATION",
+            "Text": "@YahooNews",
+            "BeginOffset": 106,
+            "EndOffset": 116
+        }
+    ]
+}

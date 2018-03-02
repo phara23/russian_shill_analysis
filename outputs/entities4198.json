@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9969996809959412,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 0,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.9982800483703613,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 9,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9774567484855652,
+            "Type": "LOCATION",
+            "Text": "Pennsylvania",
+            "BeginOffset": 49,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9992520213127136,
+            "Type": "OTHER",
+            "Text": "https://t.co/6fnmuyP0Ye",
+            "BeginOffset": 62,
+            "EndOffset": 85
+        }
+    ]
+}

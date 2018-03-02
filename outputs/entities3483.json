@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8604616522789001,
+            "Type": "PERSON",
+            "Text": "@BIZPACReview",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9826100468635559,
+            "Type": "ORGANIZATION",
+            "Text": "CNN",
+            "BeginOffset": 66,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9898720383644104,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 102,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.9750075340270996,
+            "Type": "OTHER",
+            "Text": "https://t.co/rrypgShTGx",
+            "BeginOffset": 116,
+            "EndOffset": 139
+        }
+    ]
+}

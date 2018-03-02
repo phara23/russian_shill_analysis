@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8179943561553955,
+            "Type": "PERSON",
+            "Text": "Christie",
+            "BeginOffset": 0,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.9787285327911377,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 12,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9935259819030762,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 18,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.990149974822998,
+            "Type": "PERSON",
+            "Text": "Lester Holt",
+            "BeginOffset": 34,
+            "EndOffset": 45
+        }
+    ]
+}

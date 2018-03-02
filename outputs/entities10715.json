@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.962713360786438,
+            "Type": "PERSON",
+            "Text": "@JamesS020770",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9961796998977661,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 72,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9999434947967529,
+            "Type": "OTHER",
+            "Text": "https://t.co/Ed0LRDGx5w",
+            "BeginOffset": 100,
+            "EndOffset": 123
+        }
+    ]
+}

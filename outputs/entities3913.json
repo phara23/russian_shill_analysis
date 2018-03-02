@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9201977252960205,
+            "Type": "PERSON",
+            "Text": "@NolanHack",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.7772344946861267,
+            "Type": "QUANTITY",
+            "Text": "100k",
+            "BeginOffset": 30,
+            "EndOffset": 34
+        }
+    ]
+}

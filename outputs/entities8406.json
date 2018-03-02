@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8443641662597656,
+            "Type": "PERSON",
+            "Text": "@MidOhioMilitia",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.966529369354248,
+            "Type": "PERSON",
+            "Text": "TRUMP",
+            "BeginOffset": 63,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9880180358886719,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 90,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.5546563863754272,
+            "Type": "ORGANIZATION",
+            "Text": "#MAGA",
+            "BeginOffset": 95,
+            "EndOffset": 100
+        }
+    ]
+}

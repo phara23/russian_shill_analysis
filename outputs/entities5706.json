@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8786895871162415,
+            "Type": "PERSON",
+            "Text": "@MtnMD",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.8890440464019775,
+            "Type": "PERSON",
+            "Text": "@frankthorp",
+            "BeginOffset": 20,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9921149611473083,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 33,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9945533275604248,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 79,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.8663162589073181,
+            "Type": "LOCATION",
+            "Text": "Newtown",
+            "BeginOffset": 118,
+            "EndOffset": 125
+        },
+        {
+            "Score": 0.951846718788147,
+            "Type": "OTHER",
+            "Text": "https://t.co",
+            "BeginOffset": 127,
+            "EndOffset": 139
+        }
+    ]
+}

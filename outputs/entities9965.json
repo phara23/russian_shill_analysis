@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9160329699516296,
+            "Type": "PERSON",
+            "Text": "@KeshaTedder",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9353880286216736,
+            "Type": "PERSON",
+            "Text": "@roeu812",
+            "BeginOffset": 69,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9999748468399048,
+            "Type": "OTHER",
+            "Text": "https://t.co/Ij40YU4tJD",
+            "BeginOffset": 107,
+            "EndOffset": 130
+        }
+    ]
+}

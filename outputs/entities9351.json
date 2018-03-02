@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8033027052879333,
+            "Type": "ORGANIZATION",
+            "Text": "EU",
+            "BeginOffset": 29,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.5821492075920105,
+            "Type": "EVENT",
+            "Text": "#BrexitDay",
+            "BeginOffset": 87,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.9999152421951294,
+            "Type": "OTHER",
+            "Text": "https://t.co/KnDZcyKQC2",
+            "BeginOffset": 107,
+            "EndOffset": 130
+        }
+    ]
+}

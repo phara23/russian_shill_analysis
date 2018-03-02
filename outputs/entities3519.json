@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8417231440544128,
+            "Type": "PERSON",
+            "Text": "@BernieUpstateNY",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.4971211850643158,
+            "Type": "PERSON",
+            "Text": "Ruh",
+            "BeginOffset": 21,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.7250959873199463,
+            "Type": "PERSON",
+            "Text": "@ActualFlatticus",
+            "BeginOffset": 46,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9738197922706604,
+            "Type": "PERSON",
+            "Text": "@TalkNerdyToMe72",
+            "BeginOffset": 63,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.9664767980575562,
+            "Type": "PERSON",
+            "Text": "@bad_bad_bernie",
+            "BeginOffset": 80,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.9175605177879333,
+            "Type": "PERSON",
+            "Text": "@mtracey",
+            "BeginOffset": 96,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.985666811466217,
+            "Type": "PERSON",
+            "Text": "@DavidShuster",
+            "BeginOffset": 105,
+            "EndOffset": 118
+        },
+        {
+            "Score": 0.9785524010658264,
+            "Type": "PERSON",
+            "Text": "@JordanChariton",
+            "BeginOffset": 119,
+            "EndOffset": 134
+        }
+    ]
+}

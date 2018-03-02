@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6764373183250427,
+            "Type": "PERSON",
+            "Text": "@Wxrded",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9658116698265076,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 12,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9514656066894531,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 50,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9809649586677551,
+            "Type": "OTHER",
+            "Text": "https://t.co/PQgLL5aMGw",
+            "BeginOffset": 95,
+            "EndOffset": 118
+        }
+    ]
+}

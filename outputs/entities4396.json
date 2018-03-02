@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7390505075454712,
+            "Type": "ORGANIZATION",
+            "Text": "@USATODAY",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9740874767303467,
+            "Type": "PERSON",
+            "Text": "President Obama",
+            "BeginOffset": 14,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.7914525866508484,
+            "Type": "PERSON",
+            "Text": "Anthony @Bourdain",
+            "BeginOffset": 34,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.931239902973175,
+            "Type": "LOCATION",
+            "Text": "Hanoi",
+            "BeginOffset": 80,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.7311314940452576,
+            "Type": "OTHER",
+            "Text": "https://t.co/ANNiAgfp6A",
+            "BeginOffset": 87,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.9998321533203125,
+            "Type": "OTHER",
+            "Text": "https://t.co/kaUggwkMVl",
+            "BeginOffset": 111,
+            "EndOffset": 134
+        }
+    ]
+}

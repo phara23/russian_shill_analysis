@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7277957201004028,
+            "Type": "PERSON",
+            "Text": "@FeeBooths",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9939689636230469,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 42,
+            "EndOffset": 47
+        }
+    ]
+}

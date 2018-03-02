@@ -1,0 +1,67 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6704152822494507,
+            "Type": "PERSON",
+            "Text": "@tfgnews",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8048913478851318,
+            "Type": "PERSON",
+            "Text": "@USARMY",
+            "BeginOffset": 25,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.8896973729133606,
+            "Type": "PERSON",
+            "Text": "@USMC",
+            "BeginOffset": 33,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9140458703041077,
+            "Type": "PERSON",
+            "Text": "@USAirForce",
+            "BeginOffset": 39,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.8925555944442749,
+            "Type": "PERSON",
+            "Text": "@USNavy",
+            "BeginOffset": 51,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.991304337978363,
+            "Type": "QUANTITY",
+            "Text": "50 billion",
+            "BeginOffset": 75,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.5508037805557251,
+            "Type": "LOCATION",
+            "Text": "Iran",
+            "BeginOffset": 97,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.773871898651123,
+            "Type": "QUANTITY",
+            "Text": "4 Trump",
+            "BeginOffset": 108,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.9131293296813965,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 124,
+            "EndOffset": 137
+        }
+    ]
+}

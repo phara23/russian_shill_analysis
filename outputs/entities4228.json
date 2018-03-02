@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9206472039222717,
+            "Type": "PERSON",
+            "Text": "@ghastly_girl",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7244235277175903,
+            "Type": "DATE",
+            "Text": "80's",
+            "BeginOffset": 36,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.6256383657455444,
+            "Type": "DATE",
+            "Text": "#2017",
+            "BeginOffset": 87,
+            "EndOffset": 92
+        }
+    ]
+}

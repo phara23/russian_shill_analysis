@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9146766066551208,
+            "Type": "PERSON",
+            "Text": "@LightAlexander",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9196263551712036,
+            "Type": "PERSON",
+            "Text": "Brzezinski",
+            "BeginOffset": 20,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9998326301574707,
+            "Type": "OTHER",
+            "Text": "https://t.co/jxdUuMSyUm",
+            "BeginOffset": 86,
+            "EndOffset": 109
+        }
+    ]
+}

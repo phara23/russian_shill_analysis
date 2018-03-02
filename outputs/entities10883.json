@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8993437886238098,
+            "Type": "PERSON",
+            "Text": "@nine_oh",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8324326276779175,
+            "Type": "QUANTITY",
+            "Text": "one piece",
+            "BeginOffset": 40,
+            "EndOffset": 49
+        }
+    ]
+}

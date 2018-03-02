@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5019871592521667,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.9871507883071899,
+            "Type": "PERSON",
+            "Text": "@Shane_Rodenbeck",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9874390959739685,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 43,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.6449108719825745,
+            "Type": "LOCATION",
+            "Text": "Kenya",
+            "BeginOffset": 95,
+            "EndOffset": 100
+        }
+    ]
+}

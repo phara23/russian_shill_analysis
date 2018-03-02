@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9730960130691528,
+            "Type": "LOCATION",
+            "Text": "Houston",
+            "BeginOffset": 0,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.987920880317688,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 37,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.45114004611968994,
+            "Type": "ORGANIZATION",
+            "Text": "#HunksForHi",
+            "BeginOffset": 48,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.9618138670921326,
+            "Type": "OTHER",
+            "Text": "https://t.co/zsUcqY4eZd",
+            "BeginOffset": 63,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.8003450632095337,
+            "Type": "OTHER",
+            "Text": "https://t.co/GEOYS5E4Ll",
+            "BeginOffset": 89,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.9999598264694214,
+            "Type": "OTHER",
+            "Text": "https://t.co/YjZCbmX3hN",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        }
+    ]
+}

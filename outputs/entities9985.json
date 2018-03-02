@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8913823366165161,
+            "Type": "PERSON",
+            "Text": "@HealthRanger",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.6462470293045044,
+            "Type": "ORGANIZATION",
+            "Text": "France",
+            "BeginOffset": 29,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9780673384666443,
+            "Type": "OTHER",
+            "Text": "https://t.co/jfpxCY0sU6",
+            "BeginOffset": 64,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.8875560164451599,
+            "Type": "OTHER",
+            "Text": "https://t.co/E",
+            "BeginOffset": 125,
+            "EndOffset": 139
+        }
+    ]
+}

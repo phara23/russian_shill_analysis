@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8624042272567749,
+            "Type": "PERSON",
+            "Text": "@SandraHartle",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8822624683380127,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 18,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.8476077914237976,
+            "Type": "PERSON",
+            "Text": "@POTUS",
+            "BeginOffset": 34,
+            "EndOffset": 40
+        }
+    ]
+}

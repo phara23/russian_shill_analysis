@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9019572138786316,
+            "Type": "PERSON",
+            "Text": "@StopStopHillary",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9995446801185608,
+            "Type": "OTHER",
+            "Text": "https://t.co/XgBhnipGxf",
+            "BeginOffset": 112,
+            "EndOffset": 135
+        }
+    ]
+}

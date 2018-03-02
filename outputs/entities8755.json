@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6840577125549316,
+            "Type": "PERSON",
+            "Text": "@BBCWorld",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.5745299458503723,
+            "Type": "ORGANIZATION",
+            "Text": "Israel",
+            "BeginOffset": 14,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.41116297245025635,
+            "Type": "OTHER",
+            "Text": "Palestinian",
+            "BeginOffset": 53,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.700043261051178,
+            "Type": "ORGANIZATION",
+            "Text": "Hamas",
+            "BeginOffset": 65,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.999991774559021,
+            "Type": "OTHER",
+            "Text": "https://t.co/Mfv4C3kOrl",
+            "BeginOffset": 81,
+            "EndOffset": 104
+        }
+    ]
+}

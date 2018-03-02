@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8607581257820129,
+            "Type": "PERSON",
+            "Text": "@RidingRambler",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7221672534942627,
+            "Type": "DATE",
+            "Text": "#2017",
+            "BeginOffset": 19,
+            "EndOffset": 24
+        }
+    ]
+}

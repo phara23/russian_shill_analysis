@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9588793516159058,
+            "Type": "PERSON",
+            "Text": "@jjauthor",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9513923525810242,
+            "Type": "LOCATION",
+            "Text": "Sweden",
+            "BeginOffset": 14,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.7009212970733643,
+            "Type": "QUANTITY",
+            "Text": "first male rape centre",
+            "BeginOffset": 35,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9848923683166504,
+            "Type": "OTHER",
+            "Text": "https://t.co/DcIKsJgF3J",
+            "BeginOffset": 59,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.8040584921836853,
+            "Type": "ORGANIZATION",
+            "Text": "@TheLocalSweden",
+            "BeginOffset": 87,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.8855281472206116,
+            "Type": "ORGANIZATION",
+            "Text": "@patriot_girl_tx",
+            "BeginOffset": 107,
+            "EndOffset": 123
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9397580027580261,
+            "Type": "PERSON",
+            "Text": "@xonjie123",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.5038934350013733,
+            "Type": "LOCATION",
+            "Text": "Malibu beach",
+            "BeginOffset": 62,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9963226318359375,
+            "Type": "QUANTITY",
+            "Text": "3 sides",
+            "BeginOffset": 90,
+            "EndOffset": 97
+        }
+    ]
+}

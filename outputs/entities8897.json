@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9758570790290833,
+            "Type": "PERSON",
+            "Text": "@jko417",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9886221289634705,
+            "Type": "TITLE",
+            "Text": "Obamacare",
+            "BeginOffset": 16,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.8428611159324646,
+            "Type": "PERSON",
+            "Text": "@CarmineZozzora",
+            "BeginOffset": 96,
+            "EndOffset": 111
+        },
+        {
+            "Score": 0.9869348406791687,
+            "Type": "PERSON",
+            "Text": "@phil200269",
+            "BeginOffset": 112,
+            "EndOffset": 123
+        },
+        {
+            "Score": 0.826314389705658,
+            "Type": "OTHER",
+            "Text": "https://t.co/Y",
+            "BeginOffset": 125,
+            "EndOffset": 139
+        }
+    ]
+}

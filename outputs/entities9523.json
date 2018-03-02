@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9177297353744507,
+            "Type": "PERSON",
+            "Text": "@SanJosePost",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9663184285163879,
+            "Type": "PERSON",
+            "Text": "#SanJose Zuckerberg",
+            "BeginOffset": 17,
+            "EndOffset": 36
+        }
+    ]
+}

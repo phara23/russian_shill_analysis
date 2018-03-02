@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8850287199020386,
+            "Type": "PERSON",
+            "Text": "@MarkDiStef",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9969683289527893,
+            "Type": "QUANTITY",
+            "Text": "95,000",
+            "BeginOffset": 19,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.7715957760810852,
+            "Type": "QUANTITY",
+            "Text": "13 gender dysphoria cases",
+            "BeginOffset": 44,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9464464783668518,
+            "Type": "LOCATION",
+            "Text": "Australia",
+            "BeginOffset": 73,
+            "EndOffset": 82
+        }
+    ]
+}

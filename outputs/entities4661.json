@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9361270666122437,
+            "Type": "PERSON",
+            "Text": "@davidsirota",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.6826319098472595,
+            "Type": "ORGANIZATION",
+            "Text": "Clinton Noise Machine",
+            "BeginOffset": 73,
+            "EndOffset": 94
+        }
+    ]
+}

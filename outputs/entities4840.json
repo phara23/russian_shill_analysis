@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7089649438858032,
+            "Type": "ORGANIZATION",
+            "Text": "@Forbes",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.8693025708198547,
+            "Type": "PERSON",
+            "Text": "Kaine",
+            "BeginOffset": 12,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.993364691734314,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 19,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9837854504585266,
+            "Type": "LOCATION",
+            "Text": "United State",
+            "BeginOffset": 127,
+            "EndOffset": 139
+        }
+    ]
+}

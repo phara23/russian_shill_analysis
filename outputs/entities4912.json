@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8023687601089478,
+            "Type": "PERSON",
+            "Text": "@MIPooh",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.5338600873947144,
+            "Type": "PERSON",
+            "Text": "Adeni",
+            "BeginOffset": 63,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.6178634166717529,
+            "Type": "ORGANIZATION",
+            "Text": "#NYCACC",
+            "BeginOffset": 114,
+            "EndOffset": 121
+        }
+    ]
+}

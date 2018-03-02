@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8552033305168152,
+            "Type": "PERSON",
+            "Text": "@chiefragingbull",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9786046743392944,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 44,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.6233820915222168,
+            "Type": "PERSON",
+            "Text": "Rush Limbaugh",
+            "BeginOffset": 56,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9310033321380615,
+            "Type": "OTHER",
+            "Text": "https://t.co/w4uUwvzI4f",
+            "BeginOffset": 75,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.9485848546028137,
+            "Type": "PERSON",
+            "Text": "@Linnlondon1",
+            "BeginOffset": 99,
+            "EndOffset": 111
+        },
+        {
+            "Score": 0.9889923334121704,
+            "Type": "PERSON",
+            "Text": "@railgirl1952",
+            "BeginOffset": 112,
+            "EndOffset": 125
+        },
+        {
+            "Score": 0.8113950490951538,
+            "Type": "PERSON",
+            "Text": "@LSUJEFF",
+            "BeginOffset": 126,
+            "EndOffset": 134
+        },
+        {
+            "Score": 0.8285715579986572,
+            "Type": "PERSON",
+            "Text": "@eav",
+            "BeginOffset": 135,
+            "EndOffset": 139
+        }
+    ]
+}

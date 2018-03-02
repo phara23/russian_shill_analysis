@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8435792326927185,
+            "Type": "PERSON",
+            "Text": "@chiefplan1",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.6914016008377075,
+            "Type": "QUANTITY",
+            "Text": "5Words",
+            "BeginOffset": 30,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9953761100769043,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 50,
+            "EndOffset": 55
+        }
+    ]
+}

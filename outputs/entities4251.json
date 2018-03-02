@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9964055418968201,
+            "Type": "PERSON",
+            "Text": "Curt Schilling",
+            "BeginOffset": 0,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7978302240371704,
+            "Type": "ORGANIZATION",
+            "Text": "Fox",
+            "BeginOffset": 21,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9945427179336548,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 46,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9999970197677612,
+            "Type": "OTHER",
+            "Text": "https://t.co/BXK9CkcgQP",
+            "BeginOffset": 82,
+            "EndOffset": 105
+        }
+    ]
+}

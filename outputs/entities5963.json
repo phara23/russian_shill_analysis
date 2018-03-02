@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9237695336341858,
+            "Type": "PERSON",
+            "Text": "@danrolle",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9824808239936829,
+            "Type": "DATE",
+            "Text": "2011",
+            "BeginOffset": 30,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9682540893554688,
+            "Type": "PERSON",
+            "Text": "Reid",
+            "BeginOffset": 35,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9188603162765503,
+            "Type": "PERSON",
+            "Text": "@Astrid_NVs",
+            "BeginOffset": 59,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.8085702061653137,
+            "Type": "QUANTITY",
+            "Text": "400k immigrants",
+            "BeginOffset": 108,
+            "EndOffset": 123
+        }
+    ]
+}

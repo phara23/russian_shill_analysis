@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8194034099578857,
+            "Type": "PERSON",
+            "Text": "@ShuttlesWerth",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7312380075454712,
+            "Type": "QUANTITY",
+            "Text": "1st",
+            "BeginOffset": 19,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.93775475025177,
+            "Type": "ORGANIZATION",
+            "Text": "Steelers",
+            "BeginOffset": 23,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.640069305896759,
+            "Type": "PERSON",
+            "Text": "LeVeon",
+            "BeginOffset": 46,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.6064275503158569,
+            "Type": "ORGANIZATION",
+            "Text": "3\n\nChiefs",
+            "BeginOffset": 83,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.634006142616272,
+            "Type": "ORGANIZATION",
+            "Text": "AB84",
+            "BeginOffset": 115,
+            "EndOffset": 119
+        }
+    ]
+}

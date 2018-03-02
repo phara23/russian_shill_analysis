@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6783540844917297,
+            "Type": "ORGANIZATION",
+            "Text": "@PowerMusicTeam",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.90448397397995,
+            "Type": "COMMERCIAL_ITEM",
+            "Text": "ps4",
+            "BeginOffset": 51,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.8614974021911621,
+            "Type": "OTHER",
+            "Text": "https://t.co/moJzyUn9tg",
+            "BeginOffset": 57,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.9999971389770508,
+            "Type": "OTHER",
+            "Text": "https://t.co/hCmu3KVxG9",
+            "BeginOffset": 81,
+            "EndOffset": 104
+        }
+    ]
+}

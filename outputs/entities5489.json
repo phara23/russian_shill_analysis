@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8493956923484802,
+            "Type": "PERSON",
+            "Text": "@gloed_up",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9732796549797058,
+            "Type": "ORGANIZATION",
+            "Text": "Walmart",
+            "BeginOffset": 56,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9999097585678101,
+            "Type": "OTHER",
+            "Text": "https://t.co/9YK6RZVRf7",
+            "BeginOffset": 106,
+            "EndOffset": 129
+        }
+    ]
+}

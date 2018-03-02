@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9076839685440063,
+            "Type": "PERSON",
+            "Text": "@tan123",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9994043111801147,
+            "Type": "OTHER",
+            "Text": "https://t.co/vpbhsmQuIB",
+            "BeginOffset": 20,
+            "EndOffset": 43
+        }
+    ]
+}

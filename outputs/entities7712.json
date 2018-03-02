@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.867601752281189,
+            "Type": "PERSON",
+            "Text": "@ocartman1",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9342070817947388,
+            "Type": "DATE",
+            "Text": "friday",
+            "BeginOffset": 21,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9999723434448242,
+            "Type": "OTHER",
+            "Text": "https://t.co/nsaf9kLC3b",
+            "BeginOffset": 29,
+            "EndOffset": 52
+        }
+    ]
+}

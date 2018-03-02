@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8695957660675049,
+            "Type": "ORGANIZATION",
+            "Text": "@RT_com",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.724358081817627,
+            "Type": "ORGANIZATION",
+            "Text": "#WikiLeaks",
+            "BeginOffset": 12,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.5438480377197266,
+            "Type": "LOCATION",
+            "Text": "Ecuador",
+            "BeginOffset": 28,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.63010573387146,
+            "Type": "ORGANIZATION",
+            "Text": "#Assange",
+            "BeginOffset": 44,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.48635122179985046,
+            "Type": "ORGANIZATION",
+            "Text": "#Clinton",
+            "BeginOffset": 74,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.9999645948410034,
+            "Type": "OTHER",
+            "Text": "https://t.co/BGH8563gnE",
+            "BeginOffset": 100,
+            "EndOffset": 123
+        }
+    ]
+}

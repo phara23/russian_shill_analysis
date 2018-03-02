@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8554004430770874,
+            "Type": "PERSON",
+            "Text": "@HomerWhite",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9999722242355347,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 33,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.993259608745575,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 133,
+            "EndOffset": 138
+        }
+    ]
+}

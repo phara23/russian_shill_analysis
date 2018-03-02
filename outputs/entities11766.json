@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8872543573379517,
+            "Type": "PERSON",
+            "Text": "@Gamiliell",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.6004931926727295,
+            "Type": "DATE",
+            "Text": "Easter Sunday",
+            "BeginOffset": 15,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9981149435043335,
+            "Type": "DATE",
+            "Text": "March 27, 2016",
+            "BeginOffset": 42,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9789243340492249,
+            "Type": "OTHER",
+            "Text": "https://t.co/6qibUDWvgf",
+            "BeginOffset": 57,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.8987929224967957,
+            "Type": "PERSON",
+            "Text": "Rose",
+            "BeginOffset": 88,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.8923702836036682,
+            "Type": "PERSON",
+            "Text": "@500px",
+            "BeginOffset": 93,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.8454585671424866,
+            "Type": "OTHER",
+            "Text": "https://t.co/3QdisjYHb9",
+            "BeginOffset": 100,
+            "EndOffset": 123
+        },
+        {
+            "Score": 0.9686239361763,
+            "Type": "OTHER",
+            "Text": "https://t.co/IQ",
+            "BeginOffset": 124,
+            "EndOffset": 139
+        }
+    ]
+}

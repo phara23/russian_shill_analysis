@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9118016958236694,
+            "Type": "PERSON",
+            "Text": "@MsB971",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.41809412837028503,
+            "Type": "PERSON",
+            "Text": "#TrumpsArmy",
+            "BeginOffset": 12,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.5984246134757996,
+            "Type": "PERSON",
+            "Text": "#NeverHillary",
+            "BeginOffset": 24,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.7468858361244202,
+            "Type": "PERSON",
+            "Text": "#VoteTrump",
+            "BeginOffset": 38,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9996378421783447,
+            "Type": "OTHER",
+            "Text": "https://t.co/jf2i46fvmO",
+            "BeginOffset": 108,
+            "EndOffset": 131
+        }
+    ]
+}

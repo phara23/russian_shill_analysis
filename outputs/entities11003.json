@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8580002188682556,
+            "Type": "PERSON",
+            "Text": "@Doughravme",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.907042384147644,
+            "Type": "ORGANIZATION",
+            "Text": "Islamic State",
+            "BeginOffset": 20,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9043290019035339,
+            "Type": "LOCATION",
+            "Text": "Iraq",
+            "BeginOffset": 57,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.7634114027023315,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 81,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.9623720049858093,
+            "Type": "OTHER",
+            "Text": "https://t.co/3w8BW3HOtI",
+            "BeginOffset": 84,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.7605346441268921,
+            "Type": "ORGANIZATION",
+            "Text": "@antimedia",
+            "BeginOffset": 114,
+            "EndOffset": 124
+        },
+        {
+            "Score": 0.4525160789489746,
+            "Type": "ORGANIZATION",
+            "Text": "#GPUSA",
+            "BeginOffset": 126,
+            "EndOffset": 132
+        }
+    ]
+}

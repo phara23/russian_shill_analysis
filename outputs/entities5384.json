@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8804001212120056,
+            "Type": "PERSON",
+            "Text": "@forest_fr1",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8673861622810364,
+            "Type": "PERSON",
+            "Text": "jesus beryl",
+            "BeginOffset": 20,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9998971223831177,
+            "Type": "OTHER",
+            "Text": "https://t.co/F9wN2qUzTe",
+            "BeginOffset": 111,
+            "EndOffset": 134
+        }
+    ]
+}

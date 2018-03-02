@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6750378608703613,
+            "Type": "ORGANIZATION",
+            "Text": "@wikileaks",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9676086902618408,
+            "Type": "PERSON",
+            "Text": "Sanders",
+            "BeginOffset": 15,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9968936443328857,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 52,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.9971717000007629,
+            "Type": "PERSON",
+            "Text": "Robby Mook",
+            "BeginOffset": 91,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.387187659740448,
+            "Type": "QUANTITY",
+            "Text": "47",
+            "BeginOffset": 105,
+            "EndOffset": 107
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9230607151985168,
+            "Type": "PERSON",
+            "Text": "@RaymondSiwale",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7878768444061279,
+            "Type": "QUANTITY",
+            "Text": "3Words",
+            "BeginOffset": 49,
+            "EndOffset": 55
+        }
+    ]
+}

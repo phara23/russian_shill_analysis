@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9253226518630981,
+            "Type": "PERSON",
+            "Text": "Watson",
+            "BeginOffset": 17,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.8456172943115234,
+            "Type": "PERSON",
+            "Text": "@midnight",
+            "BeginOffset": 47,
+            "EndOffset": 56
+        }
+    ]
+}

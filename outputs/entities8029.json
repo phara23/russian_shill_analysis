@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9983950853347778,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 12,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9000132083892822,
+            "Type": "PERSON",
+            "Text": "Merkel",
+            "BeginOffset": 61,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.8034738302230835,
+            "Type": "LOCATION",
+            "Text": "Germany",
+            "BeginOffset": 78,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.9965008497238159,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 87,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.9354453682899475,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 108,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.999974250793457,
+            "Type": "OTHER",
+            "Text": "https://t.co/p7OHczsGrr",
+            "BeginOffset": 116,
+            "EndOffset": 139
+        }
+    ]
+}

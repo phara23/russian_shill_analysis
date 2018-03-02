@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8737431168556213,
+            "Type": "PERSON",
+            "Text": "@mattmoorek",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.5561182498931885,
+            "Type": "OTHER",
+            "Text": "Syrian",
+            "BeginOffset": 20,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9971767663955688,
+            "Type": "ORGANIZATION",
+            "Text": "Facebook",
+            "BeginOffset": 44,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9996702671051025,
+            "Type": "OTHER",
+            "Text": "https://t.co/i2GjDfy6aH",
+            "BeginOffset": 77,
+            "EndOffset": 100
+        }
+    ]
+}

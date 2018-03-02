@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.81389319896698,
+            "Type": "PERSON",
+            "Text": "@DCClothesline",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9992120265960693,
+            "Type": "PERSON",
+            "Text": "Sharyl Attkisson",
+            "BeginOffset": 70,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9996403455734253,
+            "Type": "OTHER",
+            "Text": "https://t.co/LwdRGVUpdZ",
+            "BeginOffset": 109,
+            "EndOffset": 132
+        }
+    ]
+}

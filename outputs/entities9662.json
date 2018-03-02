@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8720278739929199,
+            "Type": "PERSON",
+            "Text": "@OWS_ellie",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9494346976280212,
+            "Type": "ORGANIZATION",
+            "Text": "Democrats",
+            "BeginOffset": 15,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9284619092941284,
+            "Type": "PERSON",
+            "Text": "Sanders",
+            "BeginOffset": 35,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.7255071401596069,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

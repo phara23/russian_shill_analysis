@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8105639219284058,
+            "Type": "PERSON",
+            "Text": "@sweetatertot2",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9866976141929626,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 19,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.6426296830177307,
+            "Type": "ORGANIZATION",
+            "Text": "democrats",
+            "BeginOffset": 69,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.9764804840087891,
+            "Type": "OTHER",
+            "Text": "https://t.co/J9HaO",
+            "BeginOffset": 121,
+            "EndOffset": 139
+        }
+    ]
+}

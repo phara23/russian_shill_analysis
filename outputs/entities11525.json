@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9164656400680542,
+            "Type": "PERSON",
+            "Text": "@RNRKentucky",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9041419625282288,
+            "Type": "PERSON",
+            "Text": "Hillary Millennial",
+            "BeginOffset": 40,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9954553842544556,
+            "Type": "PERSON",
+            "Text": "Dana Kamide",
+            "BeginOffset": 72,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.9846721291542053,
+            "Type": "OTHER",
+            "Text": "https://t.co/cBz2dvyHi6",
+            "BeginOffset": 84,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.9519894123077393,
+            "Type": "ORGANIZATION",
+            "Text": "@YouTube",
+            "BeginOffset": 112,
+            "EndOffset": 120
+        }
+    ]
+}

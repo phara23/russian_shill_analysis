@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7998925447463989,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9775286912918091,
+            "Type": "EVENT",
+            "Text": "New York Comic Con 2016",
+            "BeginOffset": 24,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9728981256484985,
+            "Type": "OTHER",
+            "Text": "https://t.co/sbBAk6vxu0",
+            "BeginOffset": 80,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.8675369620323181,
+            "Type": "PERSON",
+            "Text": "@EurWeb",
+            "BeginOffset": 104,
+            "EndOffset": 111
+        },
+        {
+            "Score": 0.9999657869338989,
+            "Type": "OTHER",
+            "Text": "https://t.co/D1PCwUyAQq",
+            "BeginOffset": 112,
+            "EndOffset": 135
+        }
+    ]
+}

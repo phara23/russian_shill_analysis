@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7800714373588562,
+            "Type": "PERSON",
+            "Text": "@RussiaInsider",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.932897686958313,
+            "Type": "ORGANIZATION",
+            "Text": "New York Times",
+            "BeginOffset": 23,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.7871352434158325,
+            "Type": "EVENT",
+            "Text": "New Cold War",
+            "BeginOffset": 68,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.9141090512275696,
+            "Type": "OTHER",
+            "Text": "http://t.co/RQ0WRrW5Nd",
+            "BeginOffset": 81,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.5094249248504639,
+            "Type": "ORGANIZATION",
+            "Text": "#ColdWarII",
+            "BeginOffset": 104,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.9999721050262451,
+            "Type": "OTHER",
+            "Text": "http://t.co/J4CTdZ55fi",
+            "BeginOffset": 115,
+            "EndOffset": 137
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9556222558021545,
+            "Type": "PERSON",
+            "Text": "@VickyBrush",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9829345941543579,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 27,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.36935684084892273,
+            "Type": "ORGANIZATION",
+            "Text": "#MAGA",
+            "BeginOffset": 53,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.6091620922088623,
+            "Type": "ORGANIZATION",
+            "Text": "Dodge",
+            "BeginOffset": 96,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.820601761341095,
+            "Type": "COMMERCIAL_ITEM",
+            "Text": "Magnum",
+            "BeginOffset": 102,
+            "EndOffset": 108
+        }
+    ]
+}

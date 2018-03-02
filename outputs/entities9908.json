@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8908854126930237,
+            "Type": "PERSON",
+            "Text": "@missjazzey1",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7997114658355713,
+            "Type": "PERSON",
+            "Text": "@funkflex 25",
+            "BeginOffset": 17,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.3816700577735901,
+            "Type": "PERSON",
+            "Text": "Flex",
+            "BeginOffset": 51,
+            "EndOffset": 55
+        }
+    ]
+}

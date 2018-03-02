@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9600590467453003,
+            "Type": "PERSON",
+            "Text": "@anthony9843",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9807077050209045,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 70,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.9998310804367065,
+            "Type": "OTHER",
+            "Text": "https://t.co/oEvTjDNABE",
+            "BeginOffset": 77,
+            "EndOffset": 100
+        }
+    ]
+}

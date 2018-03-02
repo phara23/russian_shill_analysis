@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8282513618469238,
+            "Type": "PERSON",
+            "Text": "@thinkprogress",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9963654279708862,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 19,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.8125472068786621,
+            "Type": "ORGANIZATION",
+            "Text": "Trump University",
+            "BeginOffset": 96,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.999929666519165,
+            "Type": "OTHER",
+            "Text": "https://t.co/xZFlNP8rws",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8960081338882446,
+            "Type": "PERSON",
+            "Text": "Cruz",
+            "BeginOffset": 0,
+            "EndOffset": 4
+        },
+        {
+            "Score": 0.8572872281074524,
+            "Type": "ORGANIZATION",
+            "Text": "DC Cartel",
+            "BeginOffset": 12,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9999791383743286,
+            "Type": "OTHER",
+            "Text": "https://t.co/Z4KRPI94UQ",
+            "BeginOffset": 109,
+            "EndOffset": 132
+        }
+    ]
+}

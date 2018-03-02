@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9110057950019836,
+            "Type": "PERSON",
+            "Text": "@annehelen",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9838352203369141,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 76,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.638691246509552,
+            "Type": "LOCATION",
+            "Text": "Carroll Gardens",
+            "BeginOffset": 87,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.999951958656311,
+            "Type": "OTHER",
+            "Text": "https://t.co/0Xyz80986X",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9183112978935242,
+            "Type": "PERSON",
+            "Text": "@Brialalexi",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.6988380551338196,
+            "Type": "ORGANIZATION",
+            "Text": "Catholic",
+            "BeginOffset": 118,
+            "EndOffset": 126
+        }
+    ]
+}

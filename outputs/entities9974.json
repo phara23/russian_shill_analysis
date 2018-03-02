@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9948531985282898,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 51,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.5090657472610474,
+            "Type": "PERSON",
+            "Text": "#Gettysburg",
+            "BeginOffset": 60,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9999713897705078,
+            "Type": "OTHER",
+            "Text": "https://t.co/H3oY0ymnxM",
+            "BeginOffset": 72,
+            "EndOffset": 95
+        }
+    ]
+}

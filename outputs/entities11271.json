@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9715626239776611,
+            "Type": "PERSON",
+            "Text": "@Eugene_Scott",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7565548419952393,
+            "Type": "ORGANIZATION",
+            "Text": "@FreeBeacon",
+            "BeginOffset": 27,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9140188694000244,
+            "Type": "DATE",
+            "Text": "last night",
+            "BeginOffset": 76,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.6454383730888367,
+            "Type": "ORGANIZATION",
+            "Text": "#WHCD",
+            "BeginOffset": 94,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.7897992730140686,
+            "Type": "LOCATION",
+            "Text": "Baltimore",
+            "BeginOffset": 111,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.9808916449546814,
+            "Type": "OTHER",
+            "Text": "https://t.co/2nl5J",
+            "BeginOffset": 121,
+            "EndOffset": 139
+        }
+    ]
+}

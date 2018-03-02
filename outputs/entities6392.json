@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9972260594367981,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 10,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.995851993560791,
+            "Type": "ORGANIZATION",
+            "Text": "FBI",
+            "BeginOffset": 32,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9999805688858032,
+            "Type": "OTHER",
+            "Text": "https://t.co/yxw5yUwsiQ",
+            "BeginOffset": 108,
+            "EndOffset": 131
+        }
+    ]
+}

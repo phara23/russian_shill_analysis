@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8686015605926514,
+            "Type": "PERSON",
+            "Text": "@aarontveits",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7131685018539429,
+            "Type": "PERSON",
+            "Text": "donald trump",
+            "BeginOffset": 105,
+            "EndOffset": 117
+        },
+        {
+            "Score": 0.7186689376831055,
+            "Type": "PERSON",
+            "Text": "shonda",
+            "BeginOffset": 126,
+            "EndOffset": 132
+        }
+    ]
+}

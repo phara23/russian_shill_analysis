@@ -1,0 +1,81 @@
+{
+    "Entities": [
+        {
+            "Score": 0.48053690791130066,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8823100924491882,
+            "Type": "PERSON",
+            "Text": "@Russ_T_Skillit",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8147540092468262,
+            "Type": "PERSON",
+            "Text": "@tgradous",
+            "BeginOffset": 20,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9410979747772217,
+            "Type": "PERSON",
+            "Text": "@PatriotJewel",
+            "BeginOffset": 30,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9917065501213074,
+            "Type": "PERSON",
+            "Text": "@JVER1",
+            "BeginOffset": 44,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9174919128417969,
+            "Type": "PERSON",
+            "Text": "@BrotherVet",
+            "BeginOffset": 51,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.8550538420677185,
+            "Type": "PERSON",
+            "Text": "@1VoiceMatters",
+            "BeginOffset": 63,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9754235744476318,
+            "Type": "PERSON",
+            "Text": "@Packin_Granny",
+            "BeginOffset": 78,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.9771862626075745,
+            "Type": "PERSON",
+            "Text": "@ProudInfidel33",
+            "BeginOffset": 93,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.9124110341072083,
+            "Type": "PERSON",
+            "Text": "@DrSueDVM",
+            "BeginOffset": 109,
+            "EndOffset": 118
+        },
+        {
+            "Score": 0.9704137444496155,
+            "Type": "PERSON",
+            "Text": "@DarleneHBrook",
+            "BeginOffset": 119,
+            "EndOffset": 133
+        }
+    ]
+}

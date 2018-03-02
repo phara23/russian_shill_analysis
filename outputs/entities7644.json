@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9081517457962036,
+            "Type": "PERSON",
+            "Text": "@Jossfjh",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.360839307308197,
+            "Type": "QUANTITY",
+            "Text": "First",
+            "BeginOffset": 13,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.5613444447517395,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 26,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9927571415901184,
+            "Type": "OTHER",
+            "Text": "https://t.co/0jmxBzzeVX",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        },
+        {
+            "Score": 0.7748340368270874,
+            "Type": "ORGANIZATION",
+            "Text": "@crooksandliars",
+            "BeginOffset": 124,
+            "EndOffset": 139
+        }
+    ]
+}

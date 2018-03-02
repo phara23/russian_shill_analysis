@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4759643077850342,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8925109505653381,
+            "Type": "PERSON",
+            "Text": "@Ye_Are_Gods",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7154966592788696,
+            "Type": "QUANTITY",
+            "Text": "2 the illusion",
+            "BeginOffset": 113,
+            "EndOffset": 127
+        }
+    ]
+}

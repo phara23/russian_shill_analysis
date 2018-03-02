@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9105026721954346,
+            "Type": "PERSON",
+            "Text": "@MegKinnardAP",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8524795770645142,
+            "Type": "QUANTITY",
+            "Text": "2nd",
+            "BeginOffset": 60,
+            "EndOffset": 63
+        }
+    ]
+}

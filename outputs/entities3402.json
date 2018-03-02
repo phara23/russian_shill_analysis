@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8980245590209961,
+            "Type": "PERSON",
+            "Text": "@intheknow1798",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9771090745925903,
+            "Type": "PERSON",
+            "Text": "Bill Clinton",
+            "BeginOffset": 36,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.4562743604183197,
+            "Type": "DATE",
+            "Text": "Today",
+            "BeginOffset": 68,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.641337513923645,
+            "Type": "PERSON",
+            "Text": "Heckler",
+            "BeginOffset": 81,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9276207089424133,
+            "Type": "PERSON",
+            "Text": "Tim Kaine",
+            "BeginOffset": 92,
+            "EndOffset": 101
+        }
+    ]
+}

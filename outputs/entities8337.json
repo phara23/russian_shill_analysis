@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8431937098503113,
+            "Type": "PERSON",
+            "Text": "@TweetBrettMac",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9453450441360474,
+            "Type": "ORGANIZATION",
+            "Text": "UN",
+            "BeginOffset": 32,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.6234816312789917,
+            "Type": "PERSON",
+            "Text": "Soros",
+            "BeginOffset": 77,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.9964361190795898,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 91,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.9585909247398376,
+            "Type": "ORGANIZATION",
+            "Text": "POLITICO",
+            "BeginOffset": 112,
+            "EndOffset": 120
+        }
+    ]
+}

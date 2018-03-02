@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8685723543167114,
+            "Type": "ORGANIZATION",
+            "Text": "@RT_com",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9332014918327332,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 13,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.6706939339637756,
+            "Type": "ORGANIZATION",
+            "Text": "Russia",
+            "BeginOffset": 48,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9513800144195557,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 78,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.9998716115951538,
+            "Type": "OTHER",
+            "Text": "https://t.co/Ge9KsBAtby",
+            "BeginOffset": 102,
+            "EndOffset": 125
+        }
+    ]
+}

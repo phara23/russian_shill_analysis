@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.934752881526947,
+            "Type": "PERSON",
+            "Text": "@DawnRichard",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7139003276824951,
+            "Type": "QUANTITY",
+            "Text": "one",
+            "BeginOffset": 40,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.7375959753990173,
+            "Type": "ORGANIZATION",
+            "Text": "Pitchfork",
+            "BeginOffset": 47,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9804643392562866,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 90,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.959566056728363,
+            "Type": "OTHER",
+            "Text": "https://t.co/A6kwrtt2zU",
+            "BeginOffset": 95,
+            "EndOffset": 118
+        },
+        {
+            "Score": 0.9999897480010986,
+            "Type": "OTHER",
+            "Text": "https://t.co/H3f8mSKlTT",
+            "BeginOffset": 119,
+            "EndOffset": 142
+        }
+    ]
+}

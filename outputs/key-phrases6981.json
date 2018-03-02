@@ -1,0 +1,28 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.8977369070053101,
+            "Text": "Obama",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9991022348403931,
+            "Text": "Peres",
+            "BeginOffset": 7,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9956473112106323,
+            "Text": "his wars",
+            "BeginOffset": 17,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9950999021530151,
+            "Text": "the need",
+            "BeginOffset": 41,
+            "EndOffset": 49
+        }
+    ]
+}

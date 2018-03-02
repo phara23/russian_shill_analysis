@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9585102200508118,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9743236303329468,
+            "Type": "ORGANIZATION",
+            "Text": "FBI",
+            "BeginOffset": 32,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.7392123937606812,
+            "Type": "PERSON",
+            "Text": "Comey",
+            "BeginOffset": 47,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.7146033644676208,
+            "Type": "TITLE",
+            "Text": "Stood In The Way",
+            "BeginOffset": 54,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9940286874771118,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 75,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.9997631907463074,
+            "Type": "OTHER",
+            "Text": "https://t.co/6n63fHVvNo",
+            "BeginOffset": 104,
+            "EndOffset": 127
+        }
+    ]
+}

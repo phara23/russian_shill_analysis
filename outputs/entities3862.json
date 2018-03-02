@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8984164595603943,
+            "Type": "PERSON",
+            "Text": "@PrisonPlanet",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9998644590377808,
+            "Type": "OTHER",
+            "Text": "https://t.co/6adLt3qfUc",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        }
+    ]
+}

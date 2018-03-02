@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9526560306549072,
+            "Type": "PERSON",
+            "Text": "@RiskyPeter",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8454052805900574,
+            "Type": "ORGANIZATION",
+            "Text": "Clinton Foundation",
+            "BeginOffset": 29,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9411317110061646,
+            "Type": "PERSON",
+            "Text": "@JTrumplandslide",
+            "BeginOffset": 74,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9893004298210144,
+            "Type": "PERSON",
+            "Text": "@los001979",
+            "BeginOffset": 91,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.9316580295562744,
+            "Type": "PERSON",
+            "Text": "@kristilade",
+            "BeginOffset": 102,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.9929835796356201,
+            "Type": "PERSON",
+            "Text": "@Chris11962",
+            "BeginOffset": 114,
+            "EndOffset": 125
+        },
+        {
+            "Score": 0.8378116488456726,
+            "Type": "ORGANIZATION",
+            "Text": "@US_Intel",
+            "BeginOffset": 126,
+            "EndOffset": 135
+        },
+        {
+            "Score": 0.716877281665802,
+            "Type": "ORGANIZATION",
+            "Text": "@a_",
+            "BeginOffset": 136,
+            "EndOffset": 139
+        }
+    ]
+}

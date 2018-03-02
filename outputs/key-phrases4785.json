@@ -1,0 +1,40 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9847051501274109,
+            "Text": "the federal government",
+            "BeginOffset": 6,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9997894167900085,
+            "Text": "any new ban",
+            "BeginOffset": 44,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.999862551689148,
+            "Text": "any particular type",
+            "BeginOffset": 59,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.9066283106803894,
+            "Text": "firearm",
+            "BeginOffset": 82,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.7323372960090637,
+            "Text": "#2",
+            "BeginOffset": 90,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.7118445038795471,
+            "Text": "A #nra   #Prayers",
+            "BeginOffset": 92,
+            "EndOffset": 109
+        }
+    ]
+}

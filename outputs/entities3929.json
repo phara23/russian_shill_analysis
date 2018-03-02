@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9595597386360168,
+            "Type": "PERSON",
+            "Text": "@jimmylemons",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9960452914237976,
+            "Type": "ORGANIZATION",
+            "Text": "FBI",
+            "BeginOffset": 17,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.9999115467071533,
+            "Type": "OTHER",
+            "Text": "https://t.co/fq0qMkPkZN",
+            "BeginOffset": 57,
+            "EndOffset": 80
+        }
+    ]
+}

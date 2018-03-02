@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9033738970756531,
+            "Type": "PERSON",
+            "Text": "@TheBatriarchy",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.37765073776245117,
+            "Type": "PERSON",
+            "Text": "#TedCruz",
+            "BeginOffset": 119,
+            "EndOffset": 127
+        }
+    ]
+}

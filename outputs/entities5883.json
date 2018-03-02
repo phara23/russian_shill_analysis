@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8588045239448547,
+            "Type": "PERSON",
+            "Text": "@yuliastr",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9877132177352905,
+            "Type": "PERSON",
+            "Text": "Vanessa",
+            "BeginOffset": 22,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9067128300666809,
+            "Type": "OTHER",
+            "Text": "https://t.co/JIKxr3YfQC",
+            "BeginOffset": 42,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.2955714166164398,
+            "Type": "ORGANIZATION",
+            "Text": "#NoDAPL",
+            "BeginOffset": 66,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.6348401308059692,
+            "Type": "ORGANIZATION",
+            "Text": "@shailenewoodley",
+            "BeginOffset": 74,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.4904242753982544,
+            "Type": "ORGANIZATION",
+            "Text": "#NoDAPL",
+            "BeginOffset": 93,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.9999289512634277,
+            "Type": "OTHER",
+            "Text": "https://t.co/pTe09fGCeI",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

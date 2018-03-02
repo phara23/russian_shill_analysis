@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7637733221054077,
+            "Type": "PERSON",
+            "Text": "@ColorOfChange",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9920668005943298,
+            "Type": "PERSON",
+            "Text": "Ciara McElveen",
+            "BeginOffset": 33,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9978874921798706,
+            "Type": "PERSON",
+            "Text": "Chyna Gibson",
+            "BeginOffset": 49,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9950559735298157,
+            "Type": "PERSON",
+            "Text": "KeKe Collier",
+            "BeginOffset": 63,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.9915427565574646,
+            "Type": "PERSON",
+            "Text": "Jaquarrius Holland",
+            "BeginOffset": 77,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.9882895946502686,
+            "Type": "PERSON",
+            "Text": "JoJo Striker",
+            "BeginOffset": 97,
+            "EndOffset": 109
+        },
+        {
+            "Score": 0.993161678314209,
+            "Type": "PERSON",
+            "Text": "Jamie Lee",
+            "BeginOffset": 111,
+            "EndOffset": 120
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7903473377227783,
+            "Type": "PERSON",
+            "Text": "@amrightnow",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.989753246307373,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 25,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.8970262408256531,
+            "Type": "TITLE",
+            "Text": "US 0 Paris Declares Act Of War https://t.co/j58e8aacrE @realDonaldTrump https:/…",
+            "BeginOffset": 58,
+            "EndOffset": 138
+        }
+    ]
+}

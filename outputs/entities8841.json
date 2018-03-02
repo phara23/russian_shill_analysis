@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8220363855361938,
+            "Type": "PERSON",
+            "Text": "@StrazCenter",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.986024796962738,
+            "Type": "PERSON",
+            "Text": "Tavia Riveé",
+            "BeginOffset": 33,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.7614842653274536,
+            "Type": "PERSON",
+            "Text": "@MotownMusical",
+            "BeginOffset": 50,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9584711790084839,
+            "Type": "ORGANIZATION",
+            "Text": "Instagram",
+            "BeginOffset": 84,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.9882368445396423,
+            "Type": "DATE",
+            "Text": "tomorrow",
+            "BeginOffset": 94,
+            "EndOffset": 102
+        }
+    ]
+}

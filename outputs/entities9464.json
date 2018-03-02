@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7496184706687927,
+            "Type": "PERSON",
+            "Text": "@gatewaypundit",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8845054507255554,
+            "Type": "PERSON",
+            "Text": "TRUMP",
+            "BeginOffset": 40,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9942288398742676,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 63,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.3554949164390564,
+            "Type": "LOCATION",
+            "Text": "Florida",
+            "BeginOffset": 78,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.9930689334869385,
+            "Type": "OTHER",
+            "Text": "https://t.co/Rrle5AMMD6",
+            "BeginOffset": 100,
+            "EndOffset": 123
+        },
+        {
+            "Score": 0.9106796979904175,
+            "Type": "ORGANIZATION",
+            "Text": "@gatewaypun",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

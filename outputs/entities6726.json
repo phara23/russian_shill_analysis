@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8025774955749512,
+            "Type": "PERSON",
+            "Text": "@TPoliticmanager",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9902281761169434,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 43,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9386621713638306,
+            "Type": "OTHER",
+            "Text": "https://t.co/Fmjhje91X2",
+            "BeginOffset": 94,
+            "EndOffset": 117
+        },
+        {
+            "Score": 0.977508544921875,
+            "Type": "OTHER",
+            "Text": "https://t.co/qoaReKIs",
+            "BeginOffset": 118,
+            "EndOffset": 139
+        }
+    ]
+}

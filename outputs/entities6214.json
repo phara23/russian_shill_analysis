@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.774165153503418,
+            "Type": "PERSON",
+            "Text": "@CatholicsTweet",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.985450267791748,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 39,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9472758769989014,
+            "Type": "OTHER",
+            "Text": "https://t.co/BpZAQEYZu2",
+            "BeginOffset": 62,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.6789914965629578,
+            "Type": "PERSON",
+            "Text": "@Po",
+            "BeginOffset": 136,
+            "EndOffset": 139
+        }
+    ]
+}

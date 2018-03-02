@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9064725041389465,
+            "Type": "PERSON",
+            "Text": "@RealAlexJones",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9943958520889282,
+            "Type": "PERSON",
+            "Text": "Mike Huckabee",
+            "BeginOffset": 19,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.8828082084655762,
+            "Type": "PERSON",
+            "Text": "Pelosi",
+            "BeginOffset": 46,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9999053478240967,
+            "Type": "OTHER",
+            "Text": "https://t.co/Etlf8b74VE",
+            "BeginOffset": 77,
+            "EndOffset": 100
+        }
+    ]
+}

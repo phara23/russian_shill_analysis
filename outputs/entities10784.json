@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7688120007514954,
+            "Type": "PERSON",
+            "Text": "@gerfingerpoken2",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9980572462081909,
+            "Type": "PERSON",
+            "Text": "Carol Bowne",
+            "BeginOffset": 21,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.5346241593360901,
+            "Type": "QUANTITY",
+            "Text": "4",
+            "BeginOffset": 50,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.8295953273773193,
+            "Type": "OTHER",
+            "Text": "https://t.co/lhA4bhgDJz",
+            "BeginOffset": 75,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.4963643550872803,
+            "Type": "OTHER",
+            "Text": "American",
+            "BeginOffset": 101,
+            "EndOffset": 109
+        },
+        {
+            "Score": 0.5348801612854004,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 129,
+            "EndOffset": 138
+        }
+    ]
+}

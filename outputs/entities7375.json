@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8421282768249512,
+            "Type": "PERSON",
+            "Text": "@tgradous",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8628443479537964,
+            "Type": "PERSON",
+            "Text": "@LLMajer",
+            "BeginOffset": 95,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.9575857520103455,
+            "Type": "PERSON",
+            "Text": "@LVNancy",
+            "BeginOffset": 104,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.912835419178009,
+            "Type": "PERSON",
+            "Text": "@lukiOC",
+            "BeginOffset": 113,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.9705626964569092,
+            "Type": "PERSON",
+            "Text": "@JVER1",
+            "BeginOffset": 121,
+            "EndOffset": 127
+        },
+        {
+            "Score": 0.9402980804443359,
+            "Type": "OTHER",
+            "Text": "http://t.c",
+            "BeginOffset": 129,
+            "EndOffset": 139
+        }
+    ]
+}

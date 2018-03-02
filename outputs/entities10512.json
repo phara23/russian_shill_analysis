@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9431326985359192,
+            "Type": "PERSON",
+            "Text": "@jwoodham",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8735113143920898,
+            "Type": "QUANTITY",
+            "Text": "over 500,000",
+            "BeginOffset": 34,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.993290901184082,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 68,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.9420056939125061,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 105,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.9386380314826965,
+            "Type": "QUANTITY",
+            "Text": "70-year-old",
+            "BeginOffset": 125,
+            "EndOffset": 136
+        }
+    ]
+}

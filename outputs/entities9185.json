@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8635897636413574,
+            "Type": "PERSON",
+            "Text": "@hibbs101",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8852742910385132,
+            "Type": "PERSON",
+            "Text": "@MrNegroMilitant",
+            "BeginOffset": 14,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.8794937133789062,
+            "Type": "PERSON",
+            "Text": "@emergagent",
+            "BeginOffset": 31,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9777312874794006,
+            "Type": "PERSON",
+            "Text": "@EZAD60",
+            "BeginOffset": 43,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.8552650213241577,
+            "Type": "PERSON",
+            "Text": "@POTUS",
+            "BeginOffset": 51,
+            "EndOffset": 57
+        }
+    ]
+}

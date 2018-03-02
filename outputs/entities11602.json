@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8667051196098328,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 32,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.7073994874954224,
+            "Type": "ORGANIZATION",
+            "Text": "Wall Street",
+            "BeginOffset": 60,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9996681213378906,
+            "Type": "OTHER",
+            "Text": "https://t.co/vibnqCKB6w",
+            "BeginOffset": 81,
+            "EndOffset": 104
+        }
+    ]
+}

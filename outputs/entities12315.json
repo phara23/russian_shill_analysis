@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.897047758102417,
+            "Type": "PERSON",
+            "Text": "@BlissTabitha",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9772432446479797,
+            "Type": "ORGANIZATION",
+            "Text": "ISIS",
+            "BeginOffset": 29,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9863074421882629,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 50,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.5854947566986084,
+            "Type": "DATE",
+            "Text": "FRIDAY",
+            "BeginOffset": 94,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.9999716281890869,
+            "Type": "OTHER",
+            "Text": "https://t.co/gQ4y3nqwPs",
+            "BeginOffset": 102,
+            "EndOffset": 125
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8792996406555176,
+            "Type": "PERSON",
+            "Text": "@Kaitian1",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8588356375694275,
+            "Type": "PERSON",
+            "Text": "@JammieWF",
+            "BeginOffset": 14,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9996453523635864,
+            "Type": "OTHER",
+            "Text": "https://t.co/FpEDjo2flR",
+            "BeginOffset": 91,
+            "EndOffset": 114
+        }
+    ]
+}

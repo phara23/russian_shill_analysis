@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8247677683830261,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8093342185020447,
+            "Type": "PERSON",
+            "Text": "@AllAfrica",
+            "BeginOffset": 14,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9998102784156799,
+            "Type": "OTHER",
+            "Text": "https://t.co/3o6dBijcpA",
+            "BeginOffset": 93,
+            "EndOffset": 116
+        }
+    ]
+}

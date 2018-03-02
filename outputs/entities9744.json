@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9710573554039001,
+            "Type": "PERSON",
+            "Text": "@sar_oso",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9998826384544373,
+            "Type": "PERSON",
+            "Text": "Steve Bannon",
+            "BeginOffset": 13,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9999946355819702,
+            "Type": "OTHER",
+            "Text": "https://t.co/hZB4gDX4Uo",
+            "BeginOffset": 95,
+            "EndOffset": 118
+        }
+    ]
+}

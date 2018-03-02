@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.916356086730957,
+            "Type": "PERSON",
+            "Text": "@im_srishabh21",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7319637537002563,
+            "Type": "TITLE",
+            "Text": "God Help The World",
+            "BeginOffset": 19,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9744395613670349,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 39,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.764736533164978,
+            "Type": "QUANTITY",
+            "Text": "4Words",
+            "BeginOffset": 45,
+            "EndOffset": 51
+        }
+    ]
+}

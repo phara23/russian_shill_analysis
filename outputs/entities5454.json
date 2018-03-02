@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.936244547367096,
+            "Type": "PERSON",
+            "Text": "@rolandsmartin",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6836431622505188,
+            "Type": "ORGANIZATION",
+            "Text": "NABJ",
+            "BeginOffset": 23,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9084705114364624,
+            "Type": "DATE",
+            "Text": "TODAY at 6 pm EST",
+            "BeginOffset": 45,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.7394710183143616,
+            "Type": "ORGANIZATION",
+            "Text": "@dorothyTV2 Tucker",
+            "BeginOffset": 103,
+            "EndOffset": 121
+        }
+    ]
+}

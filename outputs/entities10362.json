@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6749584674835205,
+            "Type": "PERSON",
+            "Text": "@HSiets",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9970160126686096,
+            "Type": "PERSON",
+            "Text": "Ken Catalino",
+            "BeginOffset": 12,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.996737539768219,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 41,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9499765038490295,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 130,
+            "EndOffset": 143
+        }
+    ]
+}

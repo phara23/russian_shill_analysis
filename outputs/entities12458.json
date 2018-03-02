@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7257340550422668,
+            "Type": "PERSON",
+            "Text": "@IndianAdult",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8768905401229858,
+            "Type": "PERSON",
+            "Text": "@sameerdesaii",
+            "BeginOffset": 17,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9830896854400635,
+            "Type": "PERSON",
+            "Text": "@HinduRajyam",
+            "BeginOffset": 31,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.970330536365509,
+            "Type": "PERSON",
+            "Text": "@swetamishraa",
+            "BeginOffset": 44,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.8791449666023254,
+            "Type": "PERSON",
+            "Text": "@ensine",
+            "BeginOffset": 58,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.971472978591919,
+            "Type": "PERSON",
+            "Text": "@chitrapadhi",
+            "BeginOffset": 66,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.32548415660858154,
+            "Type": "ORGANIZATION",
+            "Text": "Hindus",
+            "BeginOffset": 125,
+            "EndOffset": 131
+        }
+    ]
+}

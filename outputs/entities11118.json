@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9954053163528442,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9250815510749817,
+            "Type": "LOCATION",
+            "Text": "New Hampshire",
+            "BeginOffset": 11,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.4243026375770569,
+            "Type": "QUANTITY",
+            "Text": "First",
+            "BeginOffset": 26,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9138962626457214,
+            "Type": "PERSON",
+            "Text": "TRUMP",
+            "BeginOffset": 49,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9996765851974487,
+            "Type": "OTHER",
+            "Text": "https://t.co/3wXsOBvGbu",
+            "BeginOffset": 92,
+            "EndOffset": 115
+        }
+    ]
+}

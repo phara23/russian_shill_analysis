@@ -1,0 +1,28 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9816163778305054,
+            "Text": "Obama",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9848508238792419,
+            "Text": "the debt limit",
+            "BeginOffset": 19,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9977952837944031,
+            "Text": "debt",
+            "BeginOffset": 51,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.987021267414093,
+            "Text": "the speed limit",
+            "BeginOffset": 77,
+            "EndOffset": 92
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.994963526725769,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 0,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.9962564706802368,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 13,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9656427502632141,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 34,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.4845767021179199,
+            "Type": "LOCATION",
+            "Text": "China",
+            "BeginOffset": 42,
+            "EndOffset": 47
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8009910583496094,
+            "Type": "PERSON",
+            "Text": "@LouDobbs",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9377928972244263,
+            "Type": "PERSON",
+            "Text": "President Trump",
+            "BeginOffset": 42,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.4922987222671509,
+            "Type": "LOCATION",
+            "Text": "American",
+            "BeginOffset": 112,
+            "EndOffset": 120
+        }
+    ]
+}

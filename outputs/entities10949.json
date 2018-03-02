@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8015452027320862,
+            "Type": "PERSON",
+            "Text": "@TomColeman",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7646099328994751,
+            "Type": "PERSON",
+            "Text": "@PressSec",
+            "BeginOffset": 16,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9946333169937134,
+            "Type": "PERSON",
+            "Text": "@wvufanagent99",
+            "BeginOffset": 26,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.8518694043159485,
+            "Type": "PERSON",
+            "Text": "@OhMyGOFF",
+            "BeginOffset": 41,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9707844853401184,
+            "Type": "PERSON",
+            "Text": "@nbcwashington",
+            "BeginOffset": 51,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.571928083896637,
+            "Type": "LOCATION",
+            "Text": "#America",
+            "BeginOffset": 99,
+            "EndOffset": 107
+        }
+    ]
+}

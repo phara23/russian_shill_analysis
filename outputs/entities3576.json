@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7705545425415039,
+            "Type": "PERSON",
+            "Text": "@CallawayBOT",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9991684556007385,
+            "Type": "PERSON",
+            "Text": "Tom Perez",
+            "BeginOffset": 21,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9996628165245056,
+            "Type": "PERSON",
+            "Text": "Keith Ellison",
+            "BeginOffset": 62,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.8180959224700928,
+            "Type": "ORGANIZATION",
+            "Text": "Democratic Party",
+            "BeginOffset": 83,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.8874539732933044,
+            "Type": "OTHER",
+            "Text": "https://t.co/TvOe2yHMA7",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        }
+    ]
+}

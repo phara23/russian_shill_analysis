@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9382407069206238,
+            "Type": "PERSON",
+            "Text": "@LindaSuhler",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9650595784187317,
+            "Type": "QUANTITY",
+            "Text": "15 Yrs",
+            "BeginOffset": 71,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.8764203190803528,
+            "Type": "DATE",
+            "Text": "After 9/11",
+            "BeginOffset": 78,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9804514050483704,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 118,
+            "EndOffset": 123
+        },
+        {
+            "Score": 0.9914283156394958,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 125,
+            "EndOffset": 132
+        }
+    ]
+}

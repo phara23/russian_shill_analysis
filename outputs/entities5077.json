@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.912892758846283,
+            "Type": "PERSON",
+            "Text": "@Davewellwisher",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8841106295585632,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 20,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9907719492912292,
+            "Type": "DATE",
+            "Text": "November 8th",
+            "BeginOffset": 84,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.9938400387763977,
+            "Type": "OTHER",
+            "Text": "https://t.co/KA4B6x",
+            "BeginOffset": 120,
+            "EndOffset": 139
+        }
+    ]
+}

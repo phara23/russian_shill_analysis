@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9971917867660522,
+            "Type": "PERSON",
+            "Text": "Stacey Abrams",
+            "BeginOffset": 11,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9951477646827698,
+            "Type": "DATE",
+            "Text": "Monday",
+            "BeginOffset": 31,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.49246999621391296,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 55,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9893652200698853,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 59,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.96896892786026,
+            "Type": "OTHER",
+            "Text": "https://t.co/ClfgNUWJfu",
+            "BeginOffset": 64,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.9212856292724609,
+            "Type": "OTHER",
+            "Text": "https://t.co/1KPXto2HfW",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.9999852180480957,
+            "Type": "OTHER",
+            "Text": "https://t.co/Y2FA0TMUa3",
+            "BeginOffset": 114,
+            "EndOffset": 137
+        }
+    ]
+}

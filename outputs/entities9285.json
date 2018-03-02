@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9438508152961731,
+            "Type": "PERSON",
+            "Text": "Pence",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.4959435760974884,
+            "Type": "PERSON",
+            "Text": "Kaine",
+            "BeginOffset": 7,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9725894331932068,
+            "Type": "LOCATION",
+            "Text": "Virginia",
+            "BeginOffset": 25,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9997307658195496,
+            "Type": "OTHER",
+            "Text": "https://t.co/0cQbp2Fvvw",
+            "BeginOffset": 34,
+            "EndOffset": 57
+        }
+    ]
+}

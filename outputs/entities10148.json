@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9341680407524109,
+            "Type": "PERSON",
+            "Text": "@tennisgirl48",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9141136407852173,
+            "Type": "PERSON",
+            "Text": "@mitchellvii",
+            "BeginOffset": 18,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.8728659152984619,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 75,
+            "EndOffset": 91
+        }
+    ]
+}

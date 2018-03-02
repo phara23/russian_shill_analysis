@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6632052659988403,
+            "Type": "ORGANIZATION",
+            "Text": "@latimes",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9445178508758545,
+            "Type": "QUANTITY",
+            "Text": "4-billion",
+            "BeginOffset": 18,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.8028419613838196,
+            "Type": "LOCATION",
+            "Text": "Panama Canal",
+            "BeginOffset": 41,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9581093788146973,
+            "Type": "OTHER",
+            "Text": "https://t.co/BscMMk2hRN",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.9931573271751404,
+            "Type": "OTHER",
+            "Text": "https://t.co/hxZ",
+            "BeginOffset": 121,
+            "EndOffset": 137
+        }
+    ]
+}

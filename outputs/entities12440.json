@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8094713687896729,
+            "Type": "ORGANIZATION",
+            "Text": "@KNP2BP",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9630218148231506,
+            "Type": "PERSON",
+            "Text": "Jack Ma",
+            "BeginOffset": 12,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.48856163024902344,
+            "Type": "QUANTITY",
+            "Text": "One",
+            "BeginOffset": 39,
+            "EndOffset": 42
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8086016774177551,
+            "Type": "PERSON",
+            "Text": "@govtslaves",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8148714900016785,
+            "Type": "LOCATION",
+            "Text": "USA",
+            "BeginOffset": 29,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.8660827279090881,
+            "Type": "OTHER",
+            "Text": "https://t.co/R3RobGZMZp",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.9999110698699951,
+            "Type": "OTHER",
+            "Text": "https://t.co/x29D2CumbD",
+            "BeginOffset": 114,
+            "EndOffset": 137
+        }
+    ]
+}

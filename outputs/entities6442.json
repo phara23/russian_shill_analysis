@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.883651614189148,
+            "Type": "PERSON",
+            "Text": "@hectormorenco",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.5732060074806213,
+            "Type": "PERSON",
+            "Text": "Saudis",
+            "BeginOffset": 32,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9239035248756409,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 54,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9325743317604065,
+            "Type": "ORGANIZATION",
+            "Text": "HRC",
+            "BeginOffset": 79,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.9939077496528625,
+            "Type": "ORGANIZATION",
+            "Text": "CIA",
+            "BeginOffset": 134,
+            "EndOffset": 137
+        }
+    ]
+}

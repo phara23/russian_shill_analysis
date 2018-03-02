@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.47296786308288574,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8929373621940613,
+            "Type": "ORGANIZATION",
+            "Text": "@Daily_Star",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.743000864982605,
+            "Type": "PERSON",
+            "Text": "@FloydMayweather",
+            "BeginOffset": 22,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.7665988802909851,
+            "Type": "PERSON",
+            "Text": "@TheNotoriousMMA",
+            "BeginOffset": 63,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.9941611289978027,
+            "Type": "PERSON",
+            "Text": "Conor McGregor",
+            "BeginOffset": 80,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.9767921566963196,
+            "Type": "OTHER",
+            "Text": "https://t.co",
+            "BeginOffset": 131,
+            "EndOffset": 143
+        }
+    ]
+}

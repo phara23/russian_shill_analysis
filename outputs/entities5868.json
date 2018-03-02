@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9213181734085083,
+            "Type": "PERSON",
+            "Text": "@Amyloukingery",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9985385537147522,
+            "Type": "PERSON",
+            "Text": "Neil Gorsuch",
+            "BeginOffset": 37,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.6193044185638428,
+            "Type": "OTHER",
+            "Text": "American",
+            "BeginOffset": 71,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.9996269941329956,
+            "Type": "OTHER",
+            "Text": "https://t.co/pKfMrAEdzO",
+            "BeginOffset": 80,
+            "EndOffset": 103
+        }
+    ]
+}

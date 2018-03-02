@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6750326752662659,
+            "Type": "PERSON",
+            "Text": "@URGENTPODR",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.4281211197376251,
+            "Type": "OTHER",
+            "Text": "1105376",
+            "BeginOffset": 43,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9775956869125366,
+            "Type": "OTHER",
+            "Text": "https://t.co/tlZt",
+            "BeginOffset": 122,
+            "EndOffset": 139
+        }
+    ]
+}

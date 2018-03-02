@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7389533519744873,
+            "Type": "ORGANIZATION",
+            "Text": "@VH1",
+            "BeginOffset": 3,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.9818276762962341,
+            "Type": "OTHER",
+            "Text": "https://t.co/nrharcHepk",
+            "BeginOffset": 43,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.989582359790802,
+            "Type": "ORGANIZATION",
+            "Text": "@YouTube",
+            "BeginOffset": 71,
+            "EndOffset": 79
+        }
+    ]
+}

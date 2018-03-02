@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5487341284751892,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.865873396396637,
+            "Type": "PERSON",
+            "Text": "@Delo_Taylor",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9997817277908325,
+            "Type": "PERSON",
+            "Text": "Paul Manafort",
+            "BeginOffset": 32,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9781633019447327,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 96,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.9997743964195251,
+            "Type": "OTHER",
+            "Text": "https://t.co/mAkanskp2H",
+            "BeginOffset": 119,
+            "EndOffset": 142
+        }
+    ]
+}

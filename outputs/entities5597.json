@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6097939610481262,
+            "Type": "ORGANIZATION",
+            "Text": "Dallas Newspaper",
+            "BeginOffset": 0,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9344514608383179,
+            "Type": "QUANTITY",
+            "Text": "75-Year",
+            "BeginOffset": 24,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9425280690193176,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 52,
+            "EndOffset": 59
+        }
+    ]
+}

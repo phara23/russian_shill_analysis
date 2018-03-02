@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9262186884880066,
+            "Type": "PERSON",
+            "Text": "@ScottPresler",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.5640702247619629,
+            "Type": "OTHER",
+            "Text": "Russians",
+            "BeginOffset": 29,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9989137649536133,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 49,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9248361587524414,
+            "Type": "QUANTITY",
+            "Text": "1/2",
+            "BeginOffset": 69,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.9521894454956055,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 76,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.9979523420333862,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 103,
+            "EndOffset": 110
+        }
+    ]
+}

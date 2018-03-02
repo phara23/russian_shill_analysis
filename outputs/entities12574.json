@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8725728988647461,
+            "Type": "PERSON",
+            "Text": "@TrumpSuperPAC",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.5736095905303955,
+            "Type": "PERSON",
+            "Text": "#Hillary",
+            "BeginOffset": 27,
+            "EndOffset": 35
+        }
+    ]
+}

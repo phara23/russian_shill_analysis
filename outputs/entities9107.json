@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9747307300567627,
+            "Type": "PERSON",
+            "Text": "@John_T_Gaskill",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9999191761016846,
+            "Type": "OTHER",
+            "Text": "https://t.co/a7448uBd9H",
+            "BeginOffset": 39,
+            "EndOffset": 62
+        }
+    ]
+}

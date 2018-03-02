@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6545339822769165,
+            "Type": "PERSON",
+            "Text": "@subpop",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.7617752552032471,
+            "Type": "EVENT",
+            "Text": "Big Annual Holiday Sale",
+            "BeginOffset": 53,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.9518266916275024,
+            "Type": "DATE",
+            "Text": "Jan. 3rd",
+            "BeginOffset": 111,
+            "EndOffset": 119
+        },
+        {
+            "Score": 0.9907029867172241,
+            "Type": "OTHER",
+            "Text": "https://t.co/ysS",
+            "BeginOffset": 123,
+            "EndOffset": 139
+        }
+    ]
+}

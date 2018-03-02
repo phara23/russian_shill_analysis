@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8801512718200684,
+            "Type": "PERSON",
+            "Text": "@debraraes",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.4900266230106354,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 15,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8815789222717285,
+            "Type": "PERSON",
+            "Text": "@larryelder",
+            "BeginOffset": 18,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.8012374043464661,
+            "Type": "PERSON",
+            "Text": "Rham",
+            "BeginOffset": 31,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9553864002227783,
+            "Type": "OTHER",
+            "Text": "https://t.co/ZEj",
+            "BeginOffset": 123,
+            "EndOffset": 139
+        }
+    ]
+}

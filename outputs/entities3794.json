@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8356439471244812,
+            "Type": "PERSON",
+            "Text": "@gerfingerpoken2",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8551594614982605,
+            "Type": "PERSON",
+            "Text": "Petraeus",
+            "BeginOffset": 21,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.7376319766044617,
+            "Type": "PERSON",
+            "Text": "Hillary 4",
+            "BeginOffset": 51,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9164265990257263,
+            "Type": "OTHER",
+            "Text": "https://t.co/2nLmcsZPVO",
+            "BeginOffset": 77,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.608150839805603,
+            "Type": "OTHER",
+            "Text": "American",
+            "BeginOffset": 105,
+            "EndOffset": 113
+        }
+    ]
+}

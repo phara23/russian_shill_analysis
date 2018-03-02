@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8332604169845581,
+            "Type": "QUANTITY",
+            "Text": "four presidential debate moderators",
+            "BeginOffset": 19,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.5136534571647644,
+            "Type": "ORGANIZATION",
+            "Text": "DEMOCRATS",
+            "BeginOffset": 65,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.999729573726654,
+            "Type": "OTHER",
+            "Text": "https://t.co/APUNKuYeCx",
+            "BeginOffset": 92,
+            "EndOffset": 115
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9607245326042175,
+            "Type": "PERSON",
+            "Text": "@JamesS020770",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9787557125091553,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 51,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9990329742431641,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 63,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.905110239982605,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 85,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.9995222091674805,
+            "Type": "OTHER",
+            "Text": "https://t.co/AtNffhBmN9",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        }
+    ]
+}

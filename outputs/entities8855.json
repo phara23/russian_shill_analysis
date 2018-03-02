@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8299746513366699,
+            "Type": "PERSON",
+            "Text": "@NubianAwakening",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9986202120780945,
+            "Type": "PERSON",
+            "Text": "Jake Tapper",
+            "BeginOffset": 21,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9255917072296143,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 38,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9225268959999084,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 58,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9961022138595581,
+            "Type": "OTHER",
+            "Text": "https://t.co/WPgzmkX3zY",
+            "BeginOffset": 115,
+            "EndOffset": 138
+        }
+    ]
+}

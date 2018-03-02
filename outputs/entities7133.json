@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8630623817443848,
+            "Type": "PERSON",
+            "Text": "@lsarsour",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9962769150733948,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 14,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9999716281890869,
+            "Type": "OTHER",
+            "Text": "https://t.co/8o8JMGPpJZ",
+            "BeginOffset": 84,
+            "EndOffset": 107
+        }
+    ]
+}

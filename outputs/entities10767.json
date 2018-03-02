@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7703993320465088,
+            "Type": "PERSON",
+            "Text": "@abusedtaxpayer",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8997142314910889,
+            "Type": "ORGANIZATION",
+            "Text": "Islam",
+            "BeginOffset": 20,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.959786057472229,
+            "Type": "LOCATION",
+            "Text": "USA",
+            "BeginOffset": 122,
+            "EndOffset": 125
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7949730157852173,
+            "Type": "PERSON",
+            "Text": "@PatVPeters",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9931938648223877,
+            "Type": "ORGANIZATION",
+            "Text": "CIA",
+            "BeginOffset": 40,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9777742624282837,
+            "Type": "ORGANIZATION",
+            "Text": "DOJ",
+            "BeginOffset": 45,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9668064117431641,
+            "Type": "ORGANIZATION",
+            "Text": "Treasury",
+            "BeginOffset": 50,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9287245869636536,
+            "Type": "PERSON",
+            "Text": "Flynn",
+            "BeginOffset": 64,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9999092817306519,
+            "Type": "OTHER",
+            "Text": "https://t.co/toknyyYelx",
+            "BeginOffset": 76,
+            "EndOffset": 99
+        }
+    ]
+}

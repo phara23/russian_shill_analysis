@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8924484848976135,
+            "Type": "QUANTITY",
+            "Text": "300 six packs",
+            "BeginOffset": 28,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.7726658582687378,
+            "Type": "QUANTITY",
+            "Text": "one screen shot",
+            "BeginOffset": 45,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.8219903111457825,
+            "Type": "QUANTITY",
+            "Text": "#300",
+            "BeginOffset": 77,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.6961234211921692,
+            "Type": "QUANTITY",
+            "Text": "10YearsAgo",
+            "BeginOffset": 93,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.5703338384628296,
+            "Type": "ORGANIZATION",
+            "Text": "@midnight",
+            "BeginOffset": 104,
+            "EndOffset": 113
+        }
+    ]
+}

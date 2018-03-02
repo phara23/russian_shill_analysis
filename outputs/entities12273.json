@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8086139559745789,
+            "Type": "PERSON",
+            "Text": "@dorbar",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9625351428985596,
+            "Type": "PERSON",
+            "Text": "@StephanieMilli3",
+            "BeginOffset": 12,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9418113827705383,
+            "Type": "PERSON",
+            "Text": "@LoriPatriot",
+            "BeginOffset": 29,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9410384297370911,
+            "Type": "PERSON",
+            "Text": "@JaredWyand",
+            "BeginOffset": 42,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9998904466629028,
+            "Type": "OTHER",
+            "Text": "https://t.co/FgHOlRBtg5",
+            "BeginOffset": 54,
+            "EndOffset": 77
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7700926065444946,
+            "Type": "PERSON",
+            "Text": "@MeticulousPaul",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9148372411727905,
+            "Type": "PERSON",
+            "Text": "@CarmineZozzora",
+            "BeginOffset": 20,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9649710655212402,
+            "Type": "PERSON",
+            "Text": "@Rockprincess818",
+            "BeginOffset": 36,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9993756413459778,
+            "Type": "OTHER",
+            "Text": "https://t.co/UfZlUMhnZK",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        }
+    ]
+}

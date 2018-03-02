@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9630090594291687,
+            "Type": "PERSON",
+            "Text": "Chelsea Manning",
+            "BeginOffset": 0,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.996971607208252,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 21,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9582869410514832,
+            "Type": "OTHER",
+            "Text": "https://t.co/2hQguywBhj",
+            "BeginOffset": 58,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.999969482421875,
+            "Type": "OTHER",
+            "Text": "https://t.co/sztT4Sz8GB",
+            "BeginOffset": 82,
+            "EndOffset": 105
+        }
+    ]
+}

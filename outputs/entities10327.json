@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8535730838775635,
+            "Type": "PERSON",
+            "Text": "@SPIEGELONLINE",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9108991026878357,
+            "Type": "PERSON",
+            "Text": "Thomas #Bach",
+            "BeginOffset": 19,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.8942333459854126,
+            "Type": "PERSON",
+            "Text": "Kritik von Robert",
+            "BeginOffset": 53,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.7549311518669128,
+            "Type": "OTHER",
+            "Text": "https://t.c",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

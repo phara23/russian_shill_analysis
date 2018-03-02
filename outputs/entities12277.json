@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8544964790344238,
+            "Type": "PERSON",
+            "Text": "@OrismaLibny",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.6892514824867249,
+            "Type": "LOCATION",
+            "Text": "Miami",
+            "BeginOffset": 25,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9999665021896362,
+            "Type": "OTHER",
+            "Text": "https://t.co/wtV1jpVrPL",
+            "BeginOffset": 41,
+            "EndOffset": 64
+        }
+    ]
+}

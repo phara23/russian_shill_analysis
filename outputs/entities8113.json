@@ -1,0 +1,74 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8457783460617065,
+            "Type": "PERSON",
+            "Text": "@RichardUSA",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.955863893032074,
+            "Type": "OTHER",
+            "Text": "https://t.co/LyCKN4JEnX",
+            "BeginOffset": 16,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9083043932914734,
+            "Type": "PERSON",
+            "Text": "@GovChristie",
+            "BeginOffset": 40,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9720205664634705,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 53,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.921079158782959,
+            "Type": "PERSON",
+            "Text": "@SenSanders",
+            "BeginOffset": 69,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.8052496910095215,
+            "Type": "PERSON",
+            "Text": "@washingtonpost",
+            "BeginOffset": 81,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.9553061127662659,
+            "Type": "PERSON",
+            "Text": "@WashTimes",
+            "BeginOffset": 97,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.9131298661231995,
+            "Type": "PERSON",
+            "Text": "@denverpost",
+            "BeginOffset": 108,
+            "EndOffset": 119
+        },
+        {
+            "Score": 0.9285382032394409,
+            "Type": "PERSON",
+            "Text": "@nprpolitics",
+            "BeginOffset": 120,
+            "EndOffset": 132
+        },
+        {
+            "Score": 0.9075862169265747,
+            "Type": "PERSON",
+            "Text": "@NPRex",
+            "BeginOffset": 133,
+            "EndOffset": 139
+        }
+    ]
+}

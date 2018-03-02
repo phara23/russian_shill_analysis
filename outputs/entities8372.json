@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9230676293373108,
+            "Type": "PERSON",
+            "Text": "@DennisMurphy15",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9994276165962219,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 48,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9983183741569519,
+            "Type": "PERSON",
+            "Text": "Tim Kaine",
+            "BeginOffset": 88,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.6642058491706848,
+            "Type": "ORGANIZATION",
+            "Text": "Breitbart",
+            "BeginOffset": 127,
+            "EndOffset": 136
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8130456805229187,
+            "Type": "PERSON",
+            "Text": "@OnMessageForHer",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9954872727394104,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 21,
+            "EndOffset": 26
+        }
+    ]
+}

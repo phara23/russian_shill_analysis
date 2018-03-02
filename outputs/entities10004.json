@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7584949731826782,
+            "Type": "PERSON",
+            "Text": "@MezCPA",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.5596035122871399,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 12,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7373479008674622,
+            "Type": "ORGANIZATION",
+            "Text": "@CalFreedomMom",
+            "BeginOffset": 15,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.864791750907898,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 39,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.6423360109329224,
+            "Type": "PERSON",
+            "Text": "God",
+            "BeginOffset": 64,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.989266574382782,
+            "Type": "PERSON",
+            "Text": "Jesus Christ",
+            "BeginOffset": 85,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.9174677729606628,
+            "Type": "OTHER",
+            "Text": "https://t.co/NslWv8bkbW",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        }
+    ]
+}

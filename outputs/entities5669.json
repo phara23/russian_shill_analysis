@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9977145195007324,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9859092831611633,
+            "Type": "PERSON",
+            "Text": "Warren",
+            "BeginOffset": 7,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.4874838888645172,
+            "Type": "PERSON",
+            "Text": "Kaine",
+            "BeginOffset": 39,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9480772018432617,
+            "Type": "OTHER",
+            "Text": "https://t.co/hGy4Iil2F1",
+            "BeginOffset": 58,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.9304417371749878,
+            "Type": "OTHER",
+            "Text": "https://t.co/cdnQqWB38H",
+            "BeginOffset": 84,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.9998072981834412,
+            "Type": "OTHER",
+            "Text": "https://t.co/cltJe4od3j",
+            "BeginOffset": 108,
+            "EndOffset": 131
+        }
+    ]
+}

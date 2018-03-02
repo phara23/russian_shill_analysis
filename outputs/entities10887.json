@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9450632929801941,
+            "Type": "PERSON",
+            "Text": "@KellyRek",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8237684369087219,
+            "Type": "QUANTITY",
+            "Text": "20 years",
+            "BeginOffset": 40,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9830650091171265,
+            "Type": "OTHER",
+            "Text": "https://t.co/6eAqH8n4Me",
+            "BeginOffset": 74,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.6089410185813904,
+            "Type": "PERSON",
+            "Text": "@guardiannews",
+            "BeginOffset": 106,
+            "EndOffset": 119
+        },
+        {
+            "Score": 0.8175507187843323,
+            "Type": "PERSON",
+            "Text": "@VoiceBosnia",
+            "BeginOffset": 124,
+            "EndOffset": 136
+        }
+    ]
+}

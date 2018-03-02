@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9333330988883972,
+            "Type": "PERSON",
+            "Text": "@kayleighmcenany",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.998550295829773,
+            "Type": "PERSON",
+            "Text": "Elizabeth Warren",
+            "BeginOffset": 21,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9873135089874268,
+            "Type": "PERSON",
+            "Text": "Ashley Judd",
+            "BeginOffset": 74,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.9764646887779236,
+            "Type": "PERSON",
+            "Text": "Hitler",
+            "BeginOffset": 95,
+            "EndOffset": 101
+        }
+    ]
+}

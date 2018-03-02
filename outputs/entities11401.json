@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9357786178588867,
+            "Type": "PERSON",
+            "Text": "@KeineWunder",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.42395129799842834,
+            "Type": "PERSON",
+            "Text": "Börsenstärke",
+            "BeginOffset": 60,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.9999287128448486,
+            "Type": "OTHER",
+            "Text": "https://t.co/KCzhOi4RjA",
+            "BeginOffset": 76,
+            "EndOffset": 99
+        }
+    ]
+}

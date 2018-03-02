@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8786537051200867,
+            "Type": "PERSON",
+            "Text": "@chrislhayes",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.99985671043396,
+            "Type": "OTHER",
+            "Text": "https://t.co/k0j9O27CuD",
+            "BeginOffset": 75,
+            "EndOffset": 98
+        }
+    ]
+}

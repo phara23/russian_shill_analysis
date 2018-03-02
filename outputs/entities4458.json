@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9196133613586426,
+            "Type": "PERSON",
+            "Text": "@Hillarizer",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.994147539138794,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 27,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9255280494689941,
+            "Type": "QUANTITY",
+            "Text": "5 States",
+            "BeginOffset": 44,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9776185154914856,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 58,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9367557168006897,
+            "Type": "OTHER",
+            "Text": "https://t.co/Jt1Rbp619q",
+            "BeginOffset": 75,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.9998376369476318,
+            "Type": "OTHER",
+            "Text": "https://t.co/STioz2Jg4F",
+            "BeginOffset": 99,
+            "EndOffset": 122
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9490448832511902,
+            "Text": "RT @SantitaJ",
+            "BeginOffset": 0,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.7568781971931458,
+            "Text": "Please RT",
+            "BeginOffset": 14,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.8850911259651184,
+            "Text": "#FlintWaterCrisis #FlintHealthEmergency",
+            "BeginOffset": 25,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.8819034099578857,
+            "Text": "@RevJJackson @FlintGate @HillaryClinton @MaxineWaters @C4Show",
+            "BeginOffset": 67,
+            "EndOffset": 128
+        }
+    ]
+}

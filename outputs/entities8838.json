@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8951641321182251,
+            "Type": "PERSON",
+            "Text": "@therealezway",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9988985061645508,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 18,
+            "EndOffset": 33
+        }
+    ]
+}

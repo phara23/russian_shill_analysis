@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7107859253883362,
+            "Type": "PERSON",
+            "Text": "@3212",
+            "BeginOffset": 3,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.6315584778785706,
+            "Type": "PERSON",
+            "Text": "Brandy",
+            "BeginOffset": 8,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.6436355710029602,
+            "Type": "ORGANIZATION",
+            "Text": "Muslim World",
+            "BeginOffset": 16,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9977161884307861,
+            "Type": "DATE",
+            "Text": "December 24",
+            "BeginOffset": 35,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.6116963028907776,
+            "Type": "PERSON",
+            "Text": "MUHAMMAD",
+            "BeginOffset": 50,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9309396147727966,
+            "Type": "PERSON",
+            "Text": "Pamela Geller",
+            "BeginOffset": 74,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.9998648166656494,
+            "Type": "OTHER",
+            "Text": "https://t.co/jRYFQERsxc",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        }
+    ]
+}

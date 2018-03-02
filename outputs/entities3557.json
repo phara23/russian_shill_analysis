@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8649963140487671,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 0,
+            "EndOffset": 3
+        },
+        {
+            "Score": 0.9999371767044067,
+            "Type": "PERSON",
+            "Text": "Mike Pence",
+            "BeginOffset": 17,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9188342094421387,
+            "Type": "LOCATION",
+            "Text": "Mesa",
+            "BeginOffset": 37,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9973625540733337,
+            "Type": "DATE",
+            "Text": "Wednesday",
+            "BeginOffset": 45,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9999467134475708,
+            "Type": "OTHER",
+            "Text": "https://t.co/HPpn2wtLFO",
+            "BeginOffset": 55,
+            "EndOffset": 78
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8543790578842163,
+            "Type": "PERSON",
+            "Text": "@MarkDice",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9851564168930054,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 24,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9929370284080505,
+            "Type": "PERSON",
+            "Text": "Hitler",
+            "BeginOffset": 33,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.8788070678710938,
+            "Type": "ORGANIZATION",
+            "Text": "Hollywood",
+            "BeginOffset": 65,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.48622214794158936,
+            "Type": "ORGANIZATION",
+            "Text": "#Emmys",
+            "BeginOffset": 89,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.654838502407074,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 130,
+            "EndOffset": 139
+        }
+    ]
+}

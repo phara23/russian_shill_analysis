@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8550272583961487,
+            "Type": "PERSON",
+            "Text": "@RBLX_livinggame",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9992534518241882,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 80,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.9994729161262512,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 92,
+            "EndOffset": 97
+        }
+    ]
+}

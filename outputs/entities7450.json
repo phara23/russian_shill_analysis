@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9295763969421387,
+            "Type": "PERSON",
+            "Text": "@GOPjenna",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9882468581199646,
+            "Type": "DATE",
+            "Text": "today",
+            "BeginOffset": 22,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9995226263999939,
+            "Type": "PERSON",
+            "Text": "James Comey",
+            "BeginOffset": 80,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.9963571429252625,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 109,
+            "EndOffset": 114
+        }
+    ]
+}

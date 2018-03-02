@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5090587735176086,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.9155911803245544,
+            "Type": "ORGANIZATION",
+            "Text": "@RT_America",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.5419716835021973,
+            "Type": "PERSON",
+            "Text": "#Trump",
+            "BeginOffset": 16,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.8112978935241699,
+            "Type": "PERSON",
+            "Text": "#Clinton",
+            "BeginOffset": 23,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.7863012552261353,
+            "Type": "QUANTITY",
+            "Text": "2nd",
+            "BeginOffset": 75,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.9205164909362793,
+            "Type": "OTHER",
+            "Text": "https://t.co/3uOJ1tOV4i",
+            "BeginOffset": 99,
+            "EndOffset": 122
+        },
+        {
+            "Score": 0.9858298897743225,
+            "Type": "OTHER",
+            "Text": "https://t.co/VC0",
+            "BeginOffset": 123,
+            "EndOffset": 139
+        }
+    ]
+}

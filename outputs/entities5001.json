@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8262857794761658,
+            "Type": "PERSON",
+            "Text": "@TwiterHero",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8799671530723572,
+            "Type": "PERSON",
+            "Text": "Shivmangal Kumar",
+            "BeginOffset": 16,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9955695271492004,
+            "Type": "ORGANIZATION",
+            "Text": "Twitter",
+            "BeginOffset": 56,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9205421805381775,
+            "Type": "OTHER",
+            "Text": "https://t.co/8uvkKkvhNg",
+            "BeginOffset": 74,
+            "EndOffset": 97
+        }
+    ]
+}

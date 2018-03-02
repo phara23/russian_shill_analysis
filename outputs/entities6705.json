@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9985307455062866,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9914972186088562,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 14,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9942448735237122,
+            "Type": "ORGANIZATION",
+            "Text": "ISIS",
+            "BeginOffset": 45,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.8358057737350464,
+            "Type": "OTHER",
+            "Text": "https://t.co/ASClxzpyAQ",
+            "BeginOffset": 51,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.44005119800567627,
+            "Type": "ORGANIZATION",
+            "Text": "#news",
+            "BeginOffset": 75,
+            "EndOffset": 80
+        }
+    ]
+}

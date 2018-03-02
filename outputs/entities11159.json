@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7422788739204407,
+            "Type": "PERSON",
+            "Text": "@KeecoWang5",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.924017071723938,
+            "Type": "PERSON",
+            "Text": "@CoryBooker",
+            "BeginOffset": 27,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9914097189903259,
+            "Type": "DATE",
+            "Text": "2020",
+            "BeginOffset": 80,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9999953508377075,
+            "Type": "OTHER",
+            "Text": "https://t.co/fBRPXA6SCJ",
+            "BeginOffset": 85,
+            "EndOffset": 108
+        }
+    ]
+}

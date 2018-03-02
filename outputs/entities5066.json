@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8522246479988098,
+            "Type": "PERSON",
+            "Text": "@Daisy4America",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9741839170455933,
+            "Type": "LOCATION",
+            "Text": "Haiti",
+            "BeginOffset": 83,
+            "EndOffset": 88
+        }
+    ]
+}

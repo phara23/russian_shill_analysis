@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7271528244018555,
+            "Type": "PERSON",
+            "Text": "@UPROXX",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9758678674697876,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 12,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9998636245727539,
+            "Type": "PERSON",
+            "Text": "Martin Shkreli",
+            "BeginOffset": 28,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.8079200387001038,
+            "Type": "PERSON",
+            "Text": "Chelsea Clinton",
+            "BeginOffset": 73,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9062755703926086,
+            "Type": "OTHER",
+            "Text": "https://t.co/RLeFYROH42",
+            "BeginOffset": 100,
+            "EndOffset": 123
+        },
+        {
+            "Score": 0.9856886863708496,
+            "Type": "OTHER",
+            "Text": "https://t.co/vM",
+            "BeginOffset": 124,
+            "EndOffset": 139
+        }
+    ]
+}

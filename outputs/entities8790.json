@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9596696496009827,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9403818249702454,
+            "Type": "QUANTITY",
+            "Text": "millions of people",
+            "BeginOffset": 53,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9740109443664551,
+            "Type": "EVENT",
+            "Text": "Hurricane Matthew",
+            "BeginOffset": 87,
+            "EndOffset": 104
+        }
+    ]
+}

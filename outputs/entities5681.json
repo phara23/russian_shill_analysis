@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8863636255264282,
+            "Type": "PERSON",
+            "Text": "@hashtag_darren",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9721388220787048,
+            "Type": "DATE",
+            "Text": "February",
+            "BeginOffset": 50,
+            "EndOffset": 58
+        }
+    ]
+}

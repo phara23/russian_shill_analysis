@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4814368784427643,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8508174419403076,
+            "Type": "PERSON",
+            "Text": "@Miami4Trump",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8112508058547974,
+            "Type": "QUANTITY",
+            "Text": "44 Afghan Troops",
+            "BeginOffset": 17,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9853958487510681,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 46,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.6258917450904846,
+            "Type": "QUANTITY",
+            "Text": "2 Worry",
+            "BeginOffset": 63,
+            "EndOffset": 70
+        }
+    ]
+}

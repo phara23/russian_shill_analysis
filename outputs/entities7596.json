@@ -1,0 +1,81 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8471578359603882,
+            "Type": "PERSON",
+            "Text": "@SavvyHuman",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9464040398597717,
+            "Type": "PERSON",
+            "Text": "@lupash7",
+            "BeginOffset": 16,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9921954870223999,
+            "Type": "PERSON",
+            "Text": "@blueskies6123",
+            "BeginOffset": 25,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9521989226341248,
+            "Type": "PERSON",
+            "Text": "@WmScottBlair",
+            "BeginOffset": 40,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9971291422843933,
+            "Type": "PERSON",
+            "Text": "@Lynxie63",
+            "BeginOffset": 54,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9245685338973999,
+            "Type": "PERSON",
+            "Text": "@JadedByPolitics",
+            "BeginOffset": 64,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.9768636226654053,
+            "Type": "PERSON",
+            "Text": "@KoichicCheryl",
+            "BeginOffset": 81,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.9724457859992981,
+            "Type": "PERSON",
+            "Text": "@usarubric",
+            "BeginOffset": 96,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.9956902265548706,
+            "Type": "PERSON",
+            "Text": "@yrwol7",
+            "BeginOffset": 107,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.9646300673484802,
+            "Type": "PERSON",
+            "Text": "@sundoghigh",
+            "BeginOffset": 115,
+            "EndOffset": 126
+        },
+        {
+            "Score": 0.9948638081550598,
+            "Type": "PERSON",
+            "Text": "LuAnn",
+            "BeginOffset": 131,
+            "EndOffset": 136
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8334909677505493,
+            "Type": "PERSON",
+            "Text": "@WorldTruthTV",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9865300059318542,
+            "Type": "PERSON",
+            "Text": "Robert De Niro",
+            "BeginOffset": 18,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9251158237457275,
+            "Type": "OTHER",
+            "Text": "https://t.co/telXZBWPRi",
+            "BeginOffset": 87,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.9998764991760254,
+            "Type": "OTHER",
+            "Text": "https://t.co/VrApvqn62s",
+            "BeginOffset": 111,
+            "EndOffset": 134
+        }
+    ]
+}

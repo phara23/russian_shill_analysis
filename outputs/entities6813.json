@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8176683783531189,
+            "Type": "PERSON",
+            "Text": "@ameegraham",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9633351564407349,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 35,
+            "EndOffset": 51
+        }
+    ]
+}

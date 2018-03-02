@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8283581137657166,
+            "Type": "PERSON",
+            "Text": "@MrNegroMilitant",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9749849438667297,
+            "Type": "QUANTITY",
+            "Text": "10 Things",
+            "BeginOffset": 21,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9954685568809509,
+            "Type": "DATE",
+            "Text": "February 20th, 2017",
+            "BeginOffset": 40,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.8211440443992615,
+            "Type": "OTHER",
+            "Text": "https://t.co/W0k2pagLrZ",
+            "BeginOffset": 60,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.9999972581863403,
+            "Type": "OTHER",
+            "Text": "https://t.co/2x39dLcRM9",
+            "BeginOffset": 84,
+            "EndOffset": 107
+        }
+    ]
+}

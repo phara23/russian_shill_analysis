@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9014914631843567,
+            "Type": "PERSON",
+            "Text": "@Harlan",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.8482208251953125,
+            "Type": "ORGANIZATION",
+            "Text": "Democrats",
+            "BeginOffset": 12,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9912360906600952,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 26,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9999634027481079,
+            "Type": "OTHER",
+            "Text": "https://t.co/dhJ5Y27QIa",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        }
+    ]
+}

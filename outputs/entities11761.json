@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7994132041931152,
+            "Type": "PERSON",
+            "Text": "@BraveConWarrior",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9162499308586121,
+            "Type": "ORGANIZATION",
+            "Text": "ISIS",
+            "BeginOffset": 21,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.37396204471588135,
+            "Type": "QUANTITY",
+            "Text": "11",
+            "BeginOffset": 36,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.5830698609352112,
+            "Type": "ORGANIZATION",
+            "Text": "Christian",
+            "BeginOffset": 39,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.5558412075042725,
+            "Type": "ORGANIZATION",
+            "Text": "#BB",
+            "BeginOffset": 65,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9999198913574219,
+            "Type": "OTHER",
+            "Text": "http://t.co/32uHDhnpKS",
+            "BeginOffset": 72,
+            "EndOffset": 94
+        }
+    ]
+}

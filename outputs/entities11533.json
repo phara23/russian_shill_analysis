@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5245006680488586,
+            "Type": "ORGANIZATION",
+            "Text": "@4",
+            "BeginOffset": 3,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.7111042737960815,
+            "Type": "ORGANIZATION",
+            "Text": "@KojoFunds",
+            "BeginOffset": 25,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.43629884719848633,
+            "Type": "ORGANIZATION",
+            "Text": "Cardi B",
+            "BeginOffset": 52,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.7656718492507935,
+            "Type": "DATE",
+            "Text": "Last Night",
+            "BeginOffset": 60,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9998897314071655,
+            "Type": "OTHER",
+            "Text": "https://t.co/xlPqtR6lRU",
+            "BeginOffset": 109,
+            "EndOffset": 132
+        }
+    ]
+}

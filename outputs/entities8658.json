@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.965395450592041,
+            "Type": "PERSON",
+            "Text": "@SarahMariaBrech",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8141522407531738,
+            "Type": "PERSON",
+            "Text": "@welt war ich bei der Rechtsmedizin der Charité",
+            "BeginOffset": 29,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.6596548557281494,
+            "Type": "QUANTITY",
+            "Text": "1000 Leichen werden",
+            "BeginOffset": 78,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.9235633611679077,
+            "Type": "OTHER",
+            "Text": "https://t.co/hLs",
+            "BeginOffset": 123,
+            "EndOffset": 139
+        }
+    ]
+}

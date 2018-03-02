@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9957356452941895,
+            "Type": "PERSON",
+            "Text": "Tiger Woods",
+            "BeginOffset": 0,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9992144107818604,
+            "Type": "DATE",
+            "Text": "2013",
+            "BeginOffset": 43,
+            "EndOffset": 47
+        }
+    ]
+}

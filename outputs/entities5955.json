@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9417662024497986,
+            "Type": "PERSON",
+            "Text": "@randyshort",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9964374899864197,
+            "Type": "PERSON",
+            "Text": "HILLARY CLINTON",
+            "BeginOffset": 31,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.7515948414802551,
+            "Type": "PERSON",
+            "Text": "AFRICAN AMERICANS",
+            "BeginOffset": 85,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.8906131982803345,
+            "Type": "PERSON",
+            "Text": "TRUMP",
+            "BeginOffset": 109,
+            "EndOffset": 114
+        }
+    ]
+}

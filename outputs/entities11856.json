@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8861092925071716,
+            "Type": "PERSON",
+            "Text": "@eshaLegal",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9159408211708069,
+            "Type": "PERSON",
+            "Text": "Angela Merkel",
+            "BeginOffset": 34,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.7859815955162048,
+            "Type": "PERSON",
+            "Text": "Golda Merit",
+            "BeginOffset": 48,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.9269539713859558,
+            "Type": "PERSON",
+            "Text": "Benazhir Bhutto",
+            "BeginOffset": 60,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.9035213589668274,
+            "Type": "PERSON",
+            "Text": "Dilma\nEllen Johnson",
+            "BeginOffset": 76,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.8664113283157349,
+            "Type": "PERSON",
+            "Text": "Indhira Gandhi",
+            "BeginOffset": 96,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.945810079574585,
+            "Type": "PERSON",
+            "Text": "Sheikh Hassina",
+            "BeginOffset": 111,
+            "EndOffset": 125
+        },
+        {
+            "Score": 0.8641291260719299,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

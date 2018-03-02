@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8676970601081848,
+            "Type": "EVENT",
+            "Text": "New Year",
+            "BeginOffset": 6,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9924724102020264,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 52,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9348612427711487,
+            "Type": "DATE",
+            "Text": "this year",
+            "BeginOffset": 98,
+            "EndOffset": 107
+        }
+    ]
+}

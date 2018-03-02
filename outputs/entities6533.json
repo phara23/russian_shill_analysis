@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4004965126514435,
+            "Type": "QUANTITY",
+            "Text": "15",
+            "BeginOffset": 16,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9893698692321777,
+            "Type": "PERSON",
+            "Text": "Selena",
+            "BeginOffset": 47,
+            "EndOffset": 53
+        }
+    ]
+}

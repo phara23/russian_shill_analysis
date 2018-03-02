@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9103859663009644,
+            "Type": "PERSON",
+            "Text": "@marktsstarr",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9951236844062805,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 17,
+            "EndOffset": 22
+        }
+    ]
+}

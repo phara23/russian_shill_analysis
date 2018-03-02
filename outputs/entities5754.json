@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8624443411827087,
+            "Type": "PERSON",
+            "Text": "@lawrencebrenner",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.7768255472183228,
+            "Type": "PERSON",
+            "Text": "@BlackGirlNerds",
+            "BeginOffset": 21,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.8992948532104492,
+            "Type": "PERSON",
+            "Text": "@BarackObama",
+            "BeginOffset": 52,
+            "EndOffset": 64
+        }
+    ]
+}

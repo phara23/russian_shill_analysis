@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7545358538627625,
+            "Type": "PERSON",
+            "Text": "@CityBoiCoop",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8892636895179749,
+            "Type": "PERSON",
+            "Text": "@_Perarl",
+            "BeginOffset": 24,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9999805688858032,
+            "Type": "OTHER",
+            "Text": "https://t.co/XR32xu2Zxr",
+            "BeginOffset": 79,
+            "EndOffset": 102
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8893434405326843,
+            "Type": "PERSON",
+            "Text": "@JimChilds10",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9945420622825623,
+            "Type": "PERSON",
+            "Text": "Bill O'Reilly",
+            "BeginOffset": 17,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.5433176159858704,
+            "Type": "LOCATION",
+            "Text": "Maryland",
+            "BeginOffset": 53,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9784700274467468,
+            "Type": "ORGANIZATION",
+            "Text": "Fox News",
+            "BeginOffset": 116,
+            "EndOffset": 124
+        },
+        {
+            "Score": 0.926297128200531,
+            "Type": "OTHER",
+            "Text": "https://t.co/7",
+            "BeginOffset": 125,
+            "EndOffset": 139
+        }
+    ]
+}

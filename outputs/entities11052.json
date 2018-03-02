@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8505999445915222,
+            "Type": "PERSON",
+            "Text": "@IngrahamAngle",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.550832211971283,
+            "Type": "PERSON",
+            "Text": "Bushes",
+            "BeginOffset": 23,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.7940451502799988,
+            "Type": "PERSON",
+            "Text": "Clintons",
+            "BeginOffset": 46,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9813417196273804,
+            "Type": "DATE",
+            "Text": "today",
+            "BeginOffset": 55,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.991510272026062,
+            "Type": "PERSON",
+            "Text": "Kasich",
+            "BeginOffset": 62,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9908602237701416,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 85,
+            "EndOffset": 90
+        }
+    ]
+}

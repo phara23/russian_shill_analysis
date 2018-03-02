@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5052339434623718,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.920080304145813,
+            "Type": "ORGANIZATION",
+            "Text": "@MM_PolyTIC",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9541090726852417,
+            "Type": "LOCATION",
+            "Text": "USA",
+            "BeginOffset": 16,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9872318506240845,
+            "Type": "LOCATION",
+            "Text": "Norway",
+            "BeginOffset": 21,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9894604682922363,
+            "Type": "LOCATION",
+            "Text": "Ireland",
+            "BeginOffset": 29,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9991632699966431,
+            "Type": "OTHER",
+            "Text": "https://t.co/WgLESudrxg",
+            "BeginOffset": 73,
+            "EndOffset": 96
+        }
+    ]
+}

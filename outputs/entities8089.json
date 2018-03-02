@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.861139178276062,
+            "Type": "PERSON",
+            "Text": "@ysBones",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.991818904876709,
+            "Type": "PERSON",
+            "Text": "Romney",
+            "BeginOffset": 35,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.992594838142395,
+            "Type": "PERSON",
+            "Text": "Harry Reid",
+            "BeginOffset": 79,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.9999039173126221,
+            "Type": "OTHER",
+            "Text": "https://t.co/2CKsplL20A",
+            "BeginOffset": 110,
+            "EndOffset": 133
+        }
+    ]
+}

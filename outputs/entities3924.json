@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7249848246574402,
+            "Type": "PERSON",
+            "Text": "@RefuseFascism",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6657168865203857,
+            "Type": "EVENT",
+            "Text": "Nuclear War",
+            "BeginOffset": 41,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.7814686894416809,
+            "Type": "ORGANIZATION",
+            "Text": "Fox News",
+            "BeginOffset": 64,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.9999914169311523,
+            "Type": "OTHER",
+            "Text": "https://t.co/QGcoXI1L3F",
+            "BeginOffset": 86,
+            "EndOffset": 109
+        }
+    ]
+}

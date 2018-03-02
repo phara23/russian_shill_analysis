@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9501851201057434,
+            "Type": "PERSON",
+            "Text": "@Heavensangel67",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7306995987892151,
+            "Type": "PERSON",
+            "Text": "Lord thy God",
+            "BeginOffset": 56,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9998002648353577,
+            "Type": "OTHER",
+            "Text": "https://t.co/gJlTCwmVzf",
+            "BeginOffset": 79,
+            "EndOffset": 102
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8085670471191406,
+            "Type": "PERSON",
+            "Text": "@tsalad",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.7365284562110901,
+            "Type": "PERSON",
+            "Text": "#DanRather",
+            "BeginOffset": 15,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.999909520149231,
+            "Type": "OTHER",
+            "Text": "https://t.co/e4HpPY4xWt",
+            "BeginOffset": 44,
+            "EndOffset": 67
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.997387707233429,
+            "Type": "PERSON",
+            "Text": "Stephen",
+            "BeginOffset": 53,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.7392203211784363,
+            "Type": "PERSON",
+            "Text": "Django",
+            "BeginOffset": 98,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.9999200105667114,
+            "Type": "OTHER",
+            "Text": "https://t.co/ExT7Ow1jTY",
+            "BeginOffset": 106,
+            "EndOffset": 129
+        }
+    ]
+}

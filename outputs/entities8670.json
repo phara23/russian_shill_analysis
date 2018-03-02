@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7327934503555298,
+            "Type": "ORGANIZATION",
+            "Text": "Louisiana GOP",
+            "BeginOffset": 0,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8130401968955994,
+            "Type": "PERSON",
+            "Text": "Dardenne",
+            "BeginOffset": 33,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9845505356788635,
+            "Type": "PERSON",
+            "Text": "Angelle",
+            "BeginOffset": 43,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.521088719367981,
+            "Type": "PERSON",
+            "Text": "Vitter",
+            "BeginOffset": 69,
+            "EndOffset": 75
+        }
+    ]
+}

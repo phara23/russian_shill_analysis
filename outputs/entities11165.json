@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8884620666503906,
+            "Type": "PERSON",
+            "Text": "@PolarWhut",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.7020739316940308,
+            "Type": "ORGANIZATION",
+            "Text": "Michigan Police",
+            "BeginOffset": 42,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.6033769249916077,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 129,
+            "EndOffset": 138
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5042963624000549,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8809809684753418,
+            "Type": "ORGANIZATION",
+            "Text": "@Globe_Pics",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7890958786010742,
+            "Type": "ORGANIZATION",
+            "Text": "Blue Dragon",
+            "BeginOffset": 20,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.8628442287445068,
+            "Type": "LOCATION",
+            "Text": "Portugal",
+            "BeginOffset": 33,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9998143315315247,
+            "Type": "OTHER",
+            "Text": "http://t.co/mWOMey1RhJ",
+            "BeginOffset": 42,
+            "EndOffset": 64
+        }
+    ]
+}

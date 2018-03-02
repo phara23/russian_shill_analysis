@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.785835862159729,
+            "Type": "ORGANIZATION",
+            "Text": "@VP",
+            "BeginOffset": 3,
+            "EndOffset": 6
+        },
+        {
+            "Score": 0.9335326552391052,
+            "Type": "PERSON",
+            "Text": "@SenRonJohnson",
+            "BeginOffset": 18,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.7362948060035706,
+            "Type": "PERSON",
+            "Text": "@SecPriceMD",
+            "BeginOffset": 39,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9760090112686157,
+            "Type": "LOCATION",
+            "Text": "Wisconsin",
+            "BeginOffset": 65,
+            "EndOffset": 74
+        }
+    ]
+}

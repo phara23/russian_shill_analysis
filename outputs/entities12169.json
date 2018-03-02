@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9897975921630859,
+            "Type": "ORGANIZATION",
+            "Text": "BBC",
+            "BeginOffset": 8,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9993847608566284,
+            "Type": "PERSON",
+            "Text": "Chris Evans",
+            "BeginOffset": 30,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.5938217639923096,
+            "Type": "TITLE",
+            "Text": "Top Gear",
+            "BeginOffset": 46,
+            "EndOffset": 54
+        }
+    ]
+}

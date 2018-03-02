@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8784012198448181,
+            "Type": "PERSON",
+            "Text": "@FMcQueen31",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.4516613483428955,
+            "Type": "ORGANIZATION",
+            "Text": "RSA",
+            "BeginOffset": 106,
+            "EndOffset": 109
+        }
+    ]
+}

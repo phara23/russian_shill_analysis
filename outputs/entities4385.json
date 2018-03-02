@@ -1,0 +1,67 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9356566667556763,
+            "Type": "PERSON",
+            "Text": "@blueskies6123",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9807060360908508,
+            "Type": "PERSON",
+            "Text": "@Lynxie63",
+            "BeginOffset": 19,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9477640390396118,
+            "Type": "PERSON",
+            "Text": "@WmScottBlair",
+            "BeginOffset": 29,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9957523941993713,
+            "Type": "PERSON",
+            "Text": "@lupash7",
+            "BeginOffset": 43,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9603829979896545,
+            "Type": "PERSON",
+            "Text": "@KoichicCheryl",
+            "BeginOffset": 52,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9529094696044922,
+            "Type": "PERSON",
+            "Text": "@JadedByPolitics",
+            "BeginOffset": 67,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.9804397225379944,
+            "Type": "PERSON",
+            "Text": "@SavvyHuman",
+            "BeginOffset": 84,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.9747064113616943,
+            "Type": "PERSON",
+            "Text": "@usarubric",
+            "BeginOffset": 96,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.8957859873771667,
+            "Type": "PERSON",
+            "Text": "@sundoghigh",
+            "BeginOffset": 107,
+            "EndOffset": 118
+        }
+    ]
+}

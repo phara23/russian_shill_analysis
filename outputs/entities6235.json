@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8247677683830261,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8150054812431335,
+            "Type": "PERSON",
+            "Text": "@AllAfrica",
+            "BeginOffset": 14,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.43114492297172546,
+            "Type": "LOCATION",
+            "Text": "Tanzania",
+            "BeginOffset": 26,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9999563694000244,
+            "Type": "OTHER",
+            "Text": "https://t.co/HaZYZgR9qq",
+            "BeginOffset": 78,
+            "EndOffset": 101
+        }
+    ]
+}

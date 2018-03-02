@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9531285166740417,
+            "Type": "PERSON",
+            "Text": "@MiriamElder",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.6190958023071289,
+            "Type": "OTHER",
+            "Text": "Russian",
+            "BeginOffset": 31,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.963216245174408,
+            "Type": "DATE",
+            "Text": "this morning",
+            "BeginOffset": 90,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.8191387057304382,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 130,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9230068325996399,
+            "Type": "PERSON",
+            "Text": "@GinyMiranda",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.781322717666626,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 51,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.7072524428367615,
+            "Type": "QUANTITY",
+            "Text": "4",
+            "BeginOffset": 69,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9265927076339722,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 75,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.8797006607055664,
+            "Type": "PERSON",
+            "Text": "@SpeakerRyan",
+            "BeginOffset": 113,
+            "EndOffset": 125
+        },
+        {
+            "Score": 0.9283591508865356,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

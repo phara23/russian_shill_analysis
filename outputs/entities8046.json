@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8262790441513062,
+            "Type": "PERSON",
+            "Text": "@ConstanceQueen8",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.6608918905258179,
+            "Type": "PERSON",
+            "Text": "MAXINE WATERS",
+            "BeginOffset": 28,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.967137336730957,
+            "Type": "OTHER",
+            "Text": "https://t.co/rBRL1zv42T",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        },
+        {
+            "Score": 0.850749135017395,
+            "Type": "ORGANIZATION",
+            "Text": "@100percFEDUP",
+            "BeginOffset": 124,
+            "EndOffset": 137
+        }
+    ]
+}

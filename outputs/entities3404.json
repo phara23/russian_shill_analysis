@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8512978553771973,
+            "Type": "PERSON",
+            "Text": "@Bipartisanism",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9917062520980835,
+            "Type": "PERSON",
+            "Text": "Chuck Schumer",
+            "BeginOffset": 19,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9889028668403625,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 42,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.8708402514457703,
+            "Type": "PERSON",
+            "Text": "Donald",
+            "BeginOffset": 54,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9558061957359314,
+            "Type": "OTHER",
+            "Text": "https://t.co/yyrzPnKWrM",
+            "BeginOffset": 93,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.9999289512634277,
+            "Type": "OTHER",
+            "Text": "https://t.co/fo4IGbAfRt",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

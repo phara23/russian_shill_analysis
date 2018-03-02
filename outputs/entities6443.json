@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8464058637619019,
+            "Type": "PERSON",
+            "Text": "@USFreedomArmy",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7417184114456177,
+            "Type": "ORGANIZATION",
+            "Text": "WJC",
+            "BeginOffset": 32,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.5890408158302307,
+            "Type": "ORGANIZATION",
+            "Text": "#USFA",
+            "BeginOffset": 91,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.9883953332901001,
+            "Type": "OTHER",
+            "Text": "https://t.co/oSPeY3QMpH",
+            "BeginOffset": 100,
+            "EndOffset": 123
+        },
+        {
+            "Score": 0.454980731010437,
+            "Type": "ORGANIZATION",
+            "Text": "Ameri",
+            "BeginOffset": 138,
+            "EndOffset": 143
+        }
+    ]
+}

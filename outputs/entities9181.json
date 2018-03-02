@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7201390266418457,
+            "Type": "PERSON",
+            "Text": "@Zielina",
+            "BeginOffset": 0,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.55452960729599,
+            "Type": "PERSON",
+            "Text": "Sehr",
+            "BeginOffset": 9,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9896923303604126,
+            "Type": "PERSON",
+            "Text": "Frau Zielina",
+            "BeginOffset": 22,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.8416451215744019,
+            "Type": "PERSON",
+            "Text": "Sie",
+            "BeginOffset": 99,
+            "EndOffset": 102
+        }
+    ]
+}

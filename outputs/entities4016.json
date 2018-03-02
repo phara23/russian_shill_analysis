@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8878718614578247,
+            "Type": "PERSON",
+            "Text": "@BruceBartlett",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9833529591560364,
+            "Type": "PERSON",
+            "Text": "Jeb Bush",
+            "BeginOffset": 26,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9668885469436646,
+            "Type": "ORGANIZATION",
+            "Text": "Republicans",
+            "BeginOffset": 52,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9915396571159363,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 75,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.9992856383323669,
+            "Type": "OTHER",
+            "Text": "https://t.co/wX5ObgLKmN",
+            "BeginOffset": 82,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.8496317267417908,
+            "Type": "PERSON",
+            "Text": "J",
+            "BeginOffset": 138,
+            "EndOffset": 139
+        }
+    ]
+}

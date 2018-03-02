@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8082155585289001,
+            "Type": "PERSON",
+            "Text": "@lipstickpundit1",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9070312976837158,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 50,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.5681328177452087,
+            "Type": "PERSON",
+            "Text": "BHO",
+            "BeginOffset": 68,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.8051673173904419,
+            "Type": "PERSON",
+            "Text": "@KLSouth",
+            "BeginOffset": 72,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.8662431836128235,
+            "Type": "PERSON",
+            "Text": "@cgpb",
+            "BeginOffset": 81,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9468711614608765,
+            "Type": "PERSON",
+            "Text": "@DesertRiver",
+            "BeginOffset": 87,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.9899688959121704,
+            "Type": "PERSON",
+            "Text": "@LanceSilver1",
+            "BeginOffset": 100,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.9214967489242554,
+            "Type": "PERSON",
+            "Text": "@thepatriotspres",
+            "BeginOffset": 114,
+            "EndOffset": 130
+        }
+    ]
+}

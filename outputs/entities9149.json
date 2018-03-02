@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8433201909065247,
+            "Type": "PERSON",
+            "Text": "@gerfingerpoken2",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9919813275337219,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 47,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.35976558923721313,
+            "Type": "PERSON",
+            "Text": "Bergdahl",
+            "BeginOffset": 56,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.7624762654304504,
+            "Type": "OTHER",
+            "Text": "https://t.co/pzgMWl7CcA",
+            "BeginOffset": 80,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.5731738209724426,
+            "Type": "PERSON",
+            "Text": "#PJNET 999",
+            "BeginOffset": 106,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.9906395673751831,
+            "Type": "OTHER",
+            "Text": "https://t.co/Ybx58BK",
+            "BeginOffset": 119,
+            "EndOffset": 139
+        }
+    ]
+}

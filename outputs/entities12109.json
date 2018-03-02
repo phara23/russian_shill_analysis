@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7582677006721497,
+            "Type": "PERSON",
+            "Text": "@disspat",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9663498997688293,
+            "Type": "ORGANIZATION",
+            "Text": "Democrats",
+            "BeginOffset": 13,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9997103810310364,
+            "Type": "PERSON",
+            "Text": "Donna Brazile",
+            "BeginOffset": 28,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.6626409292221069,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 129,
+            "EndOffset": 138
+        }
+    ]
+}

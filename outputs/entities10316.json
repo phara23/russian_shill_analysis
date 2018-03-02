@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7633688449859619,
+            "Type": "PERSON",
+            "Text": "@Long1Mary",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.5168935656547546,
+            "Type": "PERSON",
+            "Text": "#Obama",
+            "BeginOffset": 48,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9999483823776245,
+            "Type": "OTHER",
+            "Text": "https://t.co/4EWS4LBJwF",
+            "BeginOffset": 70,
+            "EndOffset": 93
+        }
+    ]
+}

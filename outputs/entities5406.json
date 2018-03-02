@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8994583487510681,
+            "Type": "PERSON",
+            "Text": "@nine_oh",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8888256549835205,
+            "Type": "PERSON",
+            "Text": "Ft. Lil Wayne",
+            "BeginOffset": 38,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.979531466960907,
+            "Type": "PERSON",
+            "Text": "@NickiMinaj",
+            "BeginOffset": 56,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.5952752232551575,
+            "Type": "QUANTITY",
+            "Text": "16",
+            "BeginOffset": 71,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.9995904564857483,
+            "Type": "OTHER",
+            "Text": "https://t.co/iChLzWqg0Y",
+            "BeginOffset": 74,
+            "EndOffset": 97
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8458259701728821,
+            "Type": "PERSON",
+            "Text": "@Truth_Bombers",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8274240493774414,
+            "Type": "ORGANIZATION",
+            "Text": "Starbucks",
+            "BeginOffset": 19,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.8606773018836975,
+            "Type": "QUANTITY",
+            "Text": "10,000",
+            "BeginOffset": 36,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.6678376793861389,
+            "Type": "OTHER",
+            "Text": "Syrian",
+            "BeginOffset": 43,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.6715221405029297,
+            "Type": "OTHER",
+            "Text": "Americans",
+            "BeginOffset": 115,
+            "EndOffset": 124
+        },
+        {
+            "Score": 0.943250834941864,
+            "Type": "QUANTITY",
+            "Text": "first",
+            "BeginOffset": 125,
+            "EndOffset": 130
+        }
+    ]
+}

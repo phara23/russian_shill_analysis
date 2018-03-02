@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8969414830207825,
+            "Type": "PERSON",
+            "Text": "@WrapNik75",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9610384106636047,
+            "Type": "PERSON",
+            "Text": "@docrocktex26",
+            "BeginOffset": 15,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9992600083351135,
+            "Type": "PERSON",
+            "Text": "Tim Kaine",
+            "BeginOffset": 84,
+            "EndOffset": 93
+        }
+    ]
+}

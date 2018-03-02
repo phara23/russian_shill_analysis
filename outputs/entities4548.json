@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8844301104545593,
+            "Type": "PERSON",
+            "Text": "@GeorgiaDirtRoad",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9241531491279602,
+            "Type": "PERSON",
+            "Text": "DONALD TRUMP",
+            "BeginOffset": 58,
+            "EndOffset": 70
+        }
+    ]
+}

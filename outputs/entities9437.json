@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8625159859657288,
+            "Type": "PERSON",
+            "Text": "@phscoop",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.6951147317886353,
+            "Type": "PERSON",
+            "Text": "Mace",
+            "BeginOffset": 13,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8955477476119995,
+            "Type": "ORGANIZATION",
+            "Text": "White House",
+            "BeginOffset": 27,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9999829530715942,
+            "Type": "OTHER",
+            "Text": "https://t.co/tIY4bD8xT9",
+            "BeginOffset": 104,
+            "EndOffset": 127
+        }
+    ]
+}

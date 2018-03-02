@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7073330879211426,
+            "Type": "QUANTITY",
+            "Text": "3 injured",
+            "BeginOffset": 10,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9462569355964661,
+            "Type": "LOCATION",
+            "Text": "#Heidelberg, Germany",
+            "BeginOffset": 23,
+            "EndOffset": 43
+        }
+    ]
+}

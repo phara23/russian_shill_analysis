@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.3941739797592163,
+            "Type": "OTHER",
+            "Text": "Americans",
+            "BeginOffset": 54,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9367265105247498,
+            "Type": "LOCATION",
+            "Text": "California",
+            "BeginOffset": 74,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.6844642162322998,
+            "Type": "QUANTITY",
+            "Text": "#2A",
+            "BeginOffset": 86,
+            "EndOffset": 89
+        }
+    ]
+}

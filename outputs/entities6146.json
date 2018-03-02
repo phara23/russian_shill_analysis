@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9258455038070679,
+            "Type": "PERSON",
+            "Text": "@docrocktex26",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9980074763298035,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 18,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9802191853523254,
+            "Type": "PERSON",
+            "Text": "Manafort",
+            "BeginOffset": 25,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9996289014816284,
+            "Type": "PERSON",
+            "Text": "Putin",
+            "BeginOffset": 35,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9013745784759521,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 50,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9563672542572021,
+            "Type": "OTHER",
+            "Text": "https://t.co/F97aFxARQp",
+            "BeginOffset": 98,
+            "EndOffset": 121
+        },
+        {
+            "Score": 0.821863055229187,
+            "Type": "ORGANIZATION",
+            "Text": "@docrocktex26",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

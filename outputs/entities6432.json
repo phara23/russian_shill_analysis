@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.84695965051651,
+            "Type": "PERSON",
+            "Text": "@ibanezviper",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8153946995735168,
+            "Type": "PERSON",
+            "Text": "Roman Reigns",
+            "BeginOffset": 17,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.6574509143829346,
+            "Type": "ORGANIZATION",
+            "Text": "#WWE",
+            "BeginOffset": 30,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.43839290738105774,
+            "Type": "ORGANIZATION",
+            "Text": "#RAW",
+            "BeginOffset": 35,
+            "EndOffset": 39
+        }
+    ]
+}

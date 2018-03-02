@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7778756618499756,
+            "Type": "PERSON",
+            "Text": "@rapstationradio",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.7201504111289978,
+            "Type": "PERSON",
+            "Text": "Boyle",
+            "BeginOffset": 21,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9997778534889221,
+            "Type": "OTHER",
+            "Text": "https://t.co/AwhKwm2LCv",
+            "BeginOffset": 66,
+            "EndOffset": 89
+        }
+    ]
+}

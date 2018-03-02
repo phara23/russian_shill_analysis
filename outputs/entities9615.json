@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8474253416061401,
+            "Type": "PERSON",
+            "Text": "@gidgey",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9390435814857483,
+            "Type": "PERSON",
+            "Text": "@FormerlySaul",
+            "BeginOffset": 15,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9096447825431824,
+            "Type": "DATE",
+            "Text": "11am Sunday Nov. 27",
+            "BeginOffset": 52,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9263126254081726,
+            "Type": "PERSON",
+            "Text": "@hopesantaana",
+            "BeginOffset": 72,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.9707987308502197,
+            "Type": "PERSON",
+            "Text": "@tcota3",
+            "BeginOffset": 86,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.913388192653656,
+            "Type": "PERSON",
+            "Text": "@FormerlySaul",
+            "BeginOffset": 107,
+            "EndOffset": 120
+        }
+    ]
+}

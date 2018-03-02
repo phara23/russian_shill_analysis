@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8332866430282593,
+            "Type": "PERSON",
+            "Text": "@dagr8fm",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9449446201324463,
+            "Type": "OTHER",
+            "Text": "https://t.co/8bMdm8ELL5",
+            "BeginOffset": 49,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.9113262295722961,
+            "Type": "QUANTITY",
+            "Text": "8fm",
+            "BeginOffset": 90,
+            "EndOffset": 93
+        }
+    ]
+}

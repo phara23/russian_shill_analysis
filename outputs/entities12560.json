@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9418403506278992,
+            "Type": "PERSON",
+            "Text": "@KhaledBeydoun",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.537750244140625,
+            "Type": "ORGANIZATION",
+            "Text": "Columbia Law",
+            "BeginOffset": 118,
+            "EndOffset": 130
+        }
+    ]
+}

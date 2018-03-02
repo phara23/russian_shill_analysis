@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9099628329277039,
+            "Type": "PERSON",
+            "Text": "@morningmoneyben",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.45413297414779663,
+            "Type": "ORGANIZATION",
+            "Text": "Yucca",
+            "BeginOffset": 73,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.9787757992744446,
+            "Type": "LOCATION",
+            "Text": "Nevada",
+            "BeginOffset": 100,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.9999843835830688,
+            "Type": "OTHER",
+            "Text": "https://t.co/2K9kV8okDW",
+            "BeginOffset": 108,
+            "EndOffset": 131
+        }
+    ]
+}

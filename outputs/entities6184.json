@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7418811917304993,
+            "Type": "PERSON",
+            "Text": "@inglamwetrust",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9087876677513123,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 78,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.2811335325241089,
+            "Type": "PERSON",
+            "Text": "KKK",
+            "BeginOffset": 102,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.9889168739318848,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 132,
+            "EndOffset": 137
+        }
+    ]
+}

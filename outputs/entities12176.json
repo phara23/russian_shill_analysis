@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8832877278327942,
+            "Type": "PERSON",
+            "Text": "@gntlman",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9994981288909912,
+            "Type": "PERSON",
+            "Text": "Jill Soloway",
+            "BeginOffset": 21,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9318952560424805,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 50,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9984460473060608,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 65,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9937406182289124,
+            "Type": "PERSON",
+            "Text": "Hitler",
+            "BeginOffset": 77,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.7279236912727356,
+            "Type": "PERSON",
+            "Text": "Hitle",
+            "BeginOffset": 134,
+            "EndOffset": 139
+        }
+    ]
+}

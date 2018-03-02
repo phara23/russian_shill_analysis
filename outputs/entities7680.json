@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8275553584098816,
+            "Type": "PERSON",
+            "Text": "@SputnikInt",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.5776711106300354,
+            "Type": "QUANTITY",
+            "Text": "14",
+            "BeginOffset": 30,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.5985470414161682,
+            "Type": "ORGANIZATION",
+            "Text": "@Wikileaks",
+            "BeginOffset": 78,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9890579581260681,
+            "Type": "QUANTITY",
+            "Text": "25,000",
+            "BeginOffset": 92,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.9546553492546082,
+            "Type": "OTHER",
+            "Text": "https://t.co/c0AYe7vLMk",
+            "BeginOffset": 99,
+            "EndOffset": 122
+        }
+    ]
+}

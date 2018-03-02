@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7407551407814026,
+            "Type": "PERSON",
+            "Text": "@afpfr",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.6086772084236145,
+            "Type": "LOCATION",
+            "Text": "Bangladesh",
+            "BeginOffset": 17,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9996104836463928,
+            "Type": "OTHER",
+            "Text": "https://t.co/lKqgc9BEQK",
+            "BeginOffset": 92,
+            "EndOffset": 115
+        }
+    ]
+}

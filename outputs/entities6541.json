@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6939767003059387,
+            "Type": "PERSON",
+            "Text": "@preciousliberty",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8525657057762146,
+            "Type": "ORGANIZATION",
+            "Text": "Haitian Exposes #Clinton Foundation",
+            "BeginOffset": 21,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.75469970703125,
+            "Type": "OTHER",
+            "Text": "https://t.co/Y33PO5bcWD",
+            "BeginOffset": 102,
+            "EndOffset": 125
+        }
+    ]
+}

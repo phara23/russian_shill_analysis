@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9915930032730103,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.46085792779922485,
+            "Type": "TITLE",
+            "Text": "#ObamacareFail",
+            "BeginOffset": 90,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.9996315240859985,
+            "Type": "OTHER",
+            "Text": "https://t.co/IB7CsdHpzT",
+            "BeginOffset": 106,
+            "EndOffset": 129
+        }
+    ]
+}

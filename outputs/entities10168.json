@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9977407455444336,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 15,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.4997054934501648,
+            "Type": "LOCATION",
+            "Text": "#Benghazi",
+            "BeginOffset": 49,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.5276855230331421,
+            "Type": "OTHER",
+            "Text": "American",
+            "BeginOffset": 59,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9999710321426392,
+            "Type": "OTHER",
+            "Text": "https://t.co/l8YcjS6qVA",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8925230503082275,
+            "Type": "PERSON",
+            "Text": "@Sttbs73",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.996990442276001,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 18,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.8115012049674988,
+            "Type": "PERSON",
+            "Text": "#Trump",
+            "BeginOffset": 31,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9066612124443054,
+            "Type": "QUANTITY",
+            "Text": "at least a year",
+            "BeginOffset": 108,
+            "EndOffset": 123
+        },
+        {
+            "Score": 0.5699671506881714,
+            "Type": "PERSON",
+            "Text": "#GoHillary",
+            "BeginOffset": 127,
+            "EndOffset": 137
+        }
+    ]
+}

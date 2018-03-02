@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7409874200820923,
+            "Type": "PERSON",
+            "Text": "@Freddiemaize",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8885220885276794,
+            "Type": "PERSON",
+            "Text": "@iCanHash",
+            "BeginOffset": 18,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9826452732086182,
+            "Type": "PERSON",
+            "Text": "Theresa",
+            "BeginOffset": 35,
+            "EndOffset": 42
+        }
+    ]
+}

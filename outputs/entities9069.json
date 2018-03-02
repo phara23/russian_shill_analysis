@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5116180777549744,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8181943893432617,
+            "Type": "ORGANIZATION",
+            "Text": "@CRTV",
+            "BeginOffset": 3,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.8070879578590393,
+            "Type": "PERSON",
+            "Text": "@MichelleMalkin",
+            "BeginOffset": 17,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.5840243101119995,
+            "Type": "ORGANIZATION",
+            "Text": "Dems",
+            "BeginOffset": 38,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.591256856918335,
+            "Type": "ORGANIZATION",
+            "Text": "MSM",
+            "BeginOffset": 52,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.765802264213562,
+            "Type": "OTHER",
+            "Text": "Pakistani",
+            "BeginOffset": 68,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.7460612654685974,
+            "Type": "ORGANIZATION",
+            "Text": "MMI &amp; CRTV",
+            "BeginOffset": 110,
+            "EndOffset": 124
+        },
+        {
+            "Score": 0.9803967475891113,
+            "Type": "OTHER",
+            "Text": "https://t.co/mH",
+            "BeginOffset": 131,
+            "EndOffset": 146
+        }
+    ]
+}

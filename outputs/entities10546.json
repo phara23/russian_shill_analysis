@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6509128212928772,
+            "Type": "PERSON",
+            "Text": "@CSNNE",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.8052312135696411,
+            "Type": "DATE",
+            "Text": "2017-18 season",
+            "BeginOffset": 15,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9734296798706055,
+            "Type": "ORGANIZATION",
+            "Text": "Celtics",
+            "BeginOffset": 57,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9999983310699463,
+            "Type": "OTHER",
+            "Text": "https://t.co/XvX46P1VOV",
+            "BeginOffset": 111,
+            "EndOffset": 134
+        }
+    ]
+}

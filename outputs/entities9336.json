@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9812657237052917,
+            "Type": "DATE",
+            "Text": "tomorrow",
+            "BeginOffset": 80,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9985142350196838,
+            "Type": "PERSON",
+            "Text": "Bill Gates",
+            "BeginOffset": 90,
+            "EndOffset": 100
+        }
+    ]
+}

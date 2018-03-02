@@ -1,0 +1,40 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.728296160697937,
+            "Text": "Voting",
+            "BeginOffset": 0,
+            "EndOffset": 6
+        },
+        {
+            "Score": 0.9258285164833069,
+            "Text": "Donald Trump",
+            "BeginOffset": 11,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9634700417518616,
+            "Text": "tomorrow",
+            "BeginOffset": 24,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9974929094314575,
+            "Text": "the best choice",
+            "BeginOffset": 53,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9924443364143372,
+            "Text": "America",
+            "BeginOffset": 73,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.6494960188865662,
+            "Text": "#TrumpTrain #TrumpPence16 #Trump2k",
+            "BeginOffset": 82,
+            "EndOffset": 116
+        }
+    ]
+}

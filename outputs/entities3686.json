@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8645386695861816,
+            "Type": "PERSON",
+            "Text": "@emll06_sheryl",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9982178211212158,
+            "Type": "PERSON",
+            "Text": "Trey Gowdy",
+            "BeginOffset": 19,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9919130802154541,
+            "Type": "ORGANIZATION",
+            "Text": "Facebook",
+            "BeginOffset": 47,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9851908087730408,
+            "Type": "OTHER",
+            "Text": "https://t.co/qAG96uKcax",
+            "BeginOffset": 92,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.8372209668159485,
+            "Type": "ORGANIZATION",
+            "Text": "@dailycaller",
+            "BeginOffset": 120,
+            "EndOffset": 132
+        }
+    ]
+}

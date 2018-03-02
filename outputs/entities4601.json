@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8895114064216614,
+            "Type": "PERSON",
+            "Text": "@KeeganNYC",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9290839433670044,
+            "Type": "OTHER",
+            "Text": "https://t.co/c025BcwPaf",
+            "BeginOffset": 93,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.9999221563339233,
+            "Type": "OTHER",
+            "Text": "https://t.co/gKdAGiavFW",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

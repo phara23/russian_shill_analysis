@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9332818388938904,
+            "Type": "PERSON",
+            "Text": "@BarbMuenchen",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9960224032402039,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 18,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9965157508850098,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 100,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.6281878352165222,
+            "Type": "ORGANIZATION",
+            "Text": "WH",
+            "BeginOffset": 125,
+            "EndOffset": 127
+        },
+        {
+            "Score": 0.671336829662323,
+            "Type": "QUANTITY",
+            "Text": "1st",
+            "BeginOffset": 131,
+            "EndOffset": 134
+        }
+    ]
+}

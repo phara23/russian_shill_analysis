@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.95657879114151,
+            "Type": "PERSON",
+            "Text": "@KellyannePolls",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7038892507553101,
+            "Type": "ORGANIZATION",
+            "Text": "@GLFOP",
+            "BeginOffset": 30,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9973662495613098,
+            "Type": "DATE",
+            "Text": "2012",
+            "BeginOffset": 62,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9987407326698303,
+            "Type": "PERSON",
+            "Text": "Bill Clinton",
+            "BeginOffset": 77,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.6855623722076416,
+            "Type": "DATE",
+            "Text": "'96",
+            "BeginOffset": 93,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.9999202489852905,
+            "Type": "OTHER",
+            "Text": "https://t.co/TCtPfTfPuU",
+            "BeginOffset": 99,
+            "EndOffset": 122
+        }
+    ]
+}

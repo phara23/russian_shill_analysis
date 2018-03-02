@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8594057559967041,
+            "Type": "PERSON",
+            "Text": "@OpFerguson",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.994929850101471,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 83,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9999849796295166,
+            "Type": "OTHER",
+            "Text": "https://t.co/Xw3J03CRUf",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        }
+    ]
+}

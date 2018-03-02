@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7844240665435791,
+            "Type": "PERSON",
+            "Text": "@TheOnion",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8128352165222168,
+            "Type": "QUANTITY",
+            "Text": "400 Dating Profile Photos",
+            "BeginOffset": 66,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.924149215221405,
+            "Type": "OTHER",
+            "Text": "https://t.co/Th5mo2K4ZI",
+            "BeginOffset": 92,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.9999641180038452,
+            "Type": "OTHER",
+            "Text": "https://t.co/gqGU4efQCJ",
+            "BeginOffset": 116,
+            "EndOffset": 139
+        }
+    ]
+}

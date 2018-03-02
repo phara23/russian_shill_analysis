@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8524545431137085,
+            "Type": "ORGANIZATION",
+            "Text": "@V_of_Europe",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.4207841157913208,
+            "Type": "PERSON",
+            "Text": "Wilders",
+            "BeginOffset": 17,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9830511212348938,
+            "Type": "DATE",
+            "Text": "today",
+            "BeginOffset": 48,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9997264742851257,
+            "Type": "OTHER",
+            "Text": "https://t.co/OKWmzoybxD",
+            "BeginOffset": 71,
+            "EndOffset": 94
+        }
+    ]
+}

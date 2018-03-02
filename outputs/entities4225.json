@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7766574621200562,
+            "Type": "PERSON",
+            "Text": "@moekamerow",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9398768544197083,
+            "Type": "PERSON",
+            "Text": "@jerseygirlnb",
+            "BeginOffset": 16,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9838615655899048,
+            "Type": "PERSON",
+            "Text": "@DanScavino",
+            "BeginOffset": 30,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9787431359291077,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 42,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9998949766159058,
+            "Type": "OTHER",
+            "Text": "https://t.co/kKKIuTrwxc",
+            "BeginOffset": 59,
+            "EndOffset": 82
+        }
+    ]
+}

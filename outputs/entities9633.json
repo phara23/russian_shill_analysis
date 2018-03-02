@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7786577343940735,
+            "Type": "LOCATION",
+            "Text": "Berlin",
+            "BeginOffset": 12,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.6692900061607361,
+            "Type": "ORGANIZATION",
+            "Text": "@midnight",
+            "BeginOffset": 53,
+            "EndOffset": 62
+        }
+    ]
+}

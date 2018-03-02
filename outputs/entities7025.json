@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9524691104888916,
+            "Type": "PERSON",
+            "Text": "@jennfarrar7",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9419330954551697,
+            "Type": "PERSON",
+            "Text": "@KeshaTedder",
+            "BeginOffset": 17,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.947778582572937,
+            "Type": "PERSON",
+            "Text": "Kerr Bear",
+            "BeginOffset": 41,
+            "EndOffset": 50
+        }
+    ]
+}

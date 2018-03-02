@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8211861848831177,
+            "Type": "PERSON",
+            "Text": "@xavvypls",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.5855140089988708,
+            "Type": "ORGANIZATION",
+            "Text": "#HillaryClinton",
+            "BeginOffset": 40,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.6418538689613342,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 130,
+            "EndOffset": 139
+        }
+    ]
+}

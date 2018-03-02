@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8483577966690063,
+            "Type": "PERSON",
+            "Text": "@afezio1952",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7997336983680725,
+            "Type": "PERSON",
+            "Text": "TRUMP",
+            "BeginOffset": 77,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.9450770616531372,
+            "Type": "OTHER",
+            "Text": "https://t.co/wnJUU2MD5v",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        }
+    ]
+}

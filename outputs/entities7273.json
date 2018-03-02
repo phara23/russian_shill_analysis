@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6836885213851929,
+            "Type": "PERSON",
+            "Text": "@TheDailyEdge",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9499267339706421,
+            "Type": "QUANTITY",
+            "Text": "5M",
+            "BeginOffset": 44,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9830240607261658,
+            "Type": "LOCATION",
+            "Text": "New Jersey",
+            "BeginOffset": 52,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9498959183692932,
+            "Type": "LOCATION",
+            "Text": "Louisiana",
+            "BeginOffset": 121,
+            "EndOffset": 130
+        }
+    ]
+}

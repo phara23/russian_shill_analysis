@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9062260389328003,
+            "Type": "PERSON",
+            "Text": "@stefblacknyc",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9100304245948792,
+            "Type": "QUANTITY",
+            "Text": "Four Months",
+            "BeginOffset": 50,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.7765828371047974,
+            "Type": "LOCATION",
+            "Text": "#NYC",
+            "BeginOffset": 94,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.8988099694252014,
+            "Type": "LOCATION",
+            "Text": "#LA",
+            "BeginOffset": 99,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.5558124780654907,
+            "Type": "LOCATION",
+            "Text": "#ATL",
+            "BeginOffset": 103,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.4374697804450989,
+            "Type": "LOCATION",
+            "Text": "#RikersIsland",
+            "BeginOffset": 108,
+            "EndOffset": 121
+        }
+    ]
+}

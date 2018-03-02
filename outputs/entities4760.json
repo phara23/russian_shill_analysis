@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8301600813865662,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.32858535647392273,
+            "Type": "PERSON",
+            "Text": "Kaytranada",
+            "BeginOffset": 13,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9584373831748962,
+            "Type": "OTHER",
+            "Text": "https://t.co/mRoso7kqWg",
+            "BeginOffset": 80,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.7888677716255188,
+            "Type": "PERSON",
+            "Text": "@OkayPlayer",
+            "BeginOffset": 104,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.9984947443008423,
+            "Type": "OTHER",
+            "Text": "https://t.co/MGfWntYREu",
+            "BeginOffset": 116,
+            "EndOffset": 139
+        }
+    ]
+}

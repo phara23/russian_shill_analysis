@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8697675466537476,
+            "Type": "PERSON",
+            "Text": "@DeeUSAF",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.731456995010376,
+            "Type": "PERSON",
+            "Text": "@POTUS",
+            "BeginOffset": 28,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.7897763848304749,
+            "Type": "LOCATION",
+            "Text": "🇺🇸 USA",
+            "BeginOffset": 52,
+            "EndOffset": 58
+        }
+    ]
+}

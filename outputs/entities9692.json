@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7673052549362183,
+            "Type": "PERSON",
+            "Text": "@dxrpi",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.8701506853103638,
+            "Type": "PERSON",
+            "Text": "@DLoesch",
+            "BeginOffset": 11,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8447030782699585,
+            "Type": "PERSON",
+            "Text": "@IBTimes",
+            "BeginOffset": 20,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9999784231185913,
+            "Type": "OTHER",
+            "Text": "https://t.co/lXkwg6kK1f",
+            "BeginOffset": 29,
+            "EndOffset": 52
+        }
+    ]
+}

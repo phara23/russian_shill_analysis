@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9051961898803711,
+            "Type": "PERSON",
+            "Text": "@KeswickPinhead",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9958285689353943,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 34,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9522106051445007,
+            "Type": "PERSON",
+            "Text": "@KeshaTedder",
+            "BeginOffset": 79,
+            "EndOffset": 91
+        }
+    ]
+}

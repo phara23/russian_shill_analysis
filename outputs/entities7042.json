@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.95414799451828,
+            "Type": "PERSON",
+            "Text": "@RockyHarrigan",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.43742305040359497,
+            "Type": "LOCATION",
+            "Text": "#merica",
+            "BeginOffset": 69,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.999961256980896,
+            "Type": "OTHER",
+            "Text": "https://t.co/fiDFlXPB54",
+            "BeginOffset": 86,
+            "EndOffset": 109
+        }
+    ]
+}

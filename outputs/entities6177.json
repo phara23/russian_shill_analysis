@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9787639379501343,
+            "Type": "PERSON",
+            "Text": "@Scow0857",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8962719440460205,
+            "Type": "ORGANIZATION",
+            "Text": "@CNN",
+            "BeginOffset": 14,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9393395185470581,
+            "Type": "PERSON",
+            "Text": "@marty10707",
+            "BeginOffset": 19,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.7259427309036255,
+            "Type": "ORGANIZATION",
+            "Text": "Chelsea",
+            "BeginOffset": 42,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.6983965635299683,
+            "Type": "QUANTITY",
+            "Text": "00K",
+            "BeginOffset": 66,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.973731279373169,
+            "Type": "ORGANIZATION",
+            "Text": "Clinton Foundation",
+            "BeginOffset": 78,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.9928181171417236,
+            "Type": "ORGANIZATION",
+            "Text": "IRS",
+            "BeginOffset": 98,
+            "EndOffset": 101
+        }
+    ]
+}

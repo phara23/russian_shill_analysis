@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9999284744262695,
+            "Type": "PERSON",
+            "Text": "Tim Kaine",
+            "BeginOffset": 0,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9971213936805725,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 15,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.4424302279949188,
+            "Type": "PERSON",
+            "Text": "Watergate",
+            "BeginOffset": 32,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9543970823287964,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 55,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.6559542417526245,
+            "Type": "OTHER",
+            "Text": "Russians",
+            "BeginOffset": 62,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9901027679443359,
+            "Type": "OTHER",
+            "Text": "https://t.co/YuEGbGNCaV",
+            "BeginOffset": 71,
+            "EndOffset": 94
+        }
+    ]
+}

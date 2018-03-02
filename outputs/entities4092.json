@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8537942171096802,
+            "Type": "PERSON",
+            "Text": "@ARnews1936",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8938152194023132,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 100,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.9975030422210693,
+            "Type": "DATE",
+            "Text": "August 2013",
+            "BeginOffset": 121,
+            "EndOffset": 132
+        }
+    ]
+}

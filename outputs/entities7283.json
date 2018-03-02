@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8841405510902405,
+            "Type": "PERSON",
+            "Text": "@DJAYTIGER",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9967377185821533,
+            "Type": "PERSON",
+            "Text": "Kylie Jenner",
+            "BeginOffset": 15,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.6502721905708313,
+            "Type": "ORGANIZATION",
+            "Text": "TMZ",
+            "BeginOffset": 71,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9095432162284851,
+            "Type": "OTHER",
+            "Text": "https://t.co/3apg2OC37G",
+            "BeginOffset": 78,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.9854375123977661,
+            "Type": "ORGANIZATION",
+            "Text": "#youtube",
+            "BeginOffset": 102,
+            "EndOffset": 110
+        }
+    ]
+}

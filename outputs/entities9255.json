@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8953235149383545,
+            "Type": "PERSON",
+            "Text": "@RealDJTrumpTeam",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.27261653542518616,
+            "Type": "ORGANIZATION",
+            "Text": "#NorthCarolina",
+            "BeginOffset": 77,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.6801204681396484,
+            "Type": "ORGANIZATION",
+            "Text": "@TrumpWomensTour",
+            "BeginOffset": 94,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.8874915242195129,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 118,
+            "EndOffset": 134
+        }
+    ]
+}

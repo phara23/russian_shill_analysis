@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8697887659072876,
+            "Type": "PERSON",
+            "Text": "@gntlman",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9914623498916626,
+            "Type": "PERSON",
+            "Text": "Cortney O'Brien",
+            "BeginOffset": 13,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9496609568595886,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 31,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.6879745721817017,
+            "Type": "PERSON",
+            "Text": "Cruz",
+            "BeginOffset": 61,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.8842303156852722,
+            "Type": "PERSON",
+            "Text": "Kasich",
+            "BeginOffset": 72,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.9999401569366455,
+            "Type": "OTHER",
+            "Text": "https://t.co/vrjbN4RMDH",
+            "BeginOffset": 112,
+            "EndOffset": 135
+        }
+    ]
+}

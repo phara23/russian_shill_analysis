@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9966917037963867,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9457360506057739,
+            "Type": "PERSON",
+            "Text": "Wasserman Schultz",
+            "BeginOffset": 12,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.7083311080932617,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 52,
+            "EndOffset": 55
+        }
+    ]
+}

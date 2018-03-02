@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9153569936752319,
+            "Type": "PERSON",
+            "Text": "@pinnie99",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.998984158039093,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 14,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9598630666732788,
+            "Type": "OTHER",
+            "Text": "https://t.co/XJe8OlebdC",
+            "BeginOffset": 104,
+            "EndOffset": 127
+        },
+        {
+            "Score": 0.8629224896430969,
+            "Type": "ORGANIZATION",
+            "Text": "@Subjec",
+            "BeginOffset": 132,
+            "EndOffset": 139
+        }
+    ]
+}

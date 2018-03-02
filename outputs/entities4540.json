@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6931054592132568,
+            "Type": "PERSON",
+            "Text": "@SiennaLBC",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9174838662147522,
+            "Type": "PERSON",
+            "Text": "@JayFielden",
+            "BeginOffset": 15,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9243147373199463,
+            "Type": "PERSON",
+            "Text": "@esquire",
+            "BeginOffset": 27,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.8194096088409424,
+            "Type": "PERSON",
+            "Text": "@digg",
+            "BeginOffset": 36,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9055155515670776,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 102,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.9673535823822021,
+            "Type": "ORGANIZATION",
+            "Text": "HRC",
+            "BeginOffset": 106,
+            "EndOffset": 109
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8766533136367798,
+            "Type": "PERSON",
+            "Text": "@Blklivesmatter",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8501697182655334,
+            "Type": "DATE",
+            "Text": "this Saturday April 1",
+            "BeginOffset": 107,
+            "EndOffset": 128
+        }
+    ]
+}

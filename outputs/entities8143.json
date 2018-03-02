@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8649448752403259,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9452089071273804,
+            "Type": "ORGANIZATION",
+            "Text": "CNN",
+            "BeginOffset": 15,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9903964996337891,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 49,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9644954204559326,
+            "Type": "OTHER",
+            "Text": "https://t.co/aEjviyRH3Z",
+            "BeginOffset": 109,
+            "EndOffset": 132
+        },
+        {
+            "Score": 0.8288049101829529,
+            "Type": "PERSON",
+            "Text": "@RawSt",
+            "BeginOffset": 133,
+            "EndOffset": 139
+        }
+    ]
+}

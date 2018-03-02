@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.964775800704956,
+            "Type": "PERSON",
+            "Text": "@Jamrockvybz",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7607181668281555,
+            "Type": "PERSON",
+            "Text": "Meleku",
+            "BeginOffset": 17,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.3650308847427368,
+            "Type": "PERSON",
+            "Text": "SIzzla",
+            "BeginOffset": 32,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9954002499580383,
+            "Type": "DATE",
+            "Text": "2017",
+            "BeginOffset": 78,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.9999480247497559,
+            "Type": "OTHER",
+            "Text": "https://t.co/Xg1iasILyj",
+            "BeginOffset": 83,
+            "EndOffset": 106
+        }
+    ]
+}

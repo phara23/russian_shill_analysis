@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9087479114532471,
+            "Type": "PERSON",
+            "Text": "@mitchellvii",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9600228071212769,
+            "Type": "ORGANIZATION",
+            "Text": "Republicans",
+            "BeginOffset": 72,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.999915599822998,
+            "Type": "OTHER",
+            "Text": "https://t.co/jtrq5FnanJ",
+            "BeginOffset": 108,
+            "EndOffset": 131
+        }
+    ]
+}

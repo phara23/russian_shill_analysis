@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7242528200149536,
+            "Type": "PERSON",
+            "Text": "@The7thMatrix",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8210494518280029,
+            "Type": "PERSON",
+            "Text": "Florence Kasumba",
+            "BeginOffset": 51,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9998478889465332,
+            "Type": "OTHER",
+            "Text": "https://t.co/X57tt6Cyc5",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        }
+    ]
+}

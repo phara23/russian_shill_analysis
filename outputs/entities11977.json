@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6579414010047913,
+            "Type": "PERSON",
+            "Text": "@USUncut",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9880919456481934,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 13,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8074555993080139,
+            "Type": "OTHER",
+            "Text": "https://t.co/aPh0KqHY5S",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.6697862148284912,
+            "Type": "ORGANIZATION",
+            "Text": "#disruptj20",
+            "BeginOffset": 114,
+            "EndOffset": 125
+        },
+        {
+            "Score": 0.9333760738372803,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

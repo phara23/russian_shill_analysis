@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9622580409049988,
+            "Type": "PERSON",
+            "Text": "@DavidJo52951945",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.836296021938324,
+            "Type": "ORGANIZATION",
+            "Text": "RT Councils",
+            "BeginOffset": 21,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9953086972236633,
+            "Type": "QUANTITY",
+            "Text": "£3.5bn",
+            "BeginOffset": 39,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9877563118934631,
+            "Type": "QUANTITY",
+            "Text": "5 yrs",
+            "BeginOffset": 70,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.8113342523574829,
+            "Type": "QUANTITY",
+            "Text": "millions of immigrants",
+            "BeginOffset": 93,
+            "EndOffset": 115
+        }
+    ]
+}

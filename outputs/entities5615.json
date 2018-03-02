@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7525349259376526,
+            "Type": "PERSON",
+            "Text": "@6549",
+            "BeginOffset": 3,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.9965697526931763,
+            "Type": "PERSON",
+            "Text": "Richard Petty",
+            "BeginOffset": 25,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9090138673782349,
+            "Type": "PERSON",
+            "Text": "TRUMP",
+            "BeginOffset": 48,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.8985165953636169,
+            "Type": "QUANTITY",
+            "Text": "1 Question",
+            "BeginOffset": 65,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.9999662637710571,
+            "Type": "OTHER",
+            "Text": "https://t.co/Xt6MEx01Bx",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        }
+    ]
+}

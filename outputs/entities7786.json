@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8686562180519104,
+            "Type": "QUANTITY",
+            "Text": "thousand miles",
+            "BeginOffset": 17,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.6902042031288147,
+            "Type": "QUANTITY",
+            "Text": "single step",
+            "BeginOffset": 46,
+            "EndOffset": 57
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9948621392250061,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.6910569071769714,
+            "Type": "OTHER",
+            "Text": "Mexicans",
+            "BeginOffset": 55,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.967162013053894,
+            "Type": "OTHER",
+            "Text": "https://t.co/s26F6R96mN",
+            "BeginOffset": 78,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.9999839067459106,
+            "Type": "OTHER",
+            "Text": "https://t.co/h7tQLep28G",
+            "BeginOffset": 102,
+            "EndOffset": 125
+        }
+    ]
+}

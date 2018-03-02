@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9940304160118103,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.7718846797943115,
+            "Type": "OTHER",
+            "Text": "Italian",
+            "BeginOffset": 14,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9999946355819702,
+            "Type": "OTHER",
+            "Text": "https://t.co/zlPzL8b21f",
+            "BeginOffset": 60,
+            "EndOffset": 83
+        }
+    ]
+}

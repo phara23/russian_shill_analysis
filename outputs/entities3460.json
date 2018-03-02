@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8433572053909302,
+            "Type": "PERSON",
+            "Text": "@politicususa",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9952521324157715,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 18,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.5694997310638428,
+            "Type": "OTHER",
+            "Text": "American",
+            "BeginOffset": 65,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.867119550704956,
+            "Type": "OTHER",
+            "Text": "https://t.co/a8WFtVjRJg",
+            "BeginOffset": 74,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.7014408707618713,
+            "Type": "ORGANIZATION",
+            "Text": "#p2",
+            "BeginOffset": 98,
+            "EndOffset": 101
+        }
+    ]
+}

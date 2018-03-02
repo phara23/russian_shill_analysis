@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6882299780845642,
+            "Type": "LOCATION",
+            "Text": "Israel",
+            "BeginOffset": 4,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9966175556182861,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 30,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.977458119392395,
+            "Type": "OTHER",
+            "Text": "https://t.co/VI6D3dhqMm",
+            "BeginOffset": 50,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.9477042555809021,
+            "Type": "OTHER",
+            "Text": "https://t.co/aXQaNDGlF7",
+            "BeginOffset": 86,
+            "EndOffset": 109
+        },
+        {
+            "Score": 0.9999419450759888,
+            "Type": "OTHER",
+            "Text": "https://t.co/5E0HpYjymy",
+            "BeginOffset": 110,
+            "EndOffset": 133
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9343204498291016,
+            "Type": "PERSON",
+            "Text": "@AnthonyCumia",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.37370923161506653,
+            "Type": "ORGANIZATION",
+            "Text": "SJWs",
+            "BeginOffset": 105,
+            "EndOffset": 109
+        }
+    ]
+}

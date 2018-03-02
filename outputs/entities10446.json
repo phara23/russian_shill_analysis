@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8336510062217712,
+            "Type": "PERSON",
+            "Text": "@Eye4Eye",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9659931063652039,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 13,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.983585000038147,
+            "Type": "OTHER",
+            "Text": "https://t.co/3DJ1xXziSa",
+            "BeginOffset": 42,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9588326215744019,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 131,
+            "EndOffset": 135
+        }
+    ]
+}

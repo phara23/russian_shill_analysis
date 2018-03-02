@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8232006430625916,
+            "Type": "PERSON",
+            "Text": "@PastVox",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9439002871513367,
+            "Type": "DATE",
+            "Text": "1955",
+            "BeginOffset": 13,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9323479533195496,
+            "Type": "QUANTITY",
+            "Text": "Six hundred ways",
+            "BeginOffset": 19,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.668660044670105,
+            "Type": "ORGANIZATION",
+            "Text": "Pepé Le Pew",
+            "BeginOffset": 41,
+            "EndOffset": 52
+        }
+    ]
+}

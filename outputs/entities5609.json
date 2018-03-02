@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8733214735984802,
+            "Type": "PERSON",
+            "Text": "@BretBaier",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9904718995094299,
+            "Type": "ORGANIZATION",
+            "Text": "Environmental Protection Agency",
+            "BeginOffset": 19,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.8798527717590332,
+            "Type": "ORGANIZATION",
+            "Text": "@EPA",
+            "BeginOffset": 51,
+            "EndOffset": 55
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7742809057235718,
+            "Type": "PERSON",
+            "Text": "@TheVoiceOfPaulR",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9986752867698669,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 60,
+            "EndOffset": 67
+        }
+    ]
+}

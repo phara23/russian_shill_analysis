@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8689625859260559,
+            "Type": "ORGANIZATION",
+            "Text": "@RT_com",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.7882292866706848,
+            "Type": "LOCATION",
+            "Text": "#Colombia",
+            "BeginOffset": 74,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.8480885028839111,
+            "Type": "OTHER",
+            "Text": "https://t.co/bQidYPW6iV",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.9592028856277466,
+            "Type": "OTHER",
+            "Text": "https://t.co/TzNzs",
+            "BeginOffset": 121,
+            "EndOffset": 139
+        }
+    ]
+}

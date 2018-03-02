@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8023677468299866,
+            "Type": "PERSON",
+            "Text": "@iluvscoops",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8819215893745422,
+            "Type": "PERSON",
+            "Text": "@janetEckels",
+            "BeginOffset": 69,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.9991284012794495,
+            "Type": "OTHER",
+            "Text": "https://t.co/hAboUAaKsu",
+            "BeginOffset": 100,
+            "EndOffset": 123
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9935081005096436,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 0,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.9063506722450256,
+            "Type": "OTHER",
+            "Text": "Spanish",
+            "BeginOffset": 21,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9919164776802063,
+            "Type": "ORGANIZATION",
+            "Text": "Twitter",
+            "BeginOffset": 29,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.8601984977722168,
+            "Type": "PERSON",
+            "Text": "President of Mexico",
+            "BeginOffset": 71,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9999440908432007,
+            "Type": "OTHER",
+            "Text": "https://t.co/x6lEtm1Uth",
+            "BeginOffset": 92,
+            "EndOffset": 115
+        }
+    ]
+}

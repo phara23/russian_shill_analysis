@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5088922381401062,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.7358048558235168,
+            "Type": "ORGANIZATION",
+            "Text": "@NYC_Everyday",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9634098410606384,
+            "Type": "LOCATION",
+            "Text": "#NewYork",
+            "BeginOffset": 83,
+            "EndOffset": 91
+        }
+    ]
+}

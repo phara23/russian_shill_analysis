@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8735963702201843,
+            "Type": "PERSON",
+            "Text": "@theclobra",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.272451788187027,
+            "Type": "LOCATION",
+            "Text": "Indianapolis",
+            "BeginOffset": 15,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.8796039819717407,
+            "Type": "ORGANIZATION",
+            "Text": "Instagram",
+            "BeginOffset": 28,
+            "EndOffset": 37
+        }
+    ]
+}

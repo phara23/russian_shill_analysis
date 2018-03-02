@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.887169599533081,
+            "Type": "PERSON",
+            "Text": "@PresidentJeffPJ",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.5652350187301636,
+            "Type": "QUANTITY",
+            "Text": "100",
+            "BeginOffset": 30,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.875706672668457,
+            "Type": "QUANTITY",
+            "Text": "1",
+            "BeginOffset": 85,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9946193695068359,
+            "Type": "QUANTITY",
+            "Text": "10",
+            "BeginOffset": 87,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.9367202520370483,
+            "Type": "QUANTITY",
+            "Text": "1",
+            "BeginOffset": 115,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.9878239631652832,
+            "Type": "QUANTITY",
+            "Text": "10",
+            "BeginOffset": 117,
+            "EndOffset": 119
+        }
+    ]
+}

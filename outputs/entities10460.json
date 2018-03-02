@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8711669445037842,
+            "Type": "PERSON",
+            "Text": "@tyriquex",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.7998566031455994,
+            "Type": "PERSON",
+            "Text": "RIHANNA",
+            "BeginOffset": 20,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.8820738792419434,
+            "Type": "TITLE",
+            "Text": "iTUNES",
+            "BeginOffset": 45,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9385552406311035,
+            "Type": "TITLE",
+            "Text": "iTUNES",
+            "BeginOffset": 63,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9999619722366333,
+            "Type": "OTHER",
+            "Text": "https://t.co/4FZSOWpz46",
+            "BeginOffset": 109,
+            "EndOffset": 132
+        }
+    ]
+}

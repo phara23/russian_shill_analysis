@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9903238415718079,
+            "Type": "PERSON",
+            "Text": "@sean_spicier",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.5498457551002502,
+            "Type": "QUANTITY",
+            "Text": "2 Iraqis",
+            "BeginOffset": 47,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.8191468119621277,
+            "Type": "QUANTITY",
+            "Text": "an hour",
+            "BeginOffset": 77,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.43801310658454895,
+            "Type": "ORGANIZATION",
+            "Text": "JFK",
+            "BeginOffset": 111,
+            "EndOffset": 114
+        }
+    ]
+}

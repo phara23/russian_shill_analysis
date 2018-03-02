@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9093644022941589,
+            "Type": "PERSON",
+            "Text": "@BernieSanders",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9954049587249756,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 19,
+            "EndOffset": 24
+        }
+    ]
+}

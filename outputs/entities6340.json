@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9157631993293762,
+            "Type": "PERSON",
+            "Text": "@birgittaj",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9383441209793091,
+            "Type": "PERSON",
+            "Text": "President Obama",
+            "BeginOffset": 20,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.905641496181488,
+            "Type": "PERSON",
+            "Text": "@POTUS",
+            "BeginOffset": 36,
+            "EndOffset": 42
+        }
+    ]
+}

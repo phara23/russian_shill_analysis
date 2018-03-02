@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8451679944992065,
+            "Type": "PERSON",
+            "Text": "@healthandcents",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9563378095626831,
+            "Type": "LOCATION",
+            "Text": "NY",
+            "BeginOffset": 28,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9044166207313538,
+            "Type": "LOCATION",
+            "Text": "NYC",
+            "BeginOffset": 50,
+            "EndOffset": 53
+        }
+    ]
+}

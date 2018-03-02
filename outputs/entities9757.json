@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7650647163391113,
+            "Type": "PERSON",
+            "Text": "@ZaibatsuNews",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9982874989509583,
+            "Type": "PERSON",
+            "Text": "Rick Joyner",
+            "BeginOffset": 18,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.49629104137420654,
+            "Type": "DATE",
+            "Text": "March",
+            "BeginOffset": 39,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9361540675163269,
+            "Type": "OTHER",
+            "Text": "https://t.co/707DM6SoRH",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.9696934819221497,
+            "Type": "OTHER",
+            "Text": "https://t.co/wgsqq",
+            "BeginOffset": 121,
+            "EndOffset": 139
+        }
+    ]
+}

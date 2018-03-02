@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8702481389045715,
+            "Type": "PERSON",
+            "Text": "@BarracudaMama",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8667334914207458,
+            "Type": "QUANTITY",
+            "Text": "12 Year",
+            "BeginOffset": 19,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9997944235801697,
+            "Type": "OTHER",
+            "Text": "https://t.co/qsjahMIdgT",
+            "BeginOffset": 84,
+            "EndOffset": 107
+        }
+    ]
+}

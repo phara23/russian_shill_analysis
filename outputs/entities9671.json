@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9213888049125671,
+            "Type": "PERSON",
+            "Text": "@ZDFheute",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.7403095364570618,
+            "Type": "QUANTITY",
+            "Text": "10 000",
+            "BeginOffset": 39,
+            "EndOffset": 45
+        }
+    ]
+}

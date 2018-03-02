@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.895842432975769,
+            "Type": "PERSON",
+            "Text": "@apadillafilm6",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6899594664573669,
+            "Type": "LOCATION",
+            "Text": "Harlem #NYC",
+            "BeginOffset": 50,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.6533539891242981,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 130,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8936641812324524,
+            "Type": "PERSON",
+            "Text": "@craigflynn1",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8791501522064209,
+            "Type": "ORGANIZATION",
+            "Text": "Facebook",
+            "BeginOffset": 44,
+            "EndOffset": 52
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6798802018165588,
+            "Type": "PERSON",
+            "Text": "@CUBASIKASTRONO",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8945615887641907,
+            "Type": "PERSON",
+            "Text": "@snukasuper",
+            "BeginOffset": 20,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9160856008529663,
+            "Type": "PERSON",
+            "Text": "@bravehart60 nobama",
+            "BeginOffset": 32,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9949433207511902,
+            "Type": "PERSON",
+            "Text": "hillary",
+            "BeginOffset": 53,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.5974847674369812,
+            "Type": "OTHER",
+            "Text": "Americans",
+            "BeginOffset": 86,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.9999544620513916,
+            "Type": "OTHER",
+            "Text": "https://t.co/vnJ11fWtko",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        }
+    ]
+}

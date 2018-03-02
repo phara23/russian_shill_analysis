@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8827399015426636,
+            "Type": "PERSON",
+            "Text": "@CaptYonah",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9889369010925293,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 52,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9973307847976685,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 73,
+            "EndOffset": 80
+        }
+    ]
+}

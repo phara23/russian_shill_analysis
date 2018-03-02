@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6630595326423645,
+            "Type": "ORGANIZATION",
+            "Text": "@wikileaks",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.996505618095398,
+            "Type": "ORGANIZATION",
+            "Text": "CIA",
+            "BeginOffset": 23,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9901174902915955,
+            "Type": "PERSON",
+            "Text": "Nelson Mandela - Harper",
+            "BeginOffset": 57,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.9974729418754578,
+            "Type": "PERSON",
+            "Text": "Andrew Cockburn",
+            "BeginOffset": 83,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.9914133548736572,
+            "Type": "OTHER",
+            "Text": "https://t.co/Ff9YJ6bsD6",
+            "BeginOffset": 100,
+            "EndOffset": 123
+        }
+    ]
+}

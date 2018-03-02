@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7515745162963867,
+            "Type": "PERSON",
+            "Text": "@glennwa1",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9507324695587158,
+            "Type": "ORGANIZATION",
+            "Text": "Muslims",
+            "BeginOffset": 28,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.5847533345222473,
+            "Type": "LOCATION",
+            "Text": "American",
+            "BeginOffset": 57,
+            "EndOffset": 65
+        }
+    ]
+}

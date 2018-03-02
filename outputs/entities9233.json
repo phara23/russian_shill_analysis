@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9287415742874146,
+            "Type": "PERSON",
+            "Text": "@keichri",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.3800535500049591,
+            "Type": "PERSON",
+            "Text": "Conway",
+            "BeginOffset": 13,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.989355206489563,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 31,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.8692117929458618,
+            "Type": "PERSON",
+            "Text": "president-elect",
+            "BeginOffset": 52,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9998817443847656,
+            "Type": "OTHER",
+            "Text": "https://t.co/LFLvAJBKvZ",
+            "BeginOffset": 99,
+            "EndOffset": 122
+        }
+    ]
+}

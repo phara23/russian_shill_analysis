@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7035953402519226,
+            "Type": "PERSON",
+            "Text": "@beforeitsnews",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9937839508056641,
+            "Type": "ORGANIZATION",
+            "Text": "NASA",
+            "BeginOffset": 19,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9099474549293518,
+            "Type": "OTHER",
+            "Text": "https://t.co/KW3M74fFnm",
+            "BeginOffset": 79,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.9999555349349976,
+            "Type": "OTHER",
+            "Text": "https://t.co/gjY8fDy55O",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        }
+    ]
+}

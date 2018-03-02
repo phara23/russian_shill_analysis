@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9076696634292603,
+            "Type": "PERSON",
+            "Text": "@RobinHoodTax",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9832590222358704,
+            "Type": "QUANTITY",
+            "Text": "1%",
+            "BeginOffset": 126,
+            "EndOffset": 128
+        },
+        {
+            "Score": 0.8677235245704651,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 130,
+            "EndOffset": 139
+        }
+    ]
+}

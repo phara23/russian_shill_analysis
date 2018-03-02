@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.69354647397995,
+            "Type": "ORGANIZATION",
+            "Text": "@Independent",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9464864134788513,
+            "Type": "LOCATION",
+            "Text": "Texas",
+            "BeginOffset": 25,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9160001277923584,
+            "Type": "OTHER",
+            "Text": "http://t.co/cp0m7Glkyc",
+            "BeginOffset": 88,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.9999879598617554,
+            "Type": "OTHER",
+            "Text": "http://t.co/KmcFai72Pj",
+            "BeginOffset": 111,
+            "EndOffset": 133
+        }
+    ]
+}

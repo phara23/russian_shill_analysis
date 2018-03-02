@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8278072476387024,
+            "Type": "PERSON",
+            "Text": "@GeneMcVay",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9690327048301697,
+            "Type": "PERSON",
+            "Text": "Comey",
+            "BeginOffset": 46,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9881097078323364,
+            "Type": "ORGANIZATION",
+            "Text": "Congress",
+            "BeginOffset": 70,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.9996970891952515,
+            "Type": "OTHER",
+            "Text": "https://t.co/zfLTZqtdcc",
+            "BeginOffset": 104,
+            "EndOffset": 127
+        }
+    ]
+}

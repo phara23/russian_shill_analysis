@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8321762681007385,
+            "Type": "PERSON",
+            "Text": "@OnlineHouston",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6735361814498901,
+            "Type": "ORGANIZATION",
+            "Text": "Texans",
+            "BeginOffset": 19,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9984205365180969,
+            "Type": "PERSON",
+            "Text": "Jumal Rolle",
+            "BeginOffset": 37,
+            "EndOffset": 48
+        }
+    ]
+}

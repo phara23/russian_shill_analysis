@@ -1,0 +1,40 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9431431293487549,
+            "Text": "RT @GOP",
+            "BeginOffset": 0,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.964195966720581,
+            "Text": "BREAKING NEWS",
+            "BeginOffset": 9,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9991711378097534,
+            "Text": "The FBI",
+            "BeginOffset": 24,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.8646230101585388,
+            "Text": "their investigation",
+            "BeginOffset": 46,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9874919056892395,
+            "Text": "@HillaryClinton",
+            "BeginOffset": 71,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9865230321884155,
+            "Text": "secret server",
+            "BeginOffset": 89,
+            "EndOffset": 102
+        }
+    ]
+}

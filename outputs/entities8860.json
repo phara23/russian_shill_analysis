@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9436039924621582,
+            "Type": "PERSON",
+            "Text": "@Blike_Dante",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9477620720863342,
+            "Type": "PERSON",
+            "Text": "Nicki",
+            "BeginOffset": 17,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9936095476150513,
+            "Type": "ORGANIZATION",
+            "Text": "Reddit",
+            "BeginOffset": 59,
+            "EndOffset": 65
+        }
+    ]
+}

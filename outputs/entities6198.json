@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8997477293014526,
+            "Type": "PERSON",
+            "Text": "@Elevated_Faith",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8251016736030579,
+            "Type": "EVENT",
+            "Text": "Christmas",
+            "BeginOffset": 69,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.753136396408081,
+            "Type": "OTHER",
+            "Text": "https://t.co/hnJ6ayk…",
+            "BeginOffset": 119,
+            "EndOffset": 140
+        }
+    ]
+}

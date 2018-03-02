@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8300958275794983,
+            "Type": "PERSON",
+            "Text": "@ttelacomfin",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9459773898124695,
+            "Type": "OTHER",
+            "Text": "https://t.co/3s0x8DY5aI",
+            "BeginOffset": 99,
+            "EndOffset": 122
+        },
+        {
+            "Score": 0.9743788838386536,
+            "Type": "OTHER",
+            "Text": "https://t.co/Dqo",
+            "BeginOffset": 123,
+            "EndOffset": 139
+        }
+    ]
+}

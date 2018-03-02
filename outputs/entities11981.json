@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7613306641578674,
+            "Type": "PERSON",
+            "Text": "@modernactivism",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8724876642227173,
+            "Type": "ORGANIZATION",
+            "Text": "@CBSNews",
+            "BeginOffset": 20,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.7432565093040466,
+            "Type": "ORGANIZATION",
+            "Text": "Citigroup Exec",
+            "BeginOffset": 51,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9882603883743286,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 81,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.7419531345367432,
+            "Type": "QUANTITY",
+            "Text": "first cabinet",
+            "BeginOffset": 89,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.99978107213974,
+            "Type": "OTHER",
+            "Text": "https://t.co/Axmt8uMImQ",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        }
+    ]
+}

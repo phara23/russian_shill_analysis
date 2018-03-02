@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9667717218399048,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.7733118534088135,
+            "Type": "PERSON",
+            "Text": "Frida",
+            "BeginOffset": 134,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7320885062217712,
+            "Type": "PERSON",
+            "Text": "@MistressStormdw",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9877600073814392,
+            "Type": "PERSON",
+            "Text": "@akhtark26537092",
+            "BeginOffset": 21,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9119362831115723,
+            "Type": "PERSON",
+            "Text": "@BlogLiberally",
+            "BeginOffset": 38,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.915047287940979,
+            "Type": "PERSON",
+            "Text": "@FlipItDem",
+            "BeginOffset": 53,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9937235116958618,
+            "Type": "PERSON",
+            "Text": "@Hope012015",
+            "BeginOffset": 64,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.9931087493896484,
+            "Type": "PERSON",
+            "Text": "@cd5762",
+            "BeginOffset": 76,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.9354833960533142,
+            "Type": "PERSON",
+            "Text": "@badwebsites",
+            "BeginOffset": 85,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.9164588451385498,
+            "Type": "PERSON",
+            "Text": "@TeaPainUSA",
+            "BeginOffset": 98,
+            "EndOffset": 109
+        }
+    ]
+}

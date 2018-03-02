@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8632122278213501,
+            "Type": "PERSON",
+            "Text": "@SouthLoneStar",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9993093609809875,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 19,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.6190564632415771,
+            "Type": "DATE",
+            "Text": "9/11",
+            "BeginOffset": 83,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.7238550186157227,
+            "Type": "DATE",
+            "Text": "9/11",
+            "BeginOffset": 130,
+            "EndOffset": 134
+        }
+    ]
+}

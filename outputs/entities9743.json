@@ -1,0 +1,67 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9076759219169617,
+            "Type": "PERSON",
+            "Text": "@ButitzDope",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7021222710609436,
+            "Type": "ORGANIZATION",
+            "Text": "Pineapple Express",
+            "BeginOffset": 25,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.6355553865432739,
+            "Type": "QUANTITY",
+            "Text": "6 Atlanta",
+            "BeginOffset": 43,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9749197363853455,
+            "Type": "DATE",
+            "Text": "May 20",
+            "BeginOffset": 55,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.7882428169250488,
+            "Type": "ORGANIZATION",
+            "Text": "Arts Exchange",
+            "BeginOffset": 63,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.6914479732513428,
+            "Type": "ORGANIZATION",
+            "Text": "@tbrownmedia",
+            "BeginOffset": 77,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.6884530782699585,
+            "Type": "PERSON",
+            "Text": "@daliadrake",
+            "BeginOffset": 90,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.8461693525314331,
+            "Type": "PERSON",
+            "Text": "@broke2dope",
+            "BeginOffset": 102,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.9999386072158813,
+            "Type": "OTHER",
+            "Text": "https://t.co/wGrYbAi4L9",
+            "BeginOffset": 114,
+            "EndOffset": 137
+        }
+    ]
+}

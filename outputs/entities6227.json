@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9462121725082397,
+            "Type": "PERSON",
+            "Text": "@tlamb775",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.47072702646255493,
+            "Type": "PERSON",
+            "Text": "Kremlin",
+            "BeginOffset": 18,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.5049785375595093,
+            "Type": "ORGANIZATION",
+            "Text": "#mh17",
+            "BeginOffset": 33,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9999817609786987,
+            "Type": "OTHER",
+            "Text": "https://t.co/Jn5LxpbXhO",
+            "BeginOffset": 39,
+            "EndOffset": 62
+        }
+    ]
+}

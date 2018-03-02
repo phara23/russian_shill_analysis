@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8589956164360046,
+            "Type": "PERSON",
+            "Text": "@PGAjrleaguegolf",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9914767742156982,
+            "Type": "PERSON",
+            "Text": "Sam Snead",
+            "BeginOffset": 73,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.999902606010437,
+            "Type": "OTHER",
+            "Text": "https://t.co/4BKJgCuQRl",
+            "BeginOffset": 102,
+            "EndOffset": 125
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9159589409828186,
+            "Type": "PERSON",
+            "Text": "@Dbargen",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.899323582649231,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 58,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.8493175506591797,
+            "Type": "PERSON",
+            "Text": "@AndrewCFollett",
+            "BeginOffset": 78,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.9998384714126587,
+            "Type": "OTHER",
+            "Text": "https://t.co/sfDPWXH4to",
+            "BeginOffset": 114,
+            "EndOffset": 137
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7035273909568787,
+            "Type": "PERSON",
+            "Text": "@boobeee",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9940476417541504,
+            "Type": "OTHER",
+            "Text": "https://t.co/peN6Bdk7PV",
+            "BeginOffset": 61,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.8580664396286011,
+            "Type": "ORGANIZATION",
+            "Text": "@antimedia",
+            "BeginOffset": 89,
+            "EndOffset": 99
+        }
+    ]
+}

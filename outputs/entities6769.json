@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7962346076965332,
+            "Type": "PERSON",
+            "Text": "@ZaibatsuNews",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9273351430892944,
+            "Type": "PERSON",
+            "Text": "JFK",
+            "BeginOffset": 18,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9987002611160278,
+            "Type": "PERSON",
+            "Text": "Hitler",
+            "BeginOffset": 31,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9824987053871155,
+            "Type": "EVENT",
+            "Text": "World War II",
+            "BeginOffset": 54,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.8370431065559387,
+            "Type": "OTHER",
+            "Text": "https://t.co/tqWM8R2YkY",
+            "BeginOffset": 67,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.7545783519744873,
+            "Type": "ORGANIZATION",
+            "Text": "#p2 #ctl",
+            "BeginOffset": 91,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.9999819993972778,
+            "Type": "OTHER",
+            "Text": "https://t.co/RRAxHA4zTW",
+            "BeginOffset": 100,
+            "EndOffset": 123
+        }
+    ]
+}

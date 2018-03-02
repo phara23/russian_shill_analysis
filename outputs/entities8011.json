@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7990959286689758,
+            "Type": "PERSON",
+            "Text": "@SunTimesNASH",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.5991461277008057,
+            "Type": "ORGANIZATION",
+            "Text": "#TB",
+            "BeginOffset": 42,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.509177565574646,
+            "Type": "LOCATION",
+            "Text": "#Tenessee",
+            "BeginOffset": 58,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.7863166332244873,
+            "Type": "QUANTITY",
+            "Text": "2 other states",
+            "BeginOffset": 72,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.8054872155189514,
+            "Type": "OTHER",
+            "Text": "http://t.co/uuPnfNzl7D",
+            "BeginOffset": 107,
+            "EndOffset": 129
+        },
+        {
+            "Score": 0.8411855697631836,
+            "Type": "OTHER",
+            "Text": "http://t",
+            "BeginOffset": 130,
+            "EndOffset": 138
+        }
+    ]
+}

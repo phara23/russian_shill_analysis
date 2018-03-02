@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8766828775405884,
+            "Type": "QUANTITY",
+            "Text": "first half",
+            "BeginOffset": 47,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.7174769639968872,
+            "Type": "PERSON",
+            "Text": "@HashtagRoundup",
+            "BeginOffset": 83,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.9438261985778809,
+            "Type": "PERSON",
+            "Text": "@TheHashtagGame",
+            "BeginOffset": 99,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.9998352527618408,
+            "Type": "OTHER",
+            "Text": "https://t.co/h6jzB418Ug",
+            "BeginOffset": 116,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7463768124580383,
+            "Type": "PERSON",
+            "Text": "@hangthebankers",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9956764578819275,
+            "Type": "ORGANIZATION",
+            "Text": "CIA",
+            "BeginOffset": 20,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.8889245986938477,
+            "Type": "ORGANIZATION",
+            "Text": "Russia",
+            "BeginOffset": 48,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.8833997845649719,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 66,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.8881356120109558,
+            "Type": "ORGANIZATION",
+            "Text": "@CIA",
+            "BeginOffset": 79,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.4796306788921356,
+            "Type": "LOCATION",
+            "Text": "#Russia",
+            "BeginOffset": 84,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.9999734163284302,
+            "Type": "OTHER",
+            "Text": "https://t.co/sVzU0RpHFq",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8071273565292358,
+            "Type": "PERSON",
+            "Text": "@HuffingtonPost",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.4162178039550781,
+            "Type": "QUANTITY",
+            "Text": "16",
+            "BeginOffset": 21,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.5516810417175293,
+            "Type": "ORGANIZATION",
+            "Text": "HuffPost",
+            "BeginOffset": 39,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9973452091217041,
+            "Type": "PERSON",
+            "Text": "Rick Perry",
+            "BeginOffset": 79,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.9999620914459229,
+            "Type": "OTHER",
+            "Text": "http://t.co/8BB2X7DrSZ",
+            "BeginOffset": 90,
+            "EndOffset": 112
+        }
+    ]
+}

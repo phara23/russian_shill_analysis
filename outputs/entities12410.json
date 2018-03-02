@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9193098545074463,
+            "Type": "PERSON",
+            "Text": "@peddoc63",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9577392935752869,
+            "Type": "ORGANIZATION",
+            "Text": "New York Times",
+            "BeginOffset": 14,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.7453502416610718,
+            "Type": "PERSON",
+            "Text": "@MonicaCrowley",
+            "BeginOffset": 76,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9997252821922302,
+            "Type": "OTHER",
+            "Text": "http://t.co/qJft6N46UU",
+            "BeginOffset": 91,
+            "EndOffset": 113
+        }
+    ]
+}

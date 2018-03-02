@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7602347135543823,
+            "Type": "ORGANIZATION",
+            "Text": "@PolitiFact",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9981549978256226,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 16,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.99982088804245,
+            "Type": "OTHER",
+            "Text": "https://t.co/cc9qaaCR1t",
+            "BeginOffset": 112,
+            "EndOffset": 135
+        }
+    ]
+}

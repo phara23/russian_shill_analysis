@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9565817713737488,
+            "Type": "PERSON",
+            "Text": "@Rockprincess818",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8927811980247498,
+            "Type": "PERSON",
+            "Text": "@seanspicer",
+            "BeginOffset": 21,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9672146439552307,
+            "Type": "PERSON",
+            "Text": "@brianstelter",
+            "BeginOffset": 33,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9376676082611084,
+            "Type": "PERSON",
+            "Text": "@seanhannity",
+            "BeginOffset": 47,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.8846931457519531,
+            "Type": "OTHER",
+            "Text": "https://t.co/4dFbq02ItX",
+            "BeginOffset": 61,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.5922994017601013,
+            "Type": "ORGANIZATION",
+            "Text": "#MAGA",
+            "BeginOffset": 85,
+            "EndOffset": 90
+        }
+    ]
+}

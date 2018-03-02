@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7712212204933167,
+            "Type": "PERSON",
+            "Text": "@FANSGESUCHT",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7289822697639465,
+            "Type": "PERSON",
+            "Text": "@Fatonimusik",
+            "BeginOffset": 26,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.48648083209991455,
+            "Type": "PERSON",
+            "Text": "Fatoni",
+            "BeginOffset": 61,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9999406337738037,
+            "Type": "OTHER",
+            "Text": "https://t.co/75dpLh0unj",
+            "BeginOffset": 111,
+            "EndOffset": 134
+        }
+    ]
+}

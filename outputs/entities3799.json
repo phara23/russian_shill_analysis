@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8331530690193176,
+            "Type": "PERSON",
+            "Text": "@Runn4",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.4626379609107971,
+            "Type": "PERSON",
+            "Text": "TRUMP",
+            "BeginOffset": 32,
+            "EndOffset": 37
+        }
+    ]
+}

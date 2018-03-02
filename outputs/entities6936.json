@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8537114858627319,
+            "Type": "PERSON",
+            "Text": "@theintercept",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9522721171379089,
+            "Type": "ORGANIZATION",
+            "Text": "Republicans",
+            "BeginOffset": 51,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.7023912072181702,
+            "Type": "ORGANIZATION",
+            "Text": "Senate",
+            "BeginOffset": 70,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.9528047442436218,
+            "Type": "OTHER",
+            "Text": "https://t.c",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

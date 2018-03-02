@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9018585085868835,
+            "Type": "PERSON",
+            "Text": "@Gamiliell",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.7699577808380127,
+            "Type": "PERSON",
+            "Text": "@HashtagRoundup",
+            "BeginOffset": 66,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.7991323471069336,
+            "Type": "OTHER",
+            "Text": "https://t.co/pJyqUtvzv1",
+            "BeginOffset": 82,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.9999409914016724,
+            "Type": "OTHER",
+            "Text": "https://t.co/5c70Jsoemy",
+            "BeginOffset": 106,
+            "EndOffset": 129
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9949198365211487,
+            "Type": "LOCATION",
+            "Text": "Louisiana",
+            "BeginOffset": 27,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9952048063278198,
+            "Type": "DATE",
+            "Text": "Nov. 8",
+            "BeginOffset": 41,
+            "EndOffset": 47
+        }
+    ]
+}

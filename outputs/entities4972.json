@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8126325011253357,
+            "Type": "PERSON",
+            "Text": "@millennialviews",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.39421817660331726,
+            "Type": "TITLE",
+            "Text": "#ARRESTObama",
+            "BeginOffset": 21,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9989120960235596,
+            "Type": "OTHER",
+            "Text": "https://t.co/pYPofyER3h",
+            "BeginOffset": 34,
+            "EndOffset": 57
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8972150087356567,
+            "Type": "PERSON",
+            "Text": "@DR8801",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9948689937591553,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 25,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.8705774545669556,
+            "Type": "LOCATION",
+            "Text": "Miami, FL",
+            "BeginOffset": 53,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9896382689476013,
+            "Type": "DATE",
+            "Text": "9/16/16",
+            "BeginOffset": 63,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9996531009674072,
+            "Type": "OTHER",
+            "Text": "https://t.co/vDMaZksvq0",
+            "BeginOffset": 71,
+            "EndOffset": 94
+        }
+    ]
+}

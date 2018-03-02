@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.41694018244743347,
+            "Type": "ORGANIZATION",
+            "Text": "#DarrenSharper",
+            "BeginOffset": 0,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9467325806617737,
+            "Type": "QUANTITY",
+            "Text": "nine-year",
+            "BeginOffset": 20,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9999886751174927,
+            "Type": "OTHER",
+            "Text": "http://t.co/qML51E6wPd",
+            "BeginOffset": 67,
+            "EndOffset": 89
+        }
+    ]
+}

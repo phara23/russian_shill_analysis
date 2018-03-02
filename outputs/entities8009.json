@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5071440935134888,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.6994547843933105,
+            "Type": "ORGANIZATION",
+            "Text": "@Arsenal",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9886578917503357,
+            "Type": "DATE",
+            "Text": "today",
+            "BeginOffset": 67,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.9999793767929077,
+            "Type": "OTHER",
+            "Text": "https://t.co/i6XYWXiUL9",
+            "BeginOffset": 74,
+            "EndOffset": 97
+        }
+    ]
+}

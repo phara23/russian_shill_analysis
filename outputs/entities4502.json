@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.871600866317749,
+            "Type": "PERSON",
+            "Text": "@DJHIVOLUME",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8148419260978699,
+            "Type": "PERSON",
+            "Text": "@RadioKingzRadio",
+            "BeginOffset": 24,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.8458303809165955,
+            "Type": "PERSON",
+            "Text": "DJ Kool",
+            "BeginOffset": 41,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.8844406008720398,
+            "Type": "TITLE",
+            "Text": "What the Hell You Come in Here For #ListenLive",
+            "BeginOffset": 51,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.9999535083770752,
+            "Type": "OTHER",
+            "Text": "https://t.co/BD4tGzYGkl",
+            "BeginOffset": 98,
+            "EndOffset": 121
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6362497210502625,
+            "Type": "ORGANIZATION",
+            "Text": "Islamic State",
+            "BeginOffset": 6,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9766986966133118,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 30,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.3972810208797455,
+            "Type": "LOCATION",
+            "Text": "#Chicago",
+            "BeginOffset": 38,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.6914970278739929,
+            "Type": "OTHER",
+            "Text": "https://t.co/GjymW9nnNu",
+            "BeginOffset": 74,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.43552812933921814,
+            "Type": "ORGANIZATION",
+            "Text": "#PJNET 999",
+            "BeginOffset": 98,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.9999862909317017,
+            "Type": "OTHER",
+            "Text": "https://t.co/md3s1n4HvX",
+            "BeginOffset": 111,
+            "EndOffset": 134
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7275962829589844,
+            "Type": "PERSON",
+            "Text": "@petefrt",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9268465638160706,
+            "Type": "QUANTITY",
+            "Text": "35 Things",
+            "BeginOffset": 26,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9987311363220215,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 36,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9943369030952454,
+            "Type": "ORGANIZATION",
+            "Text": "FBI",
+            "BeginOffset": 61,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.6948105692863464,
+            "Type": "PERSON",
+            "Text": "#p2",
+            "BeginOffset": 101,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.9154796004295349,
+            "Type": "OTHER",
+            "Text": "https://t.co/L42RWBrF9i",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        },
+        {
+            "Score": 0.7192222476005554,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 129,
+            "EndOffset": 138
+        }
+    ]
+}

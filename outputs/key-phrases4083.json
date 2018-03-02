@@ -1,0 +1,28 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9965314865112305,
+            "Text": "Donald Trump",
+            "BeginOffset": 0,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9979100227355957,
+            "Text": "cabinet",
+            "BeginOffset": 15,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9983914494514465,
+            "Text": "his bigotry",
+            "BeginOffset": 30,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9746530055999756,
+            "Text": "the campaign trail",
+            "BeginOffset": 45,
+            "EndOffset": 63
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7748389840126038,
+            "Type": "PERSON",
+            "Text": "@BrindusaB1",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7446569800376892,
+            "Type": "ORGANIZATION",
+            "Text": "BV H.Sidaner La Maison des Pêcheurs 1924",
+            "BeginOffset": 16,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.8841817378997803,
+            "Type": "PERSON",
+            "Text": "@albertopetro2",
+            "BeginOffset": 57,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9025775194168091,
+            "Type": "PERSON",
+            "Text": "@GaiaGaudenzi",
+            "BeginOffset": 72,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.8396211266517639,
+            "Type": "PERSON",
+            "Text": "@cobixreyes",
+            "BeginOffset": 86,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.9772496819496155,
+            "Type": "PERSON",
+            "Text": "@Biagio960",
+            "BeginOffset": 98,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.9201692342758179,
+            "Type": "PERSON",
+            "Text": "@mariaireneali",
+            "BeginOffset": 109,
+            "EndOffset": 123
+        },
+        {
+            "Score": 0.9326749444007874,
+            "Type": "PERSON",
+            "Text": "@fra852",
+            "BeginOffset": 124,
+            "EndOffset": 131
+        }
+    ]
+}

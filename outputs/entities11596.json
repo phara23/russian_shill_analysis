@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9455317258834839,
+            "Type": "PERSON",
+            "Text": "@SusanSarandon",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9917465448379517,
+            "Type": "DATE",
+            "Text": "tomorrow",
+            "BeginOffset": 66,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.885168194770813,
+            "Type": "TITLE",
+            "Text": "ACA",
+            "BeginOffset": 95,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.8322896361351013,
+            "Type": "QUANTITY",
+            "Text": "1",
+            "BeginOffset": 127,
+            "EndOffset": 128
+        },
+        {
+            "Score": 0.7731484174728394,
+            "Type": "LOCATION",
+            "Text": "LA",
+            "BeginOffset": 132,
+            "EndOffset": 134
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8242129683494568,
+            "Type": "PERSON",
+            "Text": "@ZaibatsuNews",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8738040328025818,
+            "Type": "OTHER",
+            "Text": "https://t.co/G32nHd9WSz",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        },
+        {
+            "Score": 0.9449698328971863,
+            "Type": "OTHER",
+            "Text": "https://t.co",
+            "BeginOffset": 127,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8909743428230286,
+            "Type": "PERSON",
+            "Text": "@angelacobb",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.6261141896247864,
+            "Type": "QUANTITY",
+            "Text": "34th",
+            "BeginOffset": 31,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.837742030620575,
+            "Type": "PERSON",
+            "Text": "@midnight",
+            "BeginOffset": 64,
+            "EndOffset": 73
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.5353416800498962,
+            "Text": "Reaction",
+            "BeginOffset": 0,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.9981743097305298,
+            "Text": "the second presidential debate",
+            "BeginOffset": 12,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.8791068196296692,
+            "Text": "Hillary Clinton",
+            "BeginOffset": 52,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9849586486816406,
+            "Text": "Donald Trump",
+            "BeginOffset": 72,
+            "EndOffset": 84
+        }
+    ]
+}

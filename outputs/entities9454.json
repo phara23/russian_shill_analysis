@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6792570948600769,
+            "Type": "PERSON",
+            "Text": "@FeeBooths",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.997541606426239,
+            "Type": "PERSON",
+            "Text": "Mike Pence",
+            "BeginOffset": 52,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9993284940719604,
+            "Type": "OTHER",
+            "Text": "https://t.co/nub3eeOrnh",
+            "BeginOffset": 63,
+            "EndOffset": 86
+        }
+    ]
+}

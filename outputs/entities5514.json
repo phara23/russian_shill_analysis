@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9295894503593445,
+            "Type": "PERSON",
+            "Text": "@dixiefortrump",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9999293088912964,
+            "Type": "OTHER",
+            "Text": "https://t.co/BaGq083ijA",
+            "BeginOffset": 22,
+            "EndOffset": 45
+        }
+    ]
+}

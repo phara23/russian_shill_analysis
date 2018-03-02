@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7593526840209961,
+            "Type": "PERSON",
+            "Text": "@PuterPrsn",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.7571292519569397,
+            "Type": "PERSON",
+            "Text": "@cmpimental",
+            "BeginOffset": 15,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9325273036956787,
+            "Type": "PERSON",
+            "Text": "@TRUMP_PREZ",
+            "BeginOffset": 27,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9982158541679382,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 53,
+            "EndOffset": 58
+        }
+    ]
+}

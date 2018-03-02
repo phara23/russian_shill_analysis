@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9936102628707886,
+            "Type": "PERSON",
+            "Text": "Montrell Jackson",
+            "BeginOffset": 8,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.3555433750152588,
+            "Type": "LOCATION",
+            "Text": "#BatonRouge",
+            "BeginOffset": 41,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9758714437484741,
+            "Type": "DATE",
+            "Text": "this morning",
+            "BeginOffset": 53,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.7651392817497253,
+            "Type": "QUANTITY",
+            "Text": "4yo",
+            "BeginOffset": 71,
+            "EndOffset": 74
+        }
+    ]
+}

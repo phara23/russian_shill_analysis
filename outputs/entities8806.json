@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8769199848175049,
+            "Type": "PERSON",
+            "Text": "@wadeharriot",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9380504488945007,
+            "Type": "PERSON",
+            "Text": "Arthur Ashe",
+            "BeginOffset": 71,
+            "EndOffset": 82
+        }
+    ]
+}

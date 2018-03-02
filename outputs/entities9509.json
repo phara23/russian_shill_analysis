@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.640979528427124,
+            "Type": "PERSON",
+            "Text": "@MoveOn",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9594963788986206,
+            "Type": "OTHER",
+            "Text": "https://t.co/yM",
+            "BeginOffset": 128,
+            "EndOffset": 143
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.983797013759613,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 0,
+            "EndOffset": 3
+        },
+        {
+            "Score": 0.9888430833816528,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 10,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.500176727771759,
+            "Type": "QUANTITY",
+            "Text": "00M",
+            "BeginOffset": 37,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.5409216284751892,
+            "Type": "LOCATION",
+            "Text": "Iran",
+            "BeginOffset": 52,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9090725779533386,
+            "Type": "OTHER",
+            "Text": "https://t.co/HGS6lbPLIN",
+            "BeginOffset": 57,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.4820202887058258,
+            "Type": "ORGANIZATION",
+            "Text": "#news",
+            "BeginOffset": 81,
+            "EndOffset": 86
+        }
+    ]
+}

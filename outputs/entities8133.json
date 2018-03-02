@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9518343210220337,
+            "Type": "PERSON",
+            "Text": "@Michael_0000",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8548241853713989,
+            "Type": "OTHER",
+            "Text": "https://t.co/egQOvgN6LN",
+            "BeginOffset": 83,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.9999589920043945,
+            "Type": "OTHER",
+            "Text": "https://t.co/6O4cjqWoUt",
+            "BeginOffset": 107,
+            "EndOffset": 130
+        }
+    ]
+}

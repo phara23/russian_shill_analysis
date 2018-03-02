@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.918519914150238,
+            "Type": "PERSON",
+            "Text": "@AziDDS97",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8416095972061157,
+            "Type": "PERSON",
+            "Text": "@FoxNewsInsider",
+            "BeginOffset": 14,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.940022885799408,
+            "Type": "PERSON",
+            "Text": "@TuckerCarlson",
+            "BeginOffset": 30,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9952149391174316,
+            "Type": "TITLE",
+            "Text": "Obamacare",
+            "BeginOffset": 90,
+            "EndOffset": 99
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8615508675575256,
+            "Type": "EVENT",
+            "Text": "Democratic National Convention Day 3",
+            "BeginOffset": 12,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9780105948448181,
+            "Type": "OTHER",
+            "Text": "https://t.co/3xehF4chsn",
+            "BeginOffset": 49,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.6006307601928711,
+            "Type": "ORGANIZATION",
+            "Text": "#news",
+            "BeginOffset": 73,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.972269594669342,
+            "Type": "OTHER",
+            "Text": "https://t.co/KRZbjH9cFM",
+            "BeginOffset": 81,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.9999902248382568,
+            "Type": "OTHER",
+            "Text": "https://t.co/GGLMPxNMTf",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        }
+    ]
+}

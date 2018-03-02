@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9157126545906067,
+            "Type": "PERSON",
+            "Text": "@Porkjack",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9818196296691895,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 118,
+            "EndOffset": 122
+        }
+    ]
+}

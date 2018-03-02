@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7874000668525696,
+            "Type": "PERSON",
+            "Text": "@TheOnion",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8154449462890625,
+            "Type": "QUANTITY",
+            "Text": "Three-Tier Urinal Cake",
+            "BeginOffset": 37,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.8337448835372925,
+            "Type": "OTHER",
+            "Text": "https://t.co/ZUji7FJgFA",
+            "BeginOffset": 60,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.999956488609314,
+            "Type": "OTHER",
+            "Text": "https://t.co/5rUUFTXham",
+            "BeginOffset": 84,
+            "EndOffset": 107
+        }
+    ]
+}

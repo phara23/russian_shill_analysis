@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8334645628929138,
+            "Type": "PERSON",
+            "Text": "@NitrateDiva",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9586905241012573,
+            "Type": "TITLE",
+            "Text": "DECOY",
+            "BeginOffset": 51,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9936521053314209,
+            "Type": "DATE",
+            "Text": "1946",
+            "BeginOffset": 58,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.952075183391571,
+            "Type": "TITLE",
+            "Text": "THE DARK MIRROR",
+            "BeginOffset": 64,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.9950734972953796,
+            "Type": "DATE",
+            "Text": "1946",
+            "BeginOffset": 81,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.9936090707778931,
+            "Type": "DATE",
+            "Text": "1947",
+            "BeginOffset": 111,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.8438472747802734,
+            "Type": "TITLE",
+            "Text": "THE BLUE GARDENIA",
+            "BeginOffset": 117,
+            "EndOffset": 134
+        }
+    ]
+}

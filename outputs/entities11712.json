@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8644238114356995,
+            "Type": "PERSON",
+            "Text": "@oliverbcampbell",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.7568919062614441,
+            "Type": "QUANTITY",
+            "Text": "One presidential candidate",
+            "BeginOffset": 25,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.8131563663482666,
+            "Type": "PERSON",
+            "Text": "FORMER PRESIDENT",
+            "BeginOffset": 54,
+            "EndOffset": 70
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9064803719520569,
+            "Type": "PERSON",
+            "Text": "@JBaileysMom",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.4427715539932251,
+            "Type": "PERSON",
+            "Text": "#TedCruz",
+            "BeginOffset": 71,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.9999161958694458,
+            "Type": "OTHER",
+            "Text": "https://t.co/8DL9Bys2Mw",
+            "BeginOffset": 80,
+            "EndOffset": 103
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6846509575843811,
+            "Type": "PERSON",
+            "Text": "@NewsTodayUS",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.6010154485702515,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 34,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.6161934733390808,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 59,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.6262252926826477,
+            "Type": "QUANTITY",
+            "Text": "Millions",
+            "BeginOffset": 76,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.909213662147522,
+            "Type": "OTHER",
+            "Text": "https://t.co/3Cbq8sSjam",
+            "BeginOffset": 85,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.9999710321426392,
+            "Type": "OTHER",
+            "Text": "https://t.co/5XBSi1ouRy",
+            "BeginOffset": 109,
+            "EndOffset": 132
+        }
+    ]
+}

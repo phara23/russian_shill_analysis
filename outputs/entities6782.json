@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.753654420375824,
+            "Type": "PERSON",
+            "Text": "@97Musick",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.869128406047821,
+            "Type": "PERSON",
+            "Text": "@nsroundtable",
+            "BeginOffset": 14,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9663853049278259,
+            "Type": "PERSON",
+            "Text": "@JudgeMoroz",
+            "BeginOffset": 28,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.8243696093559265,
+            "Type": "PERSON",
+            "Text": "@atestafyr",
+            "BeginOffset": 40,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.932669460773468,
+            "Type": "PERSON",
+            "Text": "Reagan",
+            "BeginOffset": 68,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9897536039352417,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 90,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.985363245010376,
+            "Type": "DATE",
+            "Text": "today",
+            "BeginOffset": 96,
+            "EndOffset": 101
+        }
+    ]
+}

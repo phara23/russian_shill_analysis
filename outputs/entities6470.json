@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8644928336143494,
+            "Type": "PERSON",
+            "Text": "@RavenHUWolf",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8201260566711426,
+            "Type": "PERSON",
+            "Text": "Mayor BOOED",
+            "BeginOffset": 27,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9638055562973022,
+            "Type": "OTHER",
+            "Text": "https://t.co/Ze0RFfCFk8",
+            "BeginOffset": 111,
+            "EndOffset": 134
+        }
+    ]
+}

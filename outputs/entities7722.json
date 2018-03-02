@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9148272275924683,
+            "Type": "PERSON",
+            "Text": "@tjemery1",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.997515082359314,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 97,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.9687105417251587,
+            "Type": "PERSON",
+            "Text": "@Youxia88",
+            "BeginOffset": 109,
+            "EndOffset": 118
+        },
+        {
+            "Score": 0.9011216163635254,
+            "Type": "PERSON",
+            "Text": "@c3t1p99",
+            "BeginOffset": 119,
+            "EndOffset": 127
+        }
+    ]
+}

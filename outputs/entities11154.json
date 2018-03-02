@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.915336549282074,
+            "Type": "PERSON",
+            "Text": "@BrianStankich",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8665736317634583,
+            "Type": "ORGANIZATION",
+            "Text": "Broncos",
+            "BeginOffset": 19,
+            "EndOffset": 26
+        }
+    ]
+}

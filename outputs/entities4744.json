@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8581992983818054,
+            "Type": "PERSON",
+            "Text": "@HedvigKrook",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9368419051170349,
+            "Type": "PERSON",
+            "Text": "@HedvigKrook",
+            "BeginOffset": 17,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9987891316413879,
+            "Type": "PERSON",
+            "Text": "Mattias Karlsson",
+            "BeginOffset": 30,
+            "EndOffset": 46
+        }
+    ]
+}

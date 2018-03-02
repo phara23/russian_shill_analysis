@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7801856994628906,
+            "Type": "PERSON",
+            "Text": "@DStugen",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.498135507106781,
+            "Type": "QUANTITY",
+            "Text": "one",
+            "BeginOffset": 67,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9998243451118469,
+            "Type": "OTHER",
+            "Text": "https://t.co/XLPyhAZ2LT",
+            "BeginOffset": 88,
+            "EndOffset": 111
+        }
+    ]
+}

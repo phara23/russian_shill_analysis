@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8836706876754761,
+            "Type": "PERSON",
+            "Text": "@LahdeeDot",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9994933009147644,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 37,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9698006510734558,
+            "Type": "PERSON",
+            "Text": "Don Sticky",
+            "BeginOffset": 78,
+            "EndOffset": 88
+        }
+    ]
+}

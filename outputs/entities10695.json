@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7719884514808655,
+            "Type": "ORGANIZATION",
+            "Text": "@facebook",
+            "BeginOffset": 0,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.8456831574440002,
+            "Type": "ORGANIZATION",
+            "Text": "@Blklivesmatter",
+            "BeginOffset": 47,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9951127171516418,
+            "Type": "ORGANIZATION",
+            "Text": "Facebook",
+            "BeginOffset": 63,
+            "EndOffset": 71
+        }
+    ]
+}

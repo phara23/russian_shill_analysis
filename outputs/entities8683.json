@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9504052996635437,
+            "Type": "PERSON",
+            "Text": "@charley_ck14",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.931360125541687,
+            "Type": "PERSON",
+            "Text": "@KeshaTedder",
+            "BeginOffset": 18,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9999133348464966,
+            "Type": "OTHER",
+            "Text": "https://t.co/h6VSgUVGvZ",
+            "BeginOffset": 93,
+            "EndOffset": 116
+        }
+    ]
+}

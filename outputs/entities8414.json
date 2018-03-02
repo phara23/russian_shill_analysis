@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5307989716529846,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8399838209152222,
+            "Type": "ORGANIZATION",
+            "Text": "@TEN_GOP",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9268963932991028,
+            "Type": "PERSON",
+            "Text": "Martin Luther King Jr.",
+            "BeginOffset": 16,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9898259043693542,
+            "Type": "DATE",
+            "Text": "today",
+            "BeginOffset": 49,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.762974202632904,
+            "Type": "ORGANIZATION",
+            "Text": "Black Lives Matter",
+            "BeginOffset": 75,
+            "EndOffset": 93
+        }
+    ]
+}

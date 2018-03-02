@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8439018130302429,
+            "Type": "PERSON",
+            "Text": "@HlLLARYCLINT0N",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9989826083183289,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 81,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.6382089853286743,
+            "Type": "QUANTITY",
+            "Text": "08 campaign",
+            "BeginOffset": 126,
+            "EndOffset": 137
+        }
+    ]
+}

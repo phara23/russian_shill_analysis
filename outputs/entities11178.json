@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8553816080093384,
+            "Type": "PERSON",
+            "Text": "@edfomeara",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8408533334732056,
+            "Type": "LOCATION",
+            "Text": "Middle East",
+            "BeginOffset": 60,
+            "EndOffset": 71
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9977779984474182,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.32394537329673767,
+            "Type": "ORGANIZATION",
+            "Text": "Christian",
+            "BeginOffset": 31,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9747235178947449,
+            "Type": "OTHER",
+            "Text": "https://t.co/4yTsJcsMK3",
+            "BeginOffset": 48,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9383201003074646,
+            "Type": "OTHER",
+            "Text": "https://t.co/4FYGAqL4oP",
+            "BeginOffset": 74,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.9998905658721924,
+            "Type": "OTHER",
+            "Text": "https://t.co/PMWN9plFqL",
+            "BeginOffset": 98,
+            "EndOffset": 121
+        }
+    ]
+}

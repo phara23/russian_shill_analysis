@@ -1,0 +1,67 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7602981328964233,
+            "Type": "PERSON",
+            "Text": "@SkySportsNewsHQ",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9977471232414246,
+            "Type": "PERSON",
+            "Text": "Serena Williams",
+            "BeginOffset": 31,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.6361769437789917,
+            "Type": "OTHER",
+            "Text": "Australian",
+            "BeginOffset": 52,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.8762722015380859,
+            "Type": "QUANTITY",
+            "Text": "6",
+            "BeginOffset": 73,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9691364765167236,
+            "Type": "QUANTITY",
+            "Text": "4",
+            "BeginOffset": 75,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.9914113283157349,
+            "Type": "QUANTITY",
+            "Text": "6",
+            "BeginOffset": 77,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.9579847455024719,
+            "Type": "QUANTITY",
+            "Text": "4",
+            "BeginOffset": 79,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.9822461605072021,
+            "Type": "PERSON",
+            "Text": "Venus Williams",
+            "BeginOffset": 97,
+            "EndOffset": 111
+        },
+        {
+            "Score": 0.44979792833328247,
+            "Type": "ORGANIZATION",
+            "Text": "#SSNHQ",
+            "BeginOffset": 113,
+            "EndOffset": 119
+        }
+    ]
+}

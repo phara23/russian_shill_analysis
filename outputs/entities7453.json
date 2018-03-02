@@ -1,0 +1,81 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5487341284751892,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8661575317382812,
+            "Type": "PERSON",
+            "Text": "@Delo_Taylor",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9094862937927246,
+            "Type": "PERSON",
+            "Text": "@MuseWendi",
+            "BeginOffset": 22,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9878307580947876,
+            "Type": "PERSON",
+            "Text": "@Nyerere_Jerry",
+            "BeginOffset": 33,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.8924304246902466,
+            "Type": "PERSON",
+            "Text": "@PenofUmar",
+            "BeginOffset": 48,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9580891132354736,
+            "Type": "PERSON",
+            "Text": "@UR_Ninja",
+            "BeginOffset": 59,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9757822155952454,
+            "Type": "PERSON",
+            "Text": "@micamaryjane",
+            "BeginOffset": 69,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.9542285799980164,
+            "Type": "PERSON",
+            "Text": "@Virtuous_Queen_",
+            "BeginOffset": 83,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.9384732842445374,
+            "Type": "PERSON",
+            "Text": "@SandersFirmPC",
+            "BeginOffset": 100,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.9744945168495178,
+            "Type": "PERSON",
+            "Text": "@HassanIstiila",
+            "BeginOffset": 115,
+            "EndOffset": 129
+        },
+        {
+            "Score": 0.9624666571617126,
+            "Type": "PERSON",
+            "Text": "@mehdirha",
+            "BeginOffset": 130,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8446359634399414,
+            "Type": "PERSON",
+            "Text": "@USFreedomArmy",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.985405445098877,
+            "Type": "PERSON",
+            "Text": "Jay",
+            "BeginOffset": 23,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9916725158691406,
+            "Type": "LOCATION",
+            "Text": "Capitol Hill",
+            "BeginOffset": 70,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.9653170704841614,
+            "Type": "OTHER",
+            "Text": "https://t.co/oSPeY3QMpH",
+            "BeginOffset": 102,
+            "EndOffset": 125
+        }
+    ]
+}

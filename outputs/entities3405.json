@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8650234341621399,
+            "Type": "PERSON",
+            "Text": "@TimRunsHisMouth",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9992295503616333,
+            "Type": "PERSON",
+            "Text": "Michelle Obama",
+            "BeginOffset": 40,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.999175488948822,
+            "Type": "PERSON",
+            "Text": "Bill Clinton",
+            "BeginOffset": 60,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.99812251329422,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 91,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.6895021796226501,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 130,
+            "EndOffset": 139
+        }
+    ]
+}

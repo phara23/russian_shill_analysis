@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.950170636177063,
+            "Type": "PERSON",
+            "Text": "@LindaSuhler",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9880383014678955,
+            "Type": "PERSON",
+            "Text": "Mike Pence",
+            "BeginOffset": 23,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.7031068801879883,
+            "Type": "DATE",
+            "Text": "TODAY",
+            "BeginOffset": 44,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.8316795825958252,
+            "Type": "LOCATION",
+            "Text": "Mason City, IA",
+            "BeginOffset": 57,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.8711808919906616,
+            "Type": "DATE",
+            "Text": "3 PM",
+            "BeginOffset": 72,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.4390571415424347,
+            "Type": "QUANTITY",
+            "Text": "16",
+            "BeginOffset": 91,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.9597568511962891,
+            "Type": "OTHER",
+            "Text": "https://t.co/uX8Ruf",
+            "BeginOffset": 120,
+            "EndOffset": 139
+        }
+    ]
+}

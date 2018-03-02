@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7489417195320129,
+            "Type": "PERSON",
+            "Text": "@VoteGreen2",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.841332197189331,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 35,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.8328889012336731,
+            "Type": "PERSON",
+            "Text": "President Trump",
+            "BeginOffset": 66,
+            "EndOffset": 81
+        }
+    ]
+}

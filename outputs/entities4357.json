@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8253751993179321,
+            "Type": "PERSON",
+            "Text": "@DCClothesline",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9155212640762329,
+            "Type": "LOCATION",
+            "Text": "Texas",
+            "BeginOffset": 19,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9997444748878479,
+            "Type": "PERSON",
+            "Text": "Sarah Eckhardt",
+            "BeginOffset": 31,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.854788064956665,
+            "Type": "OTHER",
+            "Text": "https://t.co/6ZINnUgZnT",
+            "BeginOffset": 82,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.9998595714569092,
+            "Type": "OTHER",
+            "Text": "https://t.co/uwmrpiRSLF",
+            "BeginOffset": 106,
+            "EndOffset": 129
+        }
+    ]
+}

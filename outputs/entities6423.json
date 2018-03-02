@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9293910264968872,
+            "Type": "PERSON",
+            "Text": "@jayzzlyrics",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9145483374595642,
+            "Type": "OTHER",
+            "Text": "https://t.co/3UCdpeo26w",
+            "BeginOffset": 54,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9999749660491943,
+            "Type": "OTHER",
+            "Text": "https://t.co/r1T5Ah9bpM",
+            "BeginOffset": 78,
+            "EndOffset": 101
+        }
+    ]
+}

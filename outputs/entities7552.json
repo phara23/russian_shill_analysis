@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8983573913574219,
+            "Type": "PERSON",
+            "Text": "@DanODradio",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7958403825759888,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 61,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.9658209681510925,
+            "Type": "OTHER",
+            "Text": "https://t.co/ZHv",
+            "BeginOffset": 123,
+            "EndOffset": 139
+        }
+    ]
+}

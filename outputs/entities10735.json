@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.48988309502601624,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.89420485496521,
+            "Type": "PERSON",
+            "Text": "@Maximus_Paulus",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7479621171951294,
+            "Type": "PERSON",
+            "Text": "@AMTrump4PRES",
+            "BeginOffset": 20,
+            "EndOffset": 33
+        }
+    ]
+}

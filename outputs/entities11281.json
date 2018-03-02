@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9854389429092407,
+            "Type": "DATE",
+            "Text": "today",
+            "BeginOffset": 18,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9863340258598328,
+            "Type": "DATE",
+            "Text": "today",
+            "BeginOffset": 49,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9943062663078308,
+            "Type": "DATE",
+            "Text": "tomorrow",
+            "BeginOffset": 68,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.9961168766021729,
+            "Type": "PERSON",
+            "Text": "William James",
+            "BeginOffset": 101,
+            "EndOffset": 114
+        }
+    ]
+}

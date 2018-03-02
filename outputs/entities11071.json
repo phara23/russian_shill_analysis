@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9137510061264038,
+            "Type": "PERSON",
+            "Text": "@SecularScarlet",
+            "BeginOffset": 0,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8847095370292664,
+            "Type": "PERSON",
+            "Text": "@stillhumane",
+            "BeginOffset": 16,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9771778583526611,
+            "Type": "ORGANIZATION",
+            "Text": "CNN",
+            "BeginOffset": 29,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9968544840812683,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 99,
+            "EndOffset": 106
+        }
+    ]
+}

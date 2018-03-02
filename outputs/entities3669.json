@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5622308850288391,
+            "Type": "OTHER",
+            "Text": "Cuban",
+            "BeginOffset": 4,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.6641641855239868,
+            "Type": "PERSON",
+            "Text": "@midnight",
+            "BeginOffset": 49,
+            "EndOffset": 58
+        }
+    ]
+}

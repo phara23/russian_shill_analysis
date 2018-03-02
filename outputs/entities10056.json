@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9393171668052673,
+            "Type": "PERSON",
+            "Text": "@AndyHashtagger",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9969051480293274,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 57,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9242724180221558,
+            "Type": "LOCATION",
+            "Text": "China",
+            "BeginOffset": 78,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.9999909400939941,
+            "Type": "OTHER",
+            "Text": "https://t.co/DQOqGXWO0E",
+            "BeginOffset": 84,
+            "EndOffset": 107
+        }
+    ]
+}

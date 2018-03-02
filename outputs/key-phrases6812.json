@@ -1,0 +1,40 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.5369186997413635,
+            "Text": "34 dead",
+            "BeginOffset": 0,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.9948093891143799,
+            "Text": "explosions",
+            "BeginOffset": 14,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.998936653137207,
+            "Text": "the airport",
+            "BeginOffset": 28,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9954527020454407,
+            "Text": "the metro",
+            "BeginOffset": 44,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9959861040115356,
+            "Text": "#Brussels",
+            "BeginOffset": 57,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9066798090934753,
+            "Text": "terrorists",
+            "BeginOffset": 99,
+            "EndOffset": 109
+        }
+    ]
+}

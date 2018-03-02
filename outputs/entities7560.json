@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9564105868339539,
+            "Type": "PERSON",
+            "Text": "@KellyannePolls",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8689888119697571,
+            "Type": "TITLE",
+            "Text": "TPP",
+            "BeginOffset": 72,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.9972134232521057,
+            "Type": "DATE",
+            "Text": "2002",
+            "BeginOffset": 107,
+            "EndOffset": 111
+        },
+        {
+            "Score": 0.9094221591949463,
+            "Type": "PERSON",
+            "Text": "@billclinton",
+            "BeginOffset": 117,
+            "EndOffset": 129
+        }
+    ]
+}

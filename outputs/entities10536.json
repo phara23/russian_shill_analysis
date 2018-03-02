@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8191961050033569,
+            "Type": "PERSON",
+            "Text": "@TeamMarcoRubio",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.3490004241466522,
+            "Type": "ORGANIZATION",
+            "Text": "#TedCruzLies",
+            "BeginOffset": 20,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9999563694000244,
+            "Type": "OTHER",
+            "Text": "https://t.co/oA5wswqb7s",
+            "BeginOffset": 33,
+            "EndOffset": 56
+        }
+    ]
+}

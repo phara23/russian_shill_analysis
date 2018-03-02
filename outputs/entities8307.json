@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5117557048797607,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8159013390541077,
+            "Type": "ORGANIZATION",
+            "Text": "@ElPaso_Post",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9837815761566162,
+            "Type": "TITLE",
+            "Text": "Batman v Superman: Dawn of Justice",
+            "BeginOffset": 52,
+            "EndOffset": 86
+        }
+    ]
+}

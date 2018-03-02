@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9321380853652954,
+            "Type": "PERSON",
+            "Text": "@WayneDupreeShow",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9957186579704285,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 46,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.4951237142086029,
+            "Type": "PERSON",
+            "Text": "#HillaryClinton",
+            "BeginOffset": 60,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.9695053100585938,
+            "Type": "DATE",
+            "Text": "9/11",
+            "BeginOffset": 133,
+            "EndOffset": 137
+        }
+    ]
+}

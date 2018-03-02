@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8934599757194519,
+            "Type": "PERSON",
+            "Text": "@sunbeltgirl",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.4382476806640625,
+            "Type": "ORGANIZATION",
+            "Text": "#FCA",
+            "BeginOffset": 113,
+            "EndOffset": 117
+        },
+        {
+            "Score": 0.9656179547309875,
+            "Type": "OTHER",
+            "Text": "https://t.co/CDjdxjD6",
+            "BeginOffset": 118,
+            "EndOffset": 139
+        }
+    ]
+}

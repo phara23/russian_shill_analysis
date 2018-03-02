@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9667246341705322,
+            "Type": "PERSON",
+            "Text": "@chrissy_hut",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.6832200288772583,
+            "Type": "QUANTITY",
+            "Text": "3Words",
+            "BeginOffset": 55,
+            "EndOffset": 61
+        }
+    ]
+}

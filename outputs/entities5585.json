@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9407705664634705,
+            "Type": "PERSON",
+            "Text": "@ithrah69",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9862015843391418,
+            "Type": "DATE",
+            "Text": "2017",
+            "BeginOffset": 37,
+            "EndOffset": 41
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9964072108268738,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9580026865005493,
+            "Type": "ORGANIZATION",
+            "Text": "Democrats",
+            "BeginOffset": 7,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9018276929855347,
+            "Type": "OTHER",
+            "Text": "African-Americans",
+            "BeginOffset": 44,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.5114622712135315,
+            "Type": "OTHER",
+            "Text": "https://t.co/R5CPmEK6kp",
+            "BeginOffset": 62,
+            "EndOffset": 85
+        }
+    ]
+}

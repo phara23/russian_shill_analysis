@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.927609920501709,
+            "Type": "PERSON",
+            "Text": "@Trumptbird",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.885275661945343,
+            "Type": "QUANTITY",
+            "Text": "2,495",
+            "BeginOffset": 16,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.7404676675796509,
+            "Type": "PERSON",
+            "Text": "Giorgio Armani",
+            "BeginOffset": 34,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.99820876121521,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 56,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.943522572517395,
+            "Type": "LOCATION",
+            "Text": "New York",
+            "BeginOffset": 76,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9976522326469421,
+            "Type": "DATE",
+            "Text": "April",
+            "BeginOffset": 111,
+            "EndOffset": 116
+        }
+    ]
+}

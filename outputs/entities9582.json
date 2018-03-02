@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9504275321960449,
+            "Type": "QUANTITY",
+            "Text": "Four reasons",
+            "BeginOffset": 0,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9979856610298157,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 39,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9996330738067627,
+            "Type": "OTHER",
+            "Text": "https://t.co/ioW9qZ7ETQ",
+            "BeginOffset": 82,
+            "EndOffset": 105
+        }
+    ]
+}

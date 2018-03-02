@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8431437015533447,
+            "Type": "PERSON",
+            "Text": "@carolehers",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.6792420148849487,
+            "Type": "ORGANIZATION",
+            "Text": "HRC",
+            "BeginOffset": 23,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.5989699959754944,
+            "Type": "QUANTITY",
+            "Text": "2 Chelsea",
+            "BeginOffset": 30,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.7226731777191162,
+            "Type": "QUANTITY",
+            "Text": "2 kids",
+            "BeginOffset": 42,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9992769360542297,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 71,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9159961342811584,
+            "Type": "QUANTITY",
+            "Text": "9 questions",
+            "BeginOffset": 103,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.9885331392288208,
+            "Type": "OTHER",
+            "Text": "https://t.co/z2neKSSSB3",
+            "BeginOffset": 116,
+            "EndOffset": 139
+        }
+    ]
+}

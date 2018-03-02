@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8230226039886475,
+            "Type": "PERSON",
+            "Text": "@theinquisitr",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8248053789138794,
+            "Type": "PERSON",
+            "Text": "Elijah Ahmad Lewis",
+            "BeginOffset": 18,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9944029450416565,
+            "Type": "ORGANIZATION",
+            "Text": "Facebook",
+            "BeginOffset": 37,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.8628204464912415,
+            "Type": "QUANTITY",
+            "Text": "Up To 87,000 Views",
+            "BeginOffset": 52,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.6634551882743835,
+            "Type": "ORGANIZATION",
+            "Text": "Reno Police",
+            "BeginOffset": 72,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.8906729221343994,
+            "Type": "OTHER",
+            "Text": "https://t.c",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

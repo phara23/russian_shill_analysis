@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.99831622838974,
+            "Type": "PERSON",
+            "Text": "Nikki Haley",
+            "BeginOffset": 14,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9968603849411011,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 46,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9764124155044556,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 57,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9780731797218323,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 72,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9999090433120728,
+            "Type": "OTHER",
+            "Text": "https://t.co/U2jarwU9i1",
+            "BeginOffset": 79,
+            "EndOffset": 102
+        }
+    ]
+}

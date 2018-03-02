@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.819852352142334,
+            "Type": "PERSON",
+            "Text": "@BlackToLive",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9598624110221863,
+            "Type": "LOCATION",
+            "Text": "NY",
+            "BeginOffset": 23,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.8463603854179382,
+            "Type": "QUANTITY",
+            "Text": "66 years old",
+            "BeginOffset": 71,
+            "EndOffset": 83
+        }
+    ]
+}

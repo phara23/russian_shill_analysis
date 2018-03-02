@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6679728031158447,
+            "Type": "PERSON",
+            "Text": "@BoingBoing",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9989714026451111,
+            "Type": "PERSON",
+            "Text": "Carrie Fisher",
+            "BeginOffset": 16,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9965262413024902,
+            "Type": "PERSON",
+            "Text": "Debbie Reynolds",
+            "BeginOffset": 50,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.6619389057159424,
+            "Type": "QUANTITY",
+            "Text": "both",
+            "BeginOffset": 84,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9998668432235718,
+            "Type": "OTHER",
+            "Text": "https://t.co/ucp9YGgGRz",
+            "BeginOffset": 104,
+            "EndOffset": 127
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.877765417098999,
+            "Type": "PERSON",
+            "Text": "@sunbeltgirl",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9801446199417114,
+            "Type": "DATE",
+            "Text": "2012",
+            "BeginOffset": 30,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.931799590587616,
+            "Type": "OTHER",
+            "Text": "https://t.co/HReqp",
+            "BeginOffset": 121,
+            "EndOffset": 139
+        }
+    ]
+}

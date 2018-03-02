@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9349678754806519,
+            "Type": "PERSON",
+            "Text": "@ErinLichnovsky",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.5764854550361633,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 20,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.641605019569397,
+            "Type": "ORGANIZATION",
+            "Text": "@Only1",
+            "BeginOffset": 23,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.7667255997657776,
+            "Type": "PERSON",
+            "Text": "Jaffa",
+            "BeginOffset": 29,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.8649200797080994,
+            "Type": "OTHER",
+            "Text": "https://t.co/sqs4qvLYYy",
+            "BeginOffset": 118,
+            "EndOffset": 141
+        },
+        {
+            "Score": 0.43316206336021423,
+            "Type": "ORGANIZATION",
+            "Text": "#InHo",
+            "BeginOffset": 142,
+            "EndOffset": 147
+        }
+    ]
+}

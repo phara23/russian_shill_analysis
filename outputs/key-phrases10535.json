@@ -1,0 +1,28 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.812551736831665,
+            "Text": "DOJ",
+            "BeginOffset": 0,
+            "EndOffset": 3
+        },
+        {
+            "Score": 0.8536521196365356,
+            "Text": "prosecutors",
+            "BeginOffset": 13,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.8945729732513428,
+            "Text": "FBI agents",
+            "BeginOffset": 31,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.885423481464386,
+            "Text": "Eric Garner death investigation",
+            "BeginOffset": 54,
+            "EndOffset": 85
+        }
+    ]
+}

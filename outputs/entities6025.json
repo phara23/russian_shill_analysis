@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7717088460922241,
+            "Type": "PERSON",
+            "Text": "@ggeett37",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.864000141620636,
+            "Type": "PERSON",
+            "Text": "@gerfingerpoken",
+            "BeginOffset": 20,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9805207252502441,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 37,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.5759039521217346,
+            "Type": "LOCATION",
+            "Text": "Iraq",
+            "BeginOffset": 52,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.41292110085487366,
+            "Type": "PERSON",
+            "Text": "Bush",
+            "BeginOffset": 69,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.9173538088798523,
+            "Type": "OTHER",
+            "Text": "https://t.co/vJCc09ENM5",
+            "BeginOffset": 83,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.9399092197418213,
+            "Type": "OTHER",
+            "Text": "https://t.co/uISHUsp0TG",
+            "BeginOffset": 107,
+            "EndOffset": 130
+        },
+        {
+            "Score": 0.3729690909385681,
+            "Type": "ORGANIZATION",
+            "Text": "#PJNET",
+            "BeginOffset": 131,
+            "EndOffset": 137
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6739987730979919,
+            "Type": "ORGANIZATION",
+            "Text": "@GPN14",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9984331727027893,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 11,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.8395758867263794,
+            "Type": "LOCATION",
+            "Text": "Philadelphia",
+            "BeginOffset": 66,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.9997518658638,
+            "Type": "OTHER",
+            "Text": "https://t.co/EJArPYhluo",
+            "BeginOffset": 108,
+            "EndOffset": 131
+        }
+    ]
+}

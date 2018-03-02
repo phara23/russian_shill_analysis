@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8475785851478577,
+            "Type": "PERSON",
+            "Text": "@TeaPartyOrg",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8579294085502625,
+            "Type": "PERSON",
+            "Text": "Farrakhan",
+            "BeginOffset": 17,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9974467754364014,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 30,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9975066781044006,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 41,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.999957799911499,
+            "Type": "OTHER",
+            "Text": "https://t.co/at3aSI3rSD",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        }
+    ]
+}

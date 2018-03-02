@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8951992392539978,
+            "Type": "PERSON",
+            "Text": "Will Trump",
+            "BeginOffset": 4,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.5139312148094177,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 16,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9859309196472168,
+            "Type": "QUANTITY",
+            "Text": "2.9%",
+            "BeginOffset": 29,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.7149782776832581,
+            "Type": "LOCATION",
+            "Text": "U.S.",
+            "BeginOffset": 34,
+            "EndOffset": 38
+        }
+    ]
+}

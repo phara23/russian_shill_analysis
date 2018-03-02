@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8988378643989563,
+            "Type": "PERSON",
+            "Text": "@MelvinSRoberts",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9885657429695129,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 99,
+            "EndOffset": 104
+        }
+    ]
+}

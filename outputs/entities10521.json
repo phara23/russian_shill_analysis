@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9040220975875854,
+            "Type": "PERSON",
+            "Text": "@MikePenceVP",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9971771240234375,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 67,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9998643398284912,
+            "Type": "OTHER",
+            "Text": "https://t.co/c3AYUNRWZ9",
+            "BeginOffset": 78,
+            "EndOffset": 101
+        }
+    ]
+}

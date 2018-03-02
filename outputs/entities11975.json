@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5748248100280762,
+            "Type": "ORGANIZATION",
+            "Text": "@100",
+            "BeginOffset": 3,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.7848421335220337,
+            "Type": "LOCATION",
+            "Text": "CA",
+            "BeginOffset": 89,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.9999440908432007,
+            "Type": "OTHER",
+            "Text": "https://t.co/96GyjsS0et",
+            "BeginOffset": 92,
+            "EndOffset": 115
+        }
+    ]
+}

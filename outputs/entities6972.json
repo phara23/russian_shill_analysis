@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9844123721122742,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 20,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9491801261901855,
+            "Type": "LOCATION",
+            "Text": "United States",
+            "BeginOffset": 50,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9989684224128723,
+            "Type": "PERSON",
+            "Text": "David G. Arredondo",
+            "BeginOffset": 65,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.7769625782966614,
+            "Type": "OTHER",
+            "Text": "https://t.co/FVvZ9okJo6",
+            "BeginOffset": 94,
+            "EndOffset": 117
+        }
+    ]
+}

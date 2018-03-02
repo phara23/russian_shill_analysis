@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8984882831573486,
+            "Type": "PERSON",
+            "Text": "@allabouttrump",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9782007932662964,
+            "Type": "OTHER",
+            "Text": "https://t.co/drYbXRcG5h",
+            "BeginOffset": 91,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.9492137432098389,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 132,
+            "EndOffset": 139
+        }
+    ]
+}

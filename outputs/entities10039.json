@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8864894509315491,
+            "Type": "PERSON",
+            "Text": "@AmericanMex067",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8874735832214355,
+            "Type": "PERSON",
+            "Text": "@hillaryclinton",
+            "BeginOffset": 47,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9996323585510254,
+            "Type": "OTHER",
+            "Text": "https://t.co/GeEsSEe5dw",
+            "BeginOffset": 89,
+            "EndOffset": 112
+        }
+    ]
+}

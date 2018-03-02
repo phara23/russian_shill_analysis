@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8406863212585449,
+            "Type": "PERSON",
+            "Text": "@toddstarnes",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9836987257003784,
+            "Type": "ORGANIZATION",
+            "Text": "CBS",
+            "BeginOffset": 28,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.789091944694519,
+            "Type": "PERSON",
+            "Text": "@tedcruz",
+            "BeginOffset": 49,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9772975444793701,
+            "Type": "DATE",
+            "Text": "tonight",
+            "BeginOffset": 58,
+            "EndOffset": 65
+        }
+    ]
+}

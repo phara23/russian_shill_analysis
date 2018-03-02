@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7697812914848328,
+            "Type": "PERSON",
+            "Text": "@BIZPACReview",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9358296990394592,
+            "Type": "PERSON",
+            "Text": "President Trump",
+            "BeginOffset": 18,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.8101558685302734,
+            "Type": "LOCATION",
+            "Text": "Mexico",
+            "BeginOffset": 65,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.807382345199585,
+            "Type": "OTHER",
+            "Text": "https://t.co/naxVWrDE7K",
+            "BeginOffset": 92,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.9998759031295776,
+            "Type": "OTHER",
+            "Text": "https://t.co/YYSoHaghUM",
+            "BeginOffset": 116,
+            "EndOffset": 139
+        }
+    ]
+}

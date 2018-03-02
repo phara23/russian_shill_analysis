@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8479060530662537,
+            "Type": "PERSON",
+            "Text": "@CherylBPR",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.7074863314628601,
+            "Type": "LOCATION",
+            "Text": "Dallas",
+            "BeginOffset": 21,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9871279001235962,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 50,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9976664781570435,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 59,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.8750004172325134,
+            "Type": "OTHER",
+            "Text": "https://t.co/quFcOQ9Rkd",
+            "BeginOffset": 108,
+            "EndOffset": 131
+        }
+    ]
+}

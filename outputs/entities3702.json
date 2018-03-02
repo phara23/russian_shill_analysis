@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7937880158424377,
+            "Type": "PERSON",
+            "Text": "@TPoliticmanager",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.6035641431808472,
+            "Type": "ORGANIZATION",
+            "Text": "DC Explosion",
+            "BeginOffset": 46,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9941951632499695,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 70,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.9406946897506714,
+            "Type": "OTHER",
+            "Text": "https://t.co/2cj1fRL198",
+            "BeginOffset": 102,
+            "EndOffset": 125
+        },
+        {
+            "Score": 0.9236628413200378,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

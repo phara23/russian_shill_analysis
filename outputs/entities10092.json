@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8036958575248718,
+            "Type": "ORGANIZATION",
+            "Text": "@h8mpy",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.8485862612724304,
+            "Type": "QUANTITY",
+            "Text": "17 shoes",
+            "BeginOffset": 16,
+            "EndOffset": 24
+        }
+    ]
+}

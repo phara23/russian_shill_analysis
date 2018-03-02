@@ -1,0 +1,28 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.7404971122741699,
+            "Text": "Obama",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9957019090652466,
+            "Text": "China",
+            "BeginOffset": 14,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9810606241226196,
+            "Text": "Xi",
+            "BeginOffset": 22,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9958505630493164,
+            "Text": "South China Sea",
+            "BeginOffset": 28,
+            "EndOffset": 43
+        }
+    ]
+}

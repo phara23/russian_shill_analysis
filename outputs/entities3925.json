@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9192540645599365,
+            "Type": "PERSON",
+            "Text": "@BenHowe",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9998934268951416,
+            "Type": "OTHER",
+            "Text": "https://t.co/12hPMby5nf",
+            "BeginOffset": 17,
+            "EndOffset": 40
+        }
+    ]
+}

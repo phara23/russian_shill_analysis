@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.915283203125,
+            "Type": "PERSON",
+            "Text": "Abbott",
+            "BeginOffset": 0,
+            "EndOffset": 6
+        },
+        {
+            "Score": 0.9947644472122192,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 12,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7581161856651306,
+            "Type": "OTHER",
+            "Text": "Zika",
+            "BeginOffset": 46,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9726967811584473,
+            "Type": "LOCATION",
+            "Text": "Texas",
+            "BeginOffset": 54,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.9999842643737793,
+            "Type": "OTHER",
+            "Text": "https://t.co/u1dg2HFWIP",
+            "BeginOffset": 60,
+            "EndOffset": 83
+        }
+    ]
+}

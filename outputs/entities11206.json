@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6936971545219421,
+            "Type": "ORGANIZATION",
+            "Text": "@pH1",
+            "BeginOffset": 3,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.7571320533752441,
+            "Type": "QUANTITY",
+            "Text": "5Words",
+            "BeginOffset": 34,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.999881386756897,
+            "Type": "OTHER",
+            "Text": "https://t.co/NA0W8eUNYn",
+            "BeginOffset": 68,
+            "EndOffset": 91
+        }
+    ]
+}

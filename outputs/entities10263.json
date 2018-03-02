@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7784560322761536,
+            "Type": "PERSON",
+            "Text": "@suiko2fan2",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9187909364700317,
+            "Type": "ORGANIZATION",
+            "Text": "Wikileaks",
+            "BeginOffset": 16,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9784281849861145,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 45,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.5453184843063354,
+            "Type": "QUANTITY",
+            "Text": "2",
+            "BeginOffset": 75,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.8890085220336914,
+            "Type": "ORGANIZATION",
+            "Text": "twitter",
+            "BeginOffset": 104,
+            "EndOffset": 111
+        }
+    ]
+}

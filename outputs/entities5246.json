@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7987332940101624,
+            "Type": "PERSON",
+            "Text": "@edfomeara",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.5502198934555054,
+            "Type": "LOCATION",
+            "Text": "Nakatomi Plaza",
+            "BeginOffset": 30,
+            "EndOffset": 44
+        }
+    ]
+}

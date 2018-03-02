@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.879389226436615,
+            "Type": "PERSON",
+            "Text": "@MrsPJNET",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.6763903498649597,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 14,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9774554371833801,
+            "Type": "PERSON",
+            "Text": "@jphilman0206",
+            "BeginOffset": 17,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.505213737487793,
+            "Type": "ORGANIZATION",
+            "Text": "#TedCruz",
+            "BeginOffset": 32,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.3954911530017853,
+            "Type": "OTHER",
+            "Text": "American",
+            "BeginOffset": 84,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.9794173836708069,
+            "Type": "OTHER",
+            "Text": "https://t.co/FGThIkUamZ",
+            "BeginOffset": 101,
+            "EndOffset": 124
+        },
+        {
+            "Score": 0.3935907483100891,
+            "Type": "PERSON",
+            "Text": "#CruzCrew",
+            "BeginOffset": 125,
+            "EndOffset": 134
+        }
+    ]
+}

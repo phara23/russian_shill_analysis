@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6869173645973206,
+            "Type": "PERSON",
+            "Text": "@CoFemale",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8433994054794312,
+            "Type": "PERSON",
+            "Text": "@RepLamborn",
+            "BeginOffset": 15,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9405378103256226,
+            "Type": "PERSON",
+            "Text": "@hickforco",
+            "BeginOffset": 27,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9492864012718201,
+            "Type": "PERSON",
+            "Text": "@SenBennetCO",
+            "BeginOffset": 38,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.8252957463264465,
+            "Type": "OTHER",
+            "Text": "Syrian",
+            "BeginOffset": 70,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.9876313805580139,
+            "Type": "OTHER",
+            "Text": "https://t.co",
+            "BeginOffset": 127,
+            "EndOffset": 139
+        }
+    ]
+}

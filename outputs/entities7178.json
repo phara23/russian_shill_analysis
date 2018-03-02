@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5946442484855652,
+            "Type": "ORGANIZATION",
+            "Text": "#ISIS",
+            "BeginOffset": 4,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.5223721861839294,
+            "Type": "ORGANIZATION",
+            "Text": "#Mosul",
+            "BeginOffset": 59,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9999886751174927,
+            "Type": "OTHER",
+            "Text": "https://t.co/0XverJwPZ2",
+            "BeginOffset": 100,
+            "EndOffset": 123
+        }
+    ]
+}

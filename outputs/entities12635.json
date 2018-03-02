@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7301813960075378,
+            "Type": "PERSON",
+            "Text": "@XLNB",
+            "BeginOffset": 3,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.9833101630210876,
+            "Type": "PERSON",
+            "Text": "Mackenzie",
+            "BeginOffset": 15,
+            "EndOffset": 24
+        }
+    ]
+}

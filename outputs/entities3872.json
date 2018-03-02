@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9000073075294495,
+            "Type": "PERSON",
+            "Text": "@NahBabyNah",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9994875192642212,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 16,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9044920206069946,
+            "Type": "OTHER",
+            "Text": "https://t.co/qyXqV20hX5",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        }
+    ]
+}

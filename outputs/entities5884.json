@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8568759560585022,
+            "Type": "ORGANIZATION",
+            "Text": "@AP",
+            "BeginOffset": 3,
+            "EndOffset": 6
+        },
+        {
+            "Score": 0.7957379817962646,
+            "Type": "ORGANIZATION",
+            "Text": "Ohio State",
+            "BeginOffset": 18,
+            "EndOffset": 28
+        }
+    ]
+}

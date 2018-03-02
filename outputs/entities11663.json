@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7829073667526245,
+            "Type": "PERSON",
+            "Text": "@bodysculptorokc",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9692831635475159,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 119,
+            "EndOffset": 124
+        },
+        {
+            "Score": 0.8291130661964417,
+            "Type": "OTHER",
+            "Text": "https://t.co/l",
+            "BeginOffset": 125,
+            "EndOffset": 139
+        }
+    ]
+}

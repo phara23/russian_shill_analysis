@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7050085067749023,
+            "Type": "PERSON",
+            "Text": "@BuzzFeedNews",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7130401730537415,
+            "Type": "LOCATION",
+            "Text": "Hawaii",
+            "BeginOffset": 18,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9391003847122192,
+            "Type": "QUANTITY",
+            "Text": "3 feet",
+            "BeginOffset": 38,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.8522398471832275,
+            "Type": "OTHER",
+            "Text": "https://t.co/OghsETFLg1",
+            "BeginOffset": 91,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.9999873638153076,
+            "Type": "OTHER",
+            "Text": "https://t.co/HQ1fJvmTTq",
+            "BeginOffset": 115,
+            "EndOffset": 138
+        }
+    ]
+}

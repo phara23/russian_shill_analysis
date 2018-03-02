@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9474338889122009,
+            "Type": "PERSON",
+            "Text": "@zellieimani",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.5541717410087585,
+            "Type": "ORGANIZATION",
+            "Text": "BLM",
+            "BeginOffset": 21,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.5315059423446655,
+            "Type": "LOCATION",
+            "Text": "NJ",
+            "BeginOffset": 25,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9814861416816711,
+            "Type": "OTHER",
+            "Text": "https://t.co",
+            "BeginOffset": 131,
+            "EndOffset": 143
+        }
+    ]
+}

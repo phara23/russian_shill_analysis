@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8799540996551514,
+            "Type": "ORGANIZATION",
+            "Text": "@MSNBC",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9233773350715637,
+            "Type": "DATE",
+            "Text": "tomorrow at 6pm ET",
+            "BeginOffset": 36,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.740234911441803,
+            "Type": "ORGANIZATION",
+            "Text": "@greta",
+            "BeginOffset": 58,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.8585715293884277,
+            "Type": "PERSON",
+            "Text": "@SpeakerRyan",
+            "BeginOffset": 71,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.962881863117218,
+            "Type": "ORGANIZATION",
+            "Text": "@MSNBC",
+            "BeginOffset": 122,
+            "EndOffset": 128
+        },
+        {
+            "Score": 0.4891507029533386,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 129,
+            "EndOffset": 138
+        }
+    ]
+}

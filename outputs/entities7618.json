@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5061792731285095,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.9643291234970093,
+            "Type": "PERSON",
+            "Text": "@Evan_McMullin",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8587250709533691,
+            "Type": "OTHER",
+            "Text": "Russo-American",
+            "BeginOffset": 71,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.7004354000091553,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 130,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8906781077384949,
+            "Type": "PERSON",
+            "Text": "@PrisonPlanet",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9963437914848328,
+            "Type": "ORGANIZATION",
+            "Text": "Twitter",
+            "BeginOffset": 30,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9648833274841309,
+            "Type": "OTHER",
+            "Text": "African-Americans",
+            "BeginOffset": 64,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.9920233488082886,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 108,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.9998995065689087,
+            "Type": "OTHER",
+            "Text": "https://t.co/ANq6FthCK0",
+            "BeginOffset": 116,
+            "EndOffset": 139
+        }
+    ]
+}

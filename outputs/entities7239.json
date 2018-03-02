@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9439759850502014,
+            "Type": "PERSON",
+            "Text": "@asamjulian",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7625374794006348,
+            "Type": "PERSON",
+            "Text": "Newt",
+            "BeginOffset": 16,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.9994999170303345,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 26,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9741696715354919,
+            "Type": "LOCATION",
+            "Text": "Benghazi",
+            "BeginOffset": 89,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.9906953573226929,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 127,
+            "EndOffset": 132
+        }
+    ]
+}

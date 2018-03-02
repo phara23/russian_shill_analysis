@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7998873591423035,
+            "Type": "PERSON",
+            "Text": "@BritainFirst",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.5874195098876953,
+            "Type": "QUANTITY",
+            "Text": "Fourteen",
+            "BeginOffset": 18,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.7206517457962036,
+            "Type": "TITLE",
+            "Text": "US Medal of Honor",
+            "BeginOffset": 27,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.99342280626297,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 64,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9431560039520264,
+            "Type": "OTHER",
+            "Text": "https://t.co/mhcZykbmP7",
+            "BeginOffset": 87,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.999983549118042,
+            "Type": "OTHER",
+            "Text": "https://t.co/qIhU4b2WCr",
+            "BeginOffset": 111,
+            "EndOffset": 134
+        }
+    ]
+}

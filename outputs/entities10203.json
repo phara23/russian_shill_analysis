@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5307989716529846,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8411362171173096,
+            "Type": "ORGANIZATION",
+            "Text": "@TEN_GOP",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.928799033164978,
+            "Type": "ORGANIZATION",
+            "Text": "Muslim",
+            "BeginOffset": 75,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.9856886863708496,
+            "Type": "QUANTITY",
+            "Text": "30 people",
+            "BeginOffset": 93,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.9564879536628723,
+            "Type": "ORGANIZATION",
+            "Text": "Islam",
+            "BeginOffset": 121,
+            "EndOffset": 126
+        }
+    ]
+}

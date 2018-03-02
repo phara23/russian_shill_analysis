@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7148739695549011,
+            "Type": "PERSON",
+            "Text": "@ABCPolitics",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.4681519567966461,
+            "Type": "LOCATION",
+            "Text": "Calif.",
+            "BeginOffset": 17,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9445819854736328,
+            "Type": "DATE",
+            "Text": "2014",
+            "BeginOffset": 85,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.9340628981590271,
+            "Type": "OTHER",
+            "Text": "http://t.co/VkPfzPRMSX",
+            "BeginOffset": 108,
+            "EndOffset": 130
+        },
+        {
+            "Score": 0.8761457800865173,
+            "Type": "OTHER",
+            "Text": "http://t",
+            "BeginOffset": 131,
+            "EndOffset": 139
+        }
+    ]
+}

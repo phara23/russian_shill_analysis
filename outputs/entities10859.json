@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7872582674026489,
+            "Type": "PERSON",
+            "Text": "@wepluggoodmusic",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.7409919500350952,
+            "Type": "ORGANIZATION",
+            "Text": "@SwiftSection",
+            "BeginOffset": 62,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.8208714723587036,
+            "Type": "OTHER",
+            "Text": "https://t.co/HTfTiPiXOM",
+            "BeginOffset": 100,
+            "EndOffset": 123
+        },
+        {
+            "Score": 0.9899544715881348,
+            "Type": "OTHER",
+            "Text": "https://t.co/xJ",
+            "BeginOffset": 124,
+            "EndOffset": 139
+        }
+    ]
+}

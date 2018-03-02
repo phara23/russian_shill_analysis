@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7763442993164062,
+            "Type": "PERSON",
+            "Text": "@ConservativeMag",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.3931517004966736,
+            "Type": "ORGANIZATION",
+            "Text": "Muslim",
+            "BeginOffset": 53,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.6545461416244507,
+            "Type": "OTHER",
+            "Text": "https://t.co/OHWMbYdnUU",
+            "BeginOffset": 69,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.39250051975250244,
+            "Type": "ORGANIZATION",
+            "Text": "#tcot",
+            "BeginOffset": 94,
+            "EndOffset": 99
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9856714010238647,
+            "Type": "PERSON",
+            "Text": "Jonathan Kent",
+            "BeginOffset": 18,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9992458820343018,
+            "Type": "OTHER",
+            "Text": "https://t.co/gvHjyuBHlL",
+            "BeginOffset": 67,
+            "EndOffset": 90
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9268761873245239,
+            "Type": "PERSON",
+            "Text": "@WayneDupreeShow",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.616606593132019,
+            "Type": "QUANTITY",
+            "Text": "2 b",
+            "BeginOffset": 58,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.8743587136268616,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 91,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.9082016348838806,
+            "Type": "ORGANIZATION",
+            "Text": "Democrat",
+            "BeginOffset": 112,
+            "EndOffset": 120
+        }
+    ]
+}

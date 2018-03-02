@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8031091094017029,
+            "Type": "PERSON",
+            "Text": "@fettiwap",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8936312794685364,
+            "Type": "PERSON",
+            "Text": "@Y0ung_Tedd - Tedd",
+            "BeginOffset": 24,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9319732189178467,
+            "Type": "OTHER",
+            "Text": "https://t.co/pC6dwPpMDG",
+            "BeginOffset": 46,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.962695300579071,
+            "Type": "PERSON",
+            "Text": "@DJTati718",
+            "BeginOffset": 70,
+            "EndOffset": 80
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.970218300819397,
+            "Type": "PERSON",
+            "Text": "@JohnKStahlUSA",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9863856434822083,
+            "Type": "PERSON",
+            "Text": "Barry",
+            "BeginOffset": 19,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9916201233863831,
+            "Type": "QUANTITY",
+            "Text": "50 years",
+            "BeginOffset": 52,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.6867877244949341,
+            "Type": "PERSON",
+            "Text": "MLK",
+            "BeginOffset": 62,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9999712705612183,
+            "Type": "OTHER",
+            "Text": "https://t.co/dxF1VL0eTk",
+            "BeginOffset": 116,
+            "EndOffset": 139
+        }
+    ]
+}

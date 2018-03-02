@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9987823963165283,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 4,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9936514496803284,
+            "Type": "PERSON",
+            "Text": "@Jenn_Abrams",
+            "BeginOffset": 53,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9999876022338867,
+            "Type": "OTHER",
+            "Text": "https://t.co/2L0ehqk4d4",
+            "BeginOffset": 66,
+            "EndOffset": 89
+        }
+    ]
+}

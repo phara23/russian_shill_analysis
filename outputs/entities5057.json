@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8643581867218018,
+            "Type": "PERSON",
+            "Text": "@Echecrates",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9513948559761047,
+            "Type": "DATE",
+            "Text": "this year",
+            "BeginOffset": 84,
+            "EndOffset": 93
+        }
+    ]
+}

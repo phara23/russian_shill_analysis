@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7650393843650818,
+            "Type": "PERSON",
+            "Text": "@riteprices",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.593997597694397,
+            "Type": "OTHER",
+            "Text": "Yazidi",
+            "BeginOffset": 50,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.46614187955856323,
+            "Type": "ORGANIZATION",
+            "Text": "Christians",
+            "BeginOffset": 59,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.8712451457977295,
+            "Type": "OTHER",
+            "Text": "Jews",
+            "BeginOffset": 72,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.5385066866874695,
+            "Type": "OTHER",
+            "Text": "Humanitarians",
+            "BeginOffset": 79,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.9999978542327881,
+            "Type": "OTHER",
+            "Text": "https://t.co/ajQE5e1ID8",
+            "BeginOffset": 104,
+            "EndOffset": 127
+        }
+    ]
+}

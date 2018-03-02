@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8502020835876465,
+            "Type": "PERSON",
+            "Text": "@gerfingerpoken",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.999542772769928,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 27,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.7042893171310425,
+            "Type": "OTHER",
+            "Text": "https://t.co/ktQfOefBBd",
+            "BeginOffset": 85,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.9587569832801819,
+            "Type": "OTHER",
+            "Text": "https://t.co/Db",
+            "BeginOffset": 124,
+            "EndOffset": 139
+        }
+    ]
+}

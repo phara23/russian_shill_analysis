@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8819460868835449,
+            "Type": "PERSON",
+            "Text": "@TheJLV",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9975537657737732,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 12,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8888497352600098,
+            "Type": "ORGANIZATION",
+            "Text": "Muslims",
+            "BeginOffset": 38,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9985554814338684,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 77,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.7806236743927002,
+            "Type": "OTHER",
+            "Text": "Latinos",
+            "BeginOffset": 107,
+            "EndOffset": 114
+        }
+    ]
+}

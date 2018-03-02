@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8694877028465271,
+            "Type": "ORGANIZATION",
+            "Text": "@RT_com",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.994689404964447,
+            "Type": "PERSON",
+            "Text": "Madeleine Albright",
+            "BeginOffset": 12,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.501791775226593,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 43,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.6336833238601685,
+            "Type": "LOCATION",
+            "Text": "Russia",
+            "BeginOffset": 71,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9999722242355347,
+            "Type": "OTHER",
+            "Text": "https://t.co/KbwwEBCdc9",
+            "BeginOffset": 108,
+            "EndOffset": 131
+        }
+    ]
+}

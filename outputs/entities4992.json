@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9924920201301575,
+            "Type": "ORGANIZATION",
+            "Text": "Congress",
+            "BeginOffset": 0,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.9981448650360107,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 23,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9999672174453735,
+            "Type": "OTHER",
+            "Text": "https://t.co/xcKHO5gqUZ",
+            "BeginOffset": 63,
+            "EndOffset": 86
+        }
+    ]
+}

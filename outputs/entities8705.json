@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7900930047035217,
+            "Type": "PERSON",
+            "Text": "Brandon",
+            "BeginOffset": 27,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.6879305839538574,
+            "Type": "ORGANIZATION",
+            "Text": "NWR",
+            "BeginOffset": 36,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9800273776054382,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 41,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9931678175926208,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 52,
+            "EndOffset": 56
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8883837461471558,
+            "Type": "PERSON",
+            "Text": "@Patriotancestry",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9106568098068237,
+            "Type": "PERSON",
+            "Text": "@Patriotancestry",
+            "BeginOffset": 27,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.6507403254508972,
+            "Type": "QUANTITY",
+            "Text": "6989 followers",
+            "BeginOffset": 46,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9894545078277588,
+            "Type": "DATE",
+            "Text": "Thursday",
+            "BeginOffset": 120,
+            "EndOffset": 128
+        }
+    ]
+}

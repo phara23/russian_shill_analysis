@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9051504731178284,
+            "Type": "PERSON",
+            "Text": "@RandForeman",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.6919670104980469,
+            "Type": "OTHER",
+            "Text": "American",
+            "BeginOffset": 17,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.42514684796333313,
+            "Type": "ORGANIZATION",
+            "Text": "Republic",
+            "BeginOffset": 66,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9986332654953003,
+            "Type": "DATE",
+            "Text": "January 20th",
+            "BeginOffset": 78,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.7906739115715027,
+            "Type": "ORGANIZATION",
+            "Text": "ISIS",
+            "BeginOffset": 92,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.4829005300998688,
+            "Type": "OTHER",
+            "Text": "Islamic",
+            "BeginOffset": 97,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.9896712899208069,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 124,
+            "EndOffset": 129
+        }
+    ]
+}

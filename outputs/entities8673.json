@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9989748001098633,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 0,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9383549690246582,
+            "Type": "TITLE",
+            "Text": "Obamacare",
+            "BeginOffset": 19,
+            "EndOffset": 28
+        }
+    ]
+}

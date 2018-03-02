@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7931501269340515,
+            "Type": "PERSON",
+            "Text": "@thedailybeast",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.5553408861160278,
+            "Type": "QUANTITY",
+            "Text": "3",
+            "BeginOffset": 41,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9467419385910034,
+            "Type": "OTHER",
+            "Text": "https://t.co/F5L5nKcLBe",
+            "BeginOffset": 64,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.9999492168426514,
+            "Type": "OTHER",
+            "Text": "https://t.co/gws5iuyTGL",
+            "BeginOffset": 88,
+            "EndOffset": 111
+        }
+    ]
+}

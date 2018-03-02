@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9723063707351685,
+            "Type": "PERSON",
+            "Text": "Chelsea Clinton",
+            "BeginOffset": 8,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.7122766375541687,
+            "Type": "LOCATION",
+            "Text": "Chicago",
+            "BeginOffset": 34,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9999498128890991,
+            "Type": "OTHER",
+            "Text": "https://t.co/Z76QlTDIpi",
+            "BeginOffset": 53,
+            "EndOffset": 76
+        }
+    ]
+}

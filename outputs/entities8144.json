@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8489716053009033,
+            "Type": "PERSON",
+            "Text": "@Braveheart_USA",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7453207969665527,
+            "Type": "PERSON",
+            "Text": "@Nordstrom",
+            "BeginOffset": 32,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.8458638787269592,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 99,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.8049663305282593,
+            "Type": "QUANTITY",
+            "Text": "first family",
+            "BeginOffset": 109,
+            "EndOffset": 121
+        },
+        {
+            "Score": 0.46891018748283386,
+            "Type": "ORGANIZATION",
+            "Text": "Nordstrom",
+            "BeginOffset": 125,
+            "EndOffset": 134
+        }
+    ]
+}

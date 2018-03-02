@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8086968064308167,
+            "Type": "PERSON",
+            "Text": "@HeerJeet",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.7834873199462891,
+            "Type": "PERSON",
+            "Text": "@EsotericCD",
+            "BeginOffset": 14,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9901472330093384,
+            "Type": "PERSON",
+            "Text": "@KevinMKruse",
+            "BeginOffset": 26,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9990283846855164,
+            "Type": "PERSON",
+            "Text": "Ben Carson",
+            "BeginOffset": 67,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.980499804019928,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 84,
+            "EndOffset": 89
+        }
+    ]
+}

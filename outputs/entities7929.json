@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8391989469528198,
+            "Type": "PERSON",
+            "Text": "@Athletepedia",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9999650716781616,
+            "Type": "OTHER",
+            "Text": "https://t.co/91QoscnYdy",
+            "BeginOffset": 43,
+            "EndOffset": 66
+        }
+    ]
+}

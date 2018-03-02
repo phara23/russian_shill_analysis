@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8126108050346375,
+            "Type": "PERSON",
+            "Text": "@AWAKEALERT",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.992645263671875,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 16,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.989794909954071,
+            "Type": "ORGANIZATION",
+            "Text": "ISIS",
+            "BeginOffset": 35,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9983372688293457,
+            "Type": "ORGANIZATION",
+            "Text": "ISIS",
+            "BeginOffset": 82,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9934871196746826,
+            "Type": "ORGANIZATION",
+            "Text": "ISIS",
+            "BeginOffset": 109,
+            "EndOffset": 113
+        }
+    ]
+}

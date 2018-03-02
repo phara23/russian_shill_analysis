@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.49770626425743103,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.6137653589248657,
+            "Type": "PERSON",
+            "Text": "@AMTrump4",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9471691250801086,
+            "Type": "ORGANIZATION",
+            "Text": "Muslims",
+            "BeginOffset": 18,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9551025032997131,
+            "Type": "ORGANIZATION",
+            "Text": "Nazis",
+            "BeginOffset": 53,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.46483975648880005,
+            "Type": "ORGANIZATION",
+            "Text": "#BanIslam",
+            "BeginOffset": 113,
+            "EndOffset": 122
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8656670451164246,
+            "Type": "PERSON",
+            "Text": "@ethiopienne",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9501186013221741,
+            "Type": "DATE",
+            "Text": "dec 30",
+            "BeginOffset": 33,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9998937845230103,
+            "Type": "OTHER",
+            "Text": "https://t.co/BSoUAuNy9s",
+            "BeginOffset": 81,
+            "EndOffset": 104
+        }
+    ]
+}

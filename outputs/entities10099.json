@@ -1,0 +1,67 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9373751282691956,
+            "Type": "PERSON",
+            "Text": "@MHarrisPerry",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8783676624298096,
+            "Type": "ORGANIZATION",
+            "Text": "@BET",
+            "BeginOffset": 29,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9931409955024719,
+            "Type": "ORGANIZATION",
+            "Text": "Facebook",
+            "BeginOffset": 34,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.6332005858421326,
+            "Type": "DATE",
+            "Text": "Noon",
+            "BeginOffset": 51,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.6725718975067139,
+            "Type": "ORGANIZATION",
+            "Text": "#RNCinCLE",
+            "BeginOffset": 61,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9834601283073425,
+            "Type": "ORGANIZATION",
+            "Text": "Republicans",
+            "BeginOffset": 88,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.9369544982910156,
+            "Type": "ORGANIZATION",
+            "Text": "Cleveland",
+            "BeginOffset": 101,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.682566225528717,
+            "Type": "ORGANIZATION",
+            "Text": "#whatsatstake",
+            "BeginOffset": 116,
+            "EndOffset": 129
+        },
+        {
+            "Score": 0.8061811923980713,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 130,
+            "EndOffset": 139
+        }
+    ]
+}

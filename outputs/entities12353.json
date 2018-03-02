@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8960536122322083,
+            "Type": "PERSON",
+            "Text": "@katsandcrows",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8752889037132263,
+            "Type": "PERSON",
+            "Text": "@atglamourlondon",
+            "BeginOffset": 20,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9994638562202454,
+            "Type": "OTHER",
+            "Text": "https://t.co/mirj1Jynsf",
+            "BeginOffset": 37,
+            "EndOffset": 60
+        }
+    ]
+}

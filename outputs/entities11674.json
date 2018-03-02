@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6806691884994507,
+            "Type": "PERSON",
+            "Text": "@FDRLST",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9997484087944031,
+            "Type": "OTHER",
+            "Text": "https://t.co/VfFvMzWIv2",
+            "BeginOffset": 76,
+            "EndOffset": 99
+        }
+    ]
+}

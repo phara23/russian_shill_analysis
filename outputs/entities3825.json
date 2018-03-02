@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8972347974777222,
+            "Type": "PERSON",
+            "Text": "@Tex1944",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9127441644668579,
+            "Type": "OTHER",
+            "Text": "https://t.co/67rc35ig2Z",
+            "BeginOffset": 88,
+            "EndOffset": 111
+        },
+        {
+            "Score": 0.9187494516372681,
+            "Type": "OTHER",
+            "Text": "https://t.co/tK3",
+            "BeginOffset": 123,
+            "EndOffset": 139
+        }
+    ]
+}

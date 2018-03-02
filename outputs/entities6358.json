@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9615562558174133,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 0,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9978407621383667,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 30,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.7434496879577637,
+            "Type": "TITLE",
+            "Text": "Medal of Honor",
+            "BeginOffset": 54,
+            "EndOffset": 68
+        }
+    ]
+}

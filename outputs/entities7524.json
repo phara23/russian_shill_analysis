@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9209727644920349,
+            "Type": "PERSON",
+            "Text": "@Jeezy",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.46217477321624756,
+            "Type": "PERSON",
+            "Text": "JEEZY",
+            "BeginOffset": 33,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9999785423278809,
+            "Type": "OTHER",
+            "Text": "https://t.co/GGrdF1bHbj",
+            "BeginOffset": 40,
+            "EndOffset": 63
+        }
+    ]
+}

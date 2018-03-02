@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.972745418548584,
+            "Type": "PERSON",
+            "Text": "Kaine",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9982830286026001,
+            "Type": "ORGANIZATION",
+            "Text": "ISIS",
+            "BeginOffset": 21,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.6514474749565125,
+            "Type": "OTHER",
+            "Text": "https://t.co/DSz5IU8hpL",
+            "BeginOffset": 50,
+            "EndOffset": 73
+        }
+    ]
+}

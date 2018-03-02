@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8497458696365356,
+            "Type": "PERSON",
+            "Text": "@ThePatriot143",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9952180981636047,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 35,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9971752166748047,
+            "Type": "LOCATION",
+            "Text": "Florida",
+            "BeginOffset": 46,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9874740839004517,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 83,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9999544620513916,
+            "Type": "OTHER",
+            "Text": "https://t.co/GxqPmUEh6G",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        }
+    ]
+}

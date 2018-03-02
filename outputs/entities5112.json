@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8889066576957703,
+            "Type": "PERSON",
+            "Text": "@RobbyMook",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9102785587310791,
+            "Type": "PERSON",
+            "Text": "@just_jenna",
+            "BeginOffset": 51,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9399468898773193,
+            "Type": "PERSON",
+            "Text": "@loril",
+            "BeginOffset": 63,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.7969693541526794,
+            "Type": "PERSON",
+            "Text": "@mayaharris_",
+            "BeginOffset": 70,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.9404228329658508,
+            "Type": "QUANTITY",
+            "Text": "Tens of thousands of volunteers",
+            "BeginOffset": 85,
+            "EndOffset": 116
+        }
+    ]
+}

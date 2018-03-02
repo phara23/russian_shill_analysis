@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6099367737770081,
+            "Type": "PERSON",
+            "Text": "@1948",
+            "BeginOffset": 3,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.4072229564189911,
+            "Type": "ORGANIZATION",
+            "Text": "TEXAS",
+            "BeginOffset": 68,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.9998098015785217,
+            "Type": "OTHER",
+            "Text": "https://t.co/RM34cIOXgm",
+            "BeginOffset": 115,
+            "EndOffset": 138
+        }
+    ]
+}

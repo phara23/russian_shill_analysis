@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8403105735778809,
+            "Type": "PERSON",
+            "Text": "@Stonewall_77",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.36360543966293335,
+            "Type": "PERSON",
+            "Text": "#HillaryClinton",
+            "BeginOffset": 39,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9935736060142517,
+            "Type": "OTHER",
+            "Text": "https://t.co/tuwbX7BGWk",
+            "BeginOffset": 66,
+            "EndOffset": 89
+        }
+    ]
+}

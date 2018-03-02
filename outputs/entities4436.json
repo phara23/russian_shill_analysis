@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9641728401184082,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.6306735873222351,
+            "Type": "ORGANIZATION",
+            "Text": "Green Bay",
+            "BeginOffset": 31,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9581062197685242,
+            "Type": "LOCATION",
+            "Text": "Wisconsin",
+            "BeginOffset": 42,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9940449595451355,
+            "Type": "PERSON",
+            "Text": "@Mike_Pence",
+            "BeginOffset": 62,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.5571295619010925,
+            "Type": "QUANTITY",
+            "Text": "16",
+            "BeginOffset": 110,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.9476425051689148,
+            "Type": "OTHER",
+            "Text": "https://t.co/qsYbyrm",
+            "BeginOffset": 119,
+            "EndOffset": 139
+        }
+    ]
+}

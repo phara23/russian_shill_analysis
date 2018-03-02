@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5039776563644409,
+            "Type": "ORGANIZATION",
+            "Text": "@100",
+            "BeginOffset": 3,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.8870952129364014,
+            "Type": "QUANTITY",
+            "Text": "TWO F",
+            "BeginOffset": 28,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.638333261013031,
+            "Type": "QUANTITY",
+            "Text": "15 FIGHTER",
+            "BeginOffset": 34,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9016358852386475,
+            "Type": "LOCATION",
+            "Text": "Mar-A-Lago",
+            "BeginOffset": 116,
+            "EndOffset": 126
+        },
+        {
+            "Score": 0.8458588719367981,
+            "Type": "OTHER",
+            "Text": "https://t.co",
+            "BeginOffset": 127,
+            "EndOffset": 139
+        }
+    ]
+}

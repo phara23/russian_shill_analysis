@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9430823922157288,
+            "Type": "PERSON",
+            "Text": "@Lrihendry",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9563149213790894,
+            "Type": "DATE",
+            "Text": "Today",
+            "BeginOffset": 15,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.932059645652771,
+            "Type": "EVENT",
+            "Text": "National Law Enforcement Appreciation Day",
+            "BeginOffset": 24,
+            "EndOffset": 65
+        }
+    ]
+}

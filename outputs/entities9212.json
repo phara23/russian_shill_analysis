@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.84364253282547,
+            "Type": "PERSON",
+            "Text": "@dannythehappies",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.624701738357544,
+            "Type": "DATE",
+            "Text": "#2017",
+            "BeginOffset": 21,
+            "EndOffset": 26
+        }
+    ]
+}

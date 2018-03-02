@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.939434826374054,
+            "Type": "DATE",
+            "Text": "Today",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9913499355316162,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 29,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.34227415919303894,
+            "Type": "ORGANIZATION",
+            "Text": "#MAGA",
+            "BeginOffset": 34,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.750397801399231,
+            "Type": "COMMERCIAL_ITEM",
+            "Text": "#Hillary4",
+            "BeginOffset": 40,
+            "EndOffset": 49
+        }
+    ]
+}

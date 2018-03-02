@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8923601508140564,
+            "Type": "PERSON",
+            "Text": "@cristinalaila1",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9391053915023804,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 34,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9945158362388611,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 113,
+            "EndOffset": 120
+        }
+    ]
+}

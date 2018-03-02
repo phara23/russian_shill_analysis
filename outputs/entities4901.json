@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8248034119606018,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.6928583383560181,
+            "Type": "PERSON",
+            "Text": "@AFRICANGLOBE",
+            "BeginOffset": 14,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.5026330947875977,
+            "Type": "LOCATION",
+            "Text": "Somaliland",
+            "BeginOffset": 39,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.7520895004272461,
+            "Type": "LOCATION",
+            "Text": "East Africa",
+            "BeginOffset": 85,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.9998822212219238,
+            "Type": "OTHER",
+            "Text": "https://t.co/HY9a6SgrDb",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        }
+    ]
+}

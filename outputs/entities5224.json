@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8810415267944336,
+            "Type": "PERSON",
+            "Text": "@DBloom451",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9954324960708618,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 52,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9389622211456299,
+            "Type": "TITLE",
+            "Text": "Les Miserables",
+            "BeginOffset": 86,
+            "EndOffset": 100
+        }
+    ]
+}

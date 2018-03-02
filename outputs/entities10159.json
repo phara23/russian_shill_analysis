@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7688795328140259,
+            "Type": "PERSON",
+            "Text": "@srrabon_",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.6798397898674011,
+            "Type": "PERSON",
+            "Text": "@TODAYshow",
+            "BeginOffset": 26,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.6925567388534546,
+            "Type": "PERSON",
+            "Text": "#Trump",
+            "BeginOffset": 128,
+            "EndOffset": 134
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.884432852268219,
+            "Type": "PERSON",
+            "Text": "@muchmoresalt",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.34898343682289124,
+            "Type": "PERSON",
+            "Text": "DanScavino",
+            "BeginOffset": 18,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.6123418807983398,
+            "Type": "LOCATION",
+            "Text": "Colorado Springs",
+            "BeginOffset": 36,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9769858717918396,
+            "Type": "DATE",
+            "Text": "last night",
+            "BeginOffset": 59,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.7329532504081726,
+            "Type": "PERSON",
+            "Text": "realDonaldTrump",
+            "BeginOffset": 71,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.5085542798042297,
+            "Type": "ORGANIZATION",
+            "Text": "LaGuardia",
+            "BeginOffset": 114,
+            "EndOffset": 123
+        }
+    ]
+}

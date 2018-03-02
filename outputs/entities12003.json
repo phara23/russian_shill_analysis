@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8361627459526062,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.989531397819519,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 24,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9962647557258606,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 35,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.7855798006057739,
+            "Type": "LOCATION",
+            "Text": "Georgia",
+            "BeginOffset": 61,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9671940207481384,
+            "Type": "OTHER",
+            "Text": "https://t.co/Qx6IhVg3n4",
+            "BeginOffset": 109,
+            "EndOffset": 132
+        },
+        {
+            "Score": 0.7944608926773071,
+            "Type": "PERSON",
+            "Text": "@Bipar",
+            "BeginOffset": 133,
+            "EndOffset": 139
+        }
+    ]
+}

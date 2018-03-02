@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7761192917823792,
+            "Type": "ORGANIZATION",
+            "Text": "@History_Pics",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9701223373413086,
+            "Type": "LOCATION",
+            "Text": "Nevada",
+            "BeginOffset": 73,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.9974823594093323,
+            "Type": "DATE",
+            "Text": "1957",
+            "BeginOffset": 81,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.9998934268951416,
+            "Type": "OTHER",
+            "Text": "https://t.co/S1KFKixj4A",
+            "BeginOffset": 87,
+            "EndOffset": 110
+        }
+    ]
+}

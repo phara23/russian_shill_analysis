@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8327560424804688,
+            "Type": "PERSON",
+            "Text": "@LouDobbs",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.991870641708374,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 14,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.6073561906814575,
+            "Type": "ORGANIZATION",
+            "Text": "WH",
+            "BeginOffset": 64,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.8544794321060181,
+            "Type": "PERSON",
+            "Text": "@radiotalkermike",
+            "BeginOffset": 67,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.9423551559448242,
+            "Type": "PERSON",
+            "Text": "@HeyTammyBruce",
+            "BeginOffset": 84,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.9179277420043945,
+            "Type": "DATE",
+            "Text": "7pm",
+            "BeginOffset": 115,
+            "EndOffset": 118
+        }
+    ]
+}

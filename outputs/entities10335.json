@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8828185796737671,
+            "Type": "PERSON",
+            "Text": "@SoCal4Trump",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9922957420349121,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 44,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9542437791824341,
+            "Type": "DATE",
+            "Text": "tonight",
+            "BeginOffset": 58,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9760924577713013,
+            "Type": "LOCATION",
+            "Text": "Asheville, North Carolina",
+            "BeginOffset": 69,
+            "EndOffset": 94
+        }
+    ]
+}

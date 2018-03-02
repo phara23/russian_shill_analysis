@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8635010123252869,
+            "Type": "PERSON",
+            "Text": "@theshrillest",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9950309991836548,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 37,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9683486819267273,
+            "Type": "QUANTITY",
+            "Text": "4 children",
+            "BeginOffset": 47,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.9620850086212158,
+            "Type": "QUANTITY",
+            "Text": "3 marriages",
+            "BeginOffset": 63,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9501725435256958,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 88,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.4375591576099396,
+            "Type": "QUANTITY",
+            "Text": "one",
+            "BeginOffset": 116,
+            "EndOffset": 119
+        }
+    ]
+}

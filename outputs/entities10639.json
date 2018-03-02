@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8438383340835571,
+            "Type": "PERSON",
+            "Text": "@SPIEGEL_Politik",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9993752241134644,
+            "Type": "PERSON",
+            "Text": "John Rabe",
+            "BeginOffset": 42,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9710922837257385,
+            "Type": "DATE",
+            "Text": "1937",
+            "BeginOffset": 60,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.8621260523796082,
+            "Type": "QUANTITY",
+            "Text": "200.000",
+            "BeginOffset": 74,
+            "EndOffset": 81
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9479230642318726,
+            "Type": "PERSON",
+            "Text": "@MikeDrucker",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9863582849502563,
+            "Type": "PERSON",
+            "Text": "Bill Nye",
+            "BeginOffset": 50,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9067620635032654,
+            "Type": "ORGANIZATION",
+            "Text": "@netflix",
+            "BeginOffset": 68,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.999990701675415,
+            "Type": "OTHER",
+            "Text": "https://t.co/F7SJXOq4PZ",
+            "BeginOffset": 78,
+            "EndOffset": 101
+        }
+    ]
+}

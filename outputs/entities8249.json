@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8537768125534058,
+            "Type": "PERSON",
+            "Text": "@ConsvInCali",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9201326370239258,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 67,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9921108484268188,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 97,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.9999818801879883,
+            "Type": "OTHER",
+            "Text": "https://t.co/mBfq4hYKLX",
+            "BeginOffset": 114,
+            "EndOffset": 137
+        }
+    ]
+}

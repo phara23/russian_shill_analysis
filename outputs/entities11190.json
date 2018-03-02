@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.860357940196991,
+            "Type": "PERSON",
+            "Text": "@Bipartisanism",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9483774900436401,
+            "Type": "QUANTITY",
+            "Text": "two presidents",
+            "BeginOffset": 37,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9953834414482117,
+            "Type": "QUANTITY",
+            "Text": "50 years",
+            "BeginOffset": 55,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9998420476913452,
+            "Type": "OTHER",
+            "Text": "https://t.co/QUID1rWn9A",
+            "BeginOffset": 95,
+            "EndOffset": 118
+        }
+    ]
+}

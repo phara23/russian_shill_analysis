@@ -1,0 +1,74 @@
+{
+    "Entities": [
+        {
+            "Score": 0.775216281414032,
+            "Type": "PERSON",
+            "Text": "@OnPirateSat",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9458582997322083,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 24,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.6547356843948364,
+            "Type": "QUANTITY",
+            "Text": "45",
+            "BeginOffset": 37,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9577434062957764,
+            "Type": "QUANTITY",
+            "Text": "21",
+            "BeginOffset": 40,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.7871179580688477,
+            "Type": "QUANTITY",
+            "Text": "#25 album",
+            "BeginOffset": 58,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9874610304832458,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 71,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.9655764102935791,
+            "Type": "OTHER",
+            "Text": "https://t.co/unYstlK00q",
+            "BeginOffset": 78,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.7399276494979858,
+            "Type": "ORGANIZATION",
+            "Text": "#Congrats",
+            "BeginOffset": 103,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.3905656337738037,
+            "Type": "ORGANIZATION",
+            "Text": "#SNRTG",
+            "BeginOffset": 113,
+            "EndOffset": 119
+        },
+        {
+            "Score": 0.6949244141578674,
+            "Type": "ORGANIZATION",
+            "Text": "@InTheRedRecords",
+            "BeginOffset": 120,
+            "EndOffset": 136
+        }
+    ]
+}

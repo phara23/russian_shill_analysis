@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8327677845954895,
+            "Type": "PERSON",
+            "Text": "@mtgrove",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9987877607345581,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 25,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9995705485343933,
+            "Type": "OTHER",
+            "Text": "https://t.co/GnPUjOffqO",
+            "BeginOffset": 47,
+            "EndOffset": 70
+        }
+    ]
+}

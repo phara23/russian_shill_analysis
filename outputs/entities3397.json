@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9441760182380676,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 0,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.911583423614502,
+            "Type": "ORGANIZATION",
+            "Text": "@GOP",
+            "BeginOffset": 55,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.8227441906929016,
+            "Type": "ORGANIZATION",
+            "Text": "@HouseGOP",
+            "BeginOffset": 60,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.8535169959068298,
+            "Type": "ORGANIZATION",
+            "Text": "@Senate_GOPs",
+            "BeginOffset": 70,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.8251534104347229,
+            "Type": "ORGANIZATION",
+            "Text": "@GrahamBlog",
+            "BeginOffset": 83,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.7749455571174622,
+            "Type": "ORGANIZATION",
+            "Text": "@JohnMcCain",
+            "BeginOffset": 95,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.8780237436294556,
+            "Type": "OTHER",
+            "Text": "https://t.co/OeAX0qavM0",
+            "BeginOffset": 108,
+            "EndOffset": 131
+        },
+        {
+            "Score": 0.4034505784511566,
+            "Type": "PERSON",
+            "Text": "#PJnet",
+            "BeginOffset": 133,
+            "EndOffset": 139
+        }
+    ]
+}

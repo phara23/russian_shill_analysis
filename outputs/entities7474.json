@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9946120977401733,
+            "Type": "PERSON",
+            "Text": "Biden",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9988740086555481,
+            "Type": "OTHER",
+            "Text": "http://t.co/PUyTo0EbGl",
+            "BeginOffset": 67,
+            "EndOffset": 89
+        }
+    ]
+}

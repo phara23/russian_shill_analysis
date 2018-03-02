@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8482650518417358,
+            "Type": "PERSON",
+            "Text": "@BraveConWarrior",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9501786231994629,
+            "Type": "LOCATION",
+            "Text": "McKinney, Texas",
+            "BeginOffset": 75,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9628481268882751,
+            "Type": "OTHER",
+            "Text": "http://t.co/twS3NZRygb",
+            "BeginOffset": 91,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.9205492734909058,
+            "Type": "ORGANIZATION",
+            "Text": "@AllenWestRepub",
+            "BeginOffset": 118,
+            "EndOffset": 133
+        }
+    ]
+}

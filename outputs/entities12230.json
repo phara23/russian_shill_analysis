@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8152244091033936,
+            "Type": "PERSON",
+            "Text": "@testisfidelis",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.5494928956031799,
+            "Type": "QUANTITY",
+            "Text": "2ChoosetheGood RT",
+            "BeginOffset": 31,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9264388084411621,
+            "Type": "OTHER",
+            "Text": "https://t.co/IFaYQhOS17",
+            "BeginOffset": 81,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.6416914463043213,
+            "Type": "ORGANIZATION",
+            "Text": "#USCongress",
+            "BeginOffset": 126,
+            "EndOffset": 137
+        }
+    ]
+}

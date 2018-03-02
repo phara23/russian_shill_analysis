@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7795982360839844,
+            "Type": "PERSON",
+            "Text": "@RawStory",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9957802295684814,
+            "Type": "ORGANIZATION",
+            "Text": "CNN",
+            "BeginOffset": 14,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9876238107681274,
+            "Type": "PERSON",
+            "Text": "Giuliani",
+            "BeginOffset": 38,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9978766441345215,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 64,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.8748819828033447,
+            "Type": "LOCATION",
+            "Text": "Russia",
+            "BeginOffset": 99,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.9216030836105347,
+            "Type": "OTHER",
+            "Text": "https://t.co/LBEgXWcKXy",
+            "BeginOffset": 106,
+            "EndOffset": 129
+        },
+        {
+            "Score": 0.8771757483482361,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 130,
+            "EndOffset": 139
+        }
+    ]
+}

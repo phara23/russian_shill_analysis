@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7946305274963379,
+            "Type": "PERSON",
+            "Text": "@Missboojee",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9074825644493103,
+            "Type": "PERSON",
+            "Text": "@samswey",
+            "BeginOffset": 16,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.8694853782653809,
+            "Type": "PERSON",
+            "Text": "@Nettaaaaaaaa",
+            "BeginOffset": 25,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.8482514023780823,
+            "Type": "LOCATION",
+            "Text": "Ft Worth",
+            "BeginOffset": 56,
+            "EndOffset": 64
+        }
+    ]
+}

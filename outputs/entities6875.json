@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9152863621711731,
+            "Type": "PERSON",
+            "Text": "@gymbrat29",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9262664318084717,
+            "Type": "PERSON",
+            "Text": "@PrisonPlanet",
+            "BeginOffset": 15,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9528590440750122,
+            "Type": "PERSON",
+            "Text": "@MMsharbono",
+            "BeginOffset": 29,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9999784231185913,
+            "Type": "OTHER",
+            "Text": "https://t.co/z5pQI8ESdP",
+            "BeginOffset": 81,
+            "EndOffset": 104
+        }
+    ]
+}

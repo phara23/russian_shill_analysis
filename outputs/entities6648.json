@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.877056896686554,
+            "Type": "PERSON",
+            "Text": "@weknowwhatsbest",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9965662360191345,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 37,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.8814975023269653,
+            "Type": "QUANTITY",
+            "Text": "2 bil",
+            "BeginOffset": 49,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9532417058944702,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 58,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.7794330716133118,
+            "Type": "ORGANIZATION",
+            "Text": "UN",
+            "BeginOffset": 80,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.5249260067939758,
+            "Type": "OTHER",
+            "Text": "American",
+            "BeginOffset": 120,
+            "EndOffset": 128
+        }
+    ]
+}

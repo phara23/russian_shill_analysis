@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8698058724403381,
+            "Type": "PERSON",
+            "Text": "@official_flo",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8257063031196594,
+            "Type": "PERSON",
+            "Text": "@rehablv",
+            "BeginOffset": 29,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.8319856524467468,
+            "Type": "ORGANIZATION",
+            "Text": "@ Hard Rock Hotel",
+            "BeginOffset": 66,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.8722015619277954,
+            "Type": "ORGANIZATION",
+            "Text": "Casino Las Vegas",
+            "BeginOffset": 88,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.9998946189880371,
+            "Type": "OTHER",
+            "Text": "https://t.co/tMKJSTANS0",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        }
+    ]
+}

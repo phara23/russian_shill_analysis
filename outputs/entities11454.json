@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9048328399658203,
+            "Type": "PERSON",
+            "Text": "@Rat_Skates",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8482299447059631,
+            "Type": "PERSON",
+            "Text": "@MarkLevinShow",
+            "BeginOffset": 98,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.7828954458236694,
+            "Type": "PERSON",
+            "Text": "@DBONGINO",
+            "BeginOffset": 113,
+            "EndOffset": 122
+        }
+    ]
+}

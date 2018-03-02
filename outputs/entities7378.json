@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8482751250267029,
+            "Type": "PERSON",
+            "Text": "@guardian",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.7593061923980713,
+            "Type": "LOCATION",
+            "Text": "Chile",
+            "BeginOffset": 14,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9998340606689453,
+            "Type": "OTHER",
+            "Text": "http://t.co/UaZt8CkpWo",
+            "BeginOffset": 94,
+            "EndOffset": 116
+        }
+    ]
+}

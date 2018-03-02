@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8762437105178833,
+            "Type": "PERSON",
+            "Text": "@bshockley2",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9682943820953369,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 16,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9239227771759033,
+            "Type": "PERSON",
+            "Text": "@lgmaterna",
+            "BeginOffset": 33,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9470028281211853,
+            "Type": "OTHER",
+            "Text": "https://t.co/wfWK",
+            "BeginOffset": 122,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9197655916213989,
+            "Type": "PERSON",
+            "Text": "@zlando",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.4862774610519409,
+            "Type": "OTHER",
+            "Text": "Islamic",
+            "BeginOffset": 12,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9647445678710938,
+            "Type": "QUANTITY",
+            "Text": "3rd",
+            "BeginOffset": 34,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.8750333189964294,
+            "Type": "QUANTITY",
+            "Text": "4th world",
+            "BeginOffset": 42,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.8915483951568604,
+            "Type": "DATE",
+            "Text": "since 7th century",
+            "BeginOffset": 84,
+            "EndOffset": 101
+        }
+    ]
+}

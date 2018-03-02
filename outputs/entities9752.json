@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7813855409622192,
+            "Type": "PERSON",
+            "Text": "@DRUDGE_REPORT",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9975327849388123,
+            "Type": "PERSON",
+            "Text": "Maxine Waters",
+            "BeginOffset": 30,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9975927472114563,
+            "Type": "PERSON",
+            "Text": "Putin",
+            "BeginOffset": 51,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.7836493253707886,
+            "Type": "LOCATION",
+            "Text": "Korea",
+            "BeginOffset": 85,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9999701976776123,
+            "Type": "OTHER",
+            "Text": "https://t.co/cBbIm5ZQvF",
+            "BeginOffset": 95,
+            "EndOffset": 118
+        }
+    ]
+}

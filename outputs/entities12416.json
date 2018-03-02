@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9345765113830566,
+            "Type": "PERSON",
+            "Text": "@jabbawonger",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7601438164710999,
+            "Type": "ORGANIZATION",
+            "Text": "FIFA",
+            "BeginOffset": 17,
+            "EndOffset": 21
+        }
+    ]
+}

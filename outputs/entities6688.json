@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9351217746734619,
+            "Type": "PERSON",
+            "Text": "@AndyHashtagger",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9902792572975159,
+            "Type": "PERSON",
+            "Text": "Pence",
+            "BeginOffset": 44,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.990572988986969,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 84,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.8188726305961609,
+            "Type": "ORGANIZATION",
+            "Text": "MTV",
+            "BeginOffset": 104,
+            "EndOffset": 107
+        }
+    ]
+}

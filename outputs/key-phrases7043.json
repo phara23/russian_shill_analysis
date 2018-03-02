@@ -1,0 +1,34 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.6163992285728455,
+            "Text": "Obama",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9816003441810608,
+            "Text": "00M",
+            "BeginOffset": 13,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9929481744766235,
+            "Text": "Iran",
+            "BeginOffset": 28,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.8894925713539124,
+            "Text": "ransom",
+            "BeginOffset": 37,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.7886395454406738,
+            "Text": "nefarious deal",
+            "BeginOffset": 61,
+            "EndOffset": 75
+        }
+    ]
+}

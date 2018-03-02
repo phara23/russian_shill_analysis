@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8214105367660522,
+            "Type": "PERSON",
+            "Text": "@MrNegroMilitant",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9963831901550293,
+            "Type": "ORGANIZATION",
+            "Text": "CNN",
+            "BeginOffset": 21,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9941189289093018,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 38,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9999362230300903,
+            "Type": "OTHER",
+            "Text": "https://t.co/VmjpnID8xh",
+            "BeginOffset": 69,
+            "EndOffset": 92
+        }
+    ]
+}

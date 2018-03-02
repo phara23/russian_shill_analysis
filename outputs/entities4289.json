@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8247858285903931,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9129391312599182,
+            "Type": "PERSON",
+            "Text": "@TheBlackChannel",
+            "BeginOffset": 14,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9952741265296936,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 32,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9999628067016602,
+            "Type": "OTHER",
+            "Text": "https://t.co/9jbbNhIzv9",
+            "BeginOffset": 67,
+            "EndOffset": 90
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.826716959476471,
+            "Type": "PERSON",
+            "Text": "@IncognitoPatrio",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.5328294634819031,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 21,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.7631856799125671,
+            "Type": "PERSON",
+            "Text": "@Angelemichelle",
+            "BeginOffset": 24,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.46870821714401245,
+            "Type": "ORGANIZATION",
+            "Text": "ISLAMIC",
+            "BeginOffset": 95,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.7636008858680725,
+            "Type": "OTHER",
+            "Text": "https://t.c",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

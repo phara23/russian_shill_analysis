@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7802525162696838,
+            "Type": "PERSON",
+            "Text": "@SoulRevision",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.985173225402832,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 18,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.45007047057151794,
+            "Type": "QUANTITY",
+            "Text": "one",
+            "BeginOffset": 67,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9946605563163757,
+            "Type": "LOCATION",
+            "Text": "Vegas",
+            "BeginOffset": 119,
+            "EndOffset": 124
+        }
+    ]
+}

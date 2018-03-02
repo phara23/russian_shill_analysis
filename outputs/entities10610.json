@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.979153037071228,
+            "Type": "ORGANIZATION",
+            "Text": "Chicago Bears",
+            "BeginOffset": 0,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.6968346238136292,
+            "Type": "PERSON",
+            "Text": "@midnight",
+            "BeginOffset": 26,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9996724128723145,
+            "Type": "OTHER",
+            "Text": "https://t.co/ktAcpfLrwK",
+            "BeginOffset": 36,
+            "EndOffset": 59
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9776025414466858,
+            "Type": "PERSON",
+            "Text": "@sheilasheila58",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.5591417551040649,
+            "Type": "ORGANIZATION",
+            "Text": "#Hollywood",
+            "BeginOffset": 20,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9997013211250305,
+            "Type": "OTHER",
+            "Text": "https://t.co/iDZ2R1zafS",
+            "BeginOffset": 71,
+            "EndOffset": 94
+        }
+    ]
+}

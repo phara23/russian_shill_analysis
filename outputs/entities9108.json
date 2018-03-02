@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8877093195915222,
+            "Type": "PERSON",
+            "Text": "@HippoJuiceShaun",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.6342864036560059,
+            "Type": "QUANTITY",
+            "Text": "Both",
+            "BeginOffset": 21,
+            "EndOffset": 25
+        }
+    ]
+}

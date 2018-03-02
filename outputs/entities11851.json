@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.921861469745636,
+            "Type": "PERSON",
+            "Text": "@TomOrr777",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9972835779190063,
+            "Type": "PERSON",
+            "Text": "Sanders",
+            "BeginOffset": 40,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9928935170173645,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 66,
+            "EndOffset": 73
+        }
+    ]
+}

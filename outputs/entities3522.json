@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9589083790779114,
+            "Type": "PERSON",
+            "Text": "@MindyMaher",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9532896876335144,
+            "Type": "PERSON",
+            "Text": "@JohnSWright49",
+            "BeginOffset": 88,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.9419516324996948,
+            "Type": "PERSON",
+            "Text": "@georgeginis",
+            "BeginOffset": 103,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.9635376334190369,
+            "Type": "PERSON",
+            "Text": "@mikeshippey",
+            "BeginOffset": 116,
+            "EndOffset": 128
+        },
+        {
+            "Score": 0.962259829044342,
+            "Type": "PERSON",
+            "Text": "@BillZucke",
+            "BeginOffset": 129,
+            "EndOffset": 139
+        }
+    ]
+}

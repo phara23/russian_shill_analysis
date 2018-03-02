@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9268738031387329,
+            "Type": "PERSON",
+            "Text": "@finy06",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.6904373168945312,
+            "Type": "LOCATION",
+            "Text": "AMERICA",
+            "BeginOffset": 14,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9783931374549866,
+            "Type": "QUANTITY",
+            "Text": "40 days",
+            "BeginOffset": 54,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9145537614822388,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 79,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.9426338076591492,
+            "Type": "DATE",
+            "Text": "Sep 30",
+            "BeginOffset": 95,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.9978554844856262,
+            "Type": "DATE",
+            "Text": "Nov 8",
+            "BeginOffset": 103,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.974005401134491,
+            "Type": "OTHER",
+            "Text": "https://t.co/kj",
+            "BeginOffset": 124,
+            "EndOffset": 139
+        }
+    ]
+}

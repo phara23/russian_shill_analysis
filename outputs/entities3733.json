@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6854032874107361,
+            "Type": "QUANTITY",
+            "Text": "one more time",
+            "BeginOffset": 33,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.8598005175590515,
+            "Type": "PERSON",
+            "Text": "@midnight",
+            "BeginOffset": 47,
+            "EndOffset": 56
+        }
+    ]
+}

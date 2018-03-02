@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9101572632789612,
+            "Type": "PERSON",
+            "Text": "@AnneWheaton",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9708026051521301,
+            "Type": "OTHER",
+            "Text": "https://t.co",
+            "BeginOffset": 127,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6605792045593262,
+            "Type": "PERSON",
+            "Text": "@CROWENATION2016",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.7035236954689026,
+            "Type": "ORGANIZATION",
+            "Text": "@NewYorkFBI",
+            "BeginOffset": 31,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.859900176525116,
+            "Type": "ORGANIZATION",
+            "Text": "@FBI",
+            "BeginOffset": 43,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.7477403879165649,
+            "Type": "ORGANIZATION",
+            "Text": "NYPD",
+            "BeginOffset": 54,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9992210865020752,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 86,
+            "EndOffset": 101
+        }
+    ]
+}

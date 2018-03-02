@@ -1,0 +1,34 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9990800619125366,
+            "Text": "Trump",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9997296333312988,
+            "Text": "the endorsement",
+            "BeginOffset": 13,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9987673163414001,
+            "Text": "the whole military community",
+            "BeginOffset": 32,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.999598503112793,
+            "Text": "the open letter",
+            "BeginOffset": 65,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.9978228807449341,
+            "Text": "88 generals",
+            "BeginOffset": 91,
+            "EndOffset": 102
+        }
+    ]
+}

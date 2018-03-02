@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9265730977058411,
+            "Type": "PERSON",
+            "Text": "@Thomas1774",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9994801878929138,
+            "Type": "PERSON",
+            "Text": "John Kerry",
+            "BeginOffset": 21,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.7363870143890381,
+            "Type": "OTHER",
+            "Text": "Iranian",
+            "BeginOffset": 51,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.7374184131622314,
+            "Type": "LOCATION",
+            "Text": "Iran",
+            "BeginOffset": 91,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.7095191478729248,
+            "Type": "LOCATION",
+            "Text": "Israel",
+            "BeginOffset": 132,
+            "EndOffset": 138
+        }
+    ]
+}

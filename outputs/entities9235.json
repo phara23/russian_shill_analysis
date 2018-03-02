@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9951834082603455,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.988455057144165,
+            "Type": "LOCATION",
+            "Text": "Dallas",
+            "BeginOffset": 31,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.99983811378479,
+            "Type": "OTHER",
+            "Text": "https://t.co/uV9fw800w1",
+            "BeginOffset": 116,
+            "EndOffset": 139
+        }
+    ]
+}

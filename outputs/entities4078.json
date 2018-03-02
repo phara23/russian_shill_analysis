@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.761536717414856,
+            "Type": "PERSON",
+            "Text": "@currentlyFeed",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8311364650726318,
+            "Type": "ORGANIZATION",
+            "Text": "Harvard",
+            "BeginOffset": 29,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9083265662193298,
+            "Type": "QUANTITY",
+            "Text": "5,000 a Year",
+            "BeginOffset": 59,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.915494441986084,
+            "Type": "PERSON",
+            "Text": "@katiezavadski",
+            "BeginOffset": 94,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.9056476950645447,
+            "Type": "PERSON",
+            "Text": "@greenhousenyt",
+            "BeginOffset": 109,
+            "EndOffset": 123
+        },
+        {
+            "Score": 0.8846474885940552,
+            "Type": "PERSON",
+            "Text": "@tomgara",
+            "BeginOffset": 124,
+            "EndOffset": 132
+        }
+    ]
+}

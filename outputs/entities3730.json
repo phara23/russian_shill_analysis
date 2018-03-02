@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9349267482757568,
+            "Type": "PERSON",
+            "Text": "@Distinct_Grace",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9865350127220154,
+            "Type": "PERSON",
+            "Text": "Carlos Danger",
+            "BeginOffset": 65,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.9999785423278809,
+            "Type": "OTHER",
+            "Text": "https://t.co/Xjdlpx8BMg",
+            "BeginOffset": 80,
+            "EndOffset": 103
+        }
+    ]
+}

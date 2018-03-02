@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8051889538764954,
+            "Type": "PERSON",
+            "Text": "@luvGodncountry",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7147459983825684,
+            "Type": "ORGANIZATION",
+            "Text": "Chicago Police",
+            "BeginOffset": 33,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.988246500492096,
+            "Type": "OTHER",
+            "Text": "https://t.co/V2V7kK30ty",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.9301387667655945,
+            "Type": "ORGANIZATION",
+            "Text": "@ConservaVideos",
+            "BeginOffset": 118,
+            "EndOffset": 133
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8854594230651855,
+            "Type": "PERSON",
+            "Text": "@SandiDeMita",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8760169744491577,
+            "Type": "LOCATION",
+            "Text": "Russia",
+            "BeginOffset": 34,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9999657869338989,
+            "Type": "OTHER",
+            "Text": "https://t.co/Qr2Ly8mfUz",
+            "BeginOffset": 41,
+            "EndOffset": 64
+        }
+    ]
+}

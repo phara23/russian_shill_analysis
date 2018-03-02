@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9102064967155457,
+            "Type": "PERSON",
+            "Text": "@emzanotti",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9960395097732544,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 53,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9842197299003601,
+            "Type": "DATE",
+            "Text": "today",
+            "BeginOffset": 72,
+            "EndOffset": 77
+        }
+    ]
+}

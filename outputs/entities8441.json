@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9952162504196167,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 0,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.8089110255241394,
+            "Type": "QUANTITY",
+            "Text": "First Super Predators",
+            "BeginOffset": 24,
+            "EndOffset": 45
+        }
+    ]
+}

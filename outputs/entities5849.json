@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8556120991706848,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.794795036315918,
+            "Type": "ORGANIZATION",
+            "Text": "TMZ",
+            "BeginOffset": 22,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9975306391716003,
+            "Type": "PERSON",
+            "Text": "Chris",
+            "BeginOffset": 64,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9999254941940308,
+            "Type": "OTHER",
+            "Text": "https://t.co/e4fdaNR1Ql",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

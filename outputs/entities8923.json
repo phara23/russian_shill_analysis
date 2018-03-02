@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9042837619781494,
+            "Type": "PERSON",
+            "Text": "@DrJillStein",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.6617592573165894,
+            "Type": "ORGANIZATION",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 63,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.9567789435386658,
+            "Type": "LOCATION",
+            "Text": "NYC",
+            "BeginOffset": 81,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9999227523803711,
+            "Type": "OTHER",
+            "Text": "https://t.co/qAzjxHwGU1",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        }
+    ]
+}

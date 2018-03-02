@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9114606976509094,
+            "Type": "PERSON",
+            "Text": "@payneoflarry",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9965016841888428,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 18,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9937637448310852,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 27,
+            "EndOffset": 34
+        }
+    ]
+}

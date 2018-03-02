@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8752880096435547,
+            "Type": "PERSON",
+            "Text": "@afezio1952",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9943735599517822,
+            "Type": "ORGANIZATION",
+            "Text": "CIA",
+            "BeginOffset": 16,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9665146470069885,
+            "Type": "PERSON",
+            "Text": "Brennan",
+            "BeginOffset": 22,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9977706670761108,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 36,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.7188896536827087,
+            "Type": "LOCATION",
+            "Text": "Russia",
+            "BeginOffset": 78,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.7669317722320557,
+            "Type": "OTHER",
+            "Text": "https://t.co/rFtSBORuId",
+            "BeginOffset": 94,
+            "EndOffset": 117
+        },
+        {
+            "Score": 0.8641464114189148,
+            "Type": "PERSON",
+            "Text": "Brennan",
+            "BeginOffset": 118,
+            "EndOffset": 125
+        }
+    ]
+}

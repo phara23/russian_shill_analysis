@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8797025084495544,
+            "Type": "PERSON",
+            "Text": "@Skyblumelon",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9938608407974243,
+            "Type": "DATE",
+            "Text": "Sunday",
+            "BeginOffset": 59,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9808160662651062,
+            "Type": "DATE",
+            "Text": "Friday",
+            "BeginOffset": 128,
+            "EndOffset": 134
+        }
+    ]
+}

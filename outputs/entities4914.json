@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9349979162216187,
+            "Type": "PERSON",
+            "Text": "@Bemyfriend67",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9332265257835388,
+            "Type": "DATE",
+            "Text": "tonight",
+            "BeginOffset": 95,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.8360983729362488,
+            "Type": "PERSON",
+            "Text": "@gigirules7",
+            "BeginOffset": 103,
+            "EndOffset": 114
+        }
+    ]
+}

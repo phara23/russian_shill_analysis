@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6419039368629456,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8146896958351135,
+            "Type": "PERSON",
+            "Text": "@sdv92",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.94976806640625,
+            "Type": "OTHER",
+            "Text": "https://t.co/OCeDZ7GYMS",
+            "BeginOffset": 57,
+            "EndOffset": 80
+        }
+    ]
+}

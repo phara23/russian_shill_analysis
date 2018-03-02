@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9229419827461243,
+            "Type": "PERSON",
+            "Text": "@JeanneMccarthy0",
+            "BeginOffset": 0,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7828969955444336,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 93,
+            "EndOffset": 100
+        }
+    ]
+}

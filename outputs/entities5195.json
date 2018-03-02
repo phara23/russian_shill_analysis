@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.774151623249054,
+            "Type": "PERSON",
+            "Text": "@HAGOODMANAUTHOR",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.989467442035675,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 42,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9987013936042786,
+            "Type": "PERSON",
+            "Text": "Bill Clinton",
+            "BeginOffset": 64,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.9610478281974792,
+            "Type": "OTHER",
+            "Text": "https://t.co/vvYFODEU5w",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.9904556274414062,
+            "Type": "ORGANIZATION",
+            "Text": "@YouTube",
+            "BeginOffset": 125,
+            "EndOffset": 133
+        }
+    ]
+}

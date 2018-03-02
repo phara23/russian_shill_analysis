@@ -1,0 +1,74 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8087684512138367,
+            "Type": "ORGANIZATION",
+            "Text": "@SEC_SAM",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.36471402645111084,
+            "Type": "ORGANIZATION",
+            "Text": "#WakeUpAmerica",
+            "BeginOffset": 13,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.6015706062316895,
+            "Type": "ORGANIZATION",
+            "Text": "#MAGA",
+            "BeginOffset": 28,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.6311248540878296,
+            "Type": "QUANTITY",
+            "Text": "#2A",
+            "BeginOffset": 34,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.6436553001403809,
+            "Type": "ORGANIZATION",
+            "Text": "#CCOT",
+            "BeginOffset": 38,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.8772107362747192,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 51,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.8855067491531372,
+            "Type": "PERSON",
+            "Text": "@Callisto1947",
+            "BeginOffset": 69,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.8846985101699829,
+            "Type": "PERSON",
+            "Text": "@bfraser747",
+            "BeginOffset": 84,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.8281458616256714,
+            "Type": "PERSON",
+            "Text": "@healthandcents",
+            "BeginOffset": 97,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.9999754428863525,
+            "Type": "OTHER",
+            "Text": "https://t.co/2m6gZJ2hLt",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        }
+    ]
+}

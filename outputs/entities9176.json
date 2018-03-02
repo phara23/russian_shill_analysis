@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9040437936782837,
+            "Type": "PERSON",
+            "Text": "@marylener9",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.4493924677371979,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 16,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.809363067150116,
+            "Type": "PERSON",
+            "Text": "@Dlw20161950",
+            "BeginOffset": 19,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.946565568447113,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 33,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.8443470001220703,
+            "Type": "TITLE",
+            "Text": "We Don't Want Obamacare Lite",
+            "BeginOffset": 38,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.8753539323806763,
+            "Type": "PERSON",
+            "Text": "@tedcruz",
+            "BeginOffset": 68,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.9564021229743958,
+            "Type": "OTHER",
+            "Text": "https://t.co/UXP3yjn7Oi",
+            "BeginOffset": 109,
+            "EndOffset": 132
+        }
+    ]
+}

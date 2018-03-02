@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9246326684951782,
+            "Type": "PERSON",
+            "Text": "@ShwahKram",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.5313879251480103,
+            "Type": "OTHER",
+            "Text": "Americans",
+            "BeginOffset": 22,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9635377526283264,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 64,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9855842590332031,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 69,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.7863916158676147,
+            "Type": "PERSON",
+            "Text": "@peterdaou",
+            "BeginOffset": 95,
+            "EndOffset": 105
+        }
+    ]
+}

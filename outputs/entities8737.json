@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9087207317352295,
+            "Type": "PERSON",
+            "Text": "@RealAlexJones",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9218261241912842,
+            "Type": "PERSON",
+            "Text": "President elect Trump",
+            "BeginOffset": 42,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9998800754547119,
+            "Type": "OTHER",
+            "Text": "https://t.co/A9mn9QOfvq",
+            "BeginOffset": 66,
+            "EndOffset": 89
+        }
+    ]
+}

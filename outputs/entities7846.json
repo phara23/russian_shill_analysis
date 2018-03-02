@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7160017490386963,
+            "Type": "PERSON",
+            "Text": "@spmcintyre",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.87688148021698,
+            "Type": "QUANTITY",
+            "Text": "5 Star",
+            "BeginOffset": 111,
+            "EndOffset": 117
+        }
+    ]
+}

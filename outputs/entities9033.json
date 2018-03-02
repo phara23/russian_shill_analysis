@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9220225214958191,
+            "Type": "PERSON",
+            "Text": "@timgw37",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9896837472915649,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 37,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9487556219100952,
+            "Type": "ORGANIZATION",
+            "Text": "Congress",
+            "BeginOffset": 62,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.8434262871742249,
+            "Type": "OTHER",
+            "Text": "https://t.co/hUk0ld7bU1",
+            "BeginOffset": 71,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.9894223809242249,
+            "Type": "OTHER",
+            "Text": "https://t.co/uRoPUfZXVN",
+            "BeginOffset": 95,
+            "EndOffset": 118
+        },
+        {
+            "Score": 0.44018498063087463,
+            "Type": "ORGANIZATION",
+            "Text": "Senate",
+            "BeginOffset": 120,
+            "EndOffset": 126
+        },
+        {
+            "Score": 0.9853143692016602,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 133,
+            "EndOffset": 138
+        }
+    ]
+}

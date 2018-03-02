@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7562545537948608,
+            "Type": "PERSON",
+            "Text": "@politico",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9740028977394104,
+            "Type": "PERSON",
+            "Text": "Comey",
+            "BeginOffset": 14,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9719213247299194,
+            "Type": "DATE",
+            "Text": "today",
+            "BeginOffset": 30,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.8276563286781311,
+            "Type": "QUANTITY",
+            "Text": "both parties",
+            "BeginOffset": 50,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.7293366193771362,
+            "Type": "LOCATION",
+            "Text": "Russia",
+            "BeginOffset": 111,
+            "EndOffset": 117
+        },
+        {
+            "Score": 0.9615268111228943,
+            "Type": "OTHER",
+            "Text": "https://t.co/F",
+            "BeginOffset": 125,
+            "EndOffset": 139
+        }
+    ]
+}

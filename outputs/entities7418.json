@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8838831782341003,
+            "Type": "PERSON",
+            "Text": "@raju",
+            "BeginOffset": 3,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.6457474231719971,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 15,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.998557984828949,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 41,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9998975992202759,
+            "Type": "OTHER",
+            "Text": "https://t.co/ThSySPRpRR",
+            "BeginOffset": 69,
+            "EndOffset": 92
+        }
+    ]
+}

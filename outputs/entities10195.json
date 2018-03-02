@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9177485108375549,
+            "Type": "PERSON",
+            "Text": "@LesIzMore",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9429526329040527,
+            "Type": "PERSON",
+            "Text": "@CaliAtl11",
+            "BeginOffset": 54,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9999587535858154,
+            "Type": "OTHER",
+            "Text": "https://t.co/xudRs6zmeB",
+            "BeginOffset": 72,
+            "EndOffset": 95
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8666457533836365,
+            "Type": "PERSON",
+            "Text": "@ARnews1936",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8937503099441528,
+            "Type": "PERSON",
+            "Text": "@newtgingrich",
+            "BeginOffset": 17,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.35454750061035156,
+            "Type": "ORGANIZATION",
+            "Text": "FNS",
+            "BeginOffset": 34,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.6846062541007996,
+            "Type": "OTHER",
+            "Text": "Russians",
+            "BeginOffset": 43,
+            "EndOffset": 51
+        }
+    ]
+}

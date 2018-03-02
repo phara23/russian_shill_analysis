@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.707186758518219,
+            "Type": "PERSON",
+            "Text": "Teresa",
+            "BeginOffset": 93,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.9999843835830688,
+            "Type": "OTHER",
+            "Text": "https://t.co/t6gqZsJ8Ey",
+            "BeginOffset": 116,
+            "EndOffset": 139
+        }
+    ]
+}

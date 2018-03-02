@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9384459257125854,
+            "Type": "PERSON",
+            "Text": "@CasanovasTool",
+            "BeginOffset": 0,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.5663549304008484,
+            "Type": "OTHER",
+            "Text": "French",
+            "BeginOffset": 35,
+            "EndOffset": 41
+        }
+    ]
+}

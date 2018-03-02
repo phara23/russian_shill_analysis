@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9495580792427063,
+            "Type": "PERSON",
+            "Text": "@nmsaints87124",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7159099578857422,
+            "Type": "PERSON",
+            "Text": "Clinton Insider",
+            "BeginOffset": 19,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.6785848736763,
+            "Type": "ORGANIZATION",
+            "Text": "DCLeaks",
+            "BeginOffset": 57,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9898015856742859,
+            "Type": "OTHER",
+            "Text": "https://t.co/Pp2PVENzfG",
+            "BeginOffset": 65,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.7406471371650696,
+            "Type": "ORGANIZATION",
+            "Text": "@realalexjones",
+            "BeginOffset": 93,
+            "EndOffset": 107
+        }
+    ]
+}

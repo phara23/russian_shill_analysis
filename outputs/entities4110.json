@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7795153260231018,
+            "Type": "ORGANIZATION",
+            "Text": "@Politics_PR",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9923940896987915,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 20,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9455260634422302,
+            "Type": "LOCATION",
+            "Text": "Mexico",
+            "BeginOffset": 47,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9933062791824341,
+            "Type": "DATE",
+            "Text": "Last Week",
+            "BeginOffset": 54,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.900219202041626,
+            "Type": "OTHER",
+            "Text": "https://t.co/FZrip6tAt5",
+            "BeginOffset": 87,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.940722644329071,
+            "Type": "OTHER",
+            "Text": "https://t.co/E0",
+            "BeginOffset": 124,
+            "EndOffset": 139
+        }
+    ]
+}

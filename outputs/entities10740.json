@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9040619134902954,
+            "Type": "PERSON",
+            "Text": "@TexasHumor",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.4205861985683441,
+            "Type": "LOCATION",
+            "Text": "Texan",
+            "BeginOffset": 51,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9997283816337585,
+            "Type": "OTHER",
+            "Text": "https://t.co/wa4PsqTflY",
+            "BeginOffset": 65,
+            "EndOffset": 88
+        }
+    ]
+}

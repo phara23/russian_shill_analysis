@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9992156624794006,
+            "Type": "PERSON",
+            "Text": "Michelle Obama",
+            "BeginOffset": 10,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9998432397842407,
+            "Type": "OTHER",
+            "Text": "https://t.co/nE6aDGZIXS",
+            "BeginOffset": 53,
+            "EndOffset": 76
+        }
+    ]
+}

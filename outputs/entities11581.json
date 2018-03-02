@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8914357423782349,
+            "Type": "PERSON",
+            "Text": "@HouseCracka",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.5795572996139526,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 61,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.6592388153076172,
+            "Type": "PERSON",
+            "Text": "@UnivOfTruth",
+            "BeginOffset": 83,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.6951705813407898,
+            "Type": "PERSON",
+            "Text": "@OfficeGovEthics",
+            "BeginOffset": 121,
+            "EndOffset": 137
+        },
+        {
+            "Score": 0.8619431257247925,
+            "Type": "PERSON",
+            "Text": "@real",
+            "BeginOffset": 140,
+            "EndOffset": 145
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9393574595451355,
+            "Type": "PERSON",
+            "Text": "@felicia014",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9772481322288513,
+            "Type": "PERSON",
+            "Text": "Bowie",
+            "BeginOffset": 40,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.973244309425354,
+            "Type": "PERSON",
+            "Text": "Prince",
+            "BeginOffset": 50,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9942525029182434,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 62,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.45484811067581177,
+            "Type": "ORGANIZATION",
+            "Text": "CanRedeemItself",
+            "BeginOffset": 66,
+            "EndOffset": 81
+        }
+    ]
+}

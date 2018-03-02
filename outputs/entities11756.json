@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8701609969139099,
+            "Type": "PERSON",
+            "Text": "@JustAHobbit",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9632897973060608,
+            "Type": "PERSON",
+            "Text": "@ChuckNellis",
+            "BeginOffset": 18,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.823803186416626,
+            "Type": "PERSON",
+            "Text": "Bush",
+            "BeginOffset": 87,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.9804367423057556,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 103,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.9908812642097473,
+            "Type": "QUANTITY",
+            "Text": "8 year",
+            "BeginOffset": 133,
+            "EndOffset": 139
+        }
+    ]
+}

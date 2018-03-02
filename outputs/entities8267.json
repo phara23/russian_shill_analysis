@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8618254065513611,
+            "Type": "PERSON",
+            "Text": "@GoldStarMomTX55",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.986841082572937,
+            "Type": "DATE",
+            "Text": "1995",
+            "BeginOffset": 84,
+            "EndOffset": 88
+        }
+    ]
+}

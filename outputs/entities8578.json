@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8934783339500427,
+            "Type": "PERSON",
+            "Text": "@asskickymchotti",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9411624073982239,
+            "Type": "ORGANIZATION",
+            "Text": "RNC",
+            "BeginOffset": 42,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.897369384765625,
+            "Type": "OTHER",
+            "Text": "https://t.c",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

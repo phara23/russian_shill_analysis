@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8373742699623108,
+            "Type": "PERSON",
+            "Text": "@lacakagog",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.62633216381073,
+            "Type": "QUANTITY",
+            "Text": "Eight Muslim 'Refugees",
+            "BeginOffset": 26,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.8627722263336182,
+            "Type": "QUANTITY",
+            "Text": "ONE MONTH",
+            "BeginOffset": 53,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9965165853500366,
+            "Type": "ORGANIZATION",
+            "Text": "ISIS",
+            "BeginOffset": 102,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.9932993650436401,
+            "Type": "ORGANIZATION",
+            "Text": "Al-Qaeda",
+            "BeginOffset": 111,
+            "EndOffset": 119
+        },
+        {
+            "Score": 0.911381721496582,
+            "Type": "OTHER",
+            "Text": "https://t.co/gh7KEN",
+            "BeginOffset": 120,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8496465682983398,
+            "Type": "PERSON",
+            "Text": "@LibAmericaOrg",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.94948810338974,
+            "Type": "PERSON",
+            "Text": "Kaine",
+            "BeginOffset": 19,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.997848391532898,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 30,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.8732579946517944,
+            "Type": "OTHER",
+            "Text": "https://t.co/0DmxXmXcJr",
+            "BeginOffset": 71,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.9999886751174927,
+            "Type": "OTHER",
+            "Text": "https://t.co/WDr6DTYZd5",
+            "BeginOffset": 95,
+            "EndOffset": 118
+        }
+    ]
+}

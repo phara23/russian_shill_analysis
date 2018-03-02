@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7417475581169128,
+            "Type": "PERSON",
+            "Text": "@FaithPeaceLove2",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9416120648384094,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 40,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9996490478515625,
+            "Type": "OTHER",
+            "Text": "https://t.co/orfXuiFMsJ",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        }
+    ]
+}

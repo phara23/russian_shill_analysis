@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9998378753662109,
+            "Type": "PERSON",
+            "Text": "Tom Carroll",
+            "BeginOffset": 0,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9994744658470154,
+            "Type": "OTHER",
+            "Text": "https://t.co/AIkWiW0OwM",
+            "BeginOffset": 79,
+            "EndOffset": 102
+        }
+    ]
+}

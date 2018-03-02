@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7734212279319763,
+            "Type": "TITLE",
+            "Text": "Star Ocean",
+            "BeginOffset": 1,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8922868967056274,
+            "Type": "TITLE",
+            "Text": "Is Going To Be So Good",
+            "BeginOffset": 15,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.8350314497947693,
+            "Type": "OTHER",
+            "Text": "https://t.co/S54iLDoSEE",
+            "BeginOffset": 38,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.683073878288269,
+            "Type": "PERSON",
+            "Text": "#p2 #news",
+            "BeginOffset": 68,
+            "EndOffset": 77
+        }
+    ]
+}

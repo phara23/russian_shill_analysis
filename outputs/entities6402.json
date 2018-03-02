@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9415395855903625,
+            "Type": "PERSON",
+            "Text": "@davidsirota",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9394890666007996,
+            "Type": "QUANTITY",
+            "Text": "two standoffs",
+            "BeginOffset": 51,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.765413761138916,
+            "Type": "LOCATION",
+            "Text": "Saudi",
+            "BeginOffset": 90,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.7920446395874023,
+            "Type": "TITLE",
+            "Text": "TPP",
+            "BeginOffset": 114,
+            "EndOffset": 117
+        }
+    ]
+}

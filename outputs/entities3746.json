@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9494134783744812,
+            "Type": "PERSON",
+            "Text": "@jeremyscahill",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9999287724494934,
+            "Type": "PERSON",
+            "Text": "Mike Flynn",
+            "BeginOffset": 51,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9958695769309998,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 63,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.8113386034965515,
+            "Type": "ORGANIZATION",
+            "Text": "National Security Advisor",
+            "BeginOffset": 80,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.9996955394744873,
+            "Type": "OTHER",
+            "Text": "https://t.co/m4qtmHkNIm",
+            "BeginOffset": 107,
+            "EndOffset": 130
+        }
+    ]
+}

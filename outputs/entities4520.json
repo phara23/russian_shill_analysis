@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9300172924995422,
+            "Type": "PERSON",
+            "Text": "George Washington",
+            "BeginOffset": 47,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9997482895851135,
+            "Type": "OTHER",
+            "Text": "https://t.co/yisezpLTm6",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        }
+    ]
+}

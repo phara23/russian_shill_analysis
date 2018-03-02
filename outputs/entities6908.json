@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8932574987411499,
+            "Type": "PERSON",
+            "Text": "@barenakedislam",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.5184510350227356,
+            "Type": "ORGANIZATION",
+            "Text": "CANADA",
+            "BeginOffset": 20,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9445361495018005,
+            "Type": "ORGANIZATION",
+            "Text": "Muslims",
+            "BeginOffset": 28,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9242713451385498,
+            "Type": "ORGANIZATION",
+            "Text": "Muslim",
+            "BeginOffset": 66,
+            "EndOffset": 72
+        }
+    ]
+}

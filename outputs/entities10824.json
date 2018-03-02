@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9810258150100708,
+            "Type": "PERSON",
+            "Text": "@Lauren_Lebeda",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9884796738624573,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 61,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9955235719680786,
+            "Type": "PERSON",
+            "Text": "Jeb Bush",
+            "BeginOffset": 98,
+            "EndOffset": 106
+        }
+    ]
+}

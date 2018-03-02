@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8619313836097717,
+            "Type": "PERSON",
+            "Text": "@CarmineZozzora",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8239421844482422,
+            "Type": "PERSON",
+            "Text": "@Stonewall_77",
+            "BeginOffset": 20,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9404669404029846,
+            "Type": "ORGANIZATION",
+            "Text": "LA Times",
+            "BeginOffset": 34,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.7345019578933716,
+            "Type": "LOCATION",
+            "Text": "California",
+            "BeginOffset": 51,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9999533891677856,
+            "Type": "OTHER",
+            "Text": "https://t.co/yAVnDbXAsK",
+            "BeginOffset": 78,
+            "EndOffset": 101
+        }
+    ]
+}

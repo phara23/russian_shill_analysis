@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8764039874076843,
+            "Type": "PERSON",
+            "Text": "@tabishch",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8470457196235657,
+            "Type": "QUANTITY",
+            "Text": "3 Smart Budgeting Tips",
+            "BeginOffset": 43,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9915016889572144,
+            "Type": "OTHER",
+            "Text": "#Tashify.com",
+            "BeginOffset": 70,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.9934625029563904,
+            "Type": "OTHER",
+            "Text": "#MavoTV.com",
+            "BeginOffset": 83,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.9999712705612183,
+            "Type": "OTHER",
+            "Text": "https://t.co/uq7462P7IJ",
+            "BeginOffset": 95,
+            "EndOffset": 118
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9066254496574402,
+            "Type": "PERSON",
+            "Text": "@dissentingj",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9785482883453369,
+            "Type": "PERSON",
+            "Text": "Bernie",
+            "BeginOffset": 26,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9999986886978149,
+            "Type": "OTHER",
+            "Text": "https://t.co/G8Jw99R92m",
+            "BeginOffset": 33,
+            "EndOffset": 56
+        }
+    ]
+}

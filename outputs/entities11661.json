@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9606989622116089,
+            "Type": "PERSON",
+            "Text": "@JohnKStahlUSA",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9831909537315369,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 19,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.8654811978340149,
+            "Type": "ORGANIZATION",
+            "Text": "HRC",
+            "BeginOffset": 42,
+            "EndOffset": 45
+        }
+    ]
+}

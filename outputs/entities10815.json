@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8361693024635315,
+            "Type": "PERSON",
+            "Text": "@The___Jay",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.6410444974899292,
+            "Type": "OTHER",
+            "Text": "Mexican",
+            "BeginOffset": 32,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9999407529830933,
+            "Type": "OTHER",
+            "Text": "https://t.co/Rgyix5cUNq",
+            "BeginOffset": 52,
+            "EndOffset": 75
+        }
+    ]
+}

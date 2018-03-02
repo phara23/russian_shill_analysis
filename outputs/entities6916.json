@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9180603623390198,
+            "Type": "PERSON",
+            "Text": "@Bliss_Ville",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.48968175053596497,
+            "Type": "PERSON",
+            "Text": "Betters",
+            "BeginOffset": 21,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.5758202075958252,
+            "Type": "PERSON",
+            "Text": "TRUMP",
+            "BeginOffset": 53,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.6624534130096436,
+            "Type": "PERSON",
+            "Text": "KHAN",
+            "BeginOffset": 65,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.6668773293495178,
+            "Type": "PERSON",
+            "Text": "CURIEL",
+            "BeginOffset": 89,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.9905561208724976,
+            "Type": "QUANTITY",
+            "Text": "3 days",
+            "BeginOffset": 105,
+            "EndOffset": 111
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5726173520088196,
+            "Type": "LOCATION",
+            "Text": "Israeli",
+            "BeginOffset": 5,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9985129833221436,
+            "Type": "PERSON",
+            "Text": "Shimon Peres",
+            "BeginOffset": 23,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9873474836349487,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 64,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.7410816550254822,
+            "Type": "PERSON",
+            "Text": "Clintons",
+            "BeginOffset": 78,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9333844780921936,
+            "Type": "OTHER",
+            "Text": "https://t.co/UiWt7QCr7k",
+            "BeginOffset": 87,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.4699114263057709,
+            "Type": "ORGANIZATION",
+            "Text": "#Foke",
+            "BeginOffset": 111,
+            "EndOffset": 116
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9211137890815735,
+            "Type": "PERSON",
+            "Text": "@sandiv11",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9970506429672241,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 15,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.9946067929267883,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 25,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9548171162605286,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 35,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9759993553161621,
+            "Type": "OTHER",
+            "Text": "https://t.co",
+            "BeginOffset": 127,
+            "EndOffset": 139
+        }
+    ]
+}

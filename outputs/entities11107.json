@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9983211159706116,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9982461929321289,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 11,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9710320234298706,
+            "Type": "OTHER",
+            "Text": "African-American",
+            "BeginOffset": 34,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9999709129333496,
+            "Type": "OTHER",
+            "Text": "https://t.co/qtUBxTPQR3",
+            "BeginOffset": 58,
+            "EndOffset": 81
+        }
+    ]
+}

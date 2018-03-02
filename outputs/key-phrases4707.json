@@ -1,0 +1,28 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9938743710517883,
+            "Text": "France",
+            "BeginOffset": 0,
+            "EndOffset": 6
+        },
+        {
+            "Score": 0.9717711806297302,
+            "Text": "Macron",
+            "BeginOffset": 9,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.998137354850769,
+            "Text": "his party",
+            "BeginOffset": 23,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9632181525230408,
+            "Text": "2017 election",
+            "BeginOffset": 37,
+            "EndOffset": 50
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9587448835372925,
+            "Type": "PERSON",
+            "Text": "@HeidiPrzybyla",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9472420811653137,
+            "Type": "PERSON",
+            "Text": "Warren",
+            "BeginOffset": 22,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.965752124786377,
+            "Type": "PERSON",
+            "Text": "Kaine",
+            "BeginOffset": 49,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.8443552851676941,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 99,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.6919577121734619,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 129,
+            "EndOffset": 138
+        }
+    ]
+}

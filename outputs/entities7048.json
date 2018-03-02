@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7977010607719421,
+            "Type": "PERSON",
+            "Text": "@NolteNC",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9956470131874084,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 13,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9393777847290039,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 69,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.9684426784515381,
+            "Type": "PERSON",
+            "Text": "Lincoln",
+            "BeginOffset": 79,
+            "EndOffset": 86
+        }
+    ]
+}

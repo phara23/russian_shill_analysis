@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8150377869606018,
+            "Type": "PERSON",
+            "Text": "@DMashak",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.7837350964546204,
+            "Type": "QUANTITY",
+            "Text": "1/2",
+            "BeginOffset": 13,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9870102405548096,
+            "Type": "LOCATION",
+            "Text": "Ecuador",
+            "BeginOffset": 54,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9960424304008484,
+            "Type": "PERSON",
+            "Text": "Julian Assange",
+            "BeginOffset": 77,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.966688871383667,
+            "Type": "LOCATION",
+            "Text": "England",
+            "BeginOffset": 119,
+            "EndOffset": 126
+        },
+        {
+            "Score": 0.8320198059082031,
+            "Type": "ORGANIZATION",
+            "Text": "@Wikileaks",
+            "BeginOffset": 127,
+            "EndOffset": 137
+        },
+        {
+            "Score": 0.5994167923927307,
+            "Type": "ORGANIZATION",
+            "Text": "@…",
+            "BeginOffset": 138,
+            "EndOffset": 140
+        }
+    ]
+}

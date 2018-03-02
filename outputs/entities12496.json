@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8994535207748413,
+            "Type": "PERSON",
+            "Text": "@madina_design",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9057599306106567,
+            "Type": "PERSON",
+            "Text": "@Madina_Design",
+            "BeginOffset": 53,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.7953932881355286,
+            "Type": "OTHER",
+            "Text": "https://t.co/fCDTdsqQjv",
+            "BeginOffset": 77,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.9789688587188721,
+            "Type": "OTHER",
+            "Text": "https://t.co/2CHz0ck1S",
+            "BeginOffset": 129,
+            "EndOffset": 151
+        }
+    ]
+}

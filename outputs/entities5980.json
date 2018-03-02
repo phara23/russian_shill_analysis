@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7827184200286865,
+            "Type": "PERSON",
+            "Text": "@BocaLegend",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.5997470021247864,
+            "Type": "ORGANIZATION",
+            "Text": "Hamas",
+            "BeginOffset": 16,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.40428611636161804,
+            "Type": "ORGANIZATION",
+            "Text": "Fatah",
+            "BeginOffset": 24,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9999196529388428,
+            "Type": "OTHER",
+            "Text": "https://t.co/2AWe3km6rc",
+            "BeginOffset": 57,
+            "EndOffset": 80
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9463130831718445,
+            "Type": "PERSON",
+            "Text": "@StefanMolyneux",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9975152611732483,
+            "Type": "PERSON",
+            "Text": "Angela Merkel",
+            "BeginOffset": 44,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.8173361420631409,
+            "Type": "LOCATION",
+            "Text": "Germany",
+            "BeginOffset": 69,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.9987239241600037,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 89,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.8087966442108154,
+            "Type": "LOCATION",
+            "Text": "United Stat",
+            "BeginOffset": 124,
+            "EndOffset": 135
+        }
+    ]
+}

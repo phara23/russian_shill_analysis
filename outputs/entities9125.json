@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8666015863418579,
+            "Type": "PERSON",
+            "Text": "@Blickch",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8977437019348145,
+            "Type": "OTHER",
+            "Text": "https://t.co/D9W9ndk9zO",
+            "BeginOffset": 65,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9997031092643738,
+            "Type": "OTHER",
+            "Text": "https://t.co/8fAqjoDbYz",
+            "BeginOffset": 89,
+            "EndOffset": 112
+        }
+    ]
+}

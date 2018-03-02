@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9464256763458252,
+            "Type": "PERSON",
+            "Text": "@tlamb775",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.997852087020874,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 27,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.504843533039093,
+            "Type": "QUANTITY",
+            "Text": "24",
+            "BeginOffset": 59,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.7885351181030273,
+            "Type": "QUANTITY",
+            "Text": "7",
+            "BeginOffset": 62,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9708110094070435,
+            "Type": "OTHER",
+            "Text": "https://t.co/h6y",
+            "BeginOffset": 123,
+            "EndOffset": 139
+        }
+    ]
+}

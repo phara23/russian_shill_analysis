@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8720479607582092,
+            "Type": "ORGANIZATION",
+            "Text": "@CNN",
+            "BeginOffset": 3,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.9990655183792114,
+            "Type": "PERSON",
+            "Text": "Kanye West",
+            "BeginOffset": 9,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9915875792503357,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 28,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.999622642993927,
+            "Type": "LOCATION",
+            "Text": "New York",
+            "BeginOffset": 37,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.998871386051178,
+            "Type": "DATE",
+            "Text": "Tuesday",
+            "BeginOffset": 49,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.8289418816566467,
+            "Type": "QUANTITY",
+            "Text": "first time",
+            "BeginOffset": 76,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9715211391448975,
+            "Type": "OTHER",
+            "Text": "https://t.co/",
+            "BeginOffset": 126,
+            "EndOffset": 139
+        }
+    ]
+}

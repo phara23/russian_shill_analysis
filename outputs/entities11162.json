@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.687902569770813,
+            "Type": "PERSON",
+            "Text": "@MadWorldNews",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9992977380752563,
+            "Type": "OTHER",
+            "Text": "http://t.co/GOJNbuPhUa",
+            "BeginOffset": 18,
+            "EndOffset": 40
+        }
+    ]
+}

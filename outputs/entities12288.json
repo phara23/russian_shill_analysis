@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6730533242225647,
+            "Type": "ORGANIZATION",
+            "Text": "@PowerMusicTeam",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9177049398422241,
+            "Type": "QUANTITY",
+            "Text": "6 Reasons",
+            "BeginOffset": 20,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.8477485775947571,
+            "Type": "OTHER",
+            "Text": "https://t.co/TtVv7SyRA1",
+            "BeginOffset": 49,
+            "EndOffset": 72
+        },
+        {
+            "Score": 0.9999637603759766,
+            "Type": "OTHER",
+            "Text": "https://t.co/6T6octDLiu",
+            "BeginOffset": 73,
+            "EndOffset": 96
+        }
+    ]
+}

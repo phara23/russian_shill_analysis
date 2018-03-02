@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.669267475605011,
+            "Type": "PERSON",
+            "Text": "@0Hour1",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9999113082885742,
+            "Type": "OTHER",
+            "Text": "https://t.co/luEa1F0AzK",
+            "BeginOffset": 42,
+            "EndOffset": 65
+        }
+    ]
+}

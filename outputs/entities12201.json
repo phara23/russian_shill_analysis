@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8788495063781738,
+            "Type": "PERSON",
+            "Text": "@SteveBo22",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8882140517234802,
+            "Type": "ORGANIZATION",
+            "Text": "RNC",
+            "BeginOffset": 78,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.9936513304710388,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 85,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9999738931655884,
+            "Type": "OTHER",
+            "Text": "https://t.co/6Yu0JMTcTB",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        }
+    ]
+}

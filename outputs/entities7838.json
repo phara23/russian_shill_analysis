@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8442977070808411,
+            "Type": "PERSON",
+            "Text": "@funkflex",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9915661215782166,
+            "Type": "PERSON",
+            "Text": "@Maliah_Michel",
+            "BeginOffset": 38,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.8812825679779053,
+            "Type": "OTHER",
+            "Text": "https://t.co/5zPIgBVjJN",
+            "BeginOffset": 92,
+            "EndOffset": 115
+        }
+    ]
+}

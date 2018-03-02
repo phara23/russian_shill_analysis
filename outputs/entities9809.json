@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8496384620666504,
+            "Type": "PERSON",
+            "Text": "@Pamela_Moore",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9872326850891113,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 34,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9260210394859314,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 62,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9999401569366455,
+            "Type": "OTHER",
+            "Text": "https://t.co/oaiS34Q4Lf",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

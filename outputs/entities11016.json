@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5442497730255127,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.9331210255622864,
+            "Type": "PERSON",
+            "Text": "@Tim_Groseclose",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9988123178482056,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 55,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.8687531352043152,
+            "Type": "PERSON",
+            "Text": "@JonahNRO",
+            "BeginOffset": 101,
+            "EndOffset": 110
+        }
+    ]
+}

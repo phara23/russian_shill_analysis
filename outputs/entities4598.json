@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7771074175834656,
+            "Type": "PERSON",
+            "Text": "@gansaw",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.7072476744651794,
+            "Type": "PERSON",
+            "Text": "@NYTimesDowd",
+            "BeginOffset": 12,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.3430783152580261,
+            "Type": "ORGANIZATION",
+            "Text": "Islamists",
+            "BeginOffset": 97,
+            "EndOffset": 106
+        }
+    ]
+}

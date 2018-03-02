@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8480379581451416,
+            "Type": "PERSON",
+            "Text": "@Phil_Lewis",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.999984622001648,
+            "Type": "OTHER",
+            "Text": "https://t.co/EyPJYgXM3V",
+            "BeginOffset": 17,
+            "EndOffset": 40
+        }
+    ]
+}

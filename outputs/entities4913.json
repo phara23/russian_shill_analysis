@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8123649954795837,
+            "Type": "PERSON",
+            "Text": "@LouDobbs",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8418372869491577,
+            "Type": "PERSON",
+            "Text": "Carson",
+            "BeginOffset": 36,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9789600968360901,
+            "Type": "OTHER",
+            "Text": "https://t.co/djIsoGG28M",
+            "BeginOffset": 81,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.9274159073829651,
+            "Type": "ORGANIZATION",
+            "Text": "@BreitbartNews",
+            "BeginOffset": 109,
+            "EndOffset": 123
+        }
+    ]
+}

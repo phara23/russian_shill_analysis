@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9420573115348816,
+            "Type": "PERSON",
+            "Text": "@EdAmiraghyan",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.5493095517158508,
+            "Type": "ORGANIZATION",
+            "Text": "Vine",
+            "BeginOffset": 18,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.8921009302139282,
+            "Type": "QUANTITY",
+            "Text": "two different jimmy johns",
+            "BeginOffset": 35,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.999927282333374,
+            "Type": "OTHER",
+            "Text": "https://t.co/sMKu21XNVo",
+            "BeginOffset": 84,
+            "EndOffset": 107
+        }
+    ]
+}

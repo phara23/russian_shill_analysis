@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9995138049125671,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 10,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.5201975107192993,
+            "Type": "QUANTITY",
+            "Text": "One SICK",
+            "BeginOffset": 46,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9138113260269165,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 66,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9540168046951294,
+            "Type": "OTHER",
+            "Text": "https://t.co/24utR8DiHh",
+            "BeginOffset": 85,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.9999837875366211,
+            "Type": "OTHER",
+            "Text": "https://t.co/SrhX8V0NCE",
+            "BeginOffset": 109,
+            "EndOffset": 132
+        }
+    ]
+}

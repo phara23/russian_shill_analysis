@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8998430967330933,
+            "Type": "PERSON",
+            "Text": "@nine_oh",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9957472681999207,
+            "Type": "PERSON",
+            "Text": "Jerry",
+            "BeginOffset": 30,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9972423315048218,
+            "Type": "DATE",
+            "Text": "Aug. 5",
+            "BeginOffset": 65,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.44129297137260437,
+            "Type": "DATE",
+            "Text": "2017",
+            "BeginOffset": 93,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.9998050332069397,
+            "Type": "OTHER",
+            "Text": "https://t.co/DNUoHKQeiW",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

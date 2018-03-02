@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7640833854675293,
+            "Type": "PERSON",
+            "Text": "@nathandial",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7799524664878845,
+            "Type": "QUANTITY",
+            "Text": "One weird trick people",
+            "BeginOffset": 62,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.6941231489181519,
+            "Type": "QUANTITY",
+            "Text": "#3",
+            "BeginOffset": 120,
+            "EndOffset": 122
+        }
+    ]
+}

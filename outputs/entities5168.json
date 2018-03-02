@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8864150047302246,
+            "Type": "PERSON",
+            "Text": "@andendall",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9315149784088135,
+            "Type": "OTHER",
+            "Text": "https://t.co/hLC3evV2Lw",
+            "BeginOffset": 93,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.9998040795326233,
+            "Type": "OTHER",
+            "Text": "https://t.co/2xxQQfZxWd",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7754014730453491,
+            "Type": "PERSON",
+            "Text": "@chicksonright",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8802857398986816,
+            "Type": "ORGANIZATION",
+            "Text": "ISIS",
+            "BeginOffset": 19,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.8515459299087524,
+            "Type": "QUANTITY",
+            "Text": "Two",
+            "BeginOffset": 47,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9755050539970398,
+            "Type": "ORGANIZATION",
+            "Text": "ISIS",
+            "BeginOffset": 51,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9998906850814819,
+            "Type": "OTHER",
+            "Text": "https://t.co/GM4HtfsvqW",
+            "BeginOffset": 76,
+            "EndOffset": 99
+        }
+    ]
+}

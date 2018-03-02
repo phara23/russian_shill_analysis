@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9033073782920837,
+            "Type": "PERSON",
+            "Text": "@Southrngirl77",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9836967587471008,
+            "Type": "LOCATION",
+            "Text": "Houston",
+            "BeginOffset": 29,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9187083840370178,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 38,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9999523162841797,
+            "Type": "OTHER",
+            "Text": "https://t.co/B4tGgqDY0B",
+            "BeginOffset": 55,
+            "EndOffset": 78
+        }
+    ]
+}

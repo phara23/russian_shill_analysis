@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9993806481361389,
+            "Type": "PERSON",
+            "Text": "Kanye West",
+            "BeginOffset": 0,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.989424467086792,
+            "Type": "PERSON",
+            "Text": "Kanye West",
+            "BeginOffset": 22,
+            "EndOffset": 32
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.89347904920578,
+            "Type": "PERSON",
+            "Text": "@NoMoreRomney",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9913586378097534,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 60,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.8536396622657776,
+            "Type": "PERSON",
+            "Text": "@DrJillStein",
+            "BeginOffset": 99,
+            "EndOffset": 111
+        },
+        {
+            "Score": 0.9994614720344543,
+            "Type": "OTHER",
+            "Text": "https://t.co/kFevT92fHL",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        }
+    ]
+}

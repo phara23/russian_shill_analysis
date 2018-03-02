@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9019861221313477,
+            "Type": "PERSON",
+            "Text": "@robportman",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9991846680641174,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 68,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.8067048788070679,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 130,
+            "EndOffset": 139
+        }
+    ]
+}

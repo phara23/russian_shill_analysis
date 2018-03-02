@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5856800675392151,
+            "Type": "ORGANIZATION",
+            "Text": "Kangaroo Night Court",
+            "BeginOffset": 0,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.7601271271705627,
+            "Type": "PERSON",
+            "Text": "@midnight",
+            "BeginOffset": 44,
+            "EndOffset": 53
+        }
+    ]
+}

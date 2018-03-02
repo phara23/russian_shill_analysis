@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4814368784427643,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8539959788322449,
+            "Type": "PERSON",
+            "Text": "@Miami4Trump",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8536894917488098,
+            "Type": "QUANTITY",
+            "Text": "5Words",
+            "BeginOffset": 32,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.7132850289344788,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 52,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.3542318046092987,
+            "Type": "ORGANIZATION",
+            "Text": "#MAGA",
+            "BeginOffset": 75,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.9999783039093018,
+            "Type": "OTHER",
+            "Text": "https://t.co/GJ7nILDJlg",
+            "BeginOffset": 84,
+            "EndOffset": 107
+        }
+    ]
+}

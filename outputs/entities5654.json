@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8342196345329285,
+            "Type": "PERSON",
+            "Text": "@MibIH",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9828048348426819,
+            "Type": "DATE",
+            "Text": "2017",
+            "BeginOffset": 58,
+            "EndOffset": 62
+        }
+    ]
+}

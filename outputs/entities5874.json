@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9929773211479187,
+            "Type": "ORGANIZATION",
+            "Text": "Buffalo Bills",
+            "BeginOffset": 4,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9414787292480469,
+            "Type": "QUANTITY",
+            "Text": "17th consecutive year",
+            "BeginOffset": 47,
+            "EndOffset": 68
+        }
+    ]
+}

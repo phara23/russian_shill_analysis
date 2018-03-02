@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8503500819206238,
+            "Type": "PERSON",
+            "Text": "@zerohedge",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.41495856642723083,
+            "Type": "OTHER",
+            "Text": "German",
+            "BeginOffset": 15,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.6992462277412415,
+            "Type": "LOCATION",
+            "Text": "Russia",
+            "BeginOffset": 42,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.999962329864502,
+            "Type": "OTHER",
+            "Text": "https://t.co/r8CChkxCZZ",
+            "BeginOffset": 74,
+            "EndOffset": 97
+        }
+    ]
+}

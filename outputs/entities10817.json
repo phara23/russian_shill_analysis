@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8473716378211975,
+            "Type": "PERSON",
+            "Text": "@PINKSUGARATL",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9274824261665344,
+            "Type": "ORGANIZATION",
+            "Text": "Pink Network",
+            "BeginOffset": 22,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.986132025718689,
+            "Type": "ORGANIZATION",
+            "Text": "#instagram",
+            "BeginOffset": 123,
+            "EndOffset": 133
+        }
+    ]
+}

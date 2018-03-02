@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9709367156028748,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 17,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.9917168021202087,
+            "Type": "PERSON",
+            "Text": "Sanders",
+            "BeginOffset": 22,
+            "EndOffset": 29
+        }
+    ]
+}

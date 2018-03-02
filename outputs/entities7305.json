@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.890455424785614,
+            "Type": "PERSON",
+            "Text": "@RBKidd",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.8444476127624512,
+            "Type": "PERSON",
+            "Text": "@RBKidd",
+            "BeginOffset": 42,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9710993766784668,
+            "Type": "PERSON",
+            "Text": "@ceodjasap",
+            "BeginOffset": 50,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9460276961326599,
+            "Type": "PERSON",
+            "Text": "@Spinrilla",
+            "BeginOffset": 61,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.8679065108299255,
+            "Type": "OTHER",
+            "Text": "https://t.co/Zr6kvp7FLl",
+            "BeginOffset": 74,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.999879002571106,
+            "Type": "OTHER",
+            "Text": "https://t.co/kzW0AfuUwZ",
+            "BeginOffset": 98,
+            "EndOffset": 121
+        }
+    ]
+}

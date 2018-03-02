@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8441120386123657,
+            "Type": "PERSON",
+            "Text": "@BradTassell",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8178074359893799,
+            "Type": "ORGANIZATION",
+            "Text": "FB",
+            "BeginOffset": 98,
+            "EndOffset": 100
+        }
+    ]
+}

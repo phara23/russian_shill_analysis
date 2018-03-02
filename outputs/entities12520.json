@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.878203809261322,
+            "Type": "PERSON",
+            "Text": "@Berlinseshdmtv",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.6005674004554749,
+            "Type": "DATE",
+            "Text": "#2017",
+            "BeginOffset": 20,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.7107511162757874,
+            "Type": "QUANTITY",
+            "Text": "first aid stuff",
+            "BeginOffset": 64,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.6384046673774719,
+            "Type": "QUANTITY",
+            "Text": "first aid stuff",
+            "BeginOffset": 88,
+            "EndOffset": 103
+        }
+    ]
+}

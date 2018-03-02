@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9668852090835571,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9982695579528809,
+            "Type": "PERSON",
+            "Text": "Bill Clinton",
+            "BeginOffset": 44,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9813989996910095,
+            "Type": "TITLE",
+            "Text": "ObamaCare",
+            "BeginOffset": 80,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.9952940344810486,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 94,
+            "EndOffset": 101
+        }
+    ]
+}

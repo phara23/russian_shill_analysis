@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8995185494422913,
+            "Type": "PERSON",
+            "Text": "@YoungCon1266",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.4956924319267273,
+            "Type": "QUANTITY",
+            "Text": "one",
+            "BeginOffset": 73,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.5994035601615906,
+            "Type": "ORGANIZATION",
+            "Text": "#USFA",
+            "BeginOffset": 122,
+            "EndOffset": 127
+        }
+    ]
+}

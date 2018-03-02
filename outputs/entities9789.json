@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8159259557723999,
+            "Type": "EVENT",
+            "Text": "DNC 2016",
+            "BeginOffset": 0,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.999819815158844,
+            "Type": "PERSON",
+            "Text": "Tim Kaine",
+            "BeginOffset": 10,
+            "EndOffset": 19
+        }
+    ]
+}

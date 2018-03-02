@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9215545654296875,
+            "Type": "PERSON",
+            "Text": "@SlobodarskaSrbi",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9986559152603149,
+            "Type": "OTHER",
+            "Text": "https://t.co/CyaTsmYlgM",
+            "BeginOffset": 110,
+            "EndOffset": 133
+        }
+    ]
+}

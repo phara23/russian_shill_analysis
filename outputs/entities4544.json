@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.838480532169342,
+            "Type": "PERSON",
+            "Text": "@funkflex",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.6572267413139343,
+            "Type": "ORGANIZATION",
+            "Text": "MLB",
+            "BeginOffset": 22,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9978338479995728,
+            "Type": "PERSON",
+            "Text": "Bill Murray",
+            "BeginOffset": 27,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9777540564537048,
+            "Type": "ORGANIZATION",
+            "Text": "Chicago Cubs",
+            "BeginOffset": 45,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.8290531039237976,
+            "Type": "OTHER",
+            "Text": "https://t.co/8HjWRdtcXl",
+            "BeginOffset": 102,
+            "EndOffset": 125
+        },
+        {
+            "Score": 0.7566854357719421,
+            "Type": "ORGANIZATION",
+            "Text": "#IFWT",
+            "BeginOffset": 126,
+            "EndOffset": 131
+        }
+    ]
+}

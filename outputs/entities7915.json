@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8700741529464722,
+            "Type": "PERSON",
+            "Text": "@takingitall2000",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8231640458106995,
+            "Type": "PERSON",
+            "Text": "@ForColorado",
+            "BeginOffset": 21,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9562922716140747,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 34,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.936917245388031,
+            "Type": "PERSON",
+            "Text": "@teacherfortrump",
+            "BeginOffset": 50,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9997478127479553,
+            "Type": "OTHER",
+            "Text": "https://t.co/suag7XgWQs",
+            "BeginOffset": 89,
+            "EndOffset": 112
+        }
+    ]
+}

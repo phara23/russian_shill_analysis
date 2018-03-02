@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7902947068214417,
+            "Type": "PERSON",
+            "Text": "@TheSun",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.895648181438446,
+            "Type": "PERSON",
+            "Text": "@piersmorgan",
+            "BeginOffset": 15,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.940484881401062,
+            "Type": "PERSON",
+            "Text": "@susannareid100",
+            "BeginOffset": 55,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.832863450050354,
+            "Type": "OTHER",
+            "Text": "https://t.co/CtMEMKTWMB",
+            "BeginOffset": 71,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.999976634979248,
+            "Type": "OTHER",
+            "Text": "https://t.co/EHvFBHIyMc",
+            "BeginOffset": 95,
+            "EndOffset": 118
+        }
+    ]
+}

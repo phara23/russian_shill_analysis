@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8717771172523499,
+            "Type": "PERSON",
+            "Text": "@YodaLoco",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8960179090499878,
+            "Type": "QUANTITY",
+            "Text": "About 33%",
+            "BeginOffset": 14,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9902291893959045,
+            "Type": "LOCATION",
+            "Text": "USA",
+            "BeginOffset": 53,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9977699518203735,
+            "Type": "LOCATION",
+            "Text": "Chicago",
+            "BeginOffset": 96,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.971734344959259,
+            "Type": "DATE",
+            "Text": "this year",
+            "BeginOffset": 104,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.8034630417823792,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 135,
+            "EndOffset": 137
+        }
+    ]
+}

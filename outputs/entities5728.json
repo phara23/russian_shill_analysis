@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9333418011665344,
+            "Type": "PERSON",
+            "Text": "@bettynfriedan",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7108266353607178,
+            "Type": "DATE",
+            "Text": "#2017",
+            "BeginOffset": 62,
+            "EndOffset": 67
+        }
+    ]
+}

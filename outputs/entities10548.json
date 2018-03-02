@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8160748481750488,
+            "Type": "PERSON",
+            "Text": "@NatureboyMDG",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.768520176410675,
+            "Type": "PERSON",
+            "Text": "@NatureboyMDG",
+            "BeginOffset": 48,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9503403902053833,
+            "Type": "ORGANIZATION",
+            "Text": "#SoundCloud",
+            "BeginOffset": 65,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.9998910427093506,
+            "Type": "OTHER",
+            "Text": "https://t.co/51nbvgQPYA",
+            "BeginOffset": 82,
+            "EndOffset": 105
+        }
+    ]
+}

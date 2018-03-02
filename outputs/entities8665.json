@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9130862355232239,
+            "Type": "PERSON",
+            "Text": "@QueenSugarOWN",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9568972587585449,
+            "Type": "DATE",
+            "Text": "last night",
+            "BeginOffset": 115,
+            "EndOffset": 125
+        }
+    ]
+}

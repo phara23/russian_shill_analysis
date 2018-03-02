@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8238350749015808,
+            "Type": "PERSON",
+            "Text": "@KenGh5",
+            "BeginOffset": 3,
+            "EndOffset": 10
+        },
+        {
+            "Score": 0.9396124482154846,
+            "Type": "EVENT",
+            "Text": "Christmas",
+            "BeginOffset": 18,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9813563823699951,
+            "Type": "PERSON",
+            "Text": "@Jayfoley2131",
+            "BeginOffset": 37,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9974985718727112,
+            "Type": "PERSON",
+            "Text": "@jeremie2131",
+            "BeginOffset": 51,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9709364175796509,
+            "Type": "PERSON",
+            "Text": "@live919fm",
+            "BeginOffset": 64,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9061248302459717,
+            "Type": "PERSON",
+            "Text": "@djlordgh",
+            "BeginOffset": 76,
+            "EndOffset": 85
+        }
+    ]
+}

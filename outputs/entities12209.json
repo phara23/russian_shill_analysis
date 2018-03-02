@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.26873406767845154,
+            "Type": "PERSON",
+            "Text": "Schon",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.8772831559181213,
+            "Type": "PERSON",
+            "Text": "Jahre",
+            "BeginOffset": 9,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9998596906661987,
+            "Type": "OTHER",
+            "Text": "https://t.co/8aUORHj74s",
+            "BeginOffset": 78,
+            "EndOffset": 101
+        }
+    ]
+}

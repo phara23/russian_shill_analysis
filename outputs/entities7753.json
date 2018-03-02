@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8158547282218933,
+            "Type": "PERSON",
+            "Text": "@maconnal",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.5760194659233093,
+            "Type": "ORGANIZATION",
+            "Text": "Russia",
+            "BeginOffset": 14,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.8993175029754639,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 52,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.999977707862854,
+            "Type": "OTHER",
+            "Text": "https://t.co/WcEKtN64T3",
+            "BeginOffset": 64,
+            "EndOffset": 87
+        }
+    ]
+}

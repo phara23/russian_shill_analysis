@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9557502269744873,
+            "Type": "PERSON",
+            "Text": "@TomiLahren",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9611196517944336,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 16,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.34864264726638794,
+            "Type": "ORGANIZATION",
+            "Text": "Whitewater",
+            "BeginOffset": 34,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.8225553035736084,
+            "Type": "LOCATION",
+            "Text": "Benghazi",
+            "BeginOffset": 46,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9712243676185608,
+            "Type": "ORGANIZATION",
+            "Text": "Clinton Foundation",
+            "BeginOffset": 64,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.9735090732574463,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 97,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.8792688250541687,
+            "Type": "QUANTITY",
+            "Text": "20 yrs",
+            "BeginOffset": 130,
+            "EndOffset": 136
+        }
+    ]
+}

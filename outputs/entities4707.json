@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6097121834754944,
+            "Type": "ORGANIZATION",
+            "Text": "France",
+            "BeginOffset": 0,
+            "EndOffset": 6
+        },
+        {
+            "Score": 0.9875822067260742,
+            "Type": "PERSON",
+            "Text": "Macron",
+            "BeginOffset": 9,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9522513747215271,
+            "Type": "DATE",
+            "Text": "2017",
+            "BeginOffset": 37,
+            "EndOffset": 41
+        }
+    ]
+}

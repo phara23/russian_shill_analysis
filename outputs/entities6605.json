@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.734760046005249,
+            "Type": "PERSON",
+            "Text": "@WDFx2EU7",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9176398515701294,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 15,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.9944645762443542,
+            "Type": "ORGANIZATION",
+            "Text": "Twitter",
+            "BeginOffset": 64,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.999971866607666,
+            "Type": "OTHER",
+            "Text": "https://t.co/kdq4AZTj0F",
+            "BeginOffset": 83,
+            "EndOffset": 106
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8536483645439148,
+            "Type": "PERSON",
+            "Text": "@guardian",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.969497561454773,
+            "Type": "PERSON",
+            "Text": "Caitlin Doughty",
+            "BeginOffset": 87,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.9993638396263123,
+            "Type": "OTHER",
+            "Text": "http://t.co/ltU4THZahy",
+            "BeginOffset": 103,
+            "EndOffset": 125
+        }
+    ]
+}

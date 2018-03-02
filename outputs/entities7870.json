@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7464756369590759,
+            "Type": "PERSON",
+            "Text": "@Jew4",
+            "BeginOffset": 3,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.41277527809143066,
+            "Type": "LOCATION",
+            "Text": "#Palestine",
+            "BeginOffset": 37,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.7196016311645508,
+            "Type": "LOCATION",
+            "Text": "Israeli",
+            "BeginOffset": 52,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.9955268502235413,
+            "Type": "DATE",
+            "Text": "1948",
+            "BeginOffset": 73,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9828304052352905,
+            "Type": "OTHER",
+            "Text": "https://t.co/QAZ44lzqne",
+            "BeginOffset": 79,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.3961585462093353,
+            "Type": "ORGANIZATION",
+            "Text": "#Israel",
+            "BeginOffset": 103,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.5569383502006531,
+            "Type": "ORGANIZATION",
+            "Text": "#JSIL",
+            "BeginOffset": 111,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.44389984011650085,
+            "Type": "ORGANIZATION",
+            "Text": "#Christians",
+            "BeginOffset": 117,
+            "EndOffset": 128
+        }
+    ]
+}

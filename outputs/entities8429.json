@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.86795973777771,
+            "Type": "PERSON",
+            "Text": "@Patriot_MM",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.938813328742981,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 16,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.6644285917282104,
+            "Type": "LOCATION",
+            "Text": "#America",
+            "BeginOffset": 104,
+            "EndOffset": 112
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8049693703651428,
+            "Type": "PERSON",
+            "Text": "@MEPFuller",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9912659525871277,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 15,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.9977083206176758,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 111,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.9417058229446411,
+            "Type": "OTHER",
+            "Text": "https://t.co/d",
+            "BeginOffset": 125,
+            "EndOffset": 139
+        }
+    ]
+}

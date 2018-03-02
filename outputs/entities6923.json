@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8665814399719238,
+            "Type": "PERSON",
+            "Text": "@callmedollar",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8368785381317139,
+            "Type": "PERSON",
+            "Text": "@BigFreedia",
+            "BeginOffset": 34,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9169824719429016,
+            "Type": "PERSON",
+            "Text": "Big Freedia",
+            "BeginOffset": 96,
+            "EndOffset": 107
+        },
+        {
+            "Score": 0.9999250173568726,
+            "Type": "OTHER",
+            "Text": "https://t.co/2BPrBIdIkF",
+            "BeginOffset": 110,
+            "EndOffset": 133
+        }
+    ]
+}

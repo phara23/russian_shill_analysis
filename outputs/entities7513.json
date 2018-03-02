@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9143398404121399,
+            "Type": "PERSON",
+            "Text": "@NyniaChance",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9989936947822571,
+            "Type": "PERSON",
+            "Text": "Charles Koch",
+            "BeginOffset": 69,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.5246192812919617,
+            "Type": "ORGANIZATION",
+            "Text": "#UniteBlue",
+            "BeginOffset": 99,
+            "EndOffset": 109
+        },
+        {
+            "Score": 0.4095245599746704,
+            "Type": "QUANTITY",
+            "Text": "#p",
+            "BeginOffset": 110,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.5958165526390076,
+            "Type": "QUANTITY",
+            "Text": "#1",
+            "BeginOffset": 114,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.45705801248550415,
+            "Type": "ORGANIZATION",
+            "Text": "#RobinHoodTax",
+            "BeginOffset": 118,
+            "EndOffset": 131
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.846537172794342,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9097074270248413,
+            "Type": "ORGANIZATION",
+            "Text": "Hollywood",
+            "BeginOffset": 31,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.926459789276123,
+            "Type": "OTHER",
+            "Text": "https://t.co/Sh60iHTNPt",
+            "BeginOffset": 54,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.8151687979698181,
+            "Type": "ORGANIZATION",
+            "Text": "@BBC5Live",
+            "BeginOffset": 78,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.9998617172241211,
+            "Type": "OTHER",
+            "Text": "https://t.co/IhClQqHeLv",
+            "BeginOffset": 88,
+            "EndOffset": 111
+        }
+    ]
+}

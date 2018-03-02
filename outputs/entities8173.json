@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9483616352081299,
+            "Type": "PERSON",
+            "Text": "@TallahForTrump",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9962158799171448,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 20,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9174368977546692,
+            "Type": "QUANTITY",
+            "Text": "one day",
+            "BeginOffset": 56,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.999291181564331,
+            "Type": "PERSON",
+            "Text": "Michelle Obama",
+            "BeginOffset": 70,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9952341318130493,
+            "Type": "QUANTITY",
+            "Text": "8 years",
+            "BeginOffset": 92,
+            "EndOffset": 99
+        }
+    ]
+}

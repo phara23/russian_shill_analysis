@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8162164688110352,
+            "Type": "ORGANIZATION",
+            "Text": "@Conservative_VW",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.998728334903717,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 37,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.7869961261749268,
+            "Type": "LOCATION",
+            "Text": "United States",
+            "BeginOffset": 61,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.5179973244667053,
+            "Type": "LOCATION",
+            "Text": "Mexican",
+            "BeginOffset": 95,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.8268460631370544,
+            "Type": "LOCATION",
+            "Text": "Mexico",
+            "BeginOffset": 113,
+            "EndOffset": 119
+        }
+    ]
+}

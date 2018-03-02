@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8034664392471313,
+            "Type": "PERSON",
+            "Text": "@WashDCOnline",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8924143314361572,
+            "Type": "LOCATION",
+            "Text": "California",
+            "BeginOffset": 60,
+            "EndOffset": 70
+        }
+    ]
+}

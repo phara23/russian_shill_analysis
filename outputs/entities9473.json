@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5667058229446411,
+            "Type": "ORGANIZATION",
+            "Text": "@FOX5",
+            "BeginOffset": 3,
+            "EndOffset": 8
+        },
+        {
+            "Score": 0.9744263291358948,
+            "Type": "LOCATION",
+            "Text": "Atlanta",
+            "BeginOffset": 8,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7546445727348328,
+            "Type": "DATE",
+            "Text": "Fourth of July",
+            "BeginOffset": 54,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.650380551815033,
+            "Type": "OTHER",
+            "Text": "http://t.co/TmeOJYMMNu",
+            "BeginOffset": 81,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.999987006187439,
+            "Type": "OTHER",
+            "Text": "http://t.co/eGkx9F9iB5",
+            "BeginOffset": 104,
+            "EndOffset": 126
+        }
+    ]
+}

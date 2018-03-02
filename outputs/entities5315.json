@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8935748338699341,
+            "Type": "PERSON",
+            "Text": "@ChrixMorgan",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8625116944313049,
+            "Type": "QUANTITY",
+            "Text": "50 shades",
+            "BeginOffset": 63,
+            "EndOffset": 72
+        }
+    ]
+}

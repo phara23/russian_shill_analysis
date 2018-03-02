@@ -1,0 +1,67 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6463047862052917,
+            "Type": "PERSON",
+            "Text": "@WSpriggs",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9175261855125427,
+            "Type": "PERSON",
+            "Text": "@rolandsmartin",
+            "BeginOffset": 14,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.946097731590271,
+            "Type": "PERSON",
+            "Text": "@AfricanaCarr",
+            "BeginOffset": 29,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9499104022979736,
+            "Type": "PERSON",
+            "Text": "@SpencerOverton",
+            "BeginOffset": 43,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.9975862503051758,
+            "Type": "PERSON",
+            "Text": "@Raynard1223",
+            "BeginOffset": 59,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9810863137245178,
+            "Type": "PERSON",
+            "Text": "@MichelleBernard",
+            "BeginOffset": 72,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9080092310905457,
+            "Type": "PERSON",
+            "Text": "@tvonetv",
+            "BeginOffset": 89,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.8409439325332642,
+            "Type": "PERSON",
+            "Text": "@HowardU",
+            "BeginOffset": 104,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.9576680064201355,
+            "Type": "PERSON",
+            "Text": "@MichelleBernard",
+            "BeginOffset": 121,
+            "EndOffset": 137
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8490320444107056,
+            "Type": "PERSON",
+            "Text": "@pearly2004",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.8641110062599182,
+            "Type": "PERSON",
+            "Text": "Melania",
+            "BeginOffset": 16,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.8752687573432922,
+            "Type": "OTHER",
+            "Text": "https://t.co/imfhSgEFnG",
+            "BeginOffset": 53,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.44480571150779724,
+            "Type": "ORGANIZATION",
+            "Text": "#MAGA",
+            "BeginOffset": 77,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.4973791539669037,
+            "Type": "ORGANIZATION",
+            "Text": "#tcot",
+            "BeginOffset": 83,
+            "EndOffset": 88
+        }
+    ]
+}

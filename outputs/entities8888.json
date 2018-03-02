@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.82183837890625,
+            "Type": "PERSON",
+            "Text": "@luxeprgroup",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8908919095993042,
+            "Type": "PERSON",
+            "Text": "@demimckinney",
+            "BeginOffset": 24,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.7663546204566956,
+            "Type": "ORGANIZATION",
+            "Text": "@bouncetv",
+            "BeginOffset": 78,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.9999170303344727,
+            "Type": "OTHER",
+            "Text": "https://t.co/kZzLie8v1U",
+            "BeginOffset": 107,
+            "EndOffset": 130
+        }
+    ]
+}

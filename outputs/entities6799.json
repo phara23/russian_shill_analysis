@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8529120087623596,
+            "Type": "PERSON",
+            "Text": "@YvetteClarke",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8685299158096313,
+            "Type": "ORGANIZATION",
+            "Text": "@FCC",
+            "BeginOffset": 107,
+            "EndOffset": 111
+        },
+        {
+            "Score": 0.8107171058654785,
+            "Type": "ORGANIZATION",
+            "Text": "@USGAO",
+            "BeginOffset": 124,
+            "EndOffset": 130
+        }
+    ]
+}

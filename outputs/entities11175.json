@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.882288932800293,
+            "Type": "PERSON",
+            "Text": "@bodysculptorokc",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9797423481941223,
+            "Type": "DATE",
+            "Text": "last night",
+            "BeginOffset": 44,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9980736970901489,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 56,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.4943579137325287,
+            "Type": "PERSON",
+            "Text": "Malaria",
+            "BeginOffset": 69,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.9372279047966003,
+            "Type": "PERSON",
+            "Text": "@KellyannePolls",
+            "BeginOffset": 100,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.7542915344238281,
+            "Type": "QUANTITY",
+            "Text": "4th Mrs",
+            "BeginOffset": 127,
+            "EndOffset": 134
+        },
+        {
+            "Score": 0.9994582533836365,
+            "Type": "PERSON",
+            "Text": "Tru",
+            "BeginOffset": 136,
+            "EndOffset": 139
+        }
+    ]
+}

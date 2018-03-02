@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9089348316192627,
+            "Type": "PERSON",
+            "Text": "@HeerJeet",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.6111599206924438,
+            "Type": "PERSON",
+            "Text": "Yiannopoulos",
+            "BeginOffset": 14,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.7252407073974609,
+            "Type": "ORGANIZATION",
+            "Text": "CPAC",
+            "BeginOffset": 52,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9578237533569336,
+            "Type": "PERSON",
+            "Text": "Simon",
+            "BeginOffset": 63,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9152562022209167,
+            "Type": "PERSON",
+            "Text": "Schuster",
+            "BeginOffset": 75,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.8829320073127747,
+            "Type": "ORGANIZATION",
+            "Text": "Breitbart",
+            "BeginOffset": 96,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.8876715302467346,
+            "Type": "ORGANIZATION",
+            "Text": "White House",
+            "BeginOffset": 136,
+            "EndOffset": 147
+        }
+    ]
+}

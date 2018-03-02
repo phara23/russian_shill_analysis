@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7074795365333557,
+            "Type": "PERSON",
+            "Text": "@NewYorker",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9605546593666077,
+            "Type": "PERSON",
+            "Text": "@alexanderchee",
+            "BeginOffset": 26,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9366707801818848,
+            "Type": "DATE",
+            "Text": "nineteenth-century",
+            "BeginOffset": 68,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.7798048257827759,
+            "Type": "OTHER",
+            "Text": "https://t.co/O7oaYhTT4V",
+            "BeginOffset": 94,
+            "EndOffset": 117
+        },
+        {
+            "Score": 0.9643760919570923,
+            "Type": "OTHER",
+            "Text": "https://t.co/wa3K5dHK",
+            "BeginOffset": 118,
+            "EndOffset": 139
+        }
+    ]
+}

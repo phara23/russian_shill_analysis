@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8976686596870422,
+            "Type": "PERSON",
+            "Text": "@WEdwarda",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.7640634775161743,
+            "Type": "TITLE",
+            "Text": "Rolling Oaks Mall Robber Shot A Retired Marine Veteran",
+            "BeginOffset": 14,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9285077452659607,
+            "Type": "OTHER",
+            "Text": "https://t.co/TfwjGePsf",
+            "BeginOffset": 117,
+            "EndOffset": 139
+        }
+    ]
+}

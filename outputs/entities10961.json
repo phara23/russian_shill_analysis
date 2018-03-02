@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9101982712745667,
+            "Type": "PERSON",
+            "Text": "@RitaMarinoni",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.5043713450431824,
+            "Type": "ORGANIZATION",
+            "Text": "HRC",
+            "BeginOffset": 24,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.9947814345359802,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 114,
+            "EndOffset": 119
+        }
+    ]
+}

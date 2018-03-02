@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.910570502281189,
+            "Type": "PERSON",
+            "Text": "@Chris_1791",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9486886858940125,
+            "Type": "OTHER",
+            "Text": "English",
+            "BeginOffset": 16,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.723423957824707,
+            "Type": "QUANTITY",
+            "Text": "Second Look",
+            "BeginOffset": 44,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.8654497861862183,
+            "Type": "QUANTITY",
+            "Text": "Over 100 Strange Figurines",
+            "BeginOffset": 96,
+            "EndOffset": 122
+        },
+        {
+            "Score": 0.9284281134605408,
+            "Type": "OTHER",
+            "Text": "http://t.c",
+            "BeginOffset": 129,
+            "EndOffset": 139
+        }
+    ]
+}

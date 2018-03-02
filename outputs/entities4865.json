@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9761431813240051,
+            "Type": "PERSON",
+            "Text": "@sandra8301",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9690306782722473,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 16,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9717103242874146,
+            "Type": "PERSON",
+            "Text": "@SpeakerRyan",
+            "BeginOffset": 33,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9984133243560791,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 85,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.6142531037330627,
+            "Type": "QUANTITY",
+            "Text": "second \nTerm",
+            "BeginOffset": 101,
+            "EndOffset": 113
+        }
+    ]
+}

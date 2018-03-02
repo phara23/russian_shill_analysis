@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7976509928703308,
+            "Type": "PERSON",
+            "Text": "@RepMarkMeadows",
+            "BeginOffset": 1,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9809096455574036,
+            "Type": "TITLE",
+            "Text": "Obamacare",
+            "BeginOffset": 48,
+            "EndOffset": 57
+        },
+        {
+            "Score": 0.999833345413208,
+            "Type": "OTHER",
+            "Text": "https://t.co/GUZj9GOkxp",
+            "BeginOffset": 87,
+            "EndOffset": 110
+        }
+    ]
+}

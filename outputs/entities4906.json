@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7794082164764404,
+            "Type": "PERSON",
+            "Text": "@TheTruth24",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7026145458221436,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 14,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.914801299571991,
+            "Type": "LOCATION",
+            "Text": "Europe",
+            "BeginOffset": 56,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.999887228012085,
+            "Type": "OTHER",
+            "Text": "http://t.co/mJ7rBJ6gbE",
+            "BeginOffset": 63,
+            "EndOffset": 85
+        }
+    ]
+}

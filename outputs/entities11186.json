@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9015095233917236,
+            "Type": "PERSON",
+            "Text": "@SheriffClarke",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9781684279441833,
+            "Type": "LOCATION",
+            "Text": "Minneapolis",
+            "BeginOffset": 22,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.9153401255607605,
+            "Type": "OTHER",
+            "Text": "https://t.co/BuO",
+            "BeginOffset": 123,
+            "EndOffset": 139
+        }
+    ]
+}

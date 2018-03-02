@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9661154747009277,
+            "Type": "PERSON",
+            "Text": "@seb2407",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9046424031257629,
+            "Type": "PERSON",
+            "Text": "@AldoSterone111",
+            "BeginOffset": 13,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.6221835017204285,
+            "Type": "PERSON",
+            "Text": "La République",
+            "BeginOffset": 29,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.7295311093330383,
+            "Type": "QUANTITY",
+            "Text": "400 000",
+            "BeginOffset": 93,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.8588877320289612,
+            "Type": "DATE",
+            "Text": "1789",
+            "BeginOffset": 119,
+            "EndOffset": 123
+        }
+    ]
+}

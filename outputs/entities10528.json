@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6843375563621521,
+            "Type": "ORGANIZATION",
+            "Text": "@BlastingNews",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9642333984375,
+            "Type": "EVENT",
+            "Text": "2017 People's Choice Awards",
+            "BeginOffset": 43,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9579702019691467,
+            "Type": "OTHER",
+            "Text": "https://t.co/dXXVruZaeu",
+            "BeginOffset": 91,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.9999500513076782,
+            "Type": "OTHER",
+            "Text": "https://t.co/uuu0oRWWIF",
+            "BeginOffset": 115,
+            "EndOffset": 138
+        }
+    ]
+}

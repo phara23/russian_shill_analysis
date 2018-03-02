@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.859607458114624,
+            "Type": "PERSON",
+            "Text": "@LessGovMoreFun",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9987627863883972,
+            "Type": "PERSON",
+            "Text": "Lanny Davis",
+            "BeginOffset": 22,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.8944732546806335,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 48,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.8377284407615662,
+            "Type": "PERSON",
+            "Text": "@BernieSanders",
+            "BeginOffset": 72,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9697979688644409,
+            "Type": "OTHER",
+            "Text": "http://t.co/vIkJAgezHy",
+            "BeginOffset": 90,
+            "EndOffset": 112
+        },
+        {
+            "Score": 0.777294933795929,
+            "Type": "PERSON",
+            "Text": "@GuypBenson",
+            "BeginOffset": 126,
+            "EndOffset": 137
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9329261779785156,
+            "Type": "PERSON",
+            "Text": "@ryanredcorn",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8159231543540955,
+            "Type": "LOCATION",
+            "Text": "Alabama",
+            "BeginOffset": 106,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.9999916553497314,
+            "Type": "OTHER",
+            "Text": "https://t.co/KP3z8vgxI9",
+            "BeginOffset": 114,
+            "EndOffset": 137
+        }
+    ]
+}

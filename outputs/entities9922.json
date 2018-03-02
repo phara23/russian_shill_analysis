@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8419413566589355,
+            "Type": "PERSON",
+            "Text": "@realDailyWire",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8539730310440063,
+            "Type": "OTHER",
+            "Text": "https://t.co/ImIpNxtsgW",
+            "BeginOffset": 70,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.8287773728370667,
+            "Type": "PERSON",
+            "Text": "@FrankDCamp",
+            "BeginOffset": 94,
+            "EndOffset": 105
+        }
+    ]
+}

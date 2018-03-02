@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9862428903579712,
+            "Type": "PERSON",
+            "Text": "@Jamie_Weinstein",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.4641222655773163,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 82,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.6642419099807739,
+            "Type": "PERSON",
+            "Text": "@jimantle",
+            "BeginOffset": 85,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.7173319458961487,
+            "Type": "PERSON",
+            "Text": "Gravis",
+            "BeginOffset": 95,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.9958589673042297,
+            "Type": "PERSON",
+            "Text": "Carly Fiorina",
+            "BeginOffset": 106,
+            "EndOffset": 119
+        },
+        {
+            "Score": 0.995576798915863,
+            "Type": "PERSON",
+            "Text": "Chris Chri",
+            "BeginOffset": 129,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9930152297019958,
+            "Type": "PERSON",
+            "Text": "@stephen_taylor",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9969056844711304,
+            "Type": "PERSON",
+            "Text": "Amanda Lang",
+            "BeginOffset": 36,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9998020529747009,
+            "Type": "OTHER",
+            "Text": "http://t.co/uxiyOdeJ1e",
+            "BeginOffset": 49,
+            "EndOffset": 71
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8056192398071289,
+            "Type": "PERSON",
+            "Text": "@LadyLiberTea",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7570046782493591,
+            "Type": "PERSON",
+            "Text": "@BernReturns2020",
+            "BeginOffset": 19,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9980548620223999,
+            "Type": "PERSON",
+            "Text": "Bernie",
+            "BeginOffset": 37,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.43962615728378296,
+            "Type": "ORGANIZATION",
+            "Text": "Audi",
+            "BeginOffset": 60,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.895126223564148,
+            "Type": "QUANTITY",
+            "Text": "half-million",
+            "BeginOffset": 71,
+            "EndOffset": 83
+        }
+    ]
+}

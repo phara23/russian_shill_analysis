@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9249325394630432,
+            "Type": "PERSON",
+            "Text": "@davidsirota",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9301362037658691,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 17,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.7888365387916565,
+            "Type": "QUANTITY",
+            "Text": "a million people",
+            "BeginOffset": 117,
+            "EndOffset": 133
+        }
+    ]
+}

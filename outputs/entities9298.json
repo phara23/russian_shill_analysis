@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7729063034057617,
+            "Type": "PERSON",
+            "Text": "@BIZPACReview",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9955781698226929,
+            "Type": "PERSON",
+            "Text": "Julian Assange",
+            "BeginOffset": 18,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9546990990638733,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 78,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.7829307317733765,
+            "Type": "OTHER",
+            "Text": "Russian",
+            "BeginOffset": 97,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.857914388179779,
+            "Type": "OTHER",
+            "Text": "https://t.co/NC1Qljus4r",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        },
+        {
+            "Score": 0.7777991890907288,
+            "Type": "OTHER",
+            "Text": "https://t",
+            "BeginOffset": 129,
+            "EndOffset": 138
+        }
+    ]
+}

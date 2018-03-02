@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8680006265640259,
+            "Type": "PERSON",
+            "Text": "@NtoAlaska",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9996657967567444,
+            "Type": "PERSON",
+            "Text": "David Clarke",
+            "BeginOffset": 23,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.8324222564697266,
+            "Type": "DATE",
+            "Text": "Last Eight Years",
+            "BeginOffset": 95,
+            "EndOffset": 111
+        },
+        {
+            "Score": 0.8247966766357422,
+            "Type": "ORGANIZATION",
+            "Text": "Breitbart",
+            "BeginOffset": 115,
+            "EndOffset": 124
+        },
+        {
+            "Score": 0.9354921579360962,
+            "Type": "OTHER",
+            "Text": "https://t.co/A",
+            "BeginOffset": 125,
+            "EndOffset": 139
+        }
+    ]
+}

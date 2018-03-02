@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8928593993186951,
+            "Type": "PERSON",
+            "Text": "@cmdorsey",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9988290071487427,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 56,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.8900448083877563,
+            "Type": "OTHER",
+            "Text": "https://t.co/bVCUzKJTRY",
+            "BeginOffset": 81,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.7093295454978943,
+            "Type": "ORGANIZATION",
+            "Text": "@washtimes",
+            "BeginOffset": 107,
+            "EndOffset": 117
+        }
+    ]
+}

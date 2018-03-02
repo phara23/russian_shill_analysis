@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5294399857521057,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.6532462239265442,
+            "Type": "ORGANIZATION",
+            "Text": "@ABC",
+            "BeginOffset": 3,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.8689432740211487,
+            "Type": "ORGANIZATION",
+            "Text": "UCLA",
+            "BeginOffset": 42,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9989290833473206,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 53,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9999600648880005,
+            "Type": "OTHER",
+            "Text": "https://t.co/xZqOmJAIt9",
+            "BeginOffset": 84,
+            "EndOffset": 107
+        }
+    ]
+}

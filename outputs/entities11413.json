@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9214339256286621,
+            "Type": "PERSON",
+            "Text": "@ElliottWilson",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6309173107147217,
+            "Type": "PERSON",
+            "Text": "Jodeci Essentials",
+            "BeginOffset": 19,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9583876729011536,
+            "Type": "OTHER",
+            "Text": "https://t.co/9TluXYKLIN",
+            "BeginOffset": 37,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.8239979147911072,
+            "Type": "PERSON",
+            "Text": "@TIDALHiFi",
+            "BeginOffset": 61,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9999746084213257,
+            "Type": "OTHER",
+            "Text": "https://t.co/V6GpZdilAE",
+            "BeginOffset": 72,
+            "EndOffset": 95
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9803483486175537,
+            "Type": "PERSON",
+            "Text": "@jason_howerton",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9609242081642151,
+            "Type": "LOCATION",
+            "Text": "Texas",
+            "BeginOffset": 47,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.9999090433120728,
+            "Type": "OTHER",
+            "Text": "http://t.co/PdxjiJT0SM",
+            "BeginOffset": 80,
+            "EndOffset": 102
+        }
+    ]
+}

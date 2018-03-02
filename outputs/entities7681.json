@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6287988424301147,
+            "Type": "LOCATION",
+            "Text": "Americans",
+            "BeginOffset": 9,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9981174468994141,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 38,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9978013634681702,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 48,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.5013281106948853,
+            "Type": "ORGANIZATION",
+            "Text": "Islamic",
+            "BeginOffset": 97,
+            "EndOffset": 104
+        },
+        {
+            "Score": 0.9996428489685059,
+            "Type": "OTHER",
+            "Text": "https://t.co/kbWHGHqvLH",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        }
+    ]
+}

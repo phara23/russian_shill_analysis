@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8362725377082825,
+            "Type": "PERSON",
+            "Text": "@AIIAmericanGirI",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.6092458963394165,
+            "Type": "PERSON",
+            "Text": "McKinney",
+            "BeginOffset": 56,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9998302459716797,
+            "Type": "OTHER",
+            "Text": "http://t.co/2NVVfzcdYf",
+            "BeginOffset": 111,
+            "EndOffset": 133
+        }
+    ]
+}

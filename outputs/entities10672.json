@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8376390933990479,
+            "Type": "PERSON",
+            "Text": "@strengthintruth",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9309660196304321,
+            "Type": "PERSON",
+            "Text": "@ChuckNellis",
+            "BeginOffset": 22,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9943634271621704,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 93,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.9998927116394043,
+            "Type": "OTHER",
+            "Text": "https://t.co/2IQge30fun",
+            "BeginOffset": 102,
+            "EndOffset": 125
+        }
+    ]
+}

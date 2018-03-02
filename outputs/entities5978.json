@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8138079047203064,
+            "Type": "PERSON",
+            "Text": "@LwangaMundo",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.7859953045845032,
+            "Type": "DATE",
+            "Text": "#2017",
+            "BeginOffset": 17,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.4994485378265381,
+            "Type": "ORGANIZATION",
+            "Text": "BlackBerry",
+            "BeginOffset": 41,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9805650115013123,
+            "Type": "TITLE",
+            "Text": "Android",
+            "BeginOffset": 56,
+            "EndOffset": 63
+        }
+    ]
+}

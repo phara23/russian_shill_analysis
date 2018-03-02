@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6648679971694946,
+            "Type": "PERSON",
+            "Text": "@supereeves_",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8939535617828369,
+            "Type": "ORGANIZATION",
+            "Text": "RNC",
+            "BeginOffset": 48,
+            "EndOffset": 51
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8959325551986694,
+            "Type": "PERSON",
+            "Text": "@elsasdodo",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9531421661376953,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 59,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.6308742761611938,
+            "Type": "LOCATION",
+            "Text": "DC",
+            "BeginOffset": 68,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.8053849935531616,
+            "Type": "ORGANIZATION",
+            "Text": "NYPD",
+            "BeginOffset": 92,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.9526056051254272,
+            "Type": "OTHER",
+            "Text": "https://t.co/Fn8T7",
+            "BeginOffset": 125,
+            "EndOffset": 143
+        }
+    ]
+}

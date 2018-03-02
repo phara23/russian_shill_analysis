@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9593899846076965,
+            "Type": "PERSON",
+            "Text": "@jimmylemons",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.5799776911735535,
+            "Type": "ORGANIZATION",
+            "Text": "mexico",
+            "BeginOffset": 17,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9330406188964844,
+            "Type": "LOCATION",
+            "Text": "USA",
+            "BeginOffset": 64,
+            "EndOffset": 67
+        }
+    ]
+}

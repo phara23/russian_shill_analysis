@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.867587685585022,
+            "Type": "PERSON",
+            "Text": "@Xamerican",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9973514080047607,
+            "Type": "PERSON",
+            "Text": "Michelle Obama",
+            "BeginOffset": 15,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.7267136573791504,
+            "Type": "LOCATION",
+            "Text": "San Bernardino",
+            "BeginOffset": 36,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9995380640029907,
+            "Type": "OTHER",
+            "Text": "https://t.co/jvQepJ4gss",
+            "BeginOffset": 98,
+            "EndOffset": 121
+        }
+    ]
+}

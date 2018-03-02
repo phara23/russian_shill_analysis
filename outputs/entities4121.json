@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9010316729545593,
+            "Type": "PERSON",
+            "Text": "@nine_oh",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.30789023637771606,
+            "Type": "TITLE",
+            "Text": "#Twittergoons",
+            "BeginOffset": 13,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.7468716502189636,
+            "Type": "ORGANIZATION",
+            "Text": "@support",
+            "BeginOffset": 88,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.9482415914535522,
+            "Type": "ORGANIZATION",
+            "Text": "@Twitter",
+            "BeginOffset": 97,
+            "EndOffset": 105
+        }
+    ]
+}

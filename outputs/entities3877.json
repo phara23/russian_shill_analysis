@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9983111619949341,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9979198575019836,
+            "Type": "PERSON",
+            "Text": "Putin",
+            "BeginOffset": 10,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9159050583839417,
+            "Type": "LOCATION",
+            "Text": "Syria",
+            "BeginOffset": 24,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.78670734167099,
+            "Type": "ORGANIZATION",
+            "Text": "G-20",
+            "BeginOffset": 44,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9632732272148132,
+            "Type": "LOCATION",
+            "Text": "Hangzhou",
+            "BeginOffset": 52,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9999672174453735,
+            "Type": "OTHER",
+            "Text": "https://t.co/mGxgb1H2DL",
+            "BeginOffset": 61,
+            "EndOffset": 84
+        }
+    ]
+}

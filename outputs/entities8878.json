@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7933375835418701,
+            "Type": "PERSON",
+            "Text": "@SpecialAffair",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8472977876663208,
+            "Type": "LOCATION",
+            "Text": "Pakistan",
+            "BeginOffset": 19,
+            "EndOffset": 27
+        }
+    ]
+}

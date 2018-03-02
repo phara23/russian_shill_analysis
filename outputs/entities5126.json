@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7844249606132507,
+            "Type": "PERSON",
+            "Text": "@guardian",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8235233426094055,
+            "Type": "ORGANIZATION",
+            "Text": "Microsoft",
+            "BeginOffset": 14,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9917463064193726,
+            "Type": "ORGANIZATION",
+            "Text": "LinkedIn",
+            "BeginOffset": 31,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9693658351898193,
+            "Type": "QUANTITY",
+            "Text": "6bn",
+            "BeginOffset": 44,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9999414682388306,
+            "Type": "OTHER",
+            "Text": "https://t.co/E9iHpuHwB2",
+            "BeginOffset": 72,
+            "EndOffset": 95
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4673459827899933,
+            "Type": "ORGANIZATION",
+            "Text": "Senate",
+            "BeginOffset": 0,
+            "EndOffset": 6
+        },
+        {
+            "Score": 0.7192872762680054,
+            "Type": "OTHER",
+            "Text": "Article 2",
+            "BeginOffset": 26,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9262568950653076,
+            "Type": "OTHER",
+            "Text": "Sect 2",
+            "BeginOffset": 36,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.880441427230835,
+            "Type": "OTHER",
+            "Text": "https://t.co/A6ZntFDonh",
+            "BeginOffset": 75,
+            "EndOffset": 98
+        }
+    ]
+}

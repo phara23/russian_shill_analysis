@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9290416836738586,
+            "Type": "PERSON",
+            "Text": "@dhiggins63",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.2862187325954437,
+            "Type": "ORGANIZATION",
+            "Text": "#SteveBannon",
+            "BeginOffset": 55,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9549399018287659,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 107,
+            "EndOffset": 123
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8510262370109558,
+            "Type": "PERSON",
+            "Text": "@IcemanDaGenius",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9778584837913513,
+            "Type": "LOCATION",
+            "Text": "NJ",
+            "BeginOffset": 34,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.5146557092666626,
+            "Type": "QUANTITY",
+            "Text": "2 Implement several",
+            "BeginOffset": 89,
+            "EndOffset": 108
+        },
+        {
+            "Score": 0.9889395833015442,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 112,
+            "EndOffset": 117
+        }
+    ]
+}

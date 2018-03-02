@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8113219738006592,
+            "Type": "PERSON",
+            "Text": "@ComplyAnalyst",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9950513243675232,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 68,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.5663264989852905,
+            "Type": "LOCATION",
+            "Text": "Central Park",
+            "BeginOffset": 91,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.5705996751785278,
+            "Type": "QUANTITY",
+            "Text": "Five",
+            "BeginOffset": 104,
+            "EndOffset": 108
+        }
+    ]
+}

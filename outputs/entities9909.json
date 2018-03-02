@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9062470197677612,
+            "Type": "PERSON",
+            "Text": "@Ohboyboy22",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9847529530525208,
+            "Type": "PERSON",
+            "Text": "Milo",
+            "BeginOffset": 16,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.7093029618263245,
+            "Type": "QUANTITY",
+            "Text": "#1",
+            "BeginOffset": 39,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.9612779021263123,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 43,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9998993873596191,
+            "Type": "OTHER",
+            "Text": "https://t.co/zIpJXmomJR",
+            "BeginOffset": 60,
+            "EndOffset": 83
+        }
+    ]
+}

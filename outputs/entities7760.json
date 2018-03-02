@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9394585490226746,
+            "Type": "PERSON",
+            "Text": "@Juliet777777",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.6536216735839844,
+            "Type": "PERSON",
+            "Text": "#Obama",
+            "BeginOffset": 18,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9067406058311462,
+            "Type": "QUANTITY",
+            "Text": "1,000 Names",
+            "BeginOffset": 71,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.6789877414703369,
+            "Type": "LOCATION",
+            "Text": "U.S.",
+            "BeginOffset": 88,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.867255449295044,
+            "Type": "OTHER",
+            "Text": "https://t.co/fVZXtrqoYJ",
+            "BeginOffset": 112,
+            "EndOffset": 135
+        },
+        {
+            "Score": 0.6286477446556091,
+            "Type": "LOCATION",
+            "Text": "#Ohio",
+            "BeginOffset": 137,
+            "EndOffset": 142
+        }
+    ]
+}

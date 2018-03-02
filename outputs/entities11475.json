@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.864020049571991,
+            "Type": "PERSON",
+            "Text": "@collinrees",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.3883870840072632,
+            "Type": "ORGANIZATION",
+            "Text": "#WhiteHouse",
+            "BeginOffset": 48,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.9934138655662537,
+            "Type": "DATE",
+            "Text": "tonight",
+            "BeginOffset": 60,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.3877592980861664,
+            "Type": "ORGANIZATION",
+            "Text": "#NoDAPL",
+            "BeginOffset": 112,
+            "EndOffset": 119
+        }
+    ]
+}

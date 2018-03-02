@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8257827162742615,
+            "Type": "PERSON",
+            "Text": "@OCAmericans",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9980648756027222,
+            "Type": "PERSON",
+            "Text": "Donna Shalala",
+            "BeginOffset": 48,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.7761569023132324,
+            "Type": "ORGANIZATION",
+            "Text": "Clinton Foundation",
+            "BeginOffset": 63,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.8286150693893433,
+            "Type": "ORGANIZATION",
+            "Text": "Board of Gannett",
+            "BeginOffset": 107,
+            "EndOffset": 123
+        },
+        {
+            "Score": 0.9654464721679688,
+            "Type": "LOCATION",
+            "Text": "USA",
+            "BeginOffset": 135,
+            "EndOffset": 138
+        }
+    ]
+}

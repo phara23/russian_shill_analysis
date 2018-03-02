@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.844300389289856,
+            "Type": "PERSON",
+            "Text": "@BLM5280",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9426344037055969,
+            "Type": "LOCATION",
+            "Text": "U.S.",
+            "BeginOffset": 73,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.9568299651145935,
+            "Type": "QUANTITY",
+            "Text": "2.2 million people",
+            "BeginOffset": 101,
+            "EndOffset": 119
+        },
+        {
+            "Score": 0.8813385963439941,
+            "Type": "OTHER",
+            "Text": "https://t.c",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

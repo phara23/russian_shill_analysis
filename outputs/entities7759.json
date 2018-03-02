@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.919988751411438,
+            "Type": "PERSON",
+            "Text": "@hotdog7826",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9961102604866028,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 16,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.7157257199287415,
+            "Type": "PERSON",
+            "Text": "@politicususa",
+            "BeginOffset": 101,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.9997016787528992,
+            "Type": "OTHER",
+            "Text": "https://t.co/jDEsibOOPx",
+            "BeginOffset": 115,
+            "EndOffset": 138
+        }
+    ]
+}

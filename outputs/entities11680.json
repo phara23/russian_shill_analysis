@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7727319598197937,
+            "Type": "PERSON",
+            "Text": "@BIZPACReview",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9932441115379333,
+            "Type": "PERSON",
+            "Text": "Pence",
+            "BeginOffset": 18,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9185228943824768,
+            "Type": "OTHER",
+            "Text": "Jewish",
+            "BeginOffset": 60,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9946753978729248,
+            "Type": "OTHER",
+            "Text": "https://t.co/tFpaYvUs7",
+            "BeginOffset": 117,
+            "EndOffset": 139
+        }
+    ]
+}

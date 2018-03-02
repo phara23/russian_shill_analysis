@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9356445074081421,
+            "Type": "PERSON",
+            "Text": "@Nephanor",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9927583932876587,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 22,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.5315075516700745,
+            "Type": "LOCATION",
+            "Text": "#ChelseaNYC",
+            "BeginOffset": 94,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.9791778922080994,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 118,
+            "EndOffset": 123
+        },
+        {
+            "Score": 0.9600501656532288,
+            "Type": "OTHER",
+            "Text": "https://t.co/et",
+            "BeginOffset": 124,
+            "EndOffset": 139
+        }
+    ]
+}

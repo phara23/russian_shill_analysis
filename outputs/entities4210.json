@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9503453969955444,
+            "Type": "PERSON",
+            "Text": "@tyleroakley",
+            "BeginOffset": 0,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9705197811126709,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 19,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9923702478408813,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 41,
+            "EndOffset": 45
+        }
+    ]
+}

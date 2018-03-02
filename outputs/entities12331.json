@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9328218102455139,
+            "Type": "PERSON",
+            "Text": "@jefflcohen",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9999057054519653,
+            "Type": "OTHER",
+            "Text": "https://t.co/8WIGzbQGUx",
+            "BeginOffset": 16,
+            "EndOffset": 39
+        }
+    ]
+}

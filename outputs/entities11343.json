@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7300106287002563,
+            "Type": "LOCATION",
+            "Text": "D.C.",
+            "BeginOffset": 16,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.8772521615028381,
+            "Type": "OTHER",
+            "Text": "https://t.co/YlrzuFFdxB",
+            "BeginOffset": 78,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.9997895359992981,
+            "Type": "OTHER",
+            "Text": "https://t.co/dvvxD5Ya9E",
+            "BeginOffset": 108,
+            "EndOffset": 131
+        }
+    ]
+}

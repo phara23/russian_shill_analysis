@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7886860370635986,
+            "Type": "PERSON",
+            "Text": "@ChicagoILDaily",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.37259939312934875,
+            "Type": "ORGANIZATION",
+            "Text": "NHL",
+            "BeginOffset": 27,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.30575093626976013,
+            "Type": "PERSON",
+            "Text": "Sharp",
+            "BeginOffset": 38,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.8613945245742798,
+            "Type": "PERSON",
+            "Text": "Skinner",
+            "BeginOffset": 45,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.8296570777893066,
+            "Type": "QUANTITY",
+            "Text": "Both",
+            "BeginOffset": 53,
+            "EndOffset": 57
+        }
+    ]
+}

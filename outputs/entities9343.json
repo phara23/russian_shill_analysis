@@ -1,0 +1,74 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8803925514221191,
+            "Type": "PERSON",
+            "Text": "@Scottyc11",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8676022887229919,
+            "Type": "PERSON",
+            "Text": "@DebolDog",
+            "BeginOffset": 15,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9813888072967529,
+            "Type": "PERSON",
+            "Text": "@realshady8kers",
+            "BeginOffset": 25,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9807601571083069,
+            "Type": "PERSON",
+            "Text": "@Ega_bun",
+            "BeginOffset": 41,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.9945452809333801,
+            "Type": "PERSON",
+            "Text": "@Bellis2488",
+            "BeginOffset": 50,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9905412793159485,
+            "Type": "PERSON",
+            "Text": "@camojoe5682",
+            "BeginOffset": 64,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.9966204166412354,
+            "Type": "PERSON",
+            "Text": "@Elena07617349",
+            "BeginOffset": 77,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.9924864172935486,
+            "Type": "PERSON",
+            "Text": "@AshleyWarrior",
+            "BeginOffset": 92,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.6823741793632507,
+            "Type": "PERSON",
+            "Text": "@NAMbLA",
+            "BeginOffset": 107,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.9841534495353699,
+            "Type": "DATE",
+            "Text": "1974",
+            "BeginOffset": 114,
+            "EndOffset": 118
+        }
+    ]
+}

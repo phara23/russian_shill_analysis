@@ -1,0 +1,28 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9853793978691101,
+            "Text": "Donald Trump",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.992476761341095,
+            "Text": "D.C. hotel",
+            "BeginOffset": 22,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9991987347602844,
+            "Text": "his Hollywood star",
+            "BeginOffset": 34,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.6725742816925049,
+            "Text": "Politics Extra",
+            "BeginOffset": 65,
+            "EndOffset": 79
+        }
+    ]
+}

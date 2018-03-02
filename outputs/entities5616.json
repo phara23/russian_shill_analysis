@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.883891761302948,
+            "Type": "PERSON",
+            "Text": "@TheCyancynic",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9997252225875854,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 93,
+            "EndOffset": 108
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9974162578582764,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.9461502432823181,
+            "Type": "PERSON",
+            "Text": "Peres",
+            "BeginOffset": 7,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8937125205993652,
+            "Type": "OTHER",
+            "Text": "https://t.co/6E5mJjxEGr",
+            "BeginOffset": 60,
+            "EndOffset": 83
+        },
+        {
+            "Score": 0.9999653100967407,
+            "Type": "OTHER",
+            "Text": "https://t.co/kY093GTYVQ",
+            "BeginOffset": 84,
+            "EndOffset": 107
+        }
+    ]
+}

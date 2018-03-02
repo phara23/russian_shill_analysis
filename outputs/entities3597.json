@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8849754333496094,
+            "Type": "QUANTITY",
+            "Text": "1 LIKE",
+            "BeginOffset": 10,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9834694862365723,
+            "Type": "QUANTITY",
+            "Text": "1 Year",
+            "BeginOffset": 19,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9999068975448608,
+            "Type": "OTHER",
+            "Text": "https://t.co/D8M56ZbFjk",
+            "BeginOffset": 49,
+            "EndOffset": 72
+        }
+    ]
+}

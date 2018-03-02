@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.914323627948761,
+            "Type": "PERSON",
+            "Text": "@petejohn10",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9951647520065308,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 16,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.8949161171913147,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 36,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9999852180480957,
+            "Type": "OTHER",
+            "Text": "https://t.co/d06Q9A1u1t",
+            "BeginOffset": 89,
+            "EndOffset": 112
+        }
+    ]
+}

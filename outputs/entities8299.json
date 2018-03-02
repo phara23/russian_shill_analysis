@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.719200611114502,
+            "Type": "PERSON",
+            "Text": "@4realme4",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.862457275390625,
+            "Type": "PERSON",
+            "Text": "@VonniMediaMogul",
+            "BeginOffset": 18,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.9967902302742004,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 40,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9060574769973755,
+            "Type": "PERSON",
+            "Text": "@Hil",
+            "BeginOffset": 135,
+            "EndOffset": 139
+        }
+    ]
+}

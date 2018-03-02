@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9029871821403503,
+            "Type": "PERSON",
+            "Text": "@paradryI",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.7916063666343689,
+            "Type": "QUANTITY",
+            "Text": "4\nmy personality",
+            "BeginOffset": 27,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.8296566605567932,
+            "Type": "QUANTITY",
+            "Text": "6",
+            "BeginOffset": 49,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.99130779504776,
+            "Type": "QUANTITY",
+            "Text": "10",
+            "BeginOffset": 70,
+            "EndOffset": 72
+        }
+    ]
+}

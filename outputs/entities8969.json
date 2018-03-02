@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.999137282371521,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 0,
+            "EndOffset": 5
+        },
+        {
+            "Score": 0.6671572923660278,
+            "Type": "OTHER",
+            "Text": "Americans",
+            "BeginOffset": 11,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.6288830637931824,
+            "Type": "LOCATION",
+            "Text": "Guantanamo",
+            "BeginOffset": 39,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.6396237015724182,
+            "Type": "ORGANIZATION",
+            "Text": "Miami Herald",
+            "BeginOffset": 51,
+            "EndOffset": 63
+        }
+    ]
+}

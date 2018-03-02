@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.72068190574646,
+            "Type": "PERSON",
+            "Text": "@perossmeisl",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8541721701622009,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 17,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.8036385774612427,
+            "Type": "PERSON",
+            "Text": "@19PHIL51",
+            "BeginOffset": 57,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9157372117042542,
+            "Type": "PERSON",
+            "Text": "@PeacefulChrist",
+            "BeginOffset": 67,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.9846982955932617,
+            "Type": "PERSON",
+            "Text": "@Pudingtane",
+            "BeginOffset": 83,
+            "EndOffset": 94
+        },
+        {
+            "Score": 0.9880064725875854,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 95,
+            "EndOffset": 111
+        },
+        {
+            "Score": 0.9933149218559265,
+            "Type": "PERSON",
+            "Text": "@marylene58",
+            "BeginOffset": 112,
+            "EndOffset": 123
+        },
+        {
+            "Score": 0.8384727835655212,
+            "Type": "OTHER",
+            "Text": "https://t.co/p",
+            "BeginOffset": 125,
+            "EndOffset": 139
+        }
+    ]
+}

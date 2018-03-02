@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9279855489730835,
+            "Type": "PERSON",
+            "Text": "@TalibKweli",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.5492116808891296,
+            "Type": "PERSON",
+            "Text": "Wyclef",
+            "BeginOffset": 25,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9906389117240906,
+            "Type": "DATE",
+            "Text": "Last week",
+            "BeginOffset": 33,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.8692771792411804,
+            "Type": "PERSON",
+            "Text": "@xakariahofoz",
+            "BeginOffset": 53,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.8521432280540466,
+            "Type": "OTHER",
+            "Text": "https://t.co/lOGnqi5Xa0",
+            "BeginOffset": 68,
+            "EndOffset": 91
+        },
+        {
+            "Score": 0.6617521047592163,
+            "Type": "OTHER",
+            "Text": "https://t.co/mvpOzVF3zf",
+            "BeginOffset": 92,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.9999105930328369,
+            "Type": "OTHER",
+            "Text": "https://t.co/rT6E1uZF7R",
+            "BeginOffset": 116,
+            "EndOffset": 139
+        }
+    ]
+}

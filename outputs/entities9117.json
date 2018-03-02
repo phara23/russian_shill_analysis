@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8969246745109558,
+            "Type": "PERSON",
+            "Text": "@willdizard",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.3763798177242279,
+            "Type": "ORGANIZATION",
+            "Text": "DC",
+            "BeginOffset": 16,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.5964197516441345,
+            "Type": "PERSON",
+            "Text": "#J20",
+            "BeginOffset": 77,
+            "EndOffset": 81
+        },
+        {
+            "Score": 0.9998337030410767,
+            "Type": "OTHER",
+            "Text": "https://t.co/UilWv2FYHb",
+            "BeginOffset": 82,
+            "EndOffset": 105
+        }
+    ]
+}

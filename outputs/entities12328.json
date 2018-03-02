@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7736268639564514,
+            "Type": "PERSON",
+            "Text": "@TheDonaldNews",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9946032166481018,
+            "Type": "ORGANIZATION",
+            "Text": "FBI",
+            "BeginOffset": 19,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.7297340631484985,
+            "Type": "PERSON",
+            "Text": "Hillary Off",
+            "BeginOffset": 36,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.8256326913833618,
+            "Type": "ORGANIZATION",
+            "Text": "The Clinton Foundation",
+            "BeginOffset": 98,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.9788878560066223,
+            "Type": "OTHER",
+            "Text": "https://t.co/GpQP",
+            "BeginOffset": 122,
+            "EndOffset": 139
+        }
+    ]
+}

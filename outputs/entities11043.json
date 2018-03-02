@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8706653118133545,
+            "Type": "PERSON",
+            "Text": "@StormBringer15",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.6694322228431702,
+            "Type": "ORGANIZATION",
+            "Text": "Group of #Ukraine|an",
+            "BeginOffset": 20,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.3873797059059143,
+            "Type": "ORGANIZATION",
+            "Text": "ATO",
+            "BeginOffset": 58,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.9999878406524658,
+            "Type": "OTHER",
+            "Text": "https://t.co/m3dThtyiz4",
+            "BeginOffset": 67,
+            "EndOffset": 90
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7718107104301453,
+            "Type": "PERSON",
+            "Text": "@HipHopVibe1",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9975778460502625,
+            "Type": "PERSON",
+            "Text": "Rumer Willis",
+            "BeginOffset": 17,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.999922513961792,
+            "Type": "OTHER",
+            "Text": "https://t.co/HAXafsXzUV",
+            "BeginOffset": 95,
+            "EndOffset": 118
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9983559250831604,
+            "Type": "PERSON",
+            "Text": "Sandra Bland",
+            "BeginOffset": 0,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9134588837623596,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 50,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.9297110438346863,
+            "Type": "OTHER",
+            "Text": "https://t.co/U0KYoT6kGT",
+            "BeginOffset": 54,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.8054466843605042,
+            "Type": "OTHER",
+            "Text": "https://t.co/GEOYS5E4Ll",
+            "BeginOffset": 80,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.999976634979248,
+            "Type": "OTHER",
+            "Text": "https://t.co/H5zRgBuDN2",
+            "BeginOffset": 104,
+            "EndOffset": 127
+        }
+    ]
+}

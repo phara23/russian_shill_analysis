@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.952366054058075,
+            "Type": "PERSON",
+            "Text": "@siarahflanz",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.6326047778129578,
+            "Type": "QUANTITY",
+            "Text": "3Words",
+            "BeginOffset": 50,
+            "EndOffset": 56
+        }
+    ]
+}

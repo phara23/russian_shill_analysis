@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8906808495521545,
+            "Type": "PERSON",
+            "Text": "@BrazilianGirl32",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.4664701819419861,
+            "Type": "LOCATION",
+            "Text": "Germany",
+            "BeginOffset": 21,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.6072929501533508,
+            "Type": "PERSON",
+            "Text": "Merkel",
+            "BeginOffset": 37,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9996993541717529,
+            "Type": "OTHER",
+            "Text": "https://t.co/cTUoAQ2APg",
+            "BeginOffset": 72,
+            "EndOffset": 95
+        }
+    ]
+}

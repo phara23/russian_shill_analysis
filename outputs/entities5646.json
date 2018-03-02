@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9018433094024658,
+            "Type": "PERSON",
+            "Text": "@Gamiliell",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8346434235572815,
+            "Type": "OTHER",
+            "Text": "https://t.co/3QdisjYHb9",
+            "BeginOffset": 15,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9373010396957397,
+            "Type": "PERSON",
+            "Text": "Rose",
+            "BeginOffset": 39,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.8195942640304565,
+            "Type": "PERSON",
+            "Text": "@500px",
+            "BeginOffset": 44,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9999037981033325,
+            "Type": "OTHER",
+            "Text": "https://t.co/K3TTLnDOIP",
+            "BeginOffset": 51,
+            "EndOffset": 74
+        }
+    ]
+}

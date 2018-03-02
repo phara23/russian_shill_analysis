@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8555271625518799,
+            "Type": "PERSON",
+            "Text": "@blicqer",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.6779749989509583,
+            "Type": "QUANTITY",
+            "Text": "Hundreds mail",
+            "BeginOffset": 15,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9472042918205261,
+            "Type": "QUANTITY",
+            "Text": "5-year-old",
+            "BeginOffset": 29,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9672836661338806,
+            "Type": "OTHER",
+            "Text": "https://t.co/RnbuKiF3wC",
+            "BeginOffset": 54,
+            "EndOffset": 77
+        },
+        {
+            "Score": 0.7230137586593628,
+            "Type": "PERSON",
+            "Text": "@WUSA9Mornings",
+            "BeginOffset": 78,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.9999797344207764,
+            "Type": "OTHER",
+            "Text": "https://t.co/O8DbGbk8tx",
+            "BeginOffset": 93,
+            "EndOffset": 116
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8194665908813477,
+            "Type": "PERSON",
+            "Text": "@_Makada",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9525220394134521,
+            "Type": "PERSON",
+            "Text": "President-Elect Trump",
+            "BeginOffset": 31,
+            "EndOffset": 52
+        },
+        {
+            "Score": 0.6889706254005432,
+            "Type": "LOCATION",
+            "Text": "Taiwan",
+            "BeginOffset": 80,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9739112854003906,
+            "Type": "ORGANIZATION",
+            "Text": "Communist China",
+            "BeginOffset": 95,
+            "EndOffset": 110
+        },
+        {
+            "Score": 0.5264168381690979,
+            "Type": "ORGANIZATION",
+            "Text": "China",
+            "BeginOffset": 120,
+            "EndOffset": 125
+        }
+    ]
+}

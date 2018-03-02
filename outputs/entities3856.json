@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8893166780471802,
+            "Type": "PERSON",
+            "Text": "@Solely_Toya",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.5351325273513794,
+            "Type": "DATE",
+            "Text": "#2017",
+            "BeginOffset": 39,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.9998890161514282,
+            "Type": "OTHER",
+            "Text": "https://t.co/uOJL8Tc3AK",
+            "BeginOffset": 57,
+            "EndOffset": 80
+        }
+    ]
+}

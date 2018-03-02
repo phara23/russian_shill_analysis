@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8168636560440063,
+            "Type": "PERSON",
+            "Text": "@guardian",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.7721543908119202,
+            "Type": "ORGANIZATION",
+            "Text": "Russia",
+            "BeginOffset": 14,
+            "EndOffset": 20
+        },
+        {
+            "Score": 0.6307010650634766,
+            "Type": "ORGANIZATION",
+            "Text": "ISS",
+            "BeginOffset": 77,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.9998829364776611,
+            "Type": "OTHER",
+            "Text": "http://t.co/cQ1e9aw8jK",
+            "BeginOffset": 89,
+            "EndOffset": 111
+        }
+    ]
+}

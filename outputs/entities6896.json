@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.929956316947937,
+            "Type": "PERSON",
+            "Text": "@ArthurSchwartz",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9074276685714722,
+            "Type": "PERSON",
+            "Text": "@LorettaLynch",
+            "BeginOffset": 35,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9995715022087097,
+            "Type": "OTHER",
+            "Text": "https://t.co/xkutkgthou",
+            "BeginOffset": 113,
+            "EndOffset": 136
+        }
+    ]
+}

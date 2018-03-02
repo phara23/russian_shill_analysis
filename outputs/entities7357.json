@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8828811645507812,
+            "Type": "PERSON",
+            "Text": "@nvglenns",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.6592138409614563,
+            "Type": "ORGANIZATION",
+            "Text": "WHO",
+            "BeginOffset": 14,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.5528628826141357,
+            "Type": "LOCATION",
+            "Text": "Russia",
+            "BeginOffset": 37,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.995895266532898,
+            "Type": "PERSON",
+            "Text": "Clinton",
+            "BeginOffset": 111,
+            "EndOffset": 118
+        }
+    ]
+}

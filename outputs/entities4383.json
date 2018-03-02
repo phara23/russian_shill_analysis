@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9125487208366394,
+            "Type": "PERSON",
+            "Text": "@JohnFPLane",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7648318409919739,
+            "Type": "QUANTITY",
+            "Text": "Double",
+            "BeginOffset": 16,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.5521626472473145,
+            "Type": "QUANTITY",
+            "Text": "double",
+            "BeginOffset": 24,
+            "EndOffset": 30
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.908734142780304,
+            "Type": "PERSON",
+            "Text": "@JeanetteJing",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9972720742225647,
+            "Type": "DATE",
+            "Text": "1998",
+            "BeginOffset": 21,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9998201131820679,
+            "Type": "PERSON",
+            "Text": "Bill Clinton",
+            "BeginOffset": 58,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.9997817873954773,
+            "Type": "OTHER",
+            "Text": "https://t.co/bBGaQEhnk0",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

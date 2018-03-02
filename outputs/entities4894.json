@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8438694477081299,
+            "Type": "PERSON",
+            "Text": "@erica4oux2",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.6616110801696777,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 55,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.6933311223983765,
+            "Type": "QUANTITY",
+            "Text": "1st\nWhiteNationalist",
+            "BeginOffset": 62,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.8691440224647522,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 106,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.9612019658088684,
+            "Type": "QUANTITY",
+            "Text": "1st policies",
+            "BeginOffset": 113,
+            "EndOffset": 125
+        }
+    ]
+}

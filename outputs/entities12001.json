@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8730067014694214,
+            "Type": "PERSON",
+            "Text": "@keithboykin",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9996196031570435,
+            "Type": "PERSON",
+            "Text": "Juanita Castro",
+            "BeginOffset": 17,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9694110155105591,
+            "Type": "PERSON",
+            "Text": "Fidel",
+            "BeginOffset": 33,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9954206347465515,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 96,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.9720574617385864,
+            "Type": "OTHER",
+            "Text": "https://t.co/KHHph9J6i5",
+            "BeginOffset": 110,
+            "EndOffset": 133
+        }
+    ]
+}

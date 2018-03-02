@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6741054654121399,
+            "Type": "PERSON",
+            "Text": "@FunnyPantsTV",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.3499498665332794,
+            "Type": "ORGANIZATION",
+            "Text": "#HillaryClinton",
+            "BeginOffset": 67,
+            "EndOffset": 82
+        }
+    ]
+}

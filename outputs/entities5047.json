@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8885643482208252,
+            "Type": "PERSON",
+            "Text": "@BillCVA64",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.8370206952095032,
+            "Type": "ORGANIZATION",
+            "Text": "GOP",
+            "BeginOffset": 15,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.643168568611145,
+            "Type": "ORGANIZATION",
+            "Text": "Capitol Wall",
+            "BeginOffset": 59,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.969848096370697,
+            "Type": "OTHER",
+            "Text": "https://t.co/gYXvdmReNN",
+            "BeginOffset": 72,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.6948397159576416,
+            "Type": "ORGANIZATION",
+            "Text": "@Conservative",
+            "BeginOffset": 100,
+            "EndOffset": 113
+        }
+    ]
+}

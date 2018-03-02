@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.741298496723175,
+            "Type": "PERSON",
+            "Text": "@DeplorableNews",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9314689040184021,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 68,
+            "EndOffset": 75
+        },
+        {
+            "Score": 0.9135473370552063,
+            "Type": "OTHER",
+            "Text": "https://t.co/Zdm2cJIKzd",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.8259828090667725,
+            "Type": "ORGANIZATION",
+            "Text": "#BB4SP",
+            "BeginOffset": 114,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.8588096499443054,
+            "Type": "OTHER",
+            "Text": "https://t.co/WNRiy",
+            "BeginOffset": 121,
+            "EndOffset": 139
+        }
+    ]
+}

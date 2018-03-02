@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8192347884178162,
+            "Type": "PERSON",
+            "Text": "@The_Trump",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9915456175804138,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 21,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.5218815207481384,
+            "Type": "PERSON",
+            "Text": "Geno",
+            "BeginOffset": 30,
+            "EndOffset": 34
+        },
+        {
+            "Score": 0.648547887802124,
+            "Type": "ORGANIZATION",
+            "Text": "Crooked Hillary",
+            "BeginOffset": 64,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.9181817770004272,
+            "Type": "OTHER",
+            "Text": "https://t.co/AnuH",
+            "BeginOffset": 122,
+            "EndOffset": 139
+        }
+    ]
+}

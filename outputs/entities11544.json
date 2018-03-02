@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.888871967792511,
+            "Type": "PERSON",
+            "Text": "@Cpeter5000",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.6262415647506714,
+            "Type": "PERSON",
+            "Text": "Slim Shady",
+            "BeginOffset": 32,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.999927282333374,
+            "Type": "OTHER",
+            "Text": "https://t.co/f65RufiY86",
+            "BeginOffset": 66,
+            "EndOffset": 89
+        }
+    ]
+}

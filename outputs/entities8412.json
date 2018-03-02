@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9266826510429382,
+            "Type": "PERSON",
+            "Text": "@Lrihendry",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.9545351266860962,
+            "Type": "QUANTITY",
+            "Text": "93 million",
+            "BeginOffset": 15,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.4953714907169342,
+            "Type": "OTHER",
+            "Text": "Americans",
+            "BeginOffset": 37,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9456607103347778,
+            "Type": "ORGANIZATION",
+            "Text": "Democrats",
+            "BeginOffset": 67,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.9173905849456787,
+            "Type": "QUANTITY",
+            "Text": "110K",
+            "BeginOffset": 89,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.907791793346405,
+            "Type": "OTHER",
+            "Text": "Syrian",
+            "BeginOffset": 94,
+            "EndOffset": 100
+        }
+    ]
+}

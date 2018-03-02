@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8402368426322937,
+            "Type": "PERSON",
+            "Text": "@CerromeRussell",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9953935742378235,
+            "Type": "PERSON",
+            "Text": "Steve Harvey",
+            "BeginOffset": 20,
+            "EndOffset": 32
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7910124659538269,
+            "Type": "PERSON",
+            "Text": "@BIZPACReview",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.5839905738830566,
+            "Type": "PERSON",
+            "Text": "Rambo",
+            "BeginOffset": 18,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9300437569618225,
+            "Type": "LOCATION",
+            "Text": "D.C.",
+            "BeginOffset": 27,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9976972937583923,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 33,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9896570444107056,
+            "Type": "PERSON",
+            "Text": "Sylvester Stallone",
+            "BeginOffset": 58,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.6958093643188477,
+            "Type": "OTHER",
+            "Text": "https://t.co/tKhybkduwp",
+            "BeginOffset": 108,
+            "EndOffset": 131
+        }
+    ]
+}

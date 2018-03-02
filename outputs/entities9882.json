@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8854087591171265,
+            "Type": "PERSON",
+            "Text": "@theblaze",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9691901206970215,
+            "Type": "PERSON",
+            "Text": "Rush Limbaugh",
+            "BeginOffset": 57,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.8522819876670837,
+            "Type": "PERSON",
+            "Text": "@marcorubio",
+            "BeginOffset": 81,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.9999409914016724,
+            "Type": "OTHER",
+            "Text": "https://t.co/bChjNQ8Ia5",
+            "BeginOffset": 115,
+            "EndOffset": 138
+        }
+    ]
+}

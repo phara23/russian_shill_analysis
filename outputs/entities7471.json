@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7714704871177673,
+            "Type": "PERSON",
+            "Text": "@imcrews",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.7085584402084351,
+            "Type": "ORGANIZATION",
+            "Text": "Saudi Arabia",
+            "BeginOffset": 48,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.8185747861862183,
+            "Type": "ORGANIZATION",
+            "Text": "Islam",
+            "BeginOffset": 81,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.9999889135360718,
+            "Type": "OTHER",
+            "Text": "https://t.co/o686m1lPmC",
+            "BeginOffset": 105,
+            "EndOffset": 128
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8473168611526489,
+            "Type": "PERSON",
+            "Text": "@BreitbartNews",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9907178282737732,
+            "Type": "DATE",
+            "Text": "10 years ago",
+            "BeginOffset": 87,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.9997844099998474,
+            "Type": "OTHER",
+            "Text": "https://t.co/qkZgrfe5a7",
+            "BeginOffset": 102,
+            "EndOffset": 125
+        }
+    ]
+}

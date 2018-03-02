@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8033440113067627,
+            "Type": "PERSON",
+            "Text": "@DizzyPizzy2",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.4877055287361145,
+            "Type": "OTHER",
+            "Text": "Syrian",
+            "BeginOffset": 17,
+            "EndOffset": 23
+        },
+        {
+            "Score": 0.9907835721969604,
+            "Type": "LOCATION",
+            "Text": "Germany",
+            "BeginOffset": 67,
+            "EndOffset": 74
+        },
+        {
+            "Score": 0.9999864101409912,
+            "Type": "OTHER",
+            "Text": "https://t.co/e2tHMP3EX8",
+            "BeginOffset": 77,
+            "EndOffset": 100
+        }
+    ]
+}

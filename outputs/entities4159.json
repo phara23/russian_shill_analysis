@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.896762490272522,
+            "Type": "PERSON",
+            "Text": "Beyonce",
+            "BeginOffset": 0,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.9999722242355347,
+            "Type": "OTHER",
+            "Text": "http://t.co/7t0zNpFCFD",
+            "BeginOffset": 14,
+            "EndOffset": 36
+        }
+    ]
+}

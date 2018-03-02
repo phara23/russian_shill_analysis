@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8195282220840454,
+            "Type": "PERSON",
+            "Text": "@FreeLabelNet",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.8703898787498474,
+            "Type": "PERSON",
+            "Text": "@DJSyonKream",
+            "BeginOffset": 23,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.8173841238021851,
+            "Type": "PERSON",
+            "Text": "@DaveEast",
+            "BeginOffset": 38,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.999525785446167,
+            "Type": "OTHER",
+            "Text": "https://t.co/tEPugxWvjk",
+            "BeginOffset": 82,
+            "EndOffset": 105
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7883291244506836,
+            "Type": "PERSON",
+            "Text": "@joegooding",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9392353892326355,
+            "Type": "PERSON",
+            "Text": "@jdgimzek",
+            "BeginOffset": 16,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9595752358436584,
+            "Type": "PERSON",
+            "Text": "@rblotnicky",
+            "BeginOffset": 26,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9940407872200012,
+            "Type": "PERSON",
+            "Text": "@ElizabethMcCra2",
+            "BeginOffset": 38,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.996376633644104,
+            "Type": "PERSON",
+            "Text": "@golfhack1217",
+            "BeginOffset": 55,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9647111296653748,
+            "Type": "PERSON",
+            "Text": "@unavdblyunsafe",
+            "BeginOffset": 69,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.976534903049469,
+            "Type": "PERSON",
+            "Text": "@IamMonicaRae",
+            "BeginOffset": 85,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.9755207896232605,
+            "Type": "PERSON",
+            "Text": "@itsmepanda1",
+            "BeginOffset": 99,
+            "EndOffset": 111
+        },
+        {
+            "Score": 0.9725790023803711,
+            "Type": "PERSON",
+            "Text": "@miles_wilma",
+            "BeginOffset": 112,
+            "EndOffset": 124
+        }
+    ]
+}

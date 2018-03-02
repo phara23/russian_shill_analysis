@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.766239583492279,
+            "Type": "PERSON",
+            "Text": "@TwitchyTeam",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9985324144363403,
+            "Type": "PERSON",
+            "Text": "Louis Farrakhan",
+            "BeginOffset": 17,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.7981100082397461,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 38,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.8886598348617554,
+            "Type": "QUANTITY",
+            "Text": "No. 1",
+            "BeginOffset": 49,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.79848313331604,
+            "Type": "PERSON",
+            "Text": "God",
+            "BeginOffset": 61,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9999346733093262,
+            "Type": "OTHER",
+            "Text": "https://t.co/HjGH9euLqg",
+            "BeginOffset": 93,
+            "EndOffset": 116
+        }
+    ]
+}

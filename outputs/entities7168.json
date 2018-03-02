@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.752095103263855,
+            "Type": "PERSON",
+            "Text": "@zuessgirasoleme",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.8771480321884155,
+            "Type": "PERSON",
+            "Text": "@BodhisattvaKat",
+            "BeginOffset": 21,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.9962463974952698,
+            "Type": "PERSON",
+            "Text": "@nickkerr1961",
+            "BeginOffset": 37,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.9734438061714172,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 51,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9179828763008118,
+            "Type": "PERSON",
+            "Text": "@deray",
+            "BeginOffset": 67,
+            "EndOffset": 73
+        }
+    ]
+}

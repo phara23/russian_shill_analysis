@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9318631887435913,
+            "Type": "PERSON",
+            "Text": "@ChristieC733",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.36736828088760376,
+            "Type": "PERSON",
+            "Text": "#HillaryClinton",
+            "BeginOffset": 18,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.964936375617981,
+            "Type": "OTHER",
+            "Text": "https://t.co/KrDmBBwO7V",
+            "BeginOffset": 110,
+            "EndOffset": 133
+        }
+    ]
+}

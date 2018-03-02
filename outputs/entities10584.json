@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8756113648414612,
+            "Type": "PERSON",
+            "Text": "@AnnCoulter",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9993147850036621,
+            "Type": "PERSON",
+            "Text": "Eric Holder",
+            "BeginOffset": 54,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9555546641349792,
+            "Type": "LOCATION",
+            "Text": "Mexico",
+            "BeginOffset": 78,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9911262392997742,
+            "Type": "ORGANIZATION",
+            "Text": "Congress",
+            "BeginOffset": 94,
+            "EndOffset": 102
+        }
+    ]
+}

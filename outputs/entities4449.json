@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7751167416572571,
+            "Type": "PERSON",
+            "Text": "@littlebytesnews",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9996306896209717,
+            "Type": "PERSON",
+            "Text": "Bernie Sanders",
+            "BeginOffset": 54,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.8039026260375977,
+            "Type": "ORGANIZATION",
+            "Text": "Democratic",
+            "BeginOffset": 74,
+            "EndOffset": 84
+        },
+        {
+            "Score": 0.9467812776565552,
+            "Type": "LOCATION",
+            "Text": "Utah",
+            "BeginOffset": 97,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.9996582269668579,
+            "Type": "OTHER",
+            "Text": "https://t.co/TaxYcf37zZ",
+            "BeginOffset": 102,
+            "EndOffset": 125
+        }
+    ]
+}

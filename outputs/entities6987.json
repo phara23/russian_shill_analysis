@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7409888505935669,
+            "Type": "PERSON",
+            "Text": "@tpartynews",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9983469247817993,
+            "Type": "PERSON",
+            "Text": "Willie Robertson",
+            "BeginOffset": 16,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9998929500579834,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 39,
+            "EndOffset": 44
+        },
+        {
+            "Score": 0.7694340944290161,
+            "Type": "QUANTITY",
+            "Text": "two attributes",
+            "BeginOffset": 99,
+            "EndOffset": 113
+        }
+    ]
+}

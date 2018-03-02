@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4814368784427643,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8545520305633545,
+            "Type": "PERSON",
+            "Text": "@Miami4Trump",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9278122782707214,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 20,
+            "EndOffset": 27
+        },
+        {
+            "Score": 0.8160449862480164,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 30,
+            "EndOffset": 37
+        },
+        {
+            "Score": 0.9700620770454407,
+            "Type": "PERSON",
+            "Text": "Ricky",
+            "BeginOffset": 65,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.6406012177467346,
+            "Type": "QUANTITY",
+            "Text": "#1A",
+            "BeginOffset": 109,
+            "EndOffset": 112
+        }
+    ]
+}

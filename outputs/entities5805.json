@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7036172151565552,
+            "Type": "TITLE",
+            "Text": "Hamilton",
+            "BeginOffset": 1,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.976601243019104,
+            "Type": "PERSON",
+            "Text": "Pence",
+            "BeginOffset": 24,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9977021813392639,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 38,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.7578138709068298,
+            "Type": "OTHER",
+            "Text": "https://t.co/arRItftOg4",
+            "BeginOffset": 56,
+            "EndOffset": 79
+        },
+        {
+            "Score": 0.9999880790710449,
+            "Type": "OTHER",
+            "Text": "https://t.co/m2R8gvbRuk",
+            "BeginOffset": 80,
+            "EndOffset": 103
+        }
+    ]
+}

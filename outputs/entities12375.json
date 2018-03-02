@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9763906002044678,
+            "Type": "QUANTITY",
+            "Text": "two students",
+            "BeginOffset": 4,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.9841865301132202,
+            "Type": "ORGANIZATION",
+            "Text": "Babson College",
+            "BeginOffset": 46,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9998416900634766,
+            "Type": "OTHER",
+            "Text": "https://t.co/LZ3L7raELa",
+            "BeginOffset": 109,
+            "EndOffset": 132
+        }
+    ]
+}

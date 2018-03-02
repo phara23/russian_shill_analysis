@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9082673192024231,
+            "Type": "PERSON",
+            "Text": "@dansch2002",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.5485353469848633,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 16,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9053976535797119,
+            "Type": "PERSON",
+            "Text": "@sdv92",
+            "BeginOffset": 19,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.5046509504318237,
+            "Type": "OTHER",
+            "Text": "Americans",
+            "BeginOffset": 52,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.962246298789978,
+            "Type": "OTHER",
+            "Text": "https://t.co/WSb0ucDkwS",
+            "BeginOffset": 63,
+            "EndOffset": 86
+        }
+    ]
+}

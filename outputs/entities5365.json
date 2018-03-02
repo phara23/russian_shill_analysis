@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8056323528289795,
+            "Type": "PERSON",
+            "Text": "@LadyLiberTea",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.7486252784729004,
+            "Type": "PERSON",
+            "Text": "@POTUS",
+            "BeginOffset": 19,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9769420623779297,
+            "Type": "PERSON",
+            "Text": "Flynn",
+            "BeginOffset": 35,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.7090926766395569,
+            "Type": "PERSON",
+            "Text": "Dem",
+            "BeginOffset": 46,
+            "EndOffset": 49
+        },
+        {
+            "Score": 0.6790149807929993,
+            "Type": "PERSON",
+            "Text": "NeverTrump",
+            "BeginOffset": 50,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.9731577634811401,
+            "Type": "PERSON",
+            "Text": "Harward",
+            "BeginOffset": 69,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.9866260886192322,
+            "Type": "OTHER",
+            "Text": "https://t.co/HGRP",
+            "BeginOffset": 122,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9141137599945068,
+            "Type": "ORGANIZATION",
+            "Text": "DNC",
+            "BeginOffset": 9,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.8208819031715393,
+            "Type": "QUANTITY",
+            "Text": "2 Reward Big Donors",
+            "BeginOffset": 34,
+            "EndOffset": 53
+        },
+        {
+            "Score": 0.7715809941291809,
+            "Type": "OTHER",
+            "Text": "https://t.co/YUkRNKIjqL",
+            "BeginOffset": 91,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.9999337196350098,
+            "Type": "OTHER",
+            "Text": "https://t.co/2gR4cceAHx",
+            "BeginOffset": 115,
+            "EndOffset": 138
+        }
+    ]
+}

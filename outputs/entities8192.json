@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9529440402984619,
+            "Type": "PERSON",
+            "Text": "@Kimberly124",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.8286463618278503,
+            "Type": "QUANTITY",
+            "Text": "two acts",
+            "BeginOffset": 40,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9999692440032959,
+            "Type": "OTHER",
+            "Text": "https://t.co/AvJXdCxTrP",
+            "BeginOffset": 49,
+            "EndOffset": 72
+        }
+    ]
+}

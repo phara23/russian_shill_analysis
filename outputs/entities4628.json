@@ -1,0 +1,67 @@
+{
+    "Entities": [
+        {
+            "Score": 0.6774577498435974,
+            "Type": "PERSON",
+            "Text": "@888",
+            "BeginOffset": 3,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.9382376074790955,
+            "Type": "PERSON",
+            "Text": "Scott",
+            "BeginOffset": 7,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9784634709358215,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 19,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.9992115497589111,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 48,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.7878649234771729,
+            "Type": "PERSON",
+            "Text": "#Trump",
+            "BeginOffset": 81,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.9073326587677002,
+            "Type": "DATE",
+            "Text": "2016",
+            "BeginOffset": 94,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.9397400617599487,
+            "Type": "PERSON",
+            "Text": "@DonaldJTrumpJr",
+            "BeginOffset": 99,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.9921938180923462,
+            "Type": "PERSON",
+            "Text": "@mike_pence",
+            "BeginOffset": 115,
+            "EndOffset": 126
+        },
+        {
+            "Score": 0.9672640562057495,
+            "Type": "OTHER",
+            "Text": "https://t.co",
+            "BeginOffset": 127,
+            "EndOffset": 139
+        }
+    ]
+}

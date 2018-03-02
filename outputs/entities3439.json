@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9540503025054932,
+            "Type": "QUANTITY",
+            "Text": "Four people",
+            "BeginOffset": 0,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.9605372548103333,
+            "Type": "LOCATION",
+            "Text": "Kabul",
+            "BeginOffset": 40,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9999076128005981,
+            "Type": "OTHER",
+            "Text": "https://t.co/fENYQ01INt",
+            "BeginOffset": 46,
+            "EndOffset": 69
+        }
+    ]
+}

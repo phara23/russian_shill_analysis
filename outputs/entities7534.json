@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9000869989395142,
+            "Type": "PERSON",
+            "Text": "@zerohedge",
+            "BeginOffset": 3,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.896632730960846,
+            "Type": "PERSON",
+            "Text": "Prince",
+            "BeginOffset": 15,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9999845027923584,
+            "Type": "OTHER",
+            "Text": "https://t.co/AqgrySC3WU",
+            "BeginOffset": 51,
+            "EndOffset": 74
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.948349118232727,
+            "Type": "PERSON",
+            "Text": "@josephjett",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.7671579122543335,
+            "Type": "ORGANIZATION",
+            "Text": "Republican",
+            "BeginOffset": 16,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.986312210559845,
+            "Type": "PERSON",
+            "Text": "Marco Rubio",
+            "BeginOffset": 27,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.7227372527122498,
+            "Type": "ORGANIZATION",
+            "Text": "Wall Street",
+            "BeginOffset": 47,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.8148539066314697,
+            "Type": "LOCATION",
+            "Text": "WASHINGTON",
+            "BeginOffset": 77,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.981899082660675,
+            "Type": "LOCATION",
+            "Text": "NEW YORK",
+            "BeginOffset": 88,
+            "EndOffset": 96
+        },
+        {
+            "Score": 0.9497998952865601,
+            "Type": "ORGANIZATION",
+            "Text": "Reuters",
+            "BeginOffset": 98,
+            "EndOffset": 105
+        },
+        {
+            "Score": 0.8150468468666077,
+            "Type": "OTHER",
+            "Text": "https://t.co/pKrhSmX1nr",
+            "BeginOffset": 114,
+            "EndOffset": 137
+        }
+    ]
+}

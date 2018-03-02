@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8995298743247986,
+            "Type": "PERSON",
+            "Text": "@RealAlexJones",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8630416989326477,
+            "Type": "PERSON",
+            "Text": "@HillaryClinton",
+            "BeginOffset": 41,
+            "EndOffset": 56
+        },
+        {
+            "Score": 0.9425176382064819,
+            "Type": "OTHER",
+            "Text": "https://t.co/XNHOMu0ZpP",
+            "BeginOffset": 79,
+            "EndOffset": 102
+        },
+        {
+            "Score": 0.8074440360069275,
+            "Type": "OTHER",
+            "Text": "https://t.c",
+            "BeginOffset": 128,
+            "EndOffset": 139
+        }
+    ]
+}

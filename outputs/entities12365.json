@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.4814368784427643,
+            "Type": "ORGANIZATION",
+            "Text": "RT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.8539509773254395,
+            "Type": "PERSON",
+            "Text": "@Miami4Trump",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.955815315246582,
+            "Type": "ORGANIZATION",
+            "Text": "Wikileaks",
+            "BeginOffset": 17,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.5069777965545654,
+            "Type": "LOCATION",
+            "Text": "Libya",
+            "BeginOffset": 77,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.41043898463249207,
+            "Type": "QUANTITY",
+            "Text": "4",
+            "BeginOffset": 105,
+            "EndOffset": 106
+        },
+        {
+            "Score": 0.9824950695037842,
+            "Type": "ORGANIZATION",
+            "Text": "ISIS",
+            "BeginOffset": 107,
+            "EndOffset": 111
+        }
+    ]
+}

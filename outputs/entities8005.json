@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8580763936042786,
+            "Type": "PERSON",
+            "Text": "@DesireeAaron",
+            "BeginOffset": 3,
+            "EndOffset": 16
+        },
+        {
+            "Score": 0.39891472458839417,
+            "Type": "PERSON",
+            "Text": "#Charleston",
+            "BeginOffset": 32,
+            "EndOffset": 43
+        },
+        {
+            "Score": 0.9997294545173645,
+            "Type": "OTHER",
+            "Text": "https://t.co/cJoXeyZOPy",
+            "BeginOffset": 45,
+            "EndOffset": 68
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8476628065109253,
+            "Type": "QUANTITY",
+            "Text": "More Than 20 States",
+            "BeginOffset": 35,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9273621439933777,
+            "Type": "OTHER",
+            "Text": "https://t.co/3nMQtCiNV1",
+            "BeginOffset": 65,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9998263716697693,
+            "Type": "OTHER",
+            "Text": "https://t.co/dtnCIuknzL",
+            "BeginOffset": 89,
+            "EndOffset": 112
+        }
+    ]
+}

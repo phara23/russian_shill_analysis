@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.903693675994873,
+            "Type": "PERSON",
+            "Text": "@blacktlkradio",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9918254613876343,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 19,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9999439716339111,
+            "Type": "OTHER",
+            "Text": "https://t.co/jj2a0BZTRj",
+            "BeginOffset": 62,
+            "EndOffset": 85
+        }
+    ]
+}

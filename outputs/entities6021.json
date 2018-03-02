@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7749927639961243,
+            "Type": "PERSON",
+            "Text": "@giftIist",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.5665001273155212,
+            "Type": "TITLE",
+            "Text": "CHRISTMAS GOALS",
+            "BeginOffset": 14,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.6403005719184875,
+            "Type": "OTHER",
+            "Text": "https://t.co/ElP5dwTEIW",
+            "BeginOffset": 41,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9998689889907837,
+            "Type": "OTHER",
+            "Text": "https://t.co/ywOyIxvvZ1",
+            "BeginOffset": 67,
+            "EndOffset": 90
+        }
+    ]
+}

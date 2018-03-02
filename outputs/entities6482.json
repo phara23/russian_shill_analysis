@@ -1,0 +1,53 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8909620642662048,
+            "Type": "PERSON",
+            "Text": "@tabishch",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.5553652048110962,
+            "Type": "TITLE",
+            "Text": "Olivier Awards",
+            "BeginOffset": 22,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.8279608488082886,
+            "Type": "ORGANIZATION",
+            "Text": "Broadway",
+            "BeginOffset": 42,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.56908118724823,
+            "Type": "TITLE",
+            "Text": "Groundhog Day",
+            "BeginOffset": 54,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9795490503311157,
+            "Type": "OTHER",
+            "Text": "#Tashify.com",
+            "BeginOffset": 91,
+            "EndOffset": 103
+        },
+        {
+            "Score": 0.9928692579269409,
+            "Type": "OTHER",
+            "Text": "#MavoTV.com",
+            "BeginOffset": 104,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.9998667240142822,
+            "Type": "OTHER",
+            "Text": "https://t.co/6JH5F9HsUy",
+            "BeginOffset": 116,
+            "EndOffset": 139
+        }
+    ]
+}

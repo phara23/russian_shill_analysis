@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.861324667930603,
+            "Type": "ORGANIZATION",
+            "Text": "@A5KEM",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.5184649229049683,
+            "Type": "ORGANIZATION",
+            "Text": "ASKEM",
+            "BeginOffset": 35,
+            "EndOffset": 40
+        },
+        {
+            "Score": 0.9729899168014526,
+            "Type": "ORGANIZATION",
+            "Text": "@A5KEM",
+            "BeginOffset": 41,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.999893307685852,
+            "Type": "OTHER",
+            "Text": "https://t.co/YRVTt2IkGt",
+            "BeginOffset": 63,
+            "EndOffset": 86
+        }
+    ]
+}

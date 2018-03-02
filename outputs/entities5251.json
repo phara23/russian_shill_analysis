@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.942832350730896,
+            "Type": "PERSON",
+            "Text": "@BrauseChristina",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.39773428440093994,
+            "Type": "PERSON",
+            "Text": "Wie",
+            "BeginOffset": 21,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.7144600749015808,
+            "Type": "PERSON",
+            "Text": "@welt",
+            "BeginOffset": 75,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.999409556388855,
+            "Type": "OTHER",
+            "Text": "https://t.co/lVpp2uNBrr",
+            "BeginOffset": 81,
+            "EndOffset": 104
+        }
+    ]
+}

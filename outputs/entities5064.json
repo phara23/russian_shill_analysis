@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9198442101478577,
+            "Type": "PERSON",
+            "Text": "@chillblueyes71",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.35124868154525757,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 20,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9460119605064392,
+            "Type": "ORGANIZATION",
+            "Text": "@We_Are_CruzCrew",
+            "BeginOffset": 23,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.3389809727668762,
+            "Type": "PERSON",
+            "Text": "#TedCruz",
+            "BeginOffset": 85,
+            "EndOffset": 93
+        },
+        {
+            "Score": 0.976787269115448,
+            "Type": "OTHER",
+            "Text": "https://t.co/DR5lA3J0OK",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        },
+        {
+            "Score": 0.43395519256591797,
+            "Type": "PERSON",
+            "Text": "#CruzCrew",
+            "BeginOffset": 120,
+            "EndOffset": 129
+        }
+    ]
+}

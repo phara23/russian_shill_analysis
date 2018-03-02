@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9102551341056824,
+            "Type": "PERSON",
+            "Text": "@SuperckookLarry",
+            "BeginOffset": 3,
+            "EndOffset": 19
+        },
+        {
+            "Score": 0.9988204836845398,
+            "Type": "PERSON",
+            "Text": "Hillary",
+            "BeginOffset": 81,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9956033229827881,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 101,
+            "EndOffset": 106
+        }
+    ]
+}

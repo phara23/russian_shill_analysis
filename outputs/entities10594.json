@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9104636311531067,
+            "Type": "PERSON",
+            "Text": "@morganheritage",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.9481604695320129,
+            "Type": "OTHER",
+            "Text": "https://t.co/bTLevVfIJV",
+            "BeginOffset": 77,
+            "EndOffset": 100
+        },
+        {
+            "Score": 0.7031710147857666,
+            "Type": "PERSON",
+            "Text": "@CTBCMusicGroup",
+            "BeginOffset": 101,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.9998595714569092,
+            "Type": "OTHER",
+            "Text": "https://t.co/0G5BaEkYdt",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

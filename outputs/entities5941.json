@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8810144662857056,
+            "Type": "PERSON",
+            "Text": "@IngrahamAngle",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8436035513877869,
+            "Type": "LOCATION",
+            "Text": "America",
+            "BeginOffset": 26,
+            "EndOffset": 33
+        },
+        {
+            "Score": 0.8775733113288879,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 35,
+            "EndOffset": 51
+        },
+        {
+            "Score": 0.9998822212219238,
+            "Type": "OTHER",
+            "Text": "https://t.co/bh1AM8pKOL",
+            "BeginOffset": 52,
+            "EndOffset": 75
+        }
+    ]
+}

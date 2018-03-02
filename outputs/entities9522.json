@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5190289616584778,
+            "Type": "ORGANIZATION",
+            "Text": "MT",
+            "BeginOffset": 0,
+            "EndOffset": 2
+        },
+        {
+            "Score": 0.7965707182884216,
+            "Type": "PERSON",
+            "Text": "@cruzgrassroots",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.7360839247703552,
+            "Type": "ORGANIZATION",
+            "Text": "Supreme Court",
+            "BeginOffset": 42,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.924349844455719,
+            "Type": "OTHER",
+            "Text": "https://t.co/kM08acR4NA",
+            "BeginOffset": 97,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.357082724571228,
+            "Type": "PERSON",
+            "Text": "#CruzCrew",
+            "BeginOffset": 121,
+            "EndOffset": 130
+        }
+    ]
+}

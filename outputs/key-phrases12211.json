@@ -1,0 +1,34 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9945255517959595,
+            "Text": "The pic",
+            "BeginOffset": 0,
+            "EndOffset": 7
+        },
+        {
+            "Score": 0.9981793761253357,
+            "Text": "my last tweet",
+            "BeginOffset": 11,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.6132072806358337,
+            "Text": "mind",
+            "BeginOffset": 28,
+            "EndOffset": 32
+        },
+        {
+            "Score": 0.9124412536621094,
+            "Text": "Rapunzel",
+            "BeginOffset": 57,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9923538565635681,
+            "Text": "Frozen",
+            "BeginOffset": 69,
+            "EndOffset": 75
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7349579930305481,
+            "Type": "PERSON",
+            "Text": "@mpcowen",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.7133356928825378,
+            "Type": "ORGANIZATION",
+            "Text": "Golden State University",
+            "BeginOffset": 13,
+            "EndOffset": 36
+        }
+    ]
+}

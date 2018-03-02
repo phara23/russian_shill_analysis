@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.836455762386322,
+            "Type": "PERSON",
+            "Text": "@TrumpSuperPAC",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9290499687194824,
+            "Type": "PERSON",
+            "Text": "@JermonMaxey",
+            "BeginOffset": 42,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9944320321083069,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 94,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.512833297252655,
+            "Type": "PERSON",
+            "Text": "#Hillary",
+            "BeginOffset": 126,
+            "EndOffset": 134
+        }
+    ]
+}

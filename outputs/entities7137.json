@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8350211977958679,
+            "Type": "PERSON",
+            "Text": "@realDailyWire",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7000916600227356,
+            "Type": "PERSON",
+            "Text": "Woman",
+            "BeginOffset": 19,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9871271848678589,
+            "Type": "QUANTITY",
+            "Text": "42",
+            "BeginOffset": 26,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9992306232452393,
+            "Type": "OTHER",
+            "Text": "https://t.co/jJMFfwCUrZ",
+            "BeginOffset": 88,
+            "EndOffset": 111
+        }
+    ]
+}

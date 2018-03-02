@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8997644186019897,
+            "Type": "PERSON",
+            "Text": "@HeerJeet",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9742854833602905,
+            "Type": "PERSON",
+            "Text": "Giuliani",
+            "BeginOffset": 23,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.7500972747802734,
+            "Type": "PERSON",
+            "Text": "Gingrich",
+            "BeginOffset": 58,
+            "EndOffset": 66
+        },
+        {
+            "Score": 0.9986715316772461,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 82,
+            "EndOffset": 87
+        },
+        {
+            "Score": 0.724695086479187,
+            "Type": "OTHER",
+            "Text": "Latinos",
+            "BeginOffset": 99,
+            "EndOffset": 106
+        }
+    ]
+}

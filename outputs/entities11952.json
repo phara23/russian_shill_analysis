@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8815779089927673,
+            "Type": "PERSON",
+            "Text": "@bluechipbiz",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.5105521082878113,
+            "Type": "TITLE",
+            "Text": "Nineteenth Amendment",
+            "BeginOffset": 50,
+            "EndOffset": 70
+        },
+        {
+            "Score": 0.8076790571212769,
+            "Type": "LOCATION",
+            "Text": "US",
+            "BeginOffset": 97,
+            "EndOffset": 99
+        },
+        {
+            "Score": 0.9349169731140137,
+            "Type": "OTHER",
+            "Text": "https://t.co/nVM1G96xo3",
+            "BeginOffset": 107,
+            "EndOffset": 130
+        },
+        {
+            "Score": 0.37892642617225647,
+            "Type": "ORGANIZATION",
+            "Text": "#PJNET",
+            "BeginOffset": 131,
+            "EndOffset": 137
+        }
+    ]
+}

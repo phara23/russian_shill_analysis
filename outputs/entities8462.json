@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8497251272201538,
+            "Type": "PERSON",
+            "Text": "@commonman2016",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9134408831596375,
+            "Type": "PERSON",
+            "Text": "@SenSchumer",
+            "BeginOffset": 19,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.674942672252655,
+            "Type": "PERSON",
+            "Text": "@SenateDems",
+            "BeginOffset": 78,
+            "EndOffset": 89
+        },
+        {
+            "Score": 0.7904725670814514,
+            "Type": "PERSON",
+            "Text": "@NRSC",
+            "BeginOffset": 90,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.9999791383743286,
+            "Type": "OTHER",
+            "Text": "https://t.co/ZRP5opZtUZ",
+            "BeginOffset": 96,
+            "EndOffset": 119
+        }
+    ]
+}

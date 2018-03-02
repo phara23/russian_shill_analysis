@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9045143127441406,
+            "Type": "PERSON",
+            "Text": "@FrancoOrdonez",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.6784041523933411,
+            "Type": "OTHER",
+            "Text": "Cubans",
+            "BeginOffset": 39,
+            "EndOffset": 45
+        },
+        {
+            "Score": 0.9192132353782654,
+            "Type": "LOCATION",
+            "Text": "U.S.",
+            "BeginOffset": 59,
+            "EndOffset": 63
+        },
+        {
+            "Score": 0.9106713533401489,
+            "Type": "OTHER",
+            "Text": "https://t.co/mdM5nKMbQU",
+            "BeginOffset": 99,
+            "EndOffset": 122
+        },
+        {
+            "Score": 0.40040311217308044,
+            "Type": "LOCATION",
+            "Text": "#cuba",
+            "BeginOffset": 123,
+            "EndOffset": 128
+        }
+    ]
+}

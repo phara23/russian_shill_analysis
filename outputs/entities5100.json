@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9996157288551331,
+            "Type": "PERSON",
+            "Text": "Hillary Clinton",
+            "BeginOffset": 0,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.9996398091316223,
+            "Type": "PERSON",
+            "Text": "Tim Kaine",
+            "BeginOffset": 17,
+            "EndOffset": 26
+        },
+        {
+            "Score": 0.9333075284957886,
+            "Type": "LOCATION",
+            "Text": "Miami",
+            "BeginOffset": 42,
+            "EndOffset": 47
+        },
+        {
+            "Score": 0.9831010103225708,
+            "Type": "OTHER",
+            "Text": "https://t.co/O3HZ7y34Tm",
+            "BeginOffset": 48,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9324575066566467,
+            "Type": "OTHER",
+            "Text": "https://t.co/1KPXto2HfW",
+            "BeginOffset": 74,
+            "EndOffset": 97
+        },
+        {
+            "Score": 0.9999552965164185,
+            "Type": "OTHER",
+            "Text": "https://t.co/H3CprADBrO",
+            "BeginOffset": 98,
+            "EndOffset": 121
+        }
+    ]
+}

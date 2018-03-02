@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9140822887420654,
+            "Type": "PERSON",
+            "Text": "@shortwave8669",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.8695566654205322,
+            "Type": "PERSON",
+            "Text": "David Cay",
+            "BeginOffset": 32,
+            "EndOffset": 41
+        },
+        {
+            "Score": 0.49548840522766113,
+            "Type": "PERSON",
+            "Text": "Johnston",
+            "BeginOffset": 42,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.997365415096283,
+            "Type": "PERSON",
+            "Text": "Donald Trump",
+            "BeginOffset": 76,
+            "EndOffset": 88
+        },
+        {
+            "Score": 0.9999284744262695,
+            "Type": "OTHER",
+            "Text": "https://t.co/rcFFYI4k9w",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        }
+    ]
+}

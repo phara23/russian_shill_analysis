@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7299279570579529,
+            "Type": "PERSON",
+            "Text": "@Right2Liberty",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9888272285461426,
+            "Type": "ORGANIZATION",
+            "Text": "CIA",
+            "BeginOffset": 19,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.9983041286468506,
+            "Type": "PERSON",
+            "Text": "Trump",
+            "BeginOffset": 45,
+            "EndOffset": 50
+        },
+        {
+            "Score": 0.7143001556396484,
+            "Type": "PERSON",
+            "Text": "Hillary Donor",
+            "BeginOffset": 56,
+            "EndOffset": 69
+        },
+        {
+            "Score": 0.9999526739120483,
+            "Type": "OTHER",
+            "Text": "https://t.co/Tv1Y3M3EUN",
+            "BeginOffset": 70,
+            "EndOffset": 93
+        }
+    ]
+}

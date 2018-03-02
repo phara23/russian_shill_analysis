@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8674209117889404,
+            "Type": "PERSON",
+            "Text": "@ThePatriot143",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.99970942735672,
+            "Type": "PERSON",
+            "Text": "Joe Biden",
+            "BeginOffset": 19,
+            "EndOffset": 28
+        },
+        {
+            "Score": 0.9466056227684021,
+            "Type": "PERSON",
+            "Text": "Pelosi",
+            "BeginOffset": 58,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.9967684745788574,
+            "Type": "PERSON",
+            "Text": "Schumer",
+            "BeginOffset": 66,
+            "EndOffset": 73
+        },
+        {
+            "Score": 0.9993407130241394,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 75,
+            "EndOffset": 80
+        },
+        {
+            "Score": 0.9959074258804321,
+            "Type": "PERSON",
+            "Text": "Biden",
+            "BeginOffset": 85,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.9847270250320435,
+            "Type": "QUANTITY",
+            "Text": "68 Years",
+            "BeginOffset": 103,
+            "EndOffset": 111
+        },
+        {
+            "Score": 0.9924059510231018,
+            "Type": "OTHER",
+            "Text": "https://t.co/j1eQCV",
+            "BeginOffset": 120,
+            "EndOffset": 139
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8624457120895386,
+            "Type": "LOCATION",
+            "Text": "Penn Station",
+            "BeginOffset": 52,
+            "EndOffset": 64
+        },
+        {
+            "Score": 0.975468099117279,
+            "Type": "PERSON",
+            "Text": "Akram Joudeh",
+            "BeginOffset": 66,
+            "EndOffset": 78
+        },
+        {
+            "Score": 0.7295650243759155,
+            "Type": "QUANTITY",
+            "Text": "15",
+            "BeginOffset": 83,
+            "EndOffset": 85
+        },
+        {
+            "Score": 0.9998433589935303,
+            "Type": "OTHER",
+            "Text": "https://t.co/5YyivmIZu2",
+            "BeginOffset": 106,
+            "EndOffset": 129
+        }
+    ]
+}

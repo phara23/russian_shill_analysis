@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7735056281089783,
+            "Type": "PERSON",
+            "Text": "@RitzyBacon2",
+            "BeginOffset": 3,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.5834625959396362,
+            "Type": "PERSON",
+            "Text": "SYRIAN MUSLIM",
+            "BeginOffset": 17,
+            "EndOffset": 30
+        },
+        {
+            "Score": 0.7614688277244568,
+            "Type": "LOCATION",
+            "Text": "#Canadian",
+            "BeginOffset": 73,
+            "EndOffset": 82
+        },
+        {
+            "Score": 0.9819146990776062,
+            "Type": "OTHER",
+            "Text": "https://t.co/gmgYPto1Xk",
+            "BeginOffset": 93,
+            "EndOffset": 116
+        },
+        {
+            "Score": 0.3999003767967224,
+            "Type": "ORGANIZATION",
+            "Text": "#canpoli",
+            "BeginOffset": 117,
+            "EndOffset": 125
+        },
+        {
+            "Score": 0.48702600598335266,
+            "Type": "ORGANIZATION",
+            "Text": "#MAGA",
+            "BeginOffset": 126,
+            "EndOffset": 131
+        }
+    ]
+}

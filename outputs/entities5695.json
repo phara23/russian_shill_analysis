@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7664650678634644,
+            "Type": "PERSON",
+            "Text": "@cspan",
+            "BeginOffset": 3,
+            "EndOffset": 9
+        },
+        {
+            "Score": 0.9400283694267273,
+            "Type": "PERSON",
+            "Text": "@SpeakerRyan",
+            "BeginOffset": 12,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9821585416793823,
+            "Type": "LOCATION",
+            "Text": "New York",
+            "BeginOffset": 52,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.8819182515144348,
+            "Type": "OTHER",
+            "Text": "https://t.co/VwxKuODRac",
+            "BeginOffset": 78,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.9999910593032837,
+            "Type": "OTHER",
+            "Text": "https://t.co/YW3X7BN9mU",
+            "BeginOffset": 102,
+            "EndOffset": 125
+        }
+    ]
+}

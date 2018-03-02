@@ -1,0 +1,22 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.9994239807128906,
+            "Text": "the customer",
+            "BeginOffset": 36,
+            "EndOffset": 48
+        },
+        {
+            "Score": 0.9982668161392212,
+            "Text": "their drink",
+            "BeginOffset": 54,
+            "EndOffset": 65
+        },
+        {
+            "Score": 0.9296781420707703,
+            "Text": "diet",
+            "BeginOffset": 69,
+            "EndOffset": 73
+        }
+    ]
+}

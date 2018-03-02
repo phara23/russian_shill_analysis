@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.863920271396637,
+            "Type": "PERSON",
+            "Text": "@dbongino",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9758660793304443,
+            "Type": "DATE",
+            "Text": "today",
+            "BeginOffset": 56,
+            "EndOffset": 61
+        },
+        {
+            "Score": 0.8143141865730286,
+            "Type": "PERSON",
+            "Text": "Flynn",
+            "BeginOffset": 108,
+            "EndOffset": 113
+        },
+        {
+            "Score": 0.9953001737594604,
+            "Type": "PERSON",
+            "Text": "Flynn",
+            "BeginOffset": 130,
+            "EndOffset": 135
+        }
+    ]
+}

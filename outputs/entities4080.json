@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9150801301002502,
+            "Type": "PERSON",
+            "Text": "@SteinekeCDU",
+            "BeginOffset": 0,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9836689233779907,
+            "Type": "PERSON",
+            "Text": "Frau Merkel",
+            "BeginOffset": 59,
+            "EndOffset": 70
+        }
+    ]
+}

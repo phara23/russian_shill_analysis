@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8702030777931213,
+            "Type": "PERSON",
+            "Text": "@TodayCleveland",
+            "BeginOffset": 3,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8935033082962036,
+            "Type": "PERSON",
+            "Text": "Gov. John Kasich",
+            "BeginOffset": 45,
+            "EndOffset": 61
+        }
+    ]
+}

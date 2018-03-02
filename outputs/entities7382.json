@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.5719953775405884,
+            "Type": "PERSON",
+            "Text": "@BonnieM",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.4386003017425537,
+            "Type": "DATE",
+            "Text": "1015",
+            "BeginOffset": 11,
+            "EndOffset": 15
+        },
+        {
+            "Score": 0.5524749755859375,
+            "Type": "QUANTITY",
+            "Text": "1 Cor",
+            "BeginOffset": 17,
+            "EndOffset": 22
+        },
+        {
+            "Score": 0.8507335782051086,
+            "Type": "QUANTITY",
+            "Text": "15:52b",
+            "BeginOffset": 23,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.46224454045295715,
+            "Type": "PERSON",
+            "Text": "#Jesus",
+            "BeginOffset": 128,
+            "EndOffset": 134
+        }
+    ]
+}

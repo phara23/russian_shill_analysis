@@ -1,0 +1,46 @@
+{
+    "Entities": [
+        {
+            "Score": 0.8557864427566528,
+            "Type": "PERSON",
+            "Text": "@gntlman",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.5251250863075256,
+            "Type": "ORGANIZATION",
+            "Text": "Patriots",
+            "BeginOffset": 13,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9711480736732483,
+            "Type": "PERSON",
+            "Text": "Obama",
+            "BeginOffset": 30,
+            "EndOffset": 35
+        },
+        {
+            "Score": 0.8323838710784912,
+            "Type": "ORGANIZATION",
+            "Text": "Nevada Land Grab",
+            "BeginOffset": 38,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.6378463506698608,
+            "Type": "PERSON",
+            "Text": "Bundy Ranch",
+            "BeginOffset": 60,
+            "EndOffset": 71
+        },
+        {
+            "Score": 0.9999467134475708,
+            "Type": "OTHER",
+            "Text": "https://t.co/3S0Kt2rWJM",
+            "BeginOffset": 90,
+            "EndOffset": 113
+        }
+    ]
+}

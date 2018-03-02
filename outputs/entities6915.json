@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.7617496252059937,
+            "Type": "PERSON",
+            "Text": "@thedailybeast",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.7826657891273499,
+            "Type": "QUANTITY",
+            "Text": "22 Alabama counties",
+            "BeginOffset": 49,
+            "EndOffset": 68
+        },
+        {
+            "Score": 0.9151934385299683,
+            "Type": "OTHER",
+            "Text": "http://t.co/0MFiJBKuK5",
+            "BeginOffset": 98,
+            "EndOffset": 120
+        },
+        {
+            "Score": 0.9626736044883728,
+            "Type": "OTHER",
+            "Text": "http://t.co/gsy00D",
+            "BeginOffset": 121,
+            "EndOffset": 139
+        }
+    ]
+}

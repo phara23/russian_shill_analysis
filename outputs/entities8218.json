@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9421594738960266,
+            "Type": "PERSON",
+            "Text": "@RonWyden",
+            "BeginOffset": 3,
+            "EndOffset": 12
+        },
+        {
+            "Score": 0.9661581516265869,
+            "Type": "PERSON",
+            "Text": "@realDonaldTrump",
+            "BeginOffset": 40,
+            "EndOffset": 56
+        }
+    ]
+}

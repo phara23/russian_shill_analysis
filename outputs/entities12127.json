@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9694098234176636,
+            "Type": "PERSON",
+            "Text": "@IvankaTrump",
+            "BeginOffset": 1,
+            "EndOffset": 13
+        },
+        {
+            "Score": 0.999889612197876,
+            "Type": "OTHER",
+            "Text": "https://t.co/5XLmZf0Evp",
+            "BeginOffset": 103,
+            "EndOffset": 126
+        }
+    ]
+}

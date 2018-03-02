@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.49913325905799866,
+            "Type": "PERSON",
+            "Text": "#ChrisMintz",
+            "BeginOffset": 10,
+            "EndOffset": 21
+        },
+        {
+            "Score": 0.9624812006950378,
+            "Type": "QUANTITY",
+            "Text": "30-year-old",
+            "BeginOffset": 25,
+            "EndOffset": 36
+        },
+        {
+            "Score": 0.7020219564437866,
+            "Type": "LOCATION",
+            "Text": "Rosenburg",
+            "BeginOffset": 89,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.9997335076332092,
+            "Type": "OTHER",
+            "Text": "https://t.co/o0mwHrIVnV",
+            "BeginOffset": 117,
+            "EndOffset": 140
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9197039008140564,
+            "Type": "PERSON",
+            "Text": "@hobbsislander",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.9052854776382446,
+            "Type": "DATE",
+            "Text": "2008",
+            "BeginOffset": 128,
+            "EndOffset": 132
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9530131816864014,
+            "Type": "PERSON",
+            "Text": "@josephjett",
+            "BeginOffset": 3,
+            "EndOffset": 14
+        },
+        {
+            "Score": 0.9881800413131714,
+            "Type": "ORGANIZATION",
+            "Text": "West Corp",
+            "BeginOffset": 22,
+            "EndOffset": 31
+        },
+        {
+            "Score": 0.9138312339782715,
+            "Type": "QUANTITY",
+            "Text": "00 mln",
+            "BeginOffset": 54,
+            "EndOffset": 60
+        },
+        {
+            "Score": 0.918832004070282,
+            "Type": "ORGANIZATION",
+            "Text": "West Corporation",
+            "BeginOffset": 85,
+            "EndOffset": 101
+        },
+        {
+            "Score": 0.801045835018158,
+            "Type": "OTHER",
+            "Text": "https://t.co/Y95u7xobzq",
+            "BeginOffset": 111,
+            "EndOffset": 134
+        }
+    ]
+}

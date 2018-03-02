@@ -1,0 +1,25 @@
+{
+    "Entities": [
+        {
+            "Score": 0.954054594039917,
+            "Type": "PERSON",
+            "Text": "@BabyJannyMeow",
+            "BeginOffset": 3,
+            "EndOffset": 17
+        },
+        {
+            "Score": 0.981286346912384,
+            "Type": "PERSON",
+            "Text": "Harry",
+            "BeginOffset": 19,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9528621435165405,
+            "Type": "PERSON",
+            "Text": "Rickey Hendersons",
+            "BeginOffset": 33,
+            "EndOffset": 50
+        }
+    ]
+}

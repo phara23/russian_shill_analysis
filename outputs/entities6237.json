@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Score": 0.667279839515686,
+            "Type": "PERSON",
+            "Text": "@wolfpsy",
+            "BeginOffset": 3,
+            "EndOffset": 11
+        },
+        {
+            "Score": 0.8914883732795715,
+            "Type": "PERSON",
+            "Text": "@SidSidwebb",
+            "BeginOffset": 13,
+            "EndOffset": 24
+        },
+        {
+            "Score": 0.9630651473999023,
+            "Type": "PERSON",
+            "Text": "@RacySicilian",
+            "BeginOffset": 25,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9883567690849304,
+            "Type": "ORGANIZATION",
+            "Text": "FBI",
+            "BeginOffset": 39,
+            "EndOffset": 42
+        },
+        {
+            "Score": 0.9852235317230225,
+            "Type": "PERSON",
+            "Text": "Comey",
+            "BeginOffset": 54,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.9836286902427673,
+            "Type": "ORGANIZATION",
+            "Text": "HSBC",
+            "BeginOffset": 63,
+            "EndOffset": 67
+        },
+        {
+            "Score": 0.9665700793266296,
+            "Type": "ORGANIZATION",
+            "Text": "Clinton Foundation",
+            "BeginOffset": 97,
+            "EndOffset": 115
+        },
+        {
+            "Score": 0.9678704738616943,
+            "Type": "OTHER",
+            "Text": "https://t.co/vO5magS7",
+            "BeginOffset": 118,
+            "EndOffset": 139
+        }
+    ]
+}

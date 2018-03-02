@@ -1,0 +1,28 @@
+{
+    "KeyPhrases": [
+        {
+            "Score": 0.956733763217926,
+            "Text": "Senate",
+            "BeginOffset": 0,
+            "EndOffset": 6
+        },
+        {
+            "Score": 0.9914889931678772,
+            "Text": "Obama",
+            "BeginOffset": 34,
+            "EndOffset": 39
+        },
+        {
+            "Score": 0.9988951086997986,
+            "Text": "’s veto",
+            "BeginOffset": 39,
+            "EndOffset": 46
+        },
+        {
+            "Score": 0.9484936594963074,
+            "Text": "9/11 bill",
+            "BeginOffset": 50,
+            "EndOffset": 59
+        }
+    ]
+}
